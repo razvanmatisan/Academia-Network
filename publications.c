@@ -1,5 +1,8 @@
-#include "publications.h"
+#include <stdio.h>
 #include <stdint.h>
+#include "publications.h"
+
+#define MAX_LEN 100
 
 struct publications_data {
     char *title;
@@ -18,9 +21,16 @@ struct publications_data {
 };
 
 PublData* init_publ_data(void) {
-    PublData *data = calloc(1, sizoef(PublData));
+    PublData *data = malloc(sizeof(PublData));
     DIE(data == NULL, "calloc - data");
-    
+
+    /*
+    * Allocate char arrays with MAX_LEN size.
+    * If size of input exceeds allocated size, we will reallocate.
+    */
+
+   
+
     return data;
 }
 
