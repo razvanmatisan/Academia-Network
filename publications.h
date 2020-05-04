@@ -27,6 +27,14 @@
 struct publications_data;
 typedef struct publications_data PublData;
 
+/*
+ * Will contain all data related to authors (name, id, organisation)
+ */
+struct author;
+typedef struct author Author;
+
+
+
 /**
  * Initialises all the fields contained in the PublData structure.
  * Also allocates memory for the structure itself.
