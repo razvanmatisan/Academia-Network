@@ -1,12 +1,27 @@
 #include "publications.h"
+#include <stdint.h>
 
 struct publications_data {
-    /* TODO: add whichever data you need here */
+    char *title;
+    char *venue;
+    int year;
+    char **author_names;
+    int64_t *author_ids;
+    char **institutions;
+    int num_authors;
+    char **fields;
+    int num_fields;
+    int64_t id;
+    int64_t *references;
+    int num_refs;
+
 };
 
 PublData* init_publ_data(void) {
-    /* TODO: implement init_publ_data */
-    return NULL;
+    PublData *data = calloc(1, sizoef(PublData));
+    DIE(data == NULL, "calloc - data");
+    
+    return data;
 }
 
 void destroy_publ_data(PublData* data) {
