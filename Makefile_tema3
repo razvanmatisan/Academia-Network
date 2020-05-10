@@ -15,13 +15,13 @@ LIBS=-lm
 build: tema3
 
 tema3: main.o runner.o $(PARSER).o $(PUBL).o
-	$(CC) $^ -o $@ -m32
+	$(CC) $^ -o $@ -m32 $(LIBS)
 
 main.o: $(CHECKER)/main.c
 	$(CC) $(CFLAGS) $(OPT_CFLGAS) $(INCLUDES) $^ -c
 
 $(RUNNER).o: $(CHECKER)/$(RUNNER).c $(CHECKER)/$(RUNNER).h
-	$(CC) $(CFLAGS) $(OPT_CFLGAS) $(INCLUDES) $(LIBS) $^ -c
+	$(CC) $(CFLAGS) $(OPT_CFLGAS) $(INCLUDES) $^ -c
 
 $(PARSER).o: $(PARSER)/$(PARSER).c $(PARSER)/$(PARSER).h
 	$(CC) $(CFLAGS) $(OPT_CFLGAS) $^ -c

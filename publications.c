@@ -1,12 +1,13 @@
 #include <stdio.h>
+#include <string.h>
 #include <stdint.h>
 #include "publications.h"
 
 // Made by Radu
-#define MAX_REFERENCES 100
-#define MAX_LEN 100
-#define MAX_AUTHORS 50
-#define MAX_FIELDS 25
+#define MAX_REFERENCES 200
+#define MAX_LEN 200
+#define MAX_AUTHORS 100
+#define MAX_FIELDS 50
 
 struct author {
     char *name;
@@ -121,9 +122,9 @@ void add_paper(PublData* data, const char* title, const char* venue,
     }
 
     data->id = id;
-    data->references = references;
     data->num_refs = num_refs;
-    
+
+    data->references = references;
 }
 
 char* get_oldest_influence(PublData* data, const int64_t id_paper) {
