@@ -1,0 +1,49 @@
+{
+    "id": "1558940269",
+    "title": "Mooop - A Hybrid Integration of OWL and Java",
+    "venue": "conference on advanced information systems engineering",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Christoph Frenzel",
+            "id": "2054847333",
+            "org": "University of Augsburg"
+        },
+        {
+            "name": "Bijan Parsia",
+            "id": "1862760335",
+            "org": "The University of Manchester"
+        },
+        {
+            "name": "Ulrike Sattler",
+            "id": "2029053518",
+            "org": "The University of Manchester"
+        },
+        {
+            "name": "Bernhard Bauer",
+            "id": "2159731087",
+            "org": "University of Augsburg"
+        }
+    ],
+    "fields_of_study": [
+        "OWL-S",
+        "Ontology-based data integration",
+        "Java API for XML-based RPC",
+        "Java",
+        "Database",
+        "Ontology (information science)",
+        "Java annotation",
+        "Programming language",
+        "Computer science",
+        "Ontology language",
+        "Java Modeling Language"
+    ],
+    "references": [
+        "1581855825",
+        "1596552319",
+        "1644882639",
+        "1976081865",
+        "1990890881",
+        "2170843621"
+    ]
+}

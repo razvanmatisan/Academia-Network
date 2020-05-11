@@ -1,0 +1,30 @@
+{
+    "id": "1554205565",
+    "title": "Incidence calculus: A mechanism for probabilistic reasoning",
+    "venue": "Journal of Automated Reasoning",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Alan Bundy",
+            "id": "2000084407",
+            "org": "Department of Artificial Intelligence, University of Edinburgh, Edinburgh, Scotland"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Mathematics",
+        "Probabilistic CTL",
+        "Inference",
+        "Algorithm",
+        "Situation calculus",
+        "Probabilistic argumentation",
+        "Probabilistic relevance model",
+        "Probabilistic logic",
+        "Probabilistic logic network",
+        "Proof calculus"
+    ],
+    "references": [
+        "2018755158",
+        "2057002094"
+    ]
+}

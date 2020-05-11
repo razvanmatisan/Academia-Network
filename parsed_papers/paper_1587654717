@@ -1,0 +1,50 @@
+{
+    "id": "1587654717",
+    "title": "Camera-Based virtual environment interaction on mobile devices",
+    "venue": "international symposium on computer and information sciences",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Tolga K. Capin",
+            "id": "2177730716",
+            "org": "Bilkent University#TAB#"
+        },
+        {
+            "name": "Antonio Haro",
+            "id": "2656868319",
+            "org": "D4D Technologies#TAB#"
+        },
+        {
+            "name": "Vidya Setlur",
+            "id": "1629802131",
+            "org": "Nokia#TAB#"
+        },
+        {
+            "name": "Stephen Wilkinson",
+            "id": "2792805041",
+            "org": "Texas Instruments#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "User experience design",
+        "Smart camera",
+        "2D computer graphics",
+        "Computer science",
+        "Image sensor",
+        "Mobile device",
+        "Computer vision",
+        "Virtual machine",
+        "Mobile computing",
+        "User interface",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1540817790",
+        "1545263691",
+        "1594777626",
+        "1997191682",
+        "2091017619",
+        "2125353114",
+        "2144761589"
+    ]
+}

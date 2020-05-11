@@ -1,0 +1,30 @@
+{
+    "id": "1532865039",
+    "title": "Using Last Fixed Points to Characterize Formal Computations of Non-Deterministic Equations",
+    "venue": "Proceedings of the International Colloquium on Formalization of Programming Concepts",
+    "year": 1981,
+    "authors": [
+        {
+            "name": "Axel Poigne",
+            "id": "2642582339",
+            "org": "Universitat Dortmund"
+        }
+    ],
+    "fields_of_study": [
+        "Computation",
+        "Discrete mathematics",
+        "Mathematical analysis",
+        "Forgetful functor",
+        "Commutative property",
+        "Fixed point",
+        "Fixed-point iteration",
+        "Idempotence",
+        "Least fixed point",
+        "Mathematics"
+    ],
+    "references": [
+        "1487230569",
+        "1532071491",
+        "1982952982"
+    ]
+}

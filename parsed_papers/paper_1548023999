@@ -1,0 +1,36 @@
+{
+    "id": "1548023999",
+    "title": "Preventing SPA/DPA in ECC Systems Using the Jacobi Form",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Pierre-Yvan Liardet",
+            "id": "2012640772",
+            "org": "STMicroelectronics"
+        },
+        {
+            "name": "Nigel P. Smart",
+            "id": "2110748698",
+            "org": "University of Bristol"
+        }
+    ],
+    "fields_of_study": [
+        "Arithmetic",
+        "Multiplication",
+        "Elliptic curve",
+        "Twisted Edwards curve",
+        "Jacobian curve",
+        "Power analysis",
+        "Jacobi form",
+        "Elliptic curve point multiplication",
+        "Cryptography",
+        "Algorithm",
+        "Computer science"
+    ],
+    "references": [
+        "1520399166",
+        "1539482743",
+        "2154909745"
+    ]
+}

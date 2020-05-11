@@ -1,0 +1,49 @@
+{
+    "id": "1489659784",
+    "title": "Leader election using loneliness detection",
+    "venue": "international symposium on distributed computing",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Mohsen Ghaffari",
+            "id": "2136730206",
+            "org": "CSAIL, MIT, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Nancy A. Lynch",
+            "id": "2180706138",
+            "org": "CSAIL, MIT, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Srikanth Sastry",
+            "id": "2160816351",
+            "org": "CSAIL, MIT, Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Leader election",
+        "Statistics",
+        "Wireless network",
+        "Safety property",
+        "Probability of error",
+        "Distributed computing",
+        "Collision detection",
+        "Probabilistic logic",
+        "Log-log plot",
+        "Mathematics"
+    ],
+    "references": [
+        "1592396482",
+        "1592796664",
+        "1594720433",
+        "1766082731",
+        "1850900101",
+        "2016659452",
+        "2033487809",
+        "2039953096",
+        "2070888389",
+        "2116736083",
+        "2148085206",
+        "2667052534"
+    ]
+}

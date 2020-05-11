@@ -1,0 +1,39 @@
+{
+    "id": "1572799011",
+    "title": "A Semi-automatic Wizard of Oz Technique for Let'sFly Spoken Dialogue System",
+    "venue": "text speech and dialogue",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Alexey Karpov",
+            "id": "2084578442",
+            "org": "St. Petersburg Institute for Informatics and Automation of RAS SPIIRAS, St. Petersburg, Russia#TAB#"
+        },
+        {
+            "name": "Andrey Ronzhin",
+            "id": "2211665909",
+            "org": "St. Petersburg Institute for Informatics and Automation of RAS SPIIRAS, St. Petersburg, Russia#TAB#"
+        },
+        {
+            "name": "Anastasia Leontyeva",
+            "id": "53017756",
+            "org": "St. Petersburg Institute for Informatics and Automation of RAS SPIIRAS, St. Petersburg, Russia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Telephone line",
+        "Natural language processing",
+        "Artificial intelligence",
+        "Wizard of Oz experiment",
+        "Speech recognition",
+        "Computer science",
+        "Keyword spotting",
+        "Experimental data"
+    ],
+    "references": [
+        "80526705",
+        "1508665521",
+        "1999184850",
+        "2092795326"
+    ]
+}

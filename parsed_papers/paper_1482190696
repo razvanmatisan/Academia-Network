@@ -1,0 +1,27 @@
+{
+    "id": "1482190696",
+    "title": "Factory Scheduling Using Finite Domains",
+    "venue": "LPSS '92 Proceedings of the Second International Logic Programming Summer School on Logic Programming in Action",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Owen V. Evans",
+            "id": "2613054414",
+            "org": "International Computers Ltd."
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Procedural programming",
+        "Mathematical optimization",
+        "Repertoire",
+        "Scheduling (computing)",
+        "Factory",
+        "Gantt chart",
+        "Computer science",
+        "Human resources"
+    ],
+    "references": [
+        "1988095917"
+    ]
+}

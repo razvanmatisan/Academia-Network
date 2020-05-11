@@ -1,0 +1,26 @@
+{
+    "id": "123676262",
+    "title": "Concepts in conceptual clustering",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Robert E. Stepp",
+            "id": "2131634145",
+            "org": "Coordinated Science Laboratory, University of Illinois at Urbana-Champaign, Urbana, IL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Cluster analysis",
+        "Artificial intelligence",
+        "Conceptual model (computer science)",
+        "Computer science",
+        "Sorting",
+        "Conceptual clustering"
+    ],
+    "references": [
+        "1564805656",
+        "2000480149"
+    ]
+}

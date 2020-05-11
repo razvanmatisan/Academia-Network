@@ -1,0 +1,44 @@
+{
+    "id": "1561572740",
+    "title": "Statistical Learning Theory: Models, Concepts, and Results",
+    "venue": "arXiv: Machine Learning",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "U von Luxburg",
+            "id": "387298597",
+            "org": "Research Group Machines Learning Theory, Max Planck Institute for Intelligent Systems, Max Planck Society"
+        },
+        {
+            "name": "Bernhard Scholkopf",
+            "id": "297432538",
+            "org": "Dept. Empirical Inference, Max Planck Institute for Intelligent Systems, Max Planck Society"
+        }
+    ],
+    "fields_of_study": [
+        "Empirical risk minimization",
+        "Machine learning",
+        "Artificial intelligence",
+        "Mathematics",
+        "Sample exclusion dimension",
+        "Active learning (machine learning)",
+        "Statistical theory",
+        "Algorithmic learning theory",
+        "Statistical learning theory",
+        "Computational learning theory",
+        "Stability (learning theory)"
+    ],
+    "references": [
+        "1485550703",
+        "1520252399",
+        "1663973292",
+        "1971361630",
+        "2021440127",
+        "2106491486",
+        "2109445534",
+        "2111296615",
+        "2135498906",
+        "2148603752",
+        "2151554678"
+    ]
+}

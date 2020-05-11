@@ -1,0 +1,30 @@
+{
+    "id": "1509260931",
+    "title": "Scheduling the CB1000 nanoproteomic analysis system with Python, Tailor, and Minion",
+    "venue": "principles and practice of constraint programming",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Andrew Loewenstern",
+            "id": "2283967262",
+            "org": "Andrew Loewenstern Consulting#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Modeling language",
+        "Visualization",
+        "Computer science",
+        "Scheduling (computing)",
+        "Python (programming language)",
+        "Theoretical computer science",
+        "Constraint satisfaction problem",
+        "Software",
+        "Solver",
+        "Minion"
+    ],
+    "references": [
+        "1487585415",
+        "1598380601",
+        "2016030731"
+    ]
+}

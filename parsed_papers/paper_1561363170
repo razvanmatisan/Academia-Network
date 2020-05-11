@@ -1,0 +1,33 @@
+{
+    "id": "1561363170",
+    "title": "Trivium: a stream cipher construction inspired by block cipher design principles",
+    "venue": "international conference on information security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Christophe De Canniere",
+            "id": "2038466276",
+            "org": "IAIK Krypto Group, Graz University of Technology, Graz, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Transposition cipher",
+        "Two-square cipher",
+        "Rail fence cipher",
+        "Stream cipher attack",
+        "Running key cipher",
+        "Affine cipher",
+        "Stream cipher",
+        "Theoretical computer science",
+        "CBC-MAC",
+        "Computer science"
+    ],
+    "references": [
+        "1556212265",
+        "1964723977",
+        "1974991315",
+        "2136330164",
+        "2802808712"
+    ]
+}

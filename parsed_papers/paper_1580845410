@@ -1,0 +1,27 @@
+{
+    "id": "1580845410",
+    "title": "A project based approach to teaching parallel systems",
+    "venue": "international conference on computational science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Alistair P. Rendell",
+            "id": "730261136",
+            "org": "Department of Computer Science, Australian National University Canberra, ACT, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Message passing",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Computational science"
+    ],
+    "references": [
+        "1572016165",
+        "1751524189",
+        "2030907583",
+        "2112966019"
+    ]
+}

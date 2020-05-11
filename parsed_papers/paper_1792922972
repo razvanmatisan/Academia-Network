@@ -1,0 +1,43 @@
+{
+    "id": "1792922972",
+    "title": "Software Engineering Methods for Intelligent Manufacturing Systems: A Comparative Survey",
+    "venue": "international conference on industrial applications of holonic and multi agent systems",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Adriana Giret",
+            "id": "2142495341",
+            "org": "Dpto. Sistemas Informaticos y Computacion, Universidad Politecnica de Valencia, Valencia, Spain#TAB#"
+        },
+        {
+            "name": "Damien Trentesaux",
+            "id": "2032043778",
+            "org": "LAMIH UMR CNRS 8201, University of Valenciennes and Hainaut-Cambresis, Valenciennes, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Process development execution system",
+        "Organizational structure",
+        "Computer-integrated manufacturing",
+        "Complex system",
+        "Integrated Computer-Aided Manufacturing",
+        "Intelligent decision support system",
+        "Engineering",
+        "Systems engineering"
+    ],
+    "references": [
+        "169799100",
+        "283458476",
+        "1567788991",
+        "1978385578",
+        "1979510860",
+        "1996900395",
+        "2013298510",
+        "2083866010",
+        "2086225422",
+        "2158055381",
+        "2229556422",
+        "2243240164",
+        "2249958403"
+    ]
+}

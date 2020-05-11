@@ -1,0 +1,29 @@
+{
+    "id": "1488988140",
+    "title": "Knowledge representation in CGLF, CGIF, KIF, Frame-CG and Formalized-English",
+    "venue": "international conference on conceptual structures",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Philippe Martin",
+            "id": "2142670406",
+            "org": "Griffith University"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge Interchange Format",
+        "Knowledge engineering",
+        "Notation",
+        "Knowledge representation and reasoning",
+        "Natural language processing",
+        "Inference engine",
+        "Predicate logic",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1483438011",
+        "1605464573",
+        "2158847611"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1537231276",
+    "title": "MAFIA: A Multicast Management Solution for Access Control and Traffic Filtering",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Kevin C. Almeroth",
+            "id": "321516573",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "IP multicast",
+        "Protocol Independent Multicast",
+        "Multicast",
+        "Inter-domain",
+        "Xcast",
+        "Distributed computing",
+        "Computer network",
+        "Pragmatic General Multicast",
+        "Distance Vector Multicast Routing Protocol",
+        "Source-specific multicast",
+        "Computer science"
+    ],
+    "references": [
+        "1508813780",
+        "1680921879",
+        "1969384232",
+        "2071470557",
+        "2126703640",
+        "2137559158",
+        "2143545186"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "144406747",
+    "title": "Generation in a natural language interface",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1983,
+    "authors": [
+        {
+            "name": "Paul S. Jacobs",
+            "id": "2598983918",
+            "org": "Division of Computer Science, Department of EECS, University of California, Berkeley, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parsing",
+        "Universal Networking Language",
+        "Question answering",
+        "Natural language",
+        "Natural language programming",
+        "Natural language processing",
+        "Computer science",
+        "Interface description language",
+        "Vocabulary",
+        "Programming language",
+        "Natural language user interface",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1995504560"
+    ]
+}

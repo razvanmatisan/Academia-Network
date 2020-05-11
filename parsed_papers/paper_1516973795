@@ -1,0 +1,56 @@
+{
+    "id": "1516973795",
+    "title": "Latent Attractors: A General Paradigm for Context-Dependent Neural Computation",
+    "venue": "Trends in Neural Computation",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Simona Doboli",
+            "id": "43061072",
+            "org": "Hofstra University"
+        },
+        {
+            "name": "Ali A. Minai",
+            "id": "2002969174",
+            "org": "University of Cincinnati"
+        }
+    ],
+    "fields_of_study": [
+        "Types of artificial neural networks",
+        "Time delay neural network",
+        "Artificial neural network",
+        "Models of neural computation",
+        "Nervous system network models",
+        "Sequence learning",
+        "Deep learning",
+        "Recurrent neural network",
+        "Machine learning",
+        "Artificial intelligence",
+        "Psychology"
+    ],
+    "references": [
+        "1491664005",
+        "1974587072",
+        "1982370770",
+        "2001821971",
+        "2016589492",
+        "2052323792",
+        "2064675550",
+        "2089217417",
+        "2095425517",
+        "2099963127",
+        "2107878631",
+        "2110485445",
+        "2111534506",
+        "2114057548",
+        "2119796132",
+        "2128499899",
+        "2130875964",
+        "2140701212",
+        "2143503258",
+        "2148850025",
+        "2158007574",
+        "2165088420",
+        "2731782018"
+    ]
+}

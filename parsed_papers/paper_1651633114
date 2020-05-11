@@ -1,0 +1,43 @@
+{
+    "id": "1651633114",
+    "title": "New Differential Fault Analysis on AES Key Schedule: Two Faults Are Enough",
+    "venue": "smart card research and advanced application conference",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Chong Hee Kim",
+            "id": "2223378643",
+            "org": "UCL Crypto Group, Universite Catholique de Louvain, Belgium, Louvain-la-Neuve, Belgium 1348#TAB#"
+        },
+        {
+            "name": "Jean-Jacques Quisquater",
+            "id": "2195205560",
+            "org": "UCL Crypto Group, Universite Catholique de Louvain, Belgium, Louvain-la-Neuve, Belgium 1348#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer security",
+        "Key (lock)",
+        "Scheduling (computing)",
+        "Key schedule",
+        "Real-time computing",
+        "Computer science",
+        "AES implementations",
+        "Differential fault analysis",
+        "Distributed computing",
+        "Pentium",
+        "Brute-force attack"
+    ],
+    "references": [
+        "1495121609",
+        "1537875328",
+        "1779923173",
+        "2066425771",
+        "2110162979",
+        "2110941647",
+        "2112284176",
+        "2119501299",
+        "2131080192",
+        "2170489924"
+    ]
+}

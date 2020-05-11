@@ -1,0 +1,52 @@
+{
+    "id": "1486176979",
+    "title": "Efficient Routing in Networks with Long Range Contacts",
+    "venue": "international symposium on distributed computing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Lali Barriere",
+            "id": "2129284032",
+            "org": "Universitat Politecnica de Catalunya"
+        },
+        {
+            "name": "Pierre Fraigniaud",
+            "id": "290762400",
+            "org": "Universite Paris-Sud"
+        },
+        {
+            "name": "Evangelos Kranakis",
+            "id": "2205407114",
+            "org": "Carleton University"
+        },
+        {
+            "name": "Danny Krizanc",
+            "id": "270679271",
+            "org": "Wesleyan University"
+        }
+    ],
+    "fields_of_study": [
+        "Routing protocol",
+        "Discrete mathematics",
+        "Random graph",
+        "Probability distribution",
+        "Upper and lower bounds",
+        "Expected value",
+        "Network topology",
+        "Destination-Sequenced Distance Vector routing",
+        "Phenomenon",
+        "Mathematics"
+    ],
+    "references": [
+        "1975146994",
+        "1976969221",
+        "1993388844",
+        "2014447809",
+        "2097147952",
+        "2114581929",
+        "2128678576",
+        "2129620481",
+        "2151221105",
+        "2610729871"
+    ]
+}

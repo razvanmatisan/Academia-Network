@@ -1,0 +1,44 @@
+{
+    "id": "1544798019",
+    "title": "Automatic Generation of Music Programs",
+    "venue": "principles and practice of constraint programming",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Francois Pachet",
+            "id": "2505713308",
+            "org": "SONY CSL-Paris"
+        },
+        {
+            "name": "Pierre Roy",
+            "id": "2797351746",
+            "org": "INRIA Domaine de Voluceau"
+        },
+        {
+            "name": "Pierre Roy",
+            "id": "2797351746",
+            "org": "INRIA Domaine de Voluceau"
+        }
+    ],
+    "fields_of_study": [
+        "Pop music automation",
+        "Computer science",
+        "Exploit",
+        "Musical acoustics",
+        "Theoretical computer science",
+        "Constraint logic programming",
+        "Simulation",
+        "Distributed computing",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "1480778854",
+        "1564509380",
+        "1982482731",
+        "2022088719",
+        "2124591829",
+        "2144184258",
+        "2155106456",
+        "2164279585"
+    ]
+}

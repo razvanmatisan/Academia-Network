@@ -1,0 +1,28 @@
+{
+    "id": "1589946980",
+    "title": "New Results on Visual Cryptography",
+    "venue": "international cryptology conference",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Stefan Droste",
+            "id": "2136146586",
+            "org": "Schwerte, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Verifiable secret sharing",
+        "Usability",
+        "Theoretical computer science",
+        "Visual cryptography",
+        "Homomorphic secret sharing",
+        "Shamir's Secret Sharing",
+        "Secure multi-party computation",
+        "Computer science",
+        "Secret sharing"
+    ],
+    "references": [
+        "2093796999",
+        "2163137752"
+    ]
+}

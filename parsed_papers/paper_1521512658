@@ -1,0 +1,34 @@
+{
+    "id": "1521512658",
+    "title": "Cuckoo search for inverse problems and simulated-driven shape optimization",
+    "venue": "Journal of Computational Methods in Sciences and Engineering",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Xin-She Yang",
+            "id": "2242896051",
+            "org": "Mathematics and Scientific Computing, National Physical Laboratory, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Metaheuristic",
+        "Cuckoo search",
+        "Constrained optimization",
+        "Inverse problem",
+        "Derivative-free optimization",
+        "Mathematical optimization",
+        "Machine learning",
+        "Shape optimization",
+        "Optimization problem",
+        "Artificial intelligence",
+        "Mathematics"
+    ],
+    "references": [
+        "1523741643",
+        "1613273921",
+        "1976744965",
+        "2003890325",
+        "2035364028",
+        "2098597947"
+    ]
+}

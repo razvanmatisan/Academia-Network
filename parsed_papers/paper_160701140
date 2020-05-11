@@ -1,0 +1,40 @@
+{
+    "id": "160701140",
+    "title": "A steady-state evolutionary algorithm for the job shop problem",
+    "venue": "genetic and evolutionary computation conference",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Patrick Van Bael",
+            "id": "7223793",
+            "org": "K.U. Leuven - Chemical Engineering Department, Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Dirk Devogelaere",
+            "id": "217593033",
+            "org": "K.U. Leuven - Chemical Engineering Department, Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Marcel Rijckaert",
+            "id": "2027828510",
+            "org": "K.U. Leuven - Chemical Engineering Department, Heverlee, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Evolutionary algorithm",
+        "Steady state",
+        "Mathematical optimization",
+        "Job shop scheduling",
+        "Global optimum",
+        "Population",
+        "Scheduling (computing)",
+        "Computer science",
+        "Job shop",
+        "Flow shop scheduling"
+    ],
+    "references": [
+        "606094354",
+        "1511920198",
+        "2011593869"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "114436182",
+    "title": "Pivoting M-tree: A Metric Access Method for Efficient Similarity Search.",
+    "venue": "DATESO",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Tomas Skopal",
+            "id": "22082914",
+            "org": "Technical University of Ostrava"
+        }
+    ],
+    "fields_of_study": [
+        "Nearest neighbor search",
+        "Metric k-center",
+        "Intrinsic metric",
+        "Metric (mathematics)",
+        "Metric tree",
+        "Mathematical optimization",
+        "Equivalence of metrics",
+        "BK tree",
+        "Word metric",
+        "Mathematics"
+    ],
+    "references": [
+        "2038044292",
+        "2124222502",
+        "2129430460",
+        "2157092487",
+        "2167265232"
+    ]
+}

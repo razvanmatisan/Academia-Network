@@ -1,0 +1,33 @@
+{
+    "id": "1576379490",
+    "title": "Distributed Systems with Simple Concept Graphs",
+    "venue": "international conference on conceptual structures",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Grit Malik",
+            "id": "2096530029",
+            "org": "Technische Universitat Dresden"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Invariant (mathematics)",
+        "Systems theory",
+        "Morphism",
+        "Distributed computing",
+        "Formal concept analysis",
+        "Graph",
+        "Quotient",
+        "Mathematics",
+        "Communication channel"
+    ],
+    "references": [
+        "1486545284",
+        "1493596129",
+        "1499449884",
+        "1503729935",
+        "1560086490",
+        "1571321993"
+    ]
+}

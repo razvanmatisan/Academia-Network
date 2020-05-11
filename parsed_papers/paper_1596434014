@@ -1,0 +1,43 @@
+{
+    "id": "1596434014",
+    "title": "A clustering approach to solving large stochastic matching problems",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Milos Hauskrecht",
+            "id": "85581826",
+            "org": "Department of Computer Science, University of Pittsburgh, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Eli Upfal",
+            "id": "265232414",
+            "org": "Department of Computer Science, Brown University, Providence, RI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Net gain",
+        "Heuristic",
+        "Cluster analysis",
+        "Artificial intelligence",
+        "Machine learning",
+        "Computer science",
+        "Experimental data",
+        "Profitability index",
+        "Linear programming",
+        "Heuristics",
+        "Portfolio"
+    ],
+    "references": [
+        "141456974",
+        "1502893368",
+        "1631187438",
+        "1650504995",
+        "1688218840",
+        "2033697467",
+        "2053913299",
+        "2114958204",
+        "2143863355"
+    ]
+}

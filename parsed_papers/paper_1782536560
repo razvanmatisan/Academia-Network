@@ -1,0 +1,37 @@
+{
+    "id": "1782536560",
+    "title": "Predictive location-based QoS routing in mobile ad hoc networks",
+    "venue": "international conference on communications",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Samarth H. Shah",
+            "id": "2140870009",
+            "org": "Dept. of Comput. Sci., Illinois Univ., Urbana, IL, USA"
+        },
+        {
+            "name": "Klara Nahrstedt",
+            "id": "159144305",
+            "org": "Dept. of Comput. Sci., Illinois Univ., Urbana, IL, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Optimized Link State Routing Protocol",
+        "Computer network",
+        "Link-state routing protocol",
+        "Ad hoc wireless distribution service",
+        "Adaptive quality of service multi-hop routing",
+        "Wireless Routing Protocol",
+        "Zone Routing Protocol",
+        "Computer science",
+        "Dynamic Source Routing",
+        "Destination-Sequenced Distance Vector routing",
+        "Distributed computing"
+    ],
+    "references": [
+        "2080979018",
+        "2099574482",
+        "2119710605",
+        "2124651399"
+    ]
+}

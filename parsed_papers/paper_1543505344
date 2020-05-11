@@ -1,0 +1,42 @@
+{
+    "id": "1543505344",
+    "title": "Image segmentation by directed region subdivision",
+    "venue": "international conference on pattern recognition",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Theo Gevers",
+            "id": "1935704050",
+            "org": "Fac. of Math. & Comput. Sci., Amsterdam Univ., Netherlands"
+        },
+        {
+            "name": "V. K. Kajcovski",
+            "id": "354042078",
+            "org": "Faculty of Mathematics|Computer Science|University of Amsterdam"
+        }
+    ],
+    "fields_of_study": [
+        "Image segmentation",
+        "Color image",
+        "Mathematical optimization",
+        "Mathematics",
+        "Shading",
+        "Computer vision",
+        "Vertex (geometry)",
+        "Delaunay triangulation",
+        "Mesh generation",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Triangulation (social science)",
+        "Region growing"
+    ],
+    "references": [
+        "1505899388",
+        "1995249982",
+        "2002827932",
+        "2033849769",
+        "2042209209",
+        "2050576295",
+        "2145023731"
+    ]
+}

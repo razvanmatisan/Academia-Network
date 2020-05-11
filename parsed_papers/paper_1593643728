@@ -1,0 +1,47 @@
+{
+    "id": "1593643728",
+    "title": "Comparison of Conceptual Graphs",
+    "venue": "mexican international conference on artificial intelligence",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Manuel Montes-y-Gomez",
+            "id": "1982319685",
+            "org": "National Polytechnic Institute (IPN)"
+        },
+        {
+            "name": "Alexander F. Gelbukh",
+            "id": "331132414",
+            "org": "National Polytechnic Institute (IPN)"
+        },
+        {
+            "name": "Aurelio Lopez-Lopez",
+            "id": "2399339750",
+            "org": "INAOE, Electronics"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Conceptual graph",
+        "Sorensen-Dice coefficient",
+        "Natural language",
+        "Semantic memory",
+        "Bipartite graph",
+        "Knowledge representation and reasoning",
+        "Artificial intelligence",
+        "Knowledge-based systems",
+        "Natural language user interface",
+        "Computer science"
+    ],
+    "references": [
+        "1493596129",
+        "1516346799",
+        "1537120688",
+        "1556732419",
+        "1560138630",
+        "1571803431",
+        "1601717103",
+        "1997841190",
+        "2026155585"
+    ]
+}

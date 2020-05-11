@@ -1,0 +1,46 @@
+{
+    "id": "1494021682",
+    "title": "Linear constraint systems as high-level nets",
+    "venue": "international conference on concurrency theory",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Eike Best",
+            "id": "2274705173",
+            "org": "Universitat Hildesheim"
+        },
+        {
+            "name": "Catuscia Palamidessi",
+            "id": "2779489263",
+            "org": "DISI, Universita di Genova"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Stochastic Petri net",
+        "Reachability problem",
+        "Computer science",
+        "Constraint programming",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Binary constraint",
+        "Constraint logic programming",
+        "Petri net",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "205173164",
+        "1544564247",
+        "1580745021",
+        "1580879785",
+        "1598641851",
+        "1870132251",
+        "1965498649",
+        "2033983519",
+        "2055894337",
+        "2113355185",
+        "2117243261",
+        "2142423074",
+        "2161307885",
+        "2176296250"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1659053999",
+    "title": "Analyzing BIST robustness",
+    "venue": "defect and fault tolerance in vlsi and nanotechnology systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Janusz Sosnowski",
+            "id": "2063369526",
+            "org": "Inst. of Comput. Sci., Warsaw Univ. of Technol., Poland"
+        }
+    ],
+    "fields_of_study": [
+        "Robustness (computer science)",
+        "Real-time computing",
+        "Fault coverage",
+        "Fault model",
+        "Fault indicator",
+        "Built-in self-test",
+        "Electronic engineering",
+        "Computer science",
+        "Software fault tolerance",
+        "Fault detection and isolation",
+        "Stuck-at fault"
+    ],
+    "references": [
+        "1534381550",
+        "1554885925",
+        "1912583643",
+        "2021053128",
+        "2093030849",
+        "2111907998",
+        "2117612279",
+        "2119635823",
+        "2135254996",
+        "2144855614",
+        "2160906748",
+        "2166839304"
+    ]
+}

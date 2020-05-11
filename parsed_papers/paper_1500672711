@@ -1,0 +1,45 @@
+{
+    "id": "1500672711",
+    "title": "Adaptation of weighted fuzzy programs",
+    "venue": "international conference on artificial neural networks",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Alexandros Chortaras",
+            "id": "1756110350",
+            "org": "School of Electrical and Computer Engineering, National Technical University of Athens, Athens, Greece#TAB#"
+        },
+        {
+            "name": "Giorgos B. Stamou",
+            "id": "2047892088",
+            "org": "School of Electrical and Computer Engineering, National Technical University of Athens, Athens, Greece#TAB#"
+        },
+        {
+            "name": "Andreas Stafylopatis",
+            "id": "2336400308",
+            "org": "School of Electrical and Computer Engineering, National Technical University of Athens, Athens, Greece#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Type-2 fuzzy sets and systems",
+        "Neuro-fuzzy",
+        "Fuzzy logic",
+        "Pattern recognition",
+        "Fuzzy associative matrix",
+        "Artificial intelligence",
+        "Fuzzy set operations",
+        "Defuzzification",
+        "Fuzzy number",
+        "Computer science",
+        "Fuzzy classification"
+    ],
+    "references": [
+        "1898259180",
+        "1998637316",
+        "2032938471",
+        "2082296752",
+        "2094245247",
+        "2157710080"
+    ]
+}

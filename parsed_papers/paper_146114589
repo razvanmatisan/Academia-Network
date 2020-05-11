@@ -1,0 +1,33 @@
+{
+    "id": "146114589",
+    "title": "How expert should an expert system be",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1981,
+    "authors": [
+        {
+            "name": "Roger T. Hartley",
+            "id": "2193770023",
+            "org": "Department of Computer Science, Kansas State University and Computer Science Department, Brunei University, U.K.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge base",
+        "Expert system",
+        "Artificial intelligence",
+        "Data mining",
+        "Machine learning",
+        "Inference",
+        "Legal expert system",
+        "Subject-matter expert",
+        "Software system",
+        "Computer science",
+        "Systems architecture",
+        "Software diagnosis",
+        "Knowledge management"
+    ],
+    "references": [
+        "1547757477",
+        "1964111545",
+        "2048810095"
+    ]
+}

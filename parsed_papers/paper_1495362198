@@ -1,0 +1,49 @@
+{
+    "id": "1495362198",
+    "title": "Enabling Cross-Application Traceability of Semi-structured Business Processes",
+    "venue": "business process management",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Andreas Emrich",
+            "id": "2080883541",
+            "org": "German Research Center for Artificial Intelligence (DFKI)"
+        },
+        {
+            "name": "Frieder Ganz",
+            "id": "2793535049",
+            "org": "German Research Center for Artificial Intelligence (DFKI)"
+        },
+        {
+            "name": "Dirk Werth",
+            "id": "2104455812",
+            "org": "German Research Center for Artificial Intelligence (DFKI)"
+        },
+        {
+            "name": "Peter Loos",
+            "id": "2607544413",
+            "org": "German Research Center for Artificial Intelligence (DFKI)"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Business activity monitoring",
+        "Business process discovery",
+        "Computer science",
+        "Business process",
+        "Process management",
+        "Business process modeling",
+        "Process modeling",
+        "Business architecture",
+        "Artifact-centric business process model",
+        "Business process management"
+    ],
+    "references": [
+        "188145618",
+        "1586642858",
+        "1586850883",
+        "2105102860",
+        "2166546927",
+        "2338335491"
+    ]
+}

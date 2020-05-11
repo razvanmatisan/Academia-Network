@@ -1,0 +1,37 @@
+{
+    "id": "1484296207",
+    "title": "How to construct pseudorandom permutations from single pseudorandom functions",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Josef Pieprzyk",
+            "id": "2081631084",
+            "org": "Austarlian Defence Force Academy"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Pseudorandom function family",
+        "Pseudorandomness",
+        "Discrete mathematics",
+        "Pseudorandom permutation",
+        "Pseudorandom generator",
+        "Pseudorandom generators for polynomials",
+        "Pseudorandom binary sequence",
+        "Pseudorandom generator theorem",
+        "Random seed",
+        "Mathematics"
+    ],
+    "references": [
+        "1540000918",
+        "1557606368",
+        "1585591936",
+        "1606748595",
+        "1830378742",
+        "2031495811",
+        "2077300005",
+        "2117362057",
+        "2164284862"
+    ]
+}

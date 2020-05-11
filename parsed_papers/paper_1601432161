@@ -1,0 +1,34 @@
+{
+    "id": "1601432161",
+    "title": "Morphological Analyzer and Generator for Russian and Ukrainian Languages",
+    "venue": "arXiv: Computation and Language",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Mikhail Korobov",
+            "id": "2610027848",
+            "org": "ScrapingHub, Inc."
+        }
+    ],
+    "fields_of_study": [
+        "Documentation",
+        "Natural language processing",
+        "Morphological analysis",
+        "Usability",
+        "Artificial intelligence",
+        "Spectrum analyzer",
+        "License",
+        "Database",
+        "Python (programming language)",
+        "Programming language",
+        "Ukrainian",
+        "Extensibility",
+        "Computer science"
+    ],
+    "references": [
+        "52972111",
+        "1509114999",
+        "2097808913",
+        "2154478838"
+    ]
+}

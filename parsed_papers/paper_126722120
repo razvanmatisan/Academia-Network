@@ -1,0 +1,41 @@
+{
+    "id": "126722120",
+    "title": "Word Sense Discrimination by Clustering Contexts in Vector and Similarity Spaces.",
+    "venue": "conference on computational natural language learning",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Amruta Purandare",
+            "id": "2083132244",
+            "org": "Department of Computer Science|University of Minnesota"
+        },
+        {
+            "name": "Ted Pedersen",
+            "id": "2120321692",
+            "org": "Department of Computer Science|University of Minnesota"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Pairwise comparison",
+        "Word sense",
+        "Cluster analysis",
+        "Word-sense induction",
+        "Artificial intelligence",
+        "Machine learning",
+        "Computer science",
+        "Feature vector",
+        "Vector space",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1546317785",
+        "1840759059",
+        "1971318281",
+        "2005856380",
+        "2026858230",
+        "2130337399",
+        "2147152072",
+        "2149671658"
+    ]
+}

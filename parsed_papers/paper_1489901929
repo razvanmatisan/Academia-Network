@@ -1,0 +1,26 @@
+{
+    "id": "1489901929",
+    "title": "Further Schemes for Combining Matrix Algorithms",
+    "venue": "international colloquium on automata, languages and programming",
+    "year": 1974,
+    "authors": [
+        {
+            "name": "Patrick C. Fischer",
+            "id": "2157864937",
+            "org": "University of Waterloo"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Multiplication",
+        "Computer science",
+        "Combinatorics",
+        "Strassen algorithm",
+        "Matrix (mathematics)",
+        "Row and column spaces",
+        "Algorithm"
+    ],
+    "references": [
+        "1803362547"
+    ]
+}

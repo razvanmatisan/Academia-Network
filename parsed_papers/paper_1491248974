@@ -1,0 +1,37 @@
+{
+    "id": "1491248974",
+    "title": "Automated element-wise reasoning with sets",
+    "venue": "software engineering and formal methods",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Georg Struth",
+            "id": "135621682",
+            "org": "Inst. fur Informatik, Augsburg Univ., Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "Programming language",
+        "Proof calculus",
+        "Automated reasoning",
+        "Distributive lattice",
+        "Reasoning system",
+        "Formal specification",
+        "Distributive property",
+        "Automated theorem proving",
+        "Automated proof checking"
+    ],
+    "references": [
+        "1487202929",
+        "1514645981",
+        "1516131919",
+        "1573688192",
+        "1581520202",
+        "1968724907",
+        "1990681310",
+        "2083251422",
+        "2145062905"
+    ]
+}

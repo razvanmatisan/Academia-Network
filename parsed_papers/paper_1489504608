@@ -1,0 +1,45 @@
+{
+    "id": "1489504608",
+    "title": "Improving Polyphonic and Poly-Instrumental Music to Score Alignment",
+    "venue": "international symposium/conference on music information retrieval",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Ferreol Soulez",
+            "id": "406909051",
+            "org": "IRCAM"
+        },
+        {
+            "name": "Xavier Rodet",
+            "id": "2031420067",
+            "org": "IRCAM"
+        },
+        {
+            "name": "Diemo Schwarz",
+            "id": "2159938096",
+            "org": "IRCAM"
+        }
+    ],
+    "fields_of_study": [
+        "Speech recognition",
+        "Music theory",
+        "Computer science",
+        "Jazz",
+        "Score interpretation",
+        "Indexation",
+        "Dynamic time warping",
+        "Piano",
+        "Polyphony"
+    ],
+    "references": [
+        "9192587",
+        "21436967",
+        "127994334",
+        "1560013842",
+        "2009570821",
+        "2067128174",
+        "2121232083",
+        "2125935583",
+        "2152324136"
+    ]
+}

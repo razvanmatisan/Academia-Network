@@ -1,0 +1,36 @@
+{
+    "id": "1503930725",
+    "title": "Recognizing multiple persons' facial expressions using HMM based on automatic extraction of significant frames from image sequences",
+    "venue": "international conference on image processing",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Takahiro Otsuka",
+            "id": "2708139660",
+            "org": "ATR Media Integration & Commun. Res. Labs., Kyoto, Japan"
+        },
+        {
+            "name": "Jun Ohya",
+            "id": "1884607431",
+            "org": "Advanced Telecommunications Research Institute International (ATR)"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Feature vector",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Feature extraction",
+        "Motion estimation",
+        "Facial muscles",
+        "Image processing",
+        "Facial expression",
+        "Facial recognition system",
+        "Hidden Markov model",
+        "Mathematics"
+    ],
+    "references": [
+        "1578285471",
+        "2168341643"
+    ]
+}

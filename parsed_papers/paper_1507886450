@@ -1,0 +1,40 @@
+{
+    "id": "1507886450",
+    "title": "Supporting Irregular and Dynamic Computations in Data Parallel Languages",
+    "venue": "Advances in Computers",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Jean-Luc Dekeyser",
+            "id": "1997089456",
+            "org": "Universite de Lille"
+        },
+        {
+            "name": "Philippe Marquet",
+            "id": "2138086202",
+            "org": "Universite de Lille"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Theoretical computer science",
+        "Virtual Processor",
+        "Computation",
+        "Data structure",
+        "Parallel algorithm",
+        "Parallel computing",
+        "Experimental data",
+        "Virtual machine",
+        "Parallel language"
+    ],
+    "references": [
+        "103543390",
+        "116198823",
+        "1511896011",
+        "1976596991",
+        "1996384031",
+        "2017985135",
+        "2090309220",
+        "2164177095"
+    ]
+}

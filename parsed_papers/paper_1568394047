@@ -1,0 +1,40 @@
+{
+    "id": "1568394047",
+    "title": "Integrating Dynamic Models for CMM-Based Software Process Improvement",
+    "venue": "product focused software process improvement",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Mercedes Ruiz",
+            "id": "2176459801",
+            "org": "University of Cadiz"
+        },
+        {
+            "name": "Isabel Ramos",
+            "id": "2165115574",
+            "org": "University of Seville"
+        },
+        {
+            "name": "Miguel Toro",
+            "id": "2116036052",
+            "org": "University of Seville"
+        }
+    ],
+    "fields_of_study": [
+        "Management science",
+        "Systems engineering",
+        "Personal software process",
+        "Software Engineering Process Group",
+        "Social software engineering",
+        "Software peer review",
+        "Goal-Driven Software Development Process",
+        "Engineering",
+        "Package development process",
+        "Software Process simulation",
+        "Software sizing"
+    ],
+    "references": [
+        "105753896",
+        "2090314408"
+    ]
+}

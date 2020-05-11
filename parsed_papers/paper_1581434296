@@ -1,0 +1,45 @@
+{
+    "id": "1581434296",
+    "title": "Non-intrusive system level fault-tolerance",
+    "venue": "international conference on reliable software technologies",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Kristina Lundqvist",
+            "id": "1971695762",
+            "org": "Embedded Systems Laboratory, Department of Aeronautics and Astronautics, Massachusetts Institute of Technology, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Jayakanth Srinivasan",
+            "id": "2670050839",
+            "org": "Embedded Systems Laboratory, Department of Aeronautics and Astronautics, Massachusetts Institute of Technology, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Sebastien Gorelov",
+            "id": "2169140643",
+            "org": "Embedded Systems Laboratory, Department of Aeronautics and Astronautics, Massachusetts Institute of Technology, Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "System on a chip",
+        "Real-time computing",
+        "Systems design",
+        "Computer science",
+        "Software development",
+        "Fault tolerance",
+        "Distributed computing",
+        "Ravenscar profile",
+        "Navigation system",
+        "Fault detection and isolation",
+        "Technical report"
+    ],
+    "references": [
+        "59365162",
+        "1568805213",
+        "1587475735",
+        "1663166257",
+        "1962072139",
+        "1976199670",
+        "2064207294"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "1563622255",
+    "title": "Visualizing Group Differences in Outline Shape: Methods from Biometrics of Landmark Points",
+    "venue": "VBC '96 Proceedings of the 4th International Conference on Visualization in Biomedical Computing",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Fred L. Bookstein",
+            "id": "1940989769",
+            "org": "University of Michigan"
+        }
+    ],
+    "fields_of_study": [
+        "Visualization",
+        "Biometrics",
+        "Landmark point",
+        "Landmark",
+        "Thin plate spline",
+        "Spline (mathematics)",
+        "Computer vision",
+        "Legibility",
+        "Artificial intelligence",
+        "Geography"
+    ],
+    "references": [
+        "2139341347"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1534696846",
+    "title": "Grobner Bases: A Short Introduction for Systems Theorists",
+    "venue": "computer aided systems theory",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Bruno Buchberger",
+            "id": "2040854499",
+            "org": "University of Linz"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Commutative algebra",
+        "Systems theory",
+        "Algebraic number",
+        "Equation solving",
+        "Polynomial",
+        "Mathematics",
+        "Polynomial long division",
+        "Grobner basis",
+        "Symbolic computation"
+    ],
+    "references": [
+        "45149845",
+        "1481997196",
+        "1996734913",
+        "2018615018",
+        "2040327317",
+        "2059522106",
+        "2075283530",
+        "2094386737"
+    ]
+}

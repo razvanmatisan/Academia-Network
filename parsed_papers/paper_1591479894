@@ -1,0 +1,34 @@
+{
+    "id": "1591479894",
+    "title": "A new pruning method for incremental pruning algorithm using a sweeping scan-line through the belief space",
+    "venue": "mexican international conference on artificial intelligence",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Mahdi Naser-Moghadasi",
+            "id": "2026939389",
+            "org": "Texas Tech University, Abilene, TX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Decision problem",
+        "Speedup",
+        "Mathematical optimization",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Linear programming",
+        "Markov chain",
+        "Partially observable Markov decision process",
+        "Filter (signal processing)",
+        "Solver",
+        "Scan line",
+        "Computer science"
+    ],
+    "references": [
+        "1491973539",
+        "1532688806",
+        "2034725503",
+        "2158907787"
+    ]
+}

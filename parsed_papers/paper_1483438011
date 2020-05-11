@@ -1,0 +1,34 @@
+{
+    "id": "1483438011",
+    "title": "Conventions and Notations for Knowledge Representation and Retrieval",
+    "venue": "international conference on conceptual structures",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Philippe Martin",
+            "id": "2142670406",
+            "org": "Griffith University"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Notation",
+        "Conceptual graph",
+        "RDF",
+        "Distributed computing",
+        "Knowledge representation and reasoning",
+        "Computer science",
+        "Data mining",
+        "Knowledge acquisition",
+        "Ontology (information science)",
+        "Common knowledge",
+        "Artificial intelligence",
+        "Indexation"
+    ],
+    "references": [
+        "1493596129",
+        "1880174554",
+        "2084130127",
+        "2161763909"
+    ]
+}

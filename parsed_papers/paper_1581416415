@@ -1,0 +1,36 @@
+{
+    "id": "1581416415",
+    "title": "An Ontology-Based Focused Crawler",
+    "venue": "applications of natural language to data bases",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Lefteris Kozanidis",
+            "id": "2893494093",
+            "org": "Computer Engineering and Informatics Department, Patras University, Greece 26500#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Ontology",
+        "Static web page",
+        "Information retrieval",
+        "Web page",
+        "World Wide Web",
+        "Focused crawler",
+        "Web modeling",
+        "Web crawler",
+        "Web server",
+        "Web search engine"
+    ],
+    "references": [
+        "173995639",
+        "1489992655",
+        "1537883001",
+        "2001832505",
+        "2017726337",
+        "2116224704",
+        "2136480620",
+        "2158418010"
+    ]
+}

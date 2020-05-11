@@ -1,0 +1,37 @@
+{
+    "id": "1504896085",
+    "title": "A New Methodology For Emergent System Identification Using Particle Swarm Optimization (PSO) And The Group Mehtod Data Handling (GMDH)",
+    "venue": "genetic and evolutionary computation conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Mark S. Voss",
+            "id": "2105513600",
+            "org": "Dept. of Civil and Environmental Engineering, Marquette University, Milwaukee, WI#TAB#"
+        },
+        {
+            "name": "Xin Feng",
+            "id": "2656086469",
+            "org": "Dept. of Electrical and Computer Engineering, Marquette University, Milwaukee, WI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Moving average",
+        "Mathematical optimization",
+        "Multi-swarm optimization",
+        "Genetic programming",
+        "Computer science",
+        "Group method of data handling",
+        "Particle swarm optimization",
+        "System identification"
+    ],
+    "references": [
+        "1577668191",
+        "1599001920",
+        "1670826862",
+        "1925428099",
+        "2150913357"
+    ]
+}

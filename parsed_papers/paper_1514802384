@@ -1,0 +1,35 @@
+{
+    "id": "1514802384",
+    "title": "On the Category of Petri Net Computations",
+    "venue": "colloquium on trees in algebra and programming",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Vladimiro Sassone",
+            "id": "167953724",
+            "org": "University of Aarhus"
+        }
+    ],
+    "fields_of_study": [
+        "Concrete category",
+        "Higher category theory",
+        "Closed monoidal category",
+        "Enriched category",
+        "Symmetric monoidal category",
+        "Discrete mathematics",
+        "Functor",
+        "Monoidal category",
+        "Mathematics",
+        "Topology",
+        "Monoidal functor"
+    ],
+    "references": [
+        "1550595681",
+        "1582345010",
+        "1991052229",
+        "2022479543",
+        "2061288205",
+        "2098629926",
+        "2129661198"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1575824550",
+    "title": "Image Processing Done Right",
+    "venue": "european conference on computer vision",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jan J. Koenderink",
+            "id": "1132442354",
+            "org": "Universiteit Utrecht"
+        },
+        {
+            "name": "Andrea J. van Doorn",
+            "id": "2124389081",
+            "org": "Universiteit Utrecht"
+        }
+    ],
+    "fields_of_study": [
+        "Image texture",
+        "Artificial intelligence",
+        "Feature detection (computer vision)",
+        "Computer vision",
+        "Image moment",
+        "Discrete mathematics",
+        "Image processing",
+        "Scale-space axioms",
+        "Anisotropic diffusion",
+        "Scale space",
+        "Topology",
+        "Binary image",
+        "Mathematics"
+    ],
+    "references": [
+        "1559934120",
+        "2047114223",
+        "2294604761",
+        "2799207262"
+    ]
+}

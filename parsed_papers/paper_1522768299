@@ -1,0 +1,37 @@
+{
+    "id": "1522768299",
+    "title": "Gathering evidence: use of visual security cues in web browsers",
+    "venue": "graphics interface",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Tara Whalen",
+            "id": "2053521882",
+            "org": "Dalhousie University, Halifax, NS, Canada#TAB#"
+        },
+        {
+            "name": "Kori Inkpen",
+            "id": "2271974872",
+            "org": "Dalhousie University, Halifax, NS, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Web application security",
+        "Certificate",
+        "Browser security",
+        "World Wide Web",
+        "Web navigation",
+        "Lock (computer science)",
+        "Icon",
+        "Internet privacy",
+        "Computer science"
+    ],
+    "references": [
+        "52150595",
+        "1485200701",
+        "2037202491",
+        "2095881341",
+        "2163759350",
+        "2164340711"
+    ]
+}

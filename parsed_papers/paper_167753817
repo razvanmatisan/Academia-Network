@@ -1,0 +1,46 @@
+{
+    "id": "167753817",
+    "title": "Evaluating ontology cleaning",
+    "venue": "national conference on artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Christopher A. Welty",
+            "id": "288349726",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Ruchi Mahindru",
+            "id": "2041523649",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Jennifer Chu-Carroll",
+            "id": "2101216164",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ontology",
+        "Precision and recall",
+        "Information retrieval",
+        "Ontology-based data integration",
+        "OntoClean",
+        "Computer science",
+        "Link analysis",
+        "Data mining"
+    ],
+    "references": [
+        "71514337",
+        "81180499",
+        "172345128",
+        "1553976193",
+        "1940888119",
+        "1970409510",
+        "2000982518",
+        "2065085057",
+        "2097395913",
+        "2124371136",
+        "2127751640"
+    ]
+}

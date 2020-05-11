@@ -1,0 +1,28 @@
+{
+    "id": "1525289242",
+    "title": "A comparative evaluation of collocation extraction techniques",
+    "venue": "language resources and evaluation",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Darren Pearce",
+            "id": "2095890592",
+            "org": "University of Sussex"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Natural language processing",
+        "Computer science",
+        "Machine learning",
+        "Collocation",
+        "Strengths and weaknesses",
+        "Collocation extraction"
+    ],
+    "references": [
+        "1593045043",
+        "1940278502",
+        "2100985220",
+        "2103464847"
+    ]
+}

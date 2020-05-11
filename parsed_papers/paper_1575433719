@@ -1,0 +1,36 @@
+{
+    "id": "1575433719",
+    "title": "The Object Model: A Conceptual Tool for Structuring Software",
+    "venue": "Advances in Computers",
+    "year": 1978,
+    "authors": [
+        {
+            "name": "Anita K. Jones",
+            "id": "2105257805",
+            "org": "Carnegie-Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Object model",
+        "Model-driven architecture",
+        "Computer science",
+        "Domain model",
+        "Theoretical computer science",
+        "Component-based software engineering",
+        "Object-oriented design",
+        "Conceptual model (computer science)",
+        "Software",
+        "Object Definition Language"
+    ],
+    "references": [
+        "2033724067",
+        "2074955133",
+        "2076008277",
+        "2077160015",
+        "2097012771",
+        "2113350481",
+        "2140508184",
+        "2242150811",
+        "2896668854"
+    ]
+}

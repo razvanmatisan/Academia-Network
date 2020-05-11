@@ -1,0 +1,47 @@
+{
+    "id": "1526284669",
+    "title": "Design for Trust: Security im M-Commerce.",
+    "venue": "GI Jahrestagung (1)",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Dominik Haneberg",
+            "id": "2014379138",
+            "org": "University of Augsburg"
+        },
+        {
+            "name": "Alexander Kreibich",
+            "id": "2342577960",
+            "org": "Universit \" , at Augsburg"
+        },
+        {
+            "name": "Wolfgang Reif",
+            "id": "2139633246",
+            "org": "Universit \" , at Augsburg"
+        },
+        {
+            "name": "Kurt Stenzel",
+            "id": "2131326225",
+            "org": "Universit \" , at Augsburg"
+        }
+    ],
+    "fields_of_study": [
+        "Communications protocol",
+        "Algebraic specification",
+        "Class diagram",
+        "Unified Modeling Language",
+        "Activity diagram",
+        "Theoretical computer science",
+        "Mobile commerce",
+        "Communication diagram",
+        "Block diagram",
+        "Computer science"
+    ],
+    "references": [
+        "1490966766",
+        "1538657331",
+        "1606635928",
+        "1748251377",
+        "2133126578"
+    ]
+}

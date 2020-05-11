@@ -1,0 +1,41 @@
+{
+    "id": "1588413856",
+    "title": "Computing the Acceptability Semantics",
+    "venue": "international conference on logic programming",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Francesca Toni",
+            "id": "2114467999",
+            "org": "Imperial College"
+        },
+        {
+            "name": "Antonios C. Kakas",
+            "id": "2333801843",
+            "org": "University of Cyprus"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Stable model semantics",
+        "Deductive reasoning",
+        "Proof theory",
+        "Algorithm",
+        "Automated reasoning",
+        "Computer science",
+        "Non-monotonic logic",
+        "Proof procedure",
+        "Logic programming",
+        "Higher-order logic"
+    ],
+    "references": [
+        "19957210",
+        "94320921",
+        "1491160267",
+        "1521560294",
+        "1587594994",
+        "2020153579",
+        "2101222558",
+        "2104126268"
+    ]
+}

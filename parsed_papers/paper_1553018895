@@ -1,0 +1,37 @@
+{
+    "id": "1553018895",
+    "title": "A Mathematical Model of Heuristic Game Playing",
+    "venue": "GWAI",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Chun-Hung Tzeng",
+            "id": "2704993113",
+            "org": "Ball State University"
+        }
+    ],
+    "fields_of_study": [
+        "Simulations and games in economics education",
+        "Sequential game",
+        "Simultaneous game",
+        "Video game design",
+        "Repeated game",
+        "Machine learning",
+        "Mathematical game",
+        "Minimax",
+        "Combinatorial game theory",
+        "Artificial intelligence",
+        "Mathematics"
+    ],
+    "references": [
+        "182134340",
+        "1980327423",
+        "2022175229",
+        "2040494309",
+        "2046180250",
+        "2074942748",
+        "2147457200",
+        "2152475379",
+        "2157803532"
+    ]
+}

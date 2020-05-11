@@ -1,0 +1,46 @@
+{
+    "id": "1588969578",
+    "title": "QuasiModo: Efficient Certificate Validation and Revocation",
+    "venue": "public key cryptography",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Farid F. Elwailly",
+            "id": "2479515592",
+            "org": "Lockheed Martin"
+        },
+        {
+            "name": "Craig Gentry",
+            "id": "2339798781",
+            "org": "DoCoMo Communications Laboratories USA, Inc"
+        },
+        {
+            "name": "Zulfikar Ramzan",
+            "id": "2777617213",
+            "org": "DoCoMo Communications Laboratories USA, Inc"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic hash function",
+        "Time complexity",
+        "Theoretical computer science",
+        "Certificate",
+        "Revocation list",
+        "Distributed computing",
+        "Computer science",
+        "Hash function",
+        "Merkle tree",
+        "Revocation",
+        "Communication complexity"
+    ],
+    "references": [
+        "1502896015",
+        "1542430206",
+        "1552887888",
+        "1600432225",
+        "2008524185",
+        "2111712517",
+        "2151413173",
+        "2160878415"
+    ]
+}

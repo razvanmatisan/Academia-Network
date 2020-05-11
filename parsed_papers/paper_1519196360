@@ -1,0 +1,32 @@
+{
+    "id": "1519196360",
+    "title": "Norm2-based face recognition",
+    "venue": "computer vision and pattern recognition",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Daniel B. Graham",
+            "id": "2117308756",
+            "org": "Department of Electrical Engineering and Electronics|University of Manchester|Institute of Science and Technology"
+        },
+        {
+            "name": "Nigel M. Allinson",
+            "id": "2046543749",
+            "org": "Department of Electrical Engineering and Electronics|University of Manchester|Institute of Science and Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Face detection",
+        "Computer vision",
+        "Artificial intelligence",
+        "Three-dimensional face recognition",
+        "Pattern recognition",
+        "Computer science",
+        "Face hallucination",
+        "Facial recognition system"
+    ],
+    "references": [
+        "1769974409",
+        "2002495719"
+    ]
+}

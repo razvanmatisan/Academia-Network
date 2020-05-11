@@ -1,0 +1,40 @@
+{
+    "id": "1600766617",
+    "title": "SDL code generation for open systems",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Joachim Fischer",
+            "id": "2196587413",
+            "org": "Institut fur Informatik, Humboldt-Universitat zu Berlin, Berlin, Germany#TAB#"
+        },
+        {
+            "name": "Toby Neumann",
+            "id": "2277212284",
+            "org": "Institut fur Informatik, Humboldt-Universitat zu Berlin, Berlin, Germany#TAB#"
+        },
+        {
+            "name": "Anders Brodlos Olsen",
+            "id": "2137367674",
+            "org": "Cinderella ApS, Ballerup, Denmark#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Open system (systems theory)",
+        "Runtime library",
+        "Common Object Request Broker Architecture",
+        "Communications protocol",
+        "Web service",
+        "Activity-based costing",
+        "Real-time computing",
+        "Code generation",
+        "Code (cryptography)",
+        "Computer science"
+    ],
+    "references": [
+        "1519723316",
+        "1578810091",
+        "2102316438"
+    ]
+}

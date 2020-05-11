@@ -1,0 +1,31 @@
+{
+    "id": "1524470902",
+    "title": "From swarm intelligence to swarm robotics",
+    "venue": "simulation of adaptive behavior",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Gerardo Beni",
+            "id": "2476384450",
+            "org": "Department of Electrical Engineering, University of California, Riverside, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Swarm behaviour",
+        "Computation",
+        "Swarm intelligence",
+        "Terminology",
+        "Machine learning",
+        "Swarm robotics",
+        "Particle swarm optimization",
+        "Artificial intelligence",
+        "Computer science",
+        "Robotics"
+    ],
+    "references": [
+        "1629051378",
+        "2032219063",
+        "2052946502",
+        "2126554879"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1523564000",
+    "title": "Analysis of a Class of Algorithms for Problems on Trace Languages",
+    "venue": "Applicable Algebra in Engineering, Communication and Computing",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Alberto Bertoni",
+            "id": "2015157942",
+            "org": "Universita di Milano"
+        },
+        {
+            "name": "Massimiliano Goldwurm",
+            "id": "8797010",
+            "org": "Universita di Milano"
+        },
+        {
+            "name": "Nicoletta Sabadini",
+            "id": "1989518157",
+            "org": "Universita di Milano"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Descriptive complexity theory",
+        "Time complexity",
+        "Discrete mathematics",
+        "NL-complete",
+        "Cardinality",
+        "Worst-case complexity",
+        "Mathematics",
+        "Sparse language",
+        "Probabilistic analysis of algorithms",
+        "Algorithm",
+        "Asymptotic computational complexity"
+    ],
+    "references": [
+        "1488448967",
+        "1526191973",
+        "1553049621",
+        "1600308590"
+    ]
+}

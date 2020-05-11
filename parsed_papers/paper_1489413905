@@ -1,0 +1,38 @@
+{
+    "id": "1489413905",
+    "title": "Relating resolution and algebraic completion for Horn logic",
+    "venue": "conference on automated deduction",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Roland Dietrich",
+            "id": "2192278542",
+            "org": "GMD Research Laboratory at the University of Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Horn clause",
+        "Signature (logic)",
+        "Computational logic",
+        "Algorithm",
+        "Algebraic sentence",
+        "Dynamic logic (modal logic)",
+        "Predicate functor logic",
+        "Logic programming",
+        "Mathematics",
+        "Prolog"
+    ],
+    "references": [
+        "145263823",
+        "1512556106",
+        "1513315908",
+        "1514729613",
+        "1515544966",
+        "1979101142",
+        "2034034435",
+        "2048748607",
+        "2100738443",
+        "2146163384"
+    ]
+}

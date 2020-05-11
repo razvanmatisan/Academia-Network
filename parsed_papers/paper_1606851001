@@ -1,0 +1,37 @@
+{
+    "id": "1606851001",
+    "title": "Space-Based Approach to High-Throughput Computations in UNICORE 6 Grids",
+    "venue": "european conference on parallel processing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Bernd Schuller",
+            "id": "2049069901",
+            "org": "Julich Supercomputer Centre Distributed Systems and Grid Computing Division, Forschungszentrum Julich GmbH, Julich, Germany#TAB#"
+        },
+        {
+            "name": "Miriam Schumacher",
+            "id": "2465822674",
+            "org": "Julich Supercomputer Centre Distributed Systems and Grid Computing Division, Forschungszentrum Julich GmbH, Julich, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Concurrent computing",
+        "Parallel computing",
+        "High-throughput computing",
+        "Architecture",
+        "Database",
+        "Tuple space",
+        "Batch processing",
+        "Java",
+        "Distributed computing",
+        "Computer science",
+        "Scalability",
+        "XML"
+    ],
+    "references": [
+        "1568943312",
+        "1663942731",
+        "2161307885"
+    ]
+}

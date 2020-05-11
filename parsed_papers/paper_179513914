@@ -1,0 +1,47 @@
+{
+    "id": "179513914",
+    "title": "COLLABORATIVE FILTERING BASED ON CONTENT ADDRESSING",
+    "venue": "international conference on enterprise information systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Shlomo Berkovsky",
+            "id": "2806863407",
+            "org": "Computer Science Department|University of Haifa"
+        },
+        {
+            "name": "Yaniv Eytani",
+            "id": "2309966472",
+            "org": "Computer Science Department|University of Haifa"
+        },
+        {
+            "name": "Larry M. Manevitz",
+            "id": "2089803923",
+            "org": "Computer Science Department|University of Haifa"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Heuristic",
+        "Data mining",
+        "Collaborative filtering",
+        "Computer science",
+        "Recommender system",
+        "Limiting",
+        "Scalability"
+    ],
+    "references": [
+        "1489934930",
+        "1532852017",
+        "1552227627",
+        "1959619913",
+        "1996283866",
+        "2020480318",
+        "2085937320",
+        "2107961623",
+        "2110325612",
+        "2117354486",
+        "2151281839",
+        "2163059190"
+    ]
+}

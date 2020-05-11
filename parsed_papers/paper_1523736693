@@ -1,0 +1,34 @@
+{
+    "id": "1523736693",
+    "title": "A Three-Valued Logic for Refinement",
+    "venue": "formal methods",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Jim Grundy",
+            "id": "2632251324",
+            "org": "University of Cambridge"
+        }
+    ],
+    "fields_of_study": [
+        "Predicate transformer semantics",
+        "Theoretical computer science",
+        "Fifth-generation programming language",
+        "Semantics (computer science)",
+        "Operational semantics",
+        "Logic programming",
+        "Algorithm",
+        "Programming domain",
+        "Programming language theory",
+        "Well-founded semantics",
+        "Computer science"
+    ],
+    "references": [
+        "1579696352",
+        "1748927325",
+        "2030865387",
+        "2036869460",
+        "2089387242",
+        "2103953153"
+    ]
+}

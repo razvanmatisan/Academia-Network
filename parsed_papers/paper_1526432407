@@ -1,0 +1,32 @@
+{
+    "id": "1526432407",
+    "title": "Executable Specifications based on Dynamic Algebras",
+    "venue": "international conference on logic programming",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Angelica Maria Kappel",
+            "id": "2681920543",
+            "org": "Universitat Bonn"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Language Of Temporal Ordering Specification",
+        "Transition system",
+        "Algebraic specification",
+        "Computer science",
+        "Specification language",
+        "Decision tree",
+        "Operational semantics",
+        "Programming language",
+        "Executable",
+        "Prolog"
+    ],
+    "references": [
+        "3122368",
+        "235921957",
+        "1479704934",
+        "1531374985"
+    ]
+}

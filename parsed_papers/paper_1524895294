@@ -1,0 +1,50 @@
+{
+    "id": "1524895294",
+    "title": "DyKnow : A Framework for Processing Dynamic Knowledge and Object Structures in Autonomous Systems",
+    "venue": "MSRAS",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Fredrik Heintz",
+            "id": "2161894043",
+            "org": "Linkoping University"
+        },
+        {
+            "name": "Patrick Doherty",
+            "id": "2118756264",
+            "org": "Linkoping University"
+        }
+    ],
+    "fields_of_study": [
+        "Common Object Request Broker Architecture",
+        "Software framework",
+        "Architecture",
+        "Autonomous system (Internet)",
+        "On the fly",
+        "Linear temporal logic",
+        "Autonomous system (mathematics)",
+        "Distributed computing",
+        "Systems engineering",
+        "Computer science"
+    ],
+    "references": [
+        "158032981",
+        "1480674034",
+        "1491731914",
+        "1498925777",
+        "1554699568",
+        "1598659460",
+        "1878683698",
+        "1909730685",
+        "2001474264",
+        "2064084932",
+        "2099296022",
+        "2113056857",
+        "2114445889",
+        "2114701528",
+        "2120824905",
+        "2137069466",
+        "2149576945",
+        "2398660820"
+    ]
+}

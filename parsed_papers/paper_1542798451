@@ -1,0 +1,43 @@
+{
+    "id": "1542798451",
+    "title": "CLOUDS: a decision tree classifier for large datasets",
+    "venue": "knowledge discovery and data mining",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Khaled Alsabti",
+            "id": "224243590",
+            "org": "Department of EECS, Syracuse University#TAB#"
+        },
+        {
+            "name": "Sanjay Ranka",
+            "id": "2155894599",
+            "org": "Department of CISE, University of Florida#TAB#"
+        },
+        {
+            "name": "Vineet Singh",
+            "id": "2308610918",
+            "org": "Information Technology Lab, Hitachi America, Ltd.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Machine learning",
+        "Decision tree",
+        "Computer science",
+        "Discretization",
+        "Sampling (statistics)",
+        "Synthetic data",
+        "Cloud computing",
+        "Decision tree learning",
+        "Incremental decision tree",
+        "ID3 algorithm",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "85229681",
+        "1483135265",
+        "1576962511"
+    ]
+}

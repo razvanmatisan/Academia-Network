@@ -1,0 +1,31 @@
+{
+    "id": "1515600060",
+    "title": "Operational semantics for fun and profit",
+    "venue": "CSP'04 Proceedings of the 2004 international conference on Communicating Sequential Processes: the First 25 Years",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Michael Goldsmith",
+            "id": "2130286953",
+            "org": "Formal Systems (Europe) Ltd#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Programming language",
+        "Inference",
+        "Denotational semantics",
+        "Probabilistic logic",
+        "Complex system",
+        "Denotational semantics of the Actor model",
+        "Action semantics",
+        "Theoretical computer science",
+        "Operational semantics",
+        "Bottleneck",
+        "Computer science"
+    ],
+    "references": [
+        "1573008663",
+        "1699855653",
+        "1702401680"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": "1019324084",
+    "title": "Automatic extraction of chinese V-N collocations",
+    "venue": "workshop on chinese lexical semantics",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Xiaofei Qian",
+            "id": "2412817330",
+            "org": "College of Liberal Arts, Shanghai University, Shanghai, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Part of speech",
+        "Mutual information",
+        "Natural language processing",
+        "Collocation",
+        "Artificial intelligence",
+        "Syntax",
+        "Computer science"
+    ],
+    "references": [
+        "1593045043",
+        "1940278502"
+    ]
+}

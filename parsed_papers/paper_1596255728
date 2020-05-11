@@ -1,0 +1,34 @@
+{
+    "id": "1596255728",
+    "title": "Interactive Constraint-Based Sequential Pattern Mining",
+    "venue": "advances in databases and information systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Marek Wojciechowski",
+            "id": "2128883180",
+            "org": "Poznan University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Database",
+        "Data mining",
+        "Sequential Pattern Mining",
+        "Cache",
+        "Satisfiability",
+        "Iterative and incremental development",
+        "Information extraction"
+    ],
+    "references": [
+        "1541487494",
+        "1641039719",
+        "1972873066",
+        "1990800901",
+        "1998631319",
+        "2033534831",
+        "2052629503",
+        "2108457969",
+        "2158454296"
+    ]
+}

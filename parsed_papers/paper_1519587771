@@ -1,0 +1,39 @@
+{
+    "id": "1519587771",
+    "title": "Effect of synthetic emotions on agents' learning speed and their survivability",
+    "venue": "european conference on artificial life",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Sarunas Raudys",
+            "id": "2636405468",
+            "org": "Vilnius Gediminas Technical University, Vilnius, Lithuania#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Supervised learning",
+        "Perceptron",
+        "Artificial intelligence",
+        "Artificial life",
+        "Yerkes-Dodson law",
+        "Artificial neural network",
+        "Multi-agent system",
+        "Computer science",
+        "Population",
+        "Cognition"
+    ],
+    "references": [
+        "372779940",
+        "1506900545",
+        "1517152817",
+        "1551367334",
+        "1567802871",
+        "1878277808",
+        "2073675454",
+        "2114858854",
+        "2121335607",
+        "2121863487",
+        "2160208155"
+    ]
+}

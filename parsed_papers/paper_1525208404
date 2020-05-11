@@ -1,0 +1,39 @@
+{
+    "id": "1525208404",
+    "title": "CEL: a polynomial-time reasoner for life science ontologies",
+    "venue": "international joint conference on automated reasoning",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Franz Baader",
+            "id": "2037598615",
+            "org": "Theoretical Computer Science, TU Dresden, Germany#TAB#"
+        },
+        {
+            "name": "Carsten Lutz",
+            "id": "2394551344",
+            "org": "Theoretical Computer Science, TU Dresden, Germany#TAB#"
+        },
+        {
+            "name": "Boontawee Suntisrivaraporn",
+            "id": "2397131004",
+            "org": "Theoretical Computer Science, TU Dresden, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hierarchy",
+        "Time complexity",
+        "Discrete mathematics",
+        "Algorithm",
+        "Description logic",
+        "Expressive power",
+        "Knowledge representation and reasoning",
+        "Spite",
+        "Ontology (information science)",
+        "Semantic reasoner",
+        "Mathematics"
+    ],
+    "references": [
+        "62327733"
+    ]
+}

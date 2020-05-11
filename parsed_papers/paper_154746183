@@ -1,0 +1,31 @@
+{
+    "id": "154746183",
+    "title": "Modeling Emotion and Attitude in Speech by Means of Perceptually Based Parameter Values",
+    "venue": "User Modeling and User-adapted Interaction",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Sylvie J. L. Mozziconacci",
+            "id": "2654136913",
+            "org": "IPO, Center for User-System Interaction, Eindhoven, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Speech recognition",
+        "Speech perception",
+        "Experimental phonetics",
+        "Computer science",
+        "Speech technology",
+        "Indignation",
+        "Utterance",
+        "Prosody",
+        "Motor theory of speech perception",
+        "Expressed emotion"
+    ],
+    "references": [
+        "158957827",
+        "302805551",
+        "2008518011",
+        "2428180336"
+    ]
+}

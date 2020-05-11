@@ -1,0 +1,31 @@
+{
+    "id": "1514529756",
+    "title": "A Logic for Reasoning about Relative Similarity",
+    "venue": "Studia Logica",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Beata Konikowska",
+            "id": "115791344",
+            "org": "Institute of Computer Science, Polish Academy of Sciences, Warsaw, Poland"
+        }
+    ],
+    "fields_of_study": [
+        "Completeness (statistics)",
+        "Discrete mathematics",
+        "Approximations of p",
+        "Mathematics",
+        "Binary relation",
+        "Modalities",
+        "Combinatorics",
+        "Modal logic",
+        "Semantic similarity",
+        "Accessibility relation",
+        "Rough set"
+    ],
+    "references": [
+        "120535683",
+        "291856169",
+        "2340020088"
+    ]
+}

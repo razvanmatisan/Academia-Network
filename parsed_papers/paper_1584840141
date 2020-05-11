@@ -1,0 +1,34 @@
+{
+    "id": "1584840141",
+    "title": "Learning Classification Rules Using Lattices (Extended Abstract)",
+    "venue": "european conference on machine learning",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Mehran Sahami",
+            "id": "112933558",
+            "org": "Computer Science Department, Stanford University, Stanford#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Active learning (machine learning)",
+        "Semi-supervised learning",
+        "Learning classifier system",
+        "Instance-based learning",
+        "Algorithmic learning theory",
+        "Decision list",
+        "Machine learning",
+        "Stability (learning theory)",
+        "Heuristics",
+        "Artificial intelligence",
+        "Mathematics"
+    ],
+    "references": [
+        "155922897",
+        "156839038",
+        "2009207944",
+        "2125055259",
+        "2136000097",
+        "2428981601"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1410586065",
+    "title": "Cloud computing in educational applications methods of virtual desktops deployment",
+    "venue": "computer aided systems theory",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Agata Brzozowska",
+            "id": "2129585766",
+            "org": "Wroclaw University of Technology"
+        },
+        {
+            "name": "Jerzy W. Greblicki",
+            "id": "1790132599",
+            "org": "Wroclaw University of Technology"
+        },
+        {
+            "name": "Jerzy Kotowski",
+            "id": "1966326300",
+            "org": "Wroclaw University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic algorithm",
+        "Software deployment",
+        "Desktop virtualization",
+        "Utility computing",
+        "Computer science",
+        "Theoretical computer science",
+        "Scheduling (computing)",
+        "Distributed computing",
+        "Cloud computing",
+        "Virtual desktop",
+        "Virtual machine"
+    ],
+    "references": [
+        "1573806344",
+        "2097478770",
+        "2099787804"
+    ]
+}

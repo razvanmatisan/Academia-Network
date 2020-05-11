@@ -1,0 +1,37 @@
+{
+    "id": "1526554788",
+    "title": "An Introduction to Case-Based Reasoning",
+    "venue": "Proceedings of the First United Kingdom Workshop on Progress in Case-Based Reasoning",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Ian D. Watson",
+            "id": "1508472518",
+            "org": "University of Salford, Salford,"
+        }
+    ],
+    "fields_of_study": [
+        "Opportunistic reasoning",
+        "Natural language processing",
+        "Model-based reasoning",
+        "Verbal reasoning",
+        "Psychology of reasoning",
+        "Reasoning system",
+        "Deductive reasoning",
+        "Abductive reasoning",
+        "Case-based reasoning",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1564733196",
+        "1565034312",
+        "2026161499",
+        "2061679668",
+        "2082695062",
+        "2108270708",
+        "2118472084",
+        "2126385963",
+        "2157510889"
+    ]
+}

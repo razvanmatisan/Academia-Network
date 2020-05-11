@@ -1,0 +1,38 @@
+{
+    "id": "1496879903",
+    "title": "Holonic risk management framework",
+    "venue": "systems, man and cybernetics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Mihaela Ulieru",
+            "id": "2291213726",
+            "org": "Emergent Inf. Syst. Lab., Calgary Univ., Alta., Canada"
+        },
+        {
+            "name": "Paul R. Worthington",
+            "id": "2123847542",
+            "org": "Emergent Inf. Syst. Lab., Calgary Univ., Alta., Canada"
+        }
+    ],
+    "fields_of_study": [
+        "Risk management information systems",
+        "Machine learning",
+        "Management science",
+        "Risk management",
+        "Artificial intelligence",
+        "Threat",
+        "ITIL security management",
+        "Computer science",
+        "Security information and event management",
+        "Critical infrastructure",
+        "IT risk management",
+        "Risk management framework",
+        "Knowledge management"
+    ],
+    "references": [
+        "1822559630",
+        "2041898915",
+        "2151208789"
+    ]
+}

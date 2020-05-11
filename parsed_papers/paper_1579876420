@@ -1,0 +1,32 @@
+{
+    "id": "1579876420",
+    "title": "Hiding Data in the OSI Network Model",
+    "venue": "information hiding",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Theodore G. Handel",
+            "id": "2000902970",
+            "org": "Los Alamos National Laboratory"
+        },
+        {
+            "name": "Maxwell T. Sandford",
+            "id": "2033099388",
+            "org": "Los Alamos National Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Encapsulation (networking)",
+        "Network architecture",
+        "Theoretical computer science",
+        "Communications protocol",
+        "Alice and Bob",
+        "Computer science",
+        "Network management application",
+        "Distributed computing",
+        "Presentation layer",
+        "Cognitive network",
+        "Internetwork protocol"
+    ],
+    "references": []
+}

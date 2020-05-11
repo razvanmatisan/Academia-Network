@@ -1,0 +1,46 @@
+{
+    "id": "1649767076",
+    "title": "Routing of embryonic arrays using genetic algorithms",
+    "venue": "international conference on evolvable systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Cesar Ortega-Sanchez",
+            "id": "2643788728",
+            "org": "Institute of Electrical Research, Department of Control and Instrumentation, Cuernavaca, Morelos, Mexico#TAB#"
+        },
+        {
+            "name": "Jose Torres-Jimenez",
+            "id": "182558148",
+            "org": "Computer Science Department, ITESM, Temixco, Morelos, Mexico#TAB#"
+        },
+        {
+            "name": "Jorge Morales-Cruz",
+            "id": "306948210",
+            "org": "Electronics Department, CENIDET, Cuernavaca, Morelos, Mexico#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Static routing",
+        "Computer network",
+        "Metrics",
+        "Link-state routing protocol",
+        "Routing table",
+        "Enhanced Interior Gateway Routing Protocol",
+        "Equal-cost multi-path routing",
+        "Algorithm",
+        "Distributed computing",
+        "Dynamic Source Routing",
+        "Computer science",
+        "Destination-Sequenced Distance Vector routing"
+    ],
+    "references": [
+        "1538793976",
+        "1562913684",
+        "1639032689",
+        "1654170557",
+        "2065129000",
+        "2116210613",
+        "2128160413"
+    ]
+}

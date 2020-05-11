@@ -1,0 +1,33 @@
+{
+    "id": "1517276975",
+    "title": "Pi-Calculus Semantics of Object-Oriented Programming Languages",
+    "venue": "international conference on theoretical aspects of computer software",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "David Walker",
+            "id": "2893383834",
+            "org": "Department of Computer Science, University of Technology, Sydney, Australia"
+        }
+    ],
+    "fields_of_study": [
+        "Fourth-generation programming language",
+        "Denotational semantics",
+        "Comparison of multi-paradigm programming languages",
+        "Fifth-generation programming language",
+        "Semantics (computer science)",
+        "Programming language",
+        "Second-generation programming language",
+        "Theoretical computer science",
+        "Programming language theory",
+        "Third-generation programming language",
+        "Computer science"
+    ],
+    "references": [
+        "1503973138",
+        "2008593634",
+        "2032265482",
+        "2041828955",
+        "2170626879"
+    ]
+}

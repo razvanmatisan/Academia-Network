@@ -1,0 +1,45 @@
+{
+    "id": "1507048228",
+    "title": "Overlay Wireless Sensor Networks for Application-Adaptive Scheduling in WLAN",
+    "venue": "international conference on communications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Sonia Waharte",
+            "id": "178249474",
+            "org": "University of Waterloo"
+        },
+        {
+            "name": "Jin Xiao",
+            "id": "2263335783",
+            "org": "University of Waterloo"
+        },
+        {
+            "name": "Raouf Boutaba",
+            "id": "2202639077",
+            "org": "University of Waterloo"
+        }
+    ],
+    "fields_of_study": [
+        "Wireless sensor network",
+        "Real-time computing",
+        "Computer network",
+        "Wireless network",
+        "Sensor array",
+        "Architecture",
+        "Virtual network",
+        "Quality of service",
+        "Adaptability",
+        "Sensor node",
+        "Computer science"
+    ],
+    "references": [
+        "1630367614",
+        "1731982387",
+        "2073440460",
+        "2097831241",
+        "2122018530",
+        "2138245691",
+        "2171872428"
+    ]
+}

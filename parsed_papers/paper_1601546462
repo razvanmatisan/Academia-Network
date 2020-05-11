@@ -1,0 +1,35 @@
+{
+    "id": "1601546462",
+    "title": "An asian study of healthcare web portals: implications for healthcare digital libraries",
+    "venue": "international conference on asian digital libraries",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Yin-Leng Theng",
+            "id": "72026323",
+            "org": "Division of Information Studies, School of Communication and Information, Nanyang Technological University, Singapore#TAB#"
+        },
+        {
+            "name": "Eng-Soon Soh",
+            "id": "2153459821",
+            "org": "Division of Information Studies, School of Communication and Information, Nanyang Technological University, Singapore#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Data mining",
+        "Knowledge management",
+        "Usability",
+        "Health care",
+        "World Wide Web",
+        "Digital library",
+        "Public health",
+        "Persuasive technology",
+        "Credibility",
+        "The Internet"
+    ],
+    "references": [
+        "2066136019",
+        "2095478627"
+    ]
+}

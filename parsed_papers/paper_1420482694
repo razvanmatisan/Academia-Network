@@ -1,0 +1,36 @@
+{
+    "id": "1420482694",
+    "title": "Continuous reinforcement learning to robust fault tolerant control for a class of unknown nonlinear systems",
+    "venue": "Applied Soft Computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Faezeh Farivar",
+            "id": "2076332169",
+            "org": "Control and Intelligence Processing Center of Excellence, School of ECE, Faculty of Engineering, University of Tehran, Iran#TAB#"
+        },
+        {
+            "name": "Majid Nili Ahmadabadi",
+            "id": "2164566917",
+            "org": "Control and Intelligence Processing Center of Excellence, School of ECE, Faculty of Engineering, University of Tehran, Iran#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nonlinear control",
+        "Mathematics",
+        "Machine learning",
+        "Errors and residuals",
+        "Artificial intelligence",
+        "Reinforcement learning",
+        "Artificial neural network",
+        "Robustness (computer science)",
+        "Control theory",
+        "Lyapunov function",
+        "Variable structure control",
+        "Adaptive control"
+    ],
+    "references": [
+        "1531900088",
+        "2110710005"
+    ]
+}

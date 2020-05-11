@@ -1,0 +1,46 @@
+{
+    "id": "1608530972",
+    "title": "Reactive Tuple Spaces for Mobile Agent Coordination",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Giacomo Cabri",
+            "id": "2112787293",
+            "org": "Universita di Modena"
+        },
+        {
+            "name": "Letizia Leonardi",
+            "id": "2118908193",
+            "org": "Universita di Modena"
+        },
+        {
+            "name": "Franco Zambonelli",
+            "id": "316764885",
+            "org": "Universita di Modena"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile agent",
+        "Distributed computing",
+        "Tuple",
+        "Tuple space",
+        "Mars Exploration Program",
+        "Java",
+        "Object-oriented programming",
+        "Mobile computing",
+        "Systems architecture",
+        "Computer science"
+    ],
+    "references": [
+        "205779041",
+        "1483827732",
+        "1584905681",
+        "1981994545",
+        "2069075027",
+        "2106529232",
+        "2113354159",
+        "2144613797",
+        "2144974879"
+    ]
+}

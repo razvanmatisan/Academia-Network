@@ -1,0 +1,38 @@
+{
+    "id": "1518575526",
+    "title": "A performance study of a service covering protocol in ad hoc networks",
+    "venue": "international conference on networks",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Eric Fleury",
+            "id": "2779280794",
+            "org": "LORIA INRIA, Vandoeuvre-les-Nancy, France"
+        },
+        {
+            "name": "Hend Koubaa",
+            "id": "277690283",
+            "org": "LORIA INRIA, Vandoeuvre-les-Nancy, France"
+        }
+    ],
+    "fields_of_study": [
+        "Optimized Link State Routing Protocol",
+        "Adaptive quality of service multi-hop routing",
+        "Computer network",
+        "Distributed computing",
+        "Wireless Routing Protocol",
+        "Dynamic circuit network",
+        "Vehicular ad hoc network",
+        "Ad hoc wireless distribution service",
+        "Internet layer",
+        "Link Control Protocol",
+        "Computer science"
+    ],
+    "references": [
+        "1534484868",
+        "1986530072",
+        "1989163006",
+        "2005900781",
+        "2012987308"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "1489755672",
+    "title": "The Rewriting Calculus as a Semantics of ELAN",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Horatiu Cirstea",
+            "id": "157951280",
+            "org": "LORIA - INRIA"
+        },
+        {
+            "name": "Claude Kirchner",
+            "id": "2168512137",
+            "org": "LORIA - INRIA"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Calculus",
+        "Operational semantics",
+        "Automated theorem proving",
+        "Computer science",
+        "Rewriting"
+    ],
+    "references": [
+        "1566084073",
+        "1578846473"
+    ]
+}

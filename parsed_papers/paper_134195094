@@ -1,0 +1,38 @@
+{
+    "id": "134195094",
+    "title": "Maximizing the benefits of parallel search using machine learning",
+    "venue": "national conference on artificial intelligence",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Diane J. Cook",
+            "id": "2106796750",
+            "org": "University of Texas at Arlington, Arlington, TX#TAB#"
+        },
+        {
+            "name": "R. Craig Varnell",
+            "id": "2153013904",
+            "org": "University of Texas at Arlington, Arlington, TX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Machine learning",
+        "Motion planning",
+        "Incremental heuristic search",
+        "Artificial intelligence",
+        "Hyper-heuristic",
+        "MIMD",
+        "Combinatorial search",
+        "Computer science",
+        "Load balancing (computing)",
+        "Best-first search"
+    ],
+    "references": [
+        "1588745704",
+        "1978585362",
+        "2028247234",
+        "2051319868",
+        "2152002393"
+    ]
+}

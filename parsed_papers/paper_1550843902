@@ -1,0 +1,34 @@
+{
+    "id": "1550843902",
+    "title": "An Ambient Intelligence Application Integrating Agent and Service-Oriented Technologies",
+    "venue": "International Conference on Innovative Techniques and Applications of Artificial Intelligence",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Nikolaos I. Spanoudakis",
+            "id": "1985257208",
+            "org": "Singular Logic S.A."
+        },
+        {
+            "name": "Pavlos Moraitis",
+            "id": "675137120",
+            "org": "Paris Descartes University"
+        }
+    ],
+    "fields_of_study": [
+        "Service-orientation",
+        "Information system",
+        "Intelligent agent",
+        "Architecture",
+        "Service-oriented architecture",
+        "Multi-agent system",
+        "Engineering",
+        "Ambient intelligence",
+        "Systems engineering"
+    ],
+    "references": [
+        "144213128",
+        "1980988800",
+        "2073345218"
+    ]
+}

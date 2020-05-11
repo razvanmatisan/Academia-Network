@@ -1,0 +1,38 @@
+{
+    "id": "1520063953",
+    "title": "Exploiting informative priors for Bayesian classification and regression trees",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Nicos Angelopoulos",
+            "id": "2511484482",
+            "org": "Department of Computer Science, University of York, Heslington, York, UK#TAB#"
+        },
+        {
+            "name": "James Cussens",
+            "id": "85875434",
+            "org": "Department of Computer Science, University of York, Heslington, York, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Marginal likelihood",
+        "Statistics",
+        "Variable-order Bayesian network",
+        "Bayesian multivariate linear regression",
+        "Bayesian statistics",
+        "Bayesian linear regression",
+        "Prior probability",
+        "Naive Bayes classifier",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Mathematics",
+        "Statistical model"
+    ],
+    "references": [
+        "1480567662",
+        "1582613186",
+        "2018807138",
+        "2060088827"
+    ]
+}

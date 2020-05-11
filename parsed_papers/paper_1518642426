@@ -1,0 +1,35 @@
+{
+    "id": "1518642426",
+    "title": "The rank join problem",
+    "venue": "Search computing",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Neoklis Polyzotis",
+            "id": "339589296",
+            "org": "University of California, Santa Cruz#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Join dependency",
+        "Computation",
+        "Monotonic function",
+        "Discrete mathematics",
+        "Trade-off",
+        "Ranking",
+        "Score",
+        "Mathematics"
+    ],
+    "references": [
+        "1600580971",
+        "1989800045",
+        "2020919487",
+        "2084538728",
+        "2106376606",
+        "2109402524",
+        "2133863472",
+        "2143682328",
+        "2160987984",
+        "2666600683"
+    ]
+}

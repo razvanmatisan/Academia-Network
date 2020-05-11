@@ -1,0 +1,50 @@
+{
+    "id": "1487025026",
+    "title": "MLP Neural Network Implementation on a SIMD Architecture",
+    "venue": "italian workshop on neural nets",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Salvatore Vitabile",
+            "id": "2307836600",
+            "org": "Italian National Research Council"
+        },
+        {
+            "name": "Antonio Gentile",
+            "id": "2104744192",
+            "org": "University of Palermo"
+        },
+        {
+            "name": "G. B. Dammone",
+            "id": "357731792",
+            "org": "University of Palermo"
+        },
+        {
+            "name": "Filippo Sorbello",
+            "id": "43830397",
+            "org": "University of Palermo"
+        }
+    ],
+    "fields_of_study": [
+        "Color image",
+        "Perceptron",
+        "Machine learning",
+        "Computer science",
+        "SIMD",
+        "Network architecture",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Artificial neural network",
+        "Multilayer perceptron",
+        "Architecture",
+        "Pixel"
+    ],
+    "references": [
+        "1501691825",
+        "1939256368",
+        "1985039093",
+        "1987857333",
+        "2047648341",
+        "2164230999"
+    ]
+}

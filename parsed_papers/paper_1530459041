@@ -1,0 +1,31 @@
+{
+    "id": "1530459041",
+    "title": "Generalized do-calculus with testable causal assumptions",
+    "venue": "international conference on artificial intelligence and statistics",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Jiji Zhang",
+            "id": "2132982051",
+            "org": "California Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Probability distribution",
+        "Conditional independence",
+        "Causal reasoning",
+        "Machine learning",
+        "Discrete mathematics",
+        "Forcing (mathematics)",
+        "Causal structure",
+        "Directed acyclic graph",
+        "Artificial intelligence",
+        "Equivalence class",
+        "Computer science",
+        "Random variable"
+    ],
+    "references": [
+        "1673419196",
+        "1953155912"
+    ]
+}

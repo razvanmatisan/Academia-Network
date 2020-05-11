@@ -1,0 +1,47 @@
+{
+    "id": "1577902578",
+    "title": "Automatically Generated DAML Markup for Semistructured Documents",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "William Krueger",
+            "id": "2480234139",
+            "org": "UMBC"
+        },
+        {
+            "name": "Jonathan Nilsson",
+            "id": "2168564695",
+            "org": "UMBC"
+        },
+        {
+            "name": "Tim Oates",
+            "id": "2217452330",
+            "org": "UMBC"
+        },
+        {
+            "name": "Tim Finin",
+            "id": "2066282134",
+            "org": "UMBC"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Semantic Web Rule Language",
+        "XHTML",
+        "OWL-S",
+        "Collaborative Application Markup Language",
+        "PCDATA",
+        "World Wide Web",
+        "RuleML",
+        "Semantic Web Stack",
+        "DARPA Agent Markup Language",
+        "Computer science"
+    ],
+    "references": [
+        "1616576116",
+        "2032117162",
+        "2062828083",
+        "2106409346"
+    ]
+}

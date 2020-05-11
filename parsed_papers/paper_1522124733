@@ -1,0 +1,30 @@
+{
+    "id": "1522124733",
+    "title": "Temporal Conversion Functions for Multitemporal Relational Databases",
+    "venue": "conference on current trends in theory and practice of informatics",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Cristina De Castro",
+            "id": "2124946180",
+            "org": "University of Bologna"
+        }
+    ],
+    "fields_of_study": [
+        "Relational algebra",
+        "Relational database",
+        "Information retrieval",
+        "Database theory",
+        "Relational calculus",
+        "Computer science",
+        "Database design",
+        "Database model",
+        "Relational model",
+        "Data mining",
+        "Spatiotemporal database"
+    ],
+    "references": [
+        "1589223644",
+        "2142026796"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": "10282080",
+    "title": "Reduced Nondeterministic Finite Automata for Approximate String Matching.",
+    "venue": "prague stringology conference",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Jan Holub",
+            "id": "2007202250",
+            "org": "Czech Technical University in Prague"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Deterministic finite automaton",
+        "Quantum finite automata",
+        "Generalized nondeterministic finite automaton",
+        "Nondeterministic algorithm",
+        "Approximate string matching",
+        "Automaton",
+        "Nondeterministic finite automaton",
+        "Computer science",
+        "Automata theory"
+    ],
+    "references": [
+        "1981409766",
+        "2045821558"
+    ]
+}

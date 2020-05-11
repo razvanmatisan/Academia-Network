@@ -1,0 +1,37 @@
+{
+    "id": "1820805405",
+    "title": "A hierarchical world model with sensor- and task-specific features",
+    "venue": "intelligent robots and systems",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Alexa Hauck",
+            "id": "2164027224",
+            "org": "Dept. of Process Control Comput., Tech. Univ. Munchen, Germany"
+        },
+        {
+            "name": "Norbert O. Stoffler",
+            "id": "1577122308",
+            "org": "Department of Process Control Computers|Technische Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel manipulator",
+        "Mobile robot",
+        "Artificial intelligence",
+        "Computer vision",
+        "Solid modeling",
+        "Signal processing",
+        "Process control",
+        "Perception",
+        "Autonomous robot",
+        "Robustness (computer science)",
+        "Computer science"
+    ],
+    "references": [
+        "1554824894",
+        "1997228568",
+        "2066259708",
+        "2143802288"
+    ]
+}

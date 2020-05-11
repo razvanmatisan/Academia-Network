@@ -1,0 +1,27 @@
+{
+    "id": "1713128408",
+    "title": "Core Elements of Digital Gazetteers: Placenames, Categories, and Footprints",
+    "venue": "european conference on research and advanced technology for digital libraries",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Linda L. Hill",
+            "id": "2281359791",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Footprint",
+        "Information retrieval",
+        "Terminology",
+        "Digital library",
+        "Georeference",
+        "Proper noun",
+        "Standard Industrial Classification",
+        "Typology"
+    ],
+    "references": [
+        "2008286124"
+    ]
+}

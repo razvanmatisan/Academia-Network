@@ -1,0 +1,34 @@
+{
+    "id": "1806205327",
+    "title": "Development of an engineering knowledge extraction framework",
+    "venue": "international conference on computational collective intelligence",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Chengter Ho",
+            "id": "2776791126",
+            "org": "National Kaohsiung University of Applied Sciences, Kaohsiung, Taiwan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Process ontology",
+        "Data mining",
+        "Ontology-based data integration",
+        "Suggested Upper Merged Ontology",
+        "Natural language processing",
+        "Computer science",
+        "Ontology (information science)",
+        "Upper ontology",
+        "Ontology chart",
+        "Open Knowledge Base Connectivity",
+        "Ontology Inference Layer",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "121805954",
+        "1550602550",
+        "1670748022",
+        "2122297854",
+        "2142590813"
+    ]
+}

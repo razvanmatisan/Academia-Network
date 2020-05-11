@@ -1,0 +1,41 @@
+{
+    "id": "102336814",
+    "title": "Cryptanalysis of Rabbit",
+    "venue": "international conference on information security",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Yi Lu",
+            "id": "2696106185",
+            "org": "Division of Mathematical Sciences School of Physical & Mathematical Sciences, Nanyang Technological University, Singapore#TAB#"
+        },
+        {
+            "name": "Huaxiong Wang",
+            "id": "2120427923",
+            "org": "Division of Mathematical Sciences School of Physical & Mathematical Sciences, Nanyang Technological University, Singapore and Centre for Advanced Computing - Algorithms and Cryptography Department ...#TAB#"
+        },
+        {
+            "name": "San Ling",
+            "id": "2134794795",
+            "org": "Division of Mathematical Sciences School of Physical & Mathematical Sciences, Nanyang Technological University, Singapore#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Fast Fourier transform",
+        "eSTREAM",
+        "Precomputation",
+        "Mathematics",
+        "Keystream",
+        "Cryptanalysis",
+        "Distinguishing attack",
+        "Theoretical computer science",
+        "Nonlinear system",
+        "Stream cipher"
+    ],
+    "references": [
+        "31093886",
+        "1570998442",
+        "1709606117",
+        "2406342588"
+    ]
+}

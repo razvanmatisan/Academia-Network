@@ -1,0 +1,48 @@
+{
+    "id": "150963051",
+    "title": "Towards Social Semantic Suggestive Tagging.",
+    "venue": "semantic web applications and perspectives",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Fabio Calefato",
+            "id": "216142212",
+            "org": "University of Bari"
+        },
+        {
+            "name": "Domenico Gendarmi",
+            "id": "91807272",
+            "org": "University of Bari"
+        },
+        {
+            "name": "Filippo Lanubile",
+            "id": "226020416",
+            "org": "University of Bari"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "User experience design",
+        "Computer science",
+        "World Wide Web",
+        "Semantic Web",
+        "Social Semantic Web",
+        "Recommender system",
+        "Vocabulary",
+        "Semantic Web Stack",
+        "Online community",
+        "Content analysis"
+    ],
+    "references": [
+        "164399205",
+        "1549014378",
+        "1599843592",
+        "2039759410",
+        "2042281163",
+        "2067634822",
+        "2102775690",
+        "2103467726",
+        "2167699886",
+        "2171145629"
+    ]
+}

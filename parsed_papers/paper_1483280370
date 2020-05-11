@@ -1,0 +1,33 @@
+{
+    "id": "1483280370",
+    "title": "Why information security is hard - an economic perspective",
+    "venue": "annual computer security applications conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Ross J. Anderson",
+            "id": "2120643228",
+            "org": "Comput. Lab., Cambridge Univ., UK"
+        }
+    ],
+    "fields_of_study": [
+        "Security through obscurity",
+        "Information security standards",
+        "Computer security",
+        "Information security management",
+        "Asset (computer security)",
+        "Threat",
+        "Computer science",
+        "Information security audit",
+        "Information security",
+        "Economics of security"
+    ],
+    "references": [
+        "125192817",
+        "1559498407",
+        "1983629106",
+        "1995841147",
+        "2045571829",
+        "2118783124"
+    ]
+}

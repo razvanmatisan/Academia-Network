@@ -1,0 +1,37 @@
+{
+    "id": "1593059705",
+    "title": "Division Is in Uniform TC0",
+    "venue": "international colloquium on automata languages and programming",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "William Hesse",
+            "id": "2293554932",
+            "org": "University of Massachusetts"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Combinatorics",
+        "Turing reduction",
+        "TC0",
+        "Short division",
+        "Circuit complexity",
+        "Integer",
+        "Exponentiation",
+        "Polynomial long division",
+        "Polynomial",
+        "Mathematics"
+    ],
+    "references": [
+        "1984108045",
+        "2003519998",
+        "2007736689",
+        "2014850486",
+        "2063584607",
+        "2071732851",
+        "2093623799",
+        "2156501576",
+        "2165293955"
+    ]
+}

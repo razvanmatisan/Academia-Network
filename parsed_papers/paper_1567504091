@@ -1,0 +1,38 @@
+{
+    "id": "1567504091",
+    "title": "On optimizing feature vectors from efficient iris region normalization for a ubiquitous computing",
+    "venue": "international conference on computational science and its applications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Bong Jo Joung",
+            "id": "2000170263",
+            "org": "Department of Information and Control Engineering, Kwangwoon University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Woongjae Lee",
+            "id": "2160674196",
+            "org": "Division of Information and Communication Eng., Seoul Women's University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Iris recognition",
+        "Speech recognition",
+        "Biometrics",
+        "Normalization (statistics)",
+        "Smart card",
+        "Computer science",
+        "Feature vector",
+        "Distributed computing",
+        "Ubiquitous computing",
+        "Mobile computing",
+        "Artificial intelligence",
+        "Haar wavelet"
+    ],
+    "references": [
+        "1652220450",
+        "2102796633",
+        "2114212719"
+    ]
+}

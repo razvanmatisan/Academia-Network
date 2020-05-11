@@ -1,0 +1,40 @@
+{
+    "id": "1718473424",
+    "title": "Attribute-Specific Interchangeability in Constraint Satisfaction Problems",
+    "venue": "portuguese conference on artificial intelligence",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Alois Haselbock",
+            "id": "2892901463",
+            "org": "Technische Universitat Wien"
+        },
+        {
+            "name": "Markus Stumptner",
+            "id": "216094903",
+            "org": "Technische Universitat Wien"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint satisfaction dual problem",
+        "Constraint programming",
+        "Mathematical optimization",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Constraint graph",
+        "Local consistency",
+        "Computer science",
+        "Constraint logic programming",
+        "Constraint satisfaction problem",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "121704856",
+        "143545926",
+        "153965054",
+        "1596213854",
+        "1977583107",
+        "2030985429",
+        "2048294946",
+        "2068852367"
+    ]
+}

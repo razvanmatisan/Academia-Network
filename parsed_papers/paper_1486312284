@@ -1,0 +1,33 @@
+{
+    "id": "1486312284",
+    "title": "Knowledge intensive induction",
+    "venue": "international conference on machine learning",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Michel Manago",
+            "id": "2636741063",
+            "org": "IntelliSoft, 28 rue Georges Clemenceau, 91400, ORSAY, FRANCE"
+        }
+    ],
+    "fields_of_study": [
+        "Domain knowledge",
+        "Machine learning",
+        "Hierarchy",
+        "Version space",
+        "Artificial intelligence",
+        "Decision tree",
+        "Architecture",
+        "Pattern recognition",
+        "Discriminant",
+        "ID3 algorithm",
+        "Computer science",
+        "ID3"
+    ],
+    "references": [
+        "1547323662",
+        "1600615164",
+        "2009207944",
+        "2128420091"
+    ]
+}

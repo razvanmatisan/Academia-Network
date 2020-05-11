@@ -1,0 +1,42 @@
+{
+    "id": "1486244872",
+    "title": "Integrating inductive and deductive reasoning for data mining",
+    "venue": "knowledge discovery and data mining",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Evangelos Simoudis",
+            "id": "2644379111",
+            "org": "Lockheed Artificial Intelligence Center, Palo Alto, CA#TAB#"
+        },
+        {
+            "name": "Brian Livezey",
+            "id": "2099363347",
+            "org": "Lockheed Artificial Intelligence Center, Palo Alto, CA#TAB#"
+        },
+        {
+            "name": "Randy Kerber",
+            "id": "2144705180",
+            "org": "Lockheed Artificial Intelligence Center, Palo Alto, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Rule induction",
+        "Database theory",
+        "Computer science",
+        "Database",
+        "Concept mining",
+        "Data science",
+        "Database model",
+        "Data stream mining",
+        "Database design",
+        "Database schema",
+        "Spatiotemporal database"
+    ],
+    "references": [
+        "140846004",
+        "2101103738",
+        "2154126821"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1723768884",
+    "title": "Perception and change in update logic",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Jan van Eijck",
+            "id": "744370504",
+            "org": "CWI & ILLC, Amsterdam, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computational logic",
+        "Many-valued logic",
+        "Zeroth-order logic",
+        "Algorithm",
+        "Philosophy of logic",
+        "Dynamic logic (modal logic)",
+        "Multimodal logic",
+        "Predicate functor logic",
+        "Autoepistemic logic",
+        "Artificial intelligence",
+        "Mathematics"
+    ],
+    "references": [
+        "539049",
+        "1499617989",
+        "1518725080",
+        "1833876495",
+        "2022205872",
+        "2067483357",
+        "2083129093",
+        "2088135982",
+        "2096959337",
+        "2111706174",
+        "2114822521",
+        "2120613606",
+        "2170447572",
+        "2295569870",
+        "2336123333"
+    ]
+}

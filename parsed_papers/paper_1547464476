@@ -1,0 +1,46 @@
+{
+    "id": "1547464476",
+    "title": "Decision Rule Based Data Models Using NetTRS System Overview",
+    "venue": "Transactions on Rough Sets",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Marcin Michalak",
+            "id": "2048048290",
+            "org": "Institute of Computer Sciences, Silesian University of Technology, Gliwice, Poland 44-100#TAB#"
+        },
+        {
+            "name": "Marek Sikora",
+            "id": "2240229464",
+            "org": "Institute of Computer Sciences, Silesian University of Technology, Gliwice, Poland 44-100#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Rule induction",
+        "Artificial intelligence",
+        "Computer science",
+        "Web service",
+        "Data model",
+        "Data mining",
+        "Decision rule",
+        "Architecture",
+        "Data modeling",
+        "User interface",
+        "Rough set"
+    ],
+    "references": [
+        "1481566577",
+        "1517226445",
+        "1543766669",
+        "1558780827",
+        "1563123162",
+        "1576334797",
+        "1605948227",
+        "1810004342",
+        "2041738807",
+        "2097571405",
+        "2340020088",
+        "2753001986"
+    ]
+}

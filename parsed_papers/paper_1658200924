@@ -1,0 +1,31 @@
+{
+    "id": "1658200924",
+    "title": "A Self-Deploying Election Service for Active Networks",
+    "venue": "international conference on coordination models and languages",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Christian F. Tschudin",
+            "id": "2805848600",
+            "org": "Uppsala University"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Software deployment",
+        "Distributed computing",
+        "Active networking",
+        "Leader election",
+        "Network packet",
+        "Systems architecture",
+        "Real-time operating system",
+        "Bully algorithm",
+        "Testbed"
+    ],
+    "references": [
+        "187377319",
+        "1566625110",
+        "2071187449",
+        "2162844183"
+    ]
+}

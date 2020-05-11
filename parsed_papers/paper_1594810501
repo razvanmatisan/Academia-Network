@@ -1,0 +1,34 @@
+{
+    "id": "1594810501",
+    "title": "A world ontology specification language",
+    "venue": "international conference on move to meaningful internet systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jan L. G. Dietz",
+            "id": "2128625188",
+            "org": "Chair of Information Systems Design, Delft University of Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Conceptualization",
+        "Ontology",
+        "Specification language",
+        "State space",
+        "Upper ontology",
+        "Case-based reasoning",
+        "Ontology language",
+        "Ontology (information science)",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "14293016",
+        "199397188",
+        "1493596129",
+        "1564060515",
+        "1673429520",
+        "1996803739",
+        "2133109597"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "1594462889",
+    "title": "Using Symbolic Computation in an Automated Sequent Derivation System for Multi-valued Logic",
+    "venue": "artificial intelligence and symbolic computation",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Elena Smirnova",
+            "id": "2059134166",
+            "org": "University of Western Ontario"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "Second-order logic",
+        "Dynamic logic (modal logic)",
+        "Automated reasoning",
+        "Computational logic",
+        "Minimal logic",
+        "Linear temporal logic",
+        "Logic optimization",
+        "Substructural logic",
+        "Mathematics"
+    ],
+    "references": [
+        "1511500798",
+        "2118382442"
+    ]
+}

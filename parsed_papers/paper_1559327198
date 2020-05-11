@@ -1,0 +1,31 @@
+{
+    "id": "1559327198",
+    "title": "Quasi-Characteristic Inference Rules for Modal Logics",
+    "venue": "foundations of computer science",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Vladimir V. Rybakov",
+            "id": "2892935352",
+            "org": "Krasnoyarsk University"
+        }
+    ],
+    "fields_of_study": [
+        "Modal m-calculus",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Structural rule",
+        "T-norm fuzzy logics",
+        "Normal modal logic",
+        "Dynamic logic (modal logic)",
+        "Proof calculus",
+        "Accessibility relation",
+        "Computer science",
+        "Adaptive neuro fuzzy inference system"
+    ],
+    "references": [
+        "1495863714",
+        "2080678635",
+        "2138544762"
+    ]
+}

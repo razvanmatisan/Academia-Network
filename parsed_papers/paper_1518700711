@@ -1,0 +1,38 @@
+{
+    "id": "1518700711",
+    "title": "Upward Drawings of Search Trees (Extended Abstract)",
+    "venue": "workshop on graph theoretic concepts in computer science",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Pierluigi Crescenzi",
+            "id": "1965972254",
+            "org": "Dipartimento di Scienze"
+        },
+        {
+            "name": "Paolo Penna",
+            "id": "2193619655",
+            "org": "Dipartimento di Scienze dell'Informazione Via Salaria 113 00198 Roma Via Salaria 113 00198 Roma"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Optimal binary search tree",
+        "Red-black tree",
+        "Link/cut tree",
+        "Combinatorics",
+        "Scapegoat tree",
+        "Weight-balanced tree",
+        "Computer science",
+        "2-3 tree",
+        "Ternary search tree",
+        "Random binary tree"
+    ],
+    "references": [
+        "68495966",
+        "1771984599",
+        "1989650529",
+        "1992709202",
+        "2052943053"
+    ]
+}

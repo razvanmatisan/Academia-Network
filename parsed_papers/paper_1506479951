@@ -1,0 +1,42 @@
+{
+    "id": "1506479951",
+    "title": "A new probabilistic model for recognizing signs with systematic modulations",
+    "venue": "analysis and modeling of faces and gestures",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Sylvie C. W. Ong",
+            "id": "2022457571",
+            "org": "Department of Electrical and Computer Engineering, National University of Singapore, Singapore, Singapore#TAB#"
+        },
+        {
+            "name": "Surendra Ranganath",
+            "id": "2124042673",
+            "org": "Department of Electrical and Computer Engineering, National University of Singapore, Singapore, Singapore#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Lexical definition",
+        "American Sign Language",
+        "Pattern recognition",
+        "At sign",
+        "Sign language",
+        "Artificial intelligence",
+        "Particle filter",
+        "Machine learning",
+        "Computer science",
+        "Hierarchical hidden Markov model",
+        "Dynamic Bayesian network",
+        "Data stream mining"
+    ],
+    "references": [
+        "1528056001",
+        "1596739517",
+        "1636244751",
+        "1747251355",
+        "2085448378",
+        "2134067070",
+        "2152239535",
+        "2157827878"
+    ]
+}

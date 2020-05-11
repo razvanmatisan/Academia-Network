@@ -1,0 +1,28 @@
+{
+    "id": "1530361845",
+    "title": "A Tree-Trellis N-best Decoder for Stochastic Context-Free Grammars",
+    "venue": "conference of the international speech communication association",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Alexander Seward",
+            "id": "2097140540",
+            "org": "Centre for Speech Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Speech recognition",
+        "Modular design",
+        "Information and Computer Science",
+        "Natural language processing",
+        "Stochastic context-free grammar",
+        "Machine learning",
+        "Rule-based machine translation",
+        "Context-free grammar",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1625762979"
+    ]
+}

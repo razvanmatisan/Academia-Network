@@ -1,0 +1,47 @@
+{
+    "id": "1590842522",
+    "title": "Type Inference Verified: Algorithm W in Isabelle/HOL",
+    "venue": "types for proofs and programs",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Wolfgang Naraschewski",
+            "id": "154659470",
+            "org": "Technische Universitat Munchen"
+        },
+        {
+            "name": "Tobias Nipkow",
+            "id": "42605653",
+            "org": "Technische Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Functional programming",
+        "Discrete mathematics",
+        "Mathematical proof",
+        "HOL",
+        "Algorithm",
+        "Type variable",
+        "Rule of inference",
+        "Automated theorem proving",
+        "Type inference"
+    ],
+    "references": [
+        "1506492451",
+        "1522873391",
+        "1573802872",
+        "1577485093",
+        "1817375554",
+        "1829244603",
+        "1975957807",
+        "2015256273",
+        "2019994514",
+        "2094945667",
+        "2118032087",
+        "2151156765",
+        "2156926516",
+        "2163976959",
+        "2166822586"
+    ]
+}

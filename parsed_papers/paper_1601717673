@@ -1,0 +1,33 @@
+{
+    "id": "1601717673",
+    "title": "Masquerade detection via customized grammars",
+    "venue": "international conference on detection of intrusions and malware and vulnerability assessment",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Mario Latendresse",
+            "id": "2298522305",
+            "org": "Volt Services/Northrop Grumman, FNMOC U.S. Navy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "False positive rate",
+        "Sequitur algorithm",
+        "Intrusion detection system",
+        "Distributed computing",
+        "False positive paradox",
+        "Substring",
+        "Grammar",
+        "Artificial intelligence",
+        "Computer science",
+        "Rule-based machine translation",
+        "Context-free grammar"
+    ],
+    "references": [
+        "144999822",
+        "2105686649",
+        "2142638723",
+        "2167075285"
+    ]
+}

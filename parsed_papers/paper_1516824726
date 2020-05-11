@@ -1,0 +1,42 @@
+{
+    "id": "1516824726",
+    "title": "Complexity analysis by graph rewriting",
+    "venue": "international symposium on functional and logic programming",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Martin Avanzini",
+            "id": "1977783414",
+            "org": "Institute of Computer Science, University of Innsbruck, Austria#TAB#"
+        },
+        {
+            "name": "Georg Moser",
+            "id": "2101181956",
+            "org": "Institute of Computer Science, University of Innsbruck, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computability",
+        "Algorithm",
+        "Semi-Thue system",
+        "Theoretical computer science",
+        "Knuth-Bendix completion algorithm",
+        "Graph rewriting",
+        "Polynomial",
+        "Computational complexity theory",
+        "Confluence",
+        "Computer science",
+        "Rewriting"
+    ],
+    "references": [
+        "1539115503",
+        "1549644090",
+        "1569966513",
+        "1583295953",
+        "1883234726",
+        "1913470731",
+        "2023922836",
+        "2072482695",
+        "2135316487"
+    ]
+}

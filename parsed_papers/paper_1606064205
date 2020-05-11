@@ -1,0 +1,45 @@
+{
+    "id": "1606064205",
+    "title": "Information extraction from concise passages of natural language sources",
+    "venue": "advances in databases and information systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Sandi Pohorec",
+            "id": "318568039",
+            "org": "University of Maribor, Faculty of Electrical Engineering and Computer Science, Maribor, Slovenia#TAB#"
+        },
+        {
+            "name": "Mateja Verlic",
+            "id": "333484211",
+            "org": "University of Maribor, Faculty of Electrical Engineering and Computer Science, Maribor, Slovenia#TAB#"
+        },
+        {
+            "name": "Milan Zorman",
+            "id": "2137006095",
+            "org": "University of Maribor, Faculty of Electrical Engineering and Computer Science, Maribor, Slovenia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge extraction",
+        "Natural language",
+        "Knowledge engineering",
+        "Computer science",
+        "Information retrieval",
+        "Natural language processing",
+        "Named-entity recognition",
+        "Ontology",
+        "Ontology (information science)",
+        "Upper ontology",
+        "Information extraction",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1489992655",
+        "1540588418",
+        "2059713800",
+        "2135125546",
+        "2135843243",
+        "2436001372"
+    ]
+}

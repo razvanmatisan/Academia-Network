@@ -1,0 +1,39 @@
+{
+    "id": "1548657171",
+    "title": "Rectangle-Visibility Representations of Bipartite Graphs",
+    "venue": "graph drawing",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Alice M. Dean",
+            "id": "2157778719",
+            "org": "Skidmore College"
+        },
+        {
+            "name": "Joan P. Hutchinson",
+            "id": "2166683259",
+            "org": "Macalester College"
+        }
+    ],
+    "fields_of_study": [
+        "Pancyclic graph",
+        "Combinatorics",
+        "Independent set",
+        "Discrete mathematics",
+        "Strong perfect graph theorem",
+        "Chordal graph",
+        "Indifference graph",
+        "Forbidden graph characterization",
+        "Topology",
+        "Dense graph",
+        "Mathematics",
+        "Triangle-free graph"
+    ],
+    "references": [
+        "1987374783",
+        "2012650557",
+        "2023785967",
+        "2039261795",
+        "2039512408"
+    ]
+}

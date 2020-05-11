@@ -1,0 +1,39 @@
+{
+    "id": "1793944664",
+    "title": "The Disjunctive Constrained Lambda Calculus",
+    "venue": "international andrei ershov memorial conference on perspectives of system informatics",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Luis Mandel",
+            "id": "2141896135",
+            "org": "Ludwig-Maximilians-Universitat Munchen"
+        },
+        {
+            "name": "Maria Victoria Cengarle",
+            "id": "31750804",
+            "org": "Ludwig-Maximilians-Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Church encoding",
+        "Deductive lambda calculus",
+        "Typed lambda calculus",
+        "Discrete mathematics",
+        "Lambda cube",
+        "Binary lambda calculus",
+        "System F",
+        "Pure type system",
+        "Algorithm",
+        "Mathematics",
+        "Normalisation by evaluation"
+    ],
+    "references": [
+        "160124525",
+        "1499324867",
+        "1564550046",
+        "1569531568",
+        "2010331618",
+        "2062024564"
+    ]
+}

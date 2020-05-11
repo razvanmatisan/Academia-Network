@@ -1,0 +1,26 @@
+{
+    "id": "1535842702",
+    "title": "Learning with rare cases and small disjuncts",
+    "venue": "international conference on machine learning",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Gary M. Weiss",
+            "id": "2112185085",
+            "org": "Rutgers University/AT&T Bell Labs, 200 Laurel Avenue, Middletown, NJ 07748"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Word error rate",
+        "Training set",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "146100937",
+        "1512628935",
+        "2125055259"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1573545118",
+    "title": "Constraint-Lambda Calculi",
+    "venue": "frontiers of combining systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Matthias M. Holzl",
+            "id": "1207579807",
+            "org": "Ludwig-Maximilians-Universitat"
+        },
+        {
+            "name": "John N. Crossley",
+            "id": "2101311741",
+            "org": "Monash University"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint programming",
+        "Algorithm",
+        "Functional programming",
+        "Discrete mathematics",
+        "Typed lambda calculus",
+        "Denotational semantics",
+        "Lambda calculus",
+        "Confluence",
+        "Constraint satisfaction problem",
+        "Mathematics",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "85989125",
+        "125584267",
+        "1484793755",
+        "1485162787",
+        "1499324867",
+        "1509848993",
+        "1590854684",
+        "1793944664"
+    ]
+}

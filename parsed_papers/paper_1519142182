@@ -1,0 +1,44 @@
+{
+    "id": "1519142182",
+    "title": "Arc Weights for Approximate Evaluation of Dynamic Belief Networks",
+    "venue": "australian joint conference on artificial intelligence",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Nathalie Jitnah",
+            "id": "2618344211",
+            "org": "Monash University"
+        },
+        {
+            "name": "Ann E. Nicholson",
+            "id": "2115409756",
+            "org": "Monash University"
+        }
+    ],
+    "fields_of_study": [
+        "Approximation algorithm",
+        "Mutual information",
+        "Machine learning",
+        "Artificial intelligence",
+        "Knowledge representation and reasoning",
+        "Bayesian network",
+        "Exponential function",
+        "Probabilistic logic",
+        "Computer science",
+        "Algorithm",
+        "Knowledge-based systems",
+        "Forgetting"
+    ],
+    "references": [
+        "1494628589",
+        "1565763124",
+        "1575388622",
+        "1578685895",
+        "1581797877",
+        "1614772118",
+        "1845497437",
+        "2041404167",
+        "2128023014",
+        "2159080219"
+    ]
+}

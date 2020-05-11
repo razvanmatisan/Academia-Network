@@ -1,0 +1,37 @@
+{
+    "id": "1534875171",
+    "title": "Importance Driven Path Tracing using the Photon Map",
+    "venue": "eurographics symposium on rendering techniques",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Henrik Wann Jensen",
+            "id": "2160717458",
+            "org": "Technical University of Denmark"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Importance sampling",
+        "Cone tracing",
+        "Distributed ray tracing",
+        "Artificial intelligence",
+        "Photon mapping",
+        "Path tracing",
+        "Photon",
+        "Computer science",
+        "Ray tracing (graphics)",
+        "Global illumination"
+    ],
+    "references": [
+        "206338015",
+        "1980536927",
+        "2000928589",
+        "2011674708",
+        "2063056805",
+        "2092276439",
+        "2138624212",
+        "2152428257",
+        "2168471197"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1591555374",
+    "title": "Business Intelligence Support for Supply Chain Management",
+    "venue": "international conference on information technology",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Ricardo J. Rabelo",
+            "id": "2114152416",
+            "org": "Federal University of Santa Catarina"
+        },
+        {
+            "name": "Alexandra A. Pereira Klen",
+            "id": "2024204165",
+            "org": "Federal University of Santa Catarina"
+        }
+    ],
+    "fields_of_study": [
+        "Common Object Request Broker Architecture",
+        "Business",
+        "Process management",
+        "Supply chain management",
+        "Value chain",
+        "Business intelligence",
+        "Decision support system",
+        "Service management",
+        "Legacy system",
+        "Supply chain",
+        "Knowledge management"
+    ],
+    "references": [
+        "1566658589",
+        "2279266686"
+    ]
+}

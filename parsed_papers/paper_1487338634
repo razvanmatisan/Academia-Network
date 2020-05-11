@@ -1,0 +1,34 @@
+{
+    "id": "1487338634",
+    "title": "Singular and principal subspace of signal information system by BROM algorithm",
+    "venue": "rough sets and knowledge technology",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Wladyslaw Skarbek",
+            "id": "691441148",
+            "org": "Warsaw University of Technology, Faculty of Electronics and Information Technology, Warszawa, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Singular value",
+        "Mathematical optimization",
+        "Matrix (mathematics)",
+        "Principal component analysis",
+        "Matrix representation",
+        "Artificial intelligence",
+        "Image processing",
+        "Singular value decomposition",
+        "Power iteration",
+        "Pattern recognition",
+        "Algorithm",
+        "Subspace topology",
+        "Mathematics"
+    ],
+    "references": [
+        "1564045895",
+        "2019254124",
+        "2061349823",
+        "2167349140"
+    ]
+}

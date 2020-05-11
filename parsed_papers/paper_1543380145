@@ -1,0 +1,39 @@
+{
+    "id": "1543380145",
+    "title": "Algorithms for drawing media",
+    "venue": "graph drawing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "David Eppstein",
+            "id": "2002613147",
+            "org": "Computer Science Department, School of Information & Computer Science, University of California, Irvine#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Slope number",
+        "Polyhedral graph",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Lattice graph",
+        "Mathematics",
+        "Planar straight-line graph",
+        "Force-directed graph drawing",
+        "Algorithm",
+        "Voltage graph",
+        "Planar graph",
+        "Forbidden graph characterization"
+    ],
+    "references": [
+        "1586747704",
+        "1786746188",
+        "1846024566",
+        "1981227591",
+        "2006899318",
+        "2008055107",
+        "2043736547",
+        "2081275038",
+        "2087412320",
+        "2122213873"
+    ]
+}

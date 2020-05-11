@@ -1,0 +1,52 @@
+{
+    "id": "1750509507",
+    "title": "WSMO-lite annotations for web services",
+    "venue": "european semantic web conference",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Tomas Vitvar",
+            "id": "2344210206",
+            "org": "Semantic Technology Institute, University of Innsbruck, Austria#TAB#"
+        },
+        {
+            "name": "Jacek Kopecky",
+            "id": "2106970617",
+            "org": "Semantic Technology Institute, University of Innsbruck, Austria#TAB#"
+        },
+        {
+            "name": "Jana Viskova",
+            "id": "2024804263",
+            "org": "Department of Information Networks, University of Zilina, Slovakia#TAB#"
+        },
+        {
+            "name": "Dieter Fensel",
+            "id": "2303458062",
+            "org": "Semantic Technology Institute, University of Innsbruck, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "SAWSDL",
+        "Web service",
+        "Data mining",
+        "Social Semantic Web",
+        "Database",
+        "World Wide Web",
+        "Semantic Web",
+        "Abstract state machines",
+        "Annotation",
+        "Computer science",
+        "Semantic Web Stack",
+        "WSMO"
+    ],
+    "references": [
+        "1528358771",
+        "1557644259",
+        "1558281341",
+        "1714132059",
+        "1853368733",
+        "1862275504",
+        "2099548472",
+        "2102412066"
+    ]
+}

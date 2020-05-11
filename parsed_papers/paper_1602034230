@@ -1,0 +1,45 @@
+{
+    "id": "1602034230",
+    "title": "Alaska Simulator - A Journey to Planning",
+    "venue": "International Conference on Agile Processes and Extreme Programming in Software Engineering",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Barbara Weber",
+            "id": "2161618242",
+            "org": "University of Innsbruck"
+        },
+        {
+            "name": "Jakob Pinggera",
+            "id": "2005885646",
+            "org": "University of Innsbruck"
+        },
+        {
+            "name": "Stefan Zugal",
+            "id": "2061504533",
+            "org": "University of Innsbruck"
+        },
+        {
+            "name": "Werner Wild",
+            "id": "2111484297",
+            "org": "Evolution Consulting"
+        }
+    ],
+    "fields_of_study": [
+        "Personal software process",
+        "OPM3",
+        "Simulation",
+        "Project management",
+        "Software",
+        "Project manager",
+        "Agile software development",
+        "Software engineering",
+        "Project planning",
+        "Software project management",
+        "Systems engineering",
+        "Engineering"
+    ],
+    "references": [
+        "1563032468"
+    ]
+}

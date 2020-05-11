@@ -1,0 +1,33 @@
+{
+    "id": "1520510762",
+    "title": "Modularity in Evolved Artificial Neural Networks",
+    "venue": "european conference on artificial life",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Adam Rotaru-Varga",
+            "id": "2305170341",
+            "org": "Simon Fraser University"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Artificial neural network",
+        "Ontogeny",
+        "Modular design",
+        "Modularity",
+        "Phylogenetic tree",
+        "Computer science",
+        "Bioinformatics",
+        "Gene duplication"
+    ],
+    "references": [
+        "1586458171",
+        "2017118097",
+        "2056836848",
+        "2095886632",
+        "2154810007",
+        "2170592117"
+    ]
+}

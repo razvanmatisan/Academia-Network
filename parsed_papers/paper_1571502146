@@ -1,0 +1,42 @@
+{
+    "id": "1571502146",
+    "title": "A Logical Framework for Graph Theoretical Decision Tree Learning",
+    "venue": "inductive logic programming",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Peter Geibel",
+            "id": "2087769833",
+            "org": "Technical University Berlin"
+        },
+        {
+            "name": "Fritz Wysotzki",
+            "id": "296561657",
+            "org": "Technical University Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Domain theory",
+        "Artificial intelligence",
+        "Machine learning",
+        "Decision tree",
+        "Logical framework",
+        "Graph theory",
+        "ID3 algorithm",
+        "Inductive logic programming",
+        "Decision tree learning",
+        "Tree decomposition",
+        "Mathematics"
+    ],
+    "references": [
+        "19510426",
+        "69544321",
+        "84664620",
+        "150885707",
+        "175605978",
+        "1999138184",
+        "2077422877",
+        "2149706766"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": "129258864",
+    "title": "On the road to automatic knowledge engineering",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Jitu Patel",
+            "id": "2460672217",
+            "org": "Human Cognition Research Laboratory, The Open University, Milton Keynes, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Knowledge base",
+        "Domain knowledge",
+        "Artificial intelligence",
+        "Knowledge engineering",
+        "Knowledge extraction",
+        "Knowledge-based systems",
+        "IDEF3",
+        "Knowledge acquisition",
+        "Computer science",
+        "Open Knowledge Base Connectivity"
+    ],
+    "references": [
+        "1488338292",
+        "1592089885",
+        "2202603490"
+    ]
+}

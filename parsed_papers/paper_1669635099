@@ -1,0 +1,44 @@
+{
+    "id": "1669635099",
+    "title": "Architecting global automation systems over a distributed multi-agent infrastructure",
+    "venue": "european conference on software architecture",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Franco Guidi-Polanco",
+            "id": "183870814",
+            "org": "Esc. de Ingenieria Industrial, Pontificia Universidad Catolica de Valparaiso, Valparaiso, Chile#TAB#"
+        },
+        {
+            "name": "Claudio Cubillos",
+            "id": "2778256627",
+            "org": "Dip. Automatica e Informatica, Politecnico di Torino, Italy, Torino, Italy#TAB#"
+        },
+        {
+            "name": "Giuseppe Menga",
+            "id": "2233489887",
+            "org": "Dip. Automatica e Informatica, Politecnico di Torino, Italy, Torino, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Computer science",
+        "Agent architecture",
+        "Cohesion (computer science)",
+        "Software architecture",
+        "Component-based software engineering",
+        "Automation",
+        "Distributed computing",
+        "Architecture",
+        "Systems architecture"
+    ],
+    "references": [
+        "1630632011",
+        "2000537825",
+        "2044361749",
+        "2064126885",
+        "2079487902",
+        "2129441284",
+        "2147916282"
+    ]
+}

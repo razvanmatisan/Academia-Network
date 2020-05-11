@@ -1,0 +1,29 @@
+{
+    "id": "1589723346",
+    "title": "CDL-A compiler implementation language",
+    "venue": "Symposium on Methods of Algorithmic Language Implementation",
+    "year": 1975,
+    "authors": [
+        {
+            "name": "Cornelis H. A. Koster",
+            "id": "2638897001",
+            "org": "Technical University Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Compiler construction",
+        "Functional compiler",
+        "Compiler correctness",
+        "Compiler Description Language",
+        "Bootstrapping (compilers)",
+        "Programming language",
+        "Inline expansion",
+        "Computer architecture",
+        "Compiler",
+        "Computer science",
+        "Interprocedural optimization"
+    ],
+    "references": [
+        "1526204026"
+    ]
+}

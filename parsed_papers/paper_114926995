@@ -1,0 +1,50 @@
+{
+    "id": "114926995",
+    "title": "Controlling a language generation planner",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Sergei Nirenburg",
+            "id": "25760396",
+            "org": "Center for Machine Translation, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Victor R. Lesser",
+            "id": "2136177121",
+            "org": "Computer and Information Sciences, University of Massachusetts, Amherst, MA#TAB#"
+        },
+        {
+            "name": "Eric Nyberg",
+            "id": "2074756409",
+            "org": "Center for Machine Translation, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Space-based architecture",
+        "Artificial intelligence",
+        "Reference architecture",
+        "Blackboard system",
+        "Enterprise architecture framework",
+        "Solution architecture",
+        "Natural language generation",
+        "Natural language processing",
+        "Backtracking",
+        "Architecture",
+        "Computer science"
+    ],
+    "references": [
+        "1534011928",
+        "1992258378",
+        "2024903213",
+        "2035989240",
+        "2074799670",
+        "2080554549",
+        "2084807254",
+        "2119954207",
+        "2137659643",
+        "2144621446",
+        "2198844692"
+    ]
+}

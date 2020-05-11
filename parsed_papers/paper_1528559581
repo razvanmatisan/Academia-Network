@@ -1,0 +1,47 @@
+{
+    "id": "1528559581",
+    "title": "Visually-based audio texture segmentation for audio scene analysis",
+    "venue": "european signal processing conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Raja Ghozi",
+            "id": "2792802529",
+            "org": "Unite Signaux et Systemes (U2S), Ecole Nationale d'Ingenieurs de Tunis, Tunisia"
+        },
+        {
+            "name": "Olfa Fraj",
+            "id": "2888756063",
+            "org": "Unite Signaux et Systemes (U2S), Ecole Nationale d'Ingenieurs de Tunis, Tunisia"
+        },
+        {
+            "name": "Meriem Jaidane",
+            "id": "2044627173",
+            "org": "Unite Signaux et Systemes (U2S), Ecole Nationale d'Ingenieurs de Tunis, Tunisia"
+        }
+    ],
+    "fields_of_study": [
+        "Image texture",
+        "Image segmentation",
+        "Median filter",
+        "Novelty",
+        "Mel-frequency cepstrum",
+        "Filter (signal processing)",
+        "Scale-space segmentation",
+        "Computer vision",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Analogy",
+        "Computer science"
+    ],
+    "references": [
+        "143678519",
+        "201103045",
+        "1517810830",
+        "2075842971",
+        "2139435939",
+        "2157665546",
+        "2160938142",
+        "2168249484"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1505889767",
+    "title": "Ontology and Geographic Objects: An Empirical Study of Cognitive Categorization",
+    "venue": "conference on spatial information theory",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "David M. Mark",
+            "id": "2273967268",
+            "org": "NCGIA and Center for Cognitive Science University at Buffalo"
+        },
+        {
+            "name": "Barry Smith",
+            "id": "2471866511",
+            "org": "NCGIA and Center for Cognitive Science University at Buffalo"
+        },
+        {
+            "name": "Barbara Tversky",
+            "id": "191123157",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Empirical research",
+        "Ontology",
+        "Social psychology",
+        "Data mining",
+        "Computer science",
+        "Spatial intelligence",
+        "Geographic information system",
+        "Spatial cognition",
+        "Categorization",
+        "Knowledge-based systems",
+        "Artificial intelligence",
+        "Cognition"
+    ],
+    "references": [
+        "1531373288",
+        "1533244802",
+        "1900895789",
+        "1963829561"
+    ]
+}

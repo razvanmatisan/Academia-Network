@@ -1,0 +1,24 @@
+{
+    "id": "1543444234",
+    "title": "TAXI: a taxonomic assistant",
+    "venue": "national conference on artificial intelligence",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Thomas Y. Galloway",
+            "id": "2468206726",
+            "org": "USC-Information Sciences Institute, Marina del Rey, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Knowledge representation and reasoning",
+        "Data mining",
+        "Computer science"
+    ],
+    "references": [
+        "1547163237",
+        "1592089885"
+    ]
+}

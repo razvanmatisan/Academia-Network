@@ -1,0 +1,31 @@
+{
+    "id": "1518871620",
+    "title": "Symbolic Computation: Computer Algebra and Logic",
+    "venue": "frontiers of combining systems",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Bruno Buchberger",
+            "id": "2040854499",
+            "org": "Research Institute for Symbolic Computation"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Term algebra",
+        "Boolean algebra",
+        "Symbolic trajectory evaluation",
+        "Mathematical proof",
+        "Symbolic-numeric computation",
+        "Two-element Boolean algebra",
+        "Computer science",
+        "Symbolic computation",
+        "Theoretical computer science",
+        "Higher-order logic"
+    ],
+    "references": [
+        "1612551514",
+        "2022701528",
+        "2027009653"
+    ]
+}

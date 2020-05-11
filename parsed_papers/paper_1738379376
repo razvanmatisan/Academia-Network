@@ -1,0 +1,44 @@
+{
+    "id": "1738379376",
+    "title": "The p2pWeb Model: A Glue for the Web",
+    "venue": "workshops on enabling technologies: infrastracture for collaborative enterprises",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "P. Garcia Lopez",
+            "id": "2734588079",
+            "org": "Univ. Rovira i Virgili, Tarragona"
+        },
+        {
+            "name": "M. Sanchez Artigas",
+            "id": "2227412486",
+            "org": "Univ. Rovira i Virgili, Tarragona"
+        },
+        {
+            "name": "J. Pujol Ahullo",
+            "id": "2223859398",
+            "org": "Univ. Rovira i Virgili, Tarragona"
+        }
+    ],
+    "fields_of_study": [
+        "Data Web",
+        "Distributed computing",
+        "Peer-to-peer",
+        "Web application",
+        "Database",
+        "Web service",
+        "World Wide Web",
+        "Web server",
+        "Web modeling",
+        "Computer science",
+        "The Internet",
+        "Distributed hash table"
+    ],
+    "references": [
+        "151129402",
+        "1564854496",
+        "2143276519",
+        "2143339817",
+        "2169119818"
+    ]
+}

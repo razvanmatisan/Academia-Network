@@ -1,0 +1,50 @@
+{
+    "id": "1559791296",
+    "title": "An Efficient Communication Strategy for Ad-hoc Mobile Networks",
+    "venue": "international symposium on distributed computing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Ioannis Chatzigiannakis",
+            "id": "193825520",
+            "org": "Patras University"
+        },
+        {
+            "name": "Sotiris E. Nikoletseas",
+            "id": "410953431",
+            "org": "Patras University"
+        },
+        {
+            "name": "Paul G. Spirakis",
+            "id": "2095693323",
+            "org": "Patras University"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Exploit",
+        "Random graph",
+        "Wireless ad hoc network",
+        "Software deployment",
+        "Network operations center",
+        "Telecommunications network",
+        "Random walk",
+        "Distributed computing",
+        "Cellular network",
+        "Computer science"
+    ],
+    "references": [
+        "1574442253",
+        "1968695868",
+        "1973143812",
+        "1973817529",
+        "2003600644",
+        "2030713218",
+        "2036358294",
+        "2066347632",
+        "2101643130",
+        "2102258543",
+        "2119710605",
+        "2162569120"
+    ]
+}

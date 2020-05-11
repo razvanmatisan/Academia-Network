@@ -1,0 +1,30 @@
+{
+    "id": "111341291",
+    "title": "Behandlung semantischer Heterogenitat durch Metadatenextraktion und Anfragetransfers.",
+    "venue": "Ingenierie Des Systemes D'information",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Robert Strotgen",
+            "id": "2635165541",
+            "org": "Informationszentrum Sozialwissenschaften"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Computer science",
+        "Bibliographic database",
+        "Semantic heterogeneity",
+        "Content analysis",
+        "Data mining",
+        "Data extraction"
+    ],
+    "references": [
+        "151158329",
+        "1487638595",
+        "1578410684",
+        "1972241288",
+        "2066395238",
+        "2075043418"
+    ]
+}

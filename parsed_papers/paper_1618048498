@@ -1,0 +1,38 @@
+{
+    "id": "1618048498",
+    "title": "Contextual inference in computational semantics",
+    "venue": "Contexts",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Christof Monz",
+            "id": "2109806231",
+            "org": "University of Amsterdam"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language",
+        "Inference",
+        "Natural language processing",
+        "Artificial intelligence",
+        "Semantics of logic",
+        "Computational semantics",
+        "Presupposition",
+        "Computational linguistics",
+        "Computer science",
+        "Automated theorem proving"
+    ],
+    "references": [
+        "1507714439",
+        "1553225362",
+        "1554618854",
+        "1576210512",
+        "2029103342",
+        "2046515274",
+        "2093019440",
+        "2101266041",
+        "2119854905",
+        "2145814916",
+        "2163856341"
+    ]
+}

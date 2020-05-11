@@ -1,0 +1,45 @@
+{
+    "id": "1724692745",
+    "title": "The Deviation Constraint",
+    "venue": "integration of ai and or techniques in constraint programming",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Pierre Schaus",
+            "id": "2011664537",
+            "org": "Universite catholique de Louvain, Belgium#TAB#"
+        },
+        {
+            "name": "Yves Deville",
+            "id": "1223747355",
+            "org": "Universite catholique de Louvain, Belgium#TAB#"
+        },
+        {
+            "name": "Pierre Dupont",
+            "id": "2238207816",
+            "org": "Universite catholique de Louvain, Belgium#TAB#"
+        },
+        {
+            "name": "Jean-Charles Regin",
+            "id": "2239919637",
+            "org": "ILOG, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Norm (mathematics)",
+        "Constraint programming",
+        "Discrete mathematics",
+        "Explained sum of squares",
+        "Lp space",
+        "Regular polytope",
+        "Propagator",
+        "Mathematics"
+    ],
+    "references": [
+        "1534774510",
+        "1545632364",
+        "1609511324",
+        "2096399907"
+    ]
+}

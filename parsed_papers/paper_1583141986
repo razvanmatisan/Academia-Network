@@ -1,0 +1,33 @@
+{
+    "id": "1583141986",
+    "title": "Conflict-free incremental learning",
+    "venue": "international conference on intelligent computing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Ronglei Sun",
+            "id": "2151060877",
+            "org": "The State Key Laboratory of Digital Manufacturing Equipment and Technology, Huazhong University of Science and Technology, Wuhan, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Instance-based learning",
+        "Active learning (machine learning)",
+        "Semi-supervised learning",
+        "Algorithmic learning theory",
+        "Online machine learning",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Multi-task learning",
+        "Wake-sleep algorithm",
+        "Stability (learning theory)",
+        "Computer science"
+    ],
+    "references": [
+        "1548839590",
+        "1557512086",
+        "2004963814",
+        "2017317082"
+    ]
+}

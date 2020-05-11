@@ -1,0 +1,35 @@
+{
+    "id": "1571249466",
+    "title": "Synthesis of Petri Nets from Infinite Partial Languages with VipTool",
+    "venue": "AWPN",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Robin Bergenthum",
+            "id": "2058266074",
+            "org": "Catholic University of Eichstatt-Ingolstadt"
+        },
+        {
+            "name": "Sebastian Mauser",
+            "id": "2021285618",
+            "org": "Catholic University of Eichst"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Visualization",
+        "Stochastic Petri net",
+        "Computation",
+        "Unified Modeling Language",
+        "Activity diagram",
+        "Petri net",
+        "Programming language",
+        "Finite set",
+        "Computer science"
+    ],
+    "references": [
+        "1594441091",
+        "1679532520",
+        "2135367183"
+    ]
+}

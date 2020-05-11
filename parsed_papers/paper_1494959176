@@ -1,0 +1,38 @@
+{
+    "id": "1494959176",
+    "title": "Matchbox: A Tool for Match-Bounded String Rewriting",
+    "venue": "rewriting techniques and applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Johannes Waldmann",
+            "id": "2159366577",
+            "org": "Hochschule fur Technik, Wirtschaft und Kultur (FH) Leipzig"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Inverse system",
+        "String (computer science)",
+        "Computation",
+        "Algorithm",
+        "Mathematical proof",
+        "Discrete mathematics",
+        "Regular language",
+        "Interval arithmetic",
+        "Bounded function",
+        "Rewriting"
+    ],
+    "references": [
+        "1524964016",
+        "1588177267",
+        "2001087572",
+        "2053365840",
+        "2054568242",
+        "2063328934",
+        "2093130576",
+        "2108724165",
+        "2121757274",
+        "2137374798"
+    ]
+}

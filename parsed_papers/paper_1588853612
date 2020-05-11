@@ -1,0 +1,28 @@
+{
+    "id": "1588853612",
+    "title": "Metaphors create theories for users",
+    "venue": "conference on spatial information theory",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Werner Kuhn",
+            "id": "2122436540",
+            "org": "Technical University Vienna"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Cognitive linguistics",
+        "Geographic information system",
+        "Metaphor",
+        "Spatial analysis",
+        "Knowledge management"
+    ],
+    "references": [
+        "1508088456",
+        "2039147390",
+        "2050365841",
+        "2056951860",
+        "2091570602"
+    ]
+}

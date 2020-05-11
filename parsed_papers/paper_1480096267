@@ -1,0 +1,31 @@
+{
+    "id": "1480096267",
+    "title": "MRHS equation systems",
+    "venue": "international conference on selected areas in cryptography",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Havard Raddum",
+            "id": "174128570",
+            "org": "Selmersenteret, University of Bergen, Norway#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Linear map",
+        "Linear system",
+        "Mathematical analysis",
+        "System of linear equations",
+        "Discrete mathematics",
+        "Linear equation",
+        "Cryptanalysis",
+        "Vector space",
+        "Mathematics"
+    ],
+    "references": [
+        "1525447969",
+        "1573725807",
+        "1798900381",
+        "2124509406",
+        "2400568052"
+    ]
+}

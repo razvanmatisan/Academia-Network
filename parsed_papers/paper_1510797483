@@ -1,0 +1,40 @@
+{
+    "id": "1510797483",
+    "title": "Intelligent Multi-agent Based Genetic Fuzzy Ensemble Network Intrusion Detection",
+    "venue": "international conference on neural information processing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Siva S. Sivatha Sindhu",
+            "id": "2232585052",
+            "org": "Anna University"
+        },
+        {
+            "name": "P. Ramasubramanian",
+            "id": "2014148792",
+            "org": "Anna University"
+        },
+        {
+            "name": "A. Kannan",
+            "id": "2314750372",
+            "org": "Anna University"
+        }
+    ],
+    "fields_of_study": [
+        "Information access",
+        "Distributed System Security Architecture",
+        "Intelligent Network",
+        "Intrusion detection system",
+        "Information system",
+        "Distributed computing",
+        "Fuzzy logic",
+        "Intelligent agent",
+        "Computer science",
+        "Security management"
+    ],
+    "references": [
+        "2086469601",
+        "2132421927",
+        "2166431113"
+    ]
+}

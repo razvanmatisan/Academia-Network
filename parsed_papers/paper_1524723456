@@ -1,0 +1,40 @@
+{
+    "id": "1524723456",
+    "title": "DNA Sequence Classification Using DAWGs",
+    "venue": "logic in computer science",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Samuel Levy",
+            "id": "2193099657",
+            "org": "University of Colorado"
+        },
+        {
+            "name": "Gary D. Stormo",
+            "id": "2012377278",
+            "org": "University of Colorado"
+        }
+    ],
+    "fields_of_study": [
+        "Exon",
+        "DNA",
+        "DNA sequencing",
+        "Promoter",
+        "Intron",
+        "genomic DNA",
+        "Test set",
+        "Bioinformatics",
+        "Directed acyclic word graph",
+        "Computer science"
+    ],
+    "references": [
+        "139939135",
+        "1554048570",
+        "1972770363",
+        "2056967728",
+        "2076038882",
+        "2106089573",
+        "2121400095",
+        "2158874082"
+    ]
+}

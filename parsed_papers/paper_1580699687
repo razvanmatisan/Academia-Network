@@ -1,0 +1,38 @@
+{
+    "id": "1580699687",
+    "title": "A lookup table model for time-memory trade-off attacks on binary additive stream ciphers",
+    "venue": "international symposium on computer and information sciences",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Imran Erguler",
+            "id": "2806827299",
+            "org": "UEKAE-TUBITAK P.K.: 74, Gebze, Kocaeli, Turkey#TAB#"
+        },
+        {
+            "name": "Emin Anarim",
+            "id": "361681135",
+            "org": "Electrical-Electronics Engineering Department, Bogazici University, Bebek, Istanbul, Turkey#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Binary number",
+        "Distributed computing",
+        "Real-time computing",
+        "Computer science",
+        "Correlation attack",
+        "Speedup",
+        "Stream cipher attack",
+        "Block size",
+        "Trade-off",
+        "Algorithm",
+        "Lookup table",
+        "Stream cipher"
+    ],
+    "references": [
+        "1554090281",
+        "1660562555",
+        "2012646342",
+        "2130943734"
+    ]
+}

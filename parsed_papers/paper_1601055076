@@ -1,0 +1,63 @@
+{
+    "id": "1601055076",
+    "title": "A Machine Learning Approach to Web Mining",
+    "venue": "congress of the italian association for artificial intelligence",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Floriana Esposito",
+            "id": "2122401555",
+            "org": "Universita degli Studi di Bari"
+        },
+        {
+            "name": "Donato Malerba",
+            "id": "2360612151",
+            "org": "Universita degli Studi di Bari"
+        },
+        {
+            "name": "Luigi Di Pace",
+            "id": "2099534605",
+            "org": "IBM SEMEA Sud"
+        },
+        {
+            "name": "Pietro Leo",
+            "id": "2124908936",
+            "org": "IBM SEMEA Sud"
+        }
+    ],
+    "fields_of_study": [
+        "Information processing",
+        "Information retrieval",
+        "Web mining",
+        "Decision tree",
+        "HTML element",
+        "Web page",
+        "Bag-of-words model",
+        "Data mining",
+        "k-nearest neighbors algorithm",
+        "Machine learning",
+        "Web query classification",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "22906612",
+        "1515620500",
+        "1592212241",
+        "1605217017",
+        "1849729440",
+        "1921077622",
+        "1978394996",
+        "1993934121",
+        "2052916539",
+        "2060216474",
+        "2089933214",
+        "2094934653",
+        "2096152098",
+        "2147169507",
+        "2147654806",
+        "2153962014",
+        "2156644018",
+        "2435251607"
+    ]
+}

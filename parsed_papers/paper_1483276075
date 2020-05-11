@@ -1,0 +1,36 @@
+{
+    "id": "1483276075",
+    "title": "Conceptual knowledge processing in the field of economics",
+    "venue": "Formal Concept Analysis",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Rudolf Wille",
+            "id": "2151365529",
+            "org": "Fachbereich Mathematik, Technische Universitat Darmstadt, Darmstadt#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Domain knowledge",
+        "Knowledge engineering",
+        "Procedural knowledge",
+        "Body of knowledge",
+        "Management science",
+        "Knowledge integration",
+        "Knowledge value chain",
+        "Personal knowledge management",
+        "Organizational learning",
+        "Knowledge management",
+        "Computer science"
+    ],
+    "references": [
+        "9062088",
+        "1487261147",
+        "1494816194",
+        "1503729935",
+        "1572750194",
+        "1689437049",
+        "2077898313",
+        "2121312514"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "12016155",
+    "title": "Transfer learning using task-level features with application to information retrieval",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Rong Yan",
+            "id": "2892417154",
+            "org": "IBM T. J. Watson Research, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Jian Zhang",
+            "id": "2893823283",
+            "org": "Purdue University, West Lafayette, IN#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Machine learning",
+        "Multi-task learning",
+        "Transfer of learning",
+        "Probabilistic logic",
+        "Empirical Bayes method",
+        "Divergence-from-randomness model",
+        "Computer science",
+        "Bayesian inference",
+        "Pattern recognition",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1510488293",
+        "1519342765",
+        "1772058344",
+        "2096479579",
+        "2099467003",
+        "2119187866",
+        "2130903752",
+        "2131479143",
+        "2136979193",
+        "2144752499",
+        "2148522164"
+    ]
+}

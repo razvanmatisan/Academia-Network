@@ -1,0 +1,46 @@
+{
+    "id": "1577436787",
+    "title": "Prior hyperparameters in Bayesian PCA",
+    "venue": "international conference on artificial neural networks",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Shigeyuki Oba",
+            "id": "2160356187",
+            "org": "Nara Institute of Science and Technology, Japan#TAB#"
+        },
+        {
+            "name": "Masa-aki Sato",
+            "id": "2128930947",
+            "org": "ATR Human Information Science Laboratories, Japan and CREST, JST#TAB#"
+        },
+        {
+            "name": "Shin Ishii",
+            "id": "2063114072",
+            "org": "Nara Institute of Science and Technology, Japan and CREST, JST#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Statistics",
+        "Hyperparameter",
+        "Marginal likelihood",
+        "Inference",
+        "Principal component analysis",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Bayes' theorem",
+        "Prior probability",
+        "Curse of dimensionality",
+        "Bayesian probability",
+        "Mathematics"
+    ],
+    "references": [
+        "1618600317",
+        "2004144464",
+        "2115606304",
+        "2119388857",
+        "2146610201",
+        "2171911691",
+        "2294460823"
+    ]
+}

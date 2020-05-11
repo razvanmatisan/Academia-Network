@@ -1,0 +1,50 @@
+{
+    "id": "1509042659",
+    "title": "A semi-automatic method for domain ontology extraction from Portuguese language Wikipedia's categories",
+    "venue": "brazilian symposium on artificial intelligence",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Clarissa Castella Xavier",
+            "id": "2129377024",
+            "org": "Faculdade de Informatica, PUCRS, Porto Alegre, Brazil#TAB#"
+        },
+        {
+            "name": "Vera Lucia Strube de Lima",
+            "id": "2136125173",
+            "org": "Faculdade de Informatica, PUCRS, Porto Alegre, Brazil#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Information retrieval",
+        "Process ontology",
+        "Artificial intelligence",
+        "Ontology learning",
+        "Ontology-based data integration",
+        "IDEF5",
+        "Suggested Upper Merged Ontology",
+        "Data mining",
+        "Ontology components",
+        "Ontology (information science)",
+        "Computer science",
+        "Upper ontology"
+    ],
+    "references": [
+        "87289778",
+        "89857650",
+        "1589160252",
+        "1594105789",
+        "2000982518",
+        "2105313627",
+        "2114544510",
+        "2124067180",
+        "2132232128",
+        "2132503878",
+        "2146304342",
+        "2153702741",
+        "2165615475",
+        "2169497284",
+        "2611471614"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1552462053",
+    "title": "Image scale-space from the heat kernel",
+    "venue": "iberoamerican congress on pattern recognition",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Fan Zhang",
+            "id": "2680037689",
+            "org": "Department of Computer Science, University of York, York, UK#TAB#"
+        },
+        {
+            "name": "Edwin R. Hancock",
+            "id": "2047018924",
+            "org": "Department of Computer Science, University of York, York, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Heat kernel",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Laplace operator",
+        "Mathematical optimization",
+        "Gaussian process",
+        "Laplacian matrix",
+        "Degree matrix",
+        "Smoothing",
+        "Edge detection",
+        "Mathematics",
+        "Scale space"
+    ],
+    "references": [
+        "137580343",
+        "200434350",
+        "1511160855",
+        "1973976434",
+        "1993713305",
+        "2002312729",
+        "2020999234",
+        "2109863423",
+        "2121947440",
+        "2145023731",
+        "2150134853",
+        "2163779891"
+    ]
+}

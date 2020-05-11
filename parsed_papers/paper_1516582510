@@ -1,0 +1,37 @@
+{
+    "id": "1516582510",
+    "title": "A descriptive language for flexible and robust object recognition",
+    "venue": "robot soccer world cup",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Nathan Hains Lovell",
+            "id": "2469591340",
+            "org": "School of CIT, Griffith University, Nathan, QLD, Australia#TAB#"
+        },
+        {
+            "name": "Vladimir Estivill-Castro",
+            "id": "273506593",
+            "org": "School of CIT, Griffith University, Nathan, QLD, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "3D single-object recognition",
+        "Simulation",
+        "Generic programming",
+        "Computer vision",
+        "Computer science",
+        "Artificial intelligence",
+        "Method",
+        "Abstraction layer",
+        "Object-oriented programming",
+        "Software",
+        "Object Definition Language",
+        "Object (computer science)"
+    ],
+    "references": [
+        "1536241486",
+        "1610631251",
+        "2138189959"
+    ]
+}

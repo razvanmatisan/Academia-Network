@@ -1,0 +1,38 @@
+{
+    "id": "1608459529",
+    "title": "Identifying Audience Preferences in Legal and Social Domains",
+    "venue": "database and expert systems applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Paul E. Dunne",
+            "id": "2087778684",
+            "org": "University of Liverpool"
+        },
+        {
+            "name": "Trevor J. M. Bench-Capon",
+            "id": "283571327",
+            "org": "University of Liverpool"
+        }
+    ],
+    "fields_of_study": [
+        "Argumentation theory",
+        "Data mining",
+        "Information system",
+        "Social value orientations",
+        "Defeasible estate",
+        "Dialectic",
+        "Computer science",
+        "Phenomenon",
+        "Knowledge management"
+    ],
+    "references": [
+        "1521433304",
+        "1607757073",
+        "1952463796",
+        "1972753218",
+        "1984290203",
+        "2104126268",
+        "2116246756"
+    ]
+}

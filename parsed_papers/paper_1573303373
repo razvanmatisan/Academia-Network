@@ -1,0 +1,28 @@
+{
+    "id": "1573303373",
+    "title": "The External Database in SICStus Prolog",
+    "venue": "international conference on logic programming",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Hans Nilsson",
+            "id": "2698730809",
+            "org": "ELLEMTEL AB"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Linear function",
+        "Database",
+        "Computer science",
+        "Search engine indexing",
+        "Fetch",
+        "Dynamic perfect hashing",
+        "Indexation",
+        "Prolog"
+    ],
+    "references": [
+        "1604663342",
+        "2121847343"
+    ]
+}

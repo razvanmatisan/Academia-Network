@@ -1,0 +1,41 @@
+{
+    "id": "1541440677",
+    "title": "Framework for Clique-based Fusion of Graph Streams in Multi-function System Testing",
+    "venue": "arXiv: Software Engineering",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Mark Sh. Levin",
+            "id": "2799237846",
+            "org": "Association for Computing Machinery"
+        }
+    ],
+    "fields_of_study": [
+        "Split graph",
+        "Clique graph",
+        "Discrete mathematics",
+        "Ordinal number",
+        "Theoretical computer science",
+        "Fractional coloring",
+        "Computer science",
+        "Algorithm",
+        "Block graph",
+        "STREAMS",
+        "Strength of a graph",
+        "Simplex graph"
+    ],
+    "references": [
+        "1586552957",
+        "1853890401",
+        "2000254368",
+        "2001474264",
+        "2052069020",
+        "2082603400",
+        "2096281132",
+        "2106650313",
+        "2109013379",
+        "2116925220",
+        "2138962584",
+        "2307335555"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": "1233737202",
+    "title": "On identifying name equivalences in digital libraries.",
+    "venue": "Information Research",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Dror G. Feitelson",
+            "id": "2137277626",
+            "org": "School of Computer Science and Engineering|Hebrew University of Jerusalem"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Knowledge management",
+        "Digital library",
+        "World Wide Web",
+        "Service provider",
+        "Lexical analysis",
+        "Computer science",
+        "Pairwise comparison"
+    ],
+    "references": [
+        "1489828680",
+        "2029422645",
+        "2055846397",
+        "2154498027"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1515906779",
+    "title": "Coupling Variable Fixing Algorithms for the Automatic Recording Problem",
+    "venue": "european symposium on algorithms",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Meinolf Sellmann",
+            "id": "2792581580",
+            "org": "University of Paderborn"
+        },
+        {
+            "name": "Torsten Fahle",
+            "id": "235898495",
+            "org": "University of Paderborn"
+        }
+    ],
+    "fields_of_study": [
+        "Independent set",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Combinatorial optimization",
+        "Knapsack problem",
+        "Mathematical optimization",
+        "Interval graph",
+        "Algorithm",
+        "Lagrangian relaxation",
+        "Covering problems",
+        "Linear programming",
+        "Mathematics",
+        "Optimization problem"
+    ],
+    "references": [
+        "1607908797",
+        "1968143987",
+        "2017316844",
+        "2128873679"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "1574184510",
+    "title": "THE DYNAMICS OF MINIMA AND CONTOURS",
+    "venue": "international symposium on memory management",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Fernand Meyer",
+            "id": "2273217107",
+            "org": "Centre de Morphologie Mathematique"
+        }
+    ],
+    "fields_of_study": [
+        "Merge (version control)",
+        "Maxima and minima",
+        "Topographic map",
+        "Tessellation",
+        "Watershed",
+        "Mathematical optimization",
+        "Computer science",
+        "Ranking"
+    ],
+    "references": []
+}

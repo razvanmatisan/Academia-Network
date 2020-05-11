@@ -1,0 +1,38 @@
+{
+    "id": "1596689481",
+    "title": "Feature Accumulation and Route Structuring in Distance Estimations - An Interdisciplinary Approach",
+    "venue": "conference on spatial information theory",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Bettina Berendt",
+            "id": "36886011",
+            "org": "University of Hamburg"
+        },
+        {
+            "name": "Petra Jansen-Osmann",
+            "id": "2798494021",
+            "org": "University of Duisburg-Essen"
+        }
+    ],
+    "fields_of_study": [
+        "Qualitative reasoning",
+        "Machine learning",
+        "Artificial intelligence",
+        "Computer science",
+        "Information theory",
+        "Cognitive model",
+        "Geographic information system",
+        "Cognitive map",
+        "Special case",
+        "Knowledge acquisition",
+        "Structuring"
+    ],
+    "references": [
+        "192667191",
+        "1503384602",
+        "1526640299",
+        "2026531504",
+        "2078019102"
+    ]
+}

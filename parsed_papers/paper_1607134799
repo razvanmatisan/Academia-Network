@@ -1,0 +1,43 @@
+{
+    "id": "1607134799",
+    "title": "System development methods--a comparative investigation",
+    "venue": "Management Information Systems Quarterly",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Mo Adam Mahmood",
+            "id": "2176677447",
+            "org": "Univ. of Texas, El Paso#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Management science",
+        "Work breakdown structure",
+        "Basis of estimate",
+        "Software project management",
+        "Schedule (project management)",
+        "Project portfolio management",
+        "Project management triangle",
+        "Computer science",
+        "Systems development life cycle",
+        "Systems engineering",
+        "Project planning"
+    ],
+    "references": [
+        "151796862",
+        "1528991045",
+        "1530918035",
+        "1564930140",
+        "1939114018",
+        "1963679851",
+        "1990810281",
+        "1995905024",
+        "2007679068",
+        "2039248724",
+        "2049602259",
+        "2053710795",
+        "2056140379",
+        "2127455238",
+        "2137028699"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1819104613",
+    "title": "Alternation for Two-way Machines with Sublogarithmic Space",
+    "venue": "symposium on theoretical aspects of computer science",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Burchard von Braunmuhl",
+            "id": "2066353998",
+            "org": "Universitat Bonn"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Probabilistic Turing machine",
+        "NSPACE",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Turing machine examples",
+        "Non-deterministic Turing machine",
+        "Description number",
+        "Multitape Turing machine",
+        "Alternating Turing machine",
+        "Super-recursive algorithm"
+    ],
+    "references": [
+        "1590283810",
+        "1886600493",
+        "1969386550",
+        "2043360684",
+        "2148957455",
+        "2165293955",
+        "2532500577"
+    ]
+}

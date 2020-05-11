@@ -1,0 +1,47 @@
+{
+    "id": "1676021827",
+    "title": "Comparing and Combining Methods for Automatic Query Expansion",
+    "venue": "Research on computing science",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Jose R. Perez-Aguera",
+            "id": "414739498",
+            "org": "Complutense University of Madrid"
+        },
+        {
+            "name": "Lourdes Araujo",
+            "id": "2120346591",
+            "org": "National University of Distance Education"
+        }
+    ],
+    "fields_of_study": [
+        "Concept search",
+        "Information retrieval",
+        "Query expansion",
+        "Query optimization",
+        "Divergence-from-randomness model",
+        "Web query classification",
+        "Ranking (information retrieval)",
+        "Computer science",
+        "Sargable",
+        "Boolean conjunctive query"
+    ],
+    "references": [
+        "19293941",
+        "1507711745",
+        "1515865104",
+        "1583118685",
+        "1987996059",
+        "2002306339",
+        "2032039936",
+        "2034117506",
+        "2038093061",
+        "2068649023",
+        "2105157020",
+        "2105378642",
+        "2114374682",
+        "2115990944",
+        "2439017901"
+    ]
+}

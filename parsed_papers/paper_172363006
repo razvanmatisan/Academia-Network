@@ -1,0 +1,77 @@
+{
+    "id": "172363006",
+    "title": "Gene Regulatory Networks from Gene Ontology",
+    "venue": "international symposium on bioinformatics research and applications",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Wenting Liu",
+            "id": "2893357770",
+            "org": "Nanyang Technological University"
+        },
+        {
+            "name": "Kuiyu Chang",
+            "id": "2147346151",
+            "org": "Nanyang Technological University"
+        },
+        {
+            "name": "Jie Zheng",
+            "id": "2893566704",
+            "org": "Nanyang Technological University"
+        },
+        {
+            "name": "Jie Zheng",
+            "id": "2893566704",
+            "org": "Nanyang Technological University"
+        },
+        {
+            "name": "Jain Divya",
+            "id": "2121975641",
+            "org": "Nanyang Technological University"
+        },
+        {
+            "name": "Jung-Jae Kim",
+            "id": "2696998790",
+            "org": "Nanyang Technological University"
+        },
+        {
+            "name": "Jagath C. Rajapakse",
+            "id": "1739366739",
+            "org": "Nanyang Technological University"
+        },
+        {
+            "name": "Jagath C. Rajapakse",
+            "id": "1739366739",
+            "org": "Nanyang Technological University"
+        },
+        {
+            "name": "Jagath C. Rajapakse",
+            "id": "1739366739",
+            "org": "Nanyang Technological University"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Computer science",
+        "Ontology",
+        "Controlled vocabulary",
+        "Hierarchy",
+        "Machine learning",
+        "Gene",
+        "Gene regulatory network",
+        "Transitive relation",
+        "Annotation",
+        "Semantic similarity"
+    ],
+    "references": [
+        "1659833910",
+        "2092330486",
+        "2096939566",
+        "2100935296",
+        "2121343862",
+        "2124798265",
+        "2127563440",
+        "2139997707",
+        "2150392051"
+    ]
+}

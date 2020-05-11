@@ -1,0 +1,30 @@
+{
+    "id": "1593156791",
+    "title": "An Architecture for Modular Data Centers.",
+    "venue": "conference on innovative data systems research",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "James R. Hamilton",
+            "id": "2612384872",
+            "org": "Microsoft Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Power density",
+        "Computer science",
+        "Database",
+        "Data center",
+        "Failure rate",
+        "Commodity",
+        "Modular design",
+        "Architecture",
+        "Real-time computing",
+        "Total cost of ownership"
+    ],
+    "references": [
+        "176967344",
+        "1555915743",
+        "2119565742"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1524190946",
+    "title": "Grobner-Bases, Gaussian elimination and resolution of systems of algebraic equations",
+    "venue": "european conference on computer algebra",
+    "year": 1983,
+    "authors": [
+        {
+            "name": "Daniel Lazard",
+            "id": "2111312572",
+            "org": "Mathematiques - Informatique, Universite de Poitiers, Poitiers Cedex,"
+        }
+    ],
+    "fields_of_study": [
+        "Gaussian elimination",
+        "Buchberger's algorithm",
+        "Pure mathematics",
+        "Algebra",
+        "Gaussian filter",
+        "Gaussian random field",
+        "Sylvester matrix",
+        "Tridiagonal matrix algorithm",
+        "Mathematics",
+        "Tangent cone",
+        "Gaussian function"
+    ],
+    "references": [
+        "156757921",
+        "1481997196",
+        "1885685550",
+        "1990401075",
+        "2055909024",
+        "2099901570"
+    ]
+}

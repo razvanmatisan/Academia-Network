@@ -1,0 +1,38 @@
+{
+    "id": "1517517974",
+    "title": "Probabilistic Logic: Some Comments and Possible use for Nonmonotonic Reasoning",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Mary McLeish",
+            "id": "2343077023",
+            "org": "Department of Computer Science/Statistics, University of Guelph, Guelph, Ontario, Canada, N1G 2W1"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Deductive reasoning",
+        "Computer science",
+        "Machine learning",
+        "Probabilistic argumentation",
+        "Probabilistic logic",
+        "Logical consequence",
+        "Probabilistic logic network",
+        "Default logic",
+        "Non-monotonic logic"
+    ],
+    "references": [
+        "13520770",
+        "113489683",
+        "160954843",
+        "1512921847",
+        "1554205565",
+        "1784061619",
+        "2015071685",
+        "2108309071",
+        "2120465900",
+        "2155322595",
+        "2176285933"
+    ]
+}

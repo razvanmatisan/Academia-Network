@@ -1,0 +1,39 @@
+{
+    "id": "1549982694",
+    "title": "Order based genetic algorithms for the search of approximate entropy reducts",
+    "venue": "granular computing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Dominik Slezak",
+            "id": "2149404815",
+            "org": "Department of Computer Science University of Regina, Regina, Canada and Polish-Japanese Institute of Information Technology, Warsaw, Poland#TAB#"
+        },
+        {
+            "name": "Jakub Wroblewski",
+            "id": "2097903886",
+            "org": "Polish-Japanese Institute of Information Technology, Warsaw, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic algorithm",
+        "Artificial intelligence",
+        "Machine learning",
+        "Reduct",
+        "Approximate entropy",
+        "Conditional entropy",
+        "Information theory",
+        "Pattern recognition",
+        "Search algorithm",
+        "Mathematics",
+        "Rough set"
+    ],
+    "references": [
+        "1524761913",
+        "2012105789",
+        "2014127819",
+        "2130367040",
+        "2154345794",
+        "2159080219"
+    ]
+}

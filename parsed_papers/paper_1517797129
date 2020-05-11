@@ -1,0 +1,41 @@
+{
+    "id": "1517797129",
+    "title": "UML 2.0 state machines: complete formal semantics via core state machines",
+    "venue": "formal methods for industrial critical systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Harald Fecher",
+            "id": "167729739",
+            "org": "Christian-Albrechts-University at Kiel, Germany#TAB#"
+        },
+        {
+            "name": "Jens Schonborn",
+            "id": "2474952846",
+            "org": "Christian-Albrechts-University at Kiel, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "UML state machine",
+        "Computer science",
+        "Modeling language",
+        "Theoretical computer science",
+        "Finite-state machine",
+        "Formal semantics (linguistics)",
+        "UML tool",
+        "Programming language",
+        "Operational semantics",
+        "Applications of UML",
+        "Formal verification"
+    ],
+    "references": [
+        "196640945",
+        "1485382766",
+        "1509562505",
+        "1534869992",
+        "1822925936",
+        "1969402593",
+        "1972694089",
+        "2129395888"
+    ]
+}

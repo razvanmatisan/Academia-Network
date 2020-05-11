@@ -1,0 +1,30 @@
+{
+    "id": "1488714501",
+    "title": "Modelling Higher Cognitive Functions with Hebbian Cell Assemblies",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Marcin Chady",
+            "id": "2099444094",
+            "org": "The University of Birmingham#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Connectionism",
+        "Bidirectional associative memory",
+        "Distributed computing",
+        "Machine learning",
+        "Obstacle",
+        "Principle of compositionality",
+        "Compromise",
+        "Content-addressable memory",
+        "Hebbian theory",
+        "Cognition",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "2087946919"
+    ]
+}

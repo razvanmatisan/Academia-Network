@@ -1,0 +1,35 @@
+{
+    "id": "1696294956",
+    "title": "Directly Constructing Minimal DFAs: Combining Two Algorithms by Brzozowski",
+    "venue": "international conference on implementation and application of automata",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Bruce W. Watson",
+            "id": "2147504604",
+            "org": "University of Pretoria"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Block cellular automaton",
+        "Powerset construction",
+        "Two-way deterministic finite automaton",
+        "o-automaton",
+        "DFA minimization",
+        "Combinatorics",
+        "Nondeterministic finite automaton",
+        "Algorithm",
+        "Deterministic automaton",
+        "Mathematics",
+        "Continuous automaton"
+    ],
+    "references": [
+        "1494055011",
+        "2030681981",
+        "2070830131",
+        "2103953153",
+        "2154478838",
+        "2156429182"
+    ]
+}

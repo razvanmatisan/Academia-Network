@@ -1,0 +1,36 @@
+{
+    "id": "1810513076",
+    "title": "Towards objective Bayesian foundations with fuzzy events",
+    "venue": "conference of international fuzzy systems association and european society for fuzzy logic and technology",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Pedro Teran",
+            "id": "2163600870",
+            "org": "University of Oviedo"
+        }
+    ],
+    "fields_of_study": [
+        "Boolean algebra",
+        "Axiomatic system",
+        "Discrete mathematics",
+        "Foundations of statistics",
+        "Machine learning",
+        "Fuzzy logic",
+        "Cox's theorem",
+        "Fuzzy classification",
+        "Mathematics",
+        "Fuzzy number",
+        "Artificial intelligence",
+        "Bayesian probability"
+    ],
+    "references": [
+        "1527859954",
+        "1534594241",
+        "1984784892",
+        "2011366363",
+        "2043870082",
+        "2110163460",
+        "2154946137"
+    ]
+}

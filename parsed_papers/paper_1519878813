@@ -1,0 +1,41 @@
+{
+    "id": "1519878813",
+    "title": "Easy parameterized verification of biphase mark and 8n1 protocols",
+    "venue": "tools and algorithms for construction and analysis of systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Geoffrey Brown",
+            "id": "2101761728",
+            "org": "Indiana University, Bloomington#TAB#"
+        },
+        {
+            "name": "Lee Pike",
+            "id": "2513976441",
+            "org": "Galois Connections#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Proof theory",
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "Model checking",
+        "Satisfiability",
+        "Parameterized complexity",
+        "Satisfiability modulo theories",
+        "Bounded function",
+        "Formal verification",
+        "Automated theorem proving",
+        "Computer science"
+    ],
+    "references": [
+        "1517793941",
+        "1546101340",
+        "1787856118",
+        "2105891728",
+        "2107429024",
+        "2122645481",
+        "2127489452",
+        "2134478753"
+    ]
+}

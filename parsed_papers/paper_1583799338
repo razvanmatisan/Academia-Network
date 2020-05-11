@@ -1,0 +1,43 @@
+{
+    "id": "1583799338",
+    "title": "A Logic File System.",
+    "venue": "usenix annual technical conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Yoann Padioleau",
+            "id": "40373071",
+            "org": "IRISA / University"
+        },
+        {
+            "name": "Olivier Ridoux",
+            "id": "2777281559",
+            "org": "IRISA / University"
+        }
+    ],
+    "fields_of_study": [
+        "Computational logic",
+        "Interval temporal logic",
+        "Signature (logic)",
+        "Database",
+        "Description logic",
+        "Bunched logic",
+        "Logic synthesis",
+        "Dynamic logic (modal logic)",
+        "Multimodal logic",
+        "Theoretical computer science",
+        "Computer science"
+    ],
+    "references": [
+        "35638016",
+        "1482786207",
+        "1503729935",
+        "1565709481",
+        "1606054828",
+        "2005373714",
+        "2059339027",
+        "2108183412",
+        "2139921445",
+        "2145096760"
+    ]
+}

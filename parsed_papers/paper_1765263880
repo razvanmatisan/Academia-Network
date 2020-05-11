@@ -1,0 +1,38 @@
+{
+    "id": "1765263880",
+    "title": "Observations, measurements and semantic reference spaces",
+    "venue": "Applied Ontology",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Florian Probst",
+            "id": "2120621289",
+            "org": "Institute for Geoinformatics, University of Munster, SAP Research CEC Darmstadt, Bleichstr. 8, 64283 Darmstadt, Germany. Tel.: +49 6227 7 68850"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Information system",
+        "Conceptualization",
+        "Ontology",
+        "Knowledge management",
+        "Data mining",
+        "Computer science",
+        "If and only if",
+        "Geoinformatics",
+        "Ontology (information science)",
+        "Units of measurement"
+    ],
+    "references": [
+        "3902195",
+        "158858167",
+        "1796264214",
+        "1963354518",
+        "1993426067",
+        "2009420325",
+        "2056420273",
+        "2097395913",
+        "2100341807",
+        "2106361952"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1581097513",
+    "title": "A Comparative Evaluation of Deep and Shallow Approaches to the Automatic Detection of Common Grammatical Errors",
+    "venue": "empirical methods in natural language processing",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Joachim Wagner",
+            "id": "2162557111",
+            "org": "Dublin City University"
+        },
+        {
+            "name": "Jennifer Foster",
+            "id": "2102489688",
+            "org": "School of Computing|Dublin City University"
+        },
+        {
+            "name": "Josef van Genabith",
+            "id": "93711912",
+            "org": "School of Computing|Dublin City University"
+        }
+    ],
+    "fields_of_study": [
+        "English grammar",
+        "Parsing",
+        "Machine learning",
+        "Natural language processing",
+        "Artificial intelligence",
+        "Decision tree",
+        "Computer science",
+        "Grammaticality",
+        "Frequency",
+        "Sentence",
+        "Pattern recognition",
+        "Test set"
+    ],
+    "references": [
+        "88044417",
+        "1510929985",
+        "1648417313",
+        "1682095442",
+        "2016871293",
+        "2085856898",
+        "2123269682",
+        "2138761920",
+        "2161204834",
+        "2397504626"
+    ]
+}

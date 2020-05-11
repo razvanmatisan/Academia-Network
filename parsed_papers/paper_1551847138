@@ -1,0 +1,44 @@
+{
+    "id": "1551847138",
+    "title": "SVM based soft sensor for antibiotic fermentation process",
+    "venue": "systems, man and cybernetics",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Weimin Zhong",
+            "id": "2309420426",
+            "org": "Inst. of Modern Control Eng., Zhejiang Univ., Hangzhou, China"
+        },
+        {
+            "name": "Daoying Pi",
+            "id": "2114390494",
+            "org": "Inst. of Modern Control Eng., Zhejiang Univ., Hangzhou, China"
+        },
+        {
+            "name": "Youxian Sun",
+            "id": "2150328097",
+            "org": "Inst. of Modern Control Eng., Zhejiang Univ., Hangzhou, China"
+        }
+    ],
+    "fields_of_study": [
+        "Support vector machine",
+        "Machine learning",
+        "Kernel (statistics)",
+        "Gaussian",
+        "Computer science",
+        "Artificial neural network",
+        "Backpropagation",
+        "Gaussian function",
+        "Soft sensor",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1596717185",
+        "1663792126",
+        "1964357740",
+        "2119821739",
+        "2148603752",
+        "2161920802"
+    ]
+}

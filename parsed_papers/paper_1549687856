@@ -1,0 +1,49 @@
+{
+    "id": "1549687856",
+    "title": "Learning of Bayesian Discriminant Functions by a Layered Neural Network",
+    "venue": "international conference on neural information processing",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Yoshifusa Ito",
+            "id": "2153179976",
+            "org": "Department of Policy Science, Aichi-Gakuin University, Nisshin, Aichi-ken, Japan 470-0195#TAB#"
+        },
+        {
+            "name": "Cidambi Srinivasan",
+            "id": "2156663339",
+            "org": "Department of Statistics, University of Kentucky Lexington, Kentucky, USA 40506#TAB#"
+        },
+        {
+            "name": "Hiroyuki Izumi",
+            "id": "1981330213",
+            "org": "Department of Policy Science, Aichi-Gakuin University, Nisshin, Aichi-ken, Japan 470-0195#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Feedforward neural network",
+        "Machine learning",
+        "Types of artificial neural networks",
+        "Wake-sleep algorithm",
+        "Stochastic neural network",
+        "Deep learning",
+        "Time delay neural network",
+        "Pattern recognition",
+        "Probabilistic neural network",
+        "Computer science",
+        "Artificial intelligence",
+        "Activation function"
+    ],
+    "references": [
+        "1495367770",
+        "1578010480",
+        "1901171823",
+        "1980501707",
+        "2020246210",
+        "2054127200",
+        "2093123393",
+        "2135050718",
+        "2135737922",
+        "2141278204"
+    ]
+}

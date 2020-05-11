@@ -1,0 +1,37 @@
+{
+    "id": "1583803624",
+    "title": "Temporal Data Mining Using Hidden Periodicity Analysis",
+    "venue": "international syposium on methodologies for intelligent systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Weiqiang Lin",
+            "id": "2396103981",
+            "org": "Macquarie University"
+        },
+        {
+            "name": "Mehmet A. Orgun",
+            "id": "1994973432",
+            "org": "Macquarie University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete time and continuous time",
+        "Data mining",
+        "Knowledge extraction",
+        "Temporal database",
+        "Liberian dollar",
+        "Exchange rate",
+        "Data set",
+        "Statistical theory",
+        "Data science",
+        "Computer science",
+        "Data stream mining"
+    ],
+    "references": [
+        "1587157435",
+        "1589223644",
+        "2014261452",
+        "2158454296"
+    ]
+}

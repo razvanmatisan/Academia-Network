@@ -1,0 +1,31 @@
+{
+    "id": "1581467031",
+    "title": "Schemes with recursion on higher types",
+    "venue": "mathematical foundations of computer science",
+    "year": 1976,
+    "authors": [
+        {
+            "name": "Klaus Indermark",
+            "id": "115446781",
+            "org": "RWTH Aachen"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Recursion",
+        "Combinatorics",
+        "Control flow",
+        "Programming paradigm",
+        "Fifth-generation programming language",
+        "Mutual recursion",
+        "Recursion (computer science)",
+        "Corecursion",
+        "Left recursion",
+        "Computer science"
+    ],
+    "references": [
+        "1550105278",
+        "1561804947",
+        "2032076167"
+    ]
+}

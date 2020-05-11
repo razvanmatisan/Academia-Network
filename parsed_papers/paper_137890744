@@ -1,0 +1,48 @@
+{
+    "id": "137890744",
+    "title": "A Characterisation of NL/poly via Nondeterministic Finite Automata",
+    "venue": "descriptional complexity of formal systems",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Robert S.R. Myers",
+            "id": "2327203502",
+            "org": "TU Braunschweig"
+        },
+        {
+            "name": "Henning Urbat",
+            "id": "886100891",
+            "org": "TU Braunschweig"
+        }
+    ],
+    "fields_of_study": [
+        "Complement (set theory)",
+        "Combinatorics",
+        "Nondeterministic algorithm",
+        "Discrete mathematics",
+        "Polynomial",
+        "Boolean circuit",
+        "Nondeterministic finite automaton",
+        "Disjoint union",
+        "Existential quantification",
+        "Turing machine",
+        "Mathematics"
+    ],
+    "references": [
+        "112858668",
+        "1506210129",
+        "1524205832",
+        "1551875948",
+        "1570372713",
+        "1590283810",
+        "1768118166",
+        "1970089350",
+        "1990283467",
+        "2025521996",
+        "2034243894",
+        "2043360684",
+        "2091988401",
+        "2139236203",
+        "2162372147"
+    ]
+}

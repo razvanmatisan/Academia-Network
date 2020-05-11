@@ -1,0 +1,41 @@
+{
+    "id": "1567887470",
+    "title": "Transformation rules for translating business rules to OCL constraints",
+    "venue": "european conference on modelling foundations and applications",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Imran Sarwar Bajwa",
+            "id": "2121089906",
+            "org": "School of Computer Science, University of Birmingham, Birmingham, UK#TAB#"
+        },
+        {
+            "name": "Mark G. Lee",
+            "id": "2163650827",
+            "org": "School of Computer Science, University of Birmingham, Birmingham, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Model transformation",
+        "Natural language",
+        "Object Constraint Language",
+        "Formal language",
+        "Systems engineering",
+        "Programming language",
+        "Semantics of Business Vocabulary and Business Rules",
+        "Component-based software engineering",
+        "Unified Modeling Language",
+        "Computer science",
+        "Business rule"
+    ],
+    "references": [
+        "1575536950",
+        "1602441828",
+        "1987260736",
+        "1987495963",
+        "2000508638",
+        "2054473682",
+        "2091389738",
+        "2544337186"
+    ]
+}

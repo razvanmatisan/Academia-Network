@@ -1,0 +1,39 @@
+{
+    "id": "1492439617",
+    "title": "Content Modeling in Intelligent Instructional Environments",
+    "venue": "international conference on knowledge-based and intelligent information and engineering systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Emilia Pecheanu",
+            "id": "2754790996",
+            "org": "University \"Dunarea de Jos\" of Galati"
+        },
+        {
+            "name": "Cristina Segal",
+            "id": "2778755113",
+            "org": "University \"Dunarea de Jos\" of Galati"
+        },
+        {
+            "name": "Diana Stefanescu",
+            "id": "2629106993",
+            "org": "University \"Dunarea de Jos\" of Galati"
+        }
+    ],
+    "fields_of_study": [
+        "Training system",
+        "Domain knowledge",
+        "Multimedia",
+        "Computer-Assisted Instruction",
+        "Modalities",
+        "Human-computer interaction",
+        "Cognitive style",
+        "Cognition",
+        "Structuring",
+        "Computer science"
+    ],
+    "references": [
+        "1974710449",
+        "2032801520"
+    ]
+}

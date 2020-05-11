@@ -1,0 +1,53 @@
+{
+    "id": "1599821938",
+    "title": "On Maximum Symmetric Subgraphs",
+    "venue": "graph drawing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Ho-Lin Chen",
+            "id": "2797858932",
+            "org": "National Taiwan University"
+        },
+        {
+            "name": "Hsueh-I Lu",
+            "id": "2810117253",
+            "org": "Academia Sinica"
+        },
+        {
+            "name": "Hsu-Chun Yen",
+            "id": "2051059669",
+            "org": "National Taiwan University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Combinatorics",
+        "Symmetric graph",
+        "Graph minor",
+        "Graph",
+        "Axial symmetry",
+        "Branch-decomposition",
+        "Binary logarithm",
+        "Planar graph",
+        "Mathematics",
+        "Graph Node"
+    ],
+    "references": [
+        "1492709831",
+        "1507533182",
+        "1559206433",
+        "1575543304",
+        "1605903931",
+        "1755548619",
+        "1891914554",
+        "1976373002",
+        "1980864870",
+        "2011039300",
+        "2011975945",
+        "2066447087",
+        "2070290170",
+        "2094034674",
+        "2102664288"
+    ]
+}

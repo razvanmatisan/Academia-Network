@@ -1,0 +1,41 @@
+{
+    "id": "1804732670",
+    "title": "Simplified Training Algorithms for Hierarchical Hidden Markov Models",
+    "venue": "discovery science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Nobuhisa Ueda",
+            "id": "2717703203",
+            "org": "Tokyo Institute of Technology"
+        },
+        {
+            "name": "Taisuke Sato",
+            "id": "2114916680",
+            "org": "JST"
+        }
+    ],
+    "fields_of_study": [
+        "Forward algorithm",
+        "Machine learning",
+        "Markov model",
+        "Artificial intelligence",
+        "Hybrid algorithm",
+        "Expectation-maximization algorithm",
+        "Computer science",
+        "Stochastic context-free grammar",
+        "Hierarchical hidden Markov model",
+        "Algorithm",
+        "Baum-Welch algorithm",
+        "Hidden Markov model"
+    ],
+    "references": [
+        "1528056001",
+        "1636244751",
+        "1934019294",
+        "1955233831",
+        "1994851566",
+        "2018584324",
+        "2161523118"
+    ]
+}

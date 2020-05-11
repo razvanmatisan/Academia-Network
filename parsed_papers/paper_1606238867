@@ -1,0 +1,46 @@
+{
+    "id": "1606238867",
+    "title": "Data Driven Ontology Evaluation",
+    "venue": "language resources and evaluation",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Christopher Brewster",
+            "id": "2777102822",
+            "org": "University of Sheffield"
+        },
+        {
+            "name": "Harith Alani",
+            "id": "2050391978",
+            "org": "University of Sheffield"
+        },
+        {
+            "name": "Srinandan Dasmahapatra",
+            "id": "196942285",
+            "org": "University of Southampton"
+        },
+        {
+            "name": "Yorick Wilks",
+            "id": "2073488377",
+            "org": "University of Southampton"
+        }
+    ],
+    "fields_of_study": [
+        "Ontology-based data integration",
+        "Computer science",
+        "Process ontology",
+        "Ontology alignment",
+        "Suggested Upper Merged Ontology",
+        "Ontology Inference Layer",
+        "Ontology (information science)",
+        "Upper ontology",
+        "Ontology components",
+        "Data mining"
+    ],
+    "references": [
+        "1497682552",
+        "1573981182",
+        "2107743791",
+        "2127314673"
+    ]
+}

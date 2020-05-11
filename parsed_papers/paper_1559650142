@@ -1,0 +1,49 @@
+{
+    "id": "1559650142",
+    "title": "Representation of Ontologies for Information Integration",
+    "venue": "knowledge acquisition, modeling and management",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Chantal Reynaud",
+            "id": "2274252726",
+            "org": "University of Paris Sud-CNRS (LRI)"
+        },
+        {
+            "name": "Chantal Reynaud",
+            "id": "2274252726",
+            "org": "University of Paris Sud-CNRS (LRI)"
+        },
+        {
+            "name": "Brigitte Safar",
+            "id": "2061320930",
+            "org": "University of Paris Sud-CNRS (LRI)"
+        }
+    ],
+    "fields_of_study": [
+        "Process ontology",
+        "Knowledge management",
+        "Ontology-based data integration",
+        "Data mining",
+        "Formalism (philosophy)",
+        "Computer science",
+        "Description logic",
+        "Information integration",
+        "Suggested Upper Merged Ontology",
+        "Upper ontology",
+        "Ontology (information science)"
+    ],
+    "references": [
+        "1504182447",
+        "1525337695",
+        "1598223721",
+        "1638026557",
+        "1879587332",
+        "1964852589",
+        "1993996301",
+        "2052688794",
+        "2059572645",
+        "2062828083",
+        "2124371136"
+    ]
+}

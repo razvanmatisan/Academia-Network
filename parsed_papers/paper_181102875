@@ -1,0 +1,27 @@
+{
+    "id": "181102875",
+    "title": "Adding Value to Biodiversity Images through Community Annotation.",
+    "venue": "international world wide web conferences",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "G. Riccardi",
+            "id": "2149480308",
+            "org": "Florida State University"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Biodiversity",
+        "Annotation",
+        "Phylogenetic tree",
+        "Computer science",
+        "Data model",
+        "Data science",
+        "Data modeling"
+    ],
+    "references": [
+        "72957140",
+        "1566758603"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "1520879747",
+    "title": "On the complexity of the vector connectivity problem",
+    "venue": "Theoretical Computer Science",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Ferdinando Cicalese",
+            "id": "32881489",
+            "org": "Department of Computer Science, University of Verona, Italy#TAB#"
+        },
+        {
+            "name": "Martin Milanic",
+            "id": "2057758520",
+            "org": "University of Primorska, UP FAMNIT, Glagoljaska 8, SI-6000 Koper, Slovenia#TAB#"
+        },
+        {
+            "name": "Romeo Rizzi",
+            "id": "2198486159",
+            "org": "Department of Computer Science, University of Verona, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Independent set",
+        "Discrete mathematics",
+        "Pathwidth",
+        "Combinatorics",
+        "Indifference graph",
+        "Chordal graph",
+        "Metric dimension",
+        "Maximal independent set",
+        "Longest path problem",
+        "Mathematics",
+        "Clique-sum"
+    ],
+    "references": [
+        "90743652",
+        "1526906366",
+        "1654194294",
+        "1794474033",
+        "1974224894",
+        "2002811283",
+        "2008292658",
+        "2012391569",
+        "2058157772",
+        "2069808479",
+        "2097938283",
+        "2133304595",
+        "2167868452",
+        "2595985379",
+        "2752287648"
+    ]
+}

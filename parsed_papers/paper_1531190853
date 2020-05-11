@@ -1,0 +1,31 @@
+{
+    "id": "1531190853",
+    "title": "Intermediaries orchestrating public service networks",
+    "venue": "international conference on digital government research",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Marijn Janssen",
+            "id": "2036611447",
+            "org": "Delft University of Technology, Delft, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Web service",
+        "Online presence management",
+        "Service provider",
+        "Service delivery framework",
+        "Business",
+        "Orchestration (computing)",
+        "Public service",
+        "Service design",
+        "Knowledge management",
+        "WS-Policy"
+    ],
+    "references": [
+        "179050616",
+        "1973444164",
+        "1998564291",
+        "2033319609"
+    ]
+}

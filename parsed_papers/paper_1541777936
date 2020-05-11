@@ -1,0 +1,32 @@
+{
+    "id": "1541777936",
+    "title": "Universal Hashing and Authentication Codes",
+    "venue": "international cryptology conference",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Douglas R. Stinson",
+            "id": "2046092719",
+            "org": "University of Nebraska"
+        }
+    ],
+    "fields_of_study": [
+        "Universal hashing",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Double hashing",
+        "Feature hashing",
+        "Hopscotch hashing",
+        "K-independent hashing",
+        "Hash chain",
+        "Dynamic perfect hashing",
+        "Hash function",
+        "Mathematics"
+    ],
+    "references": [
+        "1985623009",
+        "1992558221",
+        "2052207834",
+        "2074278218"
+    ]
+}

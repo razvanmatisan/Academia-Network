@@ -1,0 +1,33 @@
+{
+    "id": "1566923447",
+    "title": "Partial redundant modeling",
+    "venue": "principles and practice of constraint programming",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Tiziana Ligorio",
+            "id": "2047089657",
+            "org": "The Graduate Center of the City University of New York#TAB#"
+        },
+        {
+            "name": "Susan L. Epstein",
+            "id": "2049406904",
+            "org": "The Graduate Center of the City University of New York#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Categorical variable",
+        "Discrete mathematics",
+        "Mathematical optimization",
+        "Scheduling (computing)",
+        "Partition (number theory)",
+        "Disjoint sets",
+        "Mathematics"
+    ],
+    "references": [
+        "1512988629",
+        "1571122520",
+        "2154081061",
+        "2164279585"
+    ]
+}

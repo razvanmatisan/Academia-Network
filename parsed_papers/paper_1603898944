@@ -1,0 +1,35 @@
+{
+    "id": "1603898944",
+    "title": "The problem of statistical power in MIS research",
+    "venue": "Management Information Systems Quarterly",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Jack J. Baroudi",
+            "id": "1972538261",
+            "org": "New York University, New York, NY#TAB#"
+        },
+        {
+            "name": "Wanda J. Orlikowski",
+            "id": "343986580",
+            "org": "Massachusetts Institute of Technology, Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Statistical inference",
+        "Sample size determination",
+        "Research design",
+        "Statistical hypothesis testing",
+        "Management science",
+        "Statistical theory",
+        "Statistical power",
+        "Data mining",
+        "Phenomenon",
+        "Computer science",
+        "Statistical assumption"
+    ],
+    "references": [
+        "785638425",
+        "2135492276"
+    ]
+}

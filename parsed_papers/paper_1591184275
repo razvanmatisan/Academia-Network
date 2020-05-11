@@ -1,0 +1,42 @@
+{
+    "id": "1591184275",
+    "title": "Memory behavior of an X11 window system",
+    "venue": "usenix winter technical conference",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "J. Bradley Chen",
+            "id": "2661091657",
+            "org": "School of Computer Science, Carnegie Mellon University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Interleaved memory",
+        "Cache coloring",
+        "Parallel computing",
+        "Cache-only memory architecture",
+        "Real-time computing",
+        "MESIF protocol",
+        "Memory map",
+        "Non-uniform memory access",
+        "Computer science",
+        "Cache pollution",
+        "Uniform memory access"
+    ],
+    "references": [
+        "19830081",
+        "206628711",
+        "1555915743",
+        "1985477937",
+        "2041276455",
+        "2056027001",
+        "2086890464",
+        "2111692137",
+        "2112378054",
+        "2113440470",
+        "2126258136",
+        "2130696365",
+        "2161011047",
+        "2611425847"
+    ]
+}

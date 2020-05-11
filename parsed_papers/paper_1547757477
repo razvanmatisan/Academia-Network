@@ -1,0 +1,26 @@
+{
+    "id": "1547757477",
+    "title": "Epistemological problems of artificial intelligence",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1977,
+    "authors": [
+        {
+            "name": "John McCarthy",
+            "id": "2121245618",
+            "org": "Computer Science Department, Stanford University, Stanford, California#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Symbolic artificial intelligence",
+        "Artificial Intelligence System",
+        "Artificial intelligence, situated approach",
+        "Artificial psychology",
+        "Artificial intelligence",
+        "Computer science",
+        "Artificial architecture"
+    ],
+    "references": [
+        "1545815294"
+    ]
+}

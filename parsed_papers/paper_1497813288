@@ -1,0 +1,32 @@
+{
+    "id": "1497813288",
+    "title": "Efficient models for reverberation and distance rendering in computer music and virtual audio reality",
+    "venue": "international computer music conference",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Jean-Marc Jot",
+            "id": "2558029087",
+            "org": "IRCAM"
+        }
+    ],
+    "fields_of_study": [
+        "Loudspeaker",
+        "Computer vision",
+        "Speech recognition",
+        "Computer music",
+        "Audio signal processing",
+        "Digital signal processing",
+        "Modular design",
+        "Rendering (computer graphics)",
+        "Headphones",
+        "Reverberation",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "21456454",
+        "1522355737",
+        "2134411878"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1593397281",
+    "title": "Inherent fault tolerance in evolved sorting networks",
+    "venue": "genetic and evolutionary computation conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Rob Shepherd",
+            "id": "2709366629",
+            "org": "Department of Computer Science, University of Idaho, Moscow, ID#TAB#"
+        },
+        {
+            "name": "James A. Foster",
+            "id": "2238485221",
+            "org": "Department of Computer Science, University of Idaho, Moscow, ID#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Evolutionary computation",
+        "Evolvable hardware",
+        "Artificial intelligence",
+        "Evolutionary programming",
+        "Human-based evolutionary computation",
+        "Fault tolerance",
+        "Robustness (computer science)",
+        "Computer science",
+        "Sorting network"
+    ],
+    "references": [
+        "1791894838",
+        "2034351457"
+    ]
+}

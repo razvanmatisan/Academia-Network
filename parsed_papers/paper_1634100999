@@ -1,0 +1,42 @@
+{
+    "id": "1634100999",
+    "title": "Supporting a flexible parallel programming model on a network of workstations",
+    "venue": "international conference on distributed computing systems",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Shih Chen Huang",
+            "id": "2625126718",
+            "org": "Dept. of Comput. Sci., New York Univ., NY, USA"
+        },
+        {
+            "name": "Zvi M. Kedem",
+            "id": "2347053213",
+            "org": "Department of Computer Science|New York University"
+        }
+    ],
+    "fields_of_study": [
+        "Programming paradigm",
+        "Concurrent computing",
+        "Computer science",
+        "Distributed computing",
+        "Parallel computing",
+        "Architecture",
+        "Software system",
+        "Parallel programming model",
+        "Shared memory",
+        "Memory management",
+        "Scalability"
+    ],
+    "references": [
+        "1544601224",
+        "1573121473",
+        "1669554023",
+        "1690788913",
+        "1965498649",
+        "1977856399",
+        "2133765762",
+        "2138862411",
+        "2157390918"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "1558203899",
+    "title": "Particle Swarm Optimization: An efficient tool for the design of Automatic Control laws",
+    "venue": "european control conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Guillaume Sandou",
+            "id": "305698893",
+            "org": "SUPELEC, Automatic Control Department, 3 rue Joliot Curie, 91192 Gif-sur-Yvette, France"
+        }
+    ],
+    "fields_of_study": [
+        "Meta-optimization",
+        "Parallel metaheuristic",
+        "Metaheuristic",
+        "Multi-swarm optimization",
+        "Continuous optimization",
+        "Probabilistic-based design optimization",
+        "Mathematical optimization",
+        "Control engineering",
+        "Law",
+        "Engineering",
+        "Optimization problem",
+        "Test functions for optimization"
+    ],
+    "references": [
+        "134770526",
+        "1577668191",
+        "1605641190",
+        "2081749411"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "1540466161",
+    "title": "Emotion recognition from Mandarin speech signals",
+    "venue": "international symposium on chinese spoken language processing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Tsang-Long Pao",
+            "id": "2134719919",
+            "org": "Dept. of Comput. Sci. & Eng., Tatung Univ., Taipei, Taiwan"
+        },
+        {
+            "name": "Yu-Te Chen",
+            "id": "2172069596",
+            "org": "Dept. of Comput. Sci. & Eng., Tatung Univ., Taipei, Taiwan"
+        },
+        {
+            "name": "Jun-Heng Yeh",
+            "id": "2096146812",
+            "org": "Dept. of Comput. Sci. & Eng., Tatung Univ., Taipei, Taiwan"
+        }
+    ],
+    "fields_of_study": [
+        "Speech recognition",
+        "Fundamental frequency",
+        "Artificial intelligence",
+        "Loudness",
+        "Emotion classification",
+        "Feature extraction",
+        "Feature vector",
+        "Pattern recognition",
+        "Mel-frequency cepstrum",
+        "Arousal",
+        "Linear predictive coding",
+        "Computer science"
+    ],
+    "references": [
+        "99444952",
+        "1535925594",
+        "1972836533",
+        "1994458317",
+        "2110052520",
+        "2147345518"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1551753488",
+    "title": "Handling encryption in an analysis for secure information flow",
+    "venue": "european symposium on programming",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Peeter Laud",
+            "id": "2809710393",
+            "org": "Tartu University and Cybernetica AS#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Ciphertext",
+        "Program analysis",
+        "Information flow (information theory)",
+        "Control flow analysis",
+        "Computer science",
+        "Encryption",
+        "Cryptographic protocol",
+        "Cryptography",
+        "Distributed computing",
+        "Plaintext"
+    ],
+    "references": [
+        "1487472891",
+        "1493079268",
+        "1561492881",
+        "1923391011",
+        "1951183256",
+        "1966212263",
+        "1966571454",
+        "1977764760",
+        "1993941352",
+        "1994676271",
+        "2019240373",
+        "2058014492",
+        "2094873755",
+        "2119708968",
+        "2127035198",
+        "2129278597",
+        "2137546893",
+        "2150174204",
+        "2152179604",
+        "2154613415",
+        "2173102238"
+    ]
+}

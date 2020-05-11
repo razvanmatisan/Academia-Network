@@ -1,0 +1,30 @@
+{
+    "id": "1526569681",
+    "title": "Garbage collection in a distributed environment",
+    "venue": "international conference on parallel architectures and languages europe",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Lex Augusteijn",
+            "id": "1256132450",
+            "org": "Philips Research Laboratories Eindhoven"
+        }
+    ],
+    "fields_of_study": [
+        "Garbage",
+        "On the fly",
+        "Real-time computing",
+        "Garbage collection",
+        "Idle",
+        "Distributed Computing Environment",
+        "Computer science"
+    ],
+    "references": [
+        "1758214280",
+        "2058841903",
+        "2104055277",
+        "2131053137",
+        "2154004999",
+        "2158525816"
+    ]
+}

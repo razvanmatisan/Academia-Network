@@ -1,0 +1,51 @@
+{
+    "id": "1564696531",
+    "title": "Exploring a two-population genetic algorithm",
+    "venue": "genetic and evolutionary computation conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Steven O. Kimbrough",
+            "id": "2023931980",
+            "org": "University of Pennsylvania, Philadelphia, PA#TAB#"
+        },
+        {
+            "name": "Ming Lu",
+            "id": "2579663789",
+            "org": "University of Pennsylvania, Philadelphia, PA#TAB#"
+        },
+        {
+            "name": "David Harlan Wood",
+            "id": "2123994669",
+            "org": "University of Delaware, CIS Dept., Newark, DE#TAB#"
+        },
+        {
+            "name": "D. J. Wu",
+            "id": "2095619502",
+            "org": "DuPree College of Management, Georgia Institute of Technology, Atlanta, GA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Continuous knapsack problem",
+        "Genetic algorithm",
+        "Artificial intelligence",
+        "Meta-optimization",
+        "Machine learning",
+        "Knapsack problem",
+        "Generalized assignment problem",
+        "Fitness approximation",
+        "Computer science",
+        "Fitness function",
+        "Optimization problem"
+    ],
+    "references": [
+        "124424457",
+        "1539702957",
+        "1597340474",
+        "1614338317",
+        "2114224867",
+        "2141630781",
+        "2142183404"
+    ]
+}

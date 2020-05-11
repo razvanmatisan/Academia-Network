@@ -1,0 +1,30 @@
+{
+    "id": "1492126436",
+    "title": "Towards Musical Data Classification via Wavelet Analysis",
+    "venue": "international syposium on methodologies for intelligent systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Alicja Wieczorkowska",
+            "id": "182218848",
+            "org": "Polish - Japanese Institute of Information Technologies"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Machine learning",
+        "Musical",
+        "Artificial intelligence",
+        "Parametrization",
+        "Soft computing",
+        "Wavelet",
+        "Data classification",
+        "Decision tree",
+        "Computer science",
+        "Rough set"
+    ],
+    "references": [
+        "1492063317",
+        "2125055259"
+    ]
+}

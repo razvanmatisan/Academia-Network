@@ -1,0 +1,37 @@
+{
+    "id": "164303122",
+    "title": "Model-based supervisory control in telerobotics",
+    "venue": "Presence: Teleoperators & Virtual Environments",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Theodore T. Blackmon",
+            "id": "2503084639",
+            "org": "Telerobotics and Neurology Units, University of California at Berkeley, Berkeley, CA 94720-2020.#TAB#"
+        },
+        {
+            "name": "Lawrence Stark",
+            "id": "2145320503",
+            "org": "Telerobotics and Neurology Units, University of California at Berkeley, Berkeley, CA 94720-2020.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Teleoperation",
+        "Simulation",
+        "Computer vision",
+        "Artificial intelligence",
+        "Telerobotics",
+        "Trajectory",
+        "Computer science",
+        "Graphical user interface",
+        "Supervisory control",
+        "The Internet",
+        "Communication channel",
+        "Bandwidth (signal processing)"
+    ],
+    "references": [
+        "1988129357",
+        "1989518033",
+        "2150521661"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1563824416",
+    "title": "N-Cube String Matching Algorithm with Long Texts",
+    "venue": "Selected papers from the 8th Franco-Japanese and 4th Franco-Chinese Conference on Combinatorics and Computer Science",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Fouzia Moussouni",
+            "id": "2489296315",
+            "org": "Universite Paris-XIII"
+        },
+        {
+            "name": "Christian Lavault",
+            "id": "821748485",
+            "org": "Universite Paris-XIII"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Commentz-Walter algorithm",
+        "Rabin-Karp algorithm",
+        "Bitap algorithm",
+        "Boyer-Moore string search algorithm",
+        "String searching algorithm",
+        "Approximate string matching",
+        "Theoretical computer science",
+        "Boyer-Moore-Horspool algorithm",
+        "3-dimensional matching",
+        "Computer science"
+    ],
+    "references": [
+        "1514819288",
+        "1526750608",
+        "1540705509",
+        "1598909951",
+        "1991454799",
+        "2017497752",
+        "2019110518",
+        "2073697541",
+        "2120490947",
+        "2151145236"
+    ]
+}

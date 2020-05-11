@@ -1,0 +1,40 @@
+{
+    "id": "1513969234",
+    "title": "Towards visual analysis of usability test logs using task models",
+    "venue": "task models and diagrams for user interface design",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ivo Maly",
+            "id": "2138600391",
+            "org": "Czech Technical University in Prague, Prague, Czech Republic#TAB#"
+        },
+        {
+            "name": "Pavel Slavik",
+            "id": "1831214372",
+            "org": "Czech Technical University in Prague, Prague, Czech Republic#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Human-computer interaction",
+        "Component-based usability testing",
+        "Usability",
+        "Cognitive walkthrough",
+        "Heuristic evaluation",
+        "Pluralistic walkthrough",
+        "Usability lab",
+        "Visual analytics",
+        "Usability inspection",
+        "Computer science"
+    ],
+    "references": [
+        "1977317165",
+        "1994261691",
+        "2069792174",
+        "2078278282",
+        "2085930728",
+        "2123852095",
+        "2146518806",
+        "2342091124"
+    ]
+}

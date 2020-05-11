@@ -1,0 +1,33 @@
+{
+    "id": "14851748",
+    "title": "Formal Reasoning about Emergent Behaviours of Multi-Agent Systems.",
+    "venue": "software engineering and knowledge engineering",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Hong Zhu",
+            "id": "2607615413",
+            "org": "Oxford Brookes University"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Remainder",
+        "Autonomous agent",
+        "Formal system",
+        "Formal specification",
+        "Z notation",
+        "Computer science",
+        "Phenomenon",
+        "Mathematical model",
+        "Multi-agent system"
+    ],
+    "references": [
+        "1550758870",
+        "1807484554",
+        "1875539103",
+        "1964024754",
+        "2050099582",
+        "2119434827"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1553239288",
+    "title": "Discovering the most frequent patterns of executions in business processes described in BPEL",
+    "venue": "web information systems engineering",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Benoit Dubouloz",
+            "id": "1387781624",
+            "org": "Swiss Federal Institute of Technology Lausanne (EPFL), Lausanne, Switzerland#TAB#"
+        },
+        {
+            "name": "Candemir Toklu",
+            "id": "2162902954",
+            "org": "Siemens Corporate Research (SCR), Princeton, NJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Business process",
+        "Business process discovery",
+        "Business Process Execution Language",
+        "Computer science",
+        "Business Process Model and Notation",
+        "Process mining",
+        "Business process modeling",
+        "Process management",
+        "Artifact-centric business process model",
+        "Business process management"
+    ],
+    "references": [
+        "1528558637",
+        "2030766291",
+        "2052476220",
+        "2134937538",
+        "2169478132"
+    ]
+}

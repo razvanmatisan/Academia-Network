@@ -1,0 +1,38 @@
+{
+    "id": "152672609",
+    "title": "An investigation of opportunistic constraint satisfaction in space planning",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Can A. Baykan",
+            "id": "1990061600",
+            "org": "The Robotics Institute, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Mark S. Fox",
+            "id": "2144997312",
+            "org": "The Robotics Institute, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Incremental heuristic search",
+        "Beam search",
+        "Artificial intelligence",
+        "Discrete mathematics",
+        "Mathematical optimization",
+        "Machine learning",
+        "State space search",
+        "Guided Local Search",
+        "Search algorithm",
+        "Constraint satisfaction problem",
+        "Constraint learning",
+        "Constraint satisfaction",
+        "Mathematics"
+    ],
+    "references": [
+        "1558537560",
+        "1991826238",
+        "2161484642"
+    ]
+}

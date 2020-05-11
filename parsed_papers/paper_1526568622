@@ -1,0 +1,31 @@
+{
+    "id": "1526568622",
+    "title": "Deciding 3-Colourability in Less Than O(1.415^n) Steps",
+    "venue": "workshop on graph theoretic concepts in computer science",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Ingo Schiermeyer",
+            "id": "2775910501",
+            "org": "Technische Hochschule Aachen"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Vertex (geometry)",
+        "Graph power",
+        "Combinatorics",
+        "Degree (graph theory)",
+        "Factor-critical graph",
+        "Graph bandwidth",
+        "Computer science",
+        "Regular graph",
+        "Strength of a graph",
+        "Simplex graph"
+    ],
+    "references": [
+        "2007200873",
+        "2025904765",
+        "2148043549"
+    ]
+}

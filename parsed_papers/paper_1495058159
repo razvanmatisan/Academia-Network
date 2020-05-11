@@ -1,0 +1,30 @@
+{
+    "id": "1495058159",
+    "title": "Hidden Collisions on DSS",
+    "venue": "international cryptology conference",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Serge Vaudenay",
+            "id": "22805272",
+            "org": "Ecole Normale Superieure -- DMI"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Genetic algorithm",
+        "Digital Signature Algorithm",
+        "Collision attack",
+        "Hash function",
+        "Collision",
+        "Computer science",
+        "Birthday attack"
+    ],
+    "references": [
+        "1580913585",
+        "1646354800",
+        "2095708839",
+        "2108834246",
+        "2166462813"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1497619716",
+    "title": "Fair Public-Key Cryptosystems",
+    "venue": "international cryptology conference",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Silvio Micali",
+            "id": "699581604",
+            "org": "Massachusetts Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Verifiable secret sharing",
+        "Encryption",
+        "Clipper chip",
+        "Right to privacy",
+        "Public-key cryptography",
+        "Hybrid cryptosystem",
+        "Computer security",
+        "Computer science",
+        "Government",
+        "Cryptosystem",
+        "Commerce"
+    ],
+    "references": [
+        "44936433",
+        "1557783852",
+        "1996360405",
+        "2138109426",
+        "2141420453",
+        "2156186849",
+        "2164284862",
+        "2168970529"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1502198328",
+    "title": "A Query Language for a Metadata Framework about Mathematical Resources",
+    "venue": "mathematical knowledge management",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Ferruccio Guidi",
+            "id": "2127666817",
+            "org": "Department of Computer Science, Bologna, Italy"
+        },
+        {
+            "name": "Irene Schena",
+            "id": "338453458",
+            "org": "Department of Computer Science, Bologna, Italy"
+        }
+    ],
+    "fields_of_study": [
+        "Metadata repository",
+        "RDF",
+        "Web search query",
+        "Information retrieval",
+        "Computer science",
+        "Query language",
+        "Metadata",
+        "Database",
+        "Search engine",
+        "SPARQL",
+        "RDF query language"
+    ],
+    "references": [
+        "1511668635",
+        "2046166587",
+        "2134585533"
+    ]
+}

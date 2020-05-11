@@ -1,0 +1,35 @@
+{
+    "id": "1531019793",
+    "title": "A Causal Modeling Framework for Generating Clinical Practice Guidelines from Data",
+    "venue": "artificial intelligence in medicine in europe",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Subramani Mani",
+            "id": "2600952536",
+            "org": "Vanderbilt University, Nashville TN 37232, USA#TAB#"
+        },
+        {
+            "name": "Constantin F. Aliferis",
+            "id": "4651849",
+            "org": "Vanderbilt University, Nashville TN 37232, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Software deployment",
+        "Clinical Practice",
+        "Guideline",
+        "Disease",
+        "Intermittent fever",
+        "Causal model",
+        "Evidence-based medicine",
+        "Computer science",
+        "Knowledge management"
+    ],
+    "references": [
+        "1551627600",
+        "2117909411",
+        "2159080219"
+    ]
+}

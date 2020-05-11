@@ -1,0 +1,50 @@
+{
+    "id": "1579771431",
+    "title": "Conceptual knowledge retrieval with FooCA: improving web search engine results with contexts and concept hierarchies",
+    "venue": "international conference on data mining",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Bjoern Koester",
+            "id": "2706515744",
+            "org": "Webstrategy GmbH, Darmstadt, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semantic search",
+        "Artificial intelligence",
+        "Data mining",
+        "Machine learning",
+        "Web service",
+        "Web modeling",
+        "Web mining",
+        "Formal concept analysis",
+        "Computer science",
+        "Rewrite engine",
+        "Search engine",
+        "Web search engine"
+    ],
+    "references": [
+        "66326051",
+        "1483276075",
+        "1493941115",
+        "1503729935",
+        "1509375807",
+        "1521477250",
+        "1548778571",
+        "1553406086",
+        "1564561201",
+        "1566946743",
+        "1585786503",
+        "1601616652",
+        "1660390307",
+        "1922661978",
+        "1962172852",
+        "2066636486",
+        "2098162425",
+        "2136382058",
+        "2139653758",
+        "2151774642",
+        "2474930308"
+    ]
+}

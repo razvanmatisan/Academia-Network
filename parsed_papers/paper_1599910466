@@ -1,0 +1,46 @@
+{
+    "id": "1599910466",
+    "title": "A hierarchical stochastic model for automatic prediction of prosodic boundary location",
+    "venue": "Computational Linguistics",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Mari Ostendorf",
+            "id": "2046206377",
+            "org": "Boston University#TAB#"
+        },
+        {
+            "name": "Nanette Veilleux",
+            "id": "2048334812",
+            "org": "Boston University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Hierarchy",
+        "Phrase",
+        "Parsing",
+        "Artificial intelligence",
+        "Phrase structure rules",
+        "Binary tree",
+        "Speech synthesis",
+        "Prosody",
+        "Syntax",
+        "Computer science"
+    ],
+    "references": [
+        "1528395609",
+        "1743906558",
+        "1942270970",
+        "2007605886",
+        "2012089388",
+        "2061271742",
+        "2062093483",
+        "2099247782",
+        "2099345940",
+        "2121407024",
+        "2157213253",
+        "2422844807",
+        "2584852661"
+    ]
+}

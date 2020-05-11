@@ -1,0 +1,43 @@
+{
+    "id": "1567733019",
+    "title": "Centroid neural network with Bhattacharyya kernel for GPDF data clustering",
+    "venue": "knowledge discovery and data mining",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Song-Jae Lee",
+            "id": "2336038637",
+            "org": "Dept. of Information Eng., and Myongji IT Eng. Research Inst., Myong Ji University, Korea#TAB#"
+        },
+        {
+            "name": "Dong-Chul Park",
+            "id": "2206811207",
+            "org": "Dept. of Information Eng., and Myongji IT Eng. Research Inst., Myong Ji University, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Machine learning",
+        "Data mining",
+        "Artificial neural network",
+        "Contextual image classification",
+        "Kernel method",
+        "Kernel (linear algebra)",
+        "Computer science",
+        "Variable kernel density estimation",
+        "k-means clustering",
+        "Bhattacharyya distance",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1596052433",
+        "2013357016",
+        "2019359195",
+        "2108159555",
+        "2108859253",
+        "2108995755",
+        "2112235833",
+        "2125687218"
+    ]
+}

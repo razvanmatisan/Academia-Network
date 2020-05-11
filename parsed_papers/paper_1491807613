@@ -1,0 +1,44 @@
+{
+    "id": "1491807613",
+    "title": "Have I written enough Properties? - A Method of Comparison between Specification and Implementation",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Sagi Katz",
+            "id": "2665774557",
+            "org": "Computer Science Department, Haifa, Israel"
+        },
+        {
+            "name": "Orna Grumberg",
+            "id": "1993734283",
+            "org": "Computer Science Department, Haifa, Israel"
+        },
+        {
+            "name": "Daniel Geist",
+            "id": "2123926388",
+            "org": "IBM Haifa Research Lab."
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Simulation preorder",
+        "Formal specification",
+        "Model checking",
+        "Specification language",
+        "State space",
+        "Binary decision diagram",
+        "Computer science",
+        "Reference implementation",
+        "Kripke structure"
+    ],
+    "references": [
+        "1540180001",
+        "1976597924",
+        "2009965218",
+        "2125539770",
+        "2141725526",
+        "2162844904",
+        "2340735175"
+    ]
+}

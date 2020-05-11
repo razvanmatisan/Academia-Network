@@ -1,0 +1,46 @@
+{
+    "id": "1817088159",
+    "title": "A dynamic clonal selection algorithm for project optimization scheduling",
+    "venue": "simulated evolution and learning",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Xiaoying Pan",
+            "id": "2790546890",
+            "org": "Institute of Intelligent Information Processing, Xidian University, Xi'an, China#TAB#"
+        },
+        {
+            "name": "Fang Liu",
+            "id": "2421134446",
+            "org": "Institute of Intelligent Information Processing, Xidian University, Xi'an, China#TAB#"
+        },
+        {
+            "name": "Licheng Jiao",
+            "id": "2166558591",
+            "org": "Institute of Intelligent Information Processing, Xidian University, Xi'an, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Crossover",
+        "Genetic algorithm",
+        "Scheduling (computing)",
+        "Mathematical optimization",
+        "Dynamic priority scheduling",
+        "Project management",
+        "Machine learning",
+        "Schedule (project management)",
+        "Clonal selection algorithm",
+        "Artificial intelligence",
+        "Resource allocation",
+        "Computer science"
+    ],
+    "references": [
+        "1520752329",
+        "1729196541",
+        "2023044784",
+        "2042058522",
+        "2070891082",
+        "2144666752",
+        "2268894645"
+    ]
+}

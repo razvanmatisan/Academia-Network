@@ -1,0 +1,43 @@
+{
+    "id": "1536935156",
+    "title": "An Experiment on Modelling Agents and Knowledge for the Semantic Web",
+    "venue": "artificial intelligence methodology systems applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Alvaro Arenas",
+            "id": "2131849273",
+            "org": "CCLRC Rutherford Appleton Laboratory"
+        },
+        {
+            "name": "Brian Matthews",
+            "id": "2132256430",
+            "org": "CCLRC Rutherford Appleton Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Artificial intelligence",
+        "Computer science",
+        "OWL-S",
+        "Web standards",
+        "FOAF",
+        "Web development",
+        "Social Semantic Web",
+        "Web modeling",
+        "Semantic Web",
+        "Semantic Web Stack",
+        "Knowledge management"
+    ],
+    "references": [
+        "164791823",
+        "292123658",
+        "1494696464",
+        "1686236642",
+        "1869896765",
+        "2011488786",
+        "2106409346",
+        "2129899354",
+        "2131289781"
+    ]
+}

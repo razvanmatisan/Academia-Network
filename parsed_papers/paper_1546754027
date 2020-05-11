@@ -1,0 +1,46 @@
+{
+    "id": "1546754027",
+    "title": "System Level Tools for DSP in FPGAs",
+    "venue": "field-programmable logic and applications",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "James Hwang",
+            "id": "2127428920",
+            "org": "Xilinx Inc"
+        },
+        {
+            "name": "Brent Milne",
+            "id": "2101301159",
+            "org": "Xilinx Inc"
+        },
+        {
+            "name": "Nabeel Shirazi",
+            "id": "2195580487",
+            "org": "Xilinx Inc"
+        },
+        {
+            "name": "Jeffrey D. Stroomer",
+            "id": "62435648",
+            "org": "Xilinx Inc"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Signal processing",
+        "Systems modeling",
+        "Implementation",
+        "Parallel computing",
+        "Software system",
+        "Digital signal processing",
+        "System model",
+        "Software",
+        "Data flow diagram",
+        "Computer science"
+    ],
+    "references": [
+        "2102194774",
+        "2112432448",
+        "2148673892"
+    ]
+}

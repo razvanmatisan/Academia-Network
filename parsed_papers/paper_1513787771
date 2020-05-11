@@ -1,0 +1,37 @@
+{
+    "id": "1513787771",
+    "title": "Distance between Kohonen Classes Visualization Tool to Use SOM in Data Set Analysis and Representation",
+    "venue": "international work conference on artificial and natural neural networks",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Patrick Rousset",
+            "id": "2473856025",
+            "org": "CEREQ"
+        },
+        {
+            "name": "Christiane Guinot",
+            "id": "2432298441",
+            "org": "CE.R.I.E.S."
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Cluster analysis",
+        "Visualization",
+        "Self-organizing map",
+        "Data visualization",
+        "Artificial intelligence",
+        "Data structure",
+        "Pattern recognition",
+        "Linear equation",
+        "Computer science",
+        "Phenomenon",
+        "Multiple correspondence analysis"
+    ],
+    "references": [
+        "13354875",
+        "101216601",
+        "1517516770"
+    ]
+}

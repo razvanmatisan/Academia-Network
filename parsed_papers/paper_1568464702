@@ -1,0 +1,31 @@
+{
+    "id": "1568464702",
+    "title": "Towards Resource-Oriented BPEL",
+    "venue": "european conference on web services",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Hagen Overdick",
+            "id": "178048530",
+            "org": "Hasso Plattner Institute for IT Systems Engineering at the University of Potsdam"
+        }
+    ],
+    "fields_of_study": [
+        "Service-orientation",
+        "Web service",
+        "Modeling language",
+        "World Wide Web",
+        "Database",
+        "Finite-state machine",
+        "Business Process Execution Language",
+        "Architectural style",
+        "Computer science",
+        "Programming language"
+    ],
+    "references": [
+        "23038622",
+        "2024660412",
+        "2046166587",
+        "2117709199"
+    ]
+}

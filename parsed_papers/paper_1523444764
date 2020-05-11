@@ -1,0 +1,50 @@
+{
+    "id": "1523444764",
+    "title": "Constraint Networks of Topological Relations and Convexity",
+    "venue": "Constraints - An International Journal",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Ernest Davis",
+            "id": "2140299171",
+            "org": "Dept. of Computer Science, New York University#TAB#"
+        },
+        {
+            "name": "Nicholas Mark Gotts",
+            "id": "1998975606",
+            "org": "Land Use Science Group, Macaulay Land Use Research Institute, Aberdeen, UK#TAB#"
+        },
+        {
+            "name": "Anthony G. Cohn",
+            "id": "2149556533",
+            "org": "School of Computer Studies, University of Leeds#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint (mathematics)",
+        "Mathematics",
+        "Discrete mathematics",
+        "Mathematical optimization",
+        "Decidability",
+        "Region connection calculus",
+        "Affine transformation",
+        "Combinatorics",
+        "Adjacency list",
+        "Bounded function",
+        "Computational complexity theory",
+        "Convexity",
+        "Topology"
+    ],
+    "references": [
+        "852874",
+        "225747980",
+        "1525830615",
+        "1527367709",
+        "1555296323",
+        "1557143830",
+        "1582004301",
+        "2037694584",
+        "2103745248",
+        "2161484642"
+    ]
+}

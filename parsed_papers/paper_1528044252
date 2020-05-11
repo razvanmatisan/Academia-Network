@@ -1,0 +1,39 @@
+{
+    "id": "1528044252",
+    "title": "Object Recognition Using Sequential Images and Application to Active Vision",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Masaki Onishi",
+            "id": "2289202838",
+            "org": "Osaka Prefecture University"
+        },
+        {
+            "name": "Masao Izumi",
+            "id": "2080838917",
+            "org": "Osaka Prefecture University"
+        },
+        {
+            "name": "Kunio Fukunaga",
+            "id": "2102113618",
+            "org": "Osaka Prefecture University"
+        }
+    ],
+    "fields_of_study": [
+        "3D single-object recognition",
+        "Computer vision",
+        "System integration",
+        "Artificial intelligence",
+        "Cognitive neuroscience of visual object recognition",
+        "Computer science",
+        "Haar-like features",
+        "Active vision"
+    ],
+    "references": [
+        "1510056591",
+        "1947774721",
+        "2128913327",
+        "2172093163"
+    ]
+}

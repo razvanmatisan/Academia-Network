@@ -1,0 +1,47 @@
+{
+    "id": "1553291256",
+    "title": "Improving performance of nearest neighborhood classifier using genetic programming",
+    "venue": "international conference on machine learning and applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Abdul Majid",
+            "id": "2162692702",
+            "org": "Computer Science & Engineering, GIK Institute of Engineering Science & Technology, Topi-23460, Swabi, PAKISTAN"
+        },
+        {
+            "name": "Asifullah Khan",
+            "id": "2163214964",
+            "org": "Computer Science & Engineering, GIK Institute of Engineering Science & Technology, Topi-23460, Swabi, PAKISTAN"
+        },
+        {
+            "name": "Anwar M. Mirza",
+            "id": "2106211688",
+            "org": "Computer Science & Engineering, GIK Institute of Engineering Science & Technology, Topi-23460, Swabi, PAKISTAN"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Outlier",
+        "Receiver operating characteristic",
+        "Artificial neural network",
+        "Quartile",
+        "Computer science",
+        "Voting",
+        "Pattern recognition",
+        "Genetic programming",
+        "Convex hull",
+        "k-nearest neighbors algorithm"
+    ],
+    "references": [
+        "1496185113",
+        "1639032689",
+        "2003048487",
+        "2088779313",
+        "2101392314",
+        "2116596942",
+        "2160675518",
+        "2163539404"
+    ]
+}

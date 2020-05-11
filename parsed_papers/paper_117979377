@@ -1,0 +1,44 @@
+{
+    "id": "117979377",
+    "title": "ENVIRONMENTAL ACQUISITION IN MOBILE NETWORK SIMULATION",
+    "venue": "international conference on wireless information networks and systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "David Buchmann",
+            "id": "1992005125",
+            "org": "Departement of Computer Science|University of Fribourg"
+        },
+        {
+            "name": "Dominik Jungo",
+            "id": "1254364429",
+            "org": "Departement of Computer Science|University of Fribourg"
+        },
+        {
+            "name": "Ulrich Ultes-Nitsche",
+            "id": "115739436",
+            "org": "Departement of Computer Science|University of Fribourg"
+        }
+    ],
+    "fields_of_study": [
+        "Network simulation",
+        "Radio access network",
+        "Network management station",
+        "Public land mobile network",
+        "Mobile station",
+        "Computer network",
+        "Network information system",
+        "Distributed computing",
+        "Intelligent computer network",
+        "Computer science",
+        "Mobile ad hoc network"
+    ],
+    "references": [
+        "72916264",
+        "139064886",
+        "180768758",
+        "1977544362",
+        "2109285374",
+        "2549265979"
+    ]
+}

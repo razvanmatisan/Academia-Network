@@ -1,0 +1,32 @@
+{
+    "id": "1543087127",
+    "title": "How to Design Computer Security Experiments",
+    "venue": "World Conference on Information Security Education",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Sean Peisert",
+            "id": "1975232918",
+            "org": "University of California"
+        },
+        {
+            "name": "Matt Bishop",
+            "id": "2195620147",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Scientific method",
+        "Intrusion detection system",
+        "Computer security",
+        "Information security",
+        "Data mining",
+        "Computer security model",
+        "Data quality",
+        "Software security assurance",
+        "Computer science"
+    ],
+    "references": [
+        "2147767253"
+    ]
+}

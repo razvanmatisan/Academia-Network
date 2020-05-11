@@ -1,0 +1,37 @@
+{
+    "id": "1603606628",
+    "title": "Monotonic Language Learning",
+    "venue": "algorithmic learning theory",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Shyam Kapur",
+            "id": "2098234539",
+            "org": "University of Pennsylvania"
+        }
+    ],
+    "fields_of_study": [
+        "Inductive bias",
+        "Deductive reasoning",
+        "Machine learning",
+        "Sequence learning",
+        "Computer science",
+        "Inductive reasoning",
+        "Natural language processing",
+        "Multi-task learning",
+        "Algorithmic learning theory",
+        "Inductive transfer",
+        "Object language",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1500403225",
+        "1566436741",
+        "1566918015",
+        "1984676934",
+        "2019001600",
+        "2059763997",
+        "2071654679",
+        "2131703637"
+    ]
+}

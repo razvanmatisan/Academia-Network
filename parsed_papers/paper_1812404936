@@ -1,0 +1,28 @@
+{
+    "id": "1812404936",
+    "title": "On the Semantics of Fair Parallelism",
+    "venue": "Advances in Computers",
+    "year": 1979,
+    "authors": [
+        {
+            "name": "David Michael Ritchie Park",
+            "id": "2279403687",
+            "org": "University of Warwick"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Theoretical computer science",
+        "Semantics",
+        "Sequence",
+        "Programming language",
+        "Relation algebra"
+    ],
+    "references": [
+        "1542605821",
+        "1546746643",
+        "2023309117",
+        "2062024564",
+        "2103953153"
+    ]
+}

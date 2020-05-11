@@ -1,0 +1,26 @@
+{
+    "id": "1509226754",
+    "title": "Specification and Verification of a Network Nail System",
+    "venue": "Program Construction, International Summer Schoo",
+    "year": 1978,
+    "authors": [
+        {
+            "name": "Susan S. Owicki",
+            "id": "2019529423",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Computer architecture",
+        "Intelligent verification",
+        "Software verification",
+        "Modular design",
+        "Verification",
+        "Computer science"
+    ],
+    "references": [
+        "1524385021",
+        "1597456533",
+        "2078782651"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "119294579",
+    "title": "Data Security in Service-Oriented Architectures.",
+    "venue": "DFN-Arbeitstagung &uuml;ber Kommunikationsnetze",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Dirk Henrici",
+            "id": "2042073147",
+            "org": "University of Kaiserslautern"
+        },
+        {
+            "name": "Jochen Muller",
+            "id": "2127097353",
+            "org": "AG Integrated Communication Systems|University of Kaiserslautern"
+        }
+    ],
+    "fields_of_study": [
+        "Sherwood Applied Business Security Architecture",
+        "Systems engineering",
+        "Distributed System Security Architecture",
+        "Business",
+        "Information privacy",
+        "Security through obscurity",
+        "Cloud computing security",
+        "Computer security",
+        "Security service",
+        "Security information and event management",
+        "Information security audit"
+    ],
+    "references": [
+        "4358824",
+        "1521213514",
+        "1762781255",
+        "2103647628",
+        "2116347193",
+        "2127174588",
+        "2152590851"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1543983621",
+    "title": "Coverage of Known Spaces: The Boustrophedon Cellular Decomposition",
+    "venue": "Autonomous Robots",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Howie Choset",
+            "id": "2041654701",
+            "org": "Department of Mechanical Engineering, Carnegie Mellon University, Pittsburgh, PA 15213, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile robot",
+        "Simulation",
+        "Motion planning",
+        "Boustrophedon",
+        "Mathematical optimization",
+        "Adjacency list",
+        "Computer science",
+        "Graph",
+        "Cellular decomposition"
+    ],
+    "references": [
+        "1702514015",
+        "1866151417",
+        "2005314985",
+        "2021392696",
+        "2026762793",
+        "2054566447",
+        "2122995048",
+        "2140683500"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1598795547",
+    "title": "Ontological analysis of observations and measurements",
+    "venue": "geographic information science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Florian Probst",
+            "id": "2120621289",
+            "org": "Institute for Geoinformatics, University of Munster, Munster, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Geospatial analysis",
+        "Information retrieval",
+        "Data mining",
+        "Semantic interoperability",
+        "Computer science",
+        "Ontology",
+        "Interoperability",
+        "Geographic information system",
+        "Ontology alignment",
+        "Conceptual model",
+        "Observations and Measurements"
+    ],
+    "references": [
+        "3902195",
+        "1484003027",
+        "1502732432",
+        "1796264214",
+        "1802453754",
+        "1940888119",
+        "1993426067",
+        "2044925046",
+        "2056420273",
+        "2060327084",
+        "2075123415",
+        "2109946403",
+        "2146871965",
+        "2148824896",
+        "2167039673"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1595061702",
+    "title": "Multi body Kalman filtering with articulation constraints for humanoid robot pose and motion estimation",
+    "venue": "robot soccer world cup",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Daniel Hauschildt",
+            "id": "2171659648",
+            "org": "Robotics Research Institute, TU Dortmund University, Dortmund, Germany#TAB#"
+        },
+        {
+            "name": "Soren Kerner",
+            "id": "2030037996",
+            "org": "Robotics Research Institute, TU Dortmund University, Dortmund, Germany#TAB#"
+        },
+        {
+            "name": "Stefan Tasse",
+            "id": "1966488477",
+            "org": "Robotics Research Institute, TU Dortmund University, Dortmund, Germany#TAB#"
+        },
+        {
+            "name": "Oliver Urbann",
+            "id": "249603915",
+            "org": "Robotics Research Institute, TU Dortmund University, Dortmund, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Artificial intelligence",
+        "Computer science",
+        "First class constraint",
+        "Motion estimation",
+        "Kalman filter",
+        "Articulated body pose estimation",
+        "Humanoid robot",
+        "Rigid body",
+        "Nonlinear system",
+        "Linear motion"
+    ],
+    "references": [
+        "1586775594",
+        "2110271573",
+        "2121134834",
+        "2165417330"
+    ]
+}

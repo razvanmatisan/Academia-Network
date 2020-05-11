@@ -1,0 +1,32 @@
+{
+    "id": "121661638",
+    "title": "Visualizing NetFlows for security at line speed: the SIFT tool suite",
+    "venue": "usenix large installation systems administration conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "William Yurcik",
+            "id": "188921663",
+            "org": "National Center for Supercomputing Applications (NCSA)#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Address space",
+        "Computer science",
+        "Human-computer interaction in information security",
+        "Literature",
+        "Security information and event management",
+        "Distributed computing",
+        "Computer security",
+        "Next-generation network",
+        "Internet security",
+        "Computer security model",
+        "The Internet",
+        "Software security assurance"
+    ],
+    "references": [
+        "2045414949",
+        "2134511994",
+        "2148169471"
+    ]
+}

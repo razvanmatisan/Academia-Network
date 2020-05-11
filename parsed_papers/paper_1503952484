@@ -1,0 +1,27 @@
+{
+    "id": "1503952484",
+    "title": "Fuzzy-Algebra Uncertainty Analysis for Abnormal-Environment Safety Assessment",
+    "venue": "Journal of Intelligent and Fuzzy Systems",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "J. Arlin Cooper",
+            "id": "2095835811",
+            "org": "System Studies Department, Sandia National Laboratories, Albuquerque, NM 87185-0490#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Artificial intelligence",
+        "Machine learning",
+        "Management science",
+        "Uncertainty analysis",
+        "Risk management",
+        "Fuzzy logic",
+        "Mathematical model",
+        "Data mining"
+    ],
+    "references": [
+        "1643132573"
+    ]
+}

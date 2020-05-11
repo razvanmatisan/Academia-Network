@@ -1,0 +1,41 @@
+{
+    "id": "1549343721",
+    "title": "GeoSR: Geographically Explore Semantic Relations in World Knowledge",
+    "venue": "geographic information science",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Brent Hecht",
+            "id": "2805089294",
+            "org": "University of California Santa Barbara"
+        },
+        {
+            "name": "Martin Raubal",
+            "id": "2249358914",
+            "org": "University of California Santa Barbara"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Data mining",
+        "Semantic interoperability",
+        "Semantic search",
+        "Computer science",
+        "Semantic grid",
+        "Semantic equivalence",
+        "Semantic computing",
+        "Semantic similarity",
+        "Semantic Web Stack",
+        "Explicit semantic analysis"
+    ],
+    "references": [
+        "158057341",
+        "1993426067",
+        "2081580037",
+        "2108656749",
+        "2116021465",
+        "2120779048",
+        "2136930489",
+        "2604385863"
+    ]
+}

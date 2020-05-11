@@ -1,0 +1,33 @@
+{
+    "id": "1703151235",
+    "title": "Digital cameras and electronic color image acquisition",
+    "venue": "COMPCON '96. Technologies for the Information Superhighway Digest of Papers",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "John C. Dalton",
+            "id": "2095774465",
+            "org": "Apple Comput. Inc., Cupertino, CA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Digital image",
+        "Digital photography",
+        "Digital image processing",
+        "Computational photography",
+        "Image sensor format",
+        "Remote sensing",
+        "Computer vision",
+        "Digital camera back",
+        "Image sensor",
+        "Digital imaging",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1670026852",
+        "1833354933",
+        "2028308192",
+        "2180664657"
+    ]
+}

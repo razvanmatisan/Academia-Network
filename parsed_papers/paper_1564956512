@@ -1,0 +1,38 @@
+{
+    "id": "1564956512",
+    "title": "A Web Based Mashup Platform for Enterprise 2.0",
+    "venue": "web information systems engineering",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Rama Gurram",
+            "id": "2658598460",
+            "org": "SAP Labs LLC, Palo Alto, USA#TAB#"
+        },
+        {
+            "name": "Brian S. Mo",
+            "id": "2501858434",
+            "org": "SAP Labs LLC, Palo Alto, USA#TAB#"
+        },
+        {
+            "name": "Ralf Gueldemeister",
+            "id": "2461184489",
+            "org": "SAP Labs LLC, Palo Alto, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Enterprise application integration",
+        "Enterprise integration",
+        "Data mining",
+        "Enterprise information system",
+        "Database",
+        "Enterprise system",
+        "World Wide Web",
+        "Enterprise life cycle",
+        "Integrated enterprise modeling",
+        "Enterprise software",
+        "Computer science",
+        "Enterprise systems engineering"
+    ],
+    "references": []
+}

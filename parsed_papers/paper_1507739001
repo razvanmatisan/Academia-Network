@@ -1,0 +1,28 @@
+{
+    "id": "1507739001",
+    "title": "The stepwise development of software development graphs: meta-programming VDM developments",
+    "venue": "formal methods",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Dines Bjorner",
+            "id": "54991345",
+            "org": "Technical University of Denmark"
+        }
+    ],
+    "fields_of_study": [
+        "Software construction",
+        "Software development",
+        "Software development process",
+        "Diagram",
+        "Vienna Development Method",
+        "Programming language",
+        "Software",
+        "Coding (social sciences)",
+        "Metaprogramming",
+        "Computer science"
+    ],
+    "references": [
+        "1570421228"
+    ]
+}

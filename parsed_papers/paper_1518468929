@@ -1,0 +1,44 @@
+{
+    "id": "1518468929",
+    "title": "Incremental Discovering Association Rules: A Concept Lattice Approach",
+    "venue": "knowledge discovery and data mining",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Keyun Hu",
+            "id": "2170767791",
+            "org": "Tsinghua university"
+        },
+        {
+            "name": "Yuchang Lu",
+            "id": "2147239323",
+            "org": "Tsinghua university"
+        },
+        {
+            "name": "Chuny i Shi",
+            "id": "2799222465",
+            "org": "Tsinghua university"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge base",
+        "Machine learning",
+        "Artificial intelligence",
+        "Expert system",
+        "Lattice (order)",
+        "Computer science",
+        "Relational database",
+        "Data mining",
+        "Rule of inference",
+        "Formal concept analysis",
+        "Association rule learning",
+        "Hasse diagram"
+    ],
+    "references": [
+        "1789527277",
+        "1851672339",
+        "2071515776",
+        "2153028052",
+        "2166559705"
+    ]
+}

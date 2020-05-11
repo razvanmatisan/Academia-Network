@@ -1,0 +1,35 @@
+{
+    "id": "1568514040",
+    "title": "Using multiple smart cards for signing messages at malicious terminals",
+    "venue": "international conference on information security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Istvan Zsolt Berta",
+            "id": "2777767296",
+            "org": "Microsec Ltd.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time management",
+        "Smart card",
+        "Visual cryptography",
+        "Card reader",
+        "Man-in-the-middle attack",
+        "Computer security",
+        "Attack tree",
+        "Computer science",
+        "User interface"
+    ],
+    "references": [
+        "90637137",
+        "1575543897",
+        "1719934069",
+        "1964615470",
+        "2068556080",
+        "2121753509",
+        "2146034932",
+        "2155272268",
+        "2156776250"
+    ]
+}

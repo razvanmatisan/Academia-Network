@@ -1,0 +1,47 @@
+{
+    "id": "1590394114",
+    "title": "On Types for XML Query Language Xcerpt",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Artur Wilk",
+            "id": "2191932097",
+            "org": "Linkoping University"
+        },
+        {
+            "name": "Wlodzimierz Drabent",
+            "id": "18067265",
+            "org": "Linkoping University"
+        },
+        {
+            "name": "Wlodzimierz Drabent",
+            "id": "18067265",
+            "org": "Linkoping University"
+        }
+    ],
+    "fields_of_study": [
+        "XML Encryption",
+        "Streaming XML",
+        "XML schema",
+        "Database",
+        "XML Schema Editor",
+        "Programming language",
+        "XML Schema (W3C)",
+        "XML validation",
+        "Document Structure Description",
+        "Efficient XML Interchange",
+        "Computer science"
+    ],
+    "references": [
+        "1539919472",
+        "1819150505",
+        "1880943343",
+        "2057841333",
+        "2072137506",
+        "2102643211",
+        "2105748890",
+        "2126250701",
+        "2154790389"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "1587468367",
+    "title": "Software acquisition based on business models",
+    "venue": "electronic government",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Peter Regner",
+            "id": "2679360932",
+            "org": "University of Linz"
+        },
+        {
+            "name": "Thomas Wiesinger",
+            "id": "1213627521",
+            "org": "University of Linz"
+        },
+        {
+            "name": "Josef Kung",
+            "id": "2165295487",
+            "org": "University of Linz"
+        },
+        {
+            "name": "Roland Wagner",
+            "id": "2143955503",
+            "org": "University of Linz"
+        }
+    ],
+    "fields_of_study": [
+        "Business process",
+        "Management science",
+        "Knowledge management",
+        "Software system",
+        "Business Process Model and Notation",
+        "Business process modeling",
+        "Artifact-centric business process model",
+        "Business model",
+        "Computer science",
+        "Software architecture",
+        "Simulation",
+        "Business process management"
+    ],
+    "references": [
+        "1518953633",
+        "1527102466",
+        "1607885095",
+        "2112716767"
+    ]
+}

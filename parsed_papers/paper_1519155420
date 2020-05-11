@@ -1,0 +1,39 @@
+{
+    "id": "1519155420",
+    "title": "Subsumption-oriented Push-Down Automata",
+    "venue": "international symposium on programming language implementation and logic programming",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Francois Barthelemy",
+            "id": "2128511948",
+            "org": "INRIA Rocquencourt BP 105 78153 Le Chesnay France BP 105 78153 Le Chesnay France"
+        },
+        {
+            "name": "Eric Villemonte de la Clergerie",
+            "id": "2112656484",
+            "org": "INRIA Rocquencourt BP 105 78153 Le Chesnay France BP 105 78153 Le Chesnay France"
+        }
+    ],
+    "fields_of_study": [
+        "Parsing",
+        "Horn clause",
+        "Algorithm",
+        "Abstract interpretation",
+        "State (computer science)",
+        "Regular expression",
+        "Constraint logic programming",
+        "Prolog",
+        "Computer science",
+        "Automata theory"
+    ],
+    "references": [
+        "164367294",
+        "1522225310",
+        "1577934069",
+        "1974411748",
+        "2012662948",
+        "2079482412",
+        "2130630493"
+    ]
+}

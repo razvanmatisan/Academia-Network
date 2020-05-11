@@ -1,0 +1,52 @@
+{
+    "id": "1601621159",
+    "title": "Empirical knowledge engineering: cognitive aspects in the development of constraint-based recommenders",
+    "venue": "international conference industrial engineering other applications applied intelligent systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Alexander Felfernig",
+            "id": "2113536344",
+            "org": "Applied Software Engineering, Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Monika Mandl",
+            "id": "2131396768",
+            "org": "Applied Software Engineering, Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Anton Pum",
+            "id": "2275956485",
+            "org": "Applied Software Engineering, Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Monika Schubert",
+            "id": "2156577020",
+            "org": "Applied Software Engineering, Graz University of Technology, Graz, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge engineering",
+        "Domain knowledge",
+        "Artificial intelligence",
+        "Computer science",
+        "Knowledge base",
+        "Machine learning",
+        "Data mining",
+        "Knowledge value chain",
+        "Recommender system",
+        "Procedural knowledge",
+        "Knowledge acquisition",
+        "Knowledge-based systems",
+        "Knowledge management"
+    ],
+    "references": [
+        "9372746",
+        "1588646634",
+        "1985769033",
+        "1999047234",
+        "2032717442",
+        "2050544284",
+        "2171733741"
+    ]
+}

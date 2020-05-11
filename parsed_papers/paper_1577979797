@@ -1,0 +1,32 @@
+{
+    "id": "1577979797",
+    "title": "3-D Shape Reconstruction from Stereovision Data Using Object-Consisted Markov Random Field Model",
+    "venue": "international conference on neural information processing",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Hotaka Takizawa",
+            "id": "2047399703",
+            "org": "University of Tsukuba, Tsukuba, Japan 305-8573#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Markov random field",
+        "Maximum-entropy Markov model",
+        "Object model",
+        "Markov model",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Variable-order Markov model",
+        "Markov chain Monte Carlo",
+        "Mathematics"
+    ],
+    "references": [
+        "1811957461",
+        "1981631629",
+        "2020999234",
+        "2106350541",
+        "2172175194"
+    ]
+}

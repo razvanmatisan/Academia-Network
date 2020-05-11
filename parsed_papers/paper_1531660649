@@ -1,0 +1,33 @@
+{
+    "id": "1531660649",
+    "title": "An Improved Clustering-Based Approach for DNA Microarray Image Segmentation",
+    "venue": "international conference on image analysis and recognition",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Luis Rueda",
+            "id": "2157581344",
+            "org": "University of Windsor"
+        },
+        {
+            "name": "Li Qin",
+            "id": "2478303849",
+            "org": "University of Windsor"
+        }
+    ],
+    "fields_of_study": [
+        "Image segmentation",
+        "Computer vision",
+        "Cluster analysis",
+        "Artificial intelligence",
+        "DNA microarray",
+        "Computer science",
+        "Pattern recognition",
+        "Microarray",
+        "Pixel"
+    ],
+    "references": [
+        "1606773165",
+        "2135705692"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1532887042",
+    "title": "Constraint solving over OCR graphs",
+    "venue": "international conference on applications of declarative programming and knowledge management",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Andreas Fordan",
+            "id": "2708802044",
+            "org": "Insiders Technologies GmbH, Kaiserslautern, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Constraint programming",
+        "Mathematical optimization",
+        "Constraint (mathematics)",
+        "Directed acyclic graph",
+        "Constraint graph",
+        "Graph",
+        "Constraint logic programming",
+        "Constraint satisfaction problem",
+        "Theoretical computer science",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "116065029",
+        "1988095917",
+        "2063727779",
+        "2120543825",
+        "2121457610",
+        "2124081754",
+        "2155707341",
+        "2169906351"
+    ]
+}

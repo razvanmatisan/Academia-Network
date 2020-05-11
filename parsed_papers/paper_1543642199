@@ -1,0 +1,40 @@
+{
+    "id": "1543642199",
+    "title": "A formal model of a large memory that supports efficient execution",
+    "venue": "formal methods in computer-aided design",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Warren A. Hunt",
+            "id": "2095896588",
+            "org": "Dept. of Computer Science, University of Texas, Austin, TX 78701"
+        },
+        {
+            "name": "Matt Kaufmann",
+            "id": "2152494149",
+            "org": "Dept. of Computer Science, University of Texas, Austin, TX 78701"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Real-time computing",
+        "x86",
+        "Automated reasoning",
+        "Address space",
+        "Memory model",
+        "ACL2",
+        "Runtime verification",
+        "Computer architecture",
+        "Instruction set",
+        "Formal verification"
+    ],
+    "references": [
+        "1588366745",
+        "1863850585",
+        "2048199671",
+        "2077391533",
+        "2086835673",
+        "2162553649",
+        "2167940678"
+    ]
+}

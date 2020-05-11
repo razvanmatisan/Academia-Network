@@ -1,0 +1,46 @@
+{
+    "id": "1492400642",
+    "title": "The Network Testbed Mapping Problem",
+    "venue": "testbeds and research infrastructures for the development of networks and communities",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Rick McGeer",
+            "id": "2304718029",
+            "org": "Hewlett-Packard Laboratories"
+        },
+        {
+            "name": "David G. Andersen",
+            "id": "2130397481",
+            "org": "Carnegie-Mellon University"
+        },
+        {
+            "name": "Stephen Schwab",
+            "id": "2212145925",
+            "org": "Cobham Analytic Solutions"
+        }
+    ],
+    "fields_of_study": [
+        "Data center",
+        "Grid network",
+        "Network emulation",
+        "Distributed computing",
+        "Theoretical computer science",
+        "Computer science",
+        "Testbed",
+        "Graph database",
+        "Heuristics",
+        "Graph partition",
+        "Bandwidth (signal processing)"
+    ],
+    "references": [
+        "1588811764",
+        "1596752816",
+        "1987597502",
+        "2011039300",
+        "2048014508",
+        "2073850430",
+        "2095117703",
+        "2152415706"
+    ]
+}

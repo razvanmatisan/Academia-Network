@@ -1,0 +1,32 @@
+{
+    "id": "179699880",
+    "title": "Automated System Monitoring and Notification With Swatch",
+    "venue": "usenix large installation systems administration conference",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Stephen E. Hansen",
+            "id": "2192966495",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "E. Todd Atkins",
+            "id": "2283324695",
+            "org": "Stanford University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Workstation",
+        "System monitoring",
+        "Computer science",
+        "Critical system",
+        "Logging",
+        "Embedded system",
+        "Megabyte",
+        "Unix",
+        "Real-time computing",
+        "Server",
+        "System administrator"
+    ],
+    "references": []
+}

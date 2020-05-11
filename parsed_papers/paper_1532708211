@@ -1,0 +1,60 @@
+{
+    "id": "1532708211",
+    "title": "Multi-modal Behavioural Biometric Authentication for Mobile Devices",
+    "venue": "information security conference",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Hataichanok Saevanee",
+            "id": "414600540",
+            "org": "University of Plymouth"
+        },
+        {
+            "name": "Nathan L. Clarke",
+            "id": "2115948013",
+            "org": "University of Plymouth"
+        },
+        {
+            "name": "Nathan L. Clarke",
+            "id": "2115948013",
+            "org": "University of Plymouth"
+        },
+        {
+            "name": "Steven Furnell",
+            "id": "2766118922",
+            "org": "University of Plymouth"
+        },
+        {
+            "name": "Steven Furnell",
+            "id": "2766118922",
+            "org": "University of Plymouth"
+        }
+    ],
+    "fields_of_study": [
+        "Biometrics",
+        "Profiling (computer programming)",
+        "Word error rate",
+        "Linguistic profiling",
+        "Theoretical computer science",
+        "Mobile device",
+        "Computer security",
+        "Keystroke dynamics",
+        "Computer science",
+        "Authentication"
+    ],
+    "references": [
+        "1496553157",
+        "1544205594",
+        "1805888261",
+        "1913892989",
+        "1969109761",
+        "2026884613",
+        "2089159047",
+        "2112687785",
+        "2120218993",
+        "2132781244",
+        "2143625384",
+        "2151579438",
+        "2154123601"
+    ]
+}

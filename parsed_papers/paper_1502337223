@@ -1,0 +1,43 @@
+{
+    "id": "1502337223",
+    "title": "Translation from Adapted UML to Promela for CORBA-Based Applications",
+    "venue": "international workshop on model checking software",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jessica Chen",
+            "id": "2202912481",
+            "org": "University of Windsor"
+        },
+        {
+            "name": "Hanmei Cui",
+            "id": "2171985910",
+            "org": "University of Windsor"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed object",
+        "Common Object Request Broker Architecture",
+        "Distributed algorithm",
+        "Promela",
+        "Spin- 1/2 ",
+        "Software development",
+        "Distributed computing",
+        "Real-time computing",
+        "Applications of UML",
+        "Computer science",
+        "Middleware"
+    ],
+    "references": [
+        "1517296227",
+        "1570069626",
+        "1977237988",
+        "2020034474",
+        "2040060046",
+        "2067623660",
+        "2100500368",
+        "2103543337",
+        "2115309705",
+        "2116055469"
+    ]
+}

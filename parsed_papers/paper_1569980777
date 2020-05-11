@@ -1,0 +1,32 @@
+{
+    "id": "1569980777",
+    "title": "Emergence of specialized behavior in a pursuit-evasion game",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Geoff Nitschke",
+            "id": "2111705354",
+            "org": "Artificial Intelligence Laboratory, Department of Information Technology, University of Zurich, Zurich, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Application domain",
+        "Mobile robot",
+        "Evolutionary algorithm",
+        "Pursuer",
+        "Distributed computing",
+        "Robot",
+        "Machine learning",
+        "Pursuit-evasion",
+        "Recurrent neural network",
+        "Computer science",
+        "Robotics",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1592228927",
+        "1971511942",
+        "2078506364"
+    ]
+}

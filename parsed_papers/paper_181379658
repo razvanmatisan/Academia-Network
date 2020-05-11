@@ -1,0 +1,41 @@
+{
+    "id": "181379658",
+    "title": "Deduction-Based Modelling and Verification of Agent-Based Systems for Data Integration",
+    "venue": "ICMMI",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Radoslaw Klimek",
+            "id": "2118659380",
+            "org": "AGH University of Science and Technology"
+        },
+        {
+            "name": "Lukasz Faber",
+            "id": "2107478945",
+            "org": "AGH University of Science and Technology"
+        },
+        {
+            "name": "Marek Kisiel-Dorohinicki",
+            "id": "187736311",
+            "org": "AGH University of Science and Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Data integration",
+        "Deductive reasoning",
+        "Theoretical computer science",
+        "Formal verification",
+        "Data mining",
+        "Multi-agent system",
+        "Activity diagram",
+        "Temporal logic",
+        "Computer science"
+    ],
+    "references": [
+        "174654100",
+        "2034717157",
+        "2154581529",
+        "2169938356",
+        "2397294511"
+    ]
+}

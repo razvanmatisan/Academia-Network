@@ -1,0 +1,41 @@
+{
+    "id": "1559068841",
+    "title": "Nonmonotonicity and Answer Set Inference",
+    "venue": "international conference on logic programming",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "David Pearce",
+            "id": "2303473132",
+            "org": "Deutsches Forschungszentrum fur Kunstliche Intelligenz (DFKI)"
+        }
+    ],
+    "fields_of_study": [
+        "True quantified Boolean formula",
+        "Theoretical computer science",
+        "Conjunctive normal form",
+        "Inference",
+        "Stable model semantics",
+        "Computer science",
+        "Logical consequence",
+        "Machine learning",
+        "Answer set programming",
+        "Data mining",
+        "Logic programming",
+        "Non-monotonic logic",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "37234920",
+        "1505405898",
+        "1519055258",
+        "1544303999",
+        "1559427454",
+        "1566892080",
+        "1672891595",
+        "1986999264",
+        "2076698873",
+        "2080142817",
+        "2155322595"
+    ]
+}

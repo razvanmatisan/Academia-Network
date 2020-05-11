@@ -1,0 +1,37 @@
+{
+    "id": "1601881764",
+    "title": "On Searching of Special Cases of Mazes and Finite Embedded Graphs",
+    "venue": "mathematical foundations of computer science",
+    "year": 1984,
+    "authors": [
+        {
+            "name": "Armin Hemmerling",
+            "id": "2704048646",
+            "org": "Sektion Mathematik der Ernst-Moritz-Arndt-Universitat"
+        },
+        {
+            "name": "Klaus Kriegel",
+            "id": "2682736703",
+            "org": "Institut fur Mathematik der Akademie der Wissenschaften der DDR"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Combinatorics",
+        "Connectivity",
+        "Lattice graph",
+        "Finite-state machine",
+        "Graph",
+        "Indifference graph",
+        "Cyclic permutation",
+        "Universal graph",
+        "1-planar graph",
+        "Computer science"
+    ],
+    "references": [
+        "74938651",
+        "139243583",
+        "198411198",
+        "1598083251"
+    ]
+}

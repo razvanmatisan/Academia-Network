@@ -1,0 +1,27 @@
+{
+    "id": "1666795920",
+    "title": "Competing with Markov prediction strategies",
+    "venue": "arXiv: Learning",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Vladimir Vovk",
+            "id": "2020848595",
+            "org": "Royal Holloway, University of London"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Mathematical optimization",
+        "Mathematics",
+        "Machine learning",
+        "Randomization",
+        "Markov chain",
+        "Convexity"
+    ],
+    "references": [
+        "1570963478",
+        "1764708720",
+        "2168681765"
+    ]
+}

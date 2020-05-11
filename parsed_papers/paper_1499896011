@@ -1,0 +1,39 @@
+{
+    "id": "1499896011",
+    "title": "Learning policies for abstract state spaces",
+    "venue": "systems, man and cybernetics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Stephan Timmer",
+            "id": "1957737688",
+            "org": "Neuroinformatics, Osnabrueck Univ., Germany"
+        },
+        {
+            "name": "Martin A. Riedmiller",
+            "id": "2003780605",
+            "org": "Neuroinformatics, Osnabrueck Univ., Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Active learning (machine learning)",
+        "Q-learning",
+        "Machine learning",
+        "Mathematical optimization",
+        "State space search",
+        "Reinforcement learning",
+        "Hyper-heuristic",
+        "Artificial intelligence",
+        "Algorithmic learning theory",
+        "Stability (learning theory)",
+        "State space",
+        "Computer science"
+    ],
+    "references": [
+        "136800639",
+        "1552830313",
+        "1688218840",
+        "1754881896",
+        "1966195676"
+    ]
+}

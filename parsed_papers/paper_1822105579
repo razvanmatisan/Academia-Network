@@ -1,0 +1,47 @@
+{
+    "id": "1822105579",
+    "title": "Noncoding RNA gene detection using comparative sequence analysis",
+    "venue": "BMC Bioinformatics",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Elena Rivas",
+            "id": "2495015585",
+            "org": "Howard Hughes Medical Institute and Department of Genetics, Washington University School of Medicine, Saint Louis, USA"
+        },
+        {
+            "name": "Sean R. Eddy",
+            "id": "1417685655",
+            "org": "Howard Hughes Medical Institute and Department of Genetics, Washington University School of Medicine, Saint Louis, USA"
+        }
+    ],
+    "fields_of_study": [
+        "RNA silencing",
+        "Sequence analysis",
+        "Genetics",
+        "RNA",
+        "Genome",
+        "Bioinformatics",
+        "Gene",
+        "Intron",
+        "Noncoding DNA",
+        "Non-coding RNA",
+        "Molecular biology",
+        "Biology"
+    ],
+    "references": [
+        "139939135",
+        "1978242636",
+        "2009570821",
+        "2025763720",
+        "2060563775",
+        "2088938573",
+        "2100167293",
+        "2102225325",
+        "2116688916",
+        "2140919743",
+        "2155258523",
+        "2166480651",
+        "2167673850"
+    ]
+}

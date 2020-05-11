@@ -1,0 +1,48 @@
+{
+    "id": "1509565735",
+    "title": "Finding Negative Event-Oriented Patterns in Long Temporal Sequences",
+    "venue": "pacific-asia conference on knowledge discovery and data mining",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Xingzhi Sun",
+            "id": "2133635374",
+            "org": "The University of Queensland"
+        },
+        {
+            "name": "Maria E. Orlowska",
+            "id": "2123081123",
+            "org": "The University of Queensland"
+        },
+        {
+            "name": "Xue Li",
+            "id": "2239470812",
+            "org": "The University of Queensland"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Knowledge extraction",
+        "Artificial intelligence",
+        "Data mining",
+        "Machine learning",
+        "Counting process",
+        "Correlation and dependence",
+        "Association rule learning",
+        "A priori and a posteriori",
+        "Event type",
+        "Negative relationship"
+    ],
+    "references": [
+        "20722260",
+        "58080530",
+        "1539286053",
+        "1892399053",
+        "2038812321",
+        "2050400354",
+        "2054194360",
+        "2126310301",
+        "2145209646",
+        "2156026066"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1517511928",
+    "title": "Stratified Default Theories",
+    "venue": "computer science logic",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Pawel Cholewinski",
+            "id": "2636382551",
+            "org": "University of Kentucky"
+        }
+    ],
+    "fields_of_study": [
+        "Commonsense reasoning",
+        "Default rule",
+        "Discrete mathematics",
+        "Computation",
+        "Formal system",
+        "Knowledge representation and reasoning",
+        "Default logic",
+        "Computer science",
+        "Partition (number theory)"
+    ],
+    "references": [
+        "1924904173",
+        "1997714358",
+        "2078508369",
+        "2111353076",
+        "2129670289",
+        "2155322595",
+        "2172835203",
+        "2611415697"
+    ]
+}

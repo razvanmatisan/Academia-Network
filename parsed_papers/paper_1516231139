@@ -1,0 +1,42 @@
+{
+    "id": "1516231139",
+    "title": "Bulk Data Types, A Theoretical Approach",
+    "venue": "database programming languages",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Catriel Beeri",
+            "id": "345432764",
+            "org": "The Hebrew University of Jerusalem"
+        },
+        {
+            "name": "Paula Ta-Shma",
+            "id": "2066945461",
+            "org": "The Hebrew University of Jerusalem"
+        }
+    ],
+    "fields_of_study": [
+        "Data type",
+        "Recursion",
+        "Parameterized complexity",
+        "Binary function",
+        "Binary tree",
+        "Query language",
+        "Algebraic number",
+        "Theoretical computer science",
+        "Computer science"
+    ],
+    "references": [
+        "1481805023",
+        "1493222705",
+        "1520355364",
+        "1567512529",
+        "1810648047",
+        "2007907624",
+        "2021257181",
+        "2114980032",
+        "2148517439",
+        "2162602286",
+        "2295914203"
+    ]
+}

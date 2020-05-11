@@ -1,0 +1,36 @@
+{
+    "id": "1502459819",
+    "title": "Probabilistic logic under uncertainty",
+    "venue": "symposium on the theory of computing",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Audun Josang",
+            "id": "329072426",
+            "org": "School of Software Engineering and Data Communications, Brisbane, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Probabilistic CTL",
+        "Discrete mathematics",
+        "Subjective logic",
+        "Probabilistic argumentation",
+        "Probabilistic logic",
+        "Zeroth-order logic",
+        "Multimodal logic",
+        "Probabilistic logic network",
+        "Machine learning",
+        "Autoepistemic logic",
+        "Artificial intelligence",
+        "Mathematics"
+    ],
+    "references": [
+        "145222788",
+        "2066843515",
+        "2104661673",
+        "2110689325",
+        "2114094444",
+        "2139580021",
+        "2149811989"
+    ]
+}

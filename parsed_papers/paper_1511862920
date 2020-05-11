@@ -1,0 +1,43 @@
+{
+    "id": "1511862920",
+    "title": "A Genetic Algorithm for Propositionalization",
+    "venue": "inductive logic programming",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Agnes Braud",
+            "id": "2117121850",
+            "org": "LIFO, Universite d'Orleans"
+        },
+        {
+            "name": "Christel Vrain",
+            "id": "642242693",
+            "org": "LIFO, Universite d'Orleans"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic algorithm",
+        "Theoretical computer science",
+        "Formalism (philosophy)",
+        "Machine learning",
+        "Encoding (memory)",
+        "Artificial intelligence",
+        "Equivalence class",
+        "Operator (computer programming)",
+        "Partition (number theory)",
+        "Inductive logic programming",
+        "Mathematics"
+    ],
+    "references": [
+        "64111997",
+        "127942951",
+        "1516145264",
+        "1584941468",
+        "1605645024",
+        "1728991674",
+        "1970608725",
+        "2067642555",
+        "2120272181",
+        "2158292827"
+    ]
+}

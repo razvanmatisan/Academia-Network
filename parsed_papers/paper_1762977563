@@ -1,0 +1,35 @@
+{
+    "id": "1762977563",
+    "title": "A formal model for constructing semantic expansions of the search requests about the achievements and failures",
+    "venue": "artificial intelligence methodology systems applications",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Vladimir A. Fomichov",
+            "id": "1262460910",
+            "org": "Department of Innovations and Business in the Sphere of Informational Technologies, Faculty of Business Informatics, National Research University Higher School of Economics, Moscow, Russia#TAB#"
+        },
+        {
+            "name": "Anton V. Kirillov",
+            "id": "2110725900",
+            "org": "Department of Innovations and Business in the Sphere of Informational Technologies, Faculty of Business Informatics, National Research University Higher School of Economics, Moscow, Russia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language",
+        "Machine learning",
+        "Knowledge base",
+        "Computer science",
+        "Artificial intelligence",
+        "Semantic search",
+        "Java",
+        "Data mining",
+        "Theoretical computer science",
+        "Aspect-oriented programming"
+    ],
+    "references": [
+        "1509218010",
+        "1509946529",
+        "1986641982"
+    ]
+}

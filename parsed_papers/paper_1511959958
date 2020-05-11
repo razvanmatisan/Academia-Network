@@ -1,0 +1,49 @@
+{
+    "id": "1511959958",
+    "title": "When does it pay off to use sophisticated entailment engines in ILP",
+    "venue": "inductive logic programming",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jose Santos",
+            "id": "2399236853",
+            "org": "Department of Computing, Imperial College London#TAB#"
+        },
+        {
+            "name": "Stephen Muggleton",
+            "id": "735181462",
+            "org": "Department of Computing, Imperial College London#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Theoretical computer science",
+        "Machine learning",
+        "Predicate (grammar)",
+        "Computational logic",
+        "Logical consequence",
+        "SLD resolution",
+        "Computer science",
+        "Inductive logic programming",
+        "Heuristics",
+        "Prolog",
+        "Bottleneck"
+    ],
+    "references": [
+        "64113763",
+        "1514437925",
+        "1516145264",
+        "1558302907",
+        "1573121164",
+        "1579914521",
+        "1589346249",
+        "1621457932",
+        "1992761512",
+        "2021473914",
+        "2087757633",
+        "2091327243",
+        "2100738443",
+        "2129479338",
+        "2163335756"
+    ]
+}

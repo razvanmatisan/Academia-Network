@@ -1,0 +1,44 @@
+{
+    "id": "1601239162",
+    "title": "Real-time adaptive hand motion recognition using a sparse bayesian classifier",
+    "venue": "international conference on computer vision",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Shu-Fai Wong",
+            "id": "2472897683",
+            "org": "Department of Engineering, The University of Cambridge#TAB#"
+        },
+        {
+            "name": "Roberto Cipolla",
+            "id": "2117656881",
+            "org": "Department of Engineering, The University of Cambridge#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Computer vision",
+        "Motion analysis",
+        "Probabilistic logic",
+        "Motion estimation",
+        "Pattern recognition",
+        "Feature vector",
+        "Margin classifier",
+        "Adaptability",
+        "Naive Bayes classifier",
+        "Gesture",
+        "Computer science"
+    ],
+    "references": [
+        "1479896847",
+        "1565938589",
+        "1648445109",
+        "2106503382",
+        "2110186807",
+        "2146221819",
+        "2147289866",
+        "2165715280",
+        "2171155203",
+        "2483082668"
+    ]
+}

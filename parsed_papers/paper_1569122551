@@ -1,0 +1,39 @@
+{
+    "id": "1569122551",
+    "title": "The Vertex-Exchange Graph: A New Concept for Multi-level Crossing Minimisation",
+    "venue": "graph drawing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Patrick Healy",
+            "id": "2136167289",
+            "org": "University of Limerick"
+        },
+        {
+            "name": "Ago Kuusik",
+            "id": "2167247744",
+            "org": "University of Limerick"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Graph property",
+        "Combinatorics",
+        "Directed graph",
+        "Graph (abstract data type)",
+        "Line graph",
+        "Null graph",
+        "Graph Layout",
+        "Voltage graph",
+        "Computer science",
+        "Algorithm",
+        "Butterfly graph"
+    ],
+    "references": [
+        "1485323191",
+        "1602198681",
+        "1972151695",
+        "2071353749",
+        "2102664288"
+    ]
+}

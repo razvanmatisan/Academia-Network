@@ -1,0 +1,42 @@
+{
+    "id": "1534965284",
+    "title": "Rethinking Process Guidance for Selecting Software Components",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Neil A. M. Maiden",
+            "id": "268704431",
+            "org": "City University"
+        },
+        {
+            "name": "Hyoseob Kim",
+            "id": "2798489515",
+            "org": "City University"
+        },
+        {
+            "name": "Cornelius Ncube",
+            "id": "2096558700",
+            "org": "Zayed University (Dubai)"
+        }
+    ],
+    "fields_of_study": [
+        "Personal software process",
+        "Systems engineering",
+        "Team software process",
+        "Software Engineering Process Group",
+        "Goal-Driven Software Development Process",
+        "Software development",
+        "Component-based software engineering",
+        "Distributed computing",
+        "Dependability",
+        "Software",
+        "Computer security",
+        "Computer science"
+    ],
+    "references": [
+        "1937430847",
+        "2042107736",
+        "2118926712"
+    ]
+}

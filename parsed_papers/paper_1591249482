@@ -1,0 +1,32 @@
+{
+    "id": "1591249482",
+    "title": "Fast spectral learning using Lanczos eigenspace projections",
+    "venue": "national conference on artificial intelligence",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Sridhar Mahadevan",
+            "id": "2133778237",
+            "org": "Department of Computer Science, University of Massachusetts, Amherst, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Tridiagonal matrix",
+        "Laplacian matrix",
+        "Eigenvalues and eigenvectors",
+        "Wavelet",
+        "Krylov subspace",
+        "Computer science",
+        "Computational complexity theory",
+        "Lanczos resampling",
+        "Operator (computer programming)"
+    ],
+    "references": [
+        "115446000",
+        "2003824334",
+        "2129570755",
+        "2153508491",
+        "2161795906"
+    ]
+}

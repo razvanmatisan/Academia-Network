@@ -1,0 +1,39 @@
+{
+    "id": "1561142341",
+    "title": "Dienst: Building a Production technical Report Server",
+    "venue": "ADL '95 Selected Papers from the Digital Libraries, Research and Technology Advances",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "James R. Davis",
+            "id": "2815459455",
+            "org": "Cornell University"
+        },
+        {
+            "name": "Carl Lagoze",
+            "id": "2346331380",
+            "org": "Cornell University"
+        },
+        {
+            "name": "Dean B. Krafft",
+            "id": "2110930734",
+            "org": "Cornell University"
+        }
+    ],
+    "fields_of_study": [
+        "Full text search",
+        "Information retrieval",
+        "Interoperability",
+        "World Wide Web",
+        "Digital library",
+        "Document structuring",
+        "Thumbnail",
+        "Document management system",
+        "Search engine",
+        "Computer science",
+        "Technical report"
+    ],
+    "references": [
+        "2068613363"
+    ]
+}

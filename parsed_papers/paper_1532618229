@@ -1,0 +1,49 @@
+{
+    "id": "1532618229",
+    "title": "Fast grid-based clustering method for automatic calculation of optimal parameters of skin color classifier for head tracking",
+    "venue": "2015 IEEE 2nd International Conference on Cybernetics (CYBCONF)",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Michal Szkudlarek",
+            "id": "2168353828",
+            "org": "Institute of Information Technology, Lodz University of Technology, Poland"
+        },
+        {
+            "name": "Maria Pietruszka",
+            "id": "2050457902",
+            "org": "Institute of Information Technology, Lodz University of Technology, Poland"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Consensus clustering",
+        "Correlation clustering",
+        "FLAME clustering",
+        "CURE data clustering algorithm",
+        "Data stream clustering",
+        "Computer vision",
+        "RGB color model",
+        "Canopy clustering algorithm",
+        "Artificial intelligence",
+        "Computer science",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1503601018",
+        "1529320607",
+        "1552172716",
+        "1566114229",
+        "1673310716",
+        "1977629858",
+        "2041054527",
+        "2108456947",
+        "2111750370",
+        "2117401405",
+        "2123215156",
+        "2148199651",
+        "2164598857",
+        "2166980029",
+        "2584057878"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1540878613",
+    "title": "Characterization of Methods for Process-Oriented Engineering of SOA",
+    "venue": "business process management",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Jan Ricken",
+            "id": "2037157130",
+            "org": "University of Namur"
+        },
+        {
+            "name": "Michael Petit",
+            "id": "1999268070",
+            "org": "University of Namur"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Process management",
+        "Systems engineering",
+        "Process modeling",
+        "OASIS SOA Reference Model",
+        "Business Process Model and Notation",
+        "Business process modeling",
+        "Service-oriented architecture",
+        "Function model",
+        "Business process management",
+        "Artifact-centric business process model"
+    ],
+    "references": [
+        "56202547",
+        "1584180245",
+        "1607430352",
+        "2107135087",
+        "2122824813",
+        "2133254703",
+        "2136589171"
+    ]
+}

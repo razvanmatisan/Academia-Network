@@ -1,0 +1,33 @@
+{
+    "id": "1597349423",
+    "title": "Parsing CFGs and PCFGs with a Chomsky-Schutzenberger representation",
+    "venue": "language and technology conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Mans Hulden",
+            "id": "2177549942",
+            "org": "University of Helsinki, Language Technology, University of Helsinki, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parser combinator",
+        "Parsing",
+        "Top-down parsing",
+        "S-attributed grammar",
+        "Natural language processing",
+        "L-attributed grammar",
+        "Parsing expression grammar",
+        "Computer science",
+        "Context-free grammar",
+        "Artificial intelligence",
+        "Top-down parsing language"
+    ],
+    "references": [
+        "1563342424",
+        "1567570606",
+        "1970961429",
+        "2014611589",
+        "2134495021"
+    ]
+}

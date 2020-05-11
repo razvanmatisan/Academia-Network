@@ -1,0 +1,46 @@
+{
+    "id": "1508177461",
+    "title": "Accurate and Efficient Computation of Gabor Features in Real-Time Applications",
+    "venue": "international symposium on visual computing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Gholamreza Amayeh",
+            "id": "2235956210",
+            "org": "Computer Vision Laboratory, University of Nevada, Reno#TAB#"
+        },
+        {
+            "name": "Alireza Tavakkoli",
+            "id": "1982693857",
+            "org": "Computer Science Department, University of Houston, Victoria#TAB#"
+        },
+        {
+            "name": "George Bebis",
+            "id": "2069524442",
+            "org": "Computer Vision Laboratory, University of Nevada, Reno#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Computer vision",
+        "Computer science",
+        "Fast Fourier transform",
+        "Image segmentation",
+        "Gaussian filter",
+        "Gabor wavelet",
+        "Gabor filter",
+        "Interpolation",
+        "Computational complexity theory",
+        "Spline (mathematics)"
+    ],
+    "references": [
+        "1556341070",
+        "1624854622",
+        "2065924773",
+        "2096026309",
+        "2102182691",
+        "2137238957",
+        "2293541924"
+    ]
+}

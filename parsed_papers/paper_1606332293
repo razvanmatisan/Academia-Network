@@ -1,0 +1,42 @@
+{
+    "id": "1606332293",
+    "title": "Distance and Feature-Based Clustering of Time Series: An Application on Neurophysiology",
+    "venue": "hellenic conference on artificial intelligence",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "George Potamias",
+            "id": "2056865132",
+            "org": "Foundation for Research and Technology - Hellas (FORTH)"
+        },
+        {
+            "name": "George Potamias",
+            "id": "2056865132",
+            "org": "Foundation for Research and Technology - Hellas (FORTH)"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Cluster analysis",
+        "Time series",
+        "Data mining",
+        "Artificial intelligence",
+        "Hierarchical clustering",
+        "Computer science",
+        "Graph theory",
+        "Discretization",
+        "Dynamic time warping"
+    ],
+    "references": [
+        "116902681",
+        "130208152",
+        "1486465383",
+        "1530597628",
+        "1587157435",
+        "1972969203",
+        "2057781267",
+        "2073308541",
+        "2128061541",
+        "2154765457"
+    ]
+}

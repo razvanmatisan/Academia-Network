@@ -1,0 +1,36 @@
+{
+    "id": "1538184684",
+    "title": "Architectures by Design: The Iterative Development of an Integrated Intelligent Agent",
+    "venue": "SGAI Conf.",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Nick Hawes",
+            "id": "2116228365",
+            "org": "University of Birmingham"
+        }
+    ],
+    "fields_of_study": [
+        "Information processing",
+        "Agent architecture",
+        "Theoretical computer science",
+        "Tournament",
+        "Iterative and incremental development",
+        "Simulation",
+        "Architecture",
+        "Design methods",
+        "Intelligent agent",
+        "Engineering"
+    ],
+    "references": [
+        "1608128663",
+        "1699699942",
+        "1865642551",
+        "1989481283",
+        "2011204669",
+        "2034426409",
+        "2069503920",
+        "2151200612",
+        "2167320574"
+    ]
+}

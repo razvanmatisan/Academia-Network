@@ -1,0 +1,29 @@
+{
+    "id": "1515112361",
+    "title": "FSPNs: Fluid Stochastic Petri Nets",
+    "venue": "applications and theory of petri nets",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Kishor S. Trivedi",
+            "id": "2108293768",
+            "org": "Duke University"
+        },
+        {
+            "name": "Vidyadhar G. Kulkarni",
+            "id": "2125985866",
+            "org": "University of North Carolina"
+        }
+    ],
+    "fields_of_study": [
+        "Steady state",
+        "Stochastic Petri net",
+        "Discrete mathematics",
+        "Computer science",
+        "Discrete event dynamic system"
+    ],
+    "references": [
+        "1536557058",
+        "2075675135"
+    ]
+}

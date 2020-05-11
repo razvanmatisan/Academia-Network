@@ -1,0 +1,52 @@
+{
+    "id": "1536571263",
+    "title": "Comparison of Two Classification Methodologies on a Real-World Biomedical Problem",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Ray L. Somorjai",
+            "id": "2570409487",
+            "org": "NRCC"
+        },
+        {
+            "name": "Arunas Janeliunas",
+            "id": "2289077435",
+            "org": "Vilnius University"
+        },
+        {
+            "name": "Richard Baumgartner",
+            "id": "2489640891",
+            "org": "NRCC"
+        },
+        {
+            "name": "Sarunas Raudys",
+            "id": "1983073900",
+            "org": "Vilnius University"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic algorithm",
+        "Sensor fusion",
+        "Artificial neural network",
+        "Classifier (linguistics)",
+        "Feature extraction",
+        "Linear discriminant analysis",
+        "Linear classifier",
+        "Distributed computing",
+        "Artificial intelligence",
+        "Computer science",
+        "Pattern recognition",
+        "Quadratic classifier"
+    ],
+    "references": [
+        "372779940",
+        "1503201211",
+        "1551367334",
+        "2073675454",
+        "2074048993",
+        "2114625253",
+        "2132549764",
+        "2397807156"
+    ]
+}

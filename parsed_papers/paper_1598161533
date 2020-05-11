@@ -1,0 +1,37 @@
+{
+    "id": "1598161533",
+    "title": "A study of dynamic severity in chaotic fitness landscapes",
+    "venue": "congress on evolutionary computation",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Hendrik Richter",
+            "id": "2130397380",
+            "org": "Fachbereich Elektrotechnik und Informationstechnik, HTWK Leipzig, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Predictability",
+        "Evolutionary algorithm",
+        "Machine learning",
+        "Fitness landscape",
+        "Evolutionary computation",
+        "Artificial intelligence",
+        "Computer science",
+        "Mathematical optimization",
+        "Human-based evolutionary computation",
+        "Interactive evolutionary computation",
+        "Evolutionary programming",
+        "Fitness approximation"
+    ],
+    "references": [
+        "1520411984",
+        "1559956479",
+        "1563281835",
+        "1604938078",
+        "1926154210",
+        "1973071104",
+        "2050109703",
+        "2160958384"
+    ]
+}

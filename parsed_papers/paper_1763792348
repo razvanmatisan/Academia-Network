@@ -1,0 +1,38 @@
+{
+    "id": "1763792348",
+    "title": "Some undecidability results related to the star problem in trace monoids",
+    "venue": "symposium on theoretical aspects of computer science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Daniel Kirsten",
+            "id": "1996165291",
+            "org": "Dresden University of Technology, Department of Computer Science, Institute of Software Engineering I, Dresden, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Decision problem",
+        "Regular language",
+        "Decidability",
+        "Discrete mathematics",
+        "Undecidable problem",
+        "Free monoid",
+        "Trace monoid",
+        "Monoid",
+        "Mathematics",
+        "Trace theory"
+    ],
+    "references": [
+        "1494078315",
+        "1505482284",
+        "1511714024",
+        "1540999307",
+        "1605354378",
+        "1605883930",
+        "1971953005",
+        "1990800590",
+        "2092700841",
+        "2408334883"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1513710781",
+    "title": "Efficient Cross-Validation in ILP",
+    "venue": "inductive logic programming",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Jan Struyf",
+            "id": "228102912",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Hendrik Blockeel",
+            "id": "2049189351",
+            "org": "Katholieke Universiteit Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "Rule induction",
+        "Artificial intelligence",
+        "Theoretical computer science",
+        "Computation",
+        "Overhead (computing)",
+        "Redundancy (engineering)",
+        "Machine learning",
+        "Parallel algorithm",
+        "Decision tree",
+        "Conjunctive query",
+        "Cross-validation",
+        "Computer science"
+    ],
+    "references": [
+        "111479173",
+        "150885707",
+        "1493000276",
+        "1499599031",
+        "1545265859",
+        "1996824494",
+        "1999138184",
+        "2033072307",
+        "2119831128",
+        "2141288588"
+    ]
+}

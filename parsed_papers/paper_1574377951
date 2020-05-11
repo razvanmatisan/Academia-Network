@@ -1,0 +1,40 @@
+{
+    "id": "1574377951",
+    "title": "UML and XML schema",
+    "venue": "australasian database conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Nicholas Routledge",
+            "id": "2123807262",
+            "org": "University of Queensland, QLD, 4072, AUSTRALIA#TAB#"
+        },
+        {
+            "name": "Linda Bird",
+            "id": "2097528888",
+            "org": "University of Queensland, QLD, 4072, AUSTRALIA#TAB#"
+        },
+        {
+            "name": "Andrew Goodchild",
+            "id": "2238460365",
+            "org": "University of Queensland, QLD, 4072, AUSTRALIA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Streaming XML",
+        "RELAX NG",
+        "Data mining",
+        "Database",
+        "XML schema",
+        "XML validation",
+        "Document Structure Description",
+        "Applications of UML",
+        "XML Schema Editor",
+        "Computer science",
+        "Efficient XML Interchange"
+    ],
+    "references": [
+        "2159765281",
+        "2583996767"
+    ]
+}

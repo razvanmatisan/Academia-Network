@@ -1,0 +1,40 @@
+{
+    "id": "1490736452",
+    "title": "Semantic Webs for Learning: A Vision and Its Realization",
+    "venue": "knowledge acquisition, modeling and management",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Arthur Stutt",
+            "id": "2096581925",
+            "org": "Open University"
+        },
+        {
+            "name": "Enrico Motta",
+            "id": "2106913481",
+            "org": "Open University"
+        }
+    ],
+    "fields_of_study": [
+        "Semantic search",
+        "Knowledge management",
+        "Computer science",
+        "Semantic computing",
+        "Social Semantic Web",
+        "Semantic grid",
+        "Web modeling",
+        "Semantic analytics",
+        "Semantic Web",
+        "Multimedia",
+        "Semantic Web Stack"
+    ],
+    "references": [
+        "1580236550",
+        "1601422204",
+        "1839043212",
+        "1979734411",
+        "2118267821",
+        "2130307546",
+        "2136755402"
+    ]
+}

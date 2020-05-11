@@ -1,0 +1,29 @@
+{
+    "id": "1554360970",
+    "title": "Telegram: a grammar formalism for language planning",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1983,
+    "authors": [
+        {
+            "name": "Douglas E. Appelt",
+            "id": "2308608303",
+            "org": "Artificial Intelligence Center, SRI International, Menlo Park, California#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Formalism (philosophy)",
+        "Regular grammar",
+        "Adaptive grammar",
+        "Natural language processing",
+        "Language planning",
+        "Programming language",
+        "Artificial intelligence",
+        "Grammar",
+        "Mildly context-sensitive grammar formalism",
+        "Computer science"
+    ],
+    "references": [
+        "2124419630",
+        "2142494201"
+    ]
+}

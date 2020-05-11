@@ -1,0 +1,34 @@
+{
+    "id": "103202558",
+    "title": "Statistical Behaviors of Distributed Transition Planning",
+    "venue": "autonomous infrastructure management and security",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Ning Wu",
+            "id": "2140395175",
+            "org": "Tufts University, Medford, USA 02155#TAB#"
+        },
+        {
+            "name": "Alva L. Couch",
+            "id": "1251186077",
+            "org": "Tufts University, Medford, USA 02155#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Bipartite graph",
+        "Mathematical optimization",
+        "Distributed algorithm",
+        "Pareto distribution",
+        "Virtual machine",
+        "Stable marriage problem",
+        "Computer science",
+        "Normal distribution",
+        "Distributed Computing Environment"
+    ],
+    "references": [
+        "1536262086",
+        "2068115726"
+    ]
+}

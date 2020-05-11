@@ -1,0 +1,36 @@
+{
+    "id": "1522251795",
+    "title": "Sequences from Cycles",
+    "venue": "Applicable Algebra in Engineering, Communication and Computing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Kathy J. Horadam",
+            "id": "2399352815",
+            "org": "RMIT University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Multiplication",
+        "Combinatorics",
+        "Hadamard matrix",
+        "Autocorrelation",
+        "Periodic graph (geometry)",
+        "Mathematics",
+        "Pseudorandom binary sequence",
+        "Nonlinear system",
+        "Complementary sequences",
+        "Indexation"
+    ],
+    "references": [
+        "1490500320",
+        "1502208604",
+        "1525704730",
+        "1546467724",
+        "2018495157",
+        "2038681062",
+        "2045043420",
+        "2108162278"
+    ]
+}

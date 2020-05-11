@@ -1,0 +1,52 @@
+{
+    "id": "1633659671",
+    "title": "WaveCluster: A Multi-Resolution Clustering Approach for Very Large Spatial Databases",
+    "venue": "very large data bases",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Gholamhosein Sheikholeslami",
+            "id": "2065786411",
+            "org": "University at Buffalo"
+        },
+        {
+            "name": "Surojit Chatterjee",
+            "id": "2114029436",
+            "org": "University at Buffalo"
+        },
+        {
+            "name": "Aidong Zhang",
+            "id": "2228514421",
+            "org": "University at Buffalo"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Database",
+        "CURE data clustering algorithm",
+        "Data mining",
+        "Cluster analysis",
+        "Knowledge extraction",
+        "Copying",
+        "Spatial analysis",
+        "Spatial database",
+        "Very large database",
+        "Artificial intelligence",
+        "Correlation clustering",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1538973122",
+        "1566114229",
+        "1575476631",
+        "1658679052",
+        "1673310716",
+        "1981523229",
+        "2004350101",
+        "2025968227",
+        "2039866832",
+        "2095897464",
+        "2122857189",
+        "2132984323"
+    ]
+}

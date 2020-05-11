@@ -1,0 +1,58 @@
+{
+    "id": "1511252479",
+    "title": "Formal Semantics of Temporal Epistemic Reflection",
+    "venue": "logic-based program synthesis and transformation",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Wiebe van der Hoek",
+            "id": "2106214946",
+            "org": "Utrecht University"
+        },
+        {
+            "name": "Wiebe van der Hoek",
+            "id": "2106214946",
+            "org": "Utrecht University"
+        },
+        {
+            "name": "John-Jules Ch. Meyer",
+            "id": "2706429832",
+            "org": "Utrecht University"
+        },
+        {
+            "name": "John-Jules Ch. Meyer",
+            "id": "2706429832",
+            "org": "Utrecht University"
+        },
+        {
+            "name": "Jan Treur",
+            "id": "2006738124",
+            "org": "Free University Amsterdam"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Epistemic possibility",
+        "Theoretical computer science",
+        "Formal semantics (linguistics)",
+        "Computational semantics",
+        "Multimodal logic",
+        "Artificial intelligence",
+        "Operational semantics",
+        "Non-monotonic logic",
+        "Well-founded semantics",
+        "Epistemic modal logic",
+        "Computer science"
+    ],
+    "references": [
+        "80150817",
+        "1496710695",
+        "1519055258",
+        "1529927737",
+        "1555604471",
+        "1561401552",
+        "1966552757",
+        "2017661088",
+        "2125692076"
+    ]
+}

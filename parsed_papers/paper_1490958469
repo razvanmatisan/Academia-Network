@@ -1,0 +1,42 @@
+{
+    "id": "1490958469",
+    "title": "Scalable multicast protocol in IP-based mobile networks",
+    "venue": "Wireless Networks",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Chunhung Richard Lin",
+            "id": "2894318689",
+            "org": "National Sun Yat-Sen University, Kaohsiung, Taiwan#TAB#"
+        },
+        {
+            "name": "Kai-Min Wang",
+            "id": "2714346495",
+            "org": "Chunghwa Telecommunication Laboratories, Taoyuan, Taiwan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "Distributed computing",
+        "Computer science",
+        "IP multicast",
+        "Protocol Independent Multicast",
+        "Multicast",
+        "Xcast",
+        "Multicast address",
+        "Source-specific multicast",
+        "Pragmatic General Multicast",
+        "Distance Vector Multicast Routing Protocol"
+    ],
+    "references": [
+        "1768350739",
+        "1988633429",
+        "2032741749",
+        "2045368396",
+        "2061089398",
+        "2081024997",
+        "2108209831",
+        "2114393246",
+        "2263124607"
+    ]
+}

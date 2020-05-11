@@ -1,0 +1,39 @@
+{
+    "id": "155237547",
+    "title": "Conversation-enabled Web Services for Agents and e-Business.",
+    "venue": "international conference on internet computing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "James E. Hanson",
+            "id": "2140809900",
+            "org": "IBM T. J. Watson Research Center"
+        },
+        {
+            "name": "Prabir Nandi",
+            "id": "2676329379",
+            "org": "IBM T. J. Watson Research Center"
+        },
+        {
+            "name": "David W. Levine",
+            "id": "2214700285",
+            "org": "IBM T. J. Watson Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Web standards",
+        "Knowledge management",
+        "WS-Addressing",
+        "Web modeling",
+        "World Wide Web",
+        "Web service",
+        "Web development",
+        "Conversation",
+        "Service-oriented architecture",
+        "Business",
+        "WS-Policy"
+    ],
+    "references": [
+        "1547170407"
+    ]
+}

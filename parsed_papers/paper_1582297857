@@ -1,0 +1,61 @@
+{
+    "id": "1582297857",
+    "title": "Algorithms from complexity theory: polynomial-time operations for complex sets",
+    "venue": "SIGAL '90 Proceedings of the international symposium on Algorithms",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Lane A. Hemachandra",
+            "id": "2063601474",
+            "org": "University of Rochester"
+        }
+    ],
+    "fields_of_study": [
+        "Network planning and design",
+        "Time complexity",
+        "Fault tolerance",
+        "Scheduling (computing)",
+        "Worst-case complexity",
+        "Distributed computing",
+        "Hash function",
+        "Theoretical computer science",
+        "Data management",
+        "Asymptotic computational complexity",
+        "Computer science"
+    ],
+    "references": [
+        "1485836178",
+        "1496572999",
+        "1519919954",
+        "1605299547",
+        "1636637297",
+        "1970089350",
+        "1970465162",
+        "1981282181",
+        "1982406523",
+        "1982547542",
+        "1982717290",
+        "1986448430",
+        "2007527356",
+        "2008585307",
+        "2039733812",
+        "2044539289",
+        "2051433988",
+        "2065703771",
+        "2072181151",
+        "2073879013",
+        "2078096580",
+        "2083557874",
+        "2084325555",
+        "2085634981",
+        "2087899564",
+        "2090186532",
+        "2090841650",
+        "2094404282",
+        "2112812551",
+        "2115826669",
+        "2151536080",
+        "2153191867",
+        "2162310366"
+    ]
+}

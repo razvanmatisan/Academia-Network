@@ -1,0 +1,47 @@
+{
+    "id": "1498528751",
+    "title": "An extensible service oriented distributed data mining framework",
+    "venue": "international conference on machine learning and applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Anup Kumar",
+            "id": "2184376318",
+            "org": "Computer Engineering and Computer Science|School of Engineering|University of Louisville"
+        },
+        {
+            "name": "Mehmed Kantardzic",
+            "id": "320452240",
+            "org": "Computer Engineering and Computer Science|School of Engineering|University of Louisville"
+        },
+        {
+            "name": "Padmanabhan Ramaswamy",
+            "id": "2038597655",
+            "org": "Computer Engineering and Computer Science|School of Engineering|University of Louisville"
+        },
+        {
+            "name": "Pedram Sadeghian",
+            "id": "1824319312",
+            "org": "Computer Engineering and Computer Science|School of Engineering|University of Louisville"
+        }
+    ],
+    "fields_of_study": [
+        "Web service",
+        "Middleware (distributed applications)",
+        "Computer science",
+        "Web mining",
+        "Database",
+        "Data stream mining",
+        "Data mining",
+        "Data architecture",
+        "Architecture",
+        "Service-oriented architecture",
+        "Text mining"
+    ],
+    "references": [
+        "116254464",
+        "1604241128",
+        "1606344119",
+        "1740104682"
+    ]
+}

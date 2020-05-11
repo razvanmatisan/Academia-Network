@@ -1,0 +1,41 @@
+{
+    "id": "1497423593",
+    "title": "SPI methodology for virtual organizations",
+    "venue": "international conference on move to meaningful internet systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Paula Ventura Martins",
+            "id": "2109910957",
+            "org": "INESC-ID, CSI/Universidade do Algarve, Faro, Portugal#TAB#"
+        },
+        {
+            "name": "Alberto Rodrigues da Silva",
+            "id": "2133553942",
+            "org": "INESC-ID /Instituto Superior Tecnico, Lisboa, Portugal#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Software development process",
+        "Distributed computing",
+        "Project management",
+        "Software development",
+        "Virtual organization",
+        "Software",
+        "Virtual machine",
+        "Agile software development",
+        "Simulation",
+        "Virtual team",
+        "Computer science"
+    ],
+    "references": [
+        "158530238",
+        "1527701735",
+        "1567292085",
+        "2034873286",
+        "2142385753",
+        "2148398388",
+        "2172233814"
+    ]
+}

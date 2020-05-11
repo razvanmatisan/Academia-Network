@@ -1,0 +1,38 @@
+{
+    "id": "1496894853",
+    "title": "Augmenting a Laser Pointer with a Diffraction Grating for Monoscopic 6DOF Detection",
+    "venue": "JVRB - Journal of Virtual Reality and Broadcasting",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Marc Erich Latoschik",
+            "id": "2575568968",
+            "org": "Bielefeld University"
+        },
+        {
+            "name": "Elmar Bomberg",
+            "id": "2161411060",
+            "org": "Bielefeld University"
+        }
+    ],
+    "fields_of_study": [
+        "Grid",
+        "Diffraction grating",
+        "Degrees of freedom (statistics)",
+        "Distortion",
+        "Laser",
+        "Immersion (virtual reality)",
+        "Laser pointer",
+        "Computer vision",
+        "Optics",
+        "Degrees of freedom (mechanics)",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "173668522",
+        "2038578273",
+        "2042456435",
+        "2163267238"
+    ]
+}

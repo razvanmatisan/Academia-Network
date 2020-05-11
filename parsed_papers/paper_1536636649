@@ -1,0 +1,40 @@
+{
+    "id": "1536636649",
+    "title": "Control in Multi-threaded Information Systems",
+    "venue": "Advances in Computers",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Pablo A. Straub",
+            "id": "2128724804",
+            "org": "Depto. de Ciencia de la Computacidn Universidad Catolica de Chile Santiago, Chile"
+        },
+        {
+            "name": "Carlos A. Hurtado",
+            "id": "2522962047",
+            "org": "Depto. de Ciencia de la Computacidn Universidad Catolica de Chile Santiago, Chile"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "Advanced process control",
+        "Process modeling",
+        "Data model",
+        "Control flow analysis",
+        "IDEF4",
+        "Petri net",
+        "Structured analysis",
+        "Data modeling"
+    ],
+    "references": [
+        "1525513411",
+        "1551677550",
+        "1843821786",
+        "2014152199",
+        "2062756186",
+        "2096039823",
+        "2132172308",
+        "2338335491"
+    ]
+}

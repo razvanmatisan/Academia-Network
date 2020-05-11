@@ -1,0 +1,44 @@
+{
+    "id": "1601132947",
+    "title": "Tree Adjoining Grammars in a fragment of the Lambek calculus",
+    "venue": "Computational Linguistics",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "V. Michele Abrusci",
+            "id": "2717303007",
+            "org": "Universita di Bari#TAB#"
+        },
+        {
+            "name": "Jacqueline Vauzeilles",
+            "id": "2265345520",
+            "org": "Universite Paris-Nord#TAB#"
+        },
+        {
+            "name": "Christophe Fouquere",
+            "id": "2229744285",
+            "org": "Universite Paris-Nord#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parsing",
+        "Calculus",
+        "Tree-adjoining grammar",
+        "Mathematical proof",
+        "Adjunction",
+        "Regular tree grammar",
+        "Tree (data structure)",
+        "Rule-based machine translation",
+        "Formal grammar",
+        "Computer science"
+    ],
+    "references": [
+        "1981743645",
+        "2038141781",
+        "2060132857",
+        "2074070481",
+        "2125167152",
+        "2125948010",
+        "2130630493"
+    ]
+}

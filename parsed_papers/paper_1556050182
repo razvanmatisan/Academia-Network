@@ -1,0 +1,38 @@
+{
+    "id": "1556050182",
+    "title": "Support for Objects in the MONADS Architecture",
+    "venue": "international workshop on persistent object systems",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "James Leslie Keedy",
+            "id": "2777034379",
+            "org": "Universitat Bremen"
+        }
+    ],
+    "fields_of_study": [
+        "Monad (functional programming)",
+        "Address space",
+        "Distributed computing",
+        "Local area network",
+        "Architecture",
+        "Heap (data structure)",
+        "Garbage collection",
+        "Capability-based addressing",
+        "Virtual memory",
+        "Computer science"
+    ],
+    "references": [
+        "27031825",
+        "109538535",
+        "1552730607",
+        "2008395018",
+        "2031491316",
+        "2049762404",
+        "2060468294",
+        "2068969542",
+        "2134119432",
+        "2140508184",
+        "2242150811"
+    ]
+}

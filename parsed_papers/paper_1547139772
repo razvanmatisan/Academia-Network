@@ -1,0 +1,45 @@
+{
+    "id": "1547139772",
+    "title": "Compensation is Not Enough",
+    "venue": "enterprise distributed object computing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Paul Greenfield",
+            "id": "2111184222",
+            "org": "CSIRO Mathematical and Information Sciences"
+        },
+        {
+            "name": "Alan Fekete",
+            "id": "2154123352",
+            "org": "School of Information Technologies|University of Sydney"
+        },
+        {
+            "name": "Julian Jang",
+            "id": "2225692823",
+            "org": "CSIRO Mathematical and Information Sciences"
+        },
+        {
+            "name": "Dean Kuo",
+            "id": "2098097926",
+            "org": "CSIRO Mathematical and Information Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Business activity monitoring",
+        "Business process discovery",
+        "Business requirements",
+        "Business process modeling",
+        "Business Process Model and Notation",
+        "Business process management",
+        "Computer science",
+        "Artifact-centric business process model",
+        "Business rule"
+    ],
+    "references": [
+        "2148127833",
+        "2161062963",
+        "2180816153"
+    ]
+}

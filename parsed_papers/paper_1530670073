@@ -1,0 +1,34 @@
+{
+    "id": "1530670073",
+    "title": "A Subsumption Algorithm Based on Characteristic Matrices",
+    "venue": "conference on automated deduction",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Rolf Socher",
+            "id": "2286936102",
+            "org": "FB Informatik, Universitat Kaiserslautern"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Algorithm",
+        "Connectivity",
+        "Connected component",
+        "k-edge-connected graph",
+        "Matrix (mathematics)",
+        "k-vertex-connected graph",
+        "Graph minor",
+        "Automated theorem proving",
+        "Planar graph",
+        "Mathematics"
+    ],
+    "references": [
+        "152480905",
+        "1514729613",
+        "1530765221",
+        "1569745965",
+        "2042066678",
+        "2112827998"
+    ]
+}

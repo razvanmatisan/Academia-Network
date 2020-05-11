@@ -1,0 +1,39 @@
+{
+    "id": "1758657689",
+    "title": "A Concept for the Assessment of Electronic Communication in Integrated Information Systems",
+    "venue": "business process management",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Samrend Saboor",
+            "id": "1993338431",
+            "org": "University for Health Sciences, Medical Informatics and Technology (UMIT)"
+        },
+        {
+            "name": "Elske Ammenwerth",
+            "id": "55127408",
+            "org": "University for Health Sciences, Medical Informatics and Technology (UMIT)"
+        }
+    ],
+    "fields_of_study": [
+        "Structure of Management Information",
+        "Systems engineering",
+        "Computer science",
+        "Hospital information system",
+        "Information architecture",
+        "Information system",
+        "Management science",
+        "Information transfer",
+        "Automated information system",
+        "System of record",
+        "Management information systems"
+    ],
+    "references": [
+        "1549389909",
+        "1948554019",
+        "1987749529",
+        "2050638275",
+        "2106919659",
+        "2144241984"
+    ]
+}

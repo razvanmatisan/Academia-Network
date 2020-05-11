@@ -1,0 +1,38 @@
+{
+    "id": "1572177269",
+    "title": "An adaptive approach for QoS-aware web service composition using cultural algorithms",
+    "venue": "australasian joint conference on artificial intelligence",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Ziad Kobti",
+            "id": "115859651",
+            "org": "Department of Computer Science, University of Windsor, Windsor, Ontario, Canada#TAB#"
+        },
+        {
+            "name": "Wang Zhiyang",
+            "id": "2475471854",
+            "org": "Department of Computer Science, University of Windsor, Windsor, Ontario, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Web service",
+        "Mobile QoS",
+        "Service level requirement",
+        "Differentiated service",
+        "Service design",
+        "Service delivery framework",
+        "Service provider",
+        "Algorithm",
+        "WS-Policy",
+        "Computer science"
+    ],
+    "references": [
+        "2132866640",
+        "2139211192",
+        "2144651846",
+        "2146094052",
+        "2172105112",
+        "2172249638"
+    ]
+}

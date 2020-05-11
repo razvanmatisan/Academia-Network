@@ -1,0 +1,38 @@
+{
+    "id": "129275213",
+    "title": "On the practical limits of the evolutionary digital filter design at the gate level",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Lukas Sekanina",
+            "id": "2052842927",
+            "org": "Faculty of Information Technology, Brno University of Technology, Brno, Czech Republic#TAB#"
+        },
+        {
+            "name": "Zdenek Vasicek",
+            "id": "1994492090",
+            "org": "Faculty of Information Technology, Brno University of Technology, Brno, Czech Republic#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Linearity",
+        "Evolutionary algorithm",
+        "Finite impulse response",
+        "Prototype filter",
+        "Gate array",
+        "Impulse response",
+        "Control theory",
+        "Digital filter",
+        "Computer science",
+        "Infinite impulse response"
+    ],
+    "references": [
+        "1486894692",
+        "1503783301",
+        "1510718579",
+        "1511112370",
+        "1986081435",
+        "2133932552"
+    ]
+}

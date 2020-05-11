@@ -1,0 +1,33 @@
+{
+    "id": "1552489884",
+    "title": "Using the domain name system for system break-ins",
+    "venue": "usenix security symposium",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Steven Michael Bellovin",
+            "id": "687694072",
+            "org": "AT&T Bell Laboratories#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Zone file",
+        "Internet privacy",
+        "Computer security",
+        "Root name server",
+        "DNS hijacking",
+        "DNS spoofing",
+        "Name server",
+        "World Wide Web",
+        "nsupdate",
+        "DNS root zone",
+        "Computer science",
+        "Domain Name System"
+    ],
+    "references": [
+        "93328664",
+        "1635413415",
+        "1835640267",
+        "2146749986"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1492056677",
+    "title": "Design of an Automatic Prover Dedicated to the Refinement of Database Applications",
+    "venue": "formal methods",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Amel Mammar",
+            "id": "304532352",
+            "org": "CEDRIC-IIE(CNAM)"
+        },
+        {
+            "name": "Regine Laleau",
+            "id": "5975687",
+            "org": "CEDRIC-IIE(CNAM)"
+        }
+    ],
+    "fields_of_study": [
+        "Reuse",
+        "Mathematical proof",
+        "Proof theory",
+        "Theoretical computer science",
+        "Refinement calculus",
+        "Database",
+        "Gas meter prover",
+        "B-Method",
+        "Algorithm",
+        "Software development",
+        "Elaboration",
+        "Computer science"
+    ],
+    "references": [
+        "33941996",
+        "1536765192",
+        "1538053944",
+        "1596335232",
+        "1605755043",
+        "1996572158",
+        "2155919438"
+    ]
+}

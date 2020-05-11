@@ -1,0 +1,30 @@
+{
+    "id": "151958880",
+    "title": "Representing Data as Resources in RDF and OWL.",
+    "venue": "international conference on database theory",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Pierre-Antoine Champin",
+            "id": "1718287272",
+            "org": "Centre national de la recherche scientifique"
+        }
+    ],
+    "fields_of_study": [
+        "Linked data",
+        "Semantic Web Rule Language",
+        "Database",
+        "RDF/XML",
+        "RDF Schema",
+        "Simple Knowledge Organization System",
+        "RDF query language",
+        "SPARQL",
+        "Computer science",
+        "Data mining",
+        "Cwm"
+    ],
+    "references": [
+        "1499651117",
+        "2046166587"
+    ]
+}

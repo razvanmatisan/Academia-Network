@@ -1,0 +1,41 @@
+{
+    "id": "1564778035",
+    "title": "Twenty Questions, Focus of Attention, and A*: A Theoretical Comparison of Optimization Strategies",
+    "venue": "energy minimization methods in computer vision and pattern recognition",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Alan L. Yuille",
+            "id": "2065104188",
+            "org": "Smith-Kettlewell Eye Research Institute"
+        },
+        {
+            "name": "James M. Coughlan",
+            "id": "2777709346",
+            "org": "Harvard University"
+        }
+    ],
+    "fields_of_study": [
+        "Dijkstra's algorithm",
+        "Mathematical optimization",
+        "Tree traversal",
+        "Special case",
+        "Decision tree",
+        "Probabilistic logic",
+        "Machine learning",
+        "Dynamic programming",
+        "Search algorithm",
+        "Optimization problem",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "2045798786",
+        "2073039128",
+        "2112973107",
+        "2122166615",
+        "2128439793",
+        "2133138342",
+        "2563210919"
+    ]
+}

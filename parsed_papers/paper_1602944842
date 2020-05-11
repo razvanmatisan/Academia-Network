@@ -1,0 +1,40 @@
+{
+    "id": "1602944842",
+    "title": "Unsupervised robust clustering for image database categorization",
+    "venue": "international conference on pattern recognition",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "B. Le Saux",
+            "id": "2662052044",
+            "org": "Imedia Res. Group, Inst. Nat. de Recherche en Inf. et Autom., Le Chesnay, France"
+        },
+        {
+            "name": "Nozha Boujemaa",
+            "id": "563774350",
+            "org": "Imedia Res. Group, Inst. Nat. de Recherche en Inf. et Autom., Le Chesnay, France"
+        }
+    ],
+    "fields_of_study": [
+        "Content-based image retrieval",
+        "Cluster analysis",
+        "Feature vector",
+        "Robustness (computer science)",
+        "Feature extraction",
+        "Artificial intelligence",
+        "Database",
+        "Image retrieval",
+        "Curse of dimensionality",
+        "Pattern recognition",
+        "Categorization",
+        "Computer science"
+    ],
+    "references": [
+        "1571847560",
+        "2011549082",
+        "2031240623",
+        "2060907774",
+        "2116442055",
+        "2140092645"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1525513411",
+    "title": "Understanding Behavior of Business Process Models",
+    "venue": "international conference on coordination models and languages",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Pablo A. Straub",
+            "id": "2128724804",
+            "org": "Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "name": "Carlos L. Hurtado",
+            "id": "2884426440",
+            "org": "Pontificia Universidad Catolica de Chile"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Business process",
+        "Distributed computing",
+        "Real-time computing",
+        "Deadlock",
+        "Business Process Model and Notation",
+        "Business process modeling",
+        "Process modeling",
+        "Process management",
+        "Business process management",
+        "Artifact-centric business process model",
+        "Business rule"
+    ],
+    "references": [
+        "1551677550",
+        "1561027652",
+        "1840659773",
+        "2014152199",
+        "2113355185",
+        "2132172308"
+    ]
+}

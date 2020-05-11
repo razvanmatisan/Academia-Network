@@ -1,0 +1,29 @@
+{
+    "id": "1588747780",
+    "title": "Time and Action Lock Freedom Properties for Timed Automata",
+    "venue": "formal techniques for networked and distributed systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Howard Bowman",
+            "id": "2129029448",
+            "org": "Univ of Kent at Canterbury"
+        }
+    ],
+    "fields_of_study": [
+        "Non-blocking algorithm",
+        "Lock (computer science)",
+        "Computer science",
+        "Timed automaton",
+        "Distributed computing",
+        "Real-time computing",
+        "Computer programming"
+    ],
+    "references": [
+        "1596185389",
+        "1802815008",
+        "2087107052",
+        "2132976180",
+        "2160883697"
+    ]
+}

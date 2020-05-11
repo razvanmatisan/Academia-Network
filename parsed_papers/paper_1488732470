@@ -1,0 +1,32 @@
+{
+    "id": "1488732470",
+    "title": "Cellular-array power-sum circuits over programmable finite field GF(2''')",
+    "venue": "international symposium on circuits and systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Shyue-Win Wei",
+            "id": "2217906517",
+            "org": "Dept. of Electr. Eng., Nat. Chi-Nan Univ., Nan-You, Taiwan"
+        }
+    ],
+    "fields_of_study": [
+        "Electronic circuit",
+        "Low-power electronics",
+        "Latency (engineering)",
+        "Parallel computing",
+        "Circuit complexity",
+        "Very-large-scale integration",
+        "GF(2)",
+        "Architecture",
+        "Electronic engineering",
+        "Finite field",
+        "Computer science"
+    ],
+    "references": [
+        "1583750336",
+        "2023845097",
+        "2060052787",
+        "2092881225"
+    ]
+}

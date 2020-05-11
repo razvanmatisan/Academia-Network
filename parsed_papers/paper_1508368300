@@ -1,0 +1,37 @@
+{
+    "id": "1508368300",
+    "title": "Protecting Sensitive Information in Directory Services Using Virtual Directories",
+    "venue": "collaborative computing",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "William R. Claycomb",
+            "id": "2313193657",
+            "org": "Sandia National Laboratories"
+        },
+        {
+            "name": "Dongwan Shin",
+            "id": "2236908078",
+            "org": "New Mexico Tech"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Computer network",
+        "Encryption",
+        "Information sensitivity",
+        "Enterprise information security architecture",
+        "Directory service",
+        "Data Protection Act 1998",
+        "Lightweight Directory Access Protocol",
+        "Access control",
+        "Computer security",
+        "Internet privacy",
+        "Government"
+    ],
+    "references": [
+        "1497289281",
+        "1506512961",
+        "1976117755"
+    ]
+}

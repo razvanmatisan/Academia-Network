@@ -1,0 +1,44 @@
+{
+    "id": "1571758719",
+    "title": "On evolutionary optimization of large problems using small populations",
+    "venue": "international conference on natural computation",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Yaochu Jin",
+            "id": "2280789105",
+            "org": "Honda Research Institute Europe, Offenbach/Main, Germany#TAB#"
+        },
+        {
+            "name": "Markus Olhofer",
+            "id": "163582389",
+            "org": "Honda Research Institute Europe, Offenbach/Main, Germany#TAB#"
+        },
+        {
+            "name": "Bernhard Sendhoff",
+            "id": "699787859",
+            "org": "Honda Research Institute Europe, Offenbach/Main, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Beam search",
+        "Genetic algorithm",
+        "Incremental heuristic search",
+        "Machine learning",
+        "Iterative deepening depth-first search",
+        "Evolutionary algorithm",
+        "Combinatorial search",
+        "Artificial intelligence",
+        "Local search (optimization)",
+        "Search problem",
+        "Mathematics"
+    ],
+    "references": [
+        "1605438009",
+        "2101677491",
+        "2112036188",
+        "2138537392",
+        "2166739626"
+    ]
+}

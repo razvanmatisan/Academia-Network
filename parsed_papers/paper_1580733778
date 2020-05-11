@@ -1,0 +1,36 @@
+{
+    "id": "1580733778",
+    "title": "Session key distribution using smart cards",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Victor Shoup",
+            "id": "2294259183",
+            "org": "Bellcore, Morristown, NJ#TAB#"
+        },
+        {
+            "name": "Aviel D. Rubin",
+            "id": "2572232409",
+            "org": "Bellcore, Morristown, NJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Key distribution",
+        "Smart card",
+        "Security parameter",
+        "Pseudorandom function family",
+        "OpenPGP card",
+        "Session key",
+        "Computer science",
+        "Computer security",
+        "Strengths and weaknesses",
+        "Computer security model"
+    ],
+    "references": [
+        "1482673219",
+        "2047241038",
+        "2117362057",
+        "2146973388"
+    ]
+}

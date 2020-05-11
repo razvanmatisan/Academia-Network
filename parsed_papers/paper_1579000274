@@ -1,0 +1,49 @@
+{
+    "id": "1579000274",
+    "title": "Architecture for a hardware based, TCP/IP content scanning system [intrusion detection system applications]",
+    "venue": "high performance interconnects",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "David V. Schuehler",
+            "id": "2071810701",
+            "org": "Appl. Res. Lab., Washington Univ., DC, USA"
+        },
+        {
+            "name": "James Moscola",
+            "id": "1994498524",
+            "org": "Appl. Res. Lab., Washington Univ., DC, USA"
+        },
+        {
+            "name": "John W. Lockwood",
+            "id": "2022287624",
+            "org": "Appl. Res. Lab., Washington Univ., DC, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Internet protocol suite",
+        "Computer network",
+        "Host-based intrusion detection system",
+        "Communications protocol",
+        "Transmission Control Protocol",
+        "Intrusion detection system",
+        "TCP acceleration",
+        "Computer hardware",
+        "Architecture",
+        "Zeta-TCP",
+        "Computer science",
+        "Real-time computing"
+    ],
+    "references": [
+        "1553177637",
+        "1666279428",
+        "1674877186",
+        "1707172707",
+        "1979302214",
+        "2121551981",
+        "2124632616",
+        "2149375166",
+        "2153102141",
+        "2205213980"
+    ]
+}

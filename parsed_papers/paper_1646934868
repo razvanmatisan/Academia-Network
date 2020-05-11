@@ -1,0 +1,47 @@
+{
+    "id": "1646934868",
+    "title": "Learning disjunctive concepts with distributed genetic algorithms",
+    "venue": "world congress on computational intelligence",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Attilio Giordana",
+            "id": "2039763176",
+            "org": "Dipartimento di Inf., Torino Univ., Italy"
+        },
+        {
+            "name": "Lorenza Saitta",
+            "id": "244818265",
+            "org": "Dipartimento di Inf., Torino Univ., Italy"
+        },
+        {
+            "name": "Floriano Zini",
+            "id": "1967928547",
+            "org": "Dipartimento di Inf., Torino Univ., Italy"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic programming",
+        "Defining length",
+        "Genetic representation",
+        "Computer science",
+        "Machine learning",
+        "Artificial intelligence",
+        "Fitness function",
+        "Population",
+        "Universal quantification",
+        "Theoretical computer science",
+        "Genetic operator",
+        "Quality control and genetic algorithms"
+    ],
+    "references": [
+        "146100937",
+        "1512628935",
+        "1572960541",
+        "1592894394",
+        "1598589952",
+        "1825909837",
+        "1999138184",
+        "2126926002"
+    ]
+}

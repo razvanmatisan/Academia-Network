@@ -1,0 +1,29 @@
+{
+    "id": "1512029549",
+    "title": "Steganalysis and Game Equilibria",
+    "venue": "information hiding",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "J. Mark Ettinger",
+            "id": "2157111323",
+            "org": "Los Alamos National Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Steganography",
+        "Game theory",
+        "Information protection policy",
+        "Distortion",
+        "Covert channel",
+        "Theoretical computer science",
+        "Entropy (information theory)",
+        "Steganalysis",
+        "Binary symmetric channel",
+        "Mathematics"
+    ],
+    "references": [
+        "1539419769",
+        "2159390040"
+    ]
+}

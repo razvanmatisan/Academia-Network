@@ -1,0 +1,45 @@
+{
+    "id": "1519129063",
+    "title": "Rankers over Infinite Words - (Extended Abstract).",
+    "venue": "developments in language theory",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Luc Dartois",
+            "id": "2429521282",
+            "org": "Universitat Stuttgart"
+        },
+        {
+            "name": "Luc Dartois",
+            "id": "2429521282",
+            "org": "Universitat Stuttgart"
+        },
+        {
+            "name": "Manfred Kufleitner",
+            "id": "178791821",
+            "org": "Universitat Stuttgart"
+        },
+        {
+            "name": "Alexander Lauser",
+            "id": "1994272536",
+            "org": "Universitat Stuttgart"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Discrete mathematics",
+        "Rankers",
+        "Expressive power",
+        "Zeroth-order logic",
+        "Predicate functor logic",
+        "Mathematics"
+    ],
+    "references": [
+        "1521674074",
+        "1578498199",
+        "2026713735",
+        "2065930159",
+        "2168351001",
+        "2254321870"
+    ]
+}

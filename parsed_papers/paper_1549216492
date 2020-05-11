@@ -1,0 +1,35 @@
+{
+    "id": "1549216492",
+    "title": "Linear Secret Sharing with Divisible Shares",
+    "venue": "international conference on information and communication security",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Josef Pieprzyk",
+            "id": "2081631084",
+            "org": "University of Wollongong"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Verifiable secret sharing",
+        "Shamir's Secret Sharing",
+        "Homomorphic secret sharing",
+        "Cryptography",
+        "Linear code",
+        "Secure multi-party computation",
+        "Access structure",
+        "Secret sharing",
+        "Mathematics"
+    ],
+    "references": [
+        "1494206355",
+        "1534695542",
+        "1660562555",
+        "1867048327",
+        "2019616576",
+        "2096024255",
+        "2141420453",
+        "2159401786"
+    ]
+}

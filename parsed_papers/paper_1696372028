@@ -1,0 +1,43 @@
+{
+    "id": "1696372028",
+    "title": "Governing intelligent virtual agent behaviour with norms",
+    "venue": "adaptive agents and multi agents systems",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "JeeHang Lee",
+            "id": "2123734084",
+            "org": "University of Bath, Bath, United Kingdom#TAB#"
+        },
+        {
+            "name": "Tingting Li",
+            "id": "2239263289",
+            "org": "University of Bath, Bath, United Kingdom#TAB#"
+        },
+        {
+            "name": "Marina De Vos",
+            "id": "2146953997",
+            "org": "University of Bath, Bath, United Kingdom#TAB#"
+        },
+        {
+            "name": "Julian Padget",
+            "id": "2040998117",
+            "org": "University of Bath, Bath, United Kingdom#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Knowledge management",
+        "Observer (quantum physics)",
+        "Cognitive dissonance",
+        "Situated",
+        "Separation of concerns",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "54378027",
+        "170631939",
+        "1819146950"
+    ]
+}

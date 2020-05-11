@@ -1,0 +1,35 @@
+{
+    "id": "1573457431",
+    "title": "A probabilistic contour discriminant for object localisation",
+    "venue": "international conference on computer vision",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "John MacCormick",
+            "id": "2302713297",
+            "org": "Oxford Univ., UK"
+        },
+        {
+            "name": "Andrew Blake",
+            "id": "2191458383",
+            "org": "University of Oxford"
+        }
+    ],
+    "fields_of_study": [
+        "Clutter",
+        "Computer vision",
+        "Feature extraction",
+        "Sampling (statistics)",
+        "Artificial intelligence",
+        "Probabilistic logic",
+        "Pattern recognition",
+        "Feature detection",
+        "Computer science",
+        "Discriminant",
+        "Statistical model"
+    ],
+    "references": [
+        "1735413976",
+        "2010945382"
+    ]
+}

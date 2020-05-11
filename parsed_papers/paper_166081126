@@ -1,0 +1,30 @@
+{
+    "id": "166081126",
+    "title": "Collisions and Inversions for Damgard's Whole Hash Function",
+    "venue": "international cryptology conference",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Jacques Patarin",
+            "id": "2115493875",
+            "org": "Bull CP8"
+        }
+    ],
+    "fields_of_study": [
+        "Double hashing",
+        "Discrete mathematics",
+        "Collision resistance",
+        "Theoretical computer science",
+        "Rolling hash",
+        "Cryptographic hash function",
+        "Perfect hash function",
+        "Hash function",
+        "Computer science",
+        "Dynamic perfect hashing",
+        "Hash buster"
+    ],
+    "references": [
+        "1607206152",
+        "2404862638"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1538051298",
+    "title": "An architectural pattern to extend the interaction model between web-services: The Location-Based service context",
+    "venue": "international conference on service oriented computing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Pedro Alvarez",
+            "id": "2507832255",
+            "org": "University of Of Zaragoza"
+        },
+        {
+            "name": "Jose Angel Banares",
+            "id": "2010221003",
+            "org": "University of Of Zaragoza"
+        },
+        {
+            "name": "Pedro R. Muro-Medrano",
+            "id": "2306372364",
+            "org": "University of Of Zaragoza"
+        }
+    ],
+    "fields_of_study": [
+        "Web service",
+        "World Wide Web",
+        "Client-server model",
+        "Service provider",
+        "Blackboard system",
+        "Architectural pattern",
+        "Distributed computing",
+        "Service-oriented architecture",
+        "Middleware",
+        "The Internet",
+        "Computer science"
+    ],
+    "references": [
+        "1761231283",
+        "2025478843",
+        "2120153097",
+        "2161307885"
+    ]
+}

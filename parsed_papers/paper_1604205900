@@ -1,0 +1,38 @@
+{
+    "id": "1604205900",
+    "title": "Crosscutting Concern Documentation by Visual Query of Business Processes",
+    "venue": "business process management",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Chiara Di Francescomarino",
+            "id": "135341990",
+            "org": "FBK--IRST"
+        },
+        {
+            "name": "Paolo Tonella",
+            "id": "174962400",
+            "org": "FBK--IRST"
+        }
+    ],
+    "fields_of_study": [
+        "Business process",
+        "Process management",
+        "Systems engineering",
+        "Computer science",
+        "Documentation",
+        "Process design",
+        "Document Structure Description"
+    ],
+    "references": [
+        "52979180",
+        "1484171298",
+        "1588102841",
+        "1938881678",
+        "1970462831",
+        "2118944299",
+        "2136465704",
+        "2151298976",
+        "2163595220"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1622297907",
+    "title": "Disparity-Space Images and Large Occlusion Stereo",
+    "venue": "european conference on computer vision",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Stephen S. Intille",
+            "id": "219806196",
+            "org": "Massachusetts Institute of Technology"
+        },
+        {
+            "name": "Aaron F. Bobick",
+            "id": "313510708",
+            "org": "Massachusetts Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Data structure",
+        "Computer science",
+        "Artificial intelligence",
+        "Computer vision",
+        "Biasing",
+        "Pixel",
+        "Binocular disparity",
+        "Image formation",
+        "Computer stereo vision",
+        "Dynamic programming",
+        "Stereo camera"
+    ],
+    "references": [
+        "1901518195",
+        "1972458325",
+        "1977948323",
+        "2050405342",
+        "2054536235",
+        "2141128914",
+        "2149166480"
+    ]
+}

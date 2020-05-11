@@ -1,0 +1,42 @@
+{
+    "id": "1566022377",
+    "title": "A Metric for Genetic Programs and Fitness Sharing",
+    "venue": "european conference on genetic programming",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Aniko Ekart",
+            "id": "1271428783",
+            "org": "Hungarian Academy of Sciences"
+        },
+        {
+            "name": "Sandor Nemeth",
+            "id": "2138787392",
+            "org": "Hungarian Academy of Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Fitness proportionate selection",
+        "Genetic algorithm",
+        "Theoretical computer science",
+        "Tournament selection",
+        "Computer science",
+        "Genetic program",
+        "Fitness function",
+        "Inductive logic programming",
+        "Analogy"
+    ],
+    "references": [
+        "1497078214",
+        "1576818901",
+        "1639032689",
+        "1905847227",
+        "1940325549",
+        "1975009259",
+        "2048001624",
+        "2057294899",
+        "2155582960"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "101127628",
+    "title": "Models and algorithms for probabilistic and Bayesian logic",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Pierre Hansen",
+            "id": "2099733369",
+            "org": "Ecole des Hautes Etudes Commerciales, Montreal, Quebec, Canada#TAB#"
+        },
+        {
+            "name": "Brigitte Jaumard",
+            "id": "288411072",
+            "org": "Ecole Polytechnique de Montreal, Montreal, Quebec, Canada#TAB#"
+        },
+        {
+            "name": "Guy-Blaise Douanya Nguetse",
+            "id": "289175562",
+            "org": "Ecole Polytechnique de Montreal, Canada#TAB#"
+        },
+        {
+            "name": "Marcus Poggi de Aragao",
+            "id": "2266161320",
+            "org": "Univ. Estadual de Campinas, Brazil#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Estimation of distribution algorithm",
+        "Machine learning",
+        "Artificial intelligence",
+        "Probabilistic CTL",
+        "Probabilistic relevance model",
+        "Probabilistic logic",
+        "Algorithm",
+        "Probabilistic logic network",
+        "Subjective logic",
+        "Probabilistic analysis of algorithms",
+        "Probabilistic argumentation",
+        "Mathematics"
+    ],
+    "references": [
+        "1482189126",
+        "1513769081",
+        "1524306583",
+        "1781185878",
+        "1965892141",
+        "1989131954",
+        "1999924358",
+        "2030398195",
+        "2054971774",
+        "2159080219",
+        "2169250070"
+    ]
+}

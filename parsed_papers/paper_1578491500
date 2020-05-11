@@ -1,0 +1,31 @@
+{
+    "id": "1578491500",
+    "title": "Using a Theorem Prover for Reasoning about Concurrent Algorithms",
+    "venue": "computer aided verification",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Thomas Langbacka",
+            "id": "2796533544",
+            "org": "Abo Akademi University"
+        }
+    ],
+    "fields_of_study": [
+        "HOL",
+        "Semantics",
+        "Algorithm",
+        "Computer science",
+        "Automated theorem proving",
+        "Temporal logic of actions",
+        "Temporal logic",
+        "Skolem normal form",
+        "Proof assistant"
+    ],
+    "references": [
+        "1483205556",
+        "1996404651",
+        "2015688007",
+        "2016535383",
+        "2148579499"
+    ]
+}

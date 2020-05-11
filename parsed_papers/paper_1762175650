@@ -1,0 +1,33 @@
+{
+    "id": "1762175650",
+    "title": "Objective and Cognitive Context",
+    "venue": "Contexts",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Carlo Penco",
+            "id": "2059699432",
+            "org": "University of Genoa (Italy)"
+        }
+    ],
+    "fields_of_study": [
+        "Social science",
+        "Philosophy of science",
+        "Modal logic",
+        "Semantics of logic",
+        "Search engine indexing",
+        "Computational linguistics",
+        "Computer science",
+        "Cognition",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1488300569",
+        "1517791053",
+        "1555476679",
+        "1560309934",
+        "1979639590",
+        "2057858426",
+        "2099143991"
+    ]
+}

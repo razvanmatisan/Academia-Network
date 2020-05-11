@@ -1,0 +1,39 @@
+{
+    "id": "1596033161",
+    "title": "Bootstrapping training-data representations for inductive learning: a case study in molecular biology",
+    "venue": "national conference on artificial intelligence",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Haym Hirsh",
+            "id": "2151078108",
+            "org": "Department of Computer Science, Rutgers University, New Brunswick, NJ#TAB#"
+        },
+        {
+            "name": "Nathalie Japkowicz",
+            "id": "195975349",
+            "org": "Department of Computer Science, Rutgers University, New Brunswick, NJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Delegation (computing)",
+        "Training set",
+        "Machine learning",
+        "Bootstrapping (linguistics)",
+        "Natural language processing",
+        "External Data Representation",
+        "Multi-task learning",
+        "Bootstrapping",
+        "Operator (computer programming)",
+        "Computer science",
+        "Syntax"
+    ],
+    "references": [
+        "134475660",
+        "1512592747",
+        "1927345150",
+        "2125055259",
+        "2153937392"
+    ]
+}

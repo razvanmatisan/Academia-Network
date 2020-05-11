@@ -1,0 +1,34 @@
+{
+    "id": "1504674428",
+    "title": "Development and testing of a morphological geometric representation scheme for topology design optimization using a genetic algorithm",
+    "venue": "congress on evolutionary computation",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Kang Tai",
+            "id": "2169197570",
+            "org": "Sch. of Mech. & Production Eng., Nanyang Technol. Univ., Singapore"
+        },
+        {
+            "name": "Shamim Akhtar",
+            "id": "2476768176",
+            "org": "Sch. of Mech. & Production Eng., Nanyang Technol. Univ., Singapore"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Genetic algorithm",
+        "Geometric topology",
+        "Line (geometry)",
+        "Extension topology",
+        "Computational topology",
+        "Shape optimization",
+        "Topology optimization",
+        "Mathematics",
+        "Optimization problem",
+        "Topology"
+    ],
+    "references": [
+        "1601536614"
+    ]
+}

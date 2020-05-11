@@ -1,0 +1,42 @@
+{
+    "id": "128312831",
+    "title": "Mood Effects on the Decoding of Emotional Voices",
+    "venue": "italian workshop on neural nets",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Alda Troncone",
+            "id": "1876197849",
+            "org": "Second University of Naples"
+        },
+        {
+            "name": "Davide Palumbo",
+            "id": "2158796668",
+            "org": "Second University of Naples"
+        },
+        {
+            "name": "Anna Esposito",
+            "id": "2193795119",
+            "org": "Second University of Naples"
+        },
+        {
+            "name": "Anna Esposito",
+            "id": "2193795119",
+            "org": "Second University of Naples"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Social psychology",
+        "Computer science",
+        "Pattern recognition",
+        "Anger",
+        "Decoding methods",
+        "Mood"
+    ],
+    "references": [
+        "1508219607",
+        "1570880496",
+        "1999728850"
+    ]
+}

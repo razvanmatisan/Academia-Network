@@ -1,0 +1,36 @@
+{
+    "id": "1255391845",
+    "title": "On the utility of bottleneck reasoning for scheduling",
+    "venue": "national conference on artificial intelligence",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Nicola Muscettola",
+            "id": "158613222",
+            "org": "RECOM Technologies, NASA Ames Research Center, AI Research Branch, Moffett Field, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Two-level scheduling",
+        "Round-robin scheduling",
+        "Fair-share scheduling",
+        "Computer science",
+        "Scheduling (production processes)",
+        "Dynamic priority scheduling",
+        "Real-time computing",
+        "Distributed computing",
+        "Flow shop scheduling",
+        "Bottleneck",
+        "Rate-monotonic scheduling"
+    ],
+    "references": [
+        "51446513",
+        "97759114",
+        "131128112",
+        "183136686",
+        "2068852367",
+        "2150192115",
+        "2168664978"
+    ]
+}

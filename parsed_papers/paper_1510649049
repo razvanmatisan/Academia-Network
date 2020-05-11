@@ -1,0 +1,30 @@
+{
+    "id": "1510649049",
+    "title": "Managing power heterogeneity",
+    "venue": "theory and practice of algorithms in computer systems",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Kirk Pruhs",
+            "id": "2147318369",
+            "org": "Computer Science Department, University of Pittsburgh#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Homogeneity (statistics)",
+        "Efficient energy use",
+        "Computation",
+        "Power budget",
+        "Chip",
+        "Real-time computing",
+        "Small number",
+        "Architecture",
+        "Computer science",
+        "Derating"
+    ],
+    "references": [
+        "1480825842",
+        "2109827459",
+        "2124402683"
+    ]
+}

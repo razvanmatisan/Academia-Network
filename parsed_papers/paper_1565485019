@@ -1,0 +1,34 @@
+{
+    "id": "1565485019",
+    "title": "Human Aspects of Software Engineering: The Case of Extreme Programming",
+    "venue": "international conference on software engineering",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Orit Hazzan",
+            "id": "266418477",
+            "org": "Technion"
+        },
+        {
+            "name": "James E. Tomayko",
+            "id": "235122931",
+            "org": "Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Feeling",
+        "Systems engineering",
+        "Extreme programming",
+        "Software development",
+        "Software development process",
+        "Social software engineering",
+        "Extreme programming practices",
+        "Computer science",
+        "Agile software development",
+        "Software engineering"
+    ],
+    "references": [
+        "93597058",
+        "2065638493"
+    ]
+}

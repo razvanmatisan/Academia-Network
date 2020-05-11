@@ -1,0 +1,30 @@
+{
+    "id": "1634952812",
+    "title": "Conversion of the kinematics of a car with n trailers into a chained form",
+    "venue": "international conference on robotics and automation",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Ole Jakob Sordalen",
+            "id": "2356086459",
+            "org": "Div. of Eng. Cybern., Norwegian Inst. of Technol., Trondheim, Norway"
+        }
+    ],
+    "fields_of_study": [
+        "Kinematics",
+        "Open-loop controller",
+        "Control theory",
+        "Control engineering",
+        "Convergence (routing)",
+        "Trailer",
+        "Controllability",
+        "Engineering",
+        "Nilpotent",
+        "Control system",
+        "Cybernetics"
+    ],
+    "references": [
+        "2016736417",
+        "2145076589"
+    ]
+}

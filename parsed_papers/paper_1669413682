@@ -1,0 +1,27 @@
+{
+    "id": "1669413682",
+    "title": "Genes functional coherence based on actual biological knowledge",
+    "venue": "Ai Communications",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Norberto Diaz-Diaz",
+            "id": "2007574373",
+            "org": "Pablo de Olavide University"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Computer science",
+        "Artificial intelligence",
+        "KEGG",
+        "Voronoi diagram",
+        "Heuristic",
+        "Coherence (physics)",
+        "Bioinformatics"
+    ],
+    "references": [
+        "1778138535",
+        "2142046354"
+    ]
+}

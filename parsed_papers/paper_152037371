@@ -1,0 +1,34 @@
+{
+    "id": "152037371",
+    "title": "Comparing Natural Language Documents: a DL Based Approach.",
+    "venue": "Description Logics",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Naouel Karam",
+            "id": "1984563956",
+            "org": "Universit e Blaise"
+        },
+        {
+            "name": "Michel Schneider",
+            "id": "2623469963",
+            "org": "Universit e Blaise"
+        }
+    ],
+    "fields_of_study": [
+        "Universal Networking Language",
+        "Natural language",
+        "Question answering",
+        "Semantic Web Rule Language",
+        "Language identification",
+        "Natural language processing",
+        "Object language",
+        "Natural language programming",
+        "Temporal annotation",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1500636232"
+    ]
+}

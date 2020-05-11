@@ -1,0 +1,42 @@
+{
+    "id": "1511599652",
+    "title": "A Machine Learning Tool Designed for a Model-Based Knowledge Acquisition Approach",
+    "venue": "knowledge acquisition, modeling and management",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Jerome Thomas",
+            "id": "2436833221",
+            "org": "ONERA, DMI, GIA"
+        },
+        {
+            "name": "Philippe Laublet",
+            "id": "51425068",
+            "org": "ONERA, DMI, GIA"
+        },
+        {
+            "name": "Jean-Gabriel Ganascia",
+            "id": "2779758332",
+            "org": "LAFORIA-IBP Universite P. et M. Curie"
+        }
+    ],
+    "fields_of_study": [
+        "Domain knowledge",
+        "Active learning (machine learning)",
+        "Knowledge management",
+        "Computer science",
+        "Multi-task learning",
+        "IDEF3",
+        "Robot learning",
+        "Knowledge integration",
+        "Natural language processing",
+        "Procedural knowledge",
+        "Machine learning",
+        "Knowledge acquisition",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "98156615",
+        "1597346870"
+    ]
+}

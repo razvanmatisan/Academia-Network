@@ -1,0 +1,57 @@
+{
+    "id": "1494592156",
+    "title": "(S,C)-Dense Coding: An Optimized Compression Code for Natural Language Text Databases",
+    "venue": "string processing and information retrieval",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Nieves R. Brisaboa",
+            "id": "2224363331",
+            "org": "Univ. da Coruna, Facultade de Informatica"
+        },
+        {
+            "name": "Antonio Farina",
+            "id": "2299966568",
+            "org": "Univ. da Coruna, Facultade de Informatica"
+        },
+        {
+            "name": "Gonzalo Navarro",
+            "id": "2133226413",
+            "org": "Univ. de Chile, Blanco Encalada"
+        },
+        {
+            "name": "Maria F. Esteller",
+            "id": "2158742090",
+            "org": "Univ. da Coruna, Facultade de Informatica"
+        }
+    ],
+    "fields_of_study": [
+        "Shannon-Fano coding",
+        "Prefix code",
+        "Canonical Huffman code",
+        "Constant-weight code",
+        "Huffman coding",
+        "Modified Huffman coding",
+        "Self-synchronizing code",
+        "Theoretical computer science",
+        "Systematic code",
+        "Computer science"
+    ],
+    "references": [
+        "230099169",
+        "1499930986",
+        "1522061241",
+        "1529205966",
+        "1546738280",
+        "1594336245",
+        "1660390307",
+        "2013849299",
+        "2019848184",
+        "2036407715",
+        "2038807029",
+        "2107745473",
+        "2108189215",
+        "2122962290",
+        "2135494327"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1535072080",
+    "title": "Real World Patterns of Failure in Anonymity Systems",
+    "venue": "information hiding",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Richard Clayton",
+            "id": "2234331943",
+            "org": "University of Cambridge"
+        },
+        {
+            "name": "George Danezis",
+            "id": "22890495",
+            "org": "University of Cambridge"
+        },
+        {
+            "name": "Markus G. Kuhn",
+            "id": "2106108591",
+            "org": "University of Cambridge"
+        }
+    ],
+    "fields_of_study": [
+        "Anonymity",
+        "Social engineering (security)",
+        "Covert channel",
+        "Computer science",
+        "Pseudonymity",
+        "Encryption",
+        "Nothing",
+        "Distributed computing",
+        "Computer security",
+        "Internet privacy",
+        "Security policy",
+        "Brute-force attack"
+    ],
+    "references": [
+        "131462842",
+        "177131530",
+        "1559498407",
+        "1583455789",
+        "1882297107",
+        "2009172815",
+        "2103647628",
+        "2108668142",
+        "2149929743",
+        "2153289772",
+        "2341111334"
+    ]
+}

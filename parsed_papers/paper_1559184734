@@ -1,0 +1,31 @@
+{
+    "id": "1559184734",
+    "title": "Six Sigma and Business Process Management",
+    "venue": "business process management",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Sue Conger",
+            "id": "2241894076",
+            "org": "University of Dallas, Graduate School of Management"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Quality function deployment",
+        "Control chart",
+        "Process management",
+        "Computer science",
+        "Business process",
+        "Six Sigma",
+        "Management information systems",
+        "Business process management"
+    ],
+    "references": [
+        "1508866000",
+        "1821879182",
+        "1834860308",
+        "2066194786",
+        "2119754628"
+    ]
+}

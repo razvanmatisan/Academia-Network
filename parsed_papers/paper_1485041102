@@ -1,0 +1,34 @@
+{
+    "id": "1485041102",
+    "title": "Linear time 1/2 -approximation algorithm for maximum weighted matching in general graphs",
+    "venue": "symposium on theoretical aspects of computer science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Robert Preis",
+            "id": "1181672754",
+            "org": "Universitat Paderborn, Paderborn, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Greedy algorithm",
+        "Approximation algorithm",
+        "Vertex (geometry)",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Time complexity",
+        "Hopcroft-Karp algorithm",
+        "Bipartite graph",
+        "Matching (graph theory)",
+        "Mathematics",
+        "3-dimensional matching"
+    ],
+    "references": [
+        "2003813631",
+        "2024106841",
+        "2030087828",
+        "2054420170",
+        "2091299439",
+        "2157529519"
+    ]
+}

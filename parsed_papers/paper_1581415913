@@ -1,0 +1,40 @@
+{
+    "id": "1581415913",
+    "title": "Scaling optimistic replication",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Marc Shapiro",
+            "id": "2274888956",
+            "org": "Microsoft Research, Cambridge, UK#TAB#"
+        },
+        {
+            "name": "Yasushi Saito",
+            "id": "2134735096",
+            "org": "Hewlett Packard Labs, Palo Alto#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Optimistic replication",
+        "Scalability",
+        "Scaling",
+        "Distributed computing",
+        "Denial-of-service attack",
+        "Real-time computing",
+        "Access network",
+        "Computer science",
+        "Consensus"
+    ],
+    "references": [
+        "1975637639",
+        "1984674591",
+        "1997369208",
+        "2001803004",
+        "2020299987",
+        "2085631457",
+        "2110765100",
+        "2111586962",
+        "2145388050"
+    ]
+}

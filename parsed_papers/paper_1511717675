@@ -1,0 +1,37 @@
+{
+    "id": "1511717675",
+    "title": "Parallel I/O in an Object-Oriented Message-Passing Library",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Simon Pinkenburg",
+            "id": "2645894669",
+            "org": "University of Tubingen"
+        },
+        {
+            "name": "Wolfgang Rosenstiel",
+            "id": "603833024",
+            "org": "University of Tubingen"
+        }
+    ],
+    "fields_of_study": [
+        "Data type",
+        "Input/output",
+        "Distributed computing",
+        "Parallel algorithm",
+        "Parallel computing",
+        "Message passing",
+        "Parallel I/O",
+        "Object-oriented programming",
+        "Standard Template Library",
+        "Message Passing Interface",
+        "Computer science"
+    ],
+    "references": [
+        "1581762248",
+        "2019498440",
+        "2104186814",
+        "2110298485"
+    ]
+}

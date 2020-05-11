@@ -1,0 +1,50 @@
+{
+    "id": "1592672177",
+    "title": "On Building Testable Software Components",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jerry Gao",
+            "id": "2194405339",
+            "org": "San Jose State University"
+        },
+        {
+            "name": "Kamal K. Gupta",
+            "id": "2014495598",
+            "org": "San Jose State University"
+        },
+        {
+            "name": "Shalini Gupta",
+            "id": "2430431177",
+            "org": "San Jose State University"
+        },
+        {
+            "name": "Simon S. Y. Shim",
+            "id": "2037789642",
+            "org": "San Jose State University"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Software Engineering Process Group",
+        "Resource-oriented architecture",
+        "Software design description",
+        "Software construction",
+        "Social software engineering",
+        "Distributed computing",
+        "Component-based software engineering",
+        "Operating system",
+        "Package development process",
+        "Software sizing",
+        "Computer science"
+    ],
+    "references": [
+        "1975620021",
+        "2024651886",
+        "2116008261",
+        "2146972408",
+        "2153701080",
+        "2171294645"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "120480712",
+    "title": "Behavioural Contracts for a Sound Assembly of Components",
+    "venue": "formal techniques for networked and distributed systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Cyril Carrez",
+            "id": "1976732642",
+            "org": "Ecole Nationale Superieure des Telecommunications"
+        },
+        {
+            "name": "Alessandro Fantechi",
+            "id": "203016618",
+            "org": "Universita di Firenze"
+        },
+        {
+            "name": "Alessandro Fantechi",
+            "id": "203016618",
+            "org": "Universita di Firenze"
+        },
+        {
+            "name": "Elie Najm",
+            "id": "1988585906",
+            "org": "Ecole Nationale Superieure des Telecommunications"
+        }
+    ],
+    "fields_of_study": [
+        "Peer-to-peer",
+        "Formal methods",
+        "Decidability",
+        "Client-server model",
+        "Distributed computing",
+        "Abstract interpretation",
+        "Computer science",
+        "Component-based software engineering",
+        "Deadlock",
+        "Real-time computing",
+        "Software development"
+    ],
+    "references": [
+        "1502451640",
+        "1556566737",
+        "1572319298",
+        "2004048608",
+        "2042360145",
+        "2065772939",
+        "2166944884",
+        "2293287097"
+    ]
+}

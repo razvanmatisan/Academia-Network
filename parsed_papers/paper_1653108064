@@ -1,0 +1,38 @@
+{
+    "id": "1653108064",
+    "title": "Some Further Approximation Algorithms for the Vertex Cover Problem",
+    "venue": "colloquium on trees in algebra and programming",
+    "year": 1983,
+    "authors": [
+        {
+            "name": "Burkhard Monien",
+            "id": "2145586035",
+            "org": "University of Paderborn"
+        },
+        {
+            "name": "Ewald Speckenmeyer",
+            "id": "205210985",
+            "org": "University of Paderborn"
+        }
+    ],
+    "fields_of_study": [
+        "Approximation algorithm",
+        "Feedback vertex set",
+        "Combinatorics",
+        "Bipartite graph",
+        "Regular graph",
+        "Edge cover",
+        "Vertex cover",
+        "Mathematics",
+        "Vertex (graph theory)",
+        "Neighbourhood (graph theory)"
+    ],
+    "references": [
+        "146202307",
+        "2000419386",
+        "2013415302",
+        "2064600658",
+        "2077783414",
+        "2157529519"
+    ]
+}

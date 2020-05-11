@@ -1,0 +1,35 @@
+{
+    "id": "1521679227",
+    "title": "Geospatial Mediator Functions and Container-Based Fast Transfer Interface in Si3CO Test-Bed",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Shigeru Shimada",
+            "id": "2108839922",
+            "org": "Hitachi, Ltd."
+        },
+        {
+            "name": "Hiromichi Fukui",
+            "id": "2608280210",
+            "org": "Keio University"
+        }
+    ],
+    "fields_of_study": [
+        "Interoperability",
+        "Spatial data infrastructure",
+        "Common Object Request Broker Architecture",
+        "Geographic information system",
+        "GSM",
+        "Database",
+        "Spatial database",
+        "Spatial analysis",
+        "Geospatial analysis",
+        "Computer science"
+    ],
+    "references": [
+        "1528249715",
+        "1638026557",
+        "2091561219"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1517149666",
+    "title": "Spatiotemporally Adaptive Estimation and Segmenation of OF-Fields",
+    "venue": "european conference on computer vision",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Hans-Hellmut Nagel",
+            "id": "2069436553",
+            "org": "Fakultat fur Informatik der Universitat Karlsruhe (TH)"
+        },
+        {
+            "name": "Hans-Hellmut Nagel",
+            "id": "2069436553",
+            "org": "Fakultat fur Informatik der Universitat Karlsruhe (TH)"
+        },
+        {
+            "name": "A. Gehrke",
+            "id": "2172469092",
+            "org": "Fakultat fur Informatik der Universitat Karlsruhe (TH)"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Image segmentation",
+        "Computer science",
+        "Artificial intelligence",
+        "Structure tensor",
+        "Signal processing",
+        "Finite impulse response",
+        "Image processing",
+        "Optical flow"
+    ],
+    "references": [
+        "334615284",
+        "1498979113",
+        "1509918867",
+        "1546934144",
+        "1638057594",
+        "1903168064",
+        "1970269179",
+        "2078085827",
+        "2102116384",
+        "2146203184",
+        "2150441572"
+    ]
+}

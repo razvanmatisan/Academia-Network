@@ -1,0 +1,30 @@
+{
+    "id": "1485748108",
+    "title": "Mobile Security - An Overview of GSM, SAT and WAP",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Malte Borcherding",
+            "id": "2685322760",
+            "org": "BROKAT Infosystems AG"
+        }
+    ],
+    "fields_of_study": [
+        "Unstructured Supplementary Service Data",
+        "Mobile telephony",
+        "Wireless Application Protocol",
+        "Distributed computing",
+        "GSM",
+        "Security service",
+        "Computer network",
+        "Cellular network",
+        "Computer security",
+        "Cloud computing security",
+        "SIM Application Toolkit",
+        "Computer science"
+    ],
+    "references": [
+        "1554090281"
+    ]
+}

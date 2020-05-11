@@ -1,0 +1,37 @@
+{
+    "id": "1769772704",
+    "title": "A novel feature selection method to improve classification of gene expression data",
+    "venue": "asia pacific bioinformatics conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Liang Goh",
+            "id": "2304601211",
+            "org": "Auckland University of Technology, Auckland, New Zealand#TAB#"
+        },
+        {
+            "name": "Qun Song",
+            "id": "2106242604",
+            "org": "Auckland University of Technology, Auckland, New Zealand#TAB#"
+        },
+        {
+            "name": "Nikola Kasabov",
+            "id": "720605457",
+            "org": "Auckland University of Technology, Auckland, New Zealand#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Discriminative model",
+        "Correlation coefficient",
+        "Signal-to-noise ratio",
+        "Evolving classification function",
+        "Feature selection",
+        "Linear classifier",
+        "Pearson product-moment correlation coefficient",
+        "Artificial intelligence",
+        "Mathematics",
+        "Pattern recognition"
+    ],
+    "references": []
+}

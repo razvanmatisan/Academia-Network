@@ -1,0 +1,36 @@
+{
+    "id": "1501424052",
+    "title": "A Rough Set Approach to Estimating the Game Value and the Shapley Value from Data",
+    "venue": "Fundamenta Informaticae",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Lech Polkowski",
+            "id": "1965505619",
+            "org": "Polish-Japanese Institute of Information Technology, Koszykowa 86, 02-008 Warsaw, Poland#TAB#"
+        },
+        {
+            "name": "Boleslaw Araszkiewicz",
+            "id": "1995796808",
+            "org": "Department of Mathematics and Computer Science, University Warmia and Mazury, Zolnierska 14a, 10-650 Olsztyn, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical economics",
+        "Shapley-Shubik power index",
+        "Discrete mathematics",
+        "Fuzzy set",
+        "Stochastic game",
+        "Mathematics",
+        "Shapley value",
+        "Example of a game without a value",
+        "Bondareva-Shapley theorem",
+        "Disjoint sets",
+        "Rough set"
+    ],
+    "references": [
+        "1995088126",
+        "2007602094",
+        "2340020088"
+    ]
+}

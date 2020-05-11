@@ -1,0 +1,49 @@
+{
+    "id": "113012438",
+    "title": "Solving Semantic Conflicts in Audience Driven Web Design.",
+    "venue": "ICWI",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Olga De Troyer",
+            "id": "685300706",
+            "org": "Vrije Universiteit Brussel"
+        },
+        {
+            "name": "Peter Plessers",
+            "id": "1225923034",
+            "org": "Vrije Universiteit Brussel"
+        },
+        {
+            "name": "Sven Casteleyn",
+            "id": "2161364025",
+            "org": "Vrije Universiteit Brussel"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Web standards",
+        "Social Semantic Web",
+        "Web modeling",
+        "Semantic Web",
+        "Semantic Web Stack",
+        "Semantic analytics",
+        "Conceptual schema",
+        "Web design",
+        "Computer science",
+        "Knowledge management"
+    ],
+    "references": [
+        "16734514",
+        "133597184",
+        "1511193185",
+        "1532012722",
+        "1600475986",
+        "1905489744",
+        "1972241288",
+        "2089634871",
+        "2093273229",
+        "2125727499",
+        "2154600859"
+    ]
+}

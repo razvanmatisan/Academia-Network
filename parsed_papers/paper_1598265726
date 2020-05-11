@@ -1,0 +1,35 @@
+{
+    "id": "1598265726",
+    "title": "Gait control for biped robot using fuzzy wavelet neural network",
+    "venue": "computational intelligence and security",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Pengfei Liu",
+            "id": "2682253818",
+            "org": "School of Electronics and Information Engineering, Xi'an Jiaotong University, Xi'an, China#TAB#"
+        },
+        {
+            "name": "Jiuqiang Han",
+            "id": "2652450168",
+            "org": "School of Electronics and Information Engineering, Xi'an Jiaotong University, Xi'an, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Iterative method",
+        "Computer science",
+        "Kinematics",
+        "Artificial neural network",
+        "Wavelet",
+        "Inverse kinematics",
+        "Gait",
+        "Backpropagation",
+        "Control theory",
+        "Control theory"
+    ],
+    "references": [
+        "1639534865",
+        "2109616287",
+        "2142992961"
+    ]
+}

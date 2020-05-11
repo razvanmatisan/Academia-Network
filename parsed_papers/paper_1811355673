@@ -1,0 +1,55 @@
+{
+    "id": "1811355673",
+    "title": "A Practical Implementation of the Timing Attack",
+    "venue": "smart card research and advanced application conference",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Jean-Francois Dhem",
+            "id": "2005999744",
+            "org": "Belgacom Multimedia & Infohighways"
+        },
+        {
+            "name": "Francois Koeune",
+            "id": "165547707",
+            "org": "Universite catholique de Louvain, UCL Crypto Group"
+        },
+        {
+            "name": "Philippe-Alexandre Leroux",
+            "id": "2140654754",
+            "org": "Universite catholique de Louvain, UCL Crypto Group"
+        },
+        {
+            "name": "Patrick Mestre",
+            "id": "1965866739",
+            "org": "Europay International"
+        },
+        {
+            "name": "Jean-Jacques Quisquater",
+            "id": "2195205560",
+            "org": "Universite catholique de Louvain, UCL Crypto Group"
+        },
+        {
+            "name": "Jean-Louis Willems",
+            "id": "2287341666",
+            "org": "Universite catholique de Louvain, UCL Crypto Group"
+        }
+    ],
+    "fields_of_study": [
+        "Smart card",
+        "Computer security",
+        "Side channel attack",
+        "Real-time computing",
+        "Pre-play attack",
+        "Computer science",
+        "Key (lock)",
+        "Power analysis",
+        "Timing attack",
+        "Cryptography",
+        "Cryptosystem"
+    ],
+    "references": [
+        "1613874182",
+        "1996360405"
+    ]
+}

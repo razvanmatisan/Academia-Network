@@ -1,0 +1,31 @@
+{
+    "id": "100302744",
+    "title": "Knowledge for Everyman - (Extended Abstract).",
+    "venue": "text, speech and dialogue",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Christiane Fellbaum",
+            "id": "2156989404",
+            "org": "Department of Computer Science|Princeton University"
+        }
+    ],
+    "fields_of_study": [
+        "Speech recognition",
+        "Computer science",
+        "Knowledge-based systems",
+        "Ontology",
+        "Formal ontology",
+        "Knowledge representation and reasoning",
+        "Terminology",
+        "Ontology (information science)",
+        "Knowledge sharing",
+        "European union"
+    ],
+    "references": [
+        "34597663",
+        "139463814",
+        "176793112",
+        "1507927101"
+    ]
+}

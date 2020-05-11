@@ -1,0 +1,36 @@
+{
+    "id": "1557139455",
+    "title": "Program Extraction in a Logical Framework Setting",
+    "venue": "international conference on logic programming",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Penny Anderson",
+            "id": "2281655468",
+            "org": "Unite de Recherche de Sophia-Antipolis, INRIA, Sophia-Antipolis Cedex, France"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical proof",
+        "Correctness",
+        "Algorithm",
+        "Natural deduction",
+        "Logical data model",
+        "Logical framework",
+        "Computer science",
+        "Logic programming",
+        "Realizability",
+        "Logical schema"
+    ],
+    "references": [
+        "183886856",
+        "1537698905",
+        "1556867883",
+        "1574609182",
+        "1657888366",
+        "1974190112",
+        "2076819871",
+        "2118032087",
+        "2128057448"
+    ]
+}

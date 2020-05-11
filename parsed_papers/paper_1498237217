@@ -1,0 +1,33 @@
+{
+    "id": "1498237217",
+    "title": "Safe Learning: bridging the gap between Bayes, MDL and statistical learning theory via empirical convexity",
+    "venue": "conference on learning theory",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Peter Grunwald",
+            "id": "670306551",
+            "org": "Centrum Wiskunde & Informatica"
+        }
+    ],
+    "fields_of_study": [
+        "Statistics",
+        "Machine learning",
+        "Artificial intelligence",
+        "Regression analysis",
+        "Statistical learning theory",
+        "Bayes' theorem",
+        "Estimator",
+        "Minimum description length",
+        "Bridging (networking)",
+        "Convexity",
+        "Bayesian probability",
+        "Mathematics"
+    ],
+    "references": [
+        "1628829797",
+        "2007853342",
+        "2078458772",
+        "2095734615"
+    ]
+}

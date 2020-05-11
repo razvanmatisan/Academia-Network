@@ -1,0 +1,32 @@
+{
+    "id": "1584834954",
+    "title": "An Evolutionary Algorithm for Integer Programming",
+    "venue": "parallel problem solving from nature",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Gunter Rudolph",
+            "id": "2528071304",
+            "org": "Informatik Centrum Dortmund e.V."
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Mathematical optimization",
+        "Genetic algorithm",
+        "Evolutionary algorithm",
+        "Integer programming",
+        "Evolutionary programming",
+        "Population-based incremental learning",
+        "Computer science",
+        "Cultural algorithm",
+        "Search algorithm",
+        "Evolution strategy"
+    ],
+    "references": [
+        "1639032689",
+        "2020009149",
+        "2294604761"
+    ]
+}

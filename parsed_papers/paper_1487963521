@@ -1,0 +1,36 @@
+{
+    "id": "1487963521",
+    "title": "Integrating Structured and Formal Methods: A Visual Approach to VDM",
+    "venue": "european software engineering conference",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Jeremy Dick",
+            "id": "2714099063",
+            "org": "Bull Corporate Research Centre"
+        },
+        {
+            "name": "Jerome Loubersac",
+            "id": "1994743879",
+            "org": "Bull Corporate Research Centre"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Formal methods",
+        "Refinement",
+        "Formal specification",
+        "Entity-relationship model",
+        "Mathematical notation",
+        "Formal verification",
+        "Visual approach",
+        "Computer science"
+    ],
+    "references": [
+        "1794938916",
+        "1970495662",
+        "2037311059",
+        "2069179841",
+        "2099529102"
+    ]
+}

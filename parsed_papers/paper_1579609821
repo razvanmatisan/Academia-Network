@@ -1,0 +1,39 @@
+{
+    "id": "1579609821",
+    "title": "Multiscale Image Representation and Edge Detection",
+    "venue": "asian conference on computer vision",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Fang Chen",
+            "id": "2208282266",
+            "org": "Monash University"
+        },
+        {
+            "name": "David Suter",
+            "id": "1998852580",
+            "org": "Monash University"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Artificial intelligence",
+        "Image restoration",
+        "Mathematical optimization",
+        "Kernel (image processing)",
+        "Image processing",
+        "Free boundary condition",
+        "Smoothing",
+        "Convolution",
+        "Scale space",
+        "Mathematics",
+        "Edge detection"
+    ],
+    "references": [
+        "1522852381",
+        "2020999234",
+        "2022140147",
+        "2139762693",
+        "2150629612"
+    ]
+}

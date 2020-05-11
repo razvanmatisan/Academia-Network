@@ -1,0 +1,34 @@
+{
+    "id": "1279312",
+    "title": "Bayes-optimal reinforcement learning for discrete uncertainty domains",
+    "venue": "adaptive agents and multi agents systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Emma Brunskill",
+            "id": "1800007723",
+            "org": "Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Q-learning",
+        "Artificial intelligence",
+        "Machine learning",
+        "Reinforcement learning",
+        "Markov decision process",
+        "Probably approximately correct learning",
+        "Computer science",
+        "Subclass",
+        "Bayes' theorem",
+        "Finite set"
+    ],
+    "references": [
+        "1505937442",
+        "1596778849",
+        "2111833414",
+        "2116459397",
+        "2124352385",
+        "2125710232",
+        "2489939061"
+    ]
+}

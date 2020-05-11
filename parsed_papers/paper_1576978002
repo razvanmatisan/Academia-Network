@@ -1,0 +1,35 @@
+{
+    "id": "1576978002",
+    "title": "Impact of Mixed Metrics on Clustering",
+    "venue": "iberoamerican congress on pattern recognition",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Karina Gibert",
+            "id": "199435517",
+            "org": "Universitat Politecnica de Catalunya"
+        },
+        {
+            "name": "Ramon Nonell",
+            "id": "2256438704",
+            "org": "Universitat Politecnica de Catalunya"
+        }
+    ],
+    "fields_of_study": [
+        "Speech processing",
+        "Pattern recognition",
+        "Cluster analysis",
+        "Image processing",
+        "Machine learning",
+        "Fuzzy clustering",
+        "Numerical analysis",
+        "Computer science",
+        "Artificial intelligence",
+        "Symbolic computation"
+    ],
+    "references": [
+        "1983113859",
+        "2034024435",
+        "2066335404"
+    ]
+}

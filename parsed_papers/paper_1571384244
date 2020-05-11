@@ -1,0 +1,35 @@
+{
+    "id": "1571384244",
+    "title": "Formal Specifications, Prototyping and Integration Tests",
+    "venue": "european software engineering conference",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Christine Choppy",
+            "id": "2486781120",
+            "org": "Univ. Paris-Sud, Orsay, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Formal methods",
+        "Language Of Temporal Ordering Specification",
+        "Theoretical computer science",
+        "Modular design",
+        "Formal specification",
+        "Specification language",
+        "Computer architecture",
+        "Integration testing",
+        "Programming language specification",
+        "Computer science",
+        "Design by contract"
+    ],
+    "references": [
+        "1501405214",
+        "1503228020",
+        "1511970382",
+        "1593511312",
+        "2007975299",
+        "2018227989",
+        "2168468191"
+    ]
+}

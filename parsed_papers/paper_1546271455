@@ -1,0 +1,47 @@
+{
+    "id": "1546271455",
+    "title": "Guaranteed 3.67V Bit Encoding of Planar Triangle Graphs",
+    "venue": "canadian conference on computational geometry",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Davis King",
+            "id": "2167258526",
+            "org": "Georgia Institute of Technology"
+        },
+        {
+            "name": "Jaroslaw R. Rossignac",
+            "id": "1995674836",
+            "org": "Georgia Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Triangle mesh",
+        "Combinatorics",
+        "Computer science",
+        "Discrete mathematics",
+        "Outerplanar graph",
+        "Planar straight-line graph",
+        "Book embedding",
+        "Triangle graph",
+        "Planar graph",
+        "Butterfly graph",
+        "Ideal triangle"
+    ],
+    "references": [
+        "43719964",
+        "1541569805",
+        "1590549688",
+        "1628980403",
+        "1976373652",
+        "1983943307",
+        "1989001601",
+        "2006714486",
+        "2010356699",
+        "2042049682",
+        "2061812658",
+        "2116365500",
+        "2238788188",
+        "2293404936"
+    ]
+}

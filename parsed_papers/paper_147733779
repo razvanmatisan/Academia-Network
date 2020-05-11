@@ -1,0 +1,41 @@
+{
+    "id": "147733779",
+    "title": "Extending SQL for Decision Support Applications.",
+    "venue": "DMDW",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Haixun Wang",
+            "id": "2777339002",
+            "org": "IBM"
+        },
+        {
+            "name": "Carlo Zaniolo",
+            "id": "2028117853",
+            "org": "University of California, Los Angeles"
+        }
+    ],
+    "fields_of_study": [
+        "Systems design",
+        "Data structure",
+        "Decision support system",
+        "Business Intelligence Markup Language",
+        "Procedural programming",
+        "SQL",
+        "Data mining",
+        "Query by Example",
+        "Association rule learning",
+        "Computer science"
+    ],
+    "references": [
+        "1480446764",
+        "1515560342",
+        "1528454277",
+        "1539916429",
+        "1548053241",
+        "2064803206",
+        "2102727638",
+        "2132520482",
+        "2296677182"
+    ]
+}

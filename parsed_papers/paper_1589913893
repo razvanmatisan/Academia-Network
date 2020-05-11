@@ -1,0 +1,48 @@
+{
+    "id": "1589913893",
+    "title": "Detecting and Evading Wormholes in Mobile Ad-hoc Wireless Networks",
+    "venue": "International Journal of Network Security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Asad Amir Pirzada",
+            "id": "2051452799",
+            "org": "School of Computer Science and Software Engineering"
+        },
+        {
+            "name": "Chris McDonald",
+            "id": "2120455225",
+            "org": "School of Computer Science and Software Engineering"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "Wireless mesh network",
+        "Wireless network",
+        "Node (networking)",
+        "Routing protocol",
+        "Wireless ad hoc network",
+        "Computer security",
+        "Network packet",
+        "Compromise",
+        "Computer science",
+        "Key distribution in wireless sensor networks"
+    ],
+    "references": [
+        "1501004420",
+        "1530392688",
+        "1583345160",
+        "1591335953",
+        "2036358294",
+        "2067514565",
+        "2127699957",
+        "2133794215",
+        "2135057483",
+        "2148929515",
+        "2150298753",
+        "2151993488",
+        "2164489551",
+        "2167930752",
+        "2172085742"
+    ]
+}

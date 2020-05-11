@@ -1,0 +1,43 @@
+{
+    "id": "1540914750",
+    "title": "Verbalization of business rules: Application to OCL constraints in the utility domain",
+    "venue": "international conference on model-driven engineering and software development",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Rayhana Bouali Baghli",
+            "id": "2223037722",
+            "org": "PRiSM, University of Versailles Saint-Quentin-en-Yvelines, France"
+        },
+        {
+            "name": "Bruno Traverson",
+            "id": "2804160829",
+            "org": "PRiSM, University of Versailles Saint-Quentin-en-Yvelines, France"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics of Business Vocabulary and Business Rules",
+        "Management science",
+        "Systems engineering",
+        "Object Constraint Language",
+        "Business domain",
+        "Computer science",
+        "Business architecture",
+        "Business Process Model and Notation",
+        "Business process modeling",
+        "Natural language processing",
+        "Artifact-centric business process model",
+        "Business rule",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "36157791",
+        "64653528",
+        "287639910",
+        "1604248556",
+        "2009788656",
+        "2114729606",
+        "2171465923",
+        "2621104972"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "1512587305",
+    "title": "Communication Contexts: a Pragmatic Approach to Information Exchange",
+    "venue": "types for proofs and programs",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Rene M. C. Ahn",
+            "id": "2699651933",
+            "org": "Tilburg University"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge transfer",
+        "Formalism (philosophy)",
+        "Information exchange",
+        "Type theory",
+        "Natural language",
+        "Natural language processing",
+        "Presupposition",
+        "Common knowledge",
+        "Computer science",
+        "Cognition",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1605950165",
+        "2160715741"
+    ]
+}

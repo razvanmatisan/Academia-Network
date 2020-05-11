@@ -1,0 +1,35 @@
+{
+    "id": "1544185873",
+    "title": "The Elegant Compiler Generator System",
+    "venue": "WAGA Proceedings of the international conference on Attribute grammars and their applications",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Lex Augusteijn",
+            "id": "1256132450",
+            "org": "Philips Research Laboratories Prof. Holstlaan"
+        }
+    ],
+    "fields_of_study": [
+        "Parsing",
+        "Compiler construction",
+        "Strict programming language",
+        "Functional compiler",
+        "Compiler-compiler",
+        "Compiler correctness",
+        "Programming language",
+        "Compiler",
+        "Attribute grammar",
+        "Theoretical computer science",
+        "Computer science"
+    ],
+    "references": [
+        "1491178396",
+        "1510094545",
+        "1532964026",
+        "1964071625",
+        "2004155726",
+        "2072798777",
+        "2149066449"
+    ]
+}

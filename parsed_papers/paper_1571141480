@@ -1,0 +1,35 @@
+{
+    "id": "1571141480",
+    "title": "Event Spaces and their Linear Logic",
+    "venue": "algebraic methodology and software technology",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Vaughan R. Pratt",
+            "id": "2120476038",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "Boolean algebra",
+        "Tensor",
+        "Direct sum",
+        "Partially ordered set",
+        "Algorithm",
+        "Computer science",
+        "Direct product",
+        "Linear logic",
+        "Vector space",
+        "Tensor product"
+    ],
+    "references": [
+        "84232747",
+        "1546749986",
+        "1991052229",
+        "1993205599",
+        "2150320481",
+        "2439559863"
+    ]
+}

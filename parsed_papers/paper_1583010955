@@ -1,0 +1,41 @@
+{
+    "id": "1583010955",
+    "title": "Leveraging GIS Technologies for Web-Based Smart Places Services",
+    "venue": "software technologies for embedded and ubiquitous systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Cristiano di Flora",
+            "id": "1965472871",
+            "org": "Office of the CTO, Nokia, Finland#TAB#"
+        },
+        {
+            "name": "Christian Prehofer",
+            "id": "2779286704",
+            "org": "Office of the CTO, Nokia, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Geographic information system",
+        "Simulation",
+        "Location-based service",
+        "Representational state transfer",
+        "Commodity",
+        "Distributed computing",
+        "Distributed GIS",
+        "Mashup",
+        "Web application",
+        "Computer science",
+        "Software"
+    ],
+    "references": [
+        "1597296818",
+        "1992665345",
+        "1998550207",
+        "2084453634",
+        "2139202198",
+        "2142136129",
+        "2163167025"
+    ]
+}

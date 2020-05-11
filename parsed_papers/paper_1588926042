@@ -1,0 +1,42 @@
+{
+    "id": "1588926042",
+    "title": "Reasoning in Interval Temporal Logic",
+    "venue": "Proceedings of the Carnegie Mellon Workshop on Logic of Programs",
+    "year": 1983,
+    "authors": [
+        {
+            "name": "Ben Maszkowski",
+            "id": "2509450762",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Zohar Manna",
+            "id": "2146370811",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Zohar Manna",
+            "id": "2146370811",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Interval temporal logic",
+        "Horn clause",
+        "Predicate variable",
+        "Description logic",
+        "Dynamic logic (modal logic)",
+        "Predicate functor logic",
+        "Algorithm",
+        "Theoretical computer science",
+        "Logic programming",
+        "Computer science",
+        "Higher-order logic"
+    ],
+    "references": [
+        "2022667180",
+        "2061121751",
+        "2093541252",
+        "2103976539"
+    ]
+}

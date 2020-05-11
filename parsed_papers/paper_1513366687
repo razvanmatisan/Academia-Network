@@ -1,0 +1,32 @@
+{
+    "id": "1513366687",
+    "title": "ChiMerge: discretization of numeric attributes",
+    "venue": "national conference on artificial intelligence",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Randy Kerber",
+            "id": "2144705180",
+            "org": "Lockheed Artificial Intelligence Center, Palo Alto, California#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Statistical classification",
+        "Training set",
+        "Mathematical optimization",
+        "Artificial intelligence",
+        "Discretization of continuous features",
+        "Machine learning",
+        "Discretization",
+        "Statistic",
+        "Computer science",
+        "Data mining"
+    ],
+    "references": [
+        "1527189973",
+        "1530756812",
+        "1597910678",
+        "2020546735",
+        "2149706766"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1600835600",
+    "title": "Non-controllable Choice Robustness Expressing the Controllability of Workflow Processes",
+    "venue": "applications and theory of petri nets",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Juliane Dehnert",
+            "id": "1965115577",
+            "org": "Technical University Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Correctness",
+        "Robustness (computer science)",
+        "Information system",
+        "Game theory",
+        "Computer science",
+        "Controllability",
+        "Workflow",
+        "Denial-of-service attack",
+        "Petri net"
+    ],
+    "references": [
+        "1481109946",
+        "1509607930",
+        "1532777614",
+        "1569051713",
+        "1574901384",
+        "1787000688",
+        "1971138850",
+        "2016206563",
+        "2129466958",
+        "2162868766"
+    ]
+}

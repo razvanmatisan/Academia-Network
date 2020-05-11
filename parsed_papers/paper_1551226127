@@ -1,0 +1,35 @@
+{
+    "id": "1551226127",
+    "title": "Regular Tree Language Recognition with Static Information",
+    "venue": "IFIP TCS",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Alain Frisch",
+            "id": "2309818493",
+            "org": "Ecole Normale Superieure"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern matching",
+        "CDuce",
+        "Order statistic tree",
+        "Theoretical computer science",
+        "K-ary tree",
+        "Regular tree grammar",
+        "Compiler",
+        "Tree automaton",
+        "Programming language",
+        "Mathematics",
+        "Segment tree"
+    ],
+    "references": [
+        "1540080689",
+        "1573426382",
+        "2070386554",
+        "2075994573",
+        "2083270921",
+        "2172255090",
+        "2295020882"
+    ]
+}

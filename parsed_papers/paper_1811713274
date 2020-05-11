@@ -1,0 +1,49 @@
+{
+    "id": "1811713274",
+    "title": "Trusted Computing Serving an Anonymity Service",
+    "venue": "trust and trustworthy computing",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Alexander Bottcher",
+            "id": "2098925191",
+            "org": "Department of Computer Science Operating Systems Group, Technische Universitat Dresden, Dresden, Germany 01062#TAB#"
+        },
+        {
+            "name": "Bernhard Kauer",
+            "id": "408402958",
+            "org": "Department of Computer Science Operating Systems Group, Technische Universitat Dresden, Dresden, Germany 01062#TAB#"
+        },
+        {
+            "name": "Hermann Hartig",
+            "id": "2128619729",
+            "org": "Department of Computer Science Operating Systems Group, Technische Universitat Dresden, Dresden, Germany 01062#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Internet privacy",
+        "Trusted Platform Module",
+        "Trusted Computing",
+        "Computer security",
+        "Architecture",
+        "Trusted client",
+        "Trusted service manager",
+        "Trusted computing base",
+        "Trusted Network Connect",
+        "Computer science",
+        "Direct Anonymous Attestation"
+    ],
+    "references": [
+        "1504669610",
+        "1748095088",
+        "2067580212",
+        "2092423386",
+        "2100240158",
+        "2103647628",
+        "2111015674",
+        "2135228299",
+        "2143271798",
+        "2147448476",
+        "2341111334"
+    ]
+}

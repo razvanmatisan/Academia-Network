@@ -1,0 +1,30 @@
+{
+    "id": "1519687682",
+    "title": "A Simple active attack against TCP",
+    "venue": "usenix security symposium",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Laurent Joncheray",
+            "id": "2712351589",
+            "org": "Merit Network, Inc., Ann Arbor, MI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer security",
+        "Internet privacy",
+        "TCP delayed acknowledgment",
+        "TCP global synchronization",
+        "TCP sequence prediction attack",
+        "Compound TCP",
+        "Zeta-TCP",
+        "TCP tuning",
+        "TCP acceleration",
+        "Computer science",
+        "Computer network",
+        "TCP hole punching"
+    ],
+    "references": [
+        "2146749986"
+    ]
+}

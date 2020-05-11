@@ -1,0 +1,49 @@
+{
+    "id": "1522356322",
+    "title": "Tackling Multiple-Instance Problems in Safety-Related Domains by Quasilinear SVM",
+    "venue": "soft methods in probability and statistics",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Christian Moewes",
+            "id": "1232417617",
+            "org": "University of Magdeburg"
+        },
+        {
+            "name": "Clemens Otte",
+            "id": "2120960115",
+            "org": "Corporate Technology"
+        },
+        {
+            "name": "Rudolf Kruse",
+            "id": "2148268392",
+            "org": "University of Magdeburg"
+        }
+    ],
+    "fields_of_study": [
+        "Support vector machine",
+        "Fuzzy rule",
+        "Instance-based learning",
+        "Training set",
+        "Hyperplane",
+        "Classifier (linguistics)",
+        "Machine learning",
+        "Computer science",
+        "Preprocessor",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1540386283",
+        "1554039773",
+        "1560724230",
+        "1588997519",
+        "2049487457",
+        "2108745803",
+        "2110119381",
+        "2136595724",
+        "2152195571",
+        "2154318594",
+        "2167257481"
+    ]
+}

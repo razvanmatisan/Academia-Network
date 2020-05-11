@@ -1,0 +1,44 @@
+{
+    "id": "1569234345",
+    "title": "Datarol-II: A Fine-Grain Massively Parallel Architecture",
+    "venue": "international conference on parallel architectures and languages europe",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Tetsuo Kawano",
+            "id": "2086863114",
+            "org": "Kyushu University"
+        },
+        {
+            "name": "Shigeru Kusakabe",
+            "id": "2040413981",
+            "org": "Kyushu University"
+        },
+        {
+            "name": "Rin-ichiro Taniguchi",
+            "id": "2069950536",
+            "org": "Kyushu University"
+        },
+        {
+            "name": "Makoto Amamiya",
+            "id": "2781462903",
+            "org": "Kyushu University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Context switch",
+        "Remote memory",
+        "Architecture",
+        "Latency (engineering)",
+        "Massively parallel",
+        "Distributed computing",
+        "Uniform memory access",
+        "Cellular architecture",
+        "Computer science"
+    ],
+    "references": [
+        "1594992420",
+        "1796684637"
+    ]
+}

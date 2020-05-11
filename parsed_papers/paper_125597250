@@ -1,0 +1,38 @@
+{
+    "id": "125597250",
+    "title": "Hardware and software architectures for efficient AI",
+    "venue": "national conference on artificial intelligence",
+    "year": 1984,
+    "authors": [
+        {
+            "name": "Michael F. Deering",
+            "id": "2518447450",
+            "org": "Fairchild Laboratory for Artificial Intelligence Research, Fairchild Camera and Instrument Corporation, Palo Alto, California#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Very-large-scale integration",
+        "Semantics",
+        "Computer architecture",
+        "Massively parallel",
+        "Computer science",
+        "Throughput",
+        "Instruction set",
+        "Software architecture",
+        "Software",
+        "Computer hardware",
+        "Compiler"
+    ],
+    "references": [
+        "32598149",
+        "1559081609",
+        "1571035569",
+        "1741217175",
+        "1965205151",
+        "2017586706",
+        "2038453501",
+        "2069225252",
+        "2104880663",
+        "2220405703"
+    ]
+}

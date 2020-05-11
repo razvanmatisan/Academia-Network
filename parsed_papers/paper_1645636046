@@ -1,0 +1,35 @@
+{
+    "id": "1645636046",
+    "title": "A Multilateral Negotiation Model for Cloud Service Market",
+    "venue": "FGIT-GDC/CA",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Dongjin Yoo",
+            "id": "2680509164",
+            "org": "Gwangju Institute of Science and Technology (GIST)"
+        },
+        {
+            "name": "Kwang Mong Sim",
+            "id": "2069765801",
+            "org": "Gwangju Institute of Science and Technology (GIST)"
+        }
+    ],
+    "fields_of_study": [
+        "Service level objective",
+        "Commerce",
+        "Service level",
+        "Service design",
+        "Business",
+        "Service level requirement",
+        "Service delivery framework",
+        "Services marketing",
+        "Marketing",
+        "Service-level agreement",
+        "Cloud computing"
+    ],
+    "references": [
+        "1481723547",
+        "2104108578"
+    ]
+}

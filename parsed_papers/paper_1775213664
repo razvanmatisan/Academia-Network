@@ -1,0 +1,37 @@
+{
+    "id": "1775213664",
+    "title": "Robust Subgraphs for Trees and Paths",
+    "venue": "scandinavian workshop on algorithm theory",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Refael Hassin",
+            "id": "1967124110",
+            "org": "Tel-Aviv University"
+        },
+        {
+            "name": "Danny Segev",
+            "id": "2162002841",
+            "org": "Tel-Aviv University"
+        }
+    ],
+    "fields_of_study": [
+        "Complete graph",
+        "Plate notation",
+        "Reconstruction conjecture",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Induced subgraph isomorphism problem",
+        "Factor-critical graph",
+        "Subgraph isomorphism problem",
+        "Minimum degree spanning tree",
+        "Graph factorization",
+        "Mathematics"
+    ],
+    "references": [
+        "1505147267",
+        "1990605847",
+        "2036836182",
+        "2112638680"
+    ]
+}

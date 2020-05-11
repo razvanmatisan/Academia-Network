@@ -1,0 +1,40 @@
+{
+    "id": "1573688192",
+    "title": "A Calculus for Set-Based Program Development",
+    "venue": "international conference on formal engineering methods",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Georg Struth",
+            "id": "135621682",
+            "org": "Universitat Augsburg"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Boolean algebra",
+        "Formal methods",
+        "Lattice (order)",
+        "Calculus",
+        "Universal set",
+        "Distributive lattice",
+        "Boolean algebra (structure)",
+        "Formal verification",
+        "Algorithm",
+        "Distributive property",
+        "Mathematics"
+    ],
+    "references": [
+        "1495098237",
+        "1502169623",
+        "1514645981",
+        "1526639761",
+        "1532420827",
+        "1581520202",
+        "1594381772",
+        "1968724907",
+        "1998368317",
+        "2037085273",
+        "2083251422"
+    ]
+}

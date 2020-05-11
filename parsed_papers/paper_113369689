@@ -1,0 +1,34 @@
+{
+    "id": "113369689",
+    "title": "Multiple Landmark Warping Using Thin-Plate Splines",
+    "venue": "IPCV",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Mark Whitbeck",
+            "id": "2607410380",
+            "org": "Texas A&M University-Corpus Christi"
+        },
+        {
+            "name": "Hongyu Guo",
+            "id": "2583513555",
+            "org": "Texas A&M University-Corpus Christi"
+        }
+    ],
+    "fields_of_study": [
+        "Image warping",
+        "Deformation (mechanics)",
+        "QR decomposition",
+        "Thin plate spline",
+        "Spline (mathematics)",
+        "Computer vision",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1573041381",
+        "2006302620",
+        "2081171933",
+        "2128409098"
+    ]
+}

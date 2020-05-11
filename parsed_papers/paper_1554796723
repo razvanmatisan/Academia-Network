@@ -1,0 +1,39 @@
+{
+    "id": "1554796723",
+    "title": "Finding Similar Queries to Satisfy Searches Based on Query Traces",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Osmar R. Zaiane",
+            "id": "2308328903",
+            "org": "University of Alberta"
+        },
+        {
+            "name": "Alexander Strilets",
+            "id": "2279985500",
+            "org": "University of Alberta"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Web search query",
+        "Range query (database)",
+        "Query language",
+        "Data mining",
+        "Sargable",
+        "Search engine",
+        "Web query classification",
+        "Queries per second",
+        "Computer science",
+        "Spatial query"
+    ],
+    "references": [
+        "1998196377",
+        "2000145992",
+        "2029341294",
+        "2066636486",
+        "2098162425",
+        "2147152072"
+    ]
+}

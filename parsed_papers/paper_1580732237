@@ -1,0 +1,29 @@
+{
+    "id": "1580732237",
+    "title": "Three Complexity Problems in Quantified Fuzzy Logic",
+    "venue": "Studia Logica",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Franco Montagna",
+            "id": "48241669",
+            "org": "Dipartimento di Matematica, Siena,"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Predicate variable",
+        "Algorithm",
+        "Mathematics",
+        "Fuzzy logic",
+        "Dynamic logic (modal logic)",
+        "Functional predicate",
+        "Predicate logic",
+        "Predicate functor logic",
+        "Higher-order logic",
+        "Predicate (mathematical logic)"
+    ],
+    "references": [
+        "1504992749"
+    ]
+}

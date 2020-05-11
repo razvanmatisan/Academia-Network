@@ -1,0 +1,51 @@
+{
+    "id": "1503593745",
+    "title": "Controlled search over compact state representations, in nondeterministic planning domains and beyond",
+    "venue": "national conference on artificial intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ugur Kuter",
+            "id": "102822812",
+            "org": "University of Maryland, Department of Computer Science and Institute for Systems Research, College Park, Maryland#TAB#"
+        },
+        {
+            "name": "Dana S. Nau",
+            "id": "2054248234",
+            "org": "University of Maryland, Department of Computer Science and Institute for Systems Research, College Park, Maryland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Semantic Web",
+        "Computer science",
+        "Markov decision process",
+        "Hybrid system",
+        "Nondeterministic algorithm",
+        "Binary decision diagram",
+        "Theoretical computer science",
+        "Partially observable Markov decision process"
+    ],
+    "references": [
+        "198382039",
+        "1496114564",
+        "1542216742",
+        "1550351837",
+        "1563292958",
+        "1639370926",
+        "1880896921",
+        "1994451575",
+        "2030224590",
+        "2033697467",
+        "2061504687",
+        "2092104391",
+        "2099619710",
+        "2101508170",
+        "2121517924",
+        "2141088850",
+        "2147357263",
+        "2150272096",
+        "2165489953"
+    ]
+}

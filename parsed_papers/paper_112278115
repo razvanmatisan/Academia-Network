@@ -1,0 +1,31 @@
+{
+    "id": "112278115",
+    "title": "A parallel algorithm for statistical belief refinement and its use in causal reasoning",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Jay C. Weber",
+            "id": "2710338817",
+            "org": "Computer Science Department, University of Rochester, Rochester, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Iterative refinement",
+        "Machine learning",
+        "Statistical inference",
+        "Convergence (routing)",
+        "Parallel algorithm",
+        "Causal reasoning",
+        "Qualification problem",
+        "Theoretical computer science",
+        "Computer science",
+        "Heuristics"
+    ],
+    "references": [
+        "18962201",
+        "1579629257",
+        "2159080219"
+    ]
+}

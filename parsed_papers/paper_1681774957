@@ -1,0 +1,33 @@
+{
+    "id": "1681774957",
+    "title": "Bibliometrics and internet: Some observations and expectations",
+    "venue": "Scientometrics",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Anthony F. J. van Raan",
+            "id": "311907419",
+            "org": "Centre for Science and Technology Studies (CWTS), University of Leiden, Leiden, (The Netherlands)"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Data mining",
+        "Knowledge management",
+        "Electronic publishing",
+        "Bibliometrics",
+        "Multimedia",
+        "Webometrics",
+        "Reputation",
+        "Information technology",
+        "Information quality",
+        "Scientific communication",
+        "The Internet"
+    ],
+    "references": [
+        "2038383538",
+        "2117874942",
+        "2128191800",
+        "2143271598"
+    ]
+}

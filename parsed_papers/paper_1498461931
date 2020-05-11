@@ -1,0 +1,37 @@
+{
+    "id": "1498461931",
+    "title": "Composition of XML-Transformations",
+    "venue": "electronic commerce and web technologies",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Johann Eder",
+            "id": "1979563096",
+            "org": "University of Klagenfurt"
+        },
+        {
+            "name": "Walter Strametz",
+            "id": "2560747658",
+            "org": "University of Klagenfurt"
+        }
+    ],
+    "fields_of_study": [
+        "Streaming XML",
+        "Database",
+        "XML Encryption",
+        "Data mining",
+        "Computer science",
+        "XML schema",
+        "XSLT",
+        "Document Structure Description",
+        "XML Schema Editor",
+        "XML validation",
+        "Efficient XML Interchange"
+    ],
+    "references": [
+        "1995362929",
+        "1995520509",
+        "2022212056",
+        "2294792814"
+    ]
+}

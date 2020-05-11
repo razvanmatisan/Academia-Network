@@ -1,0 +1,32 @@
+{
+    "id": "1605060179",
+    "title": "Polynomial Time Inference of General Pattern Languages",
+    "venue": "symposium on theoretical aspects of computer science",
+    "year": 1984,
+    "authors": [
+        {
+            "name": "Klaus P. Jantke",
+            "id": "2670569080",
+            "org": "Humboldt University Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Time complexity",
+        "Combinatorics",
+        "Pseudo-polynomial time",
+        "Invariant polynomial",
+        "Symmetric polynomial",
+        "Reciprocal polynomial",
+        "Polynomial long division",
+        "Finite set",
+        "Disjoint sets",
+        "Mathematics"
+    ],
+    "references": [
+        "1505882215",
+        "1965415591",
+        "1993397507",
+        "2018365488"
+    ]
+}

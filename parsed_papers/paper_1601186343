@@ -1,0 +1,47 @@
+{
+    "id": "1601186343",
+    "title": "Resistance of SNOW 2.0 against algebraic attacks",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Olivier Billet",
+            "id": "1572106382",
+            "org": "France Telecom R&D, Issy les Moulineaux Cedex 9, France#TAB#"
+        },
+        {
+            "name": "Henri Gilbert",
+            "id": "2124974951",
+            "org": "France Telecom R&D, Issy les Moulineaux Cedex 9, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "NESSIE",
+        "Snow",
+        "Discrete mathematics",
+        "Permutation",
+        "Time complexity",
+        "Algebraic number",
+        "Distributed computing",
+        "Cryptanalysis",
+        "Cryptography",
+        "Theoretical computer science",
+        "Stream cipher",
+        "Mathematics"
+    ],
+    "references": [
+        "1699105",
+        "1531434127",
+        "1542020576",
+        "1556597491",
+        "1560023496",
+        "1588952639",
+        "1598162711",
+        "1628219518",
+        "1676521748",
+        "1822563368",
+        "2105451999",
+        "2115141985",
+        "2172632525"
+    ]
+}

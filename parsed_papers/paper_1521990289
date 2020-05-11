@@ -1,0 +1,35 @@
+{
+    "id": "1521990289",
+    "title": "Supporting Emergence in Spatial Reasoning With Shape Algebras and Formal Logic",
+    "venue": "conference on spatial information theory",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Scott C. Case",
+            "id": "2276591703",
+            "org": "Manufacturing Systems Integration Division National Institute of Standards and Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Predicate variable",
+        "First-order logic",
+        "Spatial relation",
+        "Knowledge representation and reasoning",
+        "Predicate logic",
+        "Predicate functor logic",
+        "Predicate (mathematical logic)",
+        "Higher-order logic",
+        "Mathematics"
+    ],
+    "references": [
+        "1525830615",
+        "1562735428",
+        "1582004301",
+        "1849252796",
+        "2005314985",
+        "2015020727",
+        "2015612071",
+        "2060498389"
+    ]
+}

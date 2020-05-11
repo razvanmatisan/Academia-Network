@@ -1,0 +1,57 @@
+{
+    "id": "132857504",
+    "title": "Anytime column search",
+    "venue": "australasian joint conference on artificial intelligence",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Satya Gautam Vadlamudi",
+            "id": "2305097864",
+            "org": "Indian Institute of Technology Kharagpur, Kharagpur, WB, India#TAB#"
+        },
+        {
+            "name": "Piyush Gaurav",
+            "id": "2490964783",
+            "org": "Indian Institute of Technology Kharagpur, Kharagpur, WB, India#TAB#"
+        },
+        {
+            "name": "Sandip Aine",
+            "id": "2009727126",
+            "org": "Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "P. P. Chakrabarti",
+            "id": "1995278183",
+            "org": "Indian Institute of Technology Kharagpur, Kharagpur, WB, India#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Heuristic",
+        "Incremental heuristic search",
+        "Beam search",
+        "Combinatorial search",
+        "Mathematical optimization",
+        "Local search (optimization)",
+        "Travelling salesman problem",
+        "Search algorithm",
+        "Beam stack search",
+        "Machine learning",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "58921990",
+        "104748494",
+        "1622225657",
+        "1745899943",
+        "1954286822",
+        "1968808691",
+        "1969483458",
+        "2144931885",
+        "2161076907",
+        "2163219683",
+        "2163428398",
+        "2167051442",
+        "2395259948"
+    ]
+}

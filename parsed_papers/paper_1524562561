@@ -1,0 +1,39 @@
+{
+    "id": "1524562561",
+    "title": "Evolutionary Design Space Exploration for Median Circuits",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Lukas Sekanina",
+            "id": "2052842927",
+            "org": "Faculty of Information Technology, Brno University of Technology, Brno, Czech Republic"
+        }
+    ],
+    "fields_of_study": [
+        "Implementation",
+        "Circuit design",
+        "Genetic algorithm",
+        "Electronic circuit",
+        "Design space exploration",
+        "Evolutionary algorithm",
+        "Distributed computing",
+        "Genetic programming",
+        "Mathematical optimization",
+        "Theoretical computer science",
+        "Computer science"
+    ],
+    "references": [
+        "1486894692",
+        "1493505562",
+        "1498570123",
+        "1514100736",
+        "1593397281",
+        "1775913388",
+        "1876468513",
+        "1991318915",
+        "2109437756",
+        "2124556181",
+        "2149362532"
+    ]
+}

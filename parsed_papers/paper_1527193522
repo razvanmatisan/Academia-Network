@@ -1,0 +1,38 @@
+{
+    "id": "1527193522",
+    "title": "Rationality of Reward Sharing in Multi-agent Reinforcement Learning",
+    "venue": "intelligent agents",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Kazuteru Miyazaki",
+            "id": "2798071260",
+            "org": "Tokyo Institute of Technology"
+        },
+        {
+            "name": "Shigenobu Kobayashi",
+            "id": "2057576585",
+            "org": "Tokyo Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Profit sharing",
+        "Reinforcement learning",
+        "Machine learning",
+        "Rationality",
+        "Profitability index",
+        "Distributed computing",
+        "Multi-agent system",
+        "Reward-based selection",
+        "Mathematics",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1500024457",
+        "1557517019",
+        "1565708010",
+        "1641379095",
+        "1995663008",
+        "2171732592"
+    ]
+}

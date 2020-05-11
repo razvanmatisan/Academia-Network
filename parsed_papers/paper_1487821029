@@ -1,0 +1,31 @@
+{
+    "id": "1487821029",
+    "title": "Code Generation Using GEODE: A CASE Study",
+    "venue": "SDL '97: Time for Testing#R##N#SDL, MSC and Trends",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Ranjit \"Raj\" Singh",
+            "id": "2575777752",
+            "org": "EMX Software Development Cellular Infrastructure Group Motorola, Inc."
+        },
+        {
+            "name": "Jerry Serviss",
+            "id": "2571386604",
+            "org": "EMX Software Development Cellular Infrastructure Group Motorola, Inc."
+        }
+    ],
+    "fields_of_study": [
+        "Object-modeling technique",
+        "Source code",
+        "KPI-driven code analysis",
+        "Software development",
+        "Code generation",
+        "Software",
+        "Telecommunications control software",
+        "Computer-aided software engineering",
+        "Computer science",
+        "Systems engineering"
+    ],
+    "references": []
+}

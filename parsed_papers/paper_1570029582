@@ -1,0 +1,50 @@
+{
+    "id": "1570029582",
+    "title": "A parallel mediated reality platform",
+    "venue": "international conference on image processing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Rosco Hill",
+            "id": "2349940996",
+            "org": "Dept. of ECE, Toronto Univ., Ont., Canada"
+        },
+        {
+            "name": "James Fung",
+            "id": "2144230460",
+            "org": "Dept. of ECE, Toronto Univ., Ont., Canada"
+        },
+        {
+            "name": "Steve Mann",
+            "id": "2134457129",
+            "org": "Dept. of ECE, Toronto Univ., Ont., Canada"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Augmented reality",
+        "Real-time computing",
+        "Digital image processing",
+        "Embedded system",
+        "Artificial intelligence",
+        "Real-time computer graphics",
+        "General-purpose computing on graphics processing units",
+        "Image processing",
+        "Output device",
+        "Graphics hardware",
+        "Computer science",
+        "Graphics processing unit"
+    ],
+    "references": [
+        "1636936512",
+        "1975611730",
+        "2106598426",
+        "2113386385",
+        "2122122381",
+        "2129027252",
+        "2131154433",
+        "2141341554",
+        "2147569016",
+        "2167358420"
+    ]
+}

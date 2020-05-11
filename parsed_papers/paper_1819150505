@@ -1,0 +1,40 @@
+{
+    "id": "1819150505",
+    "title": "The XML Query Language Xcerpt: Design Principles, Examples, and Semantics",
+    "venue": "Revised Papers from the NODe 2002 Web and Database-Related Workshops on Web, Web-Services, and Database Systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Francois Bry",
+            "id": "870525885",
+            "org": "University of Munich"
+        },
+        {
+            "name": "Sebastian Schaffert",
+            "id": "1885277099",
+            "org": "University of Munich"
+        }
+    ],
+    "fields_of_study": [
+        "Transformation language",
+        "Web search query",
+        "Database",
+        "Query language",
+        "Query optimization",
+        "Query expansion",
+        "RDF query language",
+        "XQuery",
+        "XSLT",
+        "Programming language",
+        "Computer science"
+    ],
+    "references": [
+        "62197522",
+        "1535627680",
+        "1539919472",
+        "1716100575",
+        "1977152005",
+        "2098817244",
+        "2154790389"
+    ]
+}

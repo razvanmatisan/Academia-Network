@@ -1,0 +1,39 @@
+{
+    "id": "1564130007",
+    "title": "A Logic for Probability in Quantum Systems",
+    "venue": "computer science logic",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Ron van der Meyden",
+            "id": "211497782",
+            "org": "University of New South Wales"
+        },
+        {
+            "name": "Manas K. Patra",
+            "id": "2778405689",
+            "org": "University of New South Wales"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Decidability",
+        "Unitary transformation",
+        "Discrete mathematics",
+        "Hilbert space",
+        "Quantum system",
+        "Propositional calculus",
+        "Conditional probability",
+        "Quantum computer",
+        "Quantum",
+        "Mathematics"
+    ],
+    "references": [
+        "1574129634",
+        "1999428129",
+        "2006918089",
+        "2022205872",
+        "2067754486",
+        "2169250070"
+    ]
+}

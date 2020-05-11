@@ -1,0 +1,41 @@
+{
+    "id": "1530661797",
+    "title": "Finding the maximum common subgraph of a partial k-tree and a graph with a polynomially bounded number of spanning trees",
+    "venue": "international symposium on algorithms and computation",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Atsuko Yamaguchi",
+            "id": "2099999248",
+            "org": "Kyoto University"
+        },
+        {
+            "name": "Hiroshi Mamitsuka",
+            "id": "278261381",
+            "org": "Kyoto University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Reconstruction conjecture",
+        "Induced subgraph isomorphism problem",
+        "Combinatorics",
+        "Subgraph isomorphism problem",
+        "Minimum degree spanning tree",
+        "Maximum common subgraph isomorphism problem",
+        "Distance-hereditary graph",
+        "Graph factorization",
+        "Induced subgraph",
+        "Mathematics"
+    ],
+    "references": [
+        "1605991832",
+        "1972324328",
+        "2011039300",
+        "2059372025",
+        "2067514766",
+        "2069653535",
+        "2076043677",
+        "2113221321"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1481262989",
+    "title": "A Temporal Framework for Database Specifications",
+    "venue": "very large data bases",
+    "year": 1982,
+    "authors": [
+        {
+            "name": "Jose Mauro Volkmer de Castilho",
+            "id": "2688024937",
+            "org": "Departamento de Informatica"
+        },
+        {
+            "name": "Marco A. Casanova",
+            "id": "2140725837",
+            "org": "Departamento de Informatica"
+        },
+        {
+            "name": "Antonio L. Furtado",
+            "id": "2096785136",
+            "org": "Departamento de Informatica"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Database",
+        "Database theory",
+        "Data mining",
+        "Database design",
+        "Database schema",
+        "Spatiotemporal database",
+        "Temporal logic"
+    ],
+    "references": [
+        "55243658",
+        "1490966766",
+        "1688429783",
+        "1969368990",
+        "2023808162",
+        "2031993032",
+        "2040127143",
+        "2081251433",
+        "2103953153",
+        "2105505307",
+        "2111706174",
+        "2138709157"
+    ]
+}

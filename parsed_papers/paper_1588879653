@@ -1,0 +1,50 @@
+{
+    "id": "1588879653",
+    "title": "Evolution of a Controller with a Free Variable Using Genetic Programming",
+    "venue": "european conference on genetic programming",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "John R. Koza",
+            "id": "2141641810",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Jessen Yu",
+            "id": "2120625615",
+            "org": "Genetic Programming Inc."
+        },
+        {
+            "name": "Martin A. Keane",
+            "id": "1977361062",
+            "org": "Econometrics Inc."
+        },
+        {
+            "name": "William Mydlowec",
+            "id": "2015735931",
+            "org": "Genetic Programming Inc."
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Quadratic equation",
+        "Signal processing",
+        "Genetic programming",
+        "Integrator",
+        "Control theory",
+        "Satisfiability",
+        "Computer science",
+        "Free variables and bound variables",
+        "Control theory",
+        "Real-time computing",
+        "Adder"
+    ],
+    "references": [
+        "67761928",
+        "1542537595",
+        "1576818901",
+        "1996072994",
+        "2095886632",
+        "2113475831"
+    ]
+}

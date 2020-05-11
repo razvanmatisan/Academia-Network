@@ -1,0 +1,31 @@
+{
+    "id": "1106904",
+    "title": "Specific Simple Network Management Tools",
+    "venue": "usenix large installation systems administration conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Jurgen Schonwalder",
+            "id": "2777341889",
+            "org": "Technical University of Braunschweig#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Simple Network Management Protocol",
+        "Command-line interface",
+        "Networking hardware",
+        "Computer science",
+        "Network management station",
+        "Network management",
+        "Distributed computing",
+        "Software architecture",
+        "FCAPS",
+        "Network management application"
+    ],
+    "references": [
+        "99645922",
+        "1482061752",
+        "1547662183",
+        "1762575689"
+    ]
+}

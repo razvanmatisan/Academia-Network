@@ -1,0 +1,47 @@
+{
+    "id": "1595302093",
+    "title": "Verification Methods for Weaker Shared Memory Consistency Models",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Rajnish Ghughal",
+            "id": "2292623375",
+            "org": "Intel"
+        },
+        {
+            "name": "Rajnish Ghughal",
+            "id": "2292623375",
+            "org": "Intel"
+        },
+        {
+            "name": "Ganesh Gopalakrishnan",
+            "id": "2129100051",
+            "org": "University of Utah"
+        }
+    ],
+    "fields_of_study": [
+        "Sequential consistency",
+        "Distributed shared memory",
+        "Computer science",
+        "Parallel computing",
+        "Model checking",
+        "Distributed computing",
+        "Iterative design",
+        "Memory model",
+        "Theoretical computer science",
+        "Formal verification",
+        "Machine learning",
+        "Shared memory",
+        "Artificial intelligence",
+        "Consistency model"
+    ],
+    "references": [
+        "1494257722",
+        "1502765706",
+        "1545792627",
+        "1977799762",
+        "2054739713",
+        "2170212320"
+    ]
+}

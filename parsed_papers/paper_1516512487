@@ -1,0 +1,32 @@
+{
+    "id": "1516512487",
+    "title": "Statistical Richness of Visual Phase Information: Update on Recognizing Persons by Iris Patterns",
+    "venue": "International Journal of Computer Vision",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "John Daugman",
+            "id": "1994760379",
+            "org": "University of Cambridge, The Computer Laboratory, Cambridge CB3 ODF, UK. john.daugman@CL.cam.ac.uk#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Degrees of freedom (statistics)",
+        "Iris recognition",
+        "Machine learning",
+        "Computer vision",
+        "Personal identity",
+        "Artificial intelligence",
+        "Wavelet",
+        "Computer science"
+    ],
+    "references": [
+        "2033419168",
+        "2102796633",
+        "2103384342",
+        "2106256730",
+        "2115943089",
+        "2121647436",
+        "2144143728"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1509765132",
+    "title": "An Auction Protocol Which Hides Bids of Losers",
+    "venue": "public key cryptography",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Kazue Sako",
+            "id": "2151356658",
+            "org": "NEC Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Bid shading",
+        "Unique bid auction",
+        "Vickrey-Clarke-Groves auction",
+        "Auction sniping",
+        "English auction",
+        "Proxy bid",
+        "Generalized second-price auction",
+        "Computer science",
+        "Distributed computing",
+        "Vickrey auction"
+    ],
+    "references": [
+        "113378905",
+        "1566496285",
+        "1591954407",
+        "1996360405",
+        "2101803085",
+        "2103761955",
+        "2108834246",
+        "2141420453",
+        "2230112138"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1599463166",
+    "title": "Front-end for Far-field Speech Recognition based on Frequency Domain Linear Prediction",
+    "venue": "conference of the international speech communication association",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Sriram Ganapathy",
+            "id": "2099341605",
+            "org": "Idiap Research Institute"
+        },
+        {
+            "name": "Samuel Thomas",
+            "id": "2137063348",
+            "org": "Idiap Research Institute"
+        },
+        {
+            "name": "Hynek Hermansky",
+            "id": "316105680",
+            "org": "Idiap Research Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Speech processing",
+        "Speech recognition",
+        "Linear prediction",
+        "Frequency domain",
+        "Word error rate",
+        "Feature extraction",
+        "Voice activity detection",
+        "Residual",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Filter (signal processing)",
+        "Computer science"
+    ],
+    "references": [
+        "1230632900",
+        "1869334927",
+        "2106314257",
+        "2151484683",
+        "2408660648"
+    ]
+}

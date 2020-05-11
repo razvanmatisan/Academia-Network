@@ -1,0 +1,33 @@
+{
+    "id": "1603025874",
+    "title": "Translation of rights expressions",
+    "venue": "grid computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Brenton Cooper",
+            "id": "2506969678",
+            "org": "Motorola Global Software Group Australia, Mawson Lakes SA#TAB#"
+        },
+        {
+            "name": "Paul Montague",
+            "id": "2109880167",
+            "org": "Motorola Global Software Group Australia, Mawson Lakes SA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Distributed computing",
+        "Rights Expression Language",
+        "Digital content",
+        "Service provider",
+        "Expression (mathematics)",
+        "Computer science",
+        "Computer security",
+        "Fragmentation (computing)",
+        "Digital rights management"
+    ],
+    "references": [
+        "1969799644"
+    ]
+}

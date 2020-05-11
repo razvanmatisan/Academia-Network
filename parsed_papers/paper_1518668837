@@ -1,0 +1,38 @@
+{
+    "id": "1518668837",
+    "title": "Dynamic network-based secure VPN deployment in GPRS",
+    "venue": "personal, indoor and mobile radio communications",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Christos Xenakis",
+            "id": "2297960573",
+            "org": "Dept. of Informatics & Telecommun., Athens Univ., Greece"
+        },
+        {
+            "name": "Lazaros F. Merakos",
+            "id": "229456565",
+            "org": "Dept. of Informatics & Telecommun., Athens Univ., Greece"
+        }
+    ],
+    "fields_of_study": [
+        "GPRS core network",
+        "General Packet Radio Service",
+        "IPsec",
+        "Computer network",
+        "Network Service Access Point Identifier",
+        "Mobile station",
+        "Access Point Name",
+        "Security service",
+        "Computer science",
+        "Internetworking"
+    ],
+    "references": [
+        "1494154039",
+        "1709767083",
+        "1949661937",
+        "2051673257",
+        "2134864026",
+        "2156186849"
+    ]
+}

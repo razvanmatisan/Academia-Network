@@ -1,0 +1,29 @@
+{
+    "id": "1805428614",
+    "title": "An image digital signature system with ZKIP for the graph isomorphism",
+    "venue": "international conference on image processing",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Hirotsugu Kinoshita",
+            "id": "2127175166",
+            "org": "Dept. of Electr. Eng., Kanagawa Univ., Yokohama, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Digital signature",
+        "Graph isomorphism",
+        "Message authentication code",
+        "Graph theory",
+        "Digital Signature Algorithm",
+        "Computer science",
+        "Theoretical computer science",
+        "Cryptography",
+        "Zero-knowledge proof",
+        "Authentication"
+    ],
+    "references": [
+        "1567484412",
+        "2117197027"
+    ]
+}

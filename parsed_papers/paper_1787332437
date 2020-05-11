@@ -1,0 +1,45 @@
+{
+    "id": "1787332437",
+    "title": "Scaling record linkage to non-uniform distributed class sizes",
+    "venue": "knowledge discovery and data mining",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Steffen Rendle",
+            "id": "1585981875",
+            "org": "University of Hildesheim, Machine Learning Lab, Hildesheim, Germany#TAB#"
+        },
+        {
+            "name": "Lars Schmidt-Thieme",
+            "id": "78243962",
+            "org": "University of Hildesheim, Machine Learning Lab, Hildesheim, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Data mining",
+        "Computer science",
+        "Uniform distribution (continuous)",
+        "Zipf's law",
+        "Artificial intelligence",
+        "Metamodeling",
+        "Markov logic network",
+        "Data set",
+        "Scaling",
+        "Record linkage"
+    ],
+    "references": [
+        "1540269031",
+        "1926846071",
+        "1979629649",
+        "2024770506",
+        "2036216970",
+        "2102350406",
+        "2111116800",
+        "2112912553",
+        "2154785834",
+        "2154790872",
+        "2164456230",
+        "2171472464"
+    ]
+}

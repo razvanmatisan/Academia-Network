@@ -1,0 +1,31 @@
+{
+    "id": "1561245882",
+    "title": "Voice and data integration at an ATM DSL access multiplexor",
+    "venue": "Telecommunication Systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Belka Kraimeche",
+            "id": "2402224510",
+            "org": "Telecommunications Management, Stevens Institute of Technology, Castle Point on Hudson, Hoboken, USA 07030#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Call blocking",
+        "Real-time computing",
+        "Computer network",
+        "Asymmetric digital subscriber line",
+        "FIFO (computing and electronics)",
+        "Quality of service",
+        "Digital subscriber line access multiplexer",
+        "Computer science",
+        "Communication channel",
+        "Digital subscriber line",
+        "Multiplexing"
+    ],
+    "references": [
+        "1587200490",
+        "2145241689",
+        "2156025586"
+    ]
+}

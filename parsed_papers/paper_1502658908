@@ -1,0 +1,45 @@
+{
+    "id": "1502658908",
+    "title": "Multi-core Implementations of Geometric Algorithms",
+    "venue": "Efficient Algorithms",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Stefan Naher",
+            "id": "2705802192",
+            "org": "Department of Computer Science, University of Trier, Germany#TAB#"
+        },
+        {
+            "name": "Daniel Schmitt",
+            "id": "2183758136",
+            "org": "Department of Computer Science, University of Trier, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Usability",
+        "Implementation",
+        "Computational geometry",
+        "Hybrid algorithm",
+        "Multi-core processor",
+        "Theoretical computer science",
+        "Automatic parallelization",
+        "Convex hull",
+        "Algorithm",
+        "Divide and conquer algorithms",
+        "Computer science"
+    ],
+    "references": [
+        "212930942",
+        "1485262373",
+        "1513366080",
+        "1788997585",
+        "1968634208",
+        "2031813077",
+        "2057512681",
+        "2058432138",
+        "2075232087",
+        "2120887598",
+        "2151771061",
+        "2153504150"
+    ]
+}

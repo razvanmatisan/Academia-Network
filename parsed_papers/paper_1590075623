@@ -1,0 +1,36 @@
+{
+    "id": "1590075623",
+    "title": "Cross-document entity tracking",
+    "venue": "european conference on information retrieval",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Roxana Angheluta",
+            "id": "249182250",
+            "org": "Katholieke Universiteit Leuven#TAB#"
+        },
+        {
+            "name": "Marie-Francine Moens",
+            "id": "1931663571",
+            "org": "Katholieke Universiteit Leuven#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Level of detail",
+        "Coreference",
+        "Noun phrase",
+        "Cluster analysis",
+        "Information retrieval",
+        "Natural language processing",
+        "Fusion",
+        "Entity linking",
+        "Syntax",
+        "Search engine",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1557103245",
+        "2113227740"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1567803624",
+    "title": "Automatic Verification of Abstract State Machines",
+    "venue": "computer aided verification",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Marc Spielmann",
+            "id": "2618811035",
+            "org": "RWTH Aachen"
+        }
+    ],
+    "fields_of_study": [
+        "CTL*",
+        "Correctness",
+        "Theoretical computer science",
+        "Algorithm",
+        "Intelligent verification",
+        "Finite-state machine",
+        "Abstract state machines",
+        "Software verification",
+        "Computer science",
+        "Functional verification",
+        "High-level verification"
+    ],
+    "references": [
+        "1482193060",
+        "1547570088",
+        "1850203898",
+        "1969402593",
+        "1970629906",
+        "1975657455",
+        "2073314176",
+        "2117189826",
+        "2127391147",
+        "2234536257"
+    ]
+}

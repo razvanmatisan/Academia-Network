@@ -1,0 +1,39 @@
+{
+    "id": "1517875689",
+    "title": "A hierarchy of domains for real-time distributed computing",
+    "venue": "international conference on mathematical foundations of programming semantics",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "George M. Reed",
+            "id": "2121322035",
+            "org": "Oxford University Computing Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Grid computing",
+        "Distributed object",
+        "Distributed design patterns",
+        "Concurrent computing",
+        "Stability Model",
+        "Distributed algorithm",
+        "Theoretical computer science",
+        "Autonomic computing",
+        "Distributed concurrency control",
+        "Distributed computing",
+        "Computer science"
+    ],
+    "references": [
+        "8458669",
+        "1504723768",
+        "1576022685",
+        "1602114053",
+        "1992072860",
+        "2001748564",
+        "2102097307",
+        "2110176660",
+        "2110425399",
+        "2137865376",
+        "2140920629"
+    ]
+}

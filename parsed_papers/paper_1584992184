@@ -1,0 +1,33 @@
+{
+    "id": "1584992184",
+    "title": "Using Z as a Specification Calculus for Object-Oriented Systems",
+    "venue": "formal methods",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Anthony Hall",
+            "id": "2504467650",
+            "org": "Praxis Systems plc"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Calculus",
+        "Instance variable",
+        "Finite-state machine",
+        "Method",
+        "Z notation",
+        "Programming language",
+        "Object-oriented programming",
+        "Object Definition Language",
+        "Computer science"
+    ],
+    "references": [
+        "1489435372",
+        "1858069870",
+        "2041042883",
+        "2051940240",
+        "2122789628",
+        "2295562782"
+    ]
+}

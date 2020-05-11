@@ -1,0 +1,46 @@
+{
+    "id": "1519903075",
+    "title": "Cost of Cooperation for Scheduling Meetings",
+    "venue": "IDC",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Alon Grubshtein",
+            "id": "279454212",
+            "org": "Ben Gurion University of the Negev"
+        },
+        {
+            "name": "Amnon Meisels",
+            "id": "1345247691",
+            "org": "Ben Gurion University of the Negev"
+        }
+    ],
+    "fields_of_study": [
+        "Best response",
+        "Mathematical optimization",
+        "Subgame perfect equilibrium",
+        "Epsilon-equilibrium",
+        "Stochastic game",
+        "Strategic dominance",
+        "Nash equilibrium",
+        "Subgame",
+        "Price of anarchy",
+        "Economics"
+    ],
+    "references": [
+        "640399110",
+        "1526250527",
+        "1599344755",
+        "1955370508",
+        "2037387582",
+        "2097568888",
+        "2112269231",
+        "2121320940",
+        "2125537511",
+        "2130439240",
+        "2160135758",
+        "2164500294",
+        "2165452334",
+        "2171668819"
+    ]
+}

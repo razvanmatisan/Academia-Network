@@ -1,0 +1,33 @@
+{
+    "id": "1576701404",
+    "title": "On the Representation of Data Types",
+    "venue": "Proceedings of the International Colloquium on Formalization of Programming Concepts",
+    "year": 1981,
+    "authors": [
+        {
+            "name": "Fernando Orejas",
+            "id": "2669916369",
+            "org": "Universitat Politecnica"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Correctness",
+        "Recursion",
+        "Data type",
+        "Restricted representation",
+        "Abstract data type",
+        "Mathematics",
+        "Representation term",
+        "Type family",
+        "Commutative diagram"
+    ],
+    "references": [
+        "1538991291",
+        "1550313408",
+        "1561186843",
+        "2015874281",
+        "2061786858",
+        "2110050316"
+    ]
+}

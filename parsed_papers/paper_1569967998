@@ -1,0 +1,36 @@
+{
+    "id": "1569967998",
+    "title": "Pattern Recognition by Invariant Reference Points",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Krystian Ignasiak",
+            "id": "1211567503",
+            "org": "Warsaw University of Technology"
+        },
+        {
+            "name": "Wladyslaw Skarbek",
+            "id": "691441148",
+            "org": "Warsaw University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Image segmentation",
+        "Invariant (mathematics)",
+        "Signal processing",
+        "Special case",
+        "Feature vector",
+        "Signal compression",
+        "Image processing",
+        "Classifier (linguistics)",
+        "Computer vision",
+        "Computer science",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "2117812871",
+        "2149961130"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "1593973884",
+    "title": "The west wing: fiction can serve politics",
+    "venue": "Scandinavian Journal of Information Systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jonathan Grudin",
+            "id": "2103856929",
+            "org": "Microsoft Research#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mass market",
+        "Management science",
+        "Participatory design",
+        "Persona",
+        "Software development",
+        "Software development process",
+        "New product development",
+        "Engineering",
+        "Commercial software",
+        "Politics",
+        "Systems engineering"
+    ],
+    "references": [
+        "1539106580",
+        "1979298363",
+        "2085959703",
+        "2106753116",
+        "2338664601"
+    ]
+}

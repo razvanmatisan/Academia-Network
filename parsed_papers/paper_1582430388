@@ -1,0 +1,29 @@
+{
+    "id": "1582430388",
+    "title": "Realising the benefits of formal methods",
+    "venue": "formal methods",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Anthony Hall",
+            "id": "2504467650",
+            "org": "Oxford, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Formal methods",
+        "Management science",
+        "Ask price",
+        "Quality management system",
+        "Simulation",
+        "Software development",
+        "Computer science"
+    ],
+    "references": [
+        "1499226144",
+        "1787500456",
+        "2110425399",
+        "2116352900"
+    ]
+}

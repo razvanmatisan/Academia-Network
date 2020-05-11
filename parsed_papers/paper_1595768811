@@ -1,0 +1,45 @@
+{
+    "id": "1595768811",
+    "title": "Optimal Cuts for Powers of the Petersen Graph",
+    "venue": "workshop on graph theoretic concepts in computer science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Sergei L. Bezrukov",
+            "id": "2138019672",
+            "org": "University of Wisconsin-Superior"
+        },
+        {
+            "name": "Sajal K. Das",
+            "id": "2101367683",
+            "org": "University of North Texas"
+        },
+        {
+            "name": "Robert Elsasser",
+            "id": "2061166041",
+            "org": "University of Paderborn"
+        }
+    ],
+    "fields_of_study": [
+        "Nauru graph",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Petersen graph",
+        "Graph power",
+        "Hypercube graph",
+        "Voltage graph",
+        "Generalized Petersen graph",
+        "Mathematics",
+        "Simplex graph",
+        "Graph factorization"
+    ],
+    "references": [
+        "1518606313",
+        "1527480496",
+        "1983901430",
+        "2035648485",
+        "2069861310",
+        "2076606089",
+        "2093126960"
+    ]
+}

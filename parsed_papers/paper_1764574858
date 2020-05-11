@@ -1,0 +1,35 @@
+{
+    "id": "1764574858",
+    "title": "Learning conventions in multiagent stochastic domains using likelihood estimates",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Craig Boutilier",
+            "id": "2060802895",
+            "org": "Dept. of Computer Science, University of British Columbia, Vancouver, BC#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Fictitious play",
+        "Mathematics",
+        "Machine learning",
+        "Mathematical optimization",
+        "Rate of convergence",
+        "Game theory",
+        "Artificial intelligence",
+        "Mathematical economics",
+        "Management science",
+        "Special Interest Group",
+        "Generalization",
+        "Equilibrium selection",
+        "Observable",
+        "Bayesian inference"
+    ],
+    "references": [
+        "1521003796",
+        "1542941925",
+        "1565708010",
+        "1650504995"
+    ]
+}

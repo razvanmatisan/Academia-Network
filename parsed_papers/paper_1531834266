@@ -1,0 +1,31 @@
+{
+    "id": "1531834266",
+    "title": "Prolegomena to general-imaging-based probabilistic dynamic epistemic logic",
+    "venue": "JSAI'06 Proceedings of the 20th annual conference on New frontiers in artificial intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Satoru Suzuki",
+            "id": "2143092438",
+            "org": "Department of General Education, Komazawa University, Setagaya-ku, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Counterintuitive",
+        "Soundness",
+        "Rule-based system",
+        "Philosophy of logic",
+        "Probabilistic logic",
+        "Multimodal logic",
+        "Dilemma",
+        "Algorithm",
+        "Artificial intelligence",
+        "Mathematics",
+        "Epistemic modal logic"
+    ],
+    "references": [
+        "1541883811",
+        "2062285040",
+        "2119558232"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1497990247",
+    "title": "GA-Net: A Genetic Algorithm for Community Detection in Social Networks",
+    "venue": "parallel problem solving from nature",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Clara Pizzuti",
+            "id": "54675057",
+            "org": "ICAR-CNR, Rende (CS), Italy 87036#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Genetic algorithm",
+        "Machine learning",
+        "Clique percolation method",
+        "Computer science",
+        "Complex network",
+        "Fitness model",
+        "Social network",
+        "Dynamic network analysis",
+        "Fitness function",
+        "Community structure"
+    ],
+    "references": [
+        "1969215986",
+        "1971784203",
+        "2003672460",
+        "2032637211",
+        "2055667921",
+        "2108031918",
+        "2116819994",
+        "2144544802",
+        "2148606196"
+    ]
+}

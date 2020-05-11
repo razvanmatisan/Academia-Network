@@ -1,0 +1,38 @@
+{
+    "id": "1603211840",
+    "title": "K-means Clustering Algorithm for Categorical Attributes",
+    "venue": "data warehousing and knowledge discovery",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Shyam K. Gupta",
+            "id": "2128855107",
+            "org": "Indian Institute of Technology"
+        },
+        {
+            "name": "K Sambasiva Rao",
+            "id": "2560581031",
+            "org": "Indian Institute of Technology"
+        },
+        {
+            "name": "Vasudha Bhatnagar",
+            "id": "2590701236",
+            "org": "MotiLal Nehru College, Delhi University"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Hierarchical clustering",
+        "Data mining",
+        "Determining the number of clusters in a data set",
+        "CURE data clustering algorithm",
+        "Fuzzy clustering",
+        "Affinity propagation",
+        "Correlation clustering",
+        "Single-linkage clustering",
+        "k-means clustering",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": []
+}

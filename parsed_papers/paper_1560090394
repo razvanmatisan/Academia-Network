@@ -1,0 +1,43 @@
+{
+    "id": "1560090394",
+    "title": "On the Power of Quantifers in First-Order Algebraic Specification",
+    "venue": "computer science logic",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "David Kempe",
+            "id": "2137221145",
+            "org": "Cornell University"
+        },
+        {
+            "name": "Arno Schoegge",
+            "id": "2346095635",
+            "org": "Universitat Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "Conjunctive normal form",
+        "Data type",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Algebraic specification",
+        "Abstract data type",
+        "Computational complexity theory",
+        "Godel's completeness theorem",
+        "Mathematics"
+    ],
+    "references": [
+        "158667105",
+        "1482193060",
+        "1501263237",
+        "1507136479",
+        "1536327897",
+        "1601937816",
+        "1973063142",
+        "1984581643",
+        "2007898361",
+        "2035625685",
+        "2077012426",
+        "2093416902"
+    ]
+}

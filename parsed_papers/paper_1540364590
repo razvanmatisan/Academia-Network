@@ -1,0 +1,33 @@
+{
+    "id": "1540364590",
+    "title": "Incremental version-space merging",
+    "venue": "international conference on machine learning",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Haym Hirsh",
+            "id": "2151078108",
+            "org": "Rutgers University"
+        }
+    ],
+    "fields_of_study": [
+        "Merge (version control)",
+        "Semi-supervised learning",
+        "Machine learning",
+        "Notation",
+        "Generalization error",
+        "Version space",
+        "Incremental learning",
+        "Artificial intelligence",
+        "Theoretical computer science",
+        "Stability (learning theory)",
+        "Computer science"
+    ],
+    "references": [
+        "1508109433",
+        "1533943506",
+        "1569039131",
+        "1994022788",
+        "2009207944"
+    ]
+}

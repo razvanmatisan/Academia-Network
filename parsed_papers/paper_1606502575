@@ -1,0 +1,48 @@
+{
+    "id": "1606502575",
+    "title": "Constraint Satisfaction over a Non-Boolean Domain: Approximation algorithms and Unique-Games hardness.",
+    "venue": "Electronic Colloquium on Computational Complexity",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Venkatesan Guruswami",
+            "id": "148409839",
+            "org": "University of Washington Department of Computer Science & Engineering Seattle WA"
+        },
+        {
+            "name": "Prasad Raghavendra",
+            "id": "2110638607",
+            "org": "Department of Computer Science & Engineering|University of Washington"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Mathematics",
+        "Combinatorics",
+        "Constraint satisfaction dual problem",
+        "Boolean domain",
+        "Complexity of constraint satisfaction",
+        "Constraint satisfaction problem",
+        "Mathematical optimization",
+        "Local consistency",
+        "Constraint graph",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "56772274",
+        "1490233153",
+        "1577891761",
+        "1967935161",
+        "1975810219",
+        "1992866589",
+        "1999032440",
+        "2087964954",
+        "2091921997",
+        "2115404728",
+        "2127141092",
+        "2137118456",
+        "2149577432",
+        "2179897858"
+    ]
+}

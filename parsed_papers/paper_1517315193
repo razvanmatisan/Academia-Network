@@ -1,0 +1,40 @@
+{
+    "id": "1517315193",
+    "title": "Simulation-based Comparison of Hash Functions for Emulated Shared Memory",
+    "venue": "international conference on parallel architectures and languages europe",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Curd Engelmann",
+            "id": "2276267277",
+            "org": "Universitat des Saarlandes"
+        },
+        {
+            "name": "Jorg Keller",
+            "id": "2649809624",
+            "org": "Centrum voor Wiskunde en Informatica"
+        }
+    ],
+    "fields_of_study": [
+        "Security of cryptographic hash functions",
+        "Rolling hash",
+        "Double hashing",
+        "Parallel computing",
+        "Hash chain",
+        "Distributed computing",
+        "Hash function",
+        "Hash filter",
+        "MDC-2",
+        "SWIFFT",
+        "Computer science"
+    ],
+    "references": [
+        "64727508",
+        "1999859272",
+        "2004350101",
+        "2006727395",
+        "2026887746",
+        "2116753997",
+        "2144399314"
+    ]
+}

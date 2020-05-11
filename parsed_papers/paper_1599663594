@@ -1,0 +1,44 @@
+{
+    "id": "1599663594",
+    "title": "A Higher-Order Calculus for Categories",
+    "venue": "theorem proving in higher order logics",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Mario Caccamo",
+            "id": "2152795210",
+            "org": "University of Cambridge"
+        },
+        {
+            "name": "Glynn Winskel",
+            "id": "88824219",
+            "org": "University of Cambridge"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Pure mathematics",
+        "Lambda cube",
+        "Process calculus",
+        "Type theory",
+        "Calculus",
+        "Discrete mathematics",
+        "Category theory",
+        "Time-scale calculus",
+        "Calculus of communicating systems",
+        "Natural deduction",
+        "Expression (mathematics)",
+        "Mathematics"
+    ],
+    "references": [
+        "223002628",
+        "1487667540",
+        "1504975584",
+        "1511331505",
+        "1591339513",
+        "1597310467",
+        "1995955735",
+        "2021257181",
+        "2105441172"
+    ]
+}

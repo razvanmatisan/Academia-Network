@@ -1,0 +1,37 @@
+{
+    "id": "1583178859",
+    "title": "Simplifying Deep Embedding: A Formalised Code Generator",
+    "venue": "theorem proving in higher order logics",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Ralf Reetz",
+            "id": "2086148213",
+            "org": "Universitaet Karlsruhe"
+        },
+        {
+            "name": "Thomas Kropf",
+            "id": "2026389119",
+            "org": "Universitaet Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Semantics",
+        "Theoretical computer science",
+        "Embedding",
+        "Syntax",
+        "Programming language",
+        "Code generation",
+        "Computer science",
+        "Grammar",
+        "Context-free grammar"
+    ],
+    "references": [
+        "1483205556",
+        "1586633289",
+        "2534689250",
+        "2539209300",
+        "2546599186"
+    ]
+}

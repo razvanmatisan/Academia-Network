@@ -1,0 +1,33 @@
+{
+    "id": "1518199590",
+    "title": "Electronic referrals in healthcare: a review.",
+    "venue": "medical informatics europe",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Vigdis Heimly",
+            "id": "361605052",
+            "org": "Norwegian University of Science and Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Documentation",
+        "Knowledge management",
+        "Data mining",
+        "Software deployment",
+        "Management science",
+        "Collaboration",
+        "Health care",
+        "Information system",
+        "Reference group",
+        "Decision support system",
+        "Sociotechnical system",
+        "Medicine"
+    ],
+    "references": [
+        "107854426",
+        "1730327071",
+        "1977832388",
+        "2054983999"
+    ]
+}

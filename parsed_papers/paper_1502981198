@@ -1,0 +1,44 @@
+{
+    "id": "1502981198",
+    "title": "Gaining Competitive Advantage Through Learning Agent Models",
+    "venue": "ibero-american conference on artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Leonardo Garrido",
+            "id": "2142891466",
+            "org": "Tecnologico de Monterrey"
+        },
+        {
+            "name": "Ramon F. Brena",
+            "id": "2162079529",
+            "org": "Tecnologico de Monterrey"
+        },
+        {
+            "name": "Katia P. Sycara",
+            "id": "2068240882",
+            "org": "Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Empirical research",
+        "Oracle",
+        "Competitive advantage",
+        "Probabilistic logic",
+        "Reinforcement learning",
+        "Machine learning",
+        "Computer science",
+        "Artificial intelligence",
+        "Decision theory",
+        "Bayesian probability",
+        "Bayesian inference"
+    ],
+    "references": [
+        "1481135532",
+        "1493183904",
+        "1495057388",
+        "1528079221",
+        "1568317875",
+        "2121353282"
+    ]
+}

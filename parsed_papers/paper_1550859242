@@ -1,0 +1,34 @@
+{
+    "id": "1550859242",
+    "title": "The Dimensions of Embedded COTS and OSS Software Component Integration",
+    "venue": "product focused software process improvement",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Tuija Helokunnas",
+            "id": "2671472819",
+            "org": "Nokia Group"
+        },
+        {
+            "name": "Tuija Helokunnas",
+            "id": "2671472819",
+            "org": "Nokia Group"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Information exchange",
+        "Vendor",
+        "Commercial off-the-shelf",
+        "Business process",
+        "Engineering",
+        "Component-based software engineering",
+        "Software"
+    ],
+    "references": [
+        "1506306936",
+        "1713631409",
+        "2039115495",
+        "2167500728"
+    ]
+}

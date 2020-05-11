@@ -1,0 +1,37 @@
+{
+    "id": "1484253910",
+    "title": "Dynamic and Structured Presentation of Database Contents on the Web",
+    "venue": "extending database technology",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Motomichi Toyama",
+            "id": "2149060858",
+            "org": "Keio University"
+        },
+        {
+            "name": "Takuhiro Nagafuji",
+            "id": "2000914768",
+            "org": "Keio University"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Relational database",
+        "Data mining",
+        "Web search query",
+        "World Wide Web",
+        "Query optimization",
+        "View",
+        "Small number",
+        "SQL",
+        "Web application",
+        "Web query classification",
+        "Computer science"
+    ],
+    "references": [
+        "1721591907",
+        "2005471433",
+        "2077261476"
+    ]
+}

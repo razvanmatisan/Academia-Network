@@ -1,0 +1,34 @@
+{
+    "id": "1486029907",
+    "title": "Coordination Technology for Workflows on the Web: Workspaces",
+    "venue": "international conference on coordination models and languages",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Robert Tolksdorf",
+            "id": "2462273574",
+            "org": "Technische Universitat Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "XSL",
+        "Distributed computing",
+        "World Wide Web",
+        "XML",
+        "Workflow",
+        "Workflow management system",
+        "Database",
+        "Architecture",
+        "Web application",
+        "Electronic data interchange",
+        "The Internet"
+    ],
+    "references": [
+        "150446900",
+        "1500859230",
+        "1981994545",
+        "1992466477",
+        "2151922553"
+    ]
+}

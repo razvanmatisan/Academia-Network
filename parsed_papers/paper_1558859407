@@ -1,0 +1,33 @@
+{
+    "id": "1558859407",
+    "title": "Machine Checking Proof Theory: An Application of Logic to Logic",
+    "venue": "ICLA '09 Proceedings of the 3rd Indian Conference on Logic and Its Applications",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Rajeev Gore",
+            "id": "2146671991",
+            "org": "Computer Sciences Laboratory, The Australian National University, Canberra#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Provability logic",
+        "Proof theory",
+        "Direct proof",
+        "Bunched logic",
+        "Structural proof theory",
+        "Algorithm",
+        "Proof calculus",
+        "Godel's completeness theorem",
+        "Mathematics",
+        "Higher-order logic"
+    ],
+    "references": [
+        "1505349735",
+        "1545081843",
+        "1594381772",
+        "1995718667",
+        "2036161385",
+        "2058973858"
+    ]
+}

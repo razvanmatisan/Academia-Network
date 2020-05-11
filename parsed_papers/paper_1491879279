@@ -1,0 +1,29 @@
+{
+    "id": "1491879279",
+    "title": "Inter-camera color calibration by correlation model function",
+    "venue": "international conference on image processing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Fatih Porikli",
+            "id": "2002991493",
+            "org": "Mitsubishi Electr. Res. Lab., Cambridge, MA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Covariance matrix",
+        "Color histogram",
+        "Distortion",
+        "Computer vision",
+        "Metric (mathematics)",
+        "Artificial intelligence",
+        "Transfer function",
+        "Color normalization",
+        "Color calibration",
+        "Brightness",
+        "Mathematics"
+    ],
+    "references": [
+        "2118783153"
+    ]
+}

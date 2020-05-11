@@ -1,0 +1,42 @@
+{
+    "id": "1490690856",
+    "title": "Clustering Gene Expression Profiles with Memetic Algorithms",
+    "venue": "parallel problem solving from nature",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Peter Merz",
+            "id": "2502187395",
+            "org": "University of Tubingen"
+        },
+        {
+            "name": "Andreas Zell",
+            "id": "663920594",
+            "org": "University of Tubingen"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic algorithm",
+        "Cluster analysis",
+        "Fitness landscape",
+        "Computational biology",
+        "Artificial intelligence",
+        "Machine learning",
+        "Computer science",
+        "Local search (optimization)",
+        "DNA microarray",
+        "Search algorithm",
+        "Travelling salesman problem",
+        "Algorithm",
+        "Memetic algorithm"
+    ],
+    "references": [
+        "1542631934",
+        "1604975506",
+        "2075342830",
+        "2098677716",
+        "2131456395",
+        "2156728410",
+        "2611831635"
+    ]
+}

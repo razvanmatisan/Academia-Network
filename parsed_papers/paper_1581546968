@@ -1,0 +1,44 @@
+{
+    "id": "1581546968",
+    "title": "Recurrent long-range interactions in early vision",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Thorsten Hansen",
+            "id": "2119692524",
+            "org": "Universitat Ulm, Abt. Neuroinformatik, Ulm, Germany#TAB#"
+        },
+        {
+            "name": "Wolfgang Sepp",
+            "id": "2634174905",
+            "org": "Universitat Ulm, Abt. Neuroinformatik, Ulm, Germany#TAB#"
+        },
+        {
+            "name": "Heiko Neumann",
+            "id": "2195296034",
+            "org": "Universitat Ulm, Abt. Neuroinformatik, Ulm, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Information flow (information theory)",
+        "Image processing",
+        "Machine learning",
+        "Architecture",
+        "Perception",
+        "Corner detection",
+        "Illusory contours",
+        "Computer vision",
+        "Feed forward",
+        "Mathematics",
+        "Artificial intelligence",
+        "Edge detection"
+    ],
+    "references": [
+        "1991970697",
+        "2065533311",
+        "2125756925",
+        "2136640108"
+    ]
+}

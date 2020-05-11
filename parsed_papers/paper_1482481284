@@ -1,0 +1,41 @@
+{
+    "id": "1482481284",
+    "title": "Universality and language inclusion for open and closed timed automata",
+    "venue": "international conference on hybrid systems computation and control",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Joel Ouaknine",
+            "id": "2895733615",
+            "org": "Computer Science Department, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "James Worrell",
+            "id": "2001102473",
+            "org": "Department of Mathematics, Tulane University, New Orleans, LA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Monotonic function",
+        "Decidability",
+        "Universality (philosophy)",
+        "Automaton",
+        "Discrete mathematics",
+        "Quantum finite automata",
+        "Timed automaton",
+        "Undecidable problem",
+        "Mathematics",
+        "Automata theory"
+    ],
+    "references": [
+        "1484364085",
+        "1555190167",
+        "1572777470",
+        "1591345321",
+        "1829884141",
+        "2083964867",
+        "2101508170",
+        "2116139591",
+        "2164889165"
+    ]
+}

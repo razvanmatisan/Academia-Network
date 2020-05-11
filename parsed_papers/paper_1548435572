@@ -1,0 +1,42 @@
+{
+    "id": "1548435572",
+    "title": "Identifying and Measuring Cultural Differences in Cross-Cultural User-Interface Design",
+    "venue": "international conference on internationalization design and global development",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jasem M. Alostath",
+            "id": "2706998667",
+            "org": "Department of Computer Science & Information Systems, Collage of Business Studies,#TAB#"
+        },
+        {
+            "name": "Sanaa Almoumen",
+            "id": "2694819350",
+            "org": "Department of Computer Science & Information Systems, Collage of Business Studies,#TAB#"
+        },
+        {
+            "name": "Ahmad B. Alostath",
+            "id": "2275421166",
+            "org": "Computer Department, The Telecommunication And Navigation Institute PAAET, Kuwait, Safat, Kuwait 13092#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cultural diversity",
+        "Website architecture",
+        "Usability",
+        "User interface design",
+        "Multimedia",
+        "User experience design",
+        "Human-computer interaction",
+        "Heuristic evaluation",
+        "Design elements and principles",
+        "Computer science",
+        "User interface"
+    ],
+    "references": [
+        "1518373993",
+        "1874259416",
+        "2006174234",
+        "2071521416"
+    ]
+}

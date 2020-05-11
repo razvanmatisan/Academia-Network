@@ -1,0 +1,57 @@
+{
+    "id": "1481725945",
+    "title": "A Process Calculus with Incomparable Priorities",
+    "venue": "NAPAW '92 Proceedings of the First North American Process Algebra Workshop",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Hans Hansson",
+            "id": "2798077662",
+            "org": "Swedish Institute of Computer Science"
+        },
+        {
+            "name": "Hans Hansson",
+            "id": "2798077662",
+            "org": "Swedish Institute of Computer Science"
+        },
+        {
+            "name": "Fredrik Orava",
+            "id": "2678951905",
+            "org": "Swedish Institute of Computer Science"
+        },
+        {
+            "name": "Fredrik Orava",
+            "id": "2678951905",
+            "org": "Swedish Institute of Computer Science"
+        }
+    ],
+    "fields_of_study": [
+        "Process calculus",
+        "Situation calculus",
+        "Typed lambda calculus",
+        "Relational calculus",
+        "Simply typed lambda calculus",
+        "Natural deduction",
+        "Discrete mathematics",
+        "Calculus of communicating systems",
+        "Proof calculus",
+        "Mathematics"
+    ],
+    "references": [
+        "1485090468",
+        "1503973138",
+        "1509749908",
+        "1517015850",
+        "1545884838",
+        "1573842056",
+        "1587299948",
+        "1593195771",
+        "1614690985",
+        "1793309813",
+        "2098083416",
+        "2118229393",
+        "2129654894",
+        "2137865376",
+        "2161291217"
+    ]
+}

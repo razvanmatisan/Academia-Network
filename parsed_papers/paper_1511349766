@@ -1,0 +1,45 @@
+{
+    "id": "1511349766",
+    "title": "The BANG-Clustering System: Grid-Based Data Analysis",
+    "venue": "intelligent data analysis",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Erich Schikuta",
+            "id": "2268397109",
+            "org": "University of Vienna"
+        },
+        {
+            "name": "Martin Erhart",
+            "id": "1977426903",
+            "org": "University of Vienna"
+        }
+    ],
+    "fields_of_study": [
+        "Hierarchical clustering",
+        "Machine learning",
+        "Cluster analysis",
+        "Hierarchical clustering of networks",
+        "Correlation clustering",
+        "CURE data clustering algorithm",
+        "Pattern recognition",
+        "Data set",
+        "Artificial intelligence",
+        "Hierarchical database model",
+        "Computer science",
+        "Canopy clustering algorithm"
+    ],
+    "references": [
+        "1500959893",
+        "1977516301",
+        "1986823955",
+        "1987895832",
+        "2003668590",
+        "2011582495",
+        "2049785957",
+        "2051853955",
+        "2114545146",
+        "2117401405",
+        "2151521932"
+    ]
+}

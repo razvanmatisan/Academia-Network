@@ -1,0 +1,29 @@
+{
+    "id": "1533512546",
+    "title": "Epipolar Line Estimation",
+    "venue": "european conference on computer vision",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Soren I. Olsen",
+            "id": "2124342370",
+            "org": "University of Copenhagen"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Camera auto-calibration",
+        "Invariant (mathematics)",
+        "Computer vision",
+        "Computer science",
+        "Epipolar geometry",
+        "Linear equation",
+        "Focus (optics)",
+        "Camera resectioning"
+    ],
+    "references": [
+        "2009086487",
+        "2109863423",
+        "2131356744"
+    ]
+}

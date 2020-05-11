@@ -1,0 +1,29 @@
+{
+    "id": "13209907",
+    "title": "Monitoring Usage of Workstations with a Relational Database",
+    "venue": "usenix large installation systems administration conference",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Jon Finke",
+            "id": "2103477186",
+            "org": "Rensselaer Polytechnic Institute#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Workstation",
+        "Relational database",
+        "Computer science",
+        "Staffing",
+        "Raw data",
+        "Database",
+        "Data set",
+        "Data mining",
+        "Database model",
+        "Database design"
+    ],
+    "references": [
+        "28779179",
+        "2163216946"
+    ]
+}

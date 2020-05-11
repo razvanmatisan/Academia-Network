@@ -1,0 +1,40 @@
+{
+    "id": "1563923811",
+    "title": "PREDICTION OF DIABETES BY EMPLOYING A NEW DATA MINING APPROACH WHICH BALANCES FITTING AND GENERALIZATION",
+    "venue": "Computer and Information Science",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Huy Nguyen Anh Pham",
+            "id": "2043381309",
+            "org": "Louisiana State University"
+        },
+        {
+            "name": "Evangelos Triantaphyllou",
+            "id": "2163933594",
+            "org": "Louisiana State University"
+        }
+    ],
+    "fields_of_study": [
+        "Statistical classification",
+        "Support vector machine",
+        "Homogeneity (statistics)",
+        "Artificial neural network",
+        "Optimal control",
+        "Decision tree",
+        "Overfitting",
+        "Machine learning",
+        "Data mining",
+        "Decision tree learning",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1511881534",
+        "1544367013",
+        "2099459283",
+        "2111508422",
+        "2142334564",
+        "2166827105"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "1605242532",
+    "title": "Regular Expressions and Context-Free Grammars for Picture Languages",
+    "venue": "symposium on theoretical aspects of computer science",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Oliver Matz",
+            "id": "2712989629",
+            "org": "Christian-Albrechts-Univertitat"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Computer science",
+        "Syntax (programming languages)",
+        "Combinatorics",
+        "Formal language",
+        "Regular grammar",
+        "Extended Affix Grammar",
+        "Generalized star height problem",
+        "Parsing expression grammar",
+        "Context-free grammar",
+        "Regular tree grammar"
+    ],
+    "references": [
+        "1523716620",
+        "1870847788",
+        "1990618979",
+        "2030384547"
+    ]
+}

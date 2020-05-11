@@ -1,0 +1,39 @@
+{
+    "id": "1499880330",
+    "title": "Compiling ARGOS into Boolean Equations",
+    "venue": "FTRTFT '96 Proceedings of the 4th International Symposium on Formal Techniques in Real-Time and Fault-Tolerant Systems",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Florence Maraninchi",
+            "id": "2779338861",
+            "org": "VETRIMAG, Miniparc - ZIRST"
+        },
+        {
+            "name": "Nicolas Halbwachs",
+            "id": "2680293828",
+            "org": "VETRIMAG, Miniparc - ZIRST"
+        }
+    ],
+    "fields_of_study": [
+        "Esterel",
+        "Semantics",
+        "True quantified Boolean formula",
+        "Boolean algebra",
+        "Large numbers",
+        "Formal semantics (linguistics)",
+        "Programming language",
+        "Mealy machine",
+        "Algorithm",
+        "Boolean expression",
+        "Computer science"
+    ],
+    "references": [
+        "1503767920",
+        "1875492031",
+        "2081938726",
+        "2099529102",
+        "2137013740",
+        "2178475589"
+    ]
+}

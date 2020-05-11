@@ -1,0 +1,47 @@
+{
+    "id": "1513776289",
+    "title": "8 Gigabits per Second Implementation of the IDEA Cryptographic Algorithm",
+    "venue": "field programmable logic and applications",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Antti Hamalainen",
+            "id": "2104776651",
+            "org": "Helsinki University of Technology"
+        },
+        {
+            "name": "Matti Tommiska",
+            "id": "291466481",
+            "org": "Helsinki University of Technology"
+        },
+        {
+            "name": "Jorma Skytta",
+            "id": "2009588567",
+            "org": "Helsinki University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Cycles per instruction",
+        "Parallel computing",
+        "Virtex",
+        "International Data Encryption Algorithm",
+        "Real-time computing",
+        "Field-programmable gate array",
+        "Throughput",
+        "Encryption",
+        "Block cipher",
+        "Algorithm",
+        "Clock rate",
+        "Computer science"
+    ],
+    "references": [
+        "1549620015",
+        "1554112193",
+        "1601793793",
+        "1605116544",
+        "1660562555",
+        "1978695162",
+        "2008730004",
+        "2144595681"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "1508498322",
+    "title": "Parallel Fuzzy Learning",
+    "venue": "international work conference on artificial and natural neural networks",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Marco Russo",
+            "id": "2598331202",
+            "org": "Univ. of Messina"
+        }
+    ],
+    "fields_of_study": [
+        "Workstation",
+        "Fuzzy rule",
+        "Fuzzy logic",
+        "Parallel algorithm",
+        "Distributed computing",
+        "Speedup",
+        "Parallel computing",
+        "Neuro-fuzzy",
+        "Computer science",
+        "Pentium",
+        "Algorithm",
+        "Fuzzy control system"
+    ],
+    "references": [
+        "1578281807",
+        "2109313762",
+        "2133535084"
+    ]
+}

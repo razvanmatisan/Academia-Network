@@ -1,0 +1,46 @@
+{
+    "id": "1506247199",
+    "title": "Localized maximum entropy shape modelling",
+    "venue": "information processing in medical imaging",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Marco Loog",
+            "id": "2688319911",
+            "org": "Department of Computer Science, University of Copenhagen, Copenhagen, Denmark#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern recognition",
+        "Image segmentation",
+        "Active shape model",
+        "Point distribution model",
+        "Artificial intelligence",
+        "Principle of maximum entropy",
+        "Maximum entropy probability distribution",
+        "Mathematical optimization",
+        "Principal component analysis",
+        "Covariance",
+        "Mathematics",
+        "Maximum entropy spectral estimation"
+    ],
+    "references": [
+        "22315611",
+        "1517542533",
+        "1545350214",
+        "1547368035",
+        "1604546381",
+        "1618577645",
+        "1712857887",
+        "1870947790",
+        "1909894032",
+        "2024798729",
+        "2038952578",
+        "2068367031",
+        "2105710164",
+        "2142152601",
+        "2147646630",
+        "2157886876",
+        "2171511536"
+    ]
+}

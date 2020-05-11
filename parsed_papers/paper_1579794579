@@ -1,0 +1,56 @@
+{
+    "id": "1579794579",
+    "title": "Passage-Based Document Retrieval as a Tool for Text Mining with User's Information Needs",
+    "venue": "discovery science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Koichi Kise",
+            "id": "2127227788",
+            "org": "German Research Center for Artificial Intelligence (DFKI GmbH)"
+        },
+        {
+            "name": "Koichi Kise",
+            "id": "2127227788",
+            "org": "German Research Center for Artificial Intelligence (DFKI GmbH)"
+        },
+        {
+            "name": "Markus Junker",
+            "id": "2462370894",
+            "org": "German Research Center for Artificial Intelligence (DFKI GmbH)"
+        },
+        {
+            "name": "Andreas Dengel",
+            "id": "734377096",
+            "org": "German Research Center for Artificial Intelligence (DFKI GmbH)"
+        },
+        {
+            "name": "Keinosuke Matsumoto",
+            "id": "2148758315",
+            "org": "Osaka Prefecture University"
+        }
+    ],
+    "fields_of_study": [
+        "Human-computer information retrieval",
+        "Data mining",
+        "Document retrieval",
+        "Information retrieval",
+        "Term Discrimination",
+        "Vector space model",
+        "Document clustering",
+        "tf-idf",
+        "Cognitive models of information retrieval",
+        "Relevance (information retrieval)",
+        "Computer science"
+    ],
+    "references": [
+        "1660390307",
+        "1988253520",
+        "1990837610",
+        "2005422315",
+        "2015629112",
+        "2019509999",
+        "2039933790",
+        "2121940249"
+    ]
+}

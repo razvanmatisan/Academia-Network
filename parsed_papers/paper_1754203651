@@ -1,0 +1,37 @@
+{
+    "id": "1754203651",
+    "title": "Scalable Multilevel Support Vector Machines",
+    "venue": "international conference on conceptual structures",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Talayeh Razzaghi",
+            "id": "2229397424",
+            "org": "Clemson University, Clemson, SC"
+        },
+        {
+            "name": "Ilya Safro",
+            "id": "59919527",
+            "org": "Clemson University, Clemson, SC"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Support vector machine",
+        "Artificial intelligence",
+        "Data mining",
+        "Training set",
+        "Data set",
+        "Scalability",
+        "Computer science",
+        "Quality management",
+        "Pattern recognition"
+    ],
+    "references": [
+        "93336383",
+        "1627400044",
+        "2096994080",
+        "2109277345",
+        "2153635508"
+    ]
+}

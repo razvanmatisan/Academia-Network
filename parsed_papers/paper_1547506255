@@ -1,0 +1,33 @@
+{
+    "id": "1547506255",
+    "title": "Inductive Definitions with Decidable Atomic Formulas",
+    "venue": "computer science logic",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Anton Setzer",
+            "id": "1812924146",
+            "org": "Uppsala University"
+        }
+    ],
+    "fields_of_study": [
+        "Decidability",
+        "Discrete mathematics",
+        "Mathematical proof",
+        "Type theory",
+        "Combinatorics",
+        "Natural number",
+        "Axiom",
+        "Axiomatic system",
+        "Conservative extension",
+        "Extensionality",
+        "Mathematics"
+    ],
+    "references": [
+        "1511668160",
+        "1517093898",
+        "1669957577",
+        "1808099261",
+        "1965946010"
+    ]
+}

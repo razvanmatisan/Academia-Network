@@ -1,0 +1,29 @@
+{
+    "id": "1553802778",
+    "title": "An Active Networks Overlay Network (ANON)",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Christian F. Tschudin",
+            "id": "2805848600",
+            "org": "Uppsala University"
+        }
+    ],
+    "fields_of_study": [
+        "Active networking",
+        "Network architecture",
+        "Hypertext Transfer Protocol",
+        "Network packet",
+        "Overlay network",
+        "Virtual network",
+        "Distributed computing",
+        "Cryptographic protocol",
+        "Computer network",
+        "The Internet",
+        "Computer science"
+    ],
+    "references": [
+        "1658200924"
+    ]
+}

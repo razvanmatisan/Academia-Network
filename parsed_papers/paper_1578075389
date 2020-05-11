@@ -1,0 +1,37 @@
+{
+    "id": "1578075389",
+    "title": "Proof pearl: Dijkstra's shortest path algorithm verified with ACL2",
+    "venue": "theorem proving in higher order logics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "J Strother Moore",
+            "id": "2112233366",
+            "org": "Department of Computer Sciences, University of Texas at Austin, Austin, Texas#TAB#"
+        },
+        {
+            "name": "Qiang Zhang",
+            "id": "2703292169",
+            "org": "Department of Computer Sciences, University of Texas at Austin, Austin, Texas#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Dijkstra's algorithm",
+        "Euclidean shortest path",
+        "Algorithm",
+        "Suurballe's algorithm",
+        "Yen's algorithm",
+        "K shortest path routing",
+        "Johnson's algorithm",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Shortest Path Faster Algorithm",
+        "Mathematics",
+        "Pathfinding"
+    ],
+    "references": [
+        "1588366745",
+        "2155155782",
+        "2167940678"
+    ]
+}

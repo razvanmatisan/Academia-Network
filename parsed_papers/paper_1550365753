@@ -1,0 +1,46 @@
+{
+    "id": "1550365753",
+    "title": "Face recognition with the multiple constrained mutual subspace method",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Masashi Nishiyama",
+            "id": "2174223982",
+            "org": "Corporate Research & Development, Toshiba Corporation, Japan#TAB#"
+        },
+        {
+            "name": "Osamu Yamaguchi",
+            "id": "2115220948",
+            "org": "Corporate Research & Development, Toshiba Corporation, Japan#TAB#"
+        },
+        {
+            "name": "Kazuhiro Fukui",
+            "id": "2062588634",
+            "org": "Department of Computer Science, Graduate School of Systems and Information Engineering, University of Tsukuba, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Boosting (machine learning)",
+        "Linear subspace",
+        "Ensemble learning",
+        "Image processing",
+        "Machine learning",
+        "Random subspace method",
+        "Vector space",
+        "Subspace topology",
+        "Facial recognition system",
+        "Mathematics",
+        "Pattern recognition",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1506778248",
+        "1556074820",
+        "1820849028",
+        "1988790447",
+        "2117138194",
+        "2122992400",
+        "2138388836"
+    ]
+}

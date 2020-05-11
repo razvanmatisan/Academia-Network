@@ -1,0 +1,42 @@
+{
+    "id": "1560782702",
+    "title": "Signature-Aware traffic monitoring with IPFIX",
+    "venue": "asia-pacific network operations and management symposium",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Youngseok Lee",
+            "id": "2142688358",
+            "org": "Dept. of Computer Engineering, Chungnam National University, Daejon, Korea#TAB#"
+        },
+        {
+            "name": "Seongho Shin",
+            "id": "2309768256",
+            "org": "Dept. of Computer Engineering, Chungnam National University, Daejon, Korea#TAB#"
+        },
+        {
+            "name": "Taeck-Geun Kwon",
+            "id": "2111211083",
+            "org": "Dept. of Computer Engineering, Chungnam National University, Daejon, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "IP header",
+        "Traffic flow",
+        "Internet traffic engineering",
+        "Floating car data",
+        "Traffic shaping",
+        "Traffic policing",
+        "Traffic generation model",
+        "Computer science",
+        "Internet traffic"
+    ],
+    "references": [
+        "61646295",
+        "1521553548",
+        "1674877186",
+        "2101111986",
+        "2110385611"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "1496284751",
+    "title": "D P 2 -complete lexicographically first maximal subgraph problems",
+    "venue": "Theoretical Computer Science",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Satoru Miyano",
+            "id": "2892644955",
+            "org": "Khushu Univ., Fukuoka, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Combinatorics",
+        "Directed graph",
+        "Directed acyclic graph",
+        "Graph property",
+        "Induced subgraph isomorphism problem",
+        "Hamiltonian path",
+        "Induced path",
+        "Graph theory",
+        "Mathematics",
+        "Longest path problem"
+    ],
+    "references": [
+        "1498460077",
+        "1505211902",
+        "1965151869",
+        "2004181701",
+        "2017205387",
+        "2051937719",
+        "2065067474",
+        "2068974371",
+        "2071114738",
+        "2071367694",
+        "2072181151",
+        "2078777386",
+        "2081298180",
+        "2081625072",
+        "2085467310",
+        "2116100695",
+        "2141925838"
+    ]
+}

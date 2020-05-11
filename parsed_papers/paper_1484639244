@@ -1,0 +1,53 @@
+{
+    "id": "1484639244",
+    "title": "How Do Agents Affect Modifiability? A Comparison between Two Architectures for Intelligent Virtual Environments for Training",
+    "venue": "european conference on software architecture",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Gonzalo Mendez",
+            "id": "2098247947",
+            "org": "Computer Science School, Technical University of Madrid,#TAB#"
+        },
+        {
+            "name": "Angelica de Antonio",
+            "id": "2162067096",
+            "org": "Computer Science School, Technical University of Madrid,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Database-centric architecture",
+        "Agent architecture",
+        "Resource-oriented architecture",
+        "Systems engineering",
+        "Reference architecture",
+        "Software peer review",
+        "Software architecture description",
+        "Software design description",
+        "Computer engineering",
+        "Social software engineering",
+        "Computer science"
+    ],
+    "references": [
+        "82615402",
+        "101183896",
+        "243853819",
+        "1528608383",
+        "1558761782",
+        "1593167330",
+        "1601931224",
+        "1845416965",
+        "1986787958",
+        "2038476425",
+        "2075935609",
+        "2086242215",
+        "2124272037",
+        "2124702273",
+        "2129899354",
+        "2134119432",
+        "2138515768",
+        "2147357263",
+        "2159973998",
+        "2167161002"
+    ]
+}

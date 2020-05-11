@@ -1,0 +1,37 @@
+{
+    "id": "1490766658",
+    "title": "Attributed Elementarz Programmed Graph Grammars",
+    "venue": "workshop on graph theoretic concepts in computer science",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Rudolf Freund",
+            "id": "2129898245",
+            "org": "Technische Universitat Wien"
+        },
+        {
+            "name": "Brigitte Haberstroh",
+            "id": "2500973479",
+            "org": "Technische Universitat Wien"
+        }
+    ],
+    "fields_of_study": [
+        "Directed graph",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Tree-adjoining grammar",
+        "Graph rewriting",
+        "Graph (abstract data type)",
+        "Clique-width",
+        "Computer science",
+        "Null graph",
+        "Voltage graph",
+        "Rewriting"
+    ],
+    "references": [
+        "79047183",
+        "130248688",
+        "1535038271",
+        "1554549380"
+    ]
+}

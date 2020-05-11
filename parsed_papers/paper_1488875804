@@ -1,0 +1,38 @@
+{
+    "id": "1488875804",
+    "title": "A first step towards security policy compliance of connectors",
+    "venue": "fundamentals of software engineering",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Sun Meng",
+            "id": "2893728195",
+            "org": "CWI, Amsterdam, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Security through obscurity",
+        "Security testing",
+        "Information security standards",
+        "Computer science",
+        "Security convergence",
+        "Computer security",
+        "Cloud computing security",
+        "Security service",
+        "Security information and event management",
+        "Computer security model"
+    ],
+    "references": [
+        "1488554676",
+        "1529485247",
+        "1592055490",
+        "1604636110",
+        "1838112905",
+        "1963594138",
+        "1988680012",
+        "2036910349",
+        "2096181863",
+        "2139842876",
+        "2897840903"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1552062265",
+    "title": "Self-stabilizing (k,r)-clustering in clock rate-limited systems",
+    "venue": "international conference on structural information and communication complexity",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Andreas Larsson",
+            "id": "2169646333",
+            "org": "Chalmers University of Technology and Goteborg University, Sweden#TAB#"
+        },
+        {
+            "name": "Philippas Tsigas",
+            "id": "2274820914",
+            "org": "Chalmers University of Technology and Goteborg University, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Wireless sensor network",
+        "Fault tolerance",
+        "Wireless",
+        "Scaling",
+        "Upper and lower bounds",
+        "Real-time computing",
+        "Pulse (signal processing)",
+        "Distributed computing",
+        "Clock rate",
+        "Computer science"
+    ],
+    "references": [
+        "1508840776",
+        "1587598372",
+        "1968332579",
+        "1975442866",
+        "1998808350",
+        "2018636858",
+        "2026326948",
+        "2088087163",
+        "2129588702",
+        "2151021082",
+        "2165491783",
+        "2171180566",
+        "2340995113"
+    ]
+}

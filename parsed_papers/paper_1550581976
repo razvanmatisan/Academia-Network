@@ -1,0 +1,34 @@
+{
+    "id": "1550581976",
+    "title": "Modelling compiler generation by graph grammars",
+    "venue": "international workshop on graph grammars and their application to computer science",
+    "year": 1982,
+    "authors": [
+        {
+            "name": "Berthold Hoffmann",
+            "id": "2571775898",
+            "org": "TU Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Parsing",
+        "Tree-adjoining grammar",
+        "Ambiguous grammar",
+        "Context-sensitive grammar",
+        "L-attributed grammar",
+        "Extended Affix Grammar",
+        "Programming language",
+        "Stochastic context-free grammar",
+        "Theoretical computer science",
+        "Context-free grammar",
+        "Computer science"
+    ],
+    "references": [
+        "1510094545",
+        "1768003599",
+        "1817451992",
+        "1964071625",
+        "2059438585",
+        "2579053891"
+    ]
+}

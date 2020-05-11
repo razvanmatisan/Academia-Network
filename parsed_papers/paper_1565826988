@@ -1,0 +1,48 @@
+{
+    "id": "1565826988",
+    "title": "Robust Curvature Extrema Detection Based on New Numerical Derivation",
+    "venue": "advanced concepts for intelligent vision systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Cedric Join",
+            "id": "685490747",
+            "org": "INRIA-ALIEN CRAN (UMR-CNRS 7039)-Universite Henri Poincare, Vandoeuvre-les-Nancy, France 54506#TAB#"
+        },
+        {
+            "name": "Salvatore Tabbone",
+            "id": "1168736529",
+            "org": "INRIA-QGAR LORIA (UMR 7503)-Universite Nancy 2, Vandoeuvre-les-Nancy, France 54506#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Nonlinear control",
+        "Maxima and minima",
+        "Curvature",
+        "Robustness (computer science)",
+        "Artificial intelligence",
+        "Mathematical optimization",
+        "Derivation",
+        "Pattern recognition",
+        "Decomposition method (constraint satisfaction)",
+        "Image retrieval",
+        "Arc (geometry)",
+        "Mathematics"
+    ],
+    "references": [
+        "1540296180",
+        "1965348147",
+        "1985951157",
+        "1994727303",
+        "2006609100",
+        "2017747428",
+        "2067607730",
+        "2097723793",
+        "2108528870",
+        "2117227640",
+        "2138241565",
+        "2146786178",
+        "2158676314"
+    ]
+}

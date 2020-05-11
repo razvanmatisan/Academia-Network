@@ -1,0 +1,31 @@
+{
+    "id": "1591577758",
+    "title": "On the Mechanization of Real Analysis in Isabelle/HOL",
+    "venue": "theorem proving in higher order logics",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Jacques D. Fleuriot",
+            "id": "739540358",
+            "org": "University of Edinburgh"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Theoretical computer science",
+        "HOL",
+        "Transcendental function",
+        "Formal verification",
+        "Automated theorem proving",
+        "Automation",
+        "Real analysis",
+        "Mechanization",
+        "Primitive recursive function",
+        "Mathematics"
+    ],
+    "references": [
+        "1498302502",
+        "2052995997",
+        "2080104522"
+    ]
+}

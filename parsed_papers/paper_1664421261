@@ -1,0 +1,45 @@
+{
+    "id": "1664421261",
+    "title": "DOEF: A Dynamic Object Evaluation Framework",
+    "venue": "database and expert systems applications",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Zhen He",
+            "id": "2143353724",
+            "org": "The Australian National University"
+        },
+        {
+            "name": "Jerome Darmont",
+            "id": "19399892",
+            "org": "Universite Lumiere Lyon 2"
+        }
+    ],
+    "fields_of_study": [
+        "Relational database",
+        "Database",
+        "Computer science",
+        "Data mining",
+        "Cluster analysis",
+        "Adaptability",
+        "XML database",
+        "Object-oriented programming",
+        "Extensibility",
+        "XML",
+        "Multimedia database"
+    ],
+    "references": [
+        "54838500",
+        "1586514605",
+        "1593536145",
+        "1604474099",
+        "1616397508",
+        "1807162426",
+        "1997092956",
+        "2066977784",
+        "2086681205",
+        "2089706179",
+        "2406143729",
+        "2467866310"
+    ]
+}

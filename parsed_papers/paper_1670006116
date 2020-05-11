@@ -1,0 +1,32 @@
+{
+    "id": "1670006116",
+    "title": "On the Homogeneous Model of Euclidean Geometry",
+    "venue": "arXiv: Metric Geometry",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Charles Gunn",
+            "id": "2779132316",
+            "org": "Technisches Universitat Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Algebra of physical space",
+        "Filtered algebra",
+        "Multivector",
+        "Clifford algebra",
+        "Classification of Clifford algebras",
+        "Geometric algebra",
+        "Euclidean domain",
+        "Topology",
+        "Eight-dimensional space",
+        "Mathematics"
+    ],
+    "references": [
+        "341789076",
+        "1485206903",
+        "1719494151",
+        "2033609949",
+        "2165675213"
+    ]
+}

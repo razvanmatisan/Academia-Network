@@ -1,0 +1,42 @@
+{
+    "id": "1814275833",
+    "title": "On the formalization of the lebesgue integration theory in HOL",
+    "venue": "interactive theorem proving",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Tarek Mhamdi",
+            "id": "1257512455",
+            "org": "ECE Department, Concordia University, Montreal, QC, Canada#TAB#"
+        },
+        {
+            "name": "Osman Hasan",
+            "id": "2011488621",
+            "org": "ECE Department, Concordia University, Montreal, QC, Canada#TAB#"
+        },
+        {
+            "name": "Sofiene Tahar",
+            "id": "1901381520",
+            "org": "ECE Department, Concordia University, Montreal, QC, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Lebesgue-Stieltjes integration",
+        "Differentiation of integrals",
+        "Daniell integral",
+        "Discrete mathematics",
+        "Measure (mathematics)",
+        "Mathematical analysis",
+        "Lebesgue's number lemma",
+        "Riemann integral",
+        "Lebesgue integration",
+        "Dominated convergence theorem",
+        "Mathematics"
+    ],
+    "references": [
+        "1545409775",
+        "1594381772",
+        "1606338671",
+        "2510179671"
+    ]
+}

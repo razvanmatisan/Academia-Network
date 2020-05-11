@@ -1,0 +1,47 @@
+{
+    "id": "1553476745",
+    "title": "Multigrid Reinforcement Learning with Reward Shaping",
+    "venue": "international conference on artificial neural networks",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Marek Grzes",
+            "id": "1709541888",
+            "org": "Department of Computer Science, University of York, York, UK YO10 5DD#TAB#"
+        },
+        {
+            "name": "Daniel Kudenko",
+            "id": "6466953",
+            "org": "Department of Computer Science, University of York, York, UK YO10 5DD#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Active learning (machine learning)",
+        "Semi-supervised learning",
+        "Machine learning",
+        "Q-learning",
+        "Learning classifier system",
+        "Unsupervised learning",
+        "Temporal difference learning",
+        "Reinforcement learning",
+        "Artificial intelligence",
+        "Multi-task learning",
+        "Computer science"
+    ],
+    "references": [
+        "1507087299",
+        "1552830313",
+        "1756110333",
+        "1777239053",
+        "2109910161",
+        "2121517924",
+        "2121733891",
+        "2121863487",
+        "2126565096",
+        "2158548602",
+        "2158969944",
+        "2160371091",
+        "2168319199",
+        "2296330590"
+    ]
+}

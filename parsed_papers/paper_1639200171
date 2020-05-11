@@ -1,0 +1,33 @@
+{
+    "id": "1639200171",
+    "title": "The Gnowsis Semantic Desktop for Information Integration.",
+    "venue": "wissensmanagement",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Leo Sauermann",
+            "id": "302195944",
+            "org": "German Research Centre for Artificial Intelligence"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Structure of Management Information",
+        "Haystack",
+        "Semantic Web",
+        "World Wide Web",
+        "Semantic Web Stack",
+        "Semantic integration",
+        "Semantic desktop",
+        "Social Semantic Web",
+        "Personal information manager",
+        "Computer science"
+    ],
+    "references": [
+        "1603243937",
+        "2018113587",
+        "2046166587",
+        "2047997333",
+        "2118402262"
+    ]
+}

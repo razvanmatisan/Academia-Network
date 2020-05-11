@@ -1,0 +1,40 @@
+{
+    "id": "1580625452",
+    "title": "Representation of genetic individuals for unmixing multispectral data",
+    "venue": "congress on evolutionary computation",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Arnaud Quirin",
+            "id": "2780981206",
+            "org": "LSIIT, CNRS, Univ. Louis Pasteur, Strasbourg, France"
+        },
+        {
+            "name": "Jerzy J. Korczak",
+            "id": "2248670586",
+            "org": "LSIIT, CNRS, Univ. Louis Pasteur, Strasbourg, France"
+        }
+    ],
+    "fields_of_study": [
+        "Supervised learning",
+        "Artificial intelligence",
+        "Genetic algorithm",
+        "Crossover",
+        "Statistical classification",
+        "Machine learning",
+        "Multispectral image",
+        "Contextual image classification",
+        "Multispectral pattern recognition",
+        "Pattern recognition",
+        "Genetic operator",
+        "Mathematics"
+    ],
+    "references": [
+        "1492461934",
+        "1568429543",
+        "1967306020",
+        "2120248066",
+        "2125941613",
+        "2153635508"
+    ]
+}

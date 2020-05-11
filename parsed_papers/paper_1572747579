@@ -1,0 +1,35 @@
+{
+    "id": "1572747579",
+    "title": "Non-Linear Perspective Projections",
+    "venue": "Modeling in Computer Graphics",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Masa Inakage",
+            "id": "2776493121",
+            "org": "Media Studio"
+        }
+    ],
+    "fields_of_study": [
+        "3D projection",
+        "Oblique projection",
+        "Graphical projection",
+        "Image warping",
+        "Mathematical optimization",
+        "Parallel projection",
+        "Projection plane",
+        "Orthographic projection",
+        "Computer vision",
+        "Computer graphics",
+        "Mathematics",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1987094469",
+        "1996130600",
+        "2041202461",
+        "2076017704",
+        "2089787380",
+        "2168938315"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1508015930",
+    "title": "Multiple Ant Colony Optimization for load balancing",
+    "venue": "intelligent data engineering and automated learning",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Kwang Mong Sim",
+            "id": "2632552479",
+            "org": "The Chinese University of Hong Kong"
+        },
+        {
+            "name": "Weng Hong Sun",
+            "id": "2682720391",
+            "org": "University of Macau"
+        }
+    ],
+    "fields_of_study": [
+        "Ant colony",
+        "Mobile agent",
+        "Mathematical optimization",
+        "Machine learning",
+        "Computer science",
+        "Ant colony optimization algorithms",
+        "Smoothing",
+        "Circuit switching",
+        "Testbed",
+        "Load balancing (computing)",
+        "Artificial intelligence",
+        "Traffic congestion"
+    ],
+    "references": [
+        "1801849579",
+        "2043226657",
+        "2120301934"
+    ]
+}

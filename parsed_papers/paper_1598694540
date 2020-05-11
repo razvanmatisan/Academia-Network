@@ -1,0 +1,28 @@
+{
+    "id": "1598694540",
+    "title": "Improving the Probabilistic Modeling of Market Basket Data",
+    "venue": "GfKl",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Christian Buchta",
+            "id": "2117928922",
+            "org": "Vienna University of Economics and Business Administration"
+        }
+    ],
+    "fields_of_study": [
+        "Neglect",
+        "Probabilistic logic",
+        "Probabilistic relevance model",
+        "Association rule learning",
+        "Data mining",
+        "Machine learning",
+        "Market basket",
+        "Computer science",
+        "Artificial intelligence",
+        "Statistical model"
+    ],
+    "references": [
+        "1499502868"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "132912941",
+    "title": "Correlation clustering for crosslingual link detection",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Jurgen Van Gael",
+            "id": "2632789554",
+            "org": "Computer Sciences Department, University of Wisconsin-Madison, Madison, WI#TAB#"
+        },
+        {
+            "name": "Xiaojin Zhu",
+            "id": "2132213614",
+            "org": "Computer Sciences Department, University of Wisconsin-Madison, Madison, WI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Artificial intelligence",
+        "Machine learning",
+        "Constrained clustering",
+        "Correlation clustering",
+        "CURE data clustering algorithm",
+        "Single-linkage clustering",
+        "Computer science",
+        "k-medians clustering",
+        "Canopy clustering algorithm",
+        "Pattern recognition",
+        "Brown clustering"
+    ],
+    "references": [
+        "176248467",
+        "1511938660",
+        "1576123718",
+        "1937758960",
+        "2005964311",
+        "2092094655",
+        "2096100960",
+        "2108997961",
+        "2117154949",
+        "2133236963",
+        "2134089414",
+        "2295665070"
+    ]
+}

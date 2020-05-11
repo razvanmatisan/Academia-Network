@@ -1,0 +1,30 @@
+{
+    "id": "1543791701",
+    "title": "Engineering Human-Error Tolerant Software",
+    "venue": "Proceedings of the Z User Workshop",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Michael D. Harrison",
+            "id": "2304366500",
+            "org": "University of York"
+        }
+    ],
+    "fields_of_study": [
+        "Usability",
+        "Predictability",
+        "Formal specification",
+        "Human error",
+        "Dynamical system",
+        "Interaction model",
+        "Operator (computer programming)",
+        "Reliability engineering",
+        "Software",
+        "Computer science"
+    ],
+    "references": [
+        "1481698460",
+        "1582925061",
+        "1982750387"
+    ]
+}

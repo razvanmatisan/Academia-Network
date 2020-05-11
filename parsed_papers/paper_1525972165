@@ -1,0 +1,29 @@
+{
+    "id": "1525972165",
+    "title": "Efficient Domain-Independent Experimentation",
+    "venue": "international conference on machine learning",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Yolanda Gil",
+            "id": "2145802646",
+            "org": "Information Sciences Institute, USC, 4676 Admiralty Way, Marina del Rey, CA 90292, gil@isi.edu"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Domain knowledge",
+        "Planner",
+        "Information theory",
+        "Business system planning",
+        "Artificial intelligence",
+        "Operator (computer programming)",
+        "Computer science",
+        "Heuristics"
+    ],
+    "references": [
+        "146193169",
+        "1481042511",
+        "1506740662"
+    ]
+}

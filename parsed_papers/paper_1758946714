@@ -1,0 +1,41 @@
+{
+    "id": "1758946714",
+    "title": "Practical Collisions for EnRUPT",
+    "venue": "fast software encryption",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Sebastiaan Indesteege",
+            "id": "79803544",
+            "org": "Department of Electrical Engineering ESAT/COSIC, Katholieke Universiteit Leuven, Heverlee, Belgium B-3001 and Interdisciplinary Institute for BroadBand Technology (IBBT), Belgium#TAB#"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Department of Electrical Engineering ESAT/COSIC, Katholieke Universiteit Leuven, Heverlee, Belgium B-3001 and Interdisciplinary Institute for BroadBand Technology (IBBT), Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Double hashing",
+        "SHA-2",
+        "Collision resistance",
+        "Cryptographic hash function",
+        "Claw-free permutation",
+        "Preimage attack",
+        "Collision attack",
+        "Theoretical computer science",
+        "SWIFFT",
+        "Computer science"
+    ],
+    "references": [
+        "1504341594",
+        "1521015940",
+        "1533979572",
+        "1603214199",
+        "1991133427",
+        "2095675261",
+        "2099250555",
+        "2103239853",
+        "2591363523"
+    ]
+}

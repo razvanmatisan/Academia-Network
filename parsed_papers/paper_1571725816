@@ -1,0 +1,33 @@
+{
+    "id": "1571725816",
+    "title": "A Brief Introduction to Coloured Petri Nets",
+    "venue": "tools and algorithms for construction and analysis of systems",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Kurt Jensen",
+            "id": "2112058976",
+            "org": "University of Aarhus"
+        }
+    ],
+    "fields_of_study": [
+        "Communications protocol",
+        "Coloured Petri net",
+        "Synchronization",
+        "Shared resource",
+        "Data type",
+        "Theoretical computer science",
+        "Process architecture",
+        "Very-large-scale integration",
+        "Petri net",
+        "Distributed computing",
+        "Computer science"
+    ],
+    "references": [
+        "247371672",
+        "1768076797",
+        "1798798823",
+        "1903679624",
+        "2051730641"
+    ]
+}

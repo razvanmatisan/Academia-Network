@@ -1,0 +1,32 @@
+{
+    "id": "1553127547",
+    "title": "ON THE SYSTEMIC ENTERPRISE ARCHITECTURE METHODOLOGY (SEAM)",
+    "venue": "international conference on enterprise information systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Alain Wegmann",
+            "id": "2324210463",
+            "org": "Ecole Polytechnique Federale de Lausanne"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Enterprise architecture",
+        "Knowledge management",
+        "NIST Enterprise Architecture Model",
+        "Management science",
+        "Enterprise architecture framework",
+        "Enterprise life cycle",
+        "Business architecture",
+        "Architecture domain",
+        "Computer science",
+        "Enterprise architecture management",
+        "Functional software architecture"
+    ],
+    "references": [
+        "2101646019",
+        "2151289244",
+        "2166056089"
+    ]
+}

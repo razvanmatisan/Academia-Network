@@ -1,0 +1,34 @@
+{
+    "id": "1514637558",
+    "title": "Structural properties of petri nets",
+    "venue": "mathematical foundations of computer science",
+    "year": 1978,
+    "authors": [
+        {
+            "name": "Joseph Sifakis",
+            "id": "2105927184",
+            "org": "Labo. IMAG"
+        }
+    ],
+    "fields_of_study": [
+        "Process architecture",
+        "Linear algebra",
+        "Stochastic Petri net",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Pathological",
+        "Petri net",
+        "Invariant (mathematics)",
+        "Liveness",
+        "Bounded function",
+        "Computer science"
+    ],
+    "references": [
+        "21371323",
+        "1521818842",
+        "1589725893",
+        "1993742654",
+        "2064051674",
+        "2090740917"
+    ]
+}

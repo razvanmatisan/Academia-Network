@@ -1,0 +1,37 @@
+{
+    "id": "1600357163",
+    "title": "An Explanatory Framework for Human Theorem Proving",
+    "venue": "GWAI '92 Proceedings of the 16th German Conference on Artificial Intelligence: Advances in Artificial Intelligence",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Xiaorong Huang",
+            "id": "2629254714",
+            "org": "Universitat des Saarlandes Im Stadtwald"
+        }
+    ],
+    "fields_of_study": [
+        "Computability theory",
+        "Discrete mathematics",
+        "Descriptive knowledge",
+        "No-go theorem",
+        "Fundamental theorem",
+        "Theory of computation",
+        "Automated theorem proving",
+        "Cognition",
+        "Compactness theorem",
+        "Mathematics"
+    ],
+    "references": [
+        "114528801",
+        "1489854325",
+        "1493069614",
+        "1524401418",
+        "1581769579",
+        "1590828018",
+        "2018221833",
+        "2100738443",
+        "2120062651",
+        "2128057448"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1590047110",
+    "title": "A Hybrid Receding-Horizon Control Scheme for Nonlinear Discrete-Time Systems",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Thomas Parisini",
+            "id": "115506520",
+            "org": "DEEI - University of Trieste"
+        },
+        {
+            "name": "Simona Sacone",
+            "id": "1936307307",
+            "org": "DIST - University of Genoa"
+        }
+    ],
+    "fields_of_study": [
+        "Sliding mode control",
+        "Discrete time and continuous time",
+        "Hybrid system",
+        "Finite-state machine",
+        "Optimal control",
+        "Control system",
+        "Control theory",
+        "Control theory",
+        "Nonlinear system",
+        "Computer science"
+    ],
+    "references": [
+        "1504756454",
+        "1559815321",
+        "1601320657",
+        "1920642675",
+        "2061757541"
+    ]
+}

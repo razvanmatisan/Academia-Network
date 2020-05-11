@@ -1,0 +1,39 @@
+{
+    "id": "1821137465",
+    "title": "Research of Knowledge Reduction Based on New Conditional Entropy",
+    "venue": "rough sets and knowledge technology",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jiucheng Xu",
+            "id": "2157272951",
+            "org": "College of Computer and Information Technology, Henan Normal University, Xinxiang Henan, China 453007#TAB#"
+        },
+        {
+            "name": "Lin Sun",
+            "id": "2597627890",
+            "org": "College of Computer and Information Technology, Henan Normal University, Xinxiang Henan, China 453007#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Entropy (information theory)",
+        "Conditional entropy",
+        "Data classification",
+        "Decision table",
+        "Artificial intelligence",
+        "Data set",
+        "Knowledge acquisition",
+        "Pattern recognition",
+        "Computer science",
+        "Complex data type",
+        "Rough set"
+    ],
+    "references": [
+        "1747974524",
+        "1798724659",
+        "1986537524",
+        "2027260346",
+        "2041404167"
+    ]
+}

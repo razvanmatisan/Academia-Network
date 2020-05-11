@@ -1,0 +1,49 @@
+{
+    "id": "1497714327",
+    "title": "Languages and Logical Definability in Concurrency Monoids",
+    "venue": "computer science logic",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Manfred Droste",
+            "id": "2129076433",
+            "org": "Technische Universitat Dresden"
+        },
+        {
+            "name": "Dietrich Kuske",
+            "id": "2723322863",
+            "org": "Technische Universitat Dresden"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Aperiodic graph",
+        "Monadic predicate calculus",
+        "Combinatorics",
+        "Partially ordered set",
+        "Binary relation",
+        "Concurrency",
+        "Monoid",
+        "Atomic formula",
+        "Trace theory",
+        "Mathematics"
+    ],
+    "references": [
+        "187986157",
+        "1492625855",
+        "1549720865",
+        "1582828320",
+        "1605354378",
+        "1608340630",
+        "1707765989",
+        "1719710774",
+        "1872575215",
+        "1967736886",
+        "1977150987",
+        "2034083679",
+        "2061609277",
+        "2075557235",
+        "2099361053",
+        "2136377643"
+    ]
+}

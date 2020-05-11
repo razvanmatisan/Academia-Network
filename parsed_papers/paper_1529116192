@@ -1,0 +1,47 @@
+{
+    "id": "1529116192",
+    "title": "Using Fields and Explicit Substitutions to Implement Objects and Functions in a de Bruijn Setting",
+    "venue": "computer science logic",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Eduardo Bonelli",
+            "id": "2305659865",
+            "org": "Universite de Paris-Sud"
+        },
+        {
+            "name": "Eduardo Bonelli",
+            "id": "2305659865",
+            "org": "Universite de Paris-Sud"
+        }
+    ],
+    "fields_of_study": [
+        "De Bruijn sequence",
+        "Discrete mathematics",
+        "Normalization (statistics)",
+        "Combinatorics",
+        "Time-scale calculus",
+        "Functional calculus",
+        "Lambda calculus",
+        "Object-oriented programming",
+        "Explicit substitution",
+        "De Bruijn index",
+        "Mathematics"
+    ],
+    "references": [
+        "1488897269",
+        "1503937100",
+        "1544633123",
+        "1559970946",
+        "1560809858",
+        "1589216209",
+        "1848485899",
+        "1992452788",
+        "2017143801",
+        "2086747974",
+        "2118420900",
+        "2122197073",
+        "2126650211",
+        "2295866357"
+    ]
+}

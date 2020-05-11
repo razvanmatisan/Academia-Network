@@ -1,0 +1,30 @@
+{
+    "id": "1607012965",
+    "title": "Some Software Packages for Partial SVD Computation",
+    "venue": "arXiv: Optimization and Control",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Zhouchen Lin",
+            "id": "2141729011",
+            "org": "Microsoft"
+        }
+    ],
+    "fields_of_study": [
+        "Singular value",
+        "Computation",
+        "Mathematical optimization",
+        "Computational science",
+        "Singular value decomposition",
+        "Software",
+        "Theoretical computer science",
+        "Lanczos resampling",
+        "Computer science",
+        "Technical report",
+        "Mathematical software"
+    ],
+    "references": [
+        "1736339626",
+        "1914367534"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1506442979",
+    "title": "Rabbit: developing a control natural language for authoring ontologies",
+    "venue": "european semantic web conference",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Glen Hart",
+            "id": "2152954659",
+            "org": "Ordnance Survey of Great Britain, Southampton, England#TAB#"
+        },
+        {
+            "name": "Martina Johnson",
+            "id": "2437745538",
+            "org": "Ordnance Survey of Great Britain, Southampton, England#TAB#"
+        },
+        {
+            "name": "Catherine Dolbear",
+            "id": "2020274902",
+            "org": "Ordnance Survey of Great Britain, Southampton, England#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language",
+        "Interoperability",
+        "Description logic",
+        "Natural language processing",
+        "Syntax",
+        "Comprehension",
+        "Ontology (information science)",
+        "Computer science",
+        "Artificial intelligence",
+        "Controlled natural language"
+    ],
+    "references": [
+        "63293889",
+        "89942291",
+        "1500674139",
+        "1564494788",
+        "2164827396",
+        "2626304854",
+        "2760460926"
+    ]
+}

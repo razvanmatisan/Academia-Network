@@ -1,0 +1,66 @@
+{
+    "id": "1487518972",
+    "title": "On Combining WS-Policy4MASC and ASF to Support Business-Driven Autonomic Service-Oriented Computing",
+    "venue": "business process management",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Vladimir Tosic",
+            "id": "220978160",
+            "org": "NICTA"
+        },
+        {
+            "name": "Vladimir Tosic",
+            "id": "220978160",
+            "org": "NICTA"
+        },
+        {
+            "name": "Vladimir Tosic",
+            "id": "220978160",
+            "org": "NICTA"
+        },
+        {
+            "name": "Yan Liu",
+            "id": "2461102999",
+            "org": "NICTA"
+        },
+        {
+            "name": "Yan Liu",
+            "id": "2461102999",
+            "org": "NICTA"
+        },
+        {
+            "name": "Liming Zhu",
+            "id": "2159138297",
+            "org": "NICTA"
+        },
+        {
+            "name": "Liming Zhu",
+            "id": "2159138297",
+            "org": "NICTA"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Process management",
+        "Systems engineering",
+        "Service product management",
+        "Differentiated service",
+        "Service delivery framework",
+        "Service design",
+        "Service-oriented architecture",
+        "Autonomic computing",
+        "Customer Service Assurance",
+        "Data as a service"
+    ],
+    "references": [
+        "1539797561",
+        "1938881678",
+        "1995267439",
+        "2017244105",
+        "2049430277",
+        "2144031487",
+        "2162619840",
+        "2168204271"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1536705933",
+    "title": "Coping with the parallelism of bittorrent: conversion of PEPA to ODEs in dealing with state space explosion",
+    "venue": "formal modeling and analysis of timed systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Adam Duguid",
+            "id": "2131052975",
+            "org": "Laboratory of Computer Science, The University of Edinburgh#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Process calculus",
+        "PEPA",
+        "BitTorrent",
+        "Theoretical computer science",
+        "State space",
+        "Computer science",
+        "Stochastic process",
+        "Distributed computing",
+        "Continuous-time Markov chain",
+        "Stochastic simulation",
+        "Markov chain"
+    ],
+    "references": [
+        "1587845087",
+        "1853723677",
+        "2007006124",
+        "2021089599",
+        "2110796675",
+        "2166245380",
+        "2166707941"
+    ]
+}

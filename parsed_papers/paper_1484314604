@@ -1,0 +1,45 @@
+{
+    "id": "1484314604",
+    "title": "A knowledge-based system for automatic program construction",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1977,
+    "authors": [
+        {
+            "name": "David R. Barstow",
+            "id": "2110115087",
+            "org": "Computer Science Department, Stanford University, Stanford, California#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge base",
+        "Systems engineering",
+        "Knowledge extraction",
+        "Artificial intelligence",
+        "Machine learning",
+        "Domain knowledge",
+        "Knowledge-based systems",
+        "Fifth-generation programming language",
+        "Knowledge integration",
+        "Procedural knowledge",
+        "Computer science",
+        "Knowledge management",
+        "Open Knowledge Base Connectivity"
+    ],
+    "references": [
+        "36814619",
+        "1484780672",
+        "1973060689",
+        "1975054641",
+        "1995925686",
+        "2001683075",
+        "2008395018",
+        "2008629204",
+        "2088129973",
+        "2091346899",
+        "2113277794",
+        "2129101771",
+        "2133016820",
+        "2157454496",
+        "2610453389"
+    ]
+}

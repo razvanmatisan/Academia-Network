@@ -1,0 +1,43 @@
+{
+    "id": "1808621770",
+    "title": "NXLib - A Parallel Programming Environment for Workstation Clusters",
+    "venue": "international conference on parallel architectures and languages europe",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Georg Stellner",
+            "id": "1651195",
+            "org": "Technische Universitat Munchen"
+        },
+        {
+            "name": "Arndt Bode",
+            "id": "2127714974",
+            "org": "Technische Universitat Munchen"
+        },
+        {
+            "name": "Stefan Lamberts",
+            "id": "2084003047",
+            "org": "Technische Universitat Munchen"
+        },
+        {
+            "name": "Thomas Ludwig",
+            "id": "2246251359",
+            "org": "Technische Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Communications protocol",
+        "Source code",
+        "Workstation",
+        "Parallel computing",
+        "Computer architecture",
+        "Software",
+        "Cluster (physics)",
+        "Computer science",
+        "Supercomputer"
+    ],
+    "references": [
+        "1587378023",
+        "2108167744"
+    ]
+}

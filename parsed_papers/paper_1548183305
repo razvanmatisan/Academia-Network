@@ -1,0 +1,37 @@
+{
+    "id": "1548183305",
+    "title": "What's so good about quadrature filters?",
+    "venue": "international conference on image processing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Hans Knutsson",
+            "id": "1996709181",
+            "org": "Dept. of Biomedical Eng., Linkoping Univ., Sweden"
+        },
+        {
+            "name": "Mats Andersson",
+            "id": "2073935852",
+            "org": "Dept. of Biomedical Eng., Linkoping Univ., Sweden"
+        }
+    ],
+    "fields_of_study": [
+        "Structure tensor",
+        "Computer vision",
+        "Gauss-Kronrod quadrature formula",
+        "Motion estimation",
+        "Artificial intelligence",
+        "Gaussian",
+        "Estimator",
+        "Mathematical optimization",
+        "Robustness (computer science)",
+        "Quadrature (mathematics)",
+        "Clenshaw-Curtis quadrature",
+        "Mathematics"
+    ],
+    "references": [
+        "1542873368",
+        "1553200558",
+        "1576696893"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1508328462",
+    "title": "REMEX - A Case-Based Approach for Reusing Software Measurement Experienceware",
+    "venue": "international conference on case based reasoning",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Christiane Gresse von Wangenheim",
+            "id": "7013895",
+            "org": "Universidade Federal de Santa Catarina"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Systems engineering",
+        "Software Engineering Process Group",
+        "Domain analysis",
+        "Data mining",
+        "Software construction",
+        "Social software engineering",
+        "Software peer review",
+        "Software sizing",
+        "Package development process",
+        "Domain engineering",
+        "Knowledge management"
+    ],
+    "references": [
+        "104429049",
+        "1480264458",
+        "1497852383",
+        "1558452392",
+        "1559128549",
+        "2004817736",
+        "2109359713",
+        "2115457348",
+        "2126385963"
+    ]
+}

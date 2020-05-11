@@ -1,0 +1,53 @@
+{
+    "id": "1762649963",
+    "title": "Supporting ontology-based semantic matching in RDBMS",
+    "venue": "very large data bases",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Souripriya Das",
+            "id": "2097752854",
+            "org": "Oracle Corporation, Nashua, NH#TAB#"
+        },
+        {
+            "name": "Eugene Inseok Chong",
+            "id": "2006533407",
+            "org": "Oracle Corporation, Nashua, NH#TAB#"
+        },
+        {
+            "name": "George Eadon",
+            "id": "2763564759",
+            "org": "Oracle Corporation, Nashua, NH#TAB#"
+        },
+        {
+            "name": "Jagannathan Srinivasan",
+            "id": "2627290768",
+            "org": "Oracle Corporation, Nashua, NH#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Ontology-based data integration",
+        "Process ontology",
+        "Database",
+        "OWL-S",
+        "Computer science",
+        "Upper ontology",
+        "Ontology (information science)",
+        "SQL",
+        "Semantic matching",
+        "Indexation"
+    ],
+    "references": [
+        "46723978",
+        "1536113828",
+        "1753166650",
+        "1860254516",
+        "1924882904",
+        "2050592694",
+        "2052116093",
+        "2066999271",
+        "2155510680",
+        "2160375412"
+    ]
+}

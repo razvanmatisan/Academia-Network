@@ -1,0 +1,40 @@
+{
+    "id": "1541730457",
+    "title": "Complexity analysis of real-time reinforcement learning",
+    "venue": "national conference on artificial intelligence",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Sven Koenig",
+            "id": "2130082723",
+            "org": "School of Computer Science, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Reid G. Simmons",
+            "id": "2130920929",
+            "org": "School of Computer Science, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Q-learning",
+        "Mathematical optimization",
+        "Artificial intelligence",
+        "Machine learning",
+        "Learning classifier system",
+        "Active learning (machine learning)",
+        "Reinforcement learning",
+        "Unsupervised learning",
+        "Computer science",
+        "Probabilistic analysis of algorithms",
+        "Stability (learning theory)",
+        "Weighted Majority Algorithm"
+    ],
+    "references": [
+        "145683767",
+        "1491843047",
+        "2021061679",
+        "2032100464",
+        "2100684997",
+        "2156184725"
+    ]
+}

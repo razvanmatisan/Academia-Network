@@ -1,0 +1,33 @@
+{
+    "id": "1525141167",
+    "title": "Steps towards a first-order logic of explicit and implicit belief",
+    "venue": "theoretical aspects of rationality and knowledge",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Gerhard Lakemeyer",
+            "id": "2670645268",
+            "org": "University of Toronto, Toronto, Ontario, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "T-norm fuzzy logics",
+        "Rule of inference",
+        "Well-formed formula",
+        "Propositional calculus",
+        "Monoidal t-norm logic",
+        "Zeroth-order logic",
+        "Classical logic",
+        "Artificial intelligence",
+        "Non-monotonic logic",
+        "Mathematics"
+    ],
+    "references": [
+        "174166643",
+        "1545815294",
+        "1570099385",
+        "2021693981",
+        "2053017611",
+        "2148717074"
+    ]
+}

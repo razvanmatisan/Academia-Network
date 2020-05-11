@@ -1,0 +1,42 @@
+{
+    "id": "1535136372",
+    "title": "Bayesian metanetwork for context-sensitive feature relevance",
+    "venue": "hellenic conference on artificial intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Vagan Y. Terziyan",
+            "id": "116134149",
+            "org": "Industrial Ontologies Group, Agora Center, University of Jyvaskyla, Jyvaskyla, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Probability distribution",
+        "Machine learning",
+        "Causality",
+        "Data mining",
+        "Substructure",
+        "Formalism (philosophy)",
+        "Probabilistic logic",
+        "Bayesian network",
+        "Computer science",
+        "Architecture",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Bayesian probability"
+    ],
+    "references": [
+        "1522114398",
+        "1544444076",
+        "1546613574",
+        "1560170243",
+        "1696883162",
+        "1817561967",
+        "1841884721",
+        "1963863456",
+        "2087757986",
+        "2101782549",
+        "2156954009",
+        "2159080219"
+    ]
+}

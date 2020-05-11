@@ -1,0 +1,43 @@
+{
+    "id": "1593326346",
+    "title": "Combining CBR with Interactive Knowledge Acquisition, Manipulation and Reuse",
+    "venue": "international conference on case based reasoning",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "David B. Leake",
+            "id": "2474513441",
+            "org": "Indiana University"
+        },
+        {
+            "name": "David C. Wilson",
+            "id": "2443776490",
+            "org": "Indiana University"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Data mining",
+        "Reuse",
+        "Systems engineering",
+        "Design knowledge",
+        "Concept map",
+        "Intelligent decision support system",
+        "Knowledge-based systems",
+        "Case-based reasoning",
+        "Knowledge acquisition",
+        "Knowledge management"
+    ],
+    "references": [
+        "209013032",
+        "1492602652",
+        "1525136198",
+        "1545049921",
+        "1600479587",
+        "2033243999",
+        "2099495526",
+        "2099890300",
+        "2145454741",
+        "2156169854"
+    ]
+}

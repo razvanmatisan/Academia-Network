@@ -1,0 +1,32 @@
+{
+    "id": "1552402248",
+    "title": "New Results on Pseudorandom Permutation Generators Based on the DES Scheme",
+    "venue": "international cryptology conference",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Jacques Patarin",
+            "id": "2115493875",
+            "org": "INRIA Domaine de Voluceau"
+        }
+    ],
+    "fields_of_study": [
+        "Partial permutation",
+        "Generalized permutation matrix",
+        "Permutation graph",
+        "Discrete mathematics",
+        "Bit-reversal permutation",
+        "Random permutation statistics",
+        "Combinatorics",
+        "Pseudorandom permutation",
+        "Cyclic permutation",
+        "Random permutation",
+        "Mathematics"
+    ],
+    "references": [
+        "116725534",
+        "1484296207",
+        "1540000918",
+        "2077300005"
+    ]
+}

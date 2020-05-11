@@ -1,0 +1,36 @@
+{
+    "id": "1588067184",
+    "title": "Fitness Landscapes and Evolutionary Algorithms",
+    "venue": "european conference on artificial evolution",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Colin R. Reeves",
+            "id": "2021032546",
+            "org": "Coventry University"
+        }
+    ],
+    "fields_of_study": [
+        "Fitness landscape",
+        "Evolutionary algorithm",
+        "Evolutionary computation",
+        "Cultural algorithm",
+        "Interactive evolutionary computation",
+        "Evolutionary programming",
+        "Mathematical optimization",
+        "Fitness approximation",
+        "Computer science",
+        "Memetic algorithm"
+    ],
+    "references": [
+        "1493965168",
+        "1534688999",
+        "1546457065",
+        "1572140472",
+        "1976215910",
+        "2032431794",
+        "2075121996",
+        "2117503054",
+        "2267333910"
+    ]
+}

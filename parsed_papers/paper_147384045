@@ -1,0 +1,42 @@
+{
+    "id": "147384045",
+    "title": "Improving the Usability of Large Ontologies by Modularization",
+    "venue": "KWEPSY",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Anne Schlicht",
+            "id": "2149763091",
+            "org": "University of Mannheim"
+        }
+    ],
+    "fields_of_study": [
+        "Modular programming",
+        "Computation",
+        "Ontology",
+        "Natural language processing",
+        "Usability",
+        "Semantic Web",
+        "Foundational Model of Anatomy",
+        "Modular design",
+        "Human-computer interaction",
+        "Ontology (information science)",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "53707990",
+        "90854953",
+        "93175922",
+        "112686205",
+        "138462474",
+        "1524471360",
+        "1555720472",
+        "1971508608",
+        "2102033455",
+        "2112977402",
+        "2154829072",
+        "2163272338",
+        "2164947858"
+    ]
+}

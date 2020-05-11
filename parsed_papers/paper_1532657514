@@ -1,0 +1,38 @@
+{
+    "id": "1532657514",
+    "title": "Formal Models for Cognition - Taxonomy of Spatial Location Description and Frames of Reference",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Andrew U. Frank",
+            "id": "2095605808",
+            "org": "Technical University Vienna"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Spatial intelligence",
+        "Qualitative reasoning",
+        "Natural language processing",
+        "Invariant (mathematics)",
+        "Location Description",
+        "Reference frame",
+        "Frame of reference",
+        "Cardinal direction",
+        "Computer science",
+        "Visual perception",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1498924987",
+        "1507693023",
+        "1507891123",
+        "1571615440",
+        "2018756677",
+        "2033522852",
+        "2078019102",
+        "2161484642",
+        "2166822586"
+    ]
+}

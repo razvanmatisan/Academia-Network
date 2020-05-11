@@ -1,0 +1,38 @@
+{
+    "id": "1524976612",
+    "title": "How to maximize software performance of symmetric primitives on pentium III and 4 processors",
+    "venue": "fast software encryption",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Mitsuru Matsui",
+            "id": "2020760526",
+            "org": "Information Technology R&D Center, Mitsubishi Electric Corporation, Kamakura, Kanagawa, Japan#TAB#"
+        },
+        {
+            "name": "Sayaka Fukuda",
+            "id": "2132085168",
+            "org": "Information Technology R&D Center, Mitsubishi Electric Corporation, Kamakura, Kanagawa, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric multiprocessing",
+        "Megahertz myth",
+        "Parallel computing",
+        "Distributed computing",
+        "Block cipher",
+        "Architecture",
+        "Page Size Extension",
+        "Instruction set",
+        "Computer architecture",
+        "Pentium",
+        "Computer science",
+        "Branch predictor"
+    ],
+    "references": [
+        "1522297845",
+        "1849416072",
+        "2149019291",
+        "2172632525"
+    ]
+}

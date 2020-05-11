@@ -1,0 +1,39 @@
+{
+    "id": "1512507524",
+    "title": "Novel Algorithms for Robust Registration of Fiducials in CT and MRI",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Sangyoon Lee",
+            "id": "2799255822",
+            "org": "Johns Hopkins University"
+        },
+        {
+            "name": "Gabor Fichtinger",
+            "id": "2136032002",
+            "org": "Johns Hopkins University"
+        },
+        {
+            "name": "Gregory S. Chirikjian",
+            "id": "268136995",
+            "org": "Johns Hopkins University"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Data set",
+        "Robustness (computer science)",
+        "Computer science",
+        "FLOPS",
+        "Planar",
+        "Algorithm",
+        "Image plane",
+        "Fiducial marker"
+    ],
+    "references": [
+        "1539495916"
+    ]
+}

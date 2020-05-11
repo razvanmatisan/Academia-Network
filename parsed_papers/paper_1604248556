@@ -1,0 +1,36 @@
+{
+    "id": "1604248556",
+    "title": "Automated verbalization for ORM 2",
+    "venue": "international conference on move to meaningful internet systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Terry A. Halpin",
+            "id": "2302753368",
+            "org": "Neumont University, Utah#TAB#"
+        },
+        {
+            "name": "Matthew Curland",
+            "id": "2011105929",
+            "org": "Neumont University, Utah#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Business domain",
+        "Object Constraint Language",
+        "Database",
+        "XML",
+        "Subject-matter expert",
+        "XSLT",
+        "Object-role modeling",
+        "Conceptual schema",
+        "Computer science",
+        "Business rule"
+    ],
+    "references": [
+        "185511748",
+        "1577598967",
+        "1836729069",
+        "1998430220"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": "1494236755",
+    "title": "Representational issues in machine learning",
+    "venue": "international conference on machine learning",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Devika Subramanian",
+            "id": "2164919627",
+            "org": "Department of Computer Science, Cornell University, Ithaca, NY 14853"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Inference",
+        "Robot learning",
+        "Error-driven learning",
+        "Multi-task learning",
+        "Natural language processing",
+        "Vocabulary",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "98709364",
+        "1997272161",
+        "2019363670"
+    ]
+}

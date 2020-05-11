@@ -1,0 +1,34 @@
+{
+    "id": "1622397659",
+    "title": "Metrics for evaluating dialogue strategies in a spoken language system",
+    "venue": "arXiv: Computation and Language",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Morena Danieli",
+            "id": "2303894481",
+            "org": "CSELT - Torino, Italy"
+        },
+        {
+            "name": "Elisabetta Gerbino",
+            "id": "1906540595",
+            "org": "CSELT - Torino, Italy"
+        }
+    ],
+    "fields_of_study": [
+        "Database transaction",
+        "Spoken language",
+        "Artificial intelligence",
+        "Natural language processing",
+        "Computer science",
+        "Report evaluation"
+    ],
+    "references": [
+        "2208146",
+        "10329047",
+        "109558583",
+        "1947630885",
+        "2066978093",
+        "2078098467"
+    ]
+}

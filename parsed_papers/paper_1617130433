@@ -1,0 +1,44 @@
+{
+    "id": "1617130433",
+    "title": "Applying Application Lifecycle Management for the Development of Complex Systems: Experiences from the Automation Industry",
+    "venue": "european conference on software process improvement",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jukka Kaariainen",
+            "id": "2062009719",
+            "org": "VTT"
+        },
+        {
+            "name": "Antti Valimaki",
+            "id": "2022053821",
+            "org": "Metso Automation Inc"
+        }
+    ],
+    "fields_of_study": [
+        "Configuration management",
+        "Automation",
+        "Complex system",
+        "Agile software development",
+        "Product lifecycle",
+        "Application lifecycle management",
+        "Complex system",
+        "Scrum",
+        "Systems engineering",
+        "Engineering"
+    ],
+    "references": [
+        "81688766",
+        "1495479466",
+        "1546685302",
+        "1764740108",
+        "1966663879",
+        "1984213947",
+        "2126900856",
+        "2128849765",
+        "2137053516",
+        "2143040687",
+        "2146689959",
+        "2158222722"
+    ]
+}

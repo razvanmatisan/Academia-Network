@@ -1,0 +1,30 @@
+{
+    "id": "1559318659",
+    "title": "The UML family: profiles, prefaces and packages",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Steve Cook",
+            "id": "2163725506",
+            "org": "IBM UK Ltd, Sunbury-on-Thames, Middlesex, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Object Constraint Language",
+        "Natural language processing",
+        "Specification language",
+        "Programming language",
+        "Language family",
+        "Unified Modeling Language",
+        "Computer science",
+        "Abstract syntax",
+        "Computer programming",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1497996216",
+        "1913755735",
+        "2099293367"
+    ]
+}

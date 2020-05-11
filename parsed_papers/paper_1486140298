@@ -1,0 +1,34 @@
+{
+    "id": "1486140298",
+    "title": "On Positioning for Augmented Reality Systems",
+    "venue": "ubiquitous computing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Stelian Persa",
+            "id": "1972561976",
+            "org": "Delft University of Technology"
+        },
+        {
+            "name": "Pieter P. Jonker",
+            "id": "1852610172",
+            "org": "Delft University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "SIMD",
+        "Augmented reality",
+        "Virtual reality",
+        "Processor array",
+        "Image processing",
+        "Positioning system",
+        "Virtual image",
+        "Computer vision",
+        "Artificial intelligence",
+        "Computer science",
+        "Tracking system"
+    ],
+    "references": [
+        "1989742860"
+    ]
+}

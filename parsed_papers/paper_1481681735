@@ -1,0 +1,46 @@
+{
+    "id": "1481681735",
+    "title": "Exploiting mobility as context for energy-efficient location-aware computing",
+    "venue": "embedded and ubiquitous computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "MoonBae Song",
+            "id": "2146395309",
+            "org": "Dept. of Computer Science and Engineering, Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "KwangJin Park",
+            "id": "2147915356",
+            "org": "Dept. of Computer Science and Engineering, Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Ki-Sik Kong",
+            "id": "2088200075",
+            "org": "Dept. of Computer Science and Engineering, Korea University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Exploit",
+        "Real-time computing",
+        "Efficient energy use",
+        "Network interface controller",
+        "Energy consumption",
+        "Computer science",
+        "Ubiquitous computing",
+        "Distributed computing",
+        "Mobility model",
+        "Mobile computing",
+        "Algorithmics"
+    ],
+    "references": [
+        "1521536236",
+        "1566658900",
+        "1599406659",
+        "1984216594",
+        "2018798792",
+        "2045999995",
+        "2109464511",
+        "2145922953"
+    ]
+}

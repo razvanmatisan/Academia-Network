@@ -1,0 +1,29 @@
+{
+    "id": "1495513990",
+    "title": "Greedy Algorithm of Decision Tree Construction for Real Data Tables",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Mikhail Ju. Moshkov",
+            "id": "2591033537",
+            "org": "Nizhny Novgorod State University"
+        }
+    ],
+    "fields_of_study": [
+        "Greedy algorithm",
+        "Table (information)",
+        "Decision tree",
+        "Decision table",
+        "Mathematical optimization",
+        "Kruskal's algorithm",
+        "Decision tree learning",
+        "Incremental decision tree",
+        "ID3 algorithm",
+        "Mathematics"
+    ],
+    "references": [
+        "1533065391",
+        "2000869424"
+    ]
+}

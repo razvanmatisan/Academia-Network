@@ -1,0 +1,54 @@
+{
+    "id": "1580365516",
+    "title": "A verifiable modeling approach to configurable role-based access control",
+    "venue": "fundamental approaches to software engineering",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Dae-Kyoo Kim",
+            "id": "2142115809",
+            "org": "Department of Computer Science and Engineering, Oakland University, Rochester, MI#TAB#"
+        },
+        {
+            "name": "Lunjin Lu",
+            "id": "2169920286",
+            "org": "Department of Computer Science and Engineering, Oakland University, Rochester, MI#TAB#"
+        },
+        {
+            "name": "Sangsig Kim",
+            "id": "2116135323",
+            "org": "Department of Computer Science and Engineering, Oakland University, Rochester, MI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Enterprise system",
+        "Object Constraint Language",
+        "Theoretical computer science",
+        "Scalability",
+        "Class diagram",
+        "Database",
+        "Sequence diagram",
+        "Distributed computing",
+        "Computer science",
+        "Role-based access control",
+        "Access control",
+        "Unified Modeling Language"
+    ],
+    "references": [
+        "1486178352",
+        "1521203270",
+        "1524147119",
+        "1860761177",
+        "1998109675",
+        "2037392323",
+        "2053741629",
+        "2076004681",
+        "2105706607",
+        "2120628527",
+        "2139453480",
+        "2154765153",
+        "2167846431",
+        "2168914087",
+        "2171837288"
+    ]
+}

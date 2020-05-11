@@ -1,0 +1,36 @@
+{
+    "id": "13024796",
+    "title": "A knowledge framework for natural language analysis",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Paul S. Jacobs",
+            "id": "2598983918",
+            "org": "GE Corporate R&D, Schenectady, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Domain knowledge",
+        "MultiNet",
+        "Question answering",
+        "Artificial intelligence",
+        "Universal Networking Language",
+        "Machine learning",
+        "Natural language processing",
+        "Body of knowledge",
+        "Knowledge representation and reasoning",
+        "Language identification",
+        "Computer science",
+        "Open Knowledge Base Connectivity"
+    ],
+    "references": [
+        "1512503341",
+        "1573088684",
+        "1974731480",
+        "2100448187",
+        "2132465770",
+        "2159525276",
+        "2583906433"
+    ]
+}

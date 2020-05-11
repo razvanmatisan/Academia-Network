@@ -1,0 +1,42 @@
+{
+    "id": "1590912954",
+    "title": "Gecko: tracking a very large billing system",
+    "venue": "usenix annual technical conference",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Andrew Hume",
+            "id": "2116949962",
+            "org": "AT&T Labs-Research#TAB#"
+        },
+        {
+            "name": "Scott Daniels",
+            "id": "2664928265",
+            "org": "Electronic Data Systems Corporation#TAB#"
+        },
+        {
+            "name": "Angus MacLellan",
+            "id": "2287471492",
+            "org": "AT&T Labs-Research#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Relational database",
+        "Database transaction",
+        "Database theory",
+        "Database",
+        "Scalability",
+        "Legacy system",
+        "Database model",
+        "Database testing",
+        "Database design",
+        "Computer science"
+    ],
+    "references": [
+        "1564013439",
+        "1577337656",
+        "2031491316",
+        "2122315991"
+    ]
+}

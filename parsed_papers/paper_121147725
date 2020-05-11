@@ -1,0 +1,38 @@
+{
+    "id": "121147725",
+    "title": "The Material Basis of ICT",
+    "venue": "ICT Innovations for Sustainability",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Patrick A. Wager",
+            "id": "2054660529",
+            "org": "Swiss Federal Laboratories for Materials Science and Technology"
+        },
+        {
+            "name": "Roland Hischier",
+            "id": "1774757962",
+            "org": "Swiss Federal Laboratories for Materials Science and Technology"
+        },
+        {
+            "name": "Rolf Widmer",
+            "id": "2894534030",
+            "org": "Swiss Federal Laboratories for Materials Science and Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Information and Communications Technology",
+        "Mineral resource classification",
+        "Refining (metallurgy)",
+        "Natural resource",
+        "Resource depletion",
+        "Raw material",
+        "Engineering",
+        "Natural resource economics"
+    ],
+    "references": [
+        "4031748",
+        "154942420",
+        "1668361395"
+    ]
+}

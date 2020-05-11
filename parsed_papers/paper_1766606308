@@ -1,0 +1,31 @@
+{
+    "id": "1766606308",
+    "title": "Tagging sentence boundaries",
+    "venue": "north american chapter of the association for computational linguistics",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Andrei Mikheev",
+            "id": "2236594053",
+            "org": "The University of Edinburgh, Edinburgh, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Part of speech",
+        "Proper noun",
+        "Natural language processing",
+        "Speech recognition",
+        "Artificial intelligence",
+        "Tokenization (data security)",
+        "Computer science",
+        "Sentence boundary disambiguation"
+    ],
+    "references": [
+        "1490831147",
+        "1632114991",
+        "1971763646",
+        "1999051122",
+        "2018560257",
+        "2144896964"
+    ]
+}

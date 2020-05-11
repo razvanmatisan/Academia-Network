@@ -1,0 +1,49 @@
+{
+    "id": "1822495682",
+    "title": "Evaluation of Job-Scheduling Strategies for Grid Computing",
+    "venue": "grid computing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Volker Hamscher",
+            "id": "1969842527",
+            "org": "University of Dortmund"
+        },
+        {
+            "name": "Uwe Schwiegelshohn",
+            "id": "219282350",
+            "org": "University of Dortmund"
+        },
+        {
+            "name": "Achim Streit",
+            "id": "2108019135",
+            "org": "University of Paderborn"
+        },
+        {
+            "name": "Ramin Yahyapour",
+            "id": "380037160",
+            "org": "University of Dortmund"
+        }
+    ],
+    "fields_of_study": [
+        "Grid computing",
+        "Meta-scheduling",
+        "Fair-share scheduling",
+        "Real-time computing",
+        "Distributed computing",
+        "Computer science",
+        "Discrete event simulation",
+        "Scheduling (computing)",
+        "Job scheduler"
+    ],
+    "references": [
+        "1487076132",
+        "1505990572",
+        "1575773008",
+        "2108550979",
+        "2111996486",
+        "2140332639",
+        "2150074609",
+        "2160039952"
+    ]
+}

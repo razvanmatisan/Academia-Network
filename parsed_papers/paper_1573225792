@@ -1,0 +1,36 @@
+{
+    "id": "1573225792",
+    "title": "Testing the Quality of Manufactured Disks and Cylinders",
+    "venue": "international symposium on algorithms and computation",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Prosenjit Bose",
+            "id": "2120994602",
+            "org": "Carleton University"
+        },
+        {
+            "name": "Pat Morin",
+            "id": "2160857524",
+            "org": "Carleton University"
+        }
+    ],
+    "fields_of_study": [
+        "Computation",
+        "Discrete mathematics",
+        "Time complexity",
+        "Combinatorics",
+        "Cylinder (engine)",
+        "Roundness (object)",
+        "Coordinate-measuring machine",
+        "Computational geometry",
+        "Manufactured Object",
+        "Cylinder",
+        "Mathematics"
+    ],
+    "references": [
+        "1546433237",
+        "1973492835",
+        "2036918776"
+    ]
+}

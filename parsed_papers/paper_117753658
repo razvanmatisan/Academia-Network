@@ -1,0 +1,44 @@
+{
+    "id": "117753658",
+    "title": "Comparison of workflow scheduling strategies on the grid",
+    "venue": "parallel processing and applied mathematics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Marek Wieczorek",
+            "id": "2162163553",
+            "org": "Institute of Computer Science, University of Innsbruck, Innsbruck, Austria#TAB#"
+        },
+        {
+            "name": "Radu Prodan",
+            "id": "2004848210",
+            "org": "Institute of Computer Science, University of Innsbruck, Innsbruck, Austria#TAB#"
+        },
+        {
+            "name": "Thomas Fahringer",
+            "id": "1991808295",
+            "org": "Institute of Computer Science, University of Innsbruck, Innsbruck, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Fair-share scheduling",
+        "Two-level scheduling",
+        "Round-robin scheduling",
+        "Computer science",
+        "Workflow management system",
+        "Workflow",
+        "Scheduling (computing)",
+        "Distributed computing",
+        "Dynamic priority scheduling",
+        "Rate-monotonic scheduling"
+    ],
+    "references": [
+        "1508297467",
+        "1621944069",
+        "1979053927",
+        "2100550451",
+        "2105255153",
+        "2106268848"
+    ]
+}

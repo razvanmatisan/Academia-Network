@@ -1,0 +1,43 @@
+{
+    "id": "1546849376",
+    "title": "Numerical optimization using organizational particle swarm algorithm",
+    "venue": "simulated evolution and learning",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Lin Cong",
+            "id": "2142778039",
+            "org": "Institute of Intelligent Information Processing, Xidian University, Xi'an, China#TAB#"
+        },
+        {
+            "name": "Yuheng Sha",
+            "id": "2109297706",
+            "org": "Institute of Intelligent Information Processing, Xidian University, Xi'an, China#TAB#"
+        },
+        {
+            "name": "Licheng Jiao",
+            "id": "2166558591",
+            "org": "Institute of Intelligent Information Processing, Xidian University, Xi'an, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Swarm intelligence",
+        "Local optimum",
+        "Evolutionary algorithm",
+        "Artificial neural network",
+        "Machine learning",
+        "Mathematical optimization",
+        "Convergence (routing)",
+        "Computational complexity theory",
+        "Algorithm",
+        "Global optimization",
+        "Computer science",
+        "Artificial intelligence",
+        "Particle swarm optimization"
+    ],
+    "references": [
+        "1577668191",
+        "1997600725",
+        "2108388069"
+    ]
+}

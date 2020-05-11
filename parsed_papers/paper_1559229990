@@ -1,0 +1,36 @@
+{
+    "id": "1559229990",
+    "title": "An Open Learner Model for Children and Teachers: Inspecting Knowledge Level of Individuals and Peers",
+    "venue": "intelligent tutoring systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Susan Bull",
+            "id": "2118966844",
+            "org": "University of Birmingham"
+        },
+        {
+            "name": "Mark Mckay",
+            "id": "2578117364",
+            "org": "University of Birmingham"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Open system (systems theory)",
+        "Artificial intelligence",
+        "Knowledge management",
+        "Knowledge level",
+        "Computer science",
+        "Learning environment",
+        "Intelligent tutoring system",
+        "Adult learner"
+    ],
+    "references": [
+        "130080441",
+        "1495724825",
+        "1553820083",
+        "1784958424",
+        "1998696323"
+    ]
+}

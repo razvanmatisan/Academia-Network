@@ -1,0 +1,38 @@
+{
+    "id": "1559226667",
+    "title": "Minimum power routing for multihop cellular networks",
+    "venue": "global communications conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "A. A. N. Ananda Kusuma",
+            "id": "1978466345",
+            "org": "Dept. of Electr. & Electron. Eng., Univ. of Melbourne, Vic., Australia"
+        },
+        {
+            "name": "Lachlan L. H. Andrew",
+            "id": "2103717278",
+            "org": "Dept. of Electr. & Electron. Eng., Univ. of Melbourne, Vic., Australia"
+        }
+    ],
+    "fields_of_study": [
+        "Link-state routing protocol",
+        "Computer network",
+        "Static routing",
+        "Wireless Routing Protocol",
+        "Multipath routing",
+        "Hazy Sighted Link State Routing Protocol",
+        "Equal-cost multi-path routing",
+        "Dynamic Source Routing",
+        "Destination-Sequenced Distance Vector routing",
+        "Computer science"
+    ],
+    "references": [
+        "1675992197",
+        "2105820960",
+        "2114722318",
+        "2116407052",
+        "2124010093",
+        "2151997344"
+    ]
+}

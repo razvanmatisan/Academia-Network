@@ -1,0 +1,33 @@
+{
+    "id": "1510718579",
+    "title": "Evolution of Digital Filters Using a Gate Array Model",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Julian F. Miller",
+            "id": "2161949175",
+            "org": "Napier University"
+        }
+    ],
+    "fields_of_study": [
+        "Signal processing",
+        "Gate array",
+        "Digital filter",
+        "Linear difference equation",
+        "Filter (signal processing)",
+        "Control theory",
+        "Low-pass filter",
+        "Sine wave",
+        "Logic gate",
+        "Computer science"
+    ],
+    "references": [
+        "79453415",
+        "1509670707",
+        "1521324281",
+        "1560008329",
+        "1561228631",
+        "2140274510"
+    ]
+}

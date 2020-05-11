@@ -1,0 +1,45 @@
+{
+    "id": "1495250006",
+    "title": "A feedback-based adaptive algorithm for combined scheduling with fault-tolerance in real-time systems",
+    "venue": "ieee international conference on high performance computing, data, and analytics",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Suzhen Lin",
+            "id": "2146500906",
+            "org": "Dept of Electrical and Computer Engineering, Iowa State University, Ames, IA#TAB#"
+        },
+        {
+            "name": "G. Manimaran",
+            "id": "2807208742",
+            "org": "Dept of Electrical and Computer Engineering, Iowa State University, Ames, IA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Uniprocessor system",
+        "Computer science",
+        "Distributed computing",
+        "Real-time operating system",
+        "Fault tolerance",
+        "Scheduling (computing)",
+        "Adaptive algorithm",
+        "Real-time computing",
+        "Backup",
+        "Server",
+        "Rate-monotonic scheduling"
+    ],
+    "references": [
+        "1569186202",
+        "1587475735",
+        "1941177221",
+        "1950558550",
+        "2105256016",
+        "2105823724",
+        "2108981329",
+        "2115147070",
+        "2131135565",
+        "2140936050",
+        "2169322619"
+    ]
+}

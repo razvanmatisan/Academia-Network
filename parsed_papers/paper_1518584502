@@ -1,0 +1,48 @@
+{
+    "id": "1518584502",
+    "title": "Prototype System for Semantic Retrieval of Neurological PET Images",
+    "venue": "Medical Imaging and Informatics",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Stephen Batty",
+            "id": "2170824381",
+            "org": "The Burroughs, Hendon, Middlsex University, London, UK#TAB#"
+        },
+        {
+            "name": "John A. Clark",
+            "id": "2104149412",
+            "org": "WBIC, Addenbrookes Hospital, Cambridge University, UK#TAB#"
+        },
+        {
+            "name": "Tim D. Fryer",
+            "id": "2145765065",
+            "org": "WBIC, Addenbrookes Hospital, Cambridge University, UK#TAB#"
+        },
+        {
+            "name": "Xiaohong W. Gao",
+            "id": "2344101771",
+            "org": "The Burroughs, Hendon, Middlsex University, London, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Content-based image retrieval",
+        "Automatic image annotation",
+        "Visual Word",
+        "Gabor wavelet",
+        "Salience (neuroscience)",
+        "Computer vision",
+        "Image retrieval",
+        "Computer science",
+        "Artificial intelligence",
+        "Cognition"
+    ],
+    "references": [
+        "2043305993",
+        "2102982979",
+        "2113180829",
+        "2125148312",
+        "2130660124",
+        "2140996450"
+    ]
+}

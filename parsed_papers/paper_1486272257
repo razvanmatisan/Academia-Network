@@ -1,0 +1,49 @@
+{
+    "id": "1486272257",
+    "title": "Rabbit: A Tool for BDD-Based Verification of Real-Time Systems",
+    "venue": "computer aided verification",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Dirk Beyer",
+            "id": "2078780617",
+            "org": "Brandenburg Technical University at Cottbus"
+        },
+        {
+            "name": "Claus Lewerentz",
+            "id": "25798412",
+            "org": "Brandenburg Technical University at Cottbus"
+        },
+        {
+            "name": "Andreas Noack",
+            "id": "2261828260",
+            "org": "Brandenburg Technical University at Cottbus"
+        }
+    ],
+    "fields_of_study": [
+        "Program analysis",
+        "Algorithm",
+        "Modeling language",
+        "Model checking",
+        "Theoretical computer science",
+        "Data structure",
+        "Real-time operating system",
+        "Modular design",
+        "Reachability",
+        "Real-time computing",
+        "Binary decision diagram",
+        "Computer science"
+    ],
+    "references": [
+        "195101640",
+        "1519587690",
+        "1559321056",
+        "1603082437",
+        "1796268701",
+        "2023499821",
+        "2099120582",
+        "2101508170",
+        "2116391427",
+        "2178662818"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1556826164",
+    "title": "Analysis of News Agencies' Descriptive Features of People and Organizations",
+    "venue": "database and expert systems applications",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Shin Ishida",
+            "id": "2430743254",
+            "org": "Department of Social Informatics, Graduate School of Informatics, Kyoto University, Kyoto, Japan 606-8501#TAB#"
+        },
+        {
+            "name": "Qiang Ma",
+            "id": "2539168365",
+            "org": "Department of Social Informatics, Graduate School of Informatics, Kyoto University, Kyoto, Japan 606-8501#TAB#"
+        },
+        {
+            "name": "Masatoshi Yoshikawa",
+            "id": "2307105024",
+            "org": "Department of Social Informatics, Graduate School of Informatics, Kyoto University, Kyoto, Japan 606-8501#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Viewpoints",
+        "Multimedia",
+        "Data mining",
+        "Computer science",
+        "Writing style",
+        "Sentence"
+    ],
+    "references": [
+        "1599509633",
+        "2024633545",
+        "2069679074"
+    ]
+}

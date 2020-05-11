@@ -1,0 +1,31 @@
+{
+    "id": "1572929967",
+    "title": "A Programming Logic for a Verified Structured Assembly Language",
+    "venue": "international conference on logic programming",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Paul Curzon",
+            "id": "2065212764",
+            "org": "University of Cambridge"
+        }
+    ],
+    "fields_of_study": [
+        "First-generation programming language",
+        "Functional logic programming",
+        "Programming paradigm",
+        "Theoretical computer science",
+        "Computer science",
+        "Fifth-generation programming language",
+        "Compiler",
+        "Jackson structured programming",
+        "Programming domain",
+        "Programming language",
+        "Logic programming"
+    ],
+    "references": [
+        "1994879909",
+        "2111706174",
+        "2539209300"
+    ]
+}

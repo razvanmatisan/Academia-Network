@@ -1,0 +1,31 @@
+{
+    "id": "145108188",
+    "title": "Time representation: a taxonomy of interval relations",
+    "venue": "national conference on artificial intelligence",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Peter B. Ladkin",
+            "id": "2022130257",
+            "org": "Kestrel Institute, Palo Alto, Ca#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "International relations",
+        "Commonsense reasoning",
+        "Artificial intelligence",
+        "Machine learning",
+        "Taxonomy (biology)",
+        "Computer science",
+        "Binary relation",
+        "Generation time"
+    ],
+    "references": [
+        "1575737483",
+        "2072755230",
+        "2120619736",
+        "2122540544",
+        "2143254882",
+        "2161484642"
+    ]
+}

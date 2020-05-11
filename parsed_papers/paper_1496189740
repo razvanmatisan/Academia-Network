@@ -1,0 +1,38 @@
+{
+    "id": "1496189740",
+    "title": "Improved technique to detect the infarction in delayed enhancement image using k-mean method",
+    "venue": "international conference on image analysis and recognition",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Mohamed K. Metwally",
+            "id": "2579359634",
+            "org": "Center for Informatics Sciences, Nile University, Egypt#TAB#"
+        },
+        {
+            "name": "Neamat El-Gayar",
+            "id": "2057455950",
+            "org": "Center for Informatics Sciences, Nile University, Egypt#TAB#"
+        },
+        {
+            "name": "Nael F. Osman",
+            "id": "2672941987",
+            "org": "Center for Informatics Sciences, Nile University, Egypt#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Artificial intelligence",
+        "Computer vision",
+        "Contrast-to-noise ratio",
+        "Pattern recognition",
+        "Computer science",
+        "k-means clustering",
+        "Real image",
+        "Thresholding",
+        "Infarction"
+    ],
+    "references": [
+        "172260869"
+    ]
+}

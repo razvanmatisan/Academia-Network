@@ -1,0 +1,56 @@
+{
+    "id": "1602569358",
+    "title": "Analysis of Web Services Composition Languages: The Case of BPEL4WS",
+    "venue": "international conference on conceptual modeling",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Petia Wohed",
+            "id": "2084129603",
+            "org": "Stockholm University/The Royal Institute of Technology"
+        },
+        {
+            "name": "Wil M. P. van der Aalst",
+            "id": "270949118",
+            "org": "Eindhoven University of Technology"
+        },
+        {
+            "name": "Wil M. P. van der Aalst",
+            "id": "270949118",
+            "org": "Eindhoven University of Technology"
+        },
+        {
+            "name": "Marlon Dumas",
+            "id": "2250777962",
+            "org": "Queensland University of Technology"
+        },
+        {
+            "name": "Arthur H. M. ter Hofstede",
+            "id": "1987818517",
+            "org": "Queensland University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Web standards",
+        "Data mining",
+        "Systems engineering",
+        "Computer science",
+        "World Wide Web",
+        "Web modeling",
+        "Web development",
+        "Business Process Execution Language",
+        "Services computing",
+        "Service-oriented architecture",
+        "WS-I Basic Profile",
+        "WS-Policy"
+    ],
+    "references": [
+        "1786476226",
+        "1999704832",
+        "2032179790",
+        "2061234822",
+        "2113887368",
+        "2120312005",
+        "2568081765"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "1567585106",
+    "title": "Knowledge Management at a Software House. An Experience Report",
+    "venue": "software engineering and knowledge engineering",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Peter Brossler",
+            "id": "2656816222",
+            "org": "sd&m AG"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Knowledge engineering",
+        "Software development",
+        "Computer science",
+        "Quality management system",
+        "Knowledge broker",
+        "cons",
+        "Software",
+        "Knowledge management",
+        "Project team"
+    ],
+    "references": [
+        "2118639955"
+    ]
+}

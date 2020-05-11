@@ -1,0 +1,35 @@
+{
+    "id": "1539443914",
+    "title": "Inferring Constraint Types in Constraint Programming",
+    "venue": "principles and practice of constraint programming",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "David Lesaint",
+            "id": "2028958413",
+            "org": "BTexact Technologies"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Constraint programming",
+        "Concurrent constraint logic programming",
+        "Mathematical optimization",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Constraint graph",
+        "Constraint learning",
+        "Constraint logic programming",
+        "Binary constraint",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "78269797",
+        "1480778854",
+        "1490489754",
+        "1590270437",
+        "1994652641",
+        "2016639451",
+        "2091984336",
+        "2112957923"
+    ]
+}

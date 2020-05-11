@@ -1,0 +1,46 @@
+{
+    "id": "1603648263",
+    "title": "QM: a tool for building software quality models",
+    "venue": "ieee international conference on requirements engineering",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Juan Pablo Carvallo",
+            "id": "2115147555",
+            "org": "Univ. Politecnica de Catalunya (UPC), Barcelona, Spain"
+        },
+        {
+            "name": "Xavier Franch",
+            "id": "727542313",
+            "org": "Univ. Politecnica de Catalunya (UPC), Barcelona, Spain"
+        },
+        {
+            "name": "Gemma Grau",
+            "id": "2095257342",
+            "org": "Univ. Politecnica de Catalunya (UPC), Barcelona, Spain"
+        },
+        {
+            "name": "Carme Quer",
+            "id": "2119376905",
+            "org": "Univ. Politecnica de Catalunya (UPC), Barcelona, Spain"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Systems engineering",
+        "Software quality control",
+        "Software quality",
+        "Social software engineering",
+        "Software construction",
+        "Software peer review",
+        "Reliability engineering",
+        "Package development process",
+        "Software sizing",
+        "Software quality analyst"
+    ],
+    "references": [
+        "1511766194",
+        "2140243388",
+        "2170469762"
+    ]
+}

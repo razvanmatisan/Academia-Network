@@ -1,0 +1,47 @@
+{
+    "id": "1482419717",
+    "title": "Pose-Independent Object Representation by 2-D Views",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Jan Wieghardt",
+            "id": "1480574469",
+            "org": "Ruhr-Universitat Bochum"
+        },
+        {
+            "name": "Christoph von der Malsburg",
+            "id": "671369575",
+            "org": "Ruhr-Universitat Bochum"
+        },
+        {
+            "name": "Christoph von der Malsburg",
+            "id": "671369575",
+            "org": "Ruhr-Universitat Bochum"
+        }
+    ],
+    "fields_of_study": [
+        "Merge (version control)",
+        "Mental rotation",
+        "Graph",
+        "Principal component analysis",
+        "Gesture recognition",
+        "Multidimensional scaling",
+        "Computer vision",
+        "Cognitive neuroscience of visual object recognition",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1497334142",
+        "2033626970",
+        "2037297495",
+        "2053197265",
+        "2095757522",
+        "2120415597",
+        "2120954940",
+        "2129150631",
+        "2159174312",
+        "2159620287"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": "1579886132",
+    "title": "BPEL vs. BPMN 2.0: Should You Care?",
+    "venue": "business process modeling notation",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Frank Leymann",
+            "id": "2127483189",
+            "org": "Universitat Stuttgart"
+        }
+    ],
+    "fields_of_study": [
+        "Workflow management system",
+        "Business Process Model and Notation",
+        "Metamodeling",
+        "Business Process Execution Language",
+        "Process modeling",
+        "Systems engineering",
+        "Computer science",
+        "Executable"
+    ],
+    "references": [
+        "2153074919"
+    ]
+}

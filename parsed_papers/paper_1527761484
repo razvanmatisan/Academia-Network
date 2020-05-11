@@ -1,0 +1,43 @@
+{
+    "id": "1527761484",
+    "title": "Domain-independent structured duplicate detection",
+    "venue": "national conference on artificial intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Rong Zhou",
+            "id": "2170103657",
+            "org": "Palo Alto Research Center, Palo Alto, CA#TAB#"
+        },
+        {
+            "name": "Eric A. Hansen",
+            "id": "2144689552",
+            "org": "Dept. of Computer Science and Eng., Mississippi State University, Mississippi State, MS#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Locality",
+        "STRIPS",
+        "Artificial intelligence",
+        "Auxiliary memory",
+        "Machine learning",
+        "Graph",
+        "Scalability",
+        "Distributed computing",
+        "Theoretical computer science",
+        "Computer science"
+    ],
+    "references": [
+        "46204108",
+        "1481195904",
+        "1499973835",
+        "1537530326",
+        "1831723388",
+        "1986843945",
+        "2124896577",
+        "2133287458",
+        "2166799707",
+        "2171053395",
+        "2293358747"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "1534594241",
+    "title": "Valuations on Lattices: Fuzzification and its Implications",
+    "venue": "Computational Intelligence Based on Lattice Theory",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Kevin H. Knuth",
+            "id": "91443964",
+            "org": "University at Albany (SUNY)"
+        }
+    ],
+    "fields_of_study": [
+        "Lattice (order)",
+        "Fuzzy set",
+        "Boolean algebra (structure)",
+        "Map of lattices",
+        "Discrete mathematics",
+        "Principle of maximum entropy",
+        "Combinatorics",
+        "Distributive lattice",
+        "Riemann zeta function",
+        "Mathematics",
+        "Bayesian probability"
+    ],
+    "references": [
+        "2010144953",
+        "2061165361",
+        "2145320441",
+        "2294604761"
+    ]
+}

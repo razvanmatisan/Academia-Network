@@ -1,0 +1,26 @@
+{
+    "id": "1483377698",
+    "title": "Rationality in the Centipede",
+    "venue": "theoretical aspects of rationality and knowledge",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Ken Binmore",
+            "id": "585465234",
+            "org": "University College London, London, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Equilibrium selection",
+        "Artificial intelligence",
+        "Centipede game",
+        "Backward induction",
+        "Rationality",
+        "Economics",
+        "Nash equilibrium",
+        "Principle of rationality"
+    ],
+    "references": [
+        "1868523462"
+    ]
+}

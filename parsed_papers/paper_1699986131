@@ -1,0 +1,41 @@
+{
+    "id": "1699986131",
+    "title": "Perceptual organization using Bayesian networks",
+    "venue": "computer vision and pattern recognition",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Sudeep Sarkar",
+            "id": "2167730221",
+            "org": "Dept. of Electr. Eng., Ohio State Univ., Columbus, OH, USA"
+        },
+        {
+            "name": "Kim L. Boyer",
+            "id": "1717278371",
+            "org": "Dept. of Electr. Eng., Ohio State Univ., Columbus, OH, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge base",
+        "Computer vision",
+        "Inference",
+        "Visual processing",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Image processing",
+        "Probabilistic logic",
+        "Spatial analysis",
+        "Machine learning",
+        "Bayesian network",
+        "Computer science",
+        "Visual perception"
+    ],
+    "references": [
+        "1867499998",
+        "2004594863",
+        "2046175448",
+        "2070041365",
+        "2129104643",
+        "2168776891"
+    ]
+}

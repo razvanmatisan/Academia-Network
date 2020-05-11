@@ -1,0 +1,38 @@
+{
+    "id": "1509153766",
+    "title": "Active Database Rules with Transaction-Conscious Stable-Model Semantics",
+    "venue": "international conference on deductive and object oriented databases",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Carlo Zaniolo",
+            "id": "2028117853",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Formal semantics (linguistics)",
+        "Denotational semantics",
+        "Computational semantics",
+        "Syntax (logic)",
+        "Operational semantics",
+        "Action semantics",
+        "Axiomatic semantics",
+        "Data mining",
+        "Well-founded semantics",
+        "Computer science"
+    ],
+    "references": [
+        "270081759",
+        "1524852452",
+        "1541526834",
+        "1597227583",
+        "1672891595",
+        "1768000531",
+        "1839937676",
+        "2057552436",
+        "2120052337",
+        "2122211300",
+        "2170551989"
+    ]
+}

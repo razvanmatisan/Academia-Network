@@ -1,0 +1,43 @@
+{
+    "id": "1512443456",
+    "title": "Keyed Hash Functions",
+    "venue": "Proceedings of the International Conference on Cryptography: Policy and Algorithms",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Shahram Bakhtiari",
+            "id": "2010740408",
+            "org": "University of Wollongong"
+        },
+        {
+            "name": "Reihaneh Safavi-Naini",
+            "id": "1967715543",
+            "org": "University of Wollongong"
+        },
+        {
+            "name": "Josef Pieprzyk",
+            "id": "2081631084",
+            "org": "University of Wollongong"
+        }
+    ],
+    "fields_of_study": [
+        "Double hashing",
+        "Rolling hash",
+        "SHA-2",
+        "Secure Hash Standard",
+        "Secure Hash Algorithm",
+        "Hash chain",
+        "Theoretical computer science",
+        "Hash function",
+        "Hash buster",
+        "Computer science"
+    ],
+    "references": [
+        "1591035421",
+        "1743965195",
+        "1851023053",
+        "1985623009",
+        "2052207834",
+        "2077300005"
+    ]
+}

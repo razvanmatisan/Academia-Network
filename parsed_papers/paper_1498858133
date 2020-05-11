@@ -1,0 +1,42 @@
+{
+    "id": "1498858133",
+    "title": "A logic for formal verification of quantum programs",
+    "venue": "ASIAN'09 Proceedings of the 13th Asian conference on Advances in Computer Science: information Security and Privacy",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Yoshihiko Kakutani",
+            "id": "2148979799",
+            "org": "Department of Information Science, University of Tokyo#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computational logic",
+        "Signature (logic)",
+        "Dynamic logic (modal logic)",
+        "Bunched logic",
+        "Philosophy of logic",
+        "Theoretical computer science",
+        "Separation logic",
+        "Logic optimization",
+        "Algorithm",
+        "Multimodal logic",
+        "Computer science"
+    ],
+    "references": [
+        "1563480347",
+        "1999626800",
+        "2044912742",
+        "2075350371",
+        "2077478451",
+        "2111706174",
+        "2120755151",
+        "2121087903",
+        "2138408756",
+        "2155544688",
+        "2157601714",
+        "2163830226",
+        "2168676717",
+        "2336123333"
+    ]
+}

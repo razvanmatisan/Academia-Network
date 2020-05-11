@@ -1,0 +1,40 @@
+{
+    "id": "1481269160",
+    "title": "Faithful Loops for Aperiodic E-Ordered Monoids",
+    "venue": "international colloquium on automata, languages and programming",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Martin Beaudry",
+            "id": "2149394522",
+            "org": "Departement d'informatique, Universite de Sherbrooke, Sherbrooke (Qc), Canada J1K 2R1#TAB#"
+        },
+        {
+            "name": "Francois Lemieux",
+            "id": "2481257025",
+            "org": "Departement d'informatique et de mathematique, Universite du Quebec a Chicoutimi, Chicoutimi (Qc), Canada G7H 2B1#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Regular language",
+        "Discrete mathematics",
+        "Abstract family of languages",
+        "Combinatorics",
+        "Aperiodic graph",
+        "Cone (formal languages)",
+        "Pumping lemma for regular languages",
+        "Concatenation",
+        "Generalized star height problem",
+        "Monoid",
+        "Mathematics"
+    ],
+    "references": [
+        "1486536301",
+        "1520554460",
+        "1522490811",
+        "1576164625",
+        "2050407768",
+        "2116250539",
+        "2167954650"
+    ]
+}

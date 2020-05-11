@@ -1,0 +1,37 @@
+{
+    "id": "1544117666",
+    "title": "Automated Formulation of Reactions and Pathways in Nuclear Astrophysics: New Results",
+    "venue": "discovery science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Sakir Kocabas",
+            "id": "2124429852",
+            "org": "ITU"
+        }
+    ],
+    "fields_of_study": [
+        "Atomic physics",
+        "Oxygen",
+        "Chemical reaction",
+        "Discrete mathematics",
+        "Nucleosynthesis",
+        "Neon",
+        "Nuclear astrophysics",
+        "Isotope",
+        "Computer science",
+        "Nuclear reaction",
+        "Hydrogen"
+    ],
+    "references": [
+        "69837384",
+        "1540214124",
+        "1769913201",
+        "1963664397",
+        "1977291120",
+        "1979473069",
+        "1981777694",
+        "2015967011",
+        "2093696424"
+    ]
+}

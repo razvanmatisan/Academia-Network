@@ -1,0 +1,34 @@
+{
+    "id": "1511498432",
+    "title": "Observing Located Concurrency",
+    "venue": "mathematical foundations of computer science",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "David Murphy",
+            "id": "2592755841",
+            "org": "University of Birmingham"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Discrete mathematics",
+        "Concurrency",
+        "Denotational semantics",
+        "Satisfiability",
+        "Normalisation by evaluation",
+        "Operational semantics",
+        "Action semantics",
+        "Mathematics",
+        "Separation axiom",
+        "Denotational semantics of the Actor model"
+    ],
+    "references": [
+        "45209383",
+        "175466894",
+        "1547562281",
+        "1566946341",
+        "2084118108",
+        "2293557922"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1539332313",
+    "title": "On Stability of Oja Algorithm",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Radoslaw Sikora",
+            "id": "2719256465",
+            "org": "Polish Academy of Sciences"
+        },
+        {
+            "name": "Wladyslaw Skarbek",
+            "id": "691441148",
+            "org": "Warsaw University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Matrix analysis",
+        "Discrete mathematics",
+        "Dynamical system",
+        "Satisfiability",
+        "Infinity",
+        "Exponential function",
+        "Bounded function",
+        "Algorithm",
+        "Oja's rule",
+        "Stochastic approximation",
+        "Mathematics"
+    ],
+    "references": [
+        "1592619056",
+        "2080300995"
+    ]
+}

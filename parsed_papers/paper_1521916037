@@ -1,0 +1,40 @@
+{
+    "id": "1521916037",
+    "title": "Analysis of Accuracy of Data Reduction Techniques",
+    "venue": "data warehousing and knowledge discovery",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Pedro Furtado",
+            "id": "2148674672",
+            "org": "University of Coimbra"
+        },
+        {
+            "name": "Henrique Madeira",
+            "id": "2096385511",
+            "org": "University of Coimbra"
+        }
+    ],
+    "fields_of_study": [
+        "Range query (data structures)",
+        "Data reduction",
+        "Database",
+        "Computer science",
+        "Data mining",
+        "Exploratory data analysis",
+        "Data set",
+        "Data cube",
+        "Information integration",
+        "Data warehouse",
+        "Data analysis"
+    ],
+    "references": [
+        "144943406",
+        "1581547316",
+        "2021850646",
+        "2044240774",
+        "2045604576",
+        "2095897464",
+        "2172028276"
+    ]
+}

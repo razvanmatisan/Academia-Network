@@ -1,0 +1,37 @@
+{
+    "id": "1608120214",
+    "title": "Building a situation-based language knowledge base",
+    "venue": "international conference on computational linguistics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Qiang Zhou",
+            "id": "2718729912",
+            "org": "State Key Laboratory of Intelligent Technology and Systems, Dept. of Computer Science and Technology, Tsinghua University, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Zushun Chen",
+            "id": "2702222881",
+            "org": "State Key Laboratory of Intelligent Technology and Systems, Dept. of Computer Science and Technology, Tsinghua University, Beijing, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Question answering",
+        "Universal Networking Language",
+        "Natural language processing",
+        "Artificial intelligence",
+        "Language identification",
+        "Data control language",
+        "Treebank",
+        "Computer science",
+        "Semantic computing",
+        "Semantic compression",
+        "Temporal annotation"
+    ],
+    "references": [
+        "155713547",
+        "1597540705",
+        "1632114991",
+        "2115792525"
+    ]
+}

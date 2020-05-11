@@ -1,0 +1,28 @@
+{
+    "id": "1574919120",
+    "title": "Embracing causality in formal reasoning",
+    "venue": "national conference on artificial intelligence",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Judea Pearl",
+            "id": "2248165042",
+            "org": "Cognitive Systems Laboratory, UCLA Computer Science Department, Los Angeles, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Default rule",
+        "Causation",
+        "Causality",
+        "Causal reasoning",
+        "Formal system",
+        "Flow (psychology)",
+        "Default logic",
+        "Non-monotonic logic",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "2143075689"
+    ]
+}

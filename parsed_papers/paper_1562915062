@@ -1,0 +1,42 @@
+{
+    "id": "1562915062",
+    "title": "Thread-modular model checking",
+    "venue": "international workshop on model checking software",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Cormac Flanagan",
+            "id": "2130341195",
+            "org": "Systems Research Center, HP Labs, Palo Alto, CA#TAB#"
+        },
+        {
+            "name": "Shaz Qadeer",
+            "id": "1985363956",
+            "org": "Microsoft Research, Redmond, WA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Correctness",
+        "Thread (computing)",
+        "Model checking",
+        "Time complexity",
+        "Software system",
+        "Undecidable problem",
+        "Modular design",
+        "Distributed computing",
+        "Abstraction model checking",
+        "Computer science"
+    ],
+    "references": [
+        "1501731334",
+        "1573428492",
+        "1590315663",
+        "1593428110",
+        "2060345611",
+        "2090551028",
+        "2098039922",
+        "2115969864",
+        "2160520283",
+        "2169134334"
+    ]
+}

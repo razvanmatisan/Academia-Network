@@ -1,0 +1,37 @@
+{
+    "id": "1514835834",
+    "title": "Quantum Algorithms for Tree Isomorphism and State Symmetrization",
+    "venue": "arXiv: Quantum Physics",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "David J. Rosenbaum",
+            "id": "2118054147",
+            "org": "University of Washington|Department of Computer Science and Engineering"
+        }
+    ],
+    "fields_of_study": [
+        "Graph property",
+        "Graph isomorphism",
+        "Discrete mathematics",
+        "Induced subgraph isomorphism problem",
+        "Graph automorphism",
+        "Subgraph isomorphism problem",
+        "Graph canonization",
+        "Combinatorics",
+        "Mathematics",
+        "Maximum common subgraph isomorphism problem",
+        "Color-coding"
+    ],
+    "references": [
+        "1511894390",
+        "1655990431",
+        "2079692740",
+        "2111488604",
+        "2139569497",
+        "2148957455",
+        "2157686884",
+        "2158574829",
+        "2168676717"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1567430105",
+    "title": "Hybrid Taguchi-Harmony Search Approach for Shape Optimization",
+    "venue": "Recent Advances In Harmony Search Algorithm",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Ali R. Yildiz",
+            "id": "2263818640",
+            "org": "Uludag University"
+        },
+        {
+            "name": "Ferruh Ozturk",
+            "id": "2140441996",
+            "org": "Uludag University"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Metaheuristic",
+        "Multi-swarm optimization",
+        "Engineering optimization",
+        "Vector optimization",
+        "Shape optimization",
+        "Global optimization",
+        "Computer science",
+        "Topology optimization",
+        "Optimization problem"
+    ],
+    "references": [
+        "1993885071",
+        "2099239187"
+    ]
+}

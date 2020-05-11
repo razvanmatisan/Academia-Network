@@ -1,0 +1,41 @@
+{
+    "id": "1596597411",
+    "title": "Model driven engineering: an emerging technical space",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jean Bezivin",
+            "id": "2010491942",
+            "org": "Atlas Group: INRIA, and LINA, University of Nantes, Nantes Cedex 3, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Model-driven architecture",
+        "Metamodeling",
+        "Distributed computing",
+        "Software system",
+        "Complex system",
+        "Automation",
+        "Architecture",
+        "Software architecture",
+        "Simulation",
+        "Open standard",
+        "Computer science",
+        "Systems engineering"
+    ],
+    "references": [
+        "1492630670",
+        "1493267071",
+        "1592270553",
+        "1639126800",
+        "1989140425",
+        "1992673035",
+        "2089634871",
+        "2092833514",
+        "2110610722",
+        "2162294668",
+        "2166254714",
+        "2169489461"
+    ]
+}

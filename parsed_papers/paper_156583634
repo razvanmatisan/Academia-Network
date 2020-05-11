@@ -1,0 +1,40 @@
+{
+    "id": "156583634",
+    "title": "Research of robust facial expression recognition under facial occlusion condition",
+    "venue": "active media technology",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Bin Jiang",
+            "id": "2464427059",
+            "org": "School of Electronic Information & Control Engineering, Beijing University of Technology, Beijing, China#TAB#"
+        },
+        {
+            "name": "Kebin Jia",
+            "id": "2151217607",
+            "org": "School of Electronic Information & Control Engineering, Beijing University of Technology, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Robust principal component analysis",
+        "Computer science",
+        "Computer vision",
+        "Support vector machine",
+        "Three-dimensional face recognition",
+        "Facial expression",
+        "Eigenface",
+        "Occlusion",
+        "Face hallucination",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1513013675",
+        "1540772689",
+        "1736339626",
+        "1970942140",
+        "2106115875",
+        "2121647436",
+        "2170168257"
+    ]
+}

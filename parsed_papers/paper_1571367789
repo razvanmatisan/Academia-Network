@@ -1,0 +1,40 @@
+{
+    "id": "1571367789",
+    "title": "Rule base combined linguistics knowledge with corpus",
+    "venue": "systems, man and cybernetics",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Ying Liu",
+            "id": "2648202505",
+            "org": "Dept. of Chinese Language & Literature, Tsinghua Univ., Beijing, China"
+        },
+        {
+            "name": "Chengqing Zong",
+            "id": "2160997121",
+            "org": "Institute of Automation, Chinese Academy of Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Question answering",
+        "Quantitative linguistics",
+        "Linguistics",
+        "Procedural knowledge",
+        "Rule-based system",
+        "Natural language processing",
+        "Knowledge-based systems",
+        "Text corpus",
+        "Computer science",
+        "Artificial intelligence",
+        "Rule-based machine translation",
+        "Open Knowledge Base Connectivity"
+    ],
+    "references": [
+        "84236703",
+        "187530560",
+        "1571096757",
+        "2044786383",
+        "2170381724"
+    ]
+}

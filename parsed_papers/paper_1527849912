@@ -1,0 +1,30 @@
+{
+    "id": "1527849912",
+    "title": "Drawing Force-Directed Graphs Using Optigraph",
+    "venue": "graph drawing",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Jovanna Ignatowicz",
+            "id": "2284310370",
+            "org": "Brown University"
+        }
+    ],
+    "fields_of_study": [
+        "Complement graph",
+        "Discrete mathematics",
+        "Directed graph",
+        "Graph (abstract data type)",
+        "Null graph",
+        "Line graph",
+        "Computer science",
+        "Graph Layout",
+        "Voltage graph",
+        "Butterfly graph"
+    ],
+    "references": [
+        "1510438512",
+        "1571962375",
+        "2167482691"
+    ]
+}

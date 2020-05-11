@@ -1,0 +1,32 @@
+{
+    "id": "1542548901",
+    "title": "Massively Parallel Computing and Factoring",
+    "venue": "latin american symposium on theoretical informatics",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Arjen K. Lenstra",
+            "id": "2894542929",
+            "org": "Bellcore"
+        }
+    ],
+    "fields_of_study": [
+        "Multiplicative group of integers modulo n",
+        "Computer science",
+        "SIMD",
+        "Factoring",
+        "Massively parallel",
+        "Parallel algorithm",
+        "Cryptosystem",
+        "Theoretical computer science",
+        "Distributed computing",
+        "Discrete logarithm"
+    ],
+    "references": [
+        "1480976258",
+        "1493241500",
+        "2142778315",
+        "2179913373",
+        "2181259729"
+    ]
+}

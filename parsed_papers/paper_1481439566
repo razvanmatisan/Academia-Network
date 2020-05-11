@@ -1,0 +1,30 @@
+{
+    "id": "1481439566",
+    "title": "Optimal Weight Decay in a Perceptron",
+    "venue": "international conference on artificial neural networks",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Siegfried Bos",
+            "id": "2643929680",
+            "org": "RIKEN"
+        }
+    ],
+    "fields_of_study": [
+        "Time delay neural network",
+        "Perceptron",
+        "Machine learning",
+        "Pattern recognition",
+        "Overfitting",
+        "Artificial intelligence",
+        "Artificial neural network",
+        "Multilayer perceptron",
+        "Probabilistic neural network",
+        "Computer science"
+    ],
+    "references": [
+        "2133671888",
+        "2144513243",
+        "2150029999"
+    ]
+}

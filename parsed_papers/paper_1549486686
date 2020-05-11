@@ -1,0 +1,48 @@
+{
+    "id": "1549486686",
+    "title": "Support for Effective and Fault Tolerant Execution of HLA-Based Applications in the OGSA Framework",
+    "venue": "international conference on computational science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Katarzyna Rycerz",
+            "id": "1592710296",
+            "org": "AGH"
+        },
+        {
+            "name": "Marian Bubak",
+            "id": "2011313876",
+            "org": "AGH"
+        },
+        {
+            "name": "Maciej Malawski",
+            "id": "2013231411",
+            "org": "AGH"
+        },
+        {
+            "name": "Peter M. A. Sloot",
+            "id": "655325276",
+            "org": "University of Amsterdam"
+        }
+    ],
+    "fields_of_study": [
+        "Wide area network",
+        "Grid",
+        "Grid computing",
+        "High-level architecture",
+        "Architecture",
+        "Distributed Interactive Simulation",
+        "Fault tolerance",
+        "Applications architecture",
+        "Distributed computing",
+        "Real-time computing",
+        "Computer science"
+    ],
+    "references": [
+        "1511740720",
+        "1594003544",
+        "1894403902",
+        "2098399221",
+        "2117874242"
+    ]
+}

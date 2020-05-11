@@ -1,0 +1,29 @@
+{
+    "id": "134917274",
+    "title": "Computer Augmented Communication in Cooperative Groups.",
+    "venue": "international conference on enterprise information systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Jean-Philippe Kotowicz",
+            "id": "2403479919",
+            "org": "Universite Paris-Sud"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Mobile agent",
+        "Information system",
+        "Communications system",
+        "Computer science",
+        "Human-computer interaction",
+        "Software agent",
+        "Multi-agent system",
+        "Computer-mediated communication"
+    ],
+    "references": [
+        "1493596129",
+        "1779265893",
+        "2069692435"
+    ]
+}

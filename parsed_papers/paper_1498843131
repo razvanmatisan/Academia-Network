@@ -1,0 +1,32 @@
+{
+    "id": "1498843131",
+    "title": "A scripting language interface to C++ libraries",
+    "venue": "technology of object oriented languages and systems",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "H. Winroth",
+            "id": "2496804459",
+            "org": "Comput. Vision & Active Perception Lab., R. Inst. of Technol., Stockholm, Sweden"
+        }
+    ],
+    "fields_of_study": [
+        "Perl",
+        "Template",
+        "Input/output (C++)",
+        "Windows Runtime",
+        "Scripting language",
+        "Database",
+        "Run-time type information",
+        "Programming language",
+        "C standard library",
+        "Multiple inheritance",
+        "Computer science"
+    ],
+    "references": [
+        "79093370",
+        "99577225",
+        "1493349649",
+        "2134342348"
+    ]
+}

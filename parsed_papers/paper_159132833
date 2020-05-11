@@ -1,0 +1,45 @@
+{
+    "id": "159132833",
+    "title": "Automatic keyword extraction from single-sentence natural language queries",
+    "venue": "pacific rim international conference on artificial intelligence",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "David X. Wang",
+            "id": "2274949073",
+            "org": "School of Engineering and Computer Science, Victoria University of Wellington, Wellington, New Zealand#TAB#"
+        },
+        {
+            "name": "Xiaoying Gao",
+            "id": "2160909171",
+            "org": "School of Engineering and Computer Science, Victoria University of Wellington, Wellington, New Zealand#TAB#"
+        },
+        {
+            "name": "Peter Andreae",
+            "id": "1267919130",
+            "org": "School of Engineering and Computer Science, Victoria University of Wellington, Wellington, New Zealand#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Pattern recognition",
+        "Parsing",
+        "Natural language",
+        "Noun phrase",
+        "Natural language processing",
+        "Phrase structure rules",
+        "Keyword extraction",
+        "Parse tree",
+        "Computational linguistics",
+        "Sentence",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1479777983",
+        "2063142656",
+        "2064418625",
+        "2097606805",
+        "2122228338",
+        "2139907445"
+    ]
+}

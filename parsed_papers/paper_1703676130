@@ -1,0 +1,43 @@
+{
+    "id": "1703676130",
+    "title": "Fast generation of accurate synthetic microdata",
+    "venue": "privacy in statistical databases",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Josep Maria Mateo-Sanz",
+            "id": "2054801584",
+            "org": "Universitat Rovira i Virgili, Statistics Group"
+        },
+        {
+            "name": "Antoni Martinez-Balleste",
+            "id": "1484330174",
+            "org": "Dept. of Computer Engineering and Mathematics"
+        },
+        {
+            "name": "Josep Domingo-Ferrer",
+            "id": "275327080",
+            "org": "Dept. of Computer Engineering and Mathematics"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Iterative method",
+        "Statistics",
+        "Statistical process control",
+        "Covariance matrix",
+        "Univariate analysis",
+        "Econometrics",
+        "Latin hypercube sampling",
+        "Synthetic data",
+        "Microdata (HTML)",
+        "Statistical disclosure control",
+        "Mathematics"
+    ],
+    "references": [
+        "1514591449",
+        "1560978096",
+        "1832295310",
+        "2129751437"
+    ]
+}

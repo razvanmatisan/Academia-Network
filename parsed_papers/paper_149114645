@@ -1,0 +1,43 @@
+{
+    "id": "149114645",
+    "title": "Engineering service-oriented applications 6th international workshop WESOA 2010",
+    "venue": "international conference on service oriented computing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Christian Zirpins",
+            "id": "2342693641",
+            "org": "Karlsruhe Institute of Technology#TAB#"
+        },
+        {
+            "name": "George Feuerlicht",
+            "id": "129701336",
+            "org": "Prague University of Economics and University of Technology, Sydney#TAB#"
+        },
+        {
+            "name": "Winfried Lamersdorf",
+            "id": "2157994539",
+            "org": "University of Hamburg#TAB#"
+        },
+        {
+            "name": "Guadalupe Ortiz",
+            "id": "2154081962",
+            "org": "University of Extremadura#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Software Engineering Process Group",
+        "Personal software process",
+        "Resource-oriented architecture",
+        "Software construction",
+        "Social software engineering",
+        "Software requirements",
+        "Software peer review",
+        "Software development",
+        "Computer science",
+        "Systems engineering"
+    ],
+    "references": [
+        "1754258600"
+    ]
+}

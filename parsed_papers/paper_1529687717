@@ -1,0 +1,51 @@
+{
+    "id": "1529687717",
+    "title": "Extending organizational modeling with business services concepts: an overview of the proposed architecture",
+    "venue": "international conference on conceptual modeling",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Hugo Estrada",
+            "id": "2124078443",
+            "org": "CENIDET, Cuernavaca, Mor. Mexico#TAB#"
+        },
+        {
+            "name": "Alicia Martinez",
+            "id": "2843477075",
+            "org": "CENIDET, Cuernavaca, Mor. Mexico#TAB#"
+        },
+        {
+            "name": "Oscar Pastor",
+            "id": "1970889930",
+            "org": "Technical University of Valencia, Spain#TAB#"
+        },
+        {
+            "name": "John Mylopoulos",
+            "id": "2161153869",
+            "org": "University of Trento, Italy#TAB#"
+        },
+        {
+            "name": "Paolo Giorgini",
+            "id": "390620748",
+            "org": "University of Trento, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Business domain",
+        "Business Process Model and Notation",
+        "Business process modeling",
+        "Business architecture",
+        "Management science",
+        "Process modeling",
+        "Computer science",
+        "Artifact-centric business process model",
+        "New business development",
+        "Business rule"
+    ],
+    "references": [
+        "1490304345",
+        "1525541389",
+        "1971367047",
+        "2156218005"
+    ]
+}

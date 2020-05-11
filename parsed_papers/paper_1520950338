@@ -1,0 +1,39 @@
+{
+    "id": "1520950338",
+    "title": "Efficiently representing the radiosity kernel through learning",
+    "venue": "eurographics symposium on rendering techniques",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Christian-A. Bohn",
+            "id": "2152453650",
+            "org": "German National Research Center for Information Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Cluster analysis",
+        "Kernel (statistics)",
+        "Computer graphics (images)",
+        "Artificial neural network",
+        "Kernel (linear algebra)",
+        "Machine learning",
+        "Finite element method",
+        "Artificial intelligence",
+        "Mathematics",
+        "Global illumination",
+        "Basis function",
+        "Radiosity (computer graphics)"
+    ],
+    "references": [
+        "1506248850",
+        "1644976598",
+        "2010150441",
+        "2111425491",
+        "2133671888",
+        "2138624212",
+        "2154609172",
+        "2165608046",
+        "2171277043"
+    ]
+}

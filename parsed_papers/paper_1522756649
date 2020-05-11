@@ -1,0 +1,38 @@
+{
+    "id": "1522756649",
+    "title": "From Processes to ODEs by Chemistry",
+    "venue": "IFIP TCS",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Luca Cardelli",
+            "id": "331751290",
+            "org": "Microsoft Research"
+        }
+    ],
+    "fields_of_study": [
+        "First-order partial differential equation",
+        "Ordinary differential equation",
+        "Differential algebraic equation",
+        "Bernoulli differential equation",
+        "Discrete mathematics",
+        "Mathematical analysis",
+        "Differential equation",
+        "Parametric equation",
+        "Equilibrium point",
+        "Chemical species"
+    ],
+    "references": [
+        "291482096",
+        "1568746080",
+        "1573961985",
+        "1603799276",
+        "1859458367",
+        "1965072559",
+        "2021089599",
+        "2066322491",
+        "2110796675",
+        "2111390218",
+        "2130429899"
+    ]
+}

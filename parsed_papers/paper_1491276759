@@ -1,0 +1,36 @@
+{
+    "id": "1491276759",
+    "title": "A Robust Approach for Camera Break Detection in Color Video Sequence",
+    "venue": "Journal of Machine Vision and Applications",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "John Chung-Mong Lee",
+            "id": "2231822059",
+            "org": "Department of Computer Science|University of Science and Technology"
+        },
+        {
+            "name": "Dixon Man-Ching Ip",
+            "id": "2312567281",
+            "org": "Department of Computer Science|University of Science and Technology"
+        }
+    ],
+    "fields_of_study": [
+        "HSL and HSV",
+        "Computer vision",
+        "Camera auto-calibration",
+        "Pattern recognition",
+        "Video tracking",
+        "Search engine indexing",
+        "Zoom",
+        "Spatial analysis",
+        "Artificial intelligence",
+        "Image quality",
+        "Indexation",
+        "Computer science"
+    ],
+    "references": [
+        "2006830243",
+        "2131729179"
+    ]
+}

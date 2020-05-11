@@ -1,0 +1,40 @@
+{
+    "id": "1721341781",
+    "title": "Experimenting with Shared Generation of RSA Keys.",
+    "venue": "network and distributed system security symposium",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Michael Malkin",
+            "id": "2144623480",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Thomas D. Wu",
+            "id": "2100418737",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Dan Boneh",
+            "id": "201828038",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Computation",
+        "Computer security",
+        "Key generation",
+        "Encryption",
+        "Distributed algorithm",
+        "Key (lock)",
+        "Computer science",
+        "A share",
+        "Factorization",
+        "Theoretical computer science",
+        "Distributed computing",
+        "Server"
+    ],
+    "references": [
+        "2141420453"
+    ]
+}

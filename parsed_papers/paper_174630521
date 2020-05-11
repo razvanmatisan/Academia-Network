@@ -1,0 +1,52 @@
+{
+    "id": "174630521",
+    "title": "Monolingual Machine Translation for Paraphrase Generation.",
+    "venue": "empirical methods in natural language processing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Chris Quirk",
+            "id": "2165558247",
+            "org": "Natural Language Processing Group|Microsoft Research|One Microsoft Way"
+        },
+        {
+            "name": "Chris Brockett",
+            "id": "2095316779",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "William B. Dolan",
+            "id": "2031298526",
+            "org": "Microsoft Research"
+        }
+    ],
+    "fields_of_study": [
+        "Machine translation",
+        "Natural language processing",
+        "Computer science",
+        "Machine learning",
+        "Synchronous context-free grammar",
+        "Example-based machine translation",
+        "Transfer-based machine translation",
+        "Artificial intelligence",
+        "Machine translation software usability",
+        "Computer-assisted translation",
+        "Evaluation of machine translation",
+        "Rule-based machine translation"
+    ],
+    "references": [
+        "1965605789",
+        "1973923101",
+        "1980776243",
+        "2003677545",
+        "2038698865",
+        "2042060232",
+        "2107130271",
+        "2118021410",
+        "2129468719",
+        "2141532438",
+        "2153653739",
+        "2156985047",
+        "2158164089"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1596276476",
+    "title": "Set theoretic approaches to graph grammars",
+    "venue": "international workshop on graph grammars and their application to computer science",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Manfred Nagl",
+            "id": "2251328658",
+            "org": "Aachen University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Wait-for graph",
+        "Graph (abstract data type)",
+        "Embedding",
+        "Graph rewriting",
+        "Graph database",
+        "Theoretical computer science",
+        "Expression (mathematics)",
+        "Computer science",
+        "Set theory",
+        "Rule-based machine translation"
+    ],
+    "references": [
+        "130248688",
+        "1590835706",
+        "1608201119",
+        "2003442449",
+        "2020996668",
+        "2030734020"
+    ]
+}

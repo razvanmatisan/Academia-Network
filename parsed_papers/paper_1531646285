@@ -1,0 +1,37 @@
+{
+    "id": "1531646285",
+    "title": "Some Aspects of Parsing Expression Grammar",
+    "venue": "Fundamenta Informaticae",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Roman R. Redziejowski",
+            "id": "2018102243",
+            "org": "(Correspd.: Ceremonimastarvagen 10, SE-181 40 Lidingo, Sweden) Giraf's Research. roman.redz@swipnet.se#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "LL grammar",
+        "Parser combinator",
+        "Top-down parsing",
+        "Natural language processing",
+        "Bottom-up parsing",
+        "Programming language",
+        "Simple LR parser",
+        "Parsing expression grammar",
+        "LALR parser",
+        "Artificial intelligence",
+        "Top-down parsing language",
+        "Computer science"
+    ],
+    "references": [
+        "1491178396",
+        "1542200249",
+        "1660801069",
+        "1768003599",
+        "1971135355",
+        "1984577612",
+        "1997881301",
+        "2018045485"
+    ]
+}

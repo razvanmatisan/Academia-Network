@@ -1,0 +1,45 @@
+{
+    "id": "1517570823",
+    "title": "A Genetic Algorithm for the Capacitated Arc Routing Problem and Its Extensions",
+    "venue": "evoworkshops on applications of evolutionary computing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Philippe Lacomme",
+            "id": "1998629404",
+            "org": "University of Technology|Laboratory for Industrial Systems Optimization"
+        },
+        {
+            "name": "Christian Prins",
+            "id": "2168577434",
+            "org": "University of Technology|Laboratory for Industrial Systems Optimization"
+        },
+        {
+            "name": "Wahiba Ramdane-cherif",
+            "id": "567534876",
+            "org": "University of Technology of Troyes"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic algorithm",
+        "Discrete mathematics",
+        "Metaheuristic",
+        "Arc routing",
+        "Upper and lower bounds",
+        "Tabu search",
+        "Mathematical optimization",
+        "Travelling salesman problem",
+        "Mixed graph",
+        "Mathematics",
+        "Exact algorithm"
+    ],
+    "references": [
+        "1977642073",
+        "2017695941",
+        "2036924136",
+        "2039011874",
+        "2041183433",
+        "2044807391",
+        "2071463225"
+    ]
+}

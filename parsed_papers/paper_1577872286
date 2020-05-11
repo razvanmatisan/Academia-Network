@@ -1,0 +1,51 @@
+{
+    "id": "1577872286",
+    "title": "Controlled Invariance of Discrete Time Systems",
+    "venue": "international workshop on hybrid systems computation and control",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Renee Vidal",
+            "id": "2577369174",
+            "org": "University of California at Berkeley"
+        },
+        {
+            "name": "Shawn Schaffert",
+            "id": "2184557043",
+            "org": "University of California at Berkeley"
+        },
+        {
+            "name": "John Lygeros",
+            "id": "2894328901",
+            "org": "University of California at Berkeley"
+        },
+        {
+            "name": "Shankar Sastry",
+            "id": "2149692785",
+            "org": "University of California at Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Discrete time and continuous time",
+        "Decidability",
+        "Linear system",
+        "Invariant (mathematics)",
+        "Discrete system",
+        "Quantifier elimination",
+        "Bounded function",
+        "Linear programming",
+        "Mathematics"
+    ],
+    "references": [
+        "1481109946",
+        "1498285565",
+        "1515211482",
+        "1533617471",
+        "1566115468",
+        "1986264093",
+        "2056219099",
+        "2067705970",
+        "2165489953"
+    ]
+}

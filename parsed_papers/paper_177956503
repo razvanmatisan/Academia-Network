@@ -1,0 +1,31 @@
+{
+    "id": "177956503",
+    "title": "Re engineering software development process for eBusiness application development",
+    "venue": "software engineering and knowledge engineering",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Athula Ginige",
+            "id": "2062029995",
+            "org": "Western Sydney University"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Personal software process",
+        "Team software process",
+        "Software Engineering Process Group",
+        "Computer science",
+        "Software development process",
+        "Goal-Driven Software Development Process",
+        "Software development",
+        "Process management",
+        "Package development process",
+        "Systems development life cycle"
+    ],
+    "references": [
+        "2012138753",
+        "2077318760",
+        "2107865429"
+    ]
+}

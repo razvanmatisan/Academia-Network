@@ -1,0 +1,55 @@
+{
+    "id": "1507881093",
+    "title": "Concurrent Static Single Assignment Form and Constant Propagation for Explicitly Parallel Programs",
+    "venue": "languages and compilers for parallel computing",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Jaejin Lee",
+            "id": "2161443431",
+            "org": "University of Illinois"
+        },
+        {
+            "name": "Samuel P. Midkiff",
+            "id": "2129574738",
+            "org": "IBM T.J. Watson Research Center"
+        },
+        {
+            "name": "David A. Padua",
+            "id": "2123005755",
+            "org": "University of Illinois"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Thread (computing)",
+        "Theoretical computer science",
+        "Control flow",
+        "Discrete mathematics",
+        "Program optimization",
+        "Static single assignment form",
+        "Computer science",
+        "Control flow graph",
+        "Basic block",
+        "Distributed computing",
+        "Concurrency control",
+        "Sparse conditional constant propagation"
+    ],
+    "references": [
+        "32942804",
+        "187774245",
+        "1490084794",
+        "1491178396",
+        "1563916470",
+        "1578042273",
+        "1982205631",
+        "1993402810",
+        "2022787954",
+        "2041630299",
+        "2078314687",
+        "2080570636",
+        "2085134931",
+        "2100221082",
+        "2102890180"
+    ]
+}

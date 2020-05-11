@@ -1,0 +1,36 @@
+{
+    "id": "1505324272",
+    "title": "Applying Rewriting Techniques to Groups with Power-Communication-Presentations",
+    "venue": "international symposium on symbolic and algebraic computation",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Dieter Wissmann",
+            "id": "2276904953",
+            "org": "University of Kaiserslautern"
+        }
+    ],
+    "fields_of_study": [
+        "Decidability",
+        "Discrete mathematics",
+        "Abelian group",
+        "Combinatorics",
+        "Elementary abelian group",
+        "Algebra",
+        "Knuth-Bendix completion algorithm",
+        "Nilpotent group",
+        "Rewriting",
+        "Mathematics",
+        "Word problem (mathematics)",
+        "Word problem for groups"
+    ],
+    "references": [
+        "1525514552",
+        "1529365861",
+        "1531118294",
+        "1964700393",
+        "1991856459",
+        "2004459113",
+        "2093250851"
+    ]
+}

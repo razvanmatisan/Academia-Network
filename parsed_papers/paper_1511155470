@@ -1,0 +1,29 @@
+{
+    "id": "1511155470",
+    "title": "SATO: An Efficient Propositional Prover",
+    "venue": "conference on automated deduction",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Hantao Zhang",
+            "id": "2098359920",
+            "org": "The University of Iowa"
+        }
+    ],
+    "fields_of_study": [
+        "Propositional variable",
+        "Discrete mathematics",
+        "Algorithm",
+        "Satisfiability",
+        "Propositional calculus",
+        "Gas meter prover",
+        "Constraint satisfaction problem",
+        "Mathematics"
+    ],
+    "references": [
+        "1994777685",
+        "2038118137",
+        "2057361103",
+        "2092775861"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1537592944",
+    "title": "Sampling theory for graph signals",
+    "venue": "international conference on acoustics, speech, and signal processing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Siheng Chen",
+            "id": "2141361180",
+            "org": "Dept. of ECE, Carnegie Mellon University, Pittsburgh, PA, USA"
+        },
+        {
+            "name": "Aliaksei Sandryhaila",
+            "id": "1450637906",
+            "org": "HP Vertica, Carnegie Mellon University, Pittsburgh, PA, USA"
+        },
+        {
+            "name": "Jelena Kovacevic",
+            "id": "2156441400",
+            "org": "Dept. of ECE, Carnegie Mellon University, Pittsburgh, PA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Nyquist-Shannon sampling theorem",
+        "Signal processing",
+        "Mathematical optimization",
+        "Nonuniform sampling",
+        "Discrete mathematics",
+        "Graph bandwidth",
+        "Digital signal processing",
+        "Sampling (statistics)",
+        "1-planar graph",
+        "Multidimensional signal processing",
+        "Mathematics"
+    ],
+    "references": [
+        "1513335440",
+        "1698699930",
+        "1718412262",
+        "1983058494",
+        "1991252559",
+        "2030319053",
+        "2030643321",
+        "2101491865"
+    ]
+}

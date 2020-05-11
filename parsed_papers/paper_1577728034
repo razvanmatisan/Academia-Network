@@ -1,0 +1,57 @@
+{
+    "id": "1577728034",
+    "title": "A Specification and Verification Framework for Developing Weak Shared Memory Consistency Protocols",
+    "venue": "formal methods in computer aided design",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Prosenjit Chatterjee",
+            "id": "2156870267",
+            "org": "University of Utah"
+        },
+        {
+            "name": "Ganesh Gopalakrishnan",
+            "id": "2129100051",
+            "org": "University of Utah"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Real-time computing",
+        "Distributed shared memory",
+        "Computer science",
+        "Overlay",
+        "Cache coherence",
+        "Memory model",
+        "Distributed computing",
+        "Distributed memory",
+        "Uniform memory access",
+        "Consistency model",
+        "Shared memory"
+    ],
+    "references": [
+        "224698694",
+        "1502765706",
+        "1545792627",
+        "1575128990",
+        "1595302093",
+        "1595452620",
+        "1973501242",
+        "2029601347",
+        "2054739713",
+        "2079605740",
+        "2095703264",
+        "2107859560",
+        "2114421447",
+        "2115309705",
+        "2116649658",
+        "2132107743",
+        "2132412204",
+        "2149426263",
+        "2160499017",
+        "2169832991",
+        "2170846240",
+        "2176864362",
+        "2672830324"
+    ]
+}

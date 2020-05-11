@@ -1,0 +1,43 @@
+{
+    "id": "1493802901",
+    "title": "Transform Coding of RGB-Histograms",
+    "venue": "international conference on computer vision theory and applications",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Reiner Lenz",
+            "id": "2130507192",
+            "org": "Linkoping University"
+        },
+        {
+            "name": "Pedro Latorre Carmona",
+            "id": "2150510168",
+            "org": "Jaume I University"
+        }
+    ],
+    "fields_of_study": [
+        "Harmonic analysis",
+        "Pattern recognition",
+        "Finite group",
+        "Eigenvalues and eigenvectors",
+        "Artificial intelligence",
+        "Discrete mathematics",
+        "RGB color model",
+        "Symmetric group",
+        "Mathematics",
+        "Transform coding",
+        "Representation theory of the symmetric group",
+        "Representation theory"
+    ],
+    "references": [
+        "1581044618",
+        "1983700216",
+        "1992030785",
+        "2042768852",
+        "2118783153",
+        "2130660124",
+        "2132103241",
+        "2165648776",
+        "2169678505"
+    ]
+}

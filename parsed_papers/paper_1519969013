@@ -1,0 +1,30 @@
+{
+    "id": "1519969013",
+    "title": "High-Bandwidth Encryption with Low-Bandwidth Smartcards",
+    "venue": "fast software encryption",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Matt Blaze",
+            "id": "2794083866",
+            "org": "AT&T Bell Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Embedded system",
+        "Cryptographic hash function",
+        "Overhead (computing)",
+        "Smart card",
+        "Encryption",
+        "Cryptographic protocol",
+        "Cryptography",
+        "Block cipher",
+        "Cipher",
+        "Computer science"
+    ],
+    "references": [
+        "1607280525",
+        "2119951041",
+        "2159339961"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1519508463",
+    "title": "Process Support for Mobile Work across Heterogeneous Systems",
+    "venue": "european workshop on software process technology",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Alf Inge Wang",
+            "id": "2145919591",
+            "org": "Norwegian University of Science and Technology (NTNU) Department of Computer and Information Science N-7491 Trondheim Norway"
+        },
+        {
+            "name": "Chunnian Liu",
+            "id": "2476743395",
+            "org": "Beijing Polytechnic University (BPU) Beijing P.R. China"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Mobile agent",
+        "Mobile device",
+        "Mobile business development",
+        "Software development",
+        "Software development process",
+        "Distributed computing",
+        "Simulation",
+        "Mobile computing",
+        "Software",
+        "Computer science",
+        "Middleware"
+    ],
+    "references": [
+        "1535739239",
+        "2065367771",
+        "2130046023",
+        "2160747957"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1534927681",
+    "title": "Layout, Content and Logic Separation in Web Engineering",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Clemens Kerer",
+            "id": "261085434",
+            "org": "Technical University of Vienna"
+        },
+        {
+            "name": "Engin Kirda",
+            "id": "59249629",
+            "org": "Technical University of Vienna"
+        }
+    ],
+    "fields_of_study": [
+        "Layout",
+        "Web standards",
+        "Business logic",
+        "Database",
+        "Distributed computing",
+        "Software development",
+        "Web modeling",
+        "Scalability",
+        "Style sheet",
+        "Web engineering",
+        "Computer science"
+    ],
+    "references": [
+        "2068194475"
+    ]
+}

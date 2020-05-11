@@ -1,0 +1,46 @@
+{
+    "id": "1584604130",
+    "title": "Using linear programming techniques for scheduling-based random test-case generation",
+    "venue": "haifa verification conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Amir Nahir",
+            "id": "2136775269",
+            "org": "IBM Research Laboratory in Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Yossi Shiloach",
+            "id": "195356928",
+            "org": "IBM Research Laboratory in Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Avi Ziv",
+            "id": "2147799520",
+            "org": "IBM Research Laboratory in Haifa, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Integer programming",
+        "Fair-share scheduling",
+        "Random testing",
+        "Scheduling (computing)",
+        "Computer science",
+        "Job shop scheduling",
+        "Distributed computing",
+        "Control theory",
+        "Constraint satisfaction problem",
+        "Linear programming"
+    ],
+    "references": [
+        "1528419757",
+        "1566072248",
+        "1975442866",
+        "2042835116",
+        "2090310951",
+        "2136357775",
+        "2161484642",
+        "2171014460"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1555165144",
+    "title": "Searching Real-Valued Synaptic Weights of Hopfield's Associative Memory Using Evolutionary Programming",
+    "venue": "Evolutionary Programming",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Akira Imada",
+            "id": "1911468830",
+            "org": "Nara Institute of Science and Technology"
+        },
+        {
+            "name": "Keijiro Araki",
+            "id": "2644631821",
+            "org": "Kyusyu University"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic algorithm",
+        "Evolutionary computation",
+        "Bidirectional associative memory",
+        "Evolutionary acquisition of neural topologies",
+        "Evolutionary programming",
+        "Hopfield network",
+        "Content-addressable memory",
+        "Recurrent neural network",
+        "Machine learning",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1488832984",
+        "1984431842",
+        "2051327183",
+        "2070367382",
+        "2152958328"
+    ]
+}

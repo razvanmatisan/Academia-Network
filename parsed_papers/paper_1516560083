@@ -1,0 +1,39 @@
+{
+    "id": "1516560083",
+    "title": "Analyzing Attribute Dependencies",
+    "venue": "european conference on principles of data mining and knowledge discovery",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Aleks Jakulin",
+            "id": "120349348",
+            "org": "University of Ljubljana"
+        },
+        {
+            "name": "Ivan Bratko",
+            "id": "689465770",
+            "org": "University of Ljubljana"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Heuristic",
+        "Computer science",
+        "Artificial intelligence",
+        "Visualization",
+        "Information and Computer Science",
+        "Variable and attribute",
+        "Attribute domain",
+        "Brier score",
+        "Voting"
+    ],
+    "references": [
+        "203696055",
+        "1528489993",
+        "1605844890",
+        "1965680102",
+        "2097508937",
+        "2146705998",
+        "2147409005"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1602785150",
+    "title": "Secrecy through Synchronization Errors",
+    "venue": "global communications conference",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Jason Castiglione",
+            "id": "2216840005",
+            "org": "University of Hawaii"
+        },
+        {
+            "name": "Aleksandar Kavcic",
+            "id": "1973874522",
+            "org": "University of Hawaii"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Synchronization",
+        "Computer network",
+        "Information-theoretic security",
+        "Transmitter",
+        "Secure transmission",
+        "Secrecy",
+        "Encryption",
+        "Randomness",
+        "Computer science",
+        "Communication channel"
+    ],
+    "references": [
+        "1508588885",
+        "1544104819",
+        "1886640579",
+        "1987917945",
+        "2062612962",
+        "2070432296",
+        "2103674915",
+        "2144007657",
+        "2158554251",
+        "2162635854"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1563090870",
+    "title": "Evaluation of development tools for domain-specific modeling languages",
+    "venue": "system analysis and modeling",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Daniel Amyot",
+            "id": "2068689570",
+            "org": "SITE, University of Ottawa, Ottawa, Canada#TAB#"
+        },
+        {
+            "name": "Hanna Farah",
+            "id": "1967185755",
+            "org": "SITE, University of Ottawa, Ottawa, Canada#TAB#"
+        },
+        {
+            "name": "Jean-Francois Roy",
+            "id": "2202485988",
+            "org": "SITE, University of Ottawa, Ottawa, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Modeling language",
+        "Domain-specific modeling",
+        "Generic Modeling Environment",
+        "Computer science",
+        "Specification language",
+        "Distributed computing",
+        "Class diagram",
+        "Metamodeling",
+        "Programming language",
+        "Domain-specific language"
+    ],
+    "references": [
+        "1497027223"
+    ]
+}

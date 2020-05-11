@@ -1,0 +1,30 @@
+{
+    "id": "1531216453",
+    "title": "Aligning Information Systems Security and Usability Requirements for Computer-Based Information Systems",
+    "venue": "americas conference on information systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Santa R. Susarapu",
+            "id": "2042557991",
+            "org": "Association for Information Systems"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Information security management",
+        "Information system",
+        "Usability",
+        "Knowledge management",
+        "Human-computer interaction in information security",
+        "Security information and event management",
+        "Information security audit",
+        "Management information systems",
+        "Automated information system"
+    ],
+    "references": [
+        "1558148421",
+        "2124835398",
+        "2155865187"
+    ]
+}

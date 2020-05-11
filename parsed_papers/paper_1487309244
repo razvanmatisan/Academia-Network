@@ -1,0 +1,40 @@
+{
+    "id": "1487309244",
+    "title": "A Method Engineering Language for the Description of Systems Development Methods",
+    "venue": "conference on advanced information systems engineering",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Sjaak Brinkkemper",
+            "id": "231184312",
+            "org": "Baan R&D"
+        },
+        {
+            "name": "Motoshi Saeki",
+            "id": "2892455566",
+            "org": "Tokyo Institute of Technology"
+        },
+        {
+            "name": "Frank Harmsen",
+            "id": "2148382199",
+            "org": "Cap Gemini Ernst & Young Management Consultants"
+        }
+    ],
+    "fields_of_study": [
+        "Modeling language",
+        "Formal language",
+        "Software development",
+        "Unified Modeling Language",
+        "Natural language processing",
+        "Specification language",
+        "Object language",
+        "Systems Modeling Language",
+        "Computer science",
+        "Method engineering",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1968687156",
+        "2115298548"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1523326294",
+    "title": "Towards understanding the functions of web element",
+    "venue": "asia information retrieval symposium",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Xinyi Yin",
+            "id": "2161145900",
+            "org": "Department of Computer Science National, University of Singapore, Singapore#TAB#"
+        },
+        {
+            "name": "Wee Sun Lee",
+            "id": "2135255940",
+            "org": "Department of Computer Science and Singapore-MIT Alliance, National University of Singapore, Singapore#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Web service",
+        "Static web page",
+        "Mobile search",
+        "Data mining",
+        "Web mining",
+        "Web modeling",
+        "Web navigation",
+        "Web page",
+        "Computer science",
+        "Printer-friendly"
+    ],
+    "references": [
+        "1748877974",
+        "1876404234",
+        "1989338554",
+        "2012575882",
+        "2015933107",
+        "2026642282",
+        "2028517279",
+        "2043550167",
+        "2064818667",
+        "2095680579",
+        "2147428516",
+        "2167859982",
+        "2169337167",
+        "2169347997"
+    ]
+}

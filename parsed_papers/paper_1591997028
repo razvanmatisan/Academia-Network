@@ -1,0 +1,34 @@
+{
+    "id": "1591997028",
+    "title": "A Category-Theoretical Approach to Vertex Replacement: The Generation of Infinite Graphs",
+    "venue": "international workshop on graph-grammars and their application to computer science",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Michel Bauderon",
+            "id": "2731005688",
+            "org": "Universite Bordeaux I"
+        }
+    ],
+    "fields_of_study": [
+        "Categorical variable",
+        "Kleene's recursion theorem",
+        "Vertex (geometry)",
+        "Recursion",
+        "Combinatorics",
+        "Graph",
+        "Discrete mathematics",
+        "Rewrite rule",
+        "Mathematics",
+        "Rule-based machine translation",
+        "Rewriting"
+    ],
+    "references": [
+        "1483334519",
+        "1512428151",
+        "1523007919",
+        "1992040352",
+        "2016113382",
+        "2166434533"
+    ]
+}

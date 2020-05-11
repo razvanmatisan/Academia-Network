@@ -1,0 +1,31 @@
+{
+    "id": "1568838065",
+    "title": "Termination of Order-sorted Rewriting",
+    "venue": "Proceedings of the Third International Conference on Algebraic and Logic Programming",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Isabelle Gnaedig",
+            "id": "322696119",
+            "org": "INRIA Lorraine-CRIN CNRS"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical proof",
+        "Normalization property",
+        "Lexicographical order",
+        "Mathematics",
+        "Confluence",
+        "Algorithm",
+        "Rewriting",
+        "Executable"
+    ],
+    "references": [
+        "1623160446",
+        "1997816727",
+        "2066995661",
+        "2075479781",
+        "2086747974",
+        "2121757274"
+    ]
+}

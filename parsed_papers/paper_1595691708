@@ -1,0 +1,52 @@
+{
+    "id": "1595691708",
+    "title": "Kernel Methods for Detecting the Direction of Time Series",
+    "venue": "32nd Annual Conference of the Gesellschaft fur Klassifikation e.V. (GfKl 2008)",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jonas Peters",
+            "id": "2296948990",
+            "org": "Max Planck Society"
+        },
+        {
+            "name": "Dominik Janzing",
+            "id": "2330451",
+            "org": "Max Planck Society"
+        },
+        {
+            "name": "Arthur Gretton",
+            "id": "2468960519",
+            "org": "Max Planck Society"
+        },
+        {
+            "name": "Bernhard Scholkopf",
+            "id": "297432538",
+            "org": "MPI for biological Cybernetics"
+        }
+    ],
+    "fields_of_study": [
+        "Kernel embedding of distributions",
+        "Kernel (statistics)",
+        "Statistics",
+        "Moving-average model",
+        "Kernel method",
+        "Kernel principal component analysis",
+        "Polynomial kernel",
+        "Variable kernel density estimation",
+        "Artificial intelligence",
+        "Mathematics",
+        "Radial basis function kernel",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1480714498",
+        "1515072779",
+        "1613957256",
+        "1638081485",
+        "1946137962",
+        "2100862493",
+        "2125865219",
+        "2151226328"
+    ]
+}

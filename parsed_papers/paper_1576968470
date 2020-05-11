@@ -1,0 +1,49 @@
+{
+    "id": "1576968470",
+    "title": "API conformance verification for Java programs",
+    "venue": "international conference on formal engineering methods",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Xin Li",
+            "id": "2669390322",
+            "org": "Dept. of Computing Science, University of Alberta, Edmonton, Alberta, Canada#TAB#"
+        },
+        {
+            "name": "H. James Hoover",
+            "id": "2169162847",
+            "org": "Dept. of Computing Science, University of Alberta, Edmonton, Alberta, Canada#TAB#"
+        },
+        {
+            "name": "Piotr Rudnicki",
+            "id": "2121961127",
+            "org": "Dept. of Computing Science, University of Alberta, Edmonton, Alberta, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Model checking",
+        "Control flow",
+        "Deadlock",
+        "Concurrency",
+        "Component-based software engineering",
+        "Application programming interface",
+        "Java",
+        "Programming language",
+        "Computer science",
+        "Executable"
+    ],
+    "references": [
+        "1479736339",
+        "1711395388",
+        "2043400324",
+        "2044590882",
+        "2066815304",
+        "2078603500",
+        "2098495346",
+        "2134311998",
+        "2165688098",
+        "2171480813",
+        "2293624369"
+    ]
+}

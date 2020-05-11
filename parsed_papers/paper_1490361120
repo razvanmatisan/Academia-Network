@@ -1,0 +1,32 @@
+{
+    "id": "1490361120",
+    "title": "A Toolset for Message Sequence Charts",
+    "venue": "computer aided verification",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Doron A. Peled",
+            "id": "127429266",
+            "org": "Bell Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Notation",
+        "Communications protocol",
+        "Theoretical computer science",
+        "Systems design",
+        "Communications system",
+        "Computer science",
+        "Software development",
+        "Formal verification",
+        "Message sequence chart",
+        "User interface"
+    ],
+    "references": [
+        "201628453",
+        "1561576781",
+        "1582068322",
+        "1750379273",
+        "2104734478"
+    ]
+}

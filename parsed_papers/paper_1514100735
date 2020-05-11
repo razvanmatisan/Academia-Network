@@ -1,0 +1,40 @@
+{
+    "id": "1514100735",
+    "title": "Extraction of Optimal Biclusters from Gene Expression Data",
+    "venue": "international conference on telecommunications",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "J. Bagyamani",
+            "id": "399411893",
+            "org": "Government Arts College"
+        },
+        {
+            "name": "K. Thangavel",
+            "id": "2690609260",
+            "org": "Periyar University"
+        },
+        {
+            "name": "R. Rathipriya",
+            "id": "436797699",
+            "org": "Periyar University"
+        }
+    ],
+    "fields_of_study": [
+        "Spearman's rank correlation coefficient",
+        "Real-time computing",
+        "Cluster analysis",
+        "Matrix (mathematics)",
+        "Row and column spaces",
+        "Biclustering",
+        "Artificial intelligence",
+        "Computer science",
+        "Pattern recognition"
+    ],
+    "references": [
+        "80212115",
+        "1493217831",
+        "2121463966",
+        "2130095365"
+    ]
+}

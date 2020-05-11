@@ -1,0 +1,33 @@
+{
+    "id": "1498203057",
+    "title": "Consistency and Transactions in CAD Database",
+    "venue": "very large data bases",
+    "year": 1982,
+    "authors": [
+        {
+            "name": "Thomas Neumann",
+            "id": "2635399644",
+            "org": "Technische Hochschule Darmstadt"
+        },
+        {
+            "name": "Christoph Hornung",
+            "id": "2719723095",
+            "org": "Technische Hochschule Darmstadt"
+        }
+    ],
+    "fields_of_study": [
+        "Sequential consistency",
+        "Database",
+        "Consistency (database systems)",
+        "Computer science",
+        "Database transaction",
+        "Data mining",
+        "Concurrency",
+        "Engineering design process",
+        "Design process",
+        "Consistency model"
+    ],
+    "references": [
+        "1517035156"
+    ]
+}

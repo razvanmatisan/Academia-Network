@@ -1,0 +1,45 @@
+{
+    "id": "1591264412",
+    "title": "Comparative testing of face detection algorithms",
+    "venue": "international conference on image and signal processing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Nikolay Degtyarev",
+            "id": "2692646322",
+            "org": "Tula State University#TAB#"
+        },
+        {
+            "name": "Oleg Seredin",
+            "id": "2063755020",
+            "org": "Tula State University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Object-class detection",
+        "Face detection",
+        "Computer vision",
+        "Artificial intelligence",
+        "Algorithm",
+        "Machine learning",
+        "Pattern recognition",
+        "Coding (social sciences)",
+        "Statistical model",
+        "Computer science",
+        "Facial recognition system",
+        "User interface"
+    ],
+    "references": [
+        "1545641654",
+        "2046399019",
+        "2107634464",
+        "2115763357",
+        "2121601095",
+        "2122044381",
+        "2137401668",
+        "2158698691",
+        "2163352848",
+        "2164598857",
+        "2167081989"
+    ]
+}

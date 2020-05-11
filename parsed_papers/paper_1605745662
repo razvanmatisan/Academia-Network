@@ -1,0 +1,40 @@
+{
+    "id": "1605745662",
+    "title": "A New Instance-Based Label Ranking Approach Using the Mallows Model",
+    "venue": "international symposium on neural networks",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Weiwei Cheng",
+            "id": "2116283648",
+            "org": "Mathematics and Computer Science, University of Marburg, Germany#TAB#"
+        },
+        {
+            "name": "Eyke Hullermeier",
+            "id": "323026139",
+            "org": "Mathematics and Computer Science, University of Marburg, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Instance-based learning",
+        "Maximum likelihood",
+        "Machine learning",
+        "Probabilistic logic",
+        "Pattern recognition",
+        "Ranking SVM",
+        "Artificial intelligence",
+        "Likelihood function",
+        "Ranking",
+        "Statistical model",
+        "Maximum likelihood sequence estimation",
+        "Mathematics"
+    ],
+    "references": [
+        "1483423256",
+        "1783333813",
+        "2102705755",
+        "2121692343",
+        "2147169507",
+        "2149166361"
+    ]
+}

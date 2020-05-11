@@ -1,0 +1,45 @@
+{
+    "id": "1490261606",
+    "title": "Sublinear merging and natural merge sort",
+    "venue": "SIGAL '90 Proceedings of the international symposium on Algorithms",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Svante Carlsson",
+            "id": "2108137896",
+            "org": "Lund University"
+        },
+        {
+            "name": "Christos Levcopoulos",
+            "id": "2084621579",
+            "org": "Lund University"
+        },
+        {
+            "name": "Ola Petersson",
+            "id": "2157600711",
+            "org": "Lund University"
+        }
+    ],
+    "fields_of_study": [
+        "Adaptive sort",
+        "Time complexity",
+        "Merge (version control)",
+        "Binary search algorithm",
+        "Merge sort",
+        "Machine learning",
+        "Sublinear function",
+        "Sorting",
+        "Mathematics",
+        "Sorting algorithm",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1554451661",
+        "1563106223",
+        "1970752613",
+        "2011137306",
+        "2043231047",
+        "2091505308",
+        "2146729413"
+    ]
+}

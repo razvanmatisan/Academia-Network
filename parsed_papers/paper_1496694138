@@ -1,0 +1,29 @@
+{
+    "id": "1496694138",
+    "title": "SPIN Tutorial: How to Become a SPIN Doctor",
+    "venue": "international workshop on model checking software",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Theo C. Ruys",
+            "id": "2030182704",
+            "org": "University of Twente"
+        }
+    ],
+    "fields_of_study": [
+        "Model checking",
+        "Software system",
+        "High-level programming language",
+        "Promela",
+        "Spin- 1/2 ",
+        "Theoretical computer science",
+        "Programming language",
+        "Computer science"
+    ],
+    "references": [
+        "1900874134",
+        "2014100935",
+        "2044309072",
+        "2115309705"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": "105887026",
+    "title": "The Governance of Business Process Management",
+    "venue": "business process management",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Andrew Spanyi",
+            "id": "2426841488",
+            "org": "Spanyi International Inc."
+        }
+    ],
+    "fields_of_study": [
+        "Business analysis",
+        "Corporate governance",
+        "Computer science",
+        "Process management",
+        "Information management",
+        "Information governance",
+        "Business relationship management",
+        "Business administration",
+        "Business process management",
+        "Business process reengineering",
+        "Project governance"
+    ],
+    "references": [
+        "12246769",
+        "1510377720",
+        "1568433801"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1602581100",
+    "title": "Distributed and Persistent Evolutionary Algorithms: A Design Pattern",
+    "venue": "european conference on genetic programming",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Alessandro Bollini",
+            "id": "2639736806",
+            "org": "Universitia di Pavia"
+        },
+        {
+            "name": "Marco Piastra",
+            "id": "2671043988",
+            "org": "Universitia di Pavia"
+        }
+    ],
+    "fields_of_study": [
+        "Robustness (computer science)",
+        "Theoretical computer science",
+        "Evolutionary algorithm",
+        "Distributed algorithm",
+        "Population",
+        "Genetic programming",
+        "Computer science",
+        "Distributed computing",
+        "Evolutionary programming",
+        "Design pattern",
+        "Genetic program"
+    ],
+    "references": [
+        "11531653",
+        "1598076938",
+        "2074429597",
+        "2123975697",
+        "2161694911"
+    ]
+}

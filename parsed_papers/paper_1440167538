@@ -1,0 +1,35 @@
+{
+    "id": "1440167538",
+    "title": "ONTO-RUP: A RUP Based Approach for Developing Ontogenetic Software Systems",
+    "venue": "bioinspired models of network information and computing systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Farida Kherissi",
+            "id": "222609687",
+            "org": "University Badji Mokhtar-Annaba, BP 12"
+        },
+        {
+            "name": "Djamel Meslati",
+            "id": "1209268491",
+            "org": "University Badji Mokhtar-Annaba, BP 12"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Computer science",
+        "Systems engineering",
+        "Machine learning",
+        "Rational Unified Process",
+        "Simulation",
+        "Software system",
+        "Use case",
+        "Ontogeny",
+        "Software"
+    ],
+    "references": [
+        "89544911",
+        "1506513518",
+        "2150098915"
+    ]
+}

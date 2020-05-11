@@ -1,0 +1,44 @@
+{
+    "id": "1560170243",
+    "title": "Learning Bayesian Metanetworks from Data with Multilevel Uncertainty",
+    "venue": "artificial intelligence applications and innovations",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Vagan Y. Terziyan",
+            "id": "116134149",
+            "org": "University of Jyvaskyla"
+        },
+        {
+            "name": "Oleksandra Vitko",
+            "id": "2504941192",
+            "org": "Kharkov National University of Radioelectronics"
+        }
+    ],
+    "fields_of_study": [
+        "Bayesian statistics",
+        "Bayesian hierarchical modeling",
+        "Machine learning",
+        "Pattern recognition",
+        "Bayesian network",
+        "Bayesian programming",
+        "Variable-order Bayesian network",
+        "Artificial intelligence",
+        "Intelligent control",
+        "Dynamic Bayesian network",
+        "Computer science",
+        "Graphical model"
+    ],
+    "references": [
+        "1522114398",
+        "1544444076",
+        "1564592130",
+        "1666129467",
+        "1696883162",
+        "1841884721",
+        "2087757986",
+        "2130759652",
+        "2133462743",
+        "2158418996"
+    ]
+}

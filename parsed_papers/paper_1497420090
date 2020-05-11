@@ -1,0 +1,37 @@
+{
+    "id": "1497420090",
+    "title": "The DALI Logic Programming Agent-Oriented Language",
+    "venue": "european conference on logics in artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Stefania Costantini",
+            "id": "2068700840",
+            "org": "Universita degli Studi di L'Aquila"
+        },
+        {
+            "name": "Arianna Tocchio",
+            "id": "2054011568",
+            "org": "Universita degli Studi di L'Aquila"
+        }
+    ],
+    "fields_of_study": [
+        "Programming paradigm",
+        "Functional logic programming",
+        "First-generation programming language",
+        "Distributed computing",
+        "Fifth-generation programming language",
+        "Very high-level programming language",
+        "Logic programming",
+        "Programming language",
+        "Programming language implementation",
+        "Programming domain",
+        "Computer science"
+    ],
+    "references": [
+        "1500046621",
+        "1554370515",
+        "1608309740",
+        "2121206858"
+    ]
+}

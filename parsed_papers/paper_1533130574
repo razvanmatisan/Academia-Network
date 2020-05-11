@@ -1,0 +1,37 @@
+{
+    "id": "1533130574",
+    "title": "Attribute set dependence in apriori-like reduct computation",
+    "venue": "rough sets and knowledge technology",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Pawel Terlecki",
+            "id": "2169771724",
+            "org": "Institute of Computer Science, Warsaw University of Technology, Warsaw, Poland#TAB#"
+        },
+        {
+            "name": "Krzysztof Walczak",
+            "id": "2431360287",
+            "org": "Institute of Computer Science, Warsaw University of Technology, Warsaw, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Reduct",
+        "Machine learning",
+        "Computation",
+        "Artificial intelligence",
+        "Information system",
+        "Pattern recognition",
+        "A priori and a posteriori",
+        "Dominance-based rough set approach",
+        "Mathematics",
+        "Rough set"
+    ],
+    "references": [
+        "1506285740",
+        "1517515497",
+        "1606422643",
+        "1981679236",
+        "2089137303"
+    ]
+}

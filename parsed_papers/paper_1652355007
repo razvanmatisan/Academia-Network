@@ -1,0 +1,39 @@
+{
+    "id": "1652355007",
+    "title": "A software multilevel fault injection mechanism: case study evaluating the Virtual Interface Architecture",
+    "venue": "symposium on reliable distributed systems",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Ting Liu",
+            "id": "2590783508",
+            "org": "Center for Reliable & High Performance Comput., Illinois Univ., Urbana, IL, USA"
+        },
+        {
+            "name": "Zbigniew Kalbarczyk",
+            "id": "2014593276",
+            "org": "Coordinated Science Lab"
+        },
+        {
+            "name": "Ravishankar K. Iyer",
+            "id": "2115084254",
+            "org": "Electrical and Computer Engineering"
+        }
+    ],
+    "fields_of_study": [
+        "Application software",
+        "Protocol stack",
+        "Real-time computing",
+        "Windows NT",
+        "Distributed computing",
+        "Fault injection",
+        "Computer science",
+        "Computer-aided software engineering",
+        "Software",
+        "Virtual Interface Architecture",
+        "Network interface"
+    ],
+    "references": [
+        "2165176720"
+    ]
+}

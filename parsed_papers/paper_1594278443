@@ -1,0 +1,28 @@
+{
+    "id": "1594278443",
+    "title": "An Algorithm to Compute the Equations of Tangent Cones",
+    "venue": "EUROCAM '82 Proceedings of the European Computer Algebra Conference on Computer Algebra",
+    "year": 1982,
+    "authors": [
+        {
+            "name": "Ferdinando Mora",
+            "id": "2711227981",
+            "org": "Universita di Genova"
+        }
+    ],
+    "fields_of_study": [
+        "Pushforward (differential)",
+        "Vertical tangent",
+        "Tangent vector",
+        "Tangential developable",
+        "Mathematics",
+        "Mathematical optimization",
+        "Tangent stiffness matrix",
+        "Tangential and normal components",
+        "Tangent half-angle formula",
+        "Tangent cone"
+    ],
+    "references": [
+        "1481997196"
+    ]
+}

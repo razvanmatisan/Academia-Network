@@ -1,0 +1,32 @@
+{
+    "id": "1501179093",
+    "title": "Skeletonization of Laser-Scanned Trees in the 3D Raster Domain",
+    "venue": "3D-GIS",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ben Gorte",
+            "id": "273742659",
+            "org": "TU Delft"
+        }
+    ],
+    "fields_of_study": [
+        "Laser",
+        "Point cloud",
+        "Raster graphics",
+        "Computer vision",
+        "Geography",
+        "Computer graphics (images)",
+        "Skeletonization",
+        "Laser scanning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1520230096",
+        "1543839191",
+        "1549739250",
+        "1976951789",
+        "2051842524",
+        "2081135354"
+    ]
+}

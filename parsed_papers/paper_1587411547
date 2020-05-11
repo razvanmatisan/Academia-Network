@@ -1,0 +1,42 @@
+{
+    "id": "1587411547",
+    "title": "Adapting User Interfaces to the User Interaction Requirements in Real Time",
+    "venue": "artificial intelligence applications and innovations",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Martin Gonzalez",
+            "id": "2338521262",
+            "org": "University of Oviedo"
+        },
+        {
+            "name": "Marcos Gonzalez",
+            "id": "2105279835",
+            "org": "University of Oviedo"
+        },
+        {
+            "name": "Jorge Manrubia",
+            "id": "2065919412",
+            "org": "University of Oviedo"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "User experience design",
+        "Post-WIMP",
+        "Machine learning",
+        "User interface design",
+        "Real-time computing",
+        "Human-computer interaction",
+        "10-foot user interface",
+        "Adaptive user interface",
+        "Computer science",
+        "Interactive systems engineering",
+        "User modeling",
+        "User interface"
+    ],
+    "references": [
+        "1516265878",
+        "2053973785"
+    ]
+}

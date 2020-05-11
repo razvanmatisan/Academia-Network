@@ -1,0 +1,45 @@
+{
+    "id": "1596939801",
+    "title": "Incremental Learning of Logic Programs",
+    "venue": "algorithmic learning theory",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "M. R. K. Krishna Rao",
+            "id": "2617866841",
+            "org": "Tata Institute of Fundamental Research"
+        },
+        {
+            "name": "M. R. K. Krishna Rao",
+            "id": "2617866841",
+            "org": "Tata Institute of Fundamental Research"
+        }
+    ],
+    "fields_of_study": [
+        "Active learning (machine learning)",
+        "Artificial intelligence",
+        "Time complexity",
+        "Multiplication",
+        "Instance-based learning",
+        "Machine learning",
+        "Computer science",
+        "Algorithmic learning theory",
+        "Inductive logic programming",
+        "Computational learning theory",
+        "Theoretical computer science",
+        "Logic programming"
+    ],
+    "references": [
+        "1484687406",
+        "1489563906",
+        "1513315908",
+        "1566436741",
+        "1591642134",
+        "1607630060",
+        "1987902506",
+        "2004683093",
+        "2015090599",
+        "2059799630",
+        "2154952480"
+    ]
+}

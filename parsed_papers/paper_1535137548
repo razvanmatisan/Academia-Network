@@ -1,0 +1,33 @@
+{
+    "id": "1535137548",
+    "title": "Fast facial feature extraction using a deformable shape model with Haar-wavelet based local texture attributes",
+    "venue": "international conference on image processing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Fei Zuo",
+            "id": "2628137446",
+            "org": "Dept. of Electr. Eng., Eindhoven Univ. of Technol., Netherlands"
+        }
+    ],
+    "fields_of_study": [
+        "Image texture",
+        "Active shape model",
+        "Computer vision",
+        "Initialization",
+        "Artificial intelligence",
+        "Feature extraction",
+        "Robustness (computer science)",
+        "Wavelet transform",
+        "Pattern recognition",
+        "Haar wavelet",
+        "Facial recognition system",
+        "Mathematics"
+    ],
+    "references": [
+        "1589579606",
+        "2016069790",
+        "2125848778",
+        "2164598857"
+    ]
+}

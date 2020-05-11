@@ -1,0 +1,44 @@
+{
+    "id": "1576864",
+    "title": "On the complexity of the MPA problem in probabilistic networks",
+    "venue": "european conference on artificial intelligence",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Hans L. Bodlaender",
+            "id": "2288497910",
+            "org": "Institute of Information and Computing Sciences, Utrecht University, TB Utrecht, the Netherlands#TAB#"
+        },
+        {
+            "name": "Frank van den Eijkhof",
+            "id": "1266298143",
+            "org": "Institute of Information and Computing Sciences, Utrecht University, TB Utrecht, the Netherlands#TAB#"
+        },
+        {
+            "name": "Linda C. van der Gaag",
+            "id": "268209255",
+            "org": "Institute of Information and Computing Sciences, Utrecht University, TB Utrecht, the Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Machine learning",
+        "Assignment problem",
+        "Artificial intelligence",
+        "Time complexity",
+        "Function problem",
+        "Computer science",
+        "Posterior probability",
+        "Probabilistic logic",
+        "Linear bottleneck assignment problem",
+        "Generalized assignment problem",
+        "Computational complexity theory"
+    ],
+    "references": [
+        "1977617751",
+        "2011039300",
+        "2037481186",
+        "2130178369",
+        "2159080219"
+    ]
+}

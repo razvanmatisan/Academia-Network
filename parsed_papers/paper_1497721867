@@ -1,0 +1,29 @@
+{
+    "id": "1497721867",
+    "title": "Generalized Feistel Networks",
+    "venue": "international cryptology conference",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Kaisa Nyberg",
+            "id": "2152819472",
+            "org": "Finnish Defence Forces"
+        }
+    ],
+    "fields_of_study": [
+        "Higher-order differential cryptanalysis",
+        "Discrete mathematics",
+        "Round function",
+        "Piling-up lemma",
+        "Integral cryptanalysis",
+        "Block cipher",
+        "Computer science",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "1591620981",
+        "1607372077",
+        "2027325533",
+        "2137326899"
+    ]
+}

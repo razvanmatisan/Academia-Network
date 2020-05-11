@@ -1,0 +1,33 @@
+{
+    "id": "1528256018",
+    "title": "Towards a control theory of attention",
+    "venue": "international conference on artificial neural networks",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "John G. Taylor",
+            "id": "2296541475",
+            "org": "Dept. of Mathematics, King's College, Strand, London, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Observer (quantum physics)",
+        "Attentional control",
+        "Corollary",
+        "Artificial intelligence",
+        "Artificial neural network",
+        "Executive functions",
+        "Efference copy",
+        "Architecture",
+        "Computer science"
+    ],
+    "references": [
+        "1804822179",
+        "1815329990",
+        "1970784425",
+        "1983672782",
+        "1983882619",
+        "2060701764"
+    ]
+}

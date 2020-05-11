@@ -1,0 +1,39 @@
+{
+    "id": "1600220983",
+    "title": "Understanding the Long-Term Self-Similarity of Internet Traffic",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Steve Uhlig",
+            "id": "1984388302",
+            "org": "University of Namur"
+        },
+        {
+            "name": "Olivier Bonaventure",
+            "id": "372738348",
+            "org": "University of Namur"
+        }
+    ],
+    "fields_of_study": [
+        "Internet traffic engineering",
+        "Floating car data",
+        "Traffic shaping",
+        "Traffic generation model",
+        "Distributed computing",
+        "Internet traffic",
+        "Traffic intensity",
+        "Computer science",
+        "Self-similarity",
+        "The Internet"
+    ],
+    "references": [
+        "1732552994",
+        "2042904142",
+        "2060381004",
+        "2066782797",
+        "2105818147",
+        "2146320425",
+        "2148275477"
+    ]
+}

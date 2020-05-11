@@ -1,0 +1,35 @@
+{
+    "id": "1519441199",
+    "title": "Modelling Medical Diagnostic Rules Based on Rough Sets",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Shusaku Tsumoto",
+            "id": "122205434",
+            "org": "Tokyo Medical and Dental University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Rule induction",
+        "Expert system",
+        "Ordinal number",
+        "Machine learning",
+        "Rule-based system",
+        "Decision support system",
+        "Knowledge acquisition",
+        "Data mining",
+        "Dominance-based rough set approach",
+        "Artificial intelligence",
+        "Rough set",
+        "Computer science"
+    ],
+    "references": [
+        "38547858",
+        "1555244713",
+        "1997362234",
+        "2024067012",
+        "2340020088"
+    ]
+}

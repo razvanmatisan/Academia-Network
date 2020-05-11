@@ -1,0 +1,45 @@
+{
+    "id": "1497245670",
+    "title": "Dependency Analysis and CBR to Bridge the Generation Gap in Template-Based NLG",
+    "venue": "international conference on computational linguistics",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Virginia Francisco",
+            "id": "2156667208",
+            "org": "Departamento de Ingenieria del Software e Inteligencia Artificial, Universidad Complutense de Madrid, Spain#TAB#"
+        },
+        {
+            "name": "Raquel Hervas",
+            "id": "2135063981",
+            "org": "Departamento de Ingenieria del Software e Inteligencia Artificial, Universidad Complutense de Madrid, Spain#TAB#"
+        },
+        {
+            "name": "Pablo Gervas",
+            "id": "2894157726",
+            "org": "Departamento de Ingenieria del Software e Inteligencia Artificial, Universidad Complutense de Madrid, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "WordNet",
+        "Knowledge base",
+        "Machine translation",
+        "Template",
+        "Natural language processing",
+        "Dependence analysis",
+        "Artificial intelligence",
+        "Natural language generation",
+        "Memory model",
+        "Computer science",
+        "Case-based reasoning",
+        "Theoretical computer science"
+    ],
+    "references": [
+        "1517412291",
+        "1546354184",
+        "1573253111",
+        "2081580037",
+        "2126385423",
+        "2126385963"
+    ]
+}

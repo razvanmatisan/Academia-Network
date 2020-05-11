@@ -1,0 +1,31 @@
+{
+    "id": "1499556248",
+    "title": "The Dynamics of Learning and Memory: Lessons from Neuroscience",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Michael J. Denham",
+            "id": "1935540528",
+            "org": "Centre for Neural and Adaptive Systems, University of Plymouth, Plymouth, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Leabra",
+        "Learning rule",
+        "Artificial neural network",
+        "Multi-task learning",
+        "Sequence learning",
+        "Competitive learning",
+        "Anti-Hebbian learning",
+        "Contextual learning",
+        "Machine learning",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1483463300",
+        "2114555994",
+        "2144925492"
+    ]
+}

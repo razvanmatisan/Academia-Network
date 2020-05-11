@@ -1,0 +1,30 @@
+{
+    "id": "1605995642",
+    "title": "Global modal logics for multiagent systems: a logical fibering approach",
+    "venue": "computer aided systems theory",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Johann Edtmayr",
+            "id": "2313545223",
+            "org": "Department of Computer Science, University of Salzburg, Salzburg, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Modal",
+        "Computer science",
+        "Machine learning",
+        "Modal logic",
+        "Multi-agent system",
+        "Robotics",
+        "Artificial intelligence",
+        "Non-classical logic",
+        "Epistemic modal logic"
+    ],
+    "references": [
+        "1480480032",
+        "1790810201",
+        "2146819619"
+    ]
+}

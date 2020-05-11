@@ -1,0 +1,32 @@
+{
+    "id": "1535686960",
+    "title": "Using answer retrieval patterns to answer Portuguese questions",
+    "venue": "cross language evaluation forum",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Luis Fernando Costa",
+            "id": "2116435393",
+            "org": "Linguateca, SINTEF ICT, Oslo, Norway#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Question answering",
+        "Newspaper",
+        "Information retrieval",
+        "Natural language processing",
+        "Named entity",
+        "Artificial intelligence",
+        "Computer science",
+        "Data mining",
+        "Syntax",
+        "Portuguese"
+    ],
+    "references": [
+        "1508925007",
+        "1580587093",
+        "1812470957",
+        "2110925040",
+        "2176113536"
+    ]
+}

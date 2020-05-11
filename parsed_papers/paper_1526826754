@@ -1,0 +1,55 @@
+{
+    "id": "1526826754",
+    "title": "Information-Driven sensor selection algorithm for kalman filtering in sensor networks",
+    "venue": "ubiquitous intelligence and computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Yu Liu",
+            "id": "2570822511",
+            "org": "School of Information Engineering, Beijing University of Posts and Telecommunications, Beijing, China#TAB#"
+        },
+        {
+            "name": "Yumei Wang",
+            "id": "2181487743",
+            "org": "School of Information Engineering, Beijing University of Posts and Telecommunications, Beijing, China#TAB#"
+        },
+        {
+            "name": "Lin Zhang",
+            "id": "2658205596",
+            "org": "School of Information Engineering, Beijing University of Posts and Telecommunications, Beijing, China#TAB#"
+        },
+        {
+            "name": "Chan-Hyun Youn",
+            "id": "1996815916",
+            "org": "Information and Communications University, Republic of Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mutual information",
+        "Wireless sensor network",
+        "Distributed computing",
+        "Computer science",
+        "Real-time computing",
+        "Kalman filter",
+        "Geographic routing",
+        "Selection algorithm",
+        "Sensor array",
+        "Shortest path problem",
+        "Machine learning",
+        "Brooks-Iyengar algorithm",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1573533715",
+        "2003702658",
+        "2101963262",
+        "2116687437",
+        "2120417050",
+        "2123989199",
+        "2126943576",
+        "2143514830",
+        "2156763144",
+        "2172274178"
+    ]
+}

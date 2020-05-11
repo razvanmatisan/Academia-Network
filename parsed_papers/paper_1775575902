@@ -1,0 +1,35 @@
+{
+    "id": "1775575902",
+    "title": "COTS Software Quality Evaluation",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Ljerka Beus-Dukic",
+            "id": "2043224532",
+            "org": "University of Westminster"
+        },
+        {
+            "name": "Jorgen Boegh",
+            "id": "709118361",
+            "org": "DELTA Danish Electronics, Light & Acoustics"
+        }
+    ],
+    "fields_of_study": [
+        "Reliability engineering",
+        "Software quality control",
+        "Distributed computing",
+        "Backporting",
+        "Software verification and validation",
+        "Software quality",
+        "Software peer review",
+        "Software sizing",
+        "Software quality analyst",
+        "Package development process",
+        "Computer science"
+    ],
+    "references": [
+        "1547943464",
+        "2152458990"
+    ]
+}

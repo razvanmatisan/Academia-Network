@@ -1,0 +1,39 @@
+{
+    "id": "1542245487",
+    "title": "Performance Evaluation of H.263-Based Video Transmission in an Experimental Ad-Hoc Wireless LAN System",
+    "venue": "international ifip tc networking conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Mat ' ias Freytes",
+            "id": "2484317952",
+            "org": "Universidad Nacional de Cordoba"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time Transport Protocol",
+        "Bit error rate",
+        "IP multicast",
+        "Wi-Fi",
+        "Multicast",
+        "Network packet",
+        "Quality of service",
+        "Real-time computing",
+        "Computer science",
+        "Video quality"
+    ],
+    "references": [
+        "1804330271",
+        "2006108550",
+        "2062927085",
+        "2102379725",
+        "2122257229",
+        "2125127390",
+        "2132131879",
+        "2136185382",
+        "2142003079",
+        "2143270250",
+        "2150416821",
+        "2161825580"
+    ]
+}

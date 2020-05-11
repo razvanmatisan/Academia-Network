@@ -1,0 +1,47 @@
+{
+    "id": "1536151894",
+    "title": "Developing, Deploying and Assessing Usage of a Movie Archive System among Students of Film Studies",
+    "venue": "international conference on human computer interaction",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Nazlena Mohamad Ali",
+            "id": "2100950272",
+            "org": "Centre for Digital Video Processing, Dublin City University, Ireland#TAB#"
+        },
+        {
+            "name": "Alan F. Smeaton",
+            "id": "2326079530",
+            "org": "CLARITY: Centre for Sensor Web Technologies, Dublin City University, Ireland and Centre for Digital Video Processing, Dublin City University, Ireland#TAB#"
+        },
+        {
+            "name": "Hyowon Lee",
+            "id": "2470455707",
+            "org": "CLARITY: Centre for Sensor Web Technologies, Dublin City University, Ireland and Centre for Digital Video Processing, Dublin City University, Ireland#TAB#"
+        },
+        {
+            "name": "Pat Brereton",
+            "id": "2807617267",
+            "org": "School of Communications, Dublin City University, Ireland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "User-centered design",
+        "Qualitative property",
+        "Human-computer interaction",
+        "Multimedia",
+        "USable",
+        "Usability engineering",
+        "Film studies",
+        "Information technology",
+        "Computer science",
+        "Video browsing"
+    ],
+    "references": [
+        "1511480019",
+        "2003608512",
+        "2031869261",
+        "2075061389",
+        "2130156381"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1480480523",
+    "title": "A Tree Based Buyer-Seller Watermarking Protocol",
+    "venue": "computer, information, and systems sciences, and engineering",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Vinu V Das",
+            "id": "2778634526",
+            "org": "Saintgits College of Engineering"
+        }
+    ],
+    "fields_of_study": [
+        "Watermark",
+        "Computer network",
+        "Root certificate",
+        "Watermarking attack",
+        "Certificate authority",
+        "Purchase order",
+        "Digital watermarking",
+        "Computer security",
+        "Internet privacy",
+        "Computer science",
+        "Public-key cryptography",
+        "Digital Watermarking Alliance"
+    ],
+    "references": [
+        "1542998351",
+        "1604952337",
+        "1640692037",
+        "1996360405",
+        "2078566730",
+        "2119044145",
+        "2144184258",
+        "2156336113",
+        "2161157315",
+        "2162719060"
+    ]
+}

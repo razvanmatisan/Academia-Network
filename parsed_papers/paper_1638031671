@@ -1,0 +1,42 @@
+{
+    "id": "1638031671",
+    "title": "Inverse rendering of faces on a cloudy day",
+    "venue": "european conference on computer vision",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Oswald Aldrian",
+            "id": "1968020364",
+            "org": "Department of Computer Science, University of York, UK#TAB#"
+        },
+        {
+            "name": "William A. P. Smith",
+            "id": "2142913207",
+            "org": "Department of Computer Science, University of York, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Texture mapping",
+        "Computer science",
+        "Computer vision",
+        "Artificial intelligence",
+        "Specular reflection",
+        "Rendering (computer graphics)",
+        "Image formation",
+        "Global illumination",
+        "Ambient occlusion"
+    ],
+    "references": [
+        "1502588543",
+        "1746819321",
+        "2062368653",
+        "2107037917",
+        "2115807037",
+        "2125949583",
+        "2128773688",
+        "2154727199",
+        "2165916500",
+        "2237250383",
+        "2793836099"
+    ]
+}

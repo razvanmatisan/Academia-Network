@@ -1,0 +1,39 @@
+{
+    "id": "1605358849",
+    "title": "Farthest-Point Heuristic based Initialization Methods for K-Modes Clustering",
+    "venue": "arXiv: Artificial Intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Zengyou He",
+            "id": "2645191224",
+            "org": "Department of Computer Science and Engineering|Harbin Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Data mining",
+        "Artificial intelligence",
+        "Machine learning",
+        "CURE data clustering algorithm",
+        "k-medians clustering",
+        "Fuzzy clustering",
+        "Canopy clustering algorithm",
+        "Single-linkage clustering",
+        "Correlation clustering",
+        "Computer science",
+        "Brown clustering",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1712808800",
+        "1973264045",
+        "1999929642",
+        "2043317715",
+        "2052760675",
+        "2066794285",
+        "2127971792",
+        "2133311553",
+        "2149230623"
+    ]
+}

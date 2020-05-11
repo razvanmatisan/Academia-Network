@@ -1,0 +1,40 @@
+{
+    "id": "1562940673",
+    "title": "Learning and Prediction of the Nonlinear Dynamics of Biological Neurons with Support Vector Machines",
+    "venue": "international conference on artificial neural networks",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Thomas Frontzek",
+            "id": "1783836722",
+            "org": "University of Bonn"
+        },
+        {
+            "name": "Thomas Navin Lal",
+            "id": "2165809506",
+            "org": "Department Empirical Inference, Max Planck Institute for Biological Cybernetics, Max Planck Society"
+        },
+        {
+            "name": "Rolf Eckmiller",
+            "id": "2021142024",
+            "org": "University of Bonn"
+        }
+    ],
+    "fields_of_study": [
+        "Support vector machine",
+        "Machine learning",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Gaussian process",
+        "Biological data",
+        "Artificial neural network",
+        "Nonlinear system",
+        "Gaussian function",
+        "Iterated function",
+        "Computer science"
+    ],
+    "references": [
+        "1663792126",
+        "2134376523"
+    ]
+}

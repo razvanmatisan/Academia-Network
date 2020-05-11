@@ -1,0 +1,49 @@
+{
+    "id": "143950271",
+    "title": "Error Detection of CRF-Based Bibliography Extraction from Reference Strings",
+    "venue": "international conference on asian digital libraries",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Manabu Ohta",
+            "id": "2716189708",
+            "org": "Okayama University"
+        },
+        {
+            "name": "Daiki Arauchi",
+            "id": "321652390",
+            "org": "Okayama University"
+        },
+        {
+            "name": "Atsuhiro Takasu",
+            "id": "601099622",
+            "org": "National Institute of Informatics"
+        },
+        {
+            "name": "Jun Adachi",
+            "id": "2188419518",
+            "org": "National Institute of Informatics"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Speech recognition",
+        "Parsing",
+        "Conditional random field",
+        "Error detection and correction",
+        "Security token",
+        "Information retrieval",
+        "Bibliography",
+        "Digital library"
+    ],
+    "references": [
+        "165283731",
+        "1534730506",
+        "1559499673",
+        "1573596790",
+        "2121010683",
+        "2123609123",
+        "2147880316",
+        "2171671120"
+    ]
+}

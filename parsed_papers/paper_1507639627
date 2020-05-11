@@ -1,0 +1,32 @@
+{
+    "id": "1507639627",
+    "title": "Using a time-delay actor-critic neural architecture with dopamine-like reinforcement signal for learning in autonomous robots",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Andres Perez-Uribe",
+            "id": "2810835078",
+            "org": "Parallelism and Artificial Intelligence Group, Department of Informatics, University of Fribourg, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time delay neural network",
+        "Reinforcement",
+        "Artificial neural network",
+        "Reinforcement learning",
+        "Temporal difference learning",
+        "Autonomous robot",
+        "Architecture",
+        "Machine learning",
+        "Neural substrate",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1592228927",
+        "2100677568",
+        "2121863487",
+        "2295762292"
+    ]
+}

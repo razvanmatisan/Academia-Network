@@ -1,0 +1,49 @@
+{
+    "id": "14003399",
+    "title": "Capturing Semantics Towards Automatic Coordination of Domain Ontologies",
+    "venue": "artificial intelligence methodology systems applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Konstantinos Kotis",
+            "id": "2075035682",
+            "org": "University of the Aegean"
+        },
+        {
+            "name": "George A. Vouros",
+            "id": "80530004",
+            "org": "University of the Aegean"
+        },
+        {
+            "name": "Kostas Stergiou",
+            "id": "2009131387",
+            "org": "University of the Aegean"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Computer science",
+        "Process ontology",
+        "Natural language processing",
+        "WordNet",
+        "Artificial intelligence",
+        "Search engine indexing",
+        "Ontology merging",
+        "Data mining",
+        "Ontology (information science)",
+        "Semantic integration",
+        "Indexation"
+    ],
+    "references": [
+        "144740258",
+        "1501979881",
+        "1600475986",
+        "2001737243",
+        "2012858568",
+        "2117078075",
+        "2139135093",
+        "2146584311",
+        "2147152072",
+        "2148572968"
+    ]
+}

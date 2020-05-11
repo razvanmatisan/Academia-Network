@@ -1,0 +1,29 @@
+{
+    "id": "1566249696",
+    "title": "Identification of polymorphic tandem repeats by direct comparison of genome sequence from different bacterial strains : a web-based resource",
+    "venue": "BMC Bioinformatics",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Gilles Vergnaud",
+            "id": "2248996446",
+            "org": "Laboratoire GPMS, Institut de Genetique et Microbiologie, Bat 400, Universite Paris-Sud, Orsay cedex, France"
+        }
+    ],
+    "fields_of_study": [
+        "Variable number tandem repeat",
+        "Typing",
+        "Genetics",
+        "DNA microarray",
+        "Bioinformatics",
+        "Tandem repeat",
+        "Whole genome sequencing",
+        "In silico",
+        "Direct repeat",
+        "Biology",
+        "Bacillus anthracis"
+    ],
+    "references": [
+        "1617423665"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": "1515774329",
+    "title": "Extracting and Reasoning about Web Data",
+    "venue": "international conference on logic programming",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Giovanni Pirrotta",
+            "id": "2085933615",
+            "org": "Graduate School in Mathematics, CS curriculum., Univ. of Messina, Italy I-98166#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Linked data",
+        "Web standards",
+        "Data Web",
+        "Social Semantic Web",
+        "Semantic Web",
+        "Web page",
+        "Computer science",
+        "Web modeling",
+        "Semantic Web Stack",
+        "Data mining"
+    ],
+    "references": [
+        "110365008",
+        "2175390224"
+    ]
+}

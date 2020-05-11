@@ -1,0 +1,32 @@
+{
+    "id": "1528445272",
+    "title": "Learning on Paper: Diagrams and Discovery in Game Playing",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Susan L. Epstein",
+            "id": "2049406904",
+            "org": "Hunter College and The Graduate School of The City University of New York"
+        },
+        {
+            "name": "J.-Holger Keibel",
+            "id": "2320766576",
+            "org": "University of Freiburg"
+        }
+    ],
+    "fields_of_study": [
+        "Game theory",
+        "Cognitive science",
+        "Spatial intelligence",
+        "Distributed computing",
+        "Game tree",
+        "Human Problem Solving",
+        "Artificial intelligence",
+        "Computer science",
+        "Cognition"
+    ],
+    "references": [
+        "1533174859"
+    ]
+}

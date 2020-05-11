@@ -1,0 +1,38 @@
+{
+    "id": "162540681",
+    "title": "Towards Situational Business Process Meta-Modelling.",
+    "venue": "conference on advanced information systems engineering",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Oumaima Saidani",
+            "id": "51646430",
+            "org": "Pantheon-Sorbonne University"
+        },
+        {
+            "name": "Selmin Nurcan",
+            "id": "134801423",
+            "org": "Centre de Recherche en Informatique"
+        }
+    ],
+    "fields_of_study": [
+        "Business activity monitoring",
+        "Business process discovery",
+        "Adaptability",
+        "Business process modeling",
+        "Management science",
+        "Business Process Model and Notation",
+        "Process management",
+        "Artifact-centric business process model",
+        "Computer science",
+        "Business rule",
+        "Business process management"
+    ],
+    "references": [
+        "161134967",
+        "1492215854",
+        "1986013967",
+        "2030737318",
+        "2132471494"
+    ]
+}

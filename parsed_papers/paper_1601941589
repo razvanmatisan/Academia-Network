@@ -1,0 +1,49 @@
+{
+    "id": "1601941589",
+    "title": "Finding Deformable Shapes Using Loopy Belief Propagation",
+    "venue": "european conference on computer vision",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "James M. Coughlan",
+            "id": "1938251465",
+            "org": "Smith-Kettlewell Institute"
+        },
+        {
+            "name": "Sabino Jose Ferreira",
+            "id": "2103611051",
+            "org": "Federal University of Minas Gerais UFMG"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Inference",
+        "Machine learning",
+        "Convergence (routing)",
+        "Belief propagation",
+        "Speedup",
+        "Grayscale",
+        "Dynamic programming",
+        "Divide and conquer algorithms",
+        "Artificial intelligence",
+        "Graphical model",
+        "Pattern recognition",
+        "Mathematics"
+    ],
+    "references": [
+        "1560512119",
+        "1564778035",
+        "1601741105",
+        "2047408445",
+        "2051800765",
+        "2057175746",
+        "2096840836",
+        "2108284981",
+        "2112244800",
+        "2128439793",
+        "2150117517",
+        "2155511848",
+        "2159080219",
+        "2164598857"
+    ]
+}

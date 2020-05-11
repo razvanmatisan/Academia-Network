@@ -1,0 +1,46 @@
+{
+    "id": "1527739638",
+    "title": "Developing and Enhancing Posterior Based Speech Recognition Systems",
+    "venue": "conference of the international speech communication association",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Hamed Ketabdar",
+            "id": "1888431013",
+            "org": "Idiap Research Institute"
+        },
+        {
+            "name": "Jithendra Vepa",
+            "id": "357041069",
+            "org": "Idiap Research Institute"
+        },
+        {
+            "name": "Samy Bengio",
+            "id": "2016539005",
+            "org": "Idiap Research Institute"
+        },
+        {
+            "name": "Herve Bourlard",
+            "id": "248001634",
+            "org": "Idiap Research Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Boosting (machine learning)",
+        "Gamma distribution",
+        "Speech recognition",
+        "Viterbi decoder",
+        "Posterior probability",
+        "Utterance",
+        "Phone",
+        "Machine learning",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Computer science",
+        "Hidden Markov model"
+    ],
+    "references": [
+        "2146136606",
+        "2594610113"
+    ]
+}

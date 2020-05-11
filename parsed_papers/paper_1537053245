@@ -1,0 +1,36 @@
+{
+    "id": "1537053245",
+    "title": "Fast approximate matching using suffix trees",
+    "venue": "combinatorial pattern matching",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Archie L. Cobbs",
+            "id": "2019911820",
+            "org": "University of California Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Compressed suffix array",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Generalized suffix tree",
+        "Suffix tree",
+        "FM-index",
+        "Edit distance",
+        "Approximate string matching",
+        "Longest common substring problem",
+        "Computer science"
+    ],
+    "references": [
+        "1593185626",
+        "1834151548",
+        "2045713755",
+        "2052899946",
+        "2074707165",
+        "2121252285",
+        "2165156013",
+        "2533248932"
+    ]
+}

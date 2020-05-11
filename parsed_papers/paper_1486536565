@@ -1,0 +1,33 @@
+{
+    "id": "1486536565",
+    "title": "Discovery with Genetic Algorithm Scheduling Strategies for Cellular Automata",
+    "venue": "parallel problem solving from nature",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Franciszek Seredynski",
+            "id": "238488652",
+            "org": "Polish Academy of Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Genetic algorithm",
+        "Scheduling (computing)",
+        "Computer science",
+        "Graph",
+        "Cellular automaton",
+        "Distributed computing",
+        "Multiprocessing",
+        "Genetic algorithm scheduling"
+    ],
+    "references": [
+        "1481272997",
+        "1539965958",
+        "1639032689",
+        "1998541333",
+        "2019356799",
+        "2142183404"
+    ]
+}

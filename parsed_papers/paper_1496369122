@@ -1,0 +1,36 @@
+{
+    "id": "1496369122",
+    "title": "A Uniform Approach to Applicative and Imperative Features in Programming Languages",
+    "venue": "mathematical foundations of computer science",
+    "year": 1980,
+    "authors": [
+        {
+            "name": "Stefan Sokolowski",
+            "id": "2632243337",
+            "org": "University of Gdansk"
+        }
+    ],
+    "fields_of_study": [
+        "Programming paradigm",
+        "Toy programming language",
+        "Discrete mathematics",
+        "Very high-level programming language",
+        "Fifth-generation programming language",
+        "Programming language",
+        "Second-generation programming language",
+        "Programming language theory",
+        "Comparison of multi-paradigm programming languages",
+        "Theoretical computer science",
+        "Computer science",
+        "Third-generation programming language"
+    ],
+    "references": [
+        "163584030",
+        "1483991276",
+        "1969857501",
+        "2008081946",
+        "2029460931",
+        "2037779985",
+        "2172307690"
+    ]
+}

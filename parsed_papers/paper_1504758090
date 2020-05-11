@@ -1,0 +1,51 @@
+{
+    "id": "1504758090",
+    "title": "Ants guide future pilots",
+    "venue": "australian conference on artificial life",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Sameer Alam",
+            "id": "2148028970",
+            "org": "The Artificial Life and Adaptive Robotics Laboratory, School of ITEE, University of New South Wales, Australian Defence Force Academy, Canberra, Australia#TAB#"
+        },
+        {
+            "name": "Minh Ha Nguyen",
+            "id": "2234038888",
+            "org": "The Artificial Life and Adaptive Robotics Laboratory, School of ITEE, University of New South Wales, Australian Defence Force Academy, Canberra, Australia#TAB#"
+        },
+        {
+            "name": "Hussein A. Abbass",
+            "id": "1702763375",
+            "org": "The Artificial Life and Adaptive Robotics Laboratory, School of ITEE, University of New South Wales, Australian Defence Force Academy, Canberra, Australia#TAB#"
+        },
+        {
+            "name": "Michael Barlow",
+            "id": "2134092914",
+            "org": "The Artificial Life and Adaptive Robotics Laboratory, School of ITEE, University of New South Wales, Australian Defence Force Academy, Canberra, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Extremal optimization",
+        "Metaheuristic",
+        "Mathematical optimization",
+        "Air traffic management",
+        "Computer science",
+        "Vehicle routing problem",
+        "State space",
+        "Ant colony optimization algorithms",
+        "Optimization problem",
+        "Traffic simulation"
+    ],
+    "references": [
+        "1573676079",
+        "1769929792",
+        "1801849579",
+        "1980864082",
+        "2098907614",
+        "2112912151",
+        "2126554879",
+        "2141860411",
+        "2170220350"
+    ]
+}

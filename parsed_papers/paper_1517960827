@@ -1,0 +1,38 @@
+{
+    "id": "1517960827",
+    "title": "Abstract Compilation: A New Implementation Paradigm for Static Analysis",
+    "venue": "compiler construction",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Dominique Boucher",
+            "id": "2115278602",
+            "org": "Universite de Montreal"
+        },
+        {
+            "name": "Marc Feeley",
+            "id": "2130777008",
+            "org": "Universite de Montreal"
+        }
+    ],
+    "fields_of_study": [
+        "Programming language",
+        "Functional programming",
+        "Abstract interpretation",
+        "Computer science",
+        "Control flow analysis",
+        "Static analysis",
+        "Partial evaluation"
+    ],
+    "references": [
+        "11600427",
+        "1562824671",
+        "1971471549",
+        "2004944457",
+        "2043100293",
+        "2062823821",
+        "2082378548",
+        "2133979298",
+        "2166004578"
+    ]
+}

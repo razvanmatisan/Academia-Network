@@ -1,0 +1,44 @@
+{
+    "id": "1481782305",
+    "title": "Requirements for a Business Process Model Repository : A Stakeholders' Perspective",
+    "venue": "business information systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Khurram Shahzad",
+            "id": "2796887966",
+            "org": "Royal Institute of Technology (KTH) / Stockholm University"
+        },
+        {
+            "name": "Mturi Elias",
+            "id": "2893740337",
+            "org": "Royal Institute of Technology (KTH) / Stockholm University"
+        },
+        {
+            "name": "Paul Johannesson",
+            "id": "2119036949",
+            "org": "Royal Institute of Technology (KTH) / Stockholm University"
+        }
+    ],
+    "fields_of_study": [
+        "Business requirements",
+        "Knowledge management",
+        "Business process",
+        "Business process discovery",
+        "Business Process Model and Notation",
+        "Business process modeling",
+        "Process modeling",
+        "Artifact-centric business process model",
+        "Business process management",
+        "Process management",
+        "Computer science",
+        "Systems engineering"
+    ],
+    "references": [
+        "1536804156",
+        "1545736182",
+        "1567791096",
+        "1794344093",
+        "2152643945"
+    ]
+}

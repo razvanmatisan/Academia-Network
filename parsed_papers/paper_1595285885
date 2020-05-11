@@ -1,0 +1,32 @@
+{
+    "id": "1595285885",
+    "title": "Model-Based search",
+    "venue": "symposium on abstraction reformulation and approximation",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Wheeler Ruml",
+            "id": "1978581454",
+            "org": "Palo Alto Research Center, Palo Alto, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Incremental heuristic search",
+        "Mathematical optimization",
+        "Iterative deepening depth-first search",
+        "Artificial intelligence",
+        "Machine learning",
+        "Metaheuristic",
+        "Combinatorial search",
+        "Constraint satisfaction problem",
+        "Search algorithm",
+        "Best-first search",
+        "Mathematics"
+    ],
+    "references": [
+        "142625004",
+        "1843717653",
+        "2154930146"
+    ]
+}

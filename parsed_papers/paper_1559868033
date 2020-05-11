@@ -1,0 +1,40 @@
+{
+    "id": "1559868033",
+    "title": "A Preview of the Basic Picture: A New Perspective on Formal Topology",
+    "venue": "types for proofs and programs",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Giovanni Sambin",
+            "id": "331904727",
+            "org": "Universita di Padova"
+        },
+        {
+            "name": "Silvia Gebellato",
+            "id": "254377823",
+            "org": "Universita di Padova"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Discrete mathematics",
+        "Net (mathematics)",
+        "Weak topology (polar topology)",
+        "Particular point topology",
+        "Topological space",
+        "Extension topology",
+        "General topology",
+        "Base (topology)",
+        "Box topology",
+        "Topology",
+        "Mathematics"
+    ],
+    "references": [
+        "1488103720",
+        "1970510519",
+        "1982721516",
+        "2071467583",
+        "2084736709",
+        "2107876038"
+    ]
+}

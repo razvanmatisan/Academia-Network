@@ -1,0 +1,40 @@
+{
+    "id": "1542316442",
+    "title": "A Framework for Web Services Trust",
+    "venue": "information security conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Marijke Coetzee",
+            "id": "2641886143",
+            "org": "University of Pretoria"
+        },
+        {
+            "name": "Jan H. P. Eloff",
+            "id": "272045587",
+            "org": "University of Pretoria"
+        }
+    ],
+    "fields_of_study": [
+        "SOAP",
+        "Web service",
+        "Fuzzy cognitive map",
+        "Web application security",
+        "Trust framework",
+        "World Wide Web",
+        "Trusted third party",
+        "Interoperation",
+        "WS-Policy",
+        "Computer science"
+    ],
+    "references": [
+        "1512232952",
+        "1558153660",
+        "1958859150",
+        "1999039980",
+        "2095224843",
+        "2103087994",
+        "2110723603",
+        "2156697706"
+    ]
+}

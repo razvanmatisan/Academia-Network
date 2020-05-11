@@ -1,0 +1,38 @@
+{
+    "id": "1562311993",
+    "title": "A bit-array representation GA for structural topology optimization",
+    "venue": "congress on evolutionary computation",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Sheng Yin Wang",
+            "id": "2407613630",
+            "org": "Sch. of Mech. & Production Eng., Nanyang Technol. Univ., Singapore"
+        },
+        {
+            "name": "Kang Tai",
+            "id": "2169197570",
+            "org": "Sch. of Mech. & Production Eng., Nanyang Technol. Univ., Singapore"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic algorithm",
+        "Mathematical optimization",
+        "Artificial intelligence",
+        "Penalty method",
+        "Initialization",
+        "Machine learning",
+        "Numerical analysis",
+        "Computational topology",
+        "Operator (computer programming)",
+        "Bit array",
+        "Topology optimization",
+        "Mathematics"
+    ],
+    "references": [
+        "1489417573",
+        "1601536614",
+        "1607768087",
+        "1787544972"
+    ]
+}

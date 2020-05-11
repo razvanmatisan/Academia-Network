@@ -1,0 +1,35 @@
+{
+    "id": "1539221976",
+    "title": "Organization and maintenance of large ordered indexes",
+    "venue": "Acta Informatica",
+    "year": 1972,
+    "authors": [
+        {
+            "name": "Rudolf Bayer",
+            "id": "2789927476",
+            "org": "Dept. of Computer Science, Purdue University Lafayette, USA 47907#TAB#"
+        },
+        {
+            "name": "Edward M. McCreight",
+            "id": "2707041940",
+            "org": "Palo Alto Research Center, Palo Alto, USA 94304#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "B-tree",
+        "iDistance",
+        "Database",
+        "Information theory",
+        "Pseudorandom number generator",
+        "Data structure",
+        "Backup",
+        "Transactions per second",
+        "Computer science",
+        "Random access"
+    ],
+    "references": [
+        "1997804166",
+        "2040455459"
+    ]
+}

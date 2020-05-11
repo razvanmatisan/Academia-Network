@@ -1,0 +1,45 @@
+{
+    "id": "1571094632",
+    "title": "Modelling Content Aggregation for Developing e-Commerce Web Sites",
+    "venue": "international conference on electronic commerce",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Pedro Valderas",
+            "id": "2020981749",
+            "org": "Department of Information Systems and Computation, Polytechnic University of Valencia, Valencia, Spain"
+        },
+        {
+            "name": "Joan Fons",
+            "id": "2156088926",
+            "org": "Department of Information Systems and Computation, Polytechnic University of Valencia, Valencia, Spain"
+        },
+        {
+            "name": "Vicente Pelechano",
+            "id": "126441702",
+            "org": "Department of Information Systems and Computation, Polytechnic University of Valencia, Valencia, Spain"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Systems engineering",
+        "Reuse",
+        "Database",
+        "Conceptual model",
+        "E-commerce",
+        "Software development",
+        "Web application",
+        "Distributed computing",
+        "Object-oriented programming",
+        "Abstraction",
+        "The Internet"
+    ],
+    "references": [
+        "1520678843",
+        "1532277137",
+        "1552727731",
+        "1967583234",
+        "2093273229",
+        "2103860438"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "1507190696",
+    "title": "Learning Vector Quantization for Multimodal Data",
+    "venue": "international conference on artificial neural networks",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Barbara Hammer",
+            "id": "2134858009",
+            "org": "University of Osnabruck"
+        },
+        {
+            "name": "Barbara Hammer",
+            "id": "2134858009",
+            "org": "University of Osnabruck"
+        },
+        {
+            "name": "Marc Strickert",
+            "id": "2499451489",
+            "org": "University of Osnabruck"
+        },
+        {
+            "name": "Marc Strickert",
+            "id": "2499451489",
+            "org": "University of Osnabruck"
+        },
+        {
+            "name": "Thomas Villmann",
+            "id": "2173309013",
+            "org": "University of Osnabruck"
+        },
+        {
+            "name": "Thomas Villmann",
+            "id": "2173309013",
+            "org": "University of Osnabruck"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern recognition",
+        "Supervised learning",
+        "Self-organizing map",
+        "Neural gas",
+        "Cluster analysis",
+        "Learning vector quantization",
+        "Machine learning",
+        "Artificial intelligence",
+        "Learning rule",
+        "Vector quantization",
+        "Artificial neural network",
+        "Computer science"
+    ],
+    "references": [
+        "1570876803",
+        "1966671935",
+        "2018851907",
+        "2085555526",
+        "2123749980",
+        "2125134203",
+        "2166322089"
+    ]
+}

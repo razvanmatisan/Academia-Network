@@ -1,0 +1,43 @@
+{
+    "id": "145815032",
+    "title": "Experimental results on the application of satisfiability algorithms to scheduling problems",
+    "venue": "national conference on artificial intelligence",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "James M. Crawford",
+            "id": "2104822504",
+            "org": "Computational Intelligence Research Laboratory, 1269 University of Oregon, Eugene, OR#TAB#"
+        },
+        {
+            "name": "Andrew B. Baker",
+            "id": "2660329282",
+            "org": "Computational Intelligence Research Laboratory, 1269 University of Oregon, Eugene, OR#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence",
+        "Algorithm",
+        "Job shop scheduling",
+        "Covering problems",
+        "Satisfiability",
+        "Computer science",
+        "Scheduling (computing)",
+        "Theoretical computer science",
+        "L-reduction",
+        "Boolean satisfiability problem",
+        "Heuristics",
+        "Look-ahead"
+    ],
+    "references": [
+        "183136686",
+        "1561608403",
+        "1571969561",
+        "1620410031",
+        "1667614912",
+        "2057361103",
+        "2108702302"
+    ]
+}

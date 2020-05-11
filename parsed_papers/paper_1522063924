@@ -1,0 +1,35 @@
+{
+    "id": "1522063924",
+    "title": "Developments in Practice VIII: Enterprise Content Management",
+    "venue": "Communications of The Ais",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Heather A. Smith",
+            "id": "2123944830",
+            "org": "Queen's University"
+        },
+        {
+            "name": "James D. McKeen",
+            "id": "1996020375",
+            "org": "Queen's University"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Engineering",
+        "Management science",
+        "Competitive intelligence",
+        "Web content",
+        "Liability",
+        "Content management",
+        "Enterprise content management",
+        "Asset (computer security)",
+        "Information technology",
+        "Intranet"
+    ],
+    "references": [
+        "2033711544",
+        "2062644745"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1564078679",
+    "title": "GloptiPoly: global optimization over polynomials with Matlab and SeDuMi",
+    "venue": "conference on decision and control",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Didier Henrion",
+            "id": "2122088014",
+            "org": "Lab. d'Autom. et d'Anal. des Syst., CNRS, Toulouse, France"
+        },
+        {
+            "name": "Jean B. Lasserre",
+            "id": "2024808488",
+            "org": "Lab. d'Autom. et d'Anal. des Syst., CNRS, Toulouse, France"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Monotonic function",
+        "Discrete mathematics",
+        "Upper and lower bounds",
+        "Linear matrix inequality",
+        "Multivariable calculus",
+        "Polynomial",
+        "Inequality",
+        "Global optimization",
+        "Integer",
+        "Mathematics"
+    ],
+    "references": [
+        "1967184028",
+        "1967344706",
+        "1985123706",
+        "1997672673",
+        "2049143039",
+        "2077223725"
+    ]
+}

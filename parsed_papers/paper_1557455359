@@ -1,0 +1,42 @@
+{
+    "id": "1557455359",
+    "title": "Describing Gen/Kill Static Analysis Techniques with Kleene Algebra",
+    "venue": "mathematics of program construction",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Therrezinha Fernandes",
+            "id": "2167635683",
+            "org": "Universite Laval"
+        },
+        {
+            "name": "Jules Desharnais",
+            "id": "2063216861",
+            "org": "Universite Laval"
+        }
+    ],
+    "fields_of_study": [
+        "Program analysis",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Entry point",
+        "Control flow graph",
+        "Kleene algebra",
+        "Static program analysis",
+        "Static analysis",
+        "Mathematics",
+        "Data-flow analysis",
+        "Relation algebra"
+    ],
+    "references": [
+        "1491178396",
+        "1512339036",
+        "1517840777",
+        "1964754311",
+        "1996785213",
+        "1998368317",
+        "2068047345",
+        "2117065635",
+        "2163152086"
+    ]
+}

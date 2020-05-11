@@ -1,0 +1,36 @@
+{
+    "id": "1606440689",
+    "title": "Improving Packet Filters Management through Automatic and Dynamic Schemes",
+    "venue": "information security",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Olivier Paul",
+            "id": "2102841406",
+            "org": "ENST de Bretagne"
+        },
+        {
+            "name": "Maryline Laruent",
+            "id": "2285740977",
+            "org": "ENST de Bretagne"
+        }
+    ],
+    "fields_of_study": [
+        "Computer security",
+        "Reference architecture",
+        "Space-based architecture",
+        "Network architecture",
+        "Distributed System Security Architecture",
+        "Computer science",
+        "Architecture",
+        "Network management",
+        "Network packet",
+        "Access control",
+        "Distributed computing"
+    ],
+    "references": [
+        "1547502928",
+        "2077688755",
+        "2135292514"
+    ]
+}

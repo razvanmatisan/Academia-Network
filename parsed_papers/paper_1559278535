@@ -1,0 +1,48 @@
+{
+    "id": "1559278535",
+    "title": "Query structuring with two-stage term dependence in the japanese language",
+    "venue": "asia information retrieval symposium",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Koji Eguchi",
+            "id": "2123111741",
+            "org": "National Institute of Informatics, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "W. Bruce Croft",
+            "id": "2127889770",
+            "org": "University of Massachusetts, Amherst, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Query optimization",
+        "Query language",
+        "Natural language processing",
+        "Query expansion",
+        "Web query classification",
+        "Computer science",
+        "Sargable",
+        "RDF query language",
+        "Pattern recognition",
+        "Boolean conjunctive query",
+        "Query by Example",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "63723272",
+        "69295931",
+        "123400580",
+        "196743200",
+        "1591377317",
+        "2051572310",
+        "2070740689",
+        "2078875869",
+        "2087663869",
+        "2120763999",
+        "2141251597",
+        "2153927559",
+        "2185147852"
+    ]
+}

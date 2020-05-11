@@ -1,0 +1,56 @@
+{
+    "id": "138555256",
+    "title": "Medical Image Retrieval Method Based on Relevance Feedback",
+    "venue": "advanced data mining and applications",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Rui Wang",
+            "id": "2656520767",
+            "org": "Harbin Engineering University"
+        },
+        {
+            "name": "Haiwei Pan",
+            "id": "2127677109",
+            "org": "Harbin Engineering University"
+        },
+        {
+            "name": "Qilong Han",
+            "id": "2700587671",
+            "org": "Harbin Engineering University"
+        },
+        {
+            "name": "Jingzi Gu",
+            "id": "2125718796",
+            "org": "Harbin Engineering University"
+        },
+        {
+            "name": "Pengyuan Li",
+            "id": "2655075834",
+            "org": "Harbin Engineering University"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Artificial intelligence",
+        "Genetic algorithm",
+        "Information retrieval",
+        "Precision and recall",
+        "Machine learning",
+        "Semantic gap",
+        "Image retrieval",
+        "Computer science",
+        "Relevance feedback",
+        "Region of interest",
+        "Relevance (information retrieval)"
+    ],
+    "references": [
+        "1550602550",
+        "1971062439",
+        "2064305374",
+        "2110119381",
+        "2122906720",
+        "2154318594",
+        "2163474322"
+    ]
+}

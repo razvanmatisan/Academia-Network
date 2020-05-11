@@ -1,0 +1,35 @@
+{
+    "id": "1548599151",
+    "title": "Combining CTL, trace theory and timing models",
+    "venue": "computer aided verification",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Jerry R. Burch",
+            "id": "2331980844",
+            "org": "Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Asynchronous circuit",
+        "CTL*",
+        "Electronic circuit",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Asynchronous communication",
+        "Model checking",
+        "Distributed computing",
+        "Mutual exclusion",
+        "State space",
+        "Computer science",
+        "Liveness",
+        "Real-time computing"
+    ],
+    "references": [
+        "1491037212",
+        "1607877490",
+        "2023984413",
+        "2111125619",
+        "2117189826"
+    ]
+}

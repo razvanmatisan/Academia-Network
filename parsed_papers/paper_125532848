@@ -1,0 +1,39 @@
+{
+    "id": "125532848",
+    "title": "From syntax to meaning in natural language processing",
+    "venue": "national conference on artificial intelligence",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Alexander G. Hauptmann",
+            "id": "2113269357",
+            "org": "School of Computer Science, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Natural language",
+        "Hierarchy",
+        "Directed acyclic graph",
+        "Natural language processing",
+        "Computer science",
+        "Semantic computing",
+        "Semantic interpretation",
+        "Syntax",
+        "Abstraction",
+        "Bottleneck",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "31069117",
+        "117999697",
+        "1529151583",
+        "1748298907",
+        "1982024857",
+        "2023996190",
+        "2100448187",
+        "2132465770",
+        "2140404954",
+        "2143274811"
+    ]
+}

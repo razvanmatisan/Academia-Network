@@ -1,0 +1,37 @@
+{
+    "id": "1618382231",
+    "title": "Mandatory and Location-Aware Access Control for Relational Databases",
+    "venue": "international conference on communications",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Michael Decker",
+            "id": "2293566365",
+            "org": "University of Karlsruhe (TH)"
+        }
+    ],
+    "fields_of_study": [
+        "Mandatory access control",
+        "Information system",
+        "Real-time computing",
+        "Relational database",
+        "Database",
+        "Data model",
+        "Computer science",
+        "Computer access control",
+        "Access control",
+        "Computer security model",
+        "Role-based access control"
+    ],
+    "references": [
+        "237711516",
+        "1503568870",
+        "2026402404",
+        "2037716001",
+        "2103317919",
+        "2162433234",
+        "2164947865",
+        "2174103411",
+        "2751199251"
+    ]
+}

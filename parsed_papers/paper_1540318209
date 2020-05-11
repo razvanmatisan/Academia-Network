@@ -1,0 +1,39 @@
+{
+    "id": "1540318209",
+    "title": "The Domain-Specific Task of CLEF - Specific Evaluation Strategies in Cross-Language Information Retrieval",
+    "venue": "cross language evaluation forum",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Michael Kluck",
+            "id": "2143126906",
+            "org": "University of California"
+        },
+        {
+            "name": "Fredric C. Gey",
+            "id": "2154244954",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Cross-language information retrieval",
+        "Natural language processing",
+        "Multilingualism",
+        "Information retrieval",
+        "Artificial intelligence",
+        "Query expansion",
+        "Domain specificity",
+        "Clef",
+        "Domain-specific language",
+        "Computer science"
+    ],
+    "references": [
+        "1794595848",
+        "1944959202",
+        "1993344429",
+        "2069546285",
+        "2071664212",
+        "2125520344",
+        "2169480034"
+    ]
+}

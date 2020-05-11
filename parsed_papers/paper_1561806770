@@ -1,0 +1,42 @@
+{
+    "id": "1561806770",
+    "title": "Vertical Handover Based Adaptation for Multimedia Applications in Pervasive Systems",
+    "venue": "distributed multimedia systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jadwiga Indulska",
+            "id": "2269912393",
+            "org": "The University of Queensland"
+        },
+        {
+            "name": "Sasitharan Balasubramaniam",
+            "id": "2310442439",
+            "org": "The University of Queensland"
+        }
+    ],
+    "fields_of_study": [
+        "Multimedia",
+        "Vertical handover",
+        "General Packet Radio Service",
+        "Ubiquitous computing",
+        "Computer science",
+        "Quality of service",
+        "Mobile computing",
+        "Real-time computing",
+        "Architecture",
+        "Computer network",
+        "Network interface",
+        "Heterogeneous network"
+    ],
+    "references": [
+        "1530627832",
+        "1593200380",
+        "1950676861",
+        "1985370648",
+        "2137450614",
+        "2144730987",
+        "2159694746",
+        "2171627369"
+    ]
+}

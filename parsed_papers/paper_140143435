@@ -1,0 +1,45 @@
+{
+    "id": "140143435",
+    "title": "A FRAMEWORK FOR ANALYZING TEXTURE DESCRIPTORS",
+    "venue": "international conference on computer vision theory and applications",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Timo Ahonen",
+            "id": "2136475958",
+            "org": "Machine Vision Group|University of Oulu"
+        },
+        {
+            "name": "Matti Pietikainen",
+            "id": "2007797616",
+            "org": "Machine Vision Group|University of Oulu"
+        }
+    ],
+    "fields_of_study": [
+        "Codebook",
+        "Vector quantization",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Computer vision",
+        "Pixel",
+        "Gabor filter",
+        "Computer science",
+        "Histogram",
+        "Machine learning",
+        "Operator (computer programming)",
+        "Categorization",
+        "Local binary patterns"
+    ],
+    "references": [
+        "1484228140",
+        "2014915963",
+        "2096127742",
+        "2108082645",
+        "2108485624",
+        "2115718371",
+        "2125148312",
+        "2129976136",
+        "2132047332",
+        "2163352848"
+    ]
+}

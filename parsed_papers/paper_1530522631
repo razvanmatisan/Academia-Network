@@ -1,0 +1,31 @@
+{
+    "id": "1530522631",
+    "title": "Some heuristic analysis of local search algorithms for SAT problems",
+    "venue": "international conference on stochastic algorithms: foundations and applications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Osamu Watanabe",
+            "id": "2135939770",
+            "org": "Department of Mathematical and Computing Science, Tokyo Institute of Technology, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Incremental heuristic search",
+        "Greedy algorithm",
+        "Greedy randomized adaptive search procedure",
+        "Beam search",
+        "Guided Local Search",
+        "Tabu search",
+        "Local search (optimization)",
+        "Best-first search",
+        "Algorithm",
+        "Mathematics"
+    ],
+    "references": [
+        "1526633537",
+        "1606298567",
+        "2136558174"
+    ]
+}

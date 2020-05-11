@@ -1,0 +1,48 @@
+{
+    "id": "1551034662",
+    "title": "Using the SMiLE Monitoring Infrastructure to Detect and Lower the Inefficiency of Parallel Applications",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Jie Tao",
+            "id": "2429299179",
+            "org": "Technische Universitat Munchen"
+        },
+        {
+            "name": "Wolfgang Karl",
+            "id": "1995047450",
+            "org": "Technische Universitat Munchen"
+        },
+        {
+            "name": "Martin Schulz",
+            "id": "2122506644",
+            "org": "Technische Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Debugging",
+        "Parallel computing",
+        "Distributed shared memory",
+        "Inefficiency",
+        "Distributed computing",
+        "Page table",
+        "Embedded system",
+        "Physical address",
+        "Systems architecture",
+        "Load balancing (computing)",
+        "Virtual address space",
+        "Computer science"
+    ],
+    "references": [
+        "1523525818",
+        "1531591808",
+        "1548096148",
+        "1560620049",
+        "1577054627",
+        "1982731142",
+        "2096385912",
+        "2145021036",
+        "2146236522"
+    ]
+}

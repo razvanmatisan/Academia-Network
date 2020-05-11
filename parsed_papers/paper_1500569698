@@ -1,0 +1,34 @@
+{
+    "id": "1500569698",
+    "title": "Graph Replacement Chemistry for DNA Processing",
+    "venue": "international workshop on dna based computers",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "John S. McCaskill",
+            "id": "2777960521",
+            "org": "GMD-National Research Center for Information Technology"
+        },
+        {
+            "name": "Ulrich Niemann",
+            "id": "2715758106",
+            "org": "Institut fur Molekulare Biotechnologie"
+        }
+    ],
+    "fields_of_study": [
+        "DNA",
+        "Molecular graph",
+        "Directed graph",
+        "DNA computing",
+        "Graph theory",
+        "Small set",
+        "Algorithm",
+        "Operator (computer programming)",
+        "Rule-based machine translation",
+        "Mathematics"
+    ],
+    "references": [
+        "101178609",
+        "1539163926"
+    ]
+}

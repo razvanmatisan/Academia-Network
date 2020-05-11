@@ -1,0 +1,48 @@
+{
+    "id": "1555669211",
+    "title": "Distributed source coding of still images",
+    "venue": "european signal processing conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Cagatay Dikici",
+            "id": "2395965127",
+            "org": "INSA de Lyon, Laboratoire d'InfoRmatique en Images et Systemes d'information, LIRIS, UMR 5205 CNRS, France"
+        },
+        {
+            "name": "Radhouane Guermazi",
+            "id": "2662215989",
+            "org": "INSA de Lyon, Laboratoire d'InfoRmatique en Images et Systemes d'information, LIRIS, UMR 5205 CNRS, France"
+        },
+        {
+            "name": "Khalid Idrissi",
+            "id": "2119265756",
+            "org": "INSA de Lyon, Laboratoire d'InfoRmatique en Images et Systemes d'information, LIRIS, UMR 5205 CNRS, France"
+        },
+        {
+            "name": "Atilla Baskurt",
+            "id": "2273091458",
+            "org": "INSA de Lyon, Laboratoire d'InfoRmatique en Images et Systemes d'information, LIRIS, UMR 5205 CNRS, France"
+        }
+    ],
+    "fields_of_study": [
+        "Variable-length code",
+        "Shannon-Fano coding",
+        "Tunstall coding",
+        "Modified Huffman coding",
+        "Context-adaptive binary arithmetic coding",
+        "Distributed source coding",
+        "Theoretical computer science",
+        "Coding tree unit",
+        "Harmonic Vector Excitation Coding",
+        "Mathematics"
+    ],
+    "references": [
+        "1566960425",
+        "1868552688",
+        "2027315598",
+        "2099213070",
+        "2148593155",
+        "2150412388"
+    ]
+}

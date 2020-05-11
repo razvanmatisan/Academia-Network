@@ -1,0 +1,54 @@
+{
+    "id": "1555957219",
+    "title": "Low Retrieval Remote Querying Dialogue with Fuzzy Conceptual, Syntactical and Linguistical Unification",
+    "venue": "flexible query answering systems",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "P. Krisko",
+            "id": "2701187377",
+            "org": "P. J. safarik University"
+        },
+        {
+            "name": "Peter Marcincak",
+            "id": "2055787858",
+            "org": "P. J. safarik University"
+        },
+        {
+            "name": "Peter Mihok",
+            "id": "2666978584",
+            "org": "Department of Geometry and Algebra"
+        },
+        {
+            "name": "J. Sabol",
+            "id": "2100705927",
+            "org": "VSZ Informatika AS"
+        },
+        {
+            "name": "Peter Vojtas",
+            "id": "387084222",
+            "org": "P. J. safarik University"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Fuzzy Control Language",
+        "Type-2 fuzzy sets and systems",
+        "Fuzzy associative matrix",
+        "Fuzzy logic",
+        "Fuzzy set operations",
+        "Defuzzification",
+        "Fuzzy number",
+        "Artificial intelligence",
+        "Fuzzy classification",
+        "Computer science"
+    ],
+    "references": [
+        "38526117",
+        "1584628001",
+        "1823694525",
+        "1966321785",
+        "2074622901",
+        "2096686757"
+    ]
+}

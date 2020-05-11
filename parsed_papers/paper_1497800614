@@ -1,0 +1,33 @@
+{
+    "id": "1497800614",
+    "title": "Beware the null hypothesis: critical value tables for evaluating classifiers",
+    "venue": "european conference on machine learning",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "George Forman",
+            "id": "2195069006",
+            "org": "Hewlett-Packard Labs, Palo Alto, CA#TAB#"
+        },
+        {
+            "name": "Ira Cohen",
+            "id": "2128315080",
+            "org": "Hewlett-Packard Labs, Palo Alto, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Binary classification",
+        "Cumulative distribution function",
+        "Statistics",
+        "Null hypothesis",
+        "One- and two-tailed tests",
+        "Critical value",
+        "p-value",
+        "Test set",
+        "Statistical significance",
+        "Mathematics"
+    ],
+    "references": [
+        "1498800329"
+    ]
+}

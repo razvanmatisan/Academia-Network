@@ -1,0 +1,34 @@
+{
+    "id": "1505882215",
+    "title": "Polynomial Time Inference of Extended Regular Pattern Languages",
+    "venue": "Proceedings of RIMS Symposium on Software Science and Engineering",
+    "year": 1983,
+    "authors": [
+        {
+            "name": "Takeshi Shinohara",
+            "id": "2777129056",
+            "org": "Kyushu University 91"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Inference",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Longest common subsequence problem",
+        "Generalized star height problem",
+        "Pattern language",
+        "Finite set",
+        "Symbol",
+        "Mathematics"
+    ],
+    "references": [
+        "1655990431",
+        "1817451992",
+        "1965415591",
+        "1970026646",
+        "2019001600",
+        "2040176884",
+        "2162744351"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1518976798",
+    "title": "Multi-relational Data Mining: a perspective",
+    "venue": "portuguese conference on artificial intelligence",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Peter A. Flach",
+            "id": "1814273096",
+            "org": "University of Bristol"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Data mining",
+        "Knowledge representation and reasoning",
+        "Downgrade",
+        "Natural language processing",
+        "Relational data mining",
+        "Association rule learning",
+        "Table (database)",
+        "Inductive logic programming",
+        "Prolog",
+        "Computer science",
+        "Artificial intelligence",
+        "Data modeling"
+    ],
+    "references": [
+        "1479847447",
+        "1512978234",
+        "1532298151",
+        "1536918907",
+        "1546703439",
+        "1601368642",
+        "1806329564",
+        "1814427248",
+        "1987902506",
+        "2121906195",
+        "2141244067",
+        "2158292827"
+    ]
+}

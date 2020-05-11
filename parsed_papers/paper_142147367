@@ -1,0 +1,39 @@
+{
+    "id": "142147367",
+    "title": "Towards Computing Distances Between Programs via Scott Domains",
+    "venue": "foundations of computer science",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Michael A. Bukatin",
+            "id": "2343737884",
+            "org": "Brandeis University"
+        },
+        {
+            "name": "Michael A. Bukatin",
+            "id": "2343737884",
+            "org": "Brandeis University"
+        },
+        {
+            "name": "Joshua S. Scott",
+            "id": "2103875571",
+            "org": "Northeastern University"
+        }
+    ],
+    "fields_of_study": [
+        "Metric (mathematics)",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Triangle inequality",
+        "If and only if",
+        "Semantic domain",
+        "Axiom",
+        "Topology",
+        "Mathematics"
+    ],
+    "references": [
+        "1559626229",
+        "1604884628",
+        "2115154197"
+    ]
+}

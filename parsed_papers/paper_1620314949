@@ -1,0 +1,33 @@
+{
+    "id": "1620314949",
+    "title": "An O( lognloglogn) upper bound on the price of stability for undirected Shapley network design games",
+    "venue": "Information Processing Letters",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jian Li",
+            "id": "2650929839",
+            "org": "University of Maryland, Department of Computer Science, A.V. Williams Building, College park, MD, United States#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Price of stability",
+        "Mathematical economics",
+        "Game theory",
+        "Upper and lower bounds",
+        "Vertex (geometry)",
+        "Mathematics",
+        "Network planning and design",
+        "Nash equilibrium",
+        "Numerical stability",
+        "Sink (computing)"
+    ],
+    "references": [
+        "1558409237",
+        "2006684251",
+        "2007583146",
+        "2024624259",
+        "2050797500",
+        "2167101557"
+    ]
+}

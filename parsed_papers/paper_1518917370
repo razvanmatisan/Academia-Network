@@ -1,0 +1,40 @@
+{
+    "id": "1518917370",
+    "title": "Rough Set Approach to Decisions under Risk",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Salvatore Greco",
+            "id": "1965690711",
+            "org": "University of Catania"
+        },
+        {
+            "name": "Benedetto Matarazzo",
+            "id": "2161427643",
+            "org": "Poznan University of Technology"
+        },
+        {
+            "name": "Roman Slowinski",
+            "id": "2134359788",
+            "org": "Poznan University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Probability distribution",
+        "Ordinal number",
+        "Decision support system",
+        "Stochastic dominance",
+        "Dominance-based rough set approach",
+        "Machine learning",
+        "Management information systems",
+        "Decision rule",
+        "Rough set",
+        "Mathematics",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "2157439851",
+        "2340020088"
+    ]
+}

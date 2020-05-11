@@ -1,0 +1,42 @@
+{
+    "id": "1488554999",
+    "title": "Simplify Multi-valued Decision Trees",
+    "venue": "international symposium on advances in computation and intelligence",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Chien-Liang Liu",
+            "id": "2608773383",
+            "org": "Department of Computer Science, National Chiao Tung University, Hsinchu, Taiwan, ROC 300#TAB#"
+        },
+        {
+            "name": "Chia-Hoang Lee",
+            "id": "2172123848",
+            "org": "Department of Computer Science, National Chiao Tung University, Hsinchu, Taiwan, ROC 300#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Optimal decision",
+        "Decision tree",
+        "Grafting (decision trees)",
+        "Alternating decision tree",
+        "Decision stump",
+        "ID3 algorithm",
+        "Incremental decision tree",
+        "Machine learning",
+        "Decision tree learning",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "85229681",
+        "1483135265",
+        "1491964404",
+        "1576962511",
+        "1585743408",
+        "1983661866",
+        "2041404167",
+        "2128420091",
+        "2149706766"
+    ]
+}

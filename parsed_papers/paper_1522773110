@@ -1,0 +1,31 @@
+{
+    "id": "1522773110",
+    "title": "An Efficient MAC for Short Messages",
+    "venue": "selected areas in cryptography",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Sarvar Patel",
+            "id": "2125066154",
+            "org": "Lucent Technologies"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic hash function",
+        "Hash-based message authentication code",
+        "Message authentication code",
+        "Hash function",
+        "Cryptography",
+        "Length extension attack",
+        "Computer network",
+        "Acknowledgement",
+        "Message broker",
+        "Computer science"
+    ],
+    "references": [
+        "1985623009",
+        "2122984309",
+        "2131300413",
+        "2151413173"
+    ]
+}

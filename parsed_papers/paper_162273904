@@ -1,0 +1,41 @@
+{
+    "id": "162273904",
+    "title": "Big Learning and Deep Neural Networks",
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Gregoire Montavon",
+            "id": "2037010747",
+            "org": "Technische Universitat Berlin"
+        },
+        {
+            "name": "Klaus-Robert Muller",
+            "id": "2012736320",
+            "org": "Technische Universitat Berlin"
+        },
+        {
+            "name": "Klaus-Robert Muller",
+            "id": "2012736320",
+            "org": "Technische Universitat Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Linear system",
+        "Artificial neural network",
+        "Data set",
+        "Scaling",
+        "Machine learning",
+        "Nonlinear system",
+        "Computer science",
+        "Grand Challenges",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "71081281",
+        "103531544",
+        "175136955",
+        "1806891645",
+        "1955857676"
+    ]
+}

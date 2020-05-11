@@ -1,0 +1,28 @@
+{
+    "id": "1509454617",
+    "title": "Who's Who? Challenges in Biometric Authentication",
+    "venue": "joint pattern recognition symposium",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Anil K. Jain",
+            "id": "2162010601",
+            "org": "Michigan State University"
+        }
+    ],
+    "fields_of_study": [
+        "Identity fraud",
+        "Asynchronous Transfer Mode",
+        "Biometrics",
+        "Who's Who",
+        "Hand geometry",
+        "Password",
+        "Computer security",
+        "Computer science",
+        "Authentication"
+    ],
+    "references": [
+        "1805888261",
+        "2136461127"
+    ]
+}

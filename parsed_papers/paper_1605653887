@@ -1,0 +1,44 @@
+{
+    "id": "1605653887",
+    "title": "Exponential Time Analysis of Confluent and Boundary eNCE Graph Languages",
+    "venue": "workshop on graph theoretic concepts in computer science",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Konstantin Skodinis",
+            "id": "1560286193",
+            "org": "University of Passau"
+        },
+        {
+            "name": "Egon Wanke",
+            "id": "2093969755",
+            "org": "Institute for Algorithms and Scientific Computing"
+        }
+    ],
+    "fields_of_study": [
+        "Graph power",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Quartic graph",
+        "Line graph",
+        "String graph",
+        "Strength of a graph",
+        "Null graph",
+        "Mathematics",
+        "Voltage graph",
+        "Simplex graph"
+    ],
+    "references": [
+        "1512428151",
+        "1580074612",
+        "1588996601",
+        "1968017594",
+        "1994887153",
+        "2002048494",
+        "2006513683",
+        "2013956597",
+        "2023277231",
+        "2028357390",
+        "2084959922"
+    ]
+}

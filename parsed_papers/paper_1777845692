@@ -1,0 +1,43 @@
+{
+    "id": "1777845692",
+    "title": "Approximating Terminological Queries",
+    "venue": "flexible query answering systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Heiner Stuckenschmidt",
+            "id": "2088858762",
+            "org": "Vrije Universiteit Amsterdam"
+        },
+        {
+            "name": "Frank van Harmelen",
+            "id": "333553561",
+            "org": "Vrije Universiteit Amsterdam"
+        }
+    ],
+    "fields_of_study": [
+        "Opportunistic reasoning",
+        "Logical reasoning",
+        "Knowledge base",
+        "Information retrieval",
+        "Data mining",
+        "Conjunctive query",
+        "Reasoning system",
+        "Knowledge representation and reasoning",
+        "Description logic",
+        "Intelligent decision support system",
+        "Computer science"
+    ],
+    "references": [
+        "93661324",
+        "1486686095",
+        "1524799179",
+        "1652966692",
+        "2016515719",
+        "2017740323",
+        "2018113587",
+        "2038897673",
+        "2137914315",
+        "2166996723"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "1542652451",
+    "title": "ATLaS: A Native Extension of SQL for Data Mining.",
+    "venue": "siam international conference on data mining",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Haixun Wang",
+            "id": "2777339002",
+            "org": "IBM"
+        },
+        {
+            "name": "Carlo Zaniolo",
+            "id": "2028117853",
+            "org": "University of California, Los Angeles"
+        }
+    ],
+    "fields_of_study": [
+        "Data definition language",
+        "Query language",
+        "Database",
+        "Concept mining",
+        "Computer science",
+        "Null (SQL)",
+        "Data stream mining",
+        "SQL",
+        "Data mining",
+        "Query by Example",
+        "Extensibility"
+    ],
+    "references": [
+        "1480446764",
+        "1483135265",
+        "1515560342",
+        "1528454277",
+        "1539916429",
+        "1548053241",
+        "1854757958",
+        "1951422561",
+        "2064803206",
+        "2064853889",
+        "2082732197",
+        "2296677182"
+    ]
+}

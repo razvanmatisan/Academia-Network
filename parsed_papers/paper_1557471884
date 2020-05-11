@@ -1,0 +1,39 @@
+{
+    "id": "1557471884",
+    "title": "Executing Conceptual Graphs",
+    "venue": "international conference on conceptual structures",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Walling R. Cyre",
+            "id": "436031652",
+            "org": "Virginia Tech"
+        }
+    ],
+    "fields_of_study": [
+        "Recursion",
+        "Boolean algebra",
+        "Conceptual graph",
+        "Execution model",
+        "Knowledge representation and reasoning",
+        "Distributed computing",
+        "Knowledge engineering",
+        "Machine learning",
+        "Object type",
+        "Conceptual model (computer science)",
+        "Theoretical computer science",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1559577056",
+        "1576578259",
+        "1585267927",
+        "1585317458",
+        "1596668364",
+        "1851258679",
+        "2079865318",
+        "2129395888",
+        "2147961865"
+    ]
+}

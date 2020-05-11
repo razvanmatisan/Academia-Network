@@ -1,0 +1,43 @@
+{
+    "id": "1524781619",
+    "title": "Fault tolerance technology for autonomous decentralized database systems",
+    "venue": "symposium on reliable distributed systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Carlos Perez Leguizamo",
+            "id": "2105826727",
+            "org": "Dept. of Comput. Sci., Tokyo Inst. of Technol., Japan"
+        },
+        {
+            "name": "Dake Wang",
+            "id": "2574748511",
+            "org": "Dept. of Comput. Sci., Tokyo Inst. of Technol., Japan"
+        },
+        {
+            "name": "Kinji Mori",
+            "id": "2166891685",
+            "org": "Dept. of Comput. Sci., Tokyo Inst. of Technol., Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile agent",
+        "Distributed computing",
+        "Real-time computing",
+        "Fault tolerance",
+        "High availability",
+        "Distributed database",
+        "Database",
+        "Software fault tolerance",
+        "Autonomous system (Internet)",
+        "Computer science",
+        "Information technology",
+        "Fault detection and isolation"
+    ],
+    "references": [
+        "1510940979",
+        "2039179345",
+        "2100171093",
+        "2152985730"
+    ]
+}

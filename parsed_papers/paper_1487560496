@@ -1,0 +1,37 @@
+{
+    "id": "1487560496",
+    "title": "Conditional Probability Relations in Fuzzy Relational Database",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Rolly Intan",
+            "id": "2127129671",
+            "org": "Meiji University"
+        },
+        {
+            "name": "Masao Mukaidono",
+            "id": "370444231",
+            "org": "Meiji University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Relational calculus",
+        "Codd's theorem",
+        "Relational algebra",
+        "Relational database",
+        "Conjunctive query",
+        "Type-2 fuzzy sets and systems",
+        "Machine learning",
+        "Relational model",
+        "Fuzzy set operations",
+        "Artificial intelligence",
+        "Mathematics"
+    ],
+    "references": [
+        "1998108787",
+        "2019529630",
+        "2121169588"
+    ]
+}

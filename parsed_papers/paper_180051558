@@ -1,0 +1,34 @@
+{
+    "id": "180051558",
+    "title": "Using iterated best-response to find Bayes-Nash equilibria in auctions",
+    "venue": "national conference on artificial intelligence",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Victor Naroditskiy",
+            "id": "2894386666",
+            "org": "Department of Computer Science, Brown University, Providence, RI#TAB#"
+        },
+        {
+            "name": "Amy Greenwald",
+            "id": "2133795974",
+            "org": "Department of Computer Science, Brown University, Providence, RI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Common value auction",
+        "Mathematical optimization",
+        "Best response",
+        "Computer science",
+        "Valuation (finance)",
+        "Nash equilibrium",
+        "Bayes' theorem",
+        "Iterated function",
+        "Combinatorial auction",
+        "Vickrey auction"
+    ],
+    "references": [
+        "1808543079",
+        "2614477022"
+    ]
+}

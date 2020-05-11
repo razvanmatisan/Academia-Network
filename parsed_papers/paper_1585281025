@@ -1,0 +1,35 @@
+{
+    "id": "1585281025",
+    "title": "Two-Dimensional Fast Orthogonal Neural Network for Image Recognition",
+    "venue": "iberoamerican congress on pattern recognition",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Bartlomiej Stasiak",
+            "id": "2777267709",
+            "org": "Institute of Computer Science, Technical University of Lodz, Lodz, Poland 93-005#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Fourier transform",
+        "Computer vision",
+        "Artificial neural network",
+        "Discrete cosine transform",
+        "Architecture",
+        "Time delay neural network",
+        "Multilayer perceptron",
+        "Computer science",
+        "Computational complexity theory",
+        "Machine learning",
+        "Probabilistic neural network"
+    ],
+    "references": [
+        "1518052108",
+        "1965793029",
+        "2031614119",
+        "2112074816",
+        "2182537376"
+    ]
+}

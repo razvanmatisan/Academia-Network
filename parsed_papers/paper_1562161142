@@ -1,0 +1,28 @@
+{
+    "id": "1562161142",
+    "title": "Information Distribution Aspects of Design Methodology.",
+    "venue": "ifip congress",
+    "year": 1971,
+    "authors": [
+        {
+            "name": "David Lorge Parnas",
+            "id": "88694571",
+            "org": "Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Management science",
+        "Systems design",
+        "Documentation",
+        "Information hiding",
+        "Iterative design",
+        "Design methods",
+        "Probabilistic design",
+        "Generative Design",
+        "Computer science",
+        "Design technology"
+    ],
+    "references": [
+        "2134594099"
+    ]
+}

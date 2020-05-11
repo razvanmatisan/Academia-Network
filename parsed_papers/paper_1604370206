@@ -1,0 +1,44 @@
+{
+    "id": "1604370206",
+    "title": "Using schema theory to explore interactions of multiple operators",
+    "venue": "genetic and evolutionary computation conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Nicholas Freitag McPhee",
+            "id": "1997121098",
+            "org": "Division of Science and Mathematics, University of Minnesota, Morris#TAB#"
+        },
+        {
+            "name": "Riccardo Poli",
+            "id": "2030200780",
+            "org": "Department of Computer Science, University of Essex, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Mathematical optimization",
+        "Crossover",
+        "Schema (psychology)",
+        "Discrete mathematics",
+        "Defining length",
+        "Multiplication operator",
+        "Genetic programming",
+        "Operator (computer programming)",
+        "Tree (data structure)",
+        "Mathematics"
+    ],
+    "references": [
+        "168888687",
+        "1486210748",
+        "1561626171",
+        "1563396597",
+        "1584175556",
+        "1593981178",
+        "1992379990",
+        "2098693123",
+        "2163878202",
+        "2296218809"
+    ]
+}

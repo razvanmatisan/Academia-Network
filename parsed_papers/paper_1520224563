@@ -1,0 +1,32 @@
+{
+    "id": "1520224563",
+    "title": "Fitness evaluation avoidance in Boolean GP problems",
+    "venue": "congress on evolutionary computation",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "David Jackson",
+            "id": "2343238492",
+            "org": "Dept. of Comput. Sci., Liverpool Univ., UK"
+        }
+    ],
+    "fields_of_study": [
+        "And-inverter graph",
+        "Circuit minimization for Boolean functions",
+        "Computer science",
+        "Artificial intelligence",
+        "Machine learning",
+        "Boolean circuit",
+        "Genetic programming",
+        "Boolean expression",
+        "Fitness approximation",
+        "Fitness function",
+        "Short-circuit evaluation"
+    ],
+    "references": [
+        "26711243",
+        "1497566245",
+        "1596967679",
+        "1997412527"
+    ]
+}

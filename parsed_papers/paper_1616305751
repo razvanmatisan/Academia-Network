@@ -1,0 +1,47 @@
+{
+    "id": "1616305751",
+    "title": "Medical decision support via the internet: PROforma and Solo.",
+    "venue": "Studies in health technology and informatics",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Michael Humber",
+            "id": "2096909973",
+            "org": "Advanced Computation Laboratory|Imperial Cancer Research Fund"
+        },
+        {
+            "name": "Huon Butterworth",
+            "id": "2410729673",
+            "org": "Advanced Computation Laboratory|Imperial Cancer Research Fund"
+        },
+        {
+            "name": "John Fox",
+            "id": "2508073962",
+            "org": "Advanced Computation Laboratory|Imperial Cancer Research Fund"
+        },
+        {
+            "name": "Richard Thomson",
+            "id": "2131779479",
+            "org": "Advanced Computation Laboratory|Imperial Cancer Research Fund"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "R-CAST",
+        "Decision support system",
+        "Clinical decision support system",
+        "Knowledge engineering",
+        "Data mining",
+        "Medicine",
+        "Point of care",
+        "The Internet"
+    ],
+    "references": [
+        "1500937865",
+        "1586617399",
+        "1701219554",
+        "2057630596",
+        "2079759024",
+        "2151316512"
+    ]
+}

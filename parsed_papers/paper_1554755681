@@ -1,0 +1,43 @@
+{
+    "id": "1554755681",
+    "title": "Towards Robust IT Service Portfolio Management",
+    "venue": "distributed systems operations and management",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "David Trastour",
+            "id": "1968639163",
+            "org": "HP Labs, Bristol, UK#TAB#"
+        },
+        {
+            "name": "Athena Christodoulou",
+            "id": "1984303426",
+            "org": "HP Labs, Bristol, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Application portfolio management",
+        "Process management",
+        "Information Technology Infrastructure Library",
+        "Financial management for IT services",
+        "Change management (ITSM)",
+        "Business service management",
+        "Distributed computing",
+        "IT portfolio management",
+        "Computer science",
+        "Portfolio",
+        "Project portfolio management"
+    ],
+    "references": [
+        "1585494821",
+        "1588574927",
+        "1645679354",
+        "2033309009",
+        "2056446456",
+        "2076016880",
+        "2120338298",
+        "2131670739",
+        "2134615547",
+        "2170481066"
+    ]
+}

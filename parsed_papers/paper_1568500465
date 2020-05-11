@@ -1,0 +1,38 @@
+{
+    "id": "1568500465",
+    "title": "Matching Breast Lesions in Multiple Mammographic Views",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Saskia van Engeland",
+            "id": "110206031",
+            "org": "Department of Radiology"
+        },
+        {
+            "name": "Nico Karssemeijer",
+            "id": "2796667682",
+            "org": "Department of Radiology"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Breast imaging",
+        "Pattern recognition",
+        "Computer vision",
+        "Landmark",
+        "Computer-aided diagnosis",
+        "Oblique case",
+        "Computer science",
+        "Interpolation",
+        "Breast cancer screening",
+        "Digital mammography",
+        "Pectoral muscle"
+    ],
+    "references": [
+        "1574920633",
+        "2158702538",
+        "2172152341",
+        "2231693872"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1550354486",
+    "title": "Categories of Artificial Societies",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Paul Davidsson",
+            "id": "2094453071",
+            "org": "Blekinge Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Open society",
+        "Data science",
+        "Information system",
+        "Management science",
+        "Distributed computing",
+        "Software agent",
+        "Closed society",
+        "Openness to experience",
+        "First class",
+        "Computer science",
+        "Artificial society"
+    ],
+    "references": [
+        "1530664320",
+        "1553065069",
+        "1585083961",
+        "1898986177",
+        "2060352300",
+        "2096978071",
+        "2155050349"
+    ]
+}

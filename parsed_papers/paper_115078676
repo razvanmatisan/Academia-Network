@@ -1,0 +1,33 @@
+{
+    "id": "115078676",
+    "title": "On the arithmetic complexity of euler function",
+    "venue": "computer science symposium in russia",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Manindra Agrawal",
+            "id": "2150335919",
+            "org": "Department of Computer Science, IIT Kanpur, Kanpur, India#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Backward Euler method",
+        "Combinatorics",
+        "Euler function",
+        "Euler's four-square identity",
+        "Discrete mathematics",
+        "Computing the permanent",
+        "Matrix (mathematics)",
+        "Algebra",
+        "Euler summation",
+        "Computer science",
+        "Finite field",
+        "Integer"
+    ],
+    "references": [
+        "1503731768",
+        "1699655904",
+        "1991614107",
+        "2170831059"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1546428309",
+    "title": "PhotoPix: an Object-Oriented Framework for Digital Image Processing Systems",
+    "venue": "international conference on image analysis and processing",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Alisson Augusto Souza Sol",
+            "id": "2499481716",
+            "org": "Universidade Federal de Minas Gerais"
+        },
+        {
+            "name": "Arnaldo de Albuquerque Araujo",
+            "id": "2153095358",
+            "org": "Universidade Federal de Minas Gerais"
+        }
+    ],
+    "fields_of_study": [
+        "Digital image processing",
+        "Computer vision",
+        "Artificial intelligence",
+        "Application programming interface",
+        "Method",
+        "Computer science",
+        "Coding (social sciences)",
+        "User interface",
+        "Object-oriented programming"
+    ],
+    "references": [
+        "1579278367",
+        "1600906369",
+        "1675273072"
+    ]
+}

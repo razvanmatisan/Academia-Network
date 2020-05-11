@@ -1,0 +1,45 @@
+{
+    "id": "1481698460",
+    "title": "Interaction models and the principled design of interactive systems",
+    "venue": "european software engineering conference",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Alan Dix",
+            "id": "2304140017",
+            "org": "Univ. of York, York, UK#TAB#"
+        },
+        {
+            "name": "Michael D. Harrison",
+            "id": "2304366500",
+            "org": "Univ. of York, York, UK#TAB#"
+        },
+        {
+            "name": "Colin Runciman",
+            "id": "711150104",
+            "org": "Univ. of York, York, UK#TAB#"
+        },
+        {
+            "name": "Harold W. Thimbleby",
+            "id": "2595122141",
+            "org": "Univ. of York, York, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "User experience design",
+        "Systems design",
+        "Systems engineering",
+        "Interaction model",
+        "Principles and Practice of Engineering Examination",
+        "Human-computer interaction",
+        "Engineering design process",
+        "Adaptation (computer science)",
+        "Interactive systems engineering",
+        "Computer science",
+        "Design process"
+    ],
+    "references": [
+        "2010152469",
+        "2106005943"
+    ]
+}

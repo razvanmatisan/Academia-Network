@@ -1,0 +1,49 @@
+{
+    "id": "1601544768",
+    "title": "A Comparison of Least Squares and Spectral Methods for Attributed Graph Matching",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jianfeng Lu",
+            "id": "2679344833",
+            "org": "University of Alberta"
+        },
+        {
+            "name": "Jianfeng Lu",
+            "id": "2679344833",
+            "org": "University of Alberta"
+        },
+        {
+            "name": "Terry Caelli",
+            "id": "1674748237",
+            "org": "University of Alberta"
+        },
+        {
+            "name": "Jingyu Yang",
+            "id": "2107803903",
+            "org": "Nanjing University of Science & Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Total least squares",
+        "Iteratively reweighted least squares",
+        "Least trimmed squares",
+        "Statistics",
+        "Explained sum of squares",
+        "Non-linear least squares",
+        "Recursive least squares filter",
+        "Generalized least squares",
+        "Least squares",
+        "Mathematics"
+    ],
+    "references": [
+        "1489025000",
+        "1972278541",
+        "1991351065",
+        "2018655547",
+        "2021560054",
+        "2094826395",
+        "2159537329"
+    ]
+}

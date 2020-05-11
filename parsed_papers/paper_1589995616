@@ -1,0 +1,53 @@
+{
+    "id": "1589995616",
+    "title": "A mobile-agent based distributed dynamic /spl mu/Firewall architecture",
+    "venue": "international conference on parallel and distributed systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Feng Xian",
+            "id": "2603264894",
+            "org": "Internet & Cluster Comput. Center, Huazhong Univ. of Sci. & Technol., Wuhan, China"
+        },
+        {
+            "name": "Hai Jin",
+            "id": "2168417342",
+            "org": "Internet & Cluster Comput. Center, Huazhong Univ. of Sci. & Technol., Wuhan, China"
+        },
+        {
+            "name": "Ke Liu",
+            "id": "2629419388",
+            "org": "Internet & Cluster Comput. Center, Huazhong Univ. of Sci. & Technol., Wuhan, China"
+        },
+        {
+            "name": "Zongfen Han",
+            "id": "2663241966",
+            "org": "Internet & Cluster Comput. Center, Huazhong Univ. of Sci. & Technol., Wuhan, China"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed System Security Architecture",
+        "Distributed computing",
+        "Application firewall",
+        "Real-time computing",
+        "Intrusion detection system",
+        "Enterprise information security architecture",
+        "Computer science",
+        "Architecture",
+        "Stateful firewall",
+        "Computer network",
+        "Internet security",
+        "Computer security model"
+    ],
+    "references": [
+        "342293290",
+        "1526098002",
+        "1599126799",
+        "1618548847",
+        "1859131989",
+        "1860215963",
+        "1919975508",
+        "2014254858",
+        "2166975838"
+    ]
+}

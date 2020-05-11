@@ -1,0 +1,39 @@
+{
+    "id": "1479971399",
+    "title": "Step-Size Adaption Based on Non-Local Use of Selection Information",
+    "venue": "parallel problem solving from nature",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Andreas Ostermeier",
+            "id": "1983459409",
+            "org": "Technische Universitat Berlin"
+        },
+        {
+            "name": "Andreas Gawelczyk",
+            "id": "2063667219",
+            "org": "Technische Universitat Berlin"
+        },
+        {
+            "name": "Nikolaus Hansen",
+            "id": "2155535925",
+            "org": "Technische Universitat Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence",
+        "Fitness proportionate selection",
+        "Computer science",
+        "Scaling",
+        "Fitness approximation",
+        "Random effects model",
+        "Fitness function",
+        "Evolution strategy"
+    ],
+    "references": [
+        "1560130085",
+        "2012367441"
+    ]
+}

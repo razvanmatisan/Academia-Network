@@ -1,0 +1,38 @@
+{
+    "id": "1580167444",
+    "title": "Flows under Min/Max Curvature Flow and Mean Curvature: Applications in Image Processing",
+    "venue": "european conference on computer vision",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Ravi Malladi",
+            "id": "2090576353",
+            "org": "University of California"
+        },
+        {
+            "name": "James A. Sethian",
+            "id": "2305867924",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Curvature",
+        "Color image",
+        "Artificial intelligence",
+        "Image texture",
+        "Image processing",
+        "Multiplicative noise",
+        "Mean curvature",
+        "Level set",
+        "Smoothing",
+        "Mathematics"
+    ],
+    "references": [
+        "1483079458",
+        "2110563224",
+        "2145023731",
+        "2149184914",
+        "2150134853"
+    ]
+}

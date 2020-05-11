@@ -1,0 +1,32 @@
+{
+    "id": "1485374110",
+    "title": "Key Distribution Systems Based on Identification Information",
+    "venue": "international cryptology conference",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Eiji Okamoto",
+            "id": "2779300525",
+            "org": "NEC Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Directory",
+        "Key management",
+        "Key distribution",
+        "Key distribution center",
+        "Theoretical computer science",
+        "Public-key cryptography",
+        "Computer science",
+        "Distributed computing",
+        "Diffie-Hellman key exchange",
+        "Cryptosystem",
+        "Identification (information)"
+    ],
+    "references": [
+        "1569083856",
+        "1976767440",
+        "1996360405",
+        "2156186849"
+    ]
+}

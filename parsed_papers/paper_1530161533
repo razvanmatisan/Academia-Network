@@ -1,0 +1,37 @@
+{
+    "id": "1530161533",
+    "title": "Rule splitting and attribute-directed parsing",
+    "venue": "compiler construction",
+    "year": 1980,
+    "authors": [
+        {
+            "name": "David A. Watt",
+            "id": "2100417130",
+            "org": "University of Glasgow"
+        }
+    ],
+    "fields_of_study": [
+        "Parsing",
+        "Parser combinator",
+        "Programming language",
+        "S-attributed grammar",
+        "Mathematics",
+        "Top-down parsing",
+        "Attribute grammar",
+        "L-attributed grammar",
+        "Top-down parsing language",
+        "Artificial intelligence",
+        "Rule-based machine translation",
+        "Pattern recognition"
+    ],
+    "references": [
+        "39739796",
+        "44364083",
+        "45315167",
+        "150947494",
+        "1595211998",
+        "1964071625",
+        "2029433868",
+        "2103411350"
+    ]
+}

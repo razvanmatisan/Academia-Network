@@ -1,0 +1,43 @@
+{
+    "id": "1755373272",
+    "title": "A Spatial Model Based on the Notions of Spatial Conceptual Map and of Object's Influence Areas",
+    "venue": "conference on spatial information theory",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Driss Kettani",
+            "id": "2018966165",
+            "org": "Defense Research Establishment Valcartier"
+        },
+        {
+            "name": "Bernard Moulin",
+            "id": "2066668350",
+            "org": "Laval University"
+        }
+    ],
+    "fields_of_study": [
+        "Spatial intelligence",
+        "Machine learning",
+        "Natural language",
+        "Computer science",
+        "Mental image",
+        "Artificial intelligence",
+        "Geographic information system",
+        "Data structure",
+        "Concept learning"
+    ],
+    "references": [
+        "191011047",
+        "1530698827",
+        "1552449044",
+        "1555992608",
+        "1561273607",
+        "1565772504",
+        "1590486919",
+        "1751356026",
+        "2122136744",
+        "2124449677",
+        "2161484642",
+        "2238481918"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1542078801",
+    "title": "Design and implementation of flexible user protocol interface",
+    "venue": "Journal of High Speed Networks",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "B. Metzler",
+            "id": "2491993186",
+            "org": "Technical University of Berlin"
+        },
+        {
+            "name": "Ilka Miloucheva",
+            "id": "2309165828",
+            "org": "Technical University of Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "User Datagram Protocol",
+        "Real-time computing",
+        "User interface design",
+        "Internet protocol suite",
+        "Application-layer framing",
+        "Application programming interface",
+        "Computer science",
+        "Quality of service",
+        "Architecture",
+        "User interface"
+    ],
+    "references": [
+        "1539156815",
+        "1550888262",
+        "1604612410",
+        "1966038505",
+        "1981810829",
+        "1982928411",
+        "2019590278",
+        "2029677496",
+        "2099036355",
+        "2128883551",
+        "2139821264",
+        "2145112413",
+        "2152854028",
+        "2168841475"
+    ]
+}

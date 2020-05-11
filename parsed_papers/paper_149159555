@@ -1,0 +1,37 @@
+{
+    "id": "149159555",
+    "title": "Tucking RCC in Cyc's ontological bed",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Pierre Grenon",
+            "id": "1995195442",
+            "org": "Institute for Formal Ontology and Medical Information Science, University of Leipzig, Leipzig, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Boolean algebra",
+        "Discrete mathematics",
+        "Ontology",
+        "Natural language processing",
+        "Spatial intelligence",
+        "Rotation formalisms in three dimensions",
+        "Knowledge base",
+        "Region connection calculus",
+        "Axiom",
+        "Algorithm",
+        "Artificial intelligence",
+        "Mathematics"
+    ],
+    "references": [
+        "852874",
+        "198845790",
+        "1555296323",
+        "1561545719",
+        "1576502567",
+        "1963829561",
+        "2009758889",
+        "2022915841"
+    ]
+}

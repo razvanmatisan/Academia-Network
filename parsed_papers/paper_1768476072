@@ -1,0 +1,36 @@
+{
+    "id": "1768476072",
+    "title": "LR-parser-driven Viterbi search with hypotheses merging mechanism using context-dependent phone models",
+    "venue": "international conference on spoken language processing",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Tomokazu Yamada",
+            "id": "2893476251",
+            "org": "NTT Human Interface Labs., Kanagawa, Japan"
+        },
+        {
+            "name": "Shigeki Sagayama",
+            "id": "89487398",
+            "org": "Human Interface Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Viterbi algorithm",
+        "Iterative Viterbi decoding",
+        "LR parser",
+        "Soft output Viterbi algorithm",
+        "Search algorithm",
+        "Machine learning",
+        "GLR parser",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Computer science",
+        "Context-free grammar",
+        "Hidden Markov model"
+    ],
+    "references": [
+        "174982839",
+        "1515291320"
+    ]
+}

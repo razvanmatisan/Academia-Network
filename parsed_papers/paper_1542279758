@@ -1,0 +1,31 @@
+{
+    "id": "1542279758",
+    "title": "Strict Sequential P-completeness",
+    "venue": "symposium on theoretical aspects of computer science",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Klaus Reinhardt",
+            "id": "1997510631",
+            "org": "Universitat Tubingen"
+        }
+    ],
+    "fields_of_study": [
+        "Completeness (statistics)",
+        "Computer science",
+        "Discrete mathematics",
+        "Speedup",
+        "Stack machine",
+        "Parallel algorithm",
+        "Sequential algorithm",
+        "Polynomial"
+    ],
+    "references": [
+        "1482438501",
+        "1498175479",
+        "1588005776",
+        "1977041160",
+        "2017205387",
+        "2139932807"
+    ]
+}

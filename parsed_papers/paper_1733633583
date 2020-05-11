@@ -1,0 +1,40 @@
+{
+    "id": "1733633583",
+    "title": "Improving trigram language modeling with the World Wide Web",
+    "venue": "international conference on acoustics, speech, and signal processing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Xiaojin Zhu",
+            "id": "2132213614",
+            "org": "Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA, USA"
+        },
+        {
+            "name": "Ronald Rosenfeld",
+            "id": "2396008703",
+            "org": "School of Computer Science|Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Word error rate",
+        "Pattern recognition",
+        "Web page",
+        "Artificial intelligence",
+        "Language model",
+        "Trigram",
+        "Computer science",
+        "Trigram tagger",
+        "Web search engine",
+        "Search engine",
+        "Test set"
+    ],
+    "references": [
+        "133281227",
+        "204586917",
+        "1934041838",
+        "2096175520",
+        "2117257534",
+        "2158195707"
+    ]
+}

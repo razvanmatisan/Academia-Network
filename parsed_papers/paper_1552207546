@@ -1,0 +1,35 @@
+{
+    "id": "1552207546",
+    "title": "New local search approximation techniques for maximum generalized satisfiability problems",
+    "venue": "international conference on algorithms and complexity",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Paola Alimonti",
+            "id": "262768531",
+            "org": "Univ. di Roma, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Incremental heuristic search",
+        "Iterated local search",
+        "Greedy randomized adaptive search procedure",
+        "Beam search",
+        "Discrete mathematics",
+        "Guided Local Search",
+        "Mathematical optimization",
+        "Local search (optimization)",
+        "Best-first search",
+        "Maximum satisfiability problem",
+        "Mathematics"
+    ],
+    "references": [
+        "1513769081",
+        "2001564241",
+        "2036265926",
+        "2038225707",
+        "2053548601",
+        "2056090079"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "164988870",
+    "title": "Trustworthy Software Development",
+    "venue": "international conference on communications",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Sachar Paulus",
+            "id": "2031551519",
+            "org": "Brandenburg University of Applied Sciences"
+        },
+        {
+            "name": "Nazila Gol Mohammadi",
+            "id": "2097654967",
+            "org": "University of Duisburg-Essen"
+        },
+        {
+            "name": "Thorsten Weyer",
+            "id": "2002124973",
+            "org": "University of Duisburg-Essen"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Software verification and validation",
+        "Systems engineering",
+        "Personal software process",
+        "Software Engineering Process Group",
+        "Computer science",
+        "Software peer review",
+        "Social software engineering",
+        "Software development",
+        "Software walkthrough",
+        "Knowledge management",
+        "Crowdsourcing software development"
+    ],
+    "references": [
+        "1575062846",
+        "2012138753",
+        "2045651560",
+        "2077735375",
+        "2112016710",
+        "2134062730",
+        "2138464849",
+        "2139872812",
+        "2154245240",
+        "2171955286",
+        "2172214863",
+        "2290446404",
+        "2305409528",
+        "2399235537"
+    ]
+}

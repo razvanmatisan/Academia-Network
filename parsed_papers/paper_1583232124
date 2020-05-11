@@ -1,0 +1,35 @@
+{
+    "id": "1583232124",
+    "title": "m PROS - Micro Protocol Based Development of Mobile Ad Hoc Networks",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Alexander Geraldy",
+            "id": "298740037",
+            "org": "University of Kaiserslautern"
+        },
+        {
+            "name": "Reinhard Gotzhein",
+            "id": "240701318",
+            "org": "University of Kaiserslautern"
+        }
+    ],
+    "fields_of_study": [
+        "Wireless ad hoc network",
+        "Distributed computing",
+        "Ad hoc wireless distribution service",
+        "Multicast",
+        "Quality of service",
+        "Intelligent Network",
+        "Communications system",
+        "Computer network",
+        "Mobile ad hoc network",
+        "Computer science",
+        "Ambient intelligence"
+    ],
+    "references": [
+        "1578810091",
+        "1783814535"
+    ]
+}

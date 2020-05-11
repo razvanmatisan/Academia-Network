@@ -1,0 +1,50 @@
+{
+    "id": "1550486063",
+    "title": "Autocorrelation properties of resilient functions and three-valued almost-optimal functions satisfying PC( p )",
+    "venue": "SETA'04 Proceedings of the Third international conference on Sequences and Their Applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Seung-Hoon Choi",
+            "id": "2526620841",
+            "org": "Samsung Electronics Co. Ltd., Suwon, Gyeonggi, Korea#TAB#"
+        },
+        {
+            "name": "Kyeongcheol Yang",
+            "id": "2124285419",
+            "org": "Dept. of Electronic and Electrical Engineering, Pohang University of Science and Technology (POSTECH), Pohang, Gyungbuk, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Boolean function",
+        "Bent function",
+        "Autocorrelation",
+        "Linear complex structure",
+        "Characteristic function (probability theory)",
+        "Satisfiability",
+        "Discrete mathematics",
+        "Mathematical analysis",
+        "Upper and lower bounds",
+        "Explained sum of squares",
+        "Mathematics"
+    ],
+    "references": [
+        "1483127851",
+        "1536790875",
+        "1557382432",
+        "1583499453",
+        "1670558497",
+        "1781761117",
+        "1854146939",
+        "1980279697",
+        "1983760747",
+        "2002865028",
+        "2037339745",
+        "2043200151",
+        "2075612964",
+        "2124818982",
+        "2148721664",
+        "2149763483",
+        "2154271831"
+    ]
+}

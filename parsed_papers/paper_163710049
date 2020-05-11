@@ -1,0 +1,39 @@
+{
+    "id": "163710049",
+    "title": "A genetic algorithm for automatically designing modular reinforcement learning agents",
+    "venue": "genetic and evolutionary computation conference",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Isao Ono",
+            "id": "2019403129",
+            "org": "Faculty of Engineering, University of Tokushima, Tokushima, Japan#TAB#"
+        },
+        {
+            "name": "Tetsuo Nijo",
+            "id": "2557353849",
+            "org": "Faculty of Engineering, University of Tokushima, Tokushima, Japan#TAB#"
+        },
+        {
+            "name": "Norihiko Ono",
+            "id": "2155786337",
+            "org": "Faculty of Engineering, University of Tokushima, Tokushima, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Genetic algorithm",
+        "Artificial intelligence",
+        "Learning classifier system",
+        "Trial and error",
+        "Control theory",
+        "Reinforcement learning",
+        "Modular design",
+        "Computer science",
+        "Reinforcement",
+        "Architecture"
+    ],
+    "references": [
+        "126344362"
+    ]
+}

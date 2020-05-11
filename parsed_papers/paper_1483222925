@@ -1,0 +1,43 @@
+{
+    "id": "1483222925",
+    "title": "Conflict prevention via model-driven policy refinement",
+    "venue": "distributed systems operations and management",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Stephen Davy",
+            "id": "2101934959",
+            "org": "Telecommunication Software & Systems Group, Waterford Institute of Technology, Waterford, Ireland#TAB#"
+        },
+        {
+            "name": "Brendan Jennings",
+            "id": "2099493349",
+            "org": "Telecommunication Software & Systems Group, Waterford Institute of Technology, Waterford, Ireland#TAB#"
+        },
+        {
+            "name": "John Strassner",
+            "id": "1233913860",
+            "org": "Motorola Labs, Chicago, IL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Information model",
+        "Software deployment",
+        "Object Constraint Language",
+        "Management science",
+        "Enforcement",
+        "Network management",
+        "Distributed computing",
+        "Simulation",
+        "Policy-based management",
+        "Computer science",
+        "Policy analysis",
+        "Data modeling"
+    ],
+    "references": [
+        "1766756415",
+        "1976237736",
+        "2099789029",
+        "2168884369"
+    ]
+}

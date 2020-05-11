@@ -1,0 +1,30 @@
+{
+    "id": "1489894178",
+    "title": "A Blocking Algorithm for FFT on Cache-Based Processors",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Daisuke Takahashi",
+            "id": "2156780583",
+            "org": "Saitama University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete Fourier transform",
+        "Fast Fourier transform",
+        "Cache-oblivious algorithm",
+        "Parallel computing",
+        "Cooley-Tukey FFT algorithm",
+        "CPU cache",
+        "Cache",
+        "Computer science",
+        "Algorithm",
+        "Prime-factor FFT algorithm",
+        "Split-radix FFT algorithm"
+    ],
+    "references": [
+        "2045836768",
+        "2070455226"
+    ]
+}

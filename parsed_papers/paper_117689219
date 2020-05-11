@@ -1,0 +1,40 @@
+{
+    "id": "117689219",
+    "title": "Tracking and viewing changes on the web",
+    "venue": "usenix annual technical conference",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Fred Douglis",
+            "id": "202340837",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "Thomas Ball",
+            "id": "2121300700",
+            "org": "Microsoft Research"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Static web page",
+        "Snapshot (computer storage)",
+        "Page view",
+        "World Wide Web",
+        "Web page",
+        "Site map",
+        "Computer science",
+        "Web server",
+        "Dynamic web page",
+        "Printer-friendly"
+    ],
+    "references": [
+        "1966553486",
+        "2005373714",
+        "2107460938",
+        "2115755647",
+        "2120500054",
+        "2162744351",
+        "2166667085"
+    ]
+}

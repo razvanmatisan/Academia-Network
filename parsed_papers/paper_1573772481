@@ -1,0 +1,29 @@
+{
+    "id": "1573772481",
+    "title": "ID: An Incremental ID3",
+    "venue": "international conference on machine learning",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Paul E. Utgoff",
+            "id": "2240102910",
+            "org": "Department of Computer and Information Science, University of Massachusetts, Amherst, MA 01003 U.S.A."
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Decision tree",
+        "ID3 algorithm",
+        "Incremental decision tree",
+        "Scratch",
+        "ID3",
+        "Computer science",
+        "C4.5 algorithm"
+    ],
+    "references": [
+        "167515793",
+        "2149706766"
+    ]
+}

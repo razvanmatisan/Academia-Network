@@ -1,0 +1,34 @@
+{
+    "id": "1744698537",
+    "title": "Modular Multiplication and Division Algorithms Based on Continued Fraction Expansion",
+    "venue": "symposium on computer arithmetic",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Mourad Gouicem",
+            "id": "2630596499",
+            "org": "LIP6, UPMC Univ. Paris 06, Paris, France"
+        }
+    ],
+    "fields_of_study": [
+        "Multiplication",
+        "Discrete mathematics",
+        "Continued fraction",
+        "Division algorithm",
+        "Multiplication algorithm",
+        "Combinatorics",
+        "Theoretical computer science",
+        "Kochanski multiplication",
+        "Mathematics",
+        "Modular arithmetic",
+        "Euclidean division",
+        "Division (mathematics)",
+        "Algorithm"
+    ],
+    "references": [
+        "1498685334",
+        "1592608789",
+        "1993445859",
+        "2126703276"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": "1531786782",
+    "title": "Mechanizing Logical Relations",
+    "venue": "international conference on mathematical foundations of programming semantics",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Allen Stoughton",
+            "id": "2708404230",
+            "org": "Kansas State University"
+        }
+    ],
+    "fields_of_study": [
+        "Lambda cube",
+        "Typed lambda calculus",
+        "Discrete mathematics",
+        "Church encoding",
+        "Binary lambda calculus",
+        "System F",
+        "Simply typed lambda calculus",
+        "Pure type system",
+        "Truth table",
+        "Mathematics"
+    ],
+    "references": [
+        "1487166760",
+        "1514107022",
+        "1591846509",
+        "2007270285"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "109768657",
+    "title": "Debugging OWL Ontologies - A Reality Check.",
+    "venue": "EON",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Heiner Stuckenschmidt",
+            "id": "2088858762",
+            "org": "University of Mannheim"
+        }
+    ],
+    "fields_of_study": [
+        "Process ontology",
+        "F-logic",
+        "Database",
+        "Theoretical computer science",
+        "Description logic",
+        "Ontology components",
+        "Ontology (information science)",
+        "Ontology language",
+        "Web Ontology Language",
+        "Computer science",
+        "Ontology Inference Layer"
+    ],
+    "references": [
+        "11168382",
+        "1699724838",
+        "1873554161",
+        "2005564477",
+        "2026574256",
+        "2069779387",
+        "2108309071",
+        "2111386773",
+        "2126890920"
+    ]
+}

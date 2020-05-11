@@ -1,0 +1,36 @@
+{
+    "id": "1577503839",
+    "title": "Implementation of parallel graph reduction by explicit annotation and program transformation",
+    "venue": "mathematical foundations of computer science",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Willem G. Vree",
+            "id": "1968545134",
+            "org": "University of Amsterdam"
+        }
+    ],
+    "fields_of_study": [
+        "Graph reduction",
+        "Graph rewriting",
+        "Architecture",
+        "Distributed memory",
+        "Reduction strategy",
+        "Program transformation",
+        "Theoretical computer science",
+        "Computer science",
+        "Rewriting",
+        "Abstract semantic graph"
+    ],
+    "references": [
+        "1520700348",
+        "1543641760",
+        "1597755753",
+        "1990067258",
+        "2022045836",
+        "2024501169",
+        "2043990347",
+        "2063068243",
+        "2071457257"
+    ]
+}

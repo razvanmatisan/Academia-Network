@@ -1,0 +1,48 @@
+{
+    "id": "1623529778",
+    "title": "ICTNET at Session Track TREC2014",
+    "venue": "text retrieval conference",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Yuanhai Xue",
+            "id": "2166950734",
+            "org": "Institute Of Computing Technology Chinese Academy Of Sciences"
+        },
+        {
+            "name": "Guoxin Cui",
+            "id": "2681471832",
+            "org": "Institute Of Computing Technology Chinese Academy Of Sciences"
+        },
+        {
+            "name": "Xiaoming Yu",
+            "id": "2497774794",
+            "org": "Institute Of Computing Technology Chinese Academy Of Sciences"
+        },
+        {
+            "name": "Yue Liu",
+            "id": "2695326095",
+            "org": "Institute Of Computing Technology Chinese Academy Of Sciences"
+        },
+        {
+            "name": "Xueqi Cheng",
+            "id": "2129598186",
+            "org": "Institute Of Computing Technology Chinese Academy Of Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Learning to rank",
+        "Information retrieval",
+        "Data mining",
+        "Training set",
+        "Computer science",
+        "Knowledge-based systems",
+        "Ranking",
+        "Text processing"
+    ],
+    "references": [
+        "1685426458",
+        "2035720976",
+        "2115222671"
+    ]
+}

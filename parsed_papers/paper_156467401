@@ -1,0 +1,27 @@
+{
+    "id": "156467401",
+    "title": "Representing continuous change in the event calculus",
+    "venue": "european conference on artificial intelligence",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Murray Shanahan",
+            "id": "2039760699",
+            "org": "Imperial College|Department of Computing"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Mathematical optimization",
+        "Discrete mathematics",
+        "Event calculus",
+        "Algorithm",
+        "Sink (computing)"
+    ],
+    "references": [
+        "16460774",
+        "2104351678",
+        "2114462967",
+        "2122540544"
+    ]
+}

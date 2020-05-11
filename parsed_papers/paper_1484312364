@@ -1,0 +1,44 @@
+{
+    "id": "1484312364",
+    "title": "An adaptive transmission power control protocol for mobile ad hoc networks",
+    "venue": "IWDC'04 Proceedings of the 6th international conference on Distributed Computing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Kyung-jun Kim",
+            "id": "2516088685",
+            "org": "Department of Computer Engineering, Kyungpook National University#TAB#"
+        },
+        {
+            "name": "Namkoo Ha",
+            "id": "2046066002",
+            "org": "Department of Computer Engineering, Kyungpook National University#TAB#"
+        },
+        {
+            "name": "Ki Jun Han",
+            "id": "2180887516",
+            "org": "Department of Computer Engineering, Kyungpook National University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Optimized Link State Routing Protocol",
+        "Wireless ad hoc network",
+        "Adaptive quality of service multi-hop routing",
+        "Wireless Routing Protocol",
+        "Delay-tolerant networking",
+        "Ad hoc wireless distribution service",
+        "Vehicular ad hoc network",
+        "Computer network",
+        "Mobile ad hoc network",
+        "Distributed computing",
+        "Computer science"
+    ],
+    "references": [
+        "178961383",
+        "1586585362",
+        "2015729019",
+        "2122859412",
+        "2139107517",
+        "2146884905"
+    ]
+}

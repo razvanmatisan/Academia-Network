@@ -1,0 +1,36 @@
+{
+    "id": "1536334038",
+    "title": "A Conservative Approach to Meta-Programming in Constraint Logic Programming",
+    "venue": "international symposium on programming language implementation and logic programming",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Pierre Lim",
+            "id": "2648247271",
+            "org": "European Computer-Industry Research Centre"
+        },
+        {
+            "name": "Joachim Schimpf",
+            "id": "2634311346",
+            "org": "European Computer-Industry Research Centre"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Constraint programming",
+        "Concurrent constraint logic programming",
+        "Functional logic programming",
+        "Inductive programming",
+        "Fifth-generation programming language",
+        "Mathematical optimization",
+        "Logic programming",
+        "Constraint logic programming",
+        "Computer science",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "65937437",
+        "1503179130",
+        "1981291300"
+    ]
+}

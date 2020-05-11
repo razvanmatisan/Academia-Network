@@ -1,0 +1,50 @@
+{
+    "id": "1575882803",
+    "title": "ParaDisEO-Based Design of Parallel and Distributed Evolutionary Algorithms",
+    "venue": "International Conference on Artificial Evolution (Evolution Artificielle)",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Sebastien Cahon",
+            "id": "1442656177",
+            "org": "Universite des Sciences et Technologies de Lille"
+        },
+        {
+            "name": "Nordine Melab",
+            "id": "2468558974",
+            "org": "Universite des Sciences et Technologies de Lille"
+        },
+        {
+            "name": "El-Ghazali Talbi",
+            "id": "2285658467",
+            "org": "Universite des Sciences et Technologies de Lille"
+        },
+        {
+            "name": "Marc Schoenauer",
+            "id": "89424581",
+            "org": "Projet Fractales - INRIA Rocquencourt"
+        }
+    ],
+    "fields_of_study": [
+        "Metaheuristic",
+        "Distributed shared memory",
+        "Robustness (computer science)",
+        "Paradiseo",
+        "Data diffusion machine",
+        "Distributed memory",
+        "Distributed computing",
+        "Theoretical computer science",
+        "Uniform memory access",
+        "Computer science",
+        "Shared memory"
+    ],
+    "references": [
+        "1563077463",
+        "1602035874",
+        "2004593585",
+        "2111996486",
+        "2150834164",
+        "2152526229",
+        "2166348281"
+    ]
+}

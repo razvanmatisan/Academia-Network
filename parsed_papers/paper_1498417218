@@ -1,0 +1,35 @@
+{
+    "id": "1498417218",
+    "title": "Using the semantic web for e-science: inspiration, incubation, irritation",
+    "venue": "international semantic web conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Carole A. Goble",
+            "id": "2122310831",
+            "org": "School of Computer Science, The University of Manchester, Manchester, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Paradigm shift",
+        "Pooling",
+        "Data mining",
+        "Semantic Web",
+        "Raw data",
+        "E-commerce",
+        "Management science",
+        "Scientific communication",
+        "Computer science",
+        "Electronic trading",
+        "e-Science",
+        "Knowledge management"
+    ],
+    "references": [
+        "1482031469",
+        "1484347389",
+        "1603776115",
+        "2127789342",
+        "2170185828"
+    ]
+}

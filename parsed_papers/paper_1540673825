@@ -1,0 +1,37 @@
+{
+    "id": "1540673825",
+    "title": "Converting Association Rules into Natural Language -- an Attempt",
+    "venue": "intelligent information systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Petr Strossa",
+            "id": "2260977359",
+            "org": "University of Economics"
+        },
+        {
+            "name": "Jan Rauch",
+            "id": "2142226606",
+            "org": "University of Economics"
+        }
+    ],
+    "fields_of_study": [
+        "Verb",
+        "Natural language",
+        "Data mining",
+        "Machine learning",
+        "Noun phrase",
+        "Artificial intelligence",
+        "Natural language processing",
+        "Association rule learning",
+        "Grammatical gender",
+        "Computer science",
+        "Expression (mathematics)",
+        "Language model",
+        "Czech"
+    ],
+    "references": [
+        "1553696291",
+        "1738204237"
+    ]
+}

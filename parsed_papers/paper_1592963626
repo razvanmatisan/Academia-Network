@@ -1,0 +1,37 @@
+{
+    "id": "1592963626",
+    "title": "Combining Sets with Integers",
+    "venue": "frontiers of combining systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Calogero G. Zarba",
+            "id": "2105774389",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Calogero G. Zarba",
+            "id": "2105774389",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Gaussian integer",
+        "Algorithm",
+        "Cardinality",
+        "Cardinal number",
+        "Quadratic integer",
+        "Integer",
+        "Operator (computer programming)",
+        "Venn diagram",
+        "Constraint satisfaction",
+        "Mathematics"
+    ],
+    "references": [
+        "1559664284",
+        "1860564893",
+        "2164778826",
+        "2167197601"
+    ]
+}

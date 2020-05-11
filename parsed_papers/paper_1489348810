@@ -1,0 +1,39 @@
+{
+    "id": "1489348810",
+    "title": "Hierarchical decision lists for word sense disambiguation",
+    "venue": "Computers and The Humanities",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "David Yarowsky",
+            "id": "2042800127",
+            "org": "Dept. of Computer Science and Center for Language and Speech Processing, Johns Hopkins University, Baltimore, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Artificial intelligence",
+        "Computer science",
+        "Branch",
+        "Linguistics",
+        "Hierarchy",
+        "Word-sense disambiguation",
+        "Decision list",
+        "Feature extraction",
+        "Decision tree",
+        "Computational linguistics",
+        "Fragmentation (computing)"
+    ],
+    "references": [
+        "1648417313",
+        "1795234945",
+        "1977182536",
+        "2101210369",
+        "2106894950",
+        "2107223240",
+        "2156202195",
+        "2398845498",
+        "2428981601",
+        "2785349534"
+    ]
+}

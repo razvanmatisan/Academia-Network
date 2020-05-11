@@ -1,0 +1,52 @@
+{
+    "id": "1539597702",
+    "title": "Dynamic Games to Assess Network Value and Performance",
+    "venue": "australasian joint conference on artificial intelligence",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Gregory Calbert",
+            "id": "2227805018",
+            "org": "Defence Science and Technology Organisation"
+        },
+        {
+            "name": "Peter Smet",
+            "id": "2238155986",
+            "org": "Defence Science and Technology Organisation"
+        },
+        {
+            "name": "Jason B. Scholz",
+            "id": "2157163918",
+            "org": "Defence Science and Technology Organisation"
+        },
+        {
+            "name": "Hing-Wah Kwok",
+            "id": "2150935389",
+            "org": "Defence Science and Technology Organisation"
+        }
+    ],
+    "fields_of_study": [
+        "Sequential game",
+        "Random graph",
+        "Vertex (geometry)",
+        "Network analysis",
+        "Distributed computing",
+        "Temporal difference learning",
+        "Network effect",
+        "Machine learning",
+        "Network topology",
+        "Computer science",
+        "Evaluation function",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "57024813",
+        "103174825",
+        "2000050888",
+        "2064892860",
+        "2100677568",
+        "2121863487",
+        "2124637492",
+        "2611515161"
+    ]
+}

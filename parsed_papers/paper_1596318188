@@ -1,0 +1,38 @@
+{
+    "id": "1596318188",
+    "title": "Path-Tracking Control of Non-holonomic Car-Like Robot with Reinforcement Learning",
+    "venue": "robot soccer world cup",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Jacky Baltes",
+            "id": "2125800426",
+            "org": "University of Auckland"
+        },
+        {
+            "name": "Yuming Lin",
+            "id": "2704261911",
+            "org": "University of Auckland"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Simulation",
+        "Learning classifier system",
+        "Robot learning",
+        "Unsupervised learning",
+        "Temporal difference learning",
+        "Reinforcement learning",
+        "Reinforcement",
+        "Holonomic",
+        "Control theory",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "2044348504",
+        "2113913482",
+        "2138051644",
+        "2154549708"
+    ]
+}

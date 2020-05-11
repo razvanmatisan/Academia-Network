@@ -1,0 +1,38 @@
+{
+    "id": "1562165562",
+    "title": "Transforming UMM Business Collaboration Models to BPEL",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Birgit Hofreiter",
+            "id": "2255666586",
+            "org": "University of Vienna"
+        },
+        {
+            "name": "Christian Huemer",
+            "id": "111259810",
+            "org": "Digital MemoryEngineering"
+        }
+    ],
+    "fields_of_study": [
+        "Process management",
+        "Business process",
+        "Web service",
+        "Database",
+        "Business Process Execution Language",
+        "Orchestration (computing)",
+        "Business Process Model and Notation",
+        "Distributed computing",
+        "Business model",
+        "ebXML",
+        "Computer science",
+        "Design process"
+    ],
+    "references": [
+        "179192423",
+        "1545127780",
+        "1999007206",
+        "2105245883"
+    ]
+}

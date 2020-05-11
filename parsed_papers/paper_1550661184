@@ -1,0 +1,46 @@
+{
+    "id": "1550661184",
+    "title": "Distributed testing of multi input/output transition system",
+    "venue": "software engineering and formal methods",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Zhongjie Li",
+            "id": "2129649020",
+            "org": "Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China"
+        },
+        {
+            "name": "Xia Yin",
+            "id": "2138989563",
+            "org": "Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China"
+        },
+        {
+            "name": "Jianping Wu",
+            "id": "2102111143",
+            "org": "Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China"
+        }
+    ],
+    "fields_of_study": [
+        "Test Management Approach",
+        "Computer science",
+        "Programming language",
+        "Theoretical computer science",
+        "Random testing",
+        "Non-regression testing",
+        "System integration testing",
+        "White-box testing",
+        "Orthogonal array testing",
+        "Dynamic testing",
+        "Distributed computing",
+        "Real-time computing",
+        "Data-driven testing"
+    ],
+    "references": [
+        "1498203526",
+        "1518246002",
+        "1539210478",
+        "1591004135",
+        "2063385554",
+        "2157144873"
+    ]
+}

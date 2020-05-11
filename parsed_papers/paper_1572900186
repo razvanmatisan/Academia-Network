@@ -1,0 +1,51 @@
+{
+    "id": "1572900186",
+    "title": "Dissecting 3G uplink delay by measuring in an operational HSPA network",
+    "venue": "passive and active network measurement",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Markus Laner",
+            "id": "2167171692",
+            "org": "Vienna University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Philipp Svoboda",
+            "id": "2110800983",
+            "org": "Vienna University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Eduard Hasenleithner",
+            "id": "2377584681",
+            "org": "Telecommunications Research Center Vienna, ftw, Austria#TAB#"
+        },
+        {
+            "name": "Markus Rupp",
+            "id": "2151561620",
+            "org": "Vienna University of Technology, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "End-to-end delay",
+        "Asynchronous Transfer Mode",
+        "Computer network",
+        "Latency (engineering)",
+        "Throughput",
+        "NodeB",
+        "Network packet",
+        "Computer science",
+        "Latency (engineering)",
+        "Network delay"
+    ],
+    "references": [
+        "1541065594",
+        "1651720548",
+        "1749947443",
+        "2010490522",
+        "2091285583",
+        "2130737144",
+        "2148673581",
+        "2159623399"
+    ]
+}

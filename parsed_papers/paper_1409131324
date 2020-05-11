@@ -1,0 +1,38 @@
+{
+    "id": "1409131324",
+    "title": "Weighted graph algorithms with Python",
+    "venue": "arXiv: Data Structures and Algorithms",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "A. Kapanowski",
+            "id": "1566493918",
+            "org": "Jagiellonian University"
+        }
+    ],
+    "fields_of_study": [
+        "Yen's algorithm",
+        "Suurballe's algorithm",
+        "Combinatorics",
+        "K shortest path routing",
+        "Algorithm",
+        "Widest path problem",
+        "Johnson's algorithm",
+        "Reverse-delete algorithm",
+        "Theoretical computer science",
+        "Pathfinding",
+        "Machine learning",
+        "Shortest Path Faster Algorithm",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1485262373",
+        "1644926921",
+        "1972786931",
+        "1977750882",
+        "1996805805",
+        "2013787771",
+        "2160365857"
+    ]
+}

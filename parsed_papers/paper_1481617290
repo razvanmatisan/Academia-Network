@@ -1,0 +1,40 @@
+{
+    "id": "1481617290",
+    "title": "On the Relative Expressive Power of Contextual Grammars with Maximal and Depth-First Derivations",
+    "venue": "international colloquium on theoretical aspects of computing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Lakshmanan Kuppusamy",
+            "id": "2396564681",
+            "org": "ALPAGE, INRIA-Rocquencourt Le Chesnay, France 78153#TAB#"
+        },
+        {
+            "name": "Kamala Krithivasan",
+            "id": "2067375957",
+            "org": "Department of Computer Science and Engineering, Indian Institute of Technology Madras, Chennai, India 600 036#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Tree-adjoining grammar",
+        "Phrase structure grammar",
+        "Cone (formal languages)",
+        "Natural language",
+        "Discrete mathematics",
+        "Abstract family of languages",
+        "Indexed language",
+        "Natural language processing",
+        "Context-sensitive grammar",
+        "L-attributed grammar",
+        "Mathematics",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1493423606",
+        "1968777925",
+        "1974130087",
+        "2148109221",
+        "2401336460",
+        "2408542806"
+    ]
+}

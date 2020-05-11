@@ -1,0 +1,49 @@
+{
+    "id": "1524694174",
+    "title": "Building a Decision Cluster Classification Model for High Dimensional Data by a Variable Weighting k-Means Method",
+    "venue": "australasian joint conference on artificial intelligence",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Yan Li",
+            "id": "2670082672",
+            "org": "Department of Computing, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China#TAB#"
+        },
+        {
+            "name": "Edward Hung",
+            "id": "2278353976",
+            "org": "Department of Computing, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China#TAB#"
+        },
+        {
+            "name": "Korris Fu-Lai Chung",
+            "id": "2255856540",
+            "org": "Department of Computing, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, China#TAB#"
+        },
+        {
+            "name": "Joshua Zhexue Huang",
+            "id": "2111159692",
+            "org": "E-Business Technology Institute, The University of Hong Kong, Hong Kong, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Mathematics",
+        "Support vector machine",
+        "Cluster analysis",
+        "Clustering high-dimensional data",
+        "Data set",
+        "Decision tree",
+        "k-means clustering",
+        "Decision tree learning",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Disjoint sets"
+    ],
+    "references": [
+        "1516320211",
+        "1582321261",
+        "2079726601",
+        "2117688906",
+        "2120887445"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "1509672737",
+    "title": "Real-Time Inverse Kinematics through Constrained Dynamics",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Wen Tang",
+            "id": "2563555128",
+            "org": "University of Bradford"
+        },
+        {
+            "name": "Marc Cavazza",
+            "id": "1974307639",
+            "org": "University of Bradford"
+        },
+        {
+            "name": "Dale Mountain",
+            "id": "2180978333",
+            "org": "University of Bradford"
+        },
+        {
+            "name": "Rae A. Earnshaw",
+            "id": "2465810700",
+            "org": "University of Bradford"
+        }
+    ],
+    "fields_of_study": [
+        "Shake",
+        "Computation",
+        "Computer animation",
+        "Mathematical optimization",
+        "Convergence (routing)",
+        "Real-time operating system",
+        "Inverse kinematics",
+        "Motion estimation",
+        "Distributed computing",
+        "Computer vision",
+        "Motion capture",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1507699974",
+        "1994782559",
+        "2064961624",
+        "2113574056",
+        "2139038136",
+        "2162324874"
+    ]
+}

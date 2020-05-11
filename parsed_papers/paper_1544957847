@@ -1,0 +1,42 @@
+{
+    "id": "1544957847",
+    "title": "Non-linear Dimensionality Reduction by Locally Linear Isomaps",
+    "venue": "international conference on neural information processing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ashutosh Saxena",
+            "id": "2139397739",
+            "org": "Indian Institute of Technology Kanpur"
+        },
+        {
+            "name": "Abhinav Gupta",
+            "id": "2099263982",
+            "org": "Indian Institute of Technology Kanpur"
+        },
+        {
+            "name": "Amitabha Mukerjee",
+            "id": "2124033236",
+            "org": "Indian Institute of Technology Kanpur"
+        }
+    ],
+    "fields_of_study": [
+        "Nonlinear dimensionality reduction",
+        "Machine learning",
+        "Artificial intelligence",
+        "Clustering high-dimensional data",
+        "Pattern recognition",
+        "Manifold",
+        "Embedding",
+        "Isomap",
+        "Sparse matrix",
+        "Nonlinear system",
+        "Mathematics",
+        "Dimensionality reduction"
+    ],
+    "references": [
+        "2123977795",
+        "2156287497",
+        "2156718197"
+    ]
+}

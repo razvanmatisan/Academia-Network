@@ -1,0 +1,38 @@
+{
+    "id": "1566246545",
+    "title": "Rule-Based Generation of XML DTDs from UML Class Diagrams",
+    "venue": "advances in databases and information systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Thomas Kudrass",
+            "id": "227511100",
+            "org": "Leipzig University of Applied Sciences"
+        },
+        {
+            "name": "Tobias Krumbein",
+            "id": "2406895432",
+            "org": "Leipzig University of Applied Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Computer science",
+        "Database",
+        "Streaming XML",
+        "Well-formed document",
+        "XML schema",
+        "XML Schema Editor",
+        "Applications of UML",
+        "XML validation",
+        "Document Structure Description",
+        "Simple API for XML"
+    ],
+    "references": [
+        "96904004",
+        "1506831386",
+        "1574377951",
+        "1596809650",
+        "2085027931"
+    ]
+}

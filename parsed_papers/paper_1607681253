@@ -1,0 +1,41 @@
+{
+    "id": "1607681253",
+    "title": "Generic Programming for Parallel Mesh Problems",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Jens Gerlach",
+            "id": "2311761007",
+            "org": "GMD-FIRST"
+        },
+        {
+            "name": "Mitsuhisa Sato",
+            "id": "2434321585",
+            "org": "Real World Computing Partnership"
+        }
+    ],
+    "fields_of_study": [
+        "Computational science",
+        "Discrete mathematics",
+        "Sparse matrix",
+        "Mesh generation",
+        "Numerical analysis",
+        "Standard Template Library",
+        "Generic programming",
+        "Theoretical computer science",
+        "Computer science",
+        "Has generic",
+        "Finite element method",
+        "Supercomputer"
+    ],
+    "references": [
+        "1530488840",
+        "1603868614",
+        "1611057458",
+        "1821569073",
+        "1925894675",
+        "2126569541",
+        "2611598995"
+    ]
+}

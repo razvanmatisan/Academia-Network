@@ -1,0 +1,34 @@
+{
+    "id": "1545485595",
+    "title": "A Low-Risk Approach to Mobile Robot Path Planning",
+    "venue": "industrial and engineering applications of artificial intelligence and expert systems",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Maarja Kruusmaa",
+            "id": "2562814873",
+            "org": "Chalmers University of Technology"
+        },
+        {
+            "name": "Bertil Svensson",
+            "id": "2779592713",
+            "org": "Halmstad University"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Motion planning",
+        "Expert system",
+        "Mobile robot",
+        "Computational geometry",
+        "Simulation",
+        "Case-based reasoning",
+        "Any-angle path planning"
+    ],
+    "references": [
+        "1554449972",
+        "1850492501",
+        "2135540081",
+        "2171553064"
+    ]
+}

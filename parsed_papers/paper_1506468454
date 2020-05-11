@@ -1,0 +1,35 @@
+{
+    "id": "1506468454",
+    "title": "Knowledge-based Mobility Management in All-mobile Network",
+    "venue": "international conference on knowledge-based and intelligent information and engineering systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Ignac Lovrek",
+            "id": "232291187",
+            "org": "University of Zagreb"
+        },
+        {
+            "name": "Vjekoslav Sinkovic",
+            "id": "686447",
+            "org": "University of Zagreb"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile agent",
+        "Network management station",
+        "Knowledge base",
+        "Cellular network",
+        "Knowledge representation and reasoning",
+        "Software agent",
+        "Mobility model",
+        "Distributed computing",
+        "Mobility management",
+        "Computer science"
+    ],
+    "references": [
+        "1566658900",
+        "2104650334",
+        "2116307551"
+    ]
+}

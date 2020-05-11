@@ -1,0 +1,35 @@
+{
+    "id": "1512452270",
+    "title": "Agent System for Load Monitoring of the Heterogeneous Computer Network",
+    "venue": "international conference on parallel processing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Marcin Lepiarz",
+            "id": "2502313450",
+            "org": "Jagiellonian University"
+        },
+        {
+            "name": "Zdzislaw Onderka",
+            "id": "2476746332",
+            "org": "Jagiellonian University"
+        }
+    ],
+    "fields_of_study": [
+        "Abstract machine",
+        "Common Object Request Broker Architecture",
+        "Parallel computing",
+        "Distributed computing",
+        "Computer science",
+        "Symmetric multiprocessor system",
+        "Java",
+        "Real-time computing",
+        "Computer network",
+        "Object-oriented programming",
+        "Heterogeneous network"
+    ],
+    "references": [
+        "2106172458",
+        "2179843754"
+    ]
+}

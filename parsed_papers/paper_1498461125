@@ -1,0 +1,39 @@
+{
+    "id": "1498461125",
+    "title": "Fixpoint Alternation and the Game Quantifier",
+    "venue": "computer science logic",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Julian C. Bradfield",
+            "id": "2130777246",
+            "org": "Aarhus University"
+        },
+        {
+            "name": "Julian C. Bradfield",
+            "id": "2130777246",
+            "org": "Aarhus University"
+        }
+    ],
+    "fields_of_study": [
+        "Modal m-calculus",
+        "Hierarchy",
+        "Discrete mathematics",
+        "Game theory",
+        "Combinatorics",
+        "Descriptive set theory",
+        "Difference hierarchy",
+        "Parity game",
+        "Fixed point",
+        "Analogy",
+        "Mathematics"
+    ],
+    "references": [
+        "1576516874",
+        "2076056225",
+        "2090634299",
+        "2093399617",
+        "2132638915",
+        "2168498451"
+    ]
+}

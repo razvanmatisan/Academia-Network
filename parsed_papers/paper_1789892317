@@ -1,0 +1,38 @@
+{
+    "id": "1789892317",
+    "title": "Biochemically-Inspired Emergent Computation",
+    "venue": "international conference on artificial immune systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Lidia Yamamoto",
+            "id": "2079566592",
+            "org": "University of Strasbourg"
+        },
+        {
+            "name": "Thomas Meyer",
+            "id": "2420623615",
+            "org": "University of Basel"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Computation",
+        "Machine learning",
+        "Software design",
+        "Software system",
+        "Top-down and bottom-up design",
+        "Computer science",
+        "Theoretical computer science",
+        "Complex system",
+        "Artificial chemistry"
+    ],
+    "references": [
+        "1521620438",
+        "1596559466",
+        "1605992527",
+        "1654663857",
+        "1765868291",
+        "2145600675"
+    ]
+}

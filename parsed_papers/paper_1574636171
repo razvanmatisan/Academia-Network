@@ -1,0 +1,37 @@
+{
+    "id": "1574636171",
+    "title": "A randomized online learning algorithm for better variance control",
+    "venue": "conference on learning theory",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jean-Yves Audibert",
+            "id": "2111596939",
+            "org": "CERTIS, Ecole des Ponts, Marne-la-Vallee, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Statistics",
+        "Step function",
+        "Model selection",
+        "Estimator",
+        "Statistical learning theory",
+        "Infimum and supremum",
+        "Probabilistic logic",
+        "Randomized algorithm",
+        "Least squares",
+        "Algorithm",
+        "Mathematics"
+    ],
+    "references": [
+        "1495813543",
+        "1979675141",
+        "2009487047",
+        "2112172616",
+        "2130797782",
+        "2147632820",
+        "2162243185",
+        "2294584261"
+    ]
+}

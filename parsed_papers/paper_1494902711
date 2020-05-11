@@ -1,0 +1,42 @@
+{
+    "id": "1494902711",
+    "title": "On evaluating decision procedures for modal logic",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Ullrich Hustadt",
+            "id": "48057563",
+            "org": "Max-Planck-Institut fur Informatik, Saarbrucken, Germany#TAB#"
+        },
+        {
+            "name": "Renate A. Schmidt",
+            "id": "2102617764",
+            "org": "Max-Planck-Institut fur Informatik, Saarbrucken, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Modal m-calculus",
+        "Discrete mathematics",
+        "Artificial intelligence",
+        "Machine learning",
+        "Modal logic",
+        "Resolution (logic)",
+        "Dynamic logic (modal logic)",
+        "Satisfiability",
+        "Zeroth-order logic",
+        "Multimodal logic",
+        "Automated theorem proving",
+        "Algorithm",
+        "Mathematics"
+    ],
+    "references": [
+        "4983232",
+        "1512262469",
+        "1514356467",
+        "1543601803",
+        "1605860778",
+        "2091307959",
+        "2162361330"
+    ]
+}

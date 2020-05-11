@@ -1,0 +1,33 @@
+{
+    "id": "1670558497",
+    "title": "On the Design of S-Boxes",
+    "venue": "international cryptology conference",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "A. F. Webster",
+            "id": "2718974397",
+            "org": "Queen's University"
+        },
+        {
+            "name": "Stafford E. Tavares",
+            "id": "2228390319",
+            "org": "Queen's University"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext",
+        "Completeness (statistics)",
+        "Discrete mathematics",
+        "Computer science",
+        "Avalanche effect",
+        "Iterative design",
+        "Plaintext",
+        "Boolean expression",
+        "Cryptography",
+        "Expression (mathematics)"
+    ],
+    "references": [
+        "1965888001"
+    ]
+}

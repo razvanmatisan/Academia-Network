@@ -1,0 +1,46 @@
+{
+    "id": "1579270891",
+    "title": "Indirect reference counting: a distributed garbage collection algorithm",
+    "venue": "international conference on parallel architectures and languages europe",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Jose M. Piquer",
+            "id": "2645613001",
+            "org": "INRIA - Ecole Polytechnique"
+        }
+    ],
+    "fields_of_study": [
+        "Reference counting",
+        "Weak reference",
+        "Garbage",
+        "Synchronization",
+        "Manual memory management",
+        "Pointer (computer programming)",
+        "Hazard pointer",
+        "Real-time computing",
+        "Garbage collection",
+        "Distributed computing",
+        "Algorithm",
+        "Computer science"
+    ],
+    "references": [
+        "1526569681",
+        "1569153617",
+        "1876014853",
+        "1965601529",
+        "1973501242",
+        "1986158222",
+        "1988638332",
+        "2006518562",
+        "2013173096",
+        "2021856974",
+        "2046866979",
+        "2062005378",
+        "2068504545",
+        "2073671722",
+        "2104055277",
+        "2118098427",
+        "2131053137"
+    ]
+}

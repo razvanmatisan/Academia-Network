@@ -1,0 +1,40 @@
+{
+    "id": "1532544102",
+    "title": "Approximating maximal cliques in ad-hoc networks",
+    "venue": "personal, indoor and mobile radio communications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Rajarshi Gupta",
+            "id": "2134301840",
+            "org": "Dept. of EECS, California Univ., Berkeley, CA, USA"
+        },
+        {
+            "name": "Jean Walrand",
+            "id": "328007018",
+            "org": "Dept. of EECS, California Univ., Berkeley, CA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Wireless ad hoc network",
+        "Heuristic (computer science)",
+        "Optimized Link State Routing Protocol",
+        "Power graph analysis",
+        "Ad hoc wireless distribution service",
+        "Stochastic geometry models of wireless networks",
+        "Graph theory",
+        "Clique",
+        "Distributed computing",
+        "Computer science"
+    ],
+    "references": [
+        "1656617460",
+        "1979412257",
+        "2061964713",
+        "2089417393",
+        "2109164986",
+        "2116007667",
+        "2137775453",
+        "2435603672"
+    ]
+}

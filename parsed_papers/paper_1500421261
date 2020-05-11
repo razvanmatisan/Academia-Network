@@ -1,0 +1,39 @@
+{
+    "id": "1500421261",
+    "title": "A multicast push caching system over a UDLR satellite link",
+    "venue": "symposium on applications and the internet",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Patcharee Basu",
+            "id": "2310789259",
+            "org": "Internet Res. Lab. (IRL), Asian Inst. of Technol. (AIT), Klong Luang, Thailand"
+        },
+        {
+            "name": "Kanchana Kanchanasut",
+            "id": "350683885",
+            "org": "Internet Res. Lab. (IRL), Asian Inst. of Technol. (AIT), Klong Luang, Thailand"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "Computer science",
+        "Routing protocol",
+        "Distributed computing",
+        "Multicast",
+        "Cache",
+        "Internet access",
+        "Web server",
+        "Push technology",
+        "The Internet",
+        "Reliable multicast"
+    ],
+    "references": [
+        "1527961683",
+        "1832220559",
+        "2122692524",
+        "2134330814",
+        "2167444018",
+        "2771072261"
+    ]
+}

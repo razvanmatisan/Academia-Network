@@ -1,0 +1,32 @@
+{
+    "id": "1487545809",
+    "title": "Using Mobile Devices for User Authentication",
+    "venue": "Computer Networks and Isdn Systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jacek Lach",
+            "id": "2723200647",
+            "org": "Silesian Technical University"
+        }
+    ],
+    "fields_of_study": [
+        "Generic Bootstrapping Architecture",
+        "Computer network",
+        "Chip Authentication Program",
+        "Challenge-Handshake Authentication Protocol",
+        "Computer science",
+        "Lightweight Extensible Authentication Protocol",
+        "Data Authentication Algorithm",
+        "Challenge-response authentication",
+        "Email authentication",
+        "Authentication protocol"
+    ],
+    "references": [
+        "1596075621",
+        "1660562555",
+        "2061956102",
+        "2063239745",
+        "2149929743"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1489791535",
+    "title": "Evaluation of distance measures for multi-class classification in binary SVM decision tree",
+    "venue": "international conference on artificial intelligence and soft computing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Gjorgji Madzarov",
+            "id": "2269727907",
+            "org": "Department of Computer Science and Engineering, Ss. Cyril and Methodius University, Skopje, Macedonia#TAB#"
+        },
+        {
+            "name": "Dejan Gjorgjevikj",
+            "id": "123645308",
+            "org": "Department of Computer Science and Engineering, Ss. Cyril and Methodius University, Skopje, Macedonia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Cluster analysis",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Support vector machine",
+        "Computer science",
+        "Decision tree",
+        "Mahalanobis distance",
+        "Binary tree",
+        "Architecture",
+        "Incremental decision tree",
+        "Multiclass classification"
+    ],
+    "references": [
+        "1545265859",
+        "1550629956",
+        "2011621427",
+        "2139212933",
+        "2148603752"
+    ]
+}

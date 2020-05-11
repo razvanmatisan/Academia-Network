@@ -1,0 +1,46 @@
+{
+    "id": "1536582665",
+    "title": "A Rule-Based Similarity Measure",
+    "venue": "EWCBR '93 Selected papers from the First European Workshop on Topics in Case-Based Reasoning",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Michele Sebag",
+            "id": "2798382716",
+            "org": "LMS-CNRS URA 317, Ecole Polytechnique"
+        },
+        {
+            "name": "Michele Sebag",
+            "id": "2798382716",
+            "org": "LMS-CNRS URA 317, Ecole Polytechnique"
+        },
+        {
+            "name": "Marc Schoenauer",
+            "id": "89424581",
+            "org": "CMAP-CNRS URA 756, Ecole Polytechnique"
+        }
+    ],
+    "fields_of_study": [
+        "Similarity measure",
+        "Structural similarity",
+        "Rule-based system",
+        "Artificial intelligence",
+        "Semantic similarity",
+        "Inductive logic programming",
+        "Mathematics",
+        "Similarity (network science)",
+        "Pattern recognition",
+        "Normalized compression distance",
+        "Problem domain"
+    ],
+    "references": [
+        "193042242",
+        "1483710639",
+        "1510303370",
+        "1590529048",
+        "1596447449",
+        "1975420837",
+        "1997493343",
+        "2026161499"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1583597026",
+    "title": "A Term Pattern-Match Compiler Inspired by Finite Automata Theory",
+    "venue": "compiler construction",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Mikael Pettersson",
+            "id": "2299249489",
+            "org": "Department of Computer Science, Linkoping University, Sweden"
+        }
+    ],
+    "fields_of_study": [
+        "Krohn-Rhodes theory",
+        "Discrete mathematics",
+        "Computer science",
+        "DFA minimization",
+        "Quantum finite automata",
+        "Nested word",
+        "Mobile automaton",
+        "o-automaton",
+        "Theoretical computer science",
+        "Continuous spatial automaton",
+        "Automata theory"
+    ],
+    "references": [
+        "1501891810",
+        "1543641760",
+        "1973165589",
+        "1979240050",
+        "2026557621",
+        "2043687297",
+        "2057455870",
+        "2069652163",
+        "2133979298",
+        "2150750971",
+        "2421250929"
+    ]
+}

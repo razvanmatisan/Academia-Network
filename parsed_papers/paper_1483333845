@@ -1,0 +1,51 @@
+{
+    "id": "1483333845",
+    "title": "Spatial Indexing with a Scale Dimension",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Mike HOrhammer",
+            "id": "2287766183",
+            "org": "University of California"
+        },
+        {
+            "name": "Michael Freeston",
+            "id": "2082709563",
+            "org": "University of California"
+        },
+        {
+            "name": "Michael Freeston",
+            "id": "2082709563",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Discrete mathematics",
+        "Range query (data structures)",
+        "Result set",
+        "Query optimization",
+        "Spatial database",
+        "Scalability",
+        "Sargable",
+        "Artificial intelligence",
+        "Indexation",
+        "Spatial query",
+        "Pattern recognition",
+        "Mathematics"
+    ],
+    "references": [
+        "1530789015",
+        "1541475832",
+        "1559987010",
+        "1590551453",
+        "2039785630",
+        "2045195333",
+        "2062618908",
+        "2075136957",
+        "2133542527",
+        "2151229814",
+        "2151521932"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "1536506918",
+    "title": "Granules and reasoning based on granular computing",
+    "venue": "industrial and engineering applications of artificial intelligence and expert systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Qing Liu",
+            "id": "2668121192",
+            "org": "Department of Computer Science, Nanchang University, Nanchang#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Artificial intelligence",
+        "Expert system",
+        "Mathematical proof",
+        "Machine learning",
+        "First-order logic",
+        "Classical logic",
+        "Granular computing",
+        "Decision rule",
+        "Closeness",
+        "Set theory",
+        "Mathematics"
+    ],
+    "references": [
+        "1480293502",
+        "1483074167",
+        "1554138700"
+    ]
+}

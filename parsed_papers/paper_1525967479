@@ -1,0 +1,33 @@
+{
+    "id": "1525967479",
+    "title": "How unique is your web browser",
+    "venue": "privacy enhancing technologies",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Peter Eckersley",
+            "id": "2522074568",
+            "org": "Electronic Frontier Foundation#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Heuristic",
+        "Computer security",
+        "Internet privacy",
+        "Browser security",
+        "Fingerprint",
+        "Java",
+        "World Wide Web",
+        "Computer science",
+        "Countermeasure",
+        "User agent"
+    ],
+    "references": [
+        "2069434875",
+        "2104599106",
+        "2124695272",
+        "2127133592",
+        "2135930857",
+        "2162763684"
+    ]
+}

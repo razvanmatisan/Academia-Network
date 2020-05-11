@@ -1,0 +1,26 @@
+{
+    "id": "119032486",
+    "title": "Modeling online presence",
+    "venue": "international semantic web conference",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Milan Stankovic",
+            "id": "2591363137",
+            "org": "Universite Paris-Sud XI, Orsay Cedex#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ontology",
+        "Online presence management",
+        "Social web",
+        "Interoperability",
+        "Data mining",
+        "World Wide Web",
+        "Computer science",
+        "Upper ontology"
+    ],
+    "references": [
+        "2109873539"
+    ]
+}

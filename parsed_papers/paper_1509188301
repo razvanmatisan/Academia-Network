@@ -1,0 +1,46 @@
+{
+    "id": "1509188301",
+    "title": "A virtual spanner for efficient face routing in multihop wireless networks",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Hector Tejeda",
+            "id": "2154768935",
+            "org": "Escuela de Ciencias Fisico-Matematicas, Universidad Michoacana, Mexico#TAB#"
+        },
+        {
+            "name": "Edgar Chavez",
+            "id": "2107841943",
+            "org": "Escuela de Ciencias Fisico-Matematicas, Universidad Michoacana, Mexico#TAB#"
+        },
+        {
+            "name": "Juan Antonio Pastor Sanchez",
+            "id": "2114824715",
+            "org": "Escuela de Ciencias Fisico-Matematicas, Universidad Michoacana, Mexico#TAB#"
+        },
+        {
+            "name": "Pedro M. Ruiz",
+            "id": "2101432526",
+            "org": "Facultad de Informatica, University of Murcia, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Link-state routing protocol",
+        "Static routing",
+        "Equal-cost multi-path routing",
+        "Distributed computing",
+        "Policy-based routing",
+        "Geographic routing",
+        "Wireless Routing Protocol",
+        "Dynamic Source Routing",
+        "Computer network",
+        "Computer science",
+        "Destination-Sequenced Distance Vector routing"
+    ],
+    "references": [
+        "1550444125",
+        "2063295648",
+        "2156689181"
+    ]
+}

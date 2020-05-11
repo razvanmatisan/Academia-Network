@@ -1,0 +1,58 @@
+{
+    "id": "1534252806",
+    "title": "Towards an access control scheme for accessing flows in SDN",
+    "venue": "ieee conference on network softwarization",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Felix Klaedtke",
+            "id": "2804137848",
+            "org": "NEC Laboratories Europe, Heidelberg, Germany"
+        },
+        {
+            "name": "Ghassan Karame",
+            "id": "2804921904",
+            "org": "NEC Laboratories Europe, Heidelberg, Germany"
+        },
+        {
+            "name": "Roberto Bifulco",
+            "id": "2803568778",
+            "org": "NEC Laboratories Europe, Heidelberg, Germany"
+        },
+        {
+            "name": "Heng Cui",
+            "id": "2231251517",
+            "org": "NEC Laboratories Europe, Heidelberg, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Software-defined networking",
+        "Network Admission Control",
+        "Network simulation",
+        "Network Access Device",
+        "Networking hardware",
+        "Distributed computing",
+        "Network security",
+        "Computer science",
+        "Network Access Control",
+        "Computer network",
+        "Intelligent computer network"
+    ],
+    "references": [
+        "80075259",
+        "158224344",
+        "1675033504",
+        "2016334899",
+        "2022758041",
+        "2071187149",
+        "2089939717",
+        "2091846236",
+        "2122695394",
+        "2126822952",
+        "2137655008",
+        "2137845741",
+        "2138230945",
+        "2147118406",
+        "2166195138"
+    ]
+}

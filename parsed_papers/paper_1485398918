@@ -1,0 +1,47 @@
+{
+    "id": "1485398918",
+    "title": "Local learning algorithm for markov blanket discovery",
+    "venue": "australasian joint conference on artificial intelligence",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Shunkai Fu",
+            "id": "2105134607",
+            "org": "Ecole Polytechnique de Montreal, Montreal, Quebec, Canada#TAB#"
+        },
+        {
+            "name": "Michel C. Desmarais",
+            "id": "848380144",
+            "org": "Ecole Polytechnique de Montreal, Montreal, Quebec, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Markov model",
+        "Scalability",
+        "Feature selection",
+        "Machine learning",
+        "Markov blanket",
+        "Variable-order Markov model",
+        "Algorithm",
+        "Pattern recognition",
+        "Bayesian network",
+        "Markov chain",
+        "Computer science",
+        "Artificial intelligence",
+        "Data efficiency"
+    ],
+    "references": [
+        "1817561967",
+        "1849729440",
+        "1943768448",
+        "1980452149",
+        "1983690667",
+        "2013374740",
+        "2031779765",
+        "2121273346",
+        "2129564794",
+        "2159080219",
+        "2161205483",
+        "2170653744"
+    ]
+}

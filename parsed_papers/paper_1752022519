@@ -1,0 +1,41 @@
+{
+    "id": "1752022519",
+    "title": "GUIDELINES FOR A DYNAMIC ONTOLOGY - Integrating Tools of Evolution and Versioning in Ontology",
+    "venue": "international joint conference on knowledge discovery, knowledge engineering and knowledge management",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Perrine Pittet",
+            "id": "2122402170",
+            "org": "Le2i"
+        },
+        {
+            "name": "Christophe Cruz",
+            "id": "2149697667",
+            "org": "Le2i"
+        },
+        {
+            "name": "Christophe Nicolle",
+            "id": "2172161245",
+            "org": "Le2i"
+        }
+    ],
+    "fields_of_study": [
+        "Ontology-based data integration",
+        "Systems engineering",
+        "Knowledge management",
+        "Data mining",
+        "Process ontology",
+        "Suggested Upper Merged Ontology",
+        "Open Biomedical Ontologies",
+        "Computer science",
+        "Ontology components",
+        "Upper ontology",
+        "Ontology (information science)",
+        "Ontology Inference Layer"
+    ],
+    "references": [
+        "1797930088",
+        "2020490061"
+    ]
+}

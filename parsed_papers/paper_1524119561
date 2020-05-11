@@ -1,0 +1,52 @@
+{
+    "id": "1524119561",
+    "title": "Fast covariance computation and dimensionality reduction for sub-window features in images",
+    "venue": "european conference on computer vision",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Vivek Kwatra",
+            "id": "325850747",
+            "org": "Google Research, Mountain View, CA#TAB#"
+        },
+        {
+            "name": "Mei Han",
+            "id": "2659045961",
+            "org": "Google Research, Mountain View, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Computer vision",
+        "Artificial intelligence",
+        "Covariance matrix",
+        "Principal component analysis",
+        "Image processing",
+        "Linear discriminant analysis",
+        "Feature vector",
+        "Covariance",
+        "Lookup table",
+        "Mathematics",
+        "Pattern recognition",
+        "Dimensionality reduction"
+    ],
+    "references": [
+        "1483791091",
+        "1485415000",
+        "1550463305",
+        "1967577110",
+        "1979849262",
+        "1981782146",
+        "1995246695",
+        "2083518538",
+        "2097073572",
+        "2097074225",
+        "2103824707",
+        "2105038642",
+        "2132549764",
+        "2137203830",
+        "2145072179",
+        "2155569237",
+        "2169945149"
+    ]
+}

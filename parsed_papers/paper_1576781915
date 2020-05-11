@@ -1,0 +1,49 @@
+{
+    "id": "1576781915",
+    "title": "Capturing Fuzziness and Uncertainty of Spatiotemporal Objects",
+    "venue": "advances in databases and information systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Dieter Pfoser",
+            "id": "2700400147",
+            "org": "Aalborg University"
+        },
+        {
+            "name": "Nectaria Tryfona",
+            "id": "306216343",
+            "org": "Aalborg University"
+        }
+    ],
+    "fields_of_study": [
+        "Data type",
+        "Computer science",
+        "Discrete mathematics",
+        "Machine learning",
+        "Data structure",
+        "Spatial database",
+        "Indeterminate",
+        "Fundamental modeling concepts",
+        "Computer vision",
+        "Artificial intelligence",
+        "Fuzzy control system"
+    ],
+    "references": [
+        "1499815887",
+        "1522504723",
+        "1531637736",
+        "1615716513",
+        "1766171436",
+        "1796251476",
+        "1849301553",
+        "1870618159",
+        "1978475335",
+        "1995940203",
+        "2032521898",
+        "2048119128",
+        "2064506658",
+        "2095303876",
+        "2155069154",
+        "2166183959"
+    ]
+}

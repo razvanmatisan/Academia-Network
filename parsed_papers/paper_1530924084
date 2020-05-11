@@ -1,0 +1,45 @@
+{
+    "id": "1530924084",
+    "title": "P-CBF: a parallel cell-based filtering scheme using a horizontal partitioning technique",
+    "venue": "high performance computing and communications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jae-Woo Chang",
+            "id": "2108746510",
+            "org": "Dept. of Computer Engineering, Chonbuk National University, Chonju, Chonbuk, South Korea#TAB#"
+        },
+        {
+            "name": "Young-Chang Kim",
+            "id": "2144855388",
+            "org": "Dept. of Computer Engineering, Chonbuk National University, Chonju, Chonbuk, South Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Clustering high-dimensional data",
+        "Range query (data structures)",
+        "Computational geometry",
+        "Distributed computing",
+        "Shared nothing architecture",
+        "Multimedia database",
+        "Theoretical computer science",
+        "Filter (signal processing)",
+        "Curse of dimensionality",
+        "Architecture",
+        "Computer science"
+    ],
+    "references": [
+        "155778206",
+        "1498488440",
+        "1541459201",
+        "1978447605",
+        "2000830496",
+        "2013689956",
+        "2025727959",
+        "2046144220",
+        "2049565975",
+        "2066799613",
+        "2104128006",
+        "2238624099"
+    ]
+}

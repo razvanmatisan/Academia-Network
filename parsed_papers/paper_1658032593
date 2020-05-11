@@ -1,0 +1,38 @@
+{
+    "id": "1658032593",
+    "title": "On the Decidability of Model Checking for Several u-calculi and Petri Nets",
+    "venue": "colloquium on trees in algebra and programming",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Javier Esparza",
+            "id": "2123449190",
+            "org": "University of Edinburgh"
+        }
+    ],
+    "fields_of_study": [
+        "Decidability",
+        "Discrete mathematics",
+        "Time complexity",
+        "Finite-state machine",
+        "Stochastic Petri net",
+        "Model checking",
+        "Petri net",
+        "Undecidable problem",
+        "Mathematics",
+        "Temporal logic"
+    ],
+    "references": [
+        "1514194201",
+        "1598641851",
+        "1964087553",
+        "1999917306",
+        "2033071128",
+        "2044858512",
+        "2053421425",
+        "2062995800",
+        "2106001218",
+        "2164003033",
+        "2295768847"
+    ]
+}

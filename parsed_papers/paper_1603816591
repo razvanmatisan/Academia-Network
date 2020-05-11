@@ -1,0 +1,42 @@
+{
+    "id": "1603816591",
+    "title": "Mixminion: Strong Anonymity for Financial Cryptography",
+    "venue": "financial cryptography",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Nick Mathewson",
+            "id": "2018283104",
+            "org": "The Free Haven Project"
+        },
+        {
+            "name": "Roger Dingledine",
+            "id": "2046591593",
+            "org": "The Free Haven Project"
+        }
+    ],
+    "fields_of_study": [
+        "Anonymity",
+        "Internet privacy",
+        "Computer science",
+        "Computer security",
+        "Distributed computing",
+        "Electronic funds transfer",
+        "Industrial espionage",
+        "Financial cryptography",
+        "Traffic analysis",
+        "Business relationship management",
+        "Confidentiality",
+        "Cryptography"
+    ],
+    "references": [
+        "1569777704",
+        "1655958391",
+        "1805249784",
+        "2060764506",
+        "2078813897",
+        "2103647628",
+        "2150248082",
+        "2163674653"
+    ]
+}

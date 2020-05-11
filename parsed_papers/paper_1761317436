@@ -1,0 +1,28 @@
+{
+    "id": "1761317436",
+    "title": "How Fast can be Algebraic Attacks on Block Ciphers",
+    "venue": "dagstuhl seminar proceedings",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Nicolas T. Courtois",
+            "id": "2683377480",
+            "org": "Axalto Smart Cards"
+        }
+    ],
+    "fields_of_study": [
+        "Algebraic number",
+        "Block size",
+        "System of linear equations",
+        "Correlation attack",
+        "Block cipher",
+        "Theoretical computer science",
+        "Computer science"
+    ],
+    "references": [
+        "1542020576",
+        "1573095851",
+        "1583871653",
+        "2128968394"
+    ]
+}

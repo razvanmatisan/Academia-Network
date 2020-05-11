@@ -1,0 +1,31 @@
+{
+    "id": "1492061201",
+    "title": "The Application of Case-Based Reasoning to the Tasks of Health Care Planning",
+    "venue": "EWCBR '93 Selected papers from the First European Workshop on Topics in Case-Based Reasoning",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Carol Bradburn",
+            "id": "2671960197",
+            "org": "Royal Melbourne Institute of Technology"
+        },
+        {
+            "name": "John Zeleznikow",
+            "id": "76571739",
+            "org": "La Trobe University"
+        }
+    ],
+    "fields_of_study": [
+        "Model-based reasoning",
+        "Expert system",
+        "Rule-based system",
+        "Health care",
+        "Management science",
+        "Legal expert system",
+        "Medical prescription",
+        "Case-based reasoning",
+        "Medicine",
+        "Knowledge management"
+    ],
+    "references": []
+}

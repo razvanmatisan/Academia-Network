@@ -1,0 +1,35 @@
+{
+    "id": "1541513585",
+    "title": "A Proof-Theoretical Investigation of Zantema's Problem",
+    "venue": "computer science logic",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Thierry Coquand",
+            "id": "150617134",
+            "org": "Chalmers University of Technology and University of Goteborg"
+        },
+        {
+            "name": "Henrik Persson",
+            "id": "2046749294",
+            "org": "Chalmers University of Technology and University of Goteborg"
+        }
+    ],
+    "fields_of_study": [
+        "Proof theory",
+        "Proof complexity",
+        "Analytic proof",
+        "Discrete mathematics",
+        "Proof by contradiction",
+        "Structural proof theory",
+        "Direct proof",
+        "Computer-assisted proof",
+        "Computer science",
+        "Constructive proof"
+    ],
+    "references": [
+        "1549516353",
+        "1996065564",
+        "2162849813"
+    ]
+}

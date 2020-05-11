@@ -1,0 +1,38 @@
+{
+    "id": "1518529661",
+    "title": "Maintaining Spanning Trees of Small Diameter",
+    "venue": "international colloquium on automata languages and programming",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Giuseppe F. Italiano",
+            "id": "2222194299",
+            "org": "IBM T. J. Watson Research Center"
+        },
+        {
+            "name": "Rajiv Ramaswami",
+            "id": "2772066399",
+            "org": "IBM T. J. Watson Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Discrete mathematics",
+        "Tremaux tree",
+        "Distributed minimum spanning tree",
+        "Shortest-path tree",
+        "Minimum spanning tree",
+        "Reverse-delete algorithm",
+        "Minimum degree spanning tree",
+        "k-minimum spanning tree",
+        "Mathematics",
+        "Spanning tree"
+    ],
+    "references": [
+        "2009695707",
+        "2094632707",
+        "2097890715",
+        "2121473031",
+        "2168930695"
+    ]
+}

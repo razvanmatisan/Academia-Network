@@ -1,0 +1,34 @@
+{
+    "id": "1539994290",
+    "title": "Software for Creating Domain-Oriented Dictionaries and Document Clustering in Full-Text Databases",
+    "venue": "international conference on computational linguistics",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Pavel Makagonov",
+            "id": "1975468602",
+            "org": "Mayor Directorate of Moscow City Government"
+        },
+        {
+            "name": "Konstantin Sboychakov",
+            "id": "116656823",
+            "org": "Mayor Directorate of Moscow City Government"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Fuzzy clustering",
+        "Natural language processing",
+        "Document clustering",
+        "Artificial intelligence",
+        "Database",
+        "Clustering high-dimensional data",
+        "Computer science",
+        "Software development",
+        "Pattern recognition",
+        "Software",
+        "Brown clustering",
+        "Subdivision"
+    ],
+    "references": []
+}

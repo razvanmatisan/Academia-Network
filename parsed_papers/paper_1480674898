@@ -1,0 +1,28 @@
+{
+    "id": "1480674898",
+    "title": "Computational aspects of three-valued logic",
+    "venue": "conference on automated deduction",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Peter H. Schmitt",
+            "id": "2124643958",
+            "org": "IBM Deutschland GmbH, TK LILOG"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Horn clause",
+        "Computational logic",
+        "Computer science",
+        "Algebra",
+        "Classical logic",
+        "Description logic",
+        "Philosophy of logic",
+        "Multimodal logic",
+        "Proof procedure",
+        "Programming language",
+        "Higher-order logic"
+    ],
+    "references": []
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1543912071",
+    "title": "Analysis on spatial and temporal features of gait kinematics",
+    "venue": "Fourth IEEE Workshop on Automatic Identification Advanced Technologies (AutoID'05)",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Wan Noorshahida Mohd Isa",
+            "id": "2044123051",
+            "org": "Multimedia Univ., Cyberjaya, Malaysia"
+        }
+    ],
+    "fields_of_study": [
+        "Canonical analysis",
+        "Kinematics",
+        "Silhouette",
+        "Feature extraction",
+        "Invariant (mathematics)",
+        "Interpolation",
+        "Principal component analysis",
+        "Gait",
+        "Computer vision",
+        "Mathematics",
+        "Pattern recognition",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1548698874",
+        "1798125731",
+        "1840252612",
+        "1975443308",
+        "2135541996"
+    ]
+}

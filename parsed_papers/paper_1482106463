@@ -1,0 +1,33 @@
+{
+    "id": "1482106463",
+    "title": "A d /2 approximation for maximum weight independent set in d -claw free graphs",
+    "venue": "scandinavian workshop on algorithm theory",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Piotr Berman",
+            "id": "2108020103",
+            "org": "Department of Computer Science and Engineering The Pennsylvania State University 220 Pond Laboratory, University Park, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Mathematics",
+        "Claw-free graph",
+        "Independent set",
+        "Discrete mathematics",
+        "Maximal independent set",
+        "Cubic graph",
+        "Distance-regular graph",
+        "Graph theory",
+        "Dominating set",
+        "Bound graph"
+    ],
+    "references": [
+        "1585646314",
+        "1963511606",
+        "2043260929",
+        "2063775175",
+        "2140118062"
+    ]
+}

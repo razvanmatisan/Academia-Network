@@ -1,0 +1,40 @@
+{
+    "id": "1527913657",
+    "title": "Affine Geometry of Collinearity and Conditional Term Rewriting",
+    "venue": "Advances in Computers",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Philippe Balbiani",
+            "id": "167241472",
+            "org": "Institut de recherche en informatique de Toulouse"
+        },
+        {
+            "name": "Luis Farinas del Cerro",
+            "id": "2146705630",
+            "org": "Institut de recherche en informatique de Toulouse"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "Computer science",
+        "Affine geometry",
+        "Knuth-Bendix completion algorithm",
+        "Collinearity",
+        "Normalization property",
+        "Order theory",
+        "Confluence",
+        "Algorithm",
+        "Unification",
+        "Rewriting"
+    ],
+    "references": [
+        "1513315908",
+        "1594729984",
+        "1790940744",
+        "1871398709",
+        "2113722134",
+        "2135884324"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1505713014",
+    "title": "From Object-Oriented Programming to Automatic Load Distribution",
+    "venue": "joint international conference on vector and parallel processing parallel processing",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Ralf-Dieter Beccard",
+            "id": "2577632132",
+            "org": "Rwth Aachen"
+        },
+        {
+            "name": "Walter Ameling",
+            "id": "2246367048",
+            "org": "Rwth Aachen"
+        }
+    ],
+    "fields_of_study": [
+        "Concurrent object-oriented programming",
+        "Programming paradigm",
+        "Inductive programming",
+        "Method",
+        "Reactive programming",
+        "Real-time computing",
+        "Code reuse",
+        "Programming domain",
+        "Computer science",
+        "Object code"
+    ],
+    "references": [
+        "157710778",
+        "1479691276",
+        "1507642125",
+        "2023839151",
+        "2107145247",
+        "2136608835",
+        "2164621667"
+    ]
+}

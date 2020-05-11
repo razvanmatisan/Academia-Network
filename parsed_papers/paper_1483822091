@@ -1,0 +1,44 @@
+{
+    "id": "1483822091",
+    "title": "A sketch-and-grow interface for botanical tree modeling",
+    "venue": "smart graphics",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Nordin Zakaria",
+            "id": "2169931275",
+            "org": "Computer & Info Science Department, Universiti Teknologi PETRONAS, Malaysia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Fractal tree index",
+        "Computer vision",
+        "K-ary tree",
+        "Tree structure",
+        "Order statistic tree",
+        "Interval tree",
+        "Artificial intelligence",
+        "Theoretical computer science",
+        "Tree rotation",
+        "Computer science",
+        "Incremental decision tree",
+        "Segment tree"
+    ],
+    "references": [
+        "1497229583",
+        "1521931467",
+        "1604798753",
+        "1639032689",
+        "1910854488",
+        "1996144553",
+        "2000690667",
+        "2002198837",
+        "2022317134",
+        "2026687385",
+        "2105686649",
+        "2126736363",
+        "2150303893",
+        "2172081191"
+    ]
+}

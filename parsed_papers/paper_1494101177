@@ -1,0 +1,31 @@
+{
+    "id": "1494101177",
+    "title": "Crafting Saliente WEB Scenarios using Priorities.",
+    "venue": "WER",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Davide Bolchini",
+            "id": "139822700",
+            "org": "Universita della Svizzera italiana"
+        }
+    ],
+    "fields_of_study": [
+        "Management science",
+        "Requirements elicitation",
+        "Web modeling",
+        "Salient",
+        "World Wide Web",
+        "Limiting",
+        "Computer science",
+        "Web design",
+        "User profile"
+    ],
+    "references": [
+        "1572316785",
+        "2110453763",
+        "2139310769",
+        "2149994071",
+        "2157437711"
+    ]
+}

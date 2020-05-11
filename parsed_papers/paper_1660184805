@@ -1,0 +1,42 @@
+{
+    "id": "1660184805",
+    "title": "Autonomous local search algorithms with island representation",
+    "venue": "learning and intelligent optimization",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Adrien Goeffon",
+            "id": "38746681",
+            "org": "LERIA, University of Angers, France#TAB#"
+        },
+        {
+            "name": "Frederic Lardeux",
+            "id": "1917297881",
+            "org": "LERIA, University of Angers, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Machine learning",
+        "Crossover",
+        "Evolutionary algorithm",
+        "Algorithm",
+        "Best-first search",
+        "Operator (computer programming)",
+        "Computer science",
+        "Local search (optimization)",
+        "Guided Local Search",
+        "Artificial intelligence",
+        "Population"
+    ],
+    "references": [
+        "1556242797",
+        "1563965013",
+        "1772396074",
+        "2054125157",
+        "2068396198",
+        "2106961302",
+        "2112681424",
+        "2159041313"
+    ]
+}

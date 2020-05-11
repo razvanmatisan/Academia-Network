@@ -1,0 +1,46 @@
+{
+    "id": "1527179761",
+    "title": "Role of Qualitative Reasoning in a Multi-Agent System",
+    "venue": "computer aided systems theory",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Vladimir Marik",
+            "id": "2039560618",
+            "org": "The Gerstner Laboratory for Intelligent Decision Making and Control Department of Control Engineering Czech Technical University"
+        },
+        {
+            "name": "Olga Stepankova",
+            "id": "1999329289",
+            "org": "The Gerstner Laboratory for Intelligent Decision Making and Control Department of Control Engineering Czech Technical University"
+        },
+        {
+            "name": "Jiri Lazansky",
+            "id": "2279738629",
+            "org": "The Gerstner Laboratory for Intelligent Decision Making and Control Department of Control Engineering Czech Technical University"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Computer science",
+        "Observer (quantum physics)",
+        "Theoretical computer science",
+        "Qualitative reasoning",
+        "Models of communication",
+        "Reasoning system",
+        "Cybernetics",
+        "Multi-agent system",
+        "Control reconfiguration"
+    ],
+    "references": [
+        "82517463",
+        "90487644",
+        "1513083360",
+        "1562578348",
+        "1575548805",
+        "1606193506",
+        "2124344619",
+        "2336741951"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "1503012420",
+    "title": "Quality Aspects in IT Service Management",
+    "venue": "distributed systems operations and management",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Gabi Dreo Rodosek",
+            "id": "2805547821",
+            "org": "Munich Network Management Team Leibniz Supercomputing Center"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile QoS",
+        "IT service management",
+        "Information Technology Infrastructure Library",
+        "Service product management",
+        "Process management",
+        "Computer network",
+        "Service design",
+        "Computer security",
+        "Computer science",
+        "Data management",
+        "Customer Service Assurance",
+        "Quality policy"
+    ],
+    "references": [
+        "1522779146",
+        "2151153589",
+        "2169158314"
+    ]
+}

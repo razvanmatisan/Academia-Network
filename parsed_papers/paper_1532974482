@@ -1,0 +1,35 @@
+{
+    "id": "1532974482",
+    "title": "A Motivation-Based Self-organization Approach",
+    "venue": "distributed computing and artificial intelligence",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Candelaria E. Sansores",
+            "id": "2061310938",
+            "org": "Universidad del Caribe"
+        },
+        {
+            "name": "Juan Pavon",
+            "id": "2110043759",
+            "org": "Universidad Complutense Madrid"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Agent-based model",
+        "Complex adaptive system",
+        "Artificial intelligence",
+        "Computer science",
+        "Complex system",
+        "Reinforcement",
+        "Complex system",
+        "Multi-agent system",
+        "Self-organization"
+    ],
+    "references": [
+        "1499375702",
+        "2007909139",
+        "2083307552"
+    ]
+}

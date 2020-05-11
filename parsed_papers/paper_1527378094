@@ -1,0 +1,36 @@
+{
+    "id": "1527378094",
+    "title": "Remote and Concurrent Process Duplication for SPMD Based Parallel Processing on COWs",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Michael Hobbs",
+            "id": "2123878719",
+            "org": "Deakin University"
+        },
+        {
+            "name": "Andrzej M. Goscinski",
+            "id": "227748416",
+            "org": "Deakin University"
+        }
+    ],
+    "fields_of_study": [
+        "Transparency (graphic)",
+        "Distributed operating system",
+        "Workstation",
+        "Process migration",
+        "Parallel computing",
+        "Management system",
+        "Distributed computing",
+        "SPMD",
+        "Computer science",
+        "Real-time computing",
+        "Software",
+        "Systems architecture"
+    ],
+    "references": [
+        "2068154195",
+        "2135131646"
+    ]
+}

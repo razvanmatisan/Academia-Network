@@ -1,0 +1,41 @@
+{
+    "id": "1547978178",
+    "title": "Designing Digital Circuits for the Knapsack Problem",
+    "venue": "international conference on computational science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Mihai Oltean",
+            "id": "2133170878",
+            "org": "Babes-Bolyai University"
+        },
+        {
+            "name": "Crina Grosan",
+            "id": "2065197918",
+            "org": "Babes-Bolyai University"
+        },
+        {
+            "name": "Mihaela Oltean",
+            "id": "2307100212",
+            "org": "David Prodan College"
+        }
+    ],
+    "fields_of_study": [
+        "Continuous knapsack problem",
+        "Change-making problem",
+        "Mathematical optimization",
+        "Subset sum problem",
+        "Knapsack problem",
+        "Genetic programming",
+        "Polynomial-time approximation scheme",
+        "Generalized assignment problem",
+        "Computer science",
+        "Cutting stock problem"
+    ],
+    "references": [
+        "1486894692",
+        "1491178396",
+        "1576818901",
+        "2156728410"
+    ]
+}

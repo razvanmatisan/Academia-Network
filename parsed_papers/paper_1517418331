@@ -1,0 +1,40 @@
+{
+    "id": "1517418331",
+    "title": "Fast software exponentiation in GF(2/sup k/)",
+    "venue": "symposium on computer arithmetic",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Cetin Kaya Koc",
+            "id": "2057074609",
+            "org": "Dept. of Electr. & Comput. Eng., Oregon State Univ., Corvallis, OR, USA"
+        },
+        {
+            "name": "Tolga Acar",
+            "id": "2154224518",
+            "org": "Electrical & Computer Engineering|Oregon State University"
+        }
+    ],
+    "fields_of_study": [
+        "Multiplication",
+        "Factorization of polynomials over finite fields",
+        "Parallel computing",
+        "Discrete mathematics",
+        "Knuth's up-arrow notation",
+        "Modular exponentiation",
+        "GF(2)",
+        "Exponentiation by squaring",
+        "Polynomial",
+        "Exponentiation",
+        "Mathematics"
+    ],
+    "references": [
+        "1529013801",
+        "1550170577",
+        "1798342512",
+        "2007751412",
+        "2151163104",
+        "2156186849",
+        "2479547000"
+    ]
+}

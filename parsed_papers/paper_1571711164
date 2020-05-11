@@ -1,0 +1,35 @@
+{
+    "id": "1571711164",
+    "title": "Achieving Integrated Process and Product Safety Arguments",
+    "venue": "SSS",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Ibrahim Habli",
+            "id": "310143768",
+            "org": "University of York"
+        },
+        {
+            "name": "Tim Kelly",
+            "id": "2252011855",
+            "org": "University of York"
+        }
+    ],
+    "fields_of_study": [
+        "Process safety",
+        "Notation",
+        "Modular design",
+        "Argument",
+        "Business",
+        "Certification",
+        "Safety case",
+        "IEC 61508",
+        "Systems engineering",
+        "Structuring"
+    ],
+    "references": [
+        "1582297087",
+        "1995550140",
+        "2077359497"
+    ]
+}

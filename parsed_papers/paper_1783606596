@@ -1,0 +1,57 @@
+{
+    "id": "1783606596",
+    "title": "Exploiting Connection Relation to Compress Data Graph",
+    "venue": "asia-pacific web conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Jun Zhang",
+            "id": "2895419273",
+            "org": "School of Information, Renmin University of China, Beijing 100872"
+        },
+        {
+            "name": "Jun Zhang",
+            "id": "2895419273",
+            "org": "School of Information, Renmin University of China, Beijing 100872"
+        },
+        {
+            "name": "Zhaohui Peng",
+            "id": "2162170267",
+            "org": "School of Information, Renmin University of China, Beijing 100872"
+        },
+        {
+            "name": "Shan Wang",
+            "id": "2131088066",
+            "org": "School of Information, Renmin University of China, Beijing 100872"
+        },
+        {
+            "name": "Jiang Zhan",
+            "id": "2488609071",
+            "org": "School of Information, Renmin University of China, Beijing 100872"
+        }
+    ],
+    "fields_of_study": [
+        "Relational database",
+        "Database",
+        "Data mining",
+        "Wait-for graph",
+        "Graph (abstract data type)",
+        "Entity-relationship model",
+        "Search algorithm",
+        "Database schema",
+        "Computer science",
+        "Best-first search",
+        "Graph database"
+    ],
+    "references": [
+        "1501422243",
+        "1994727615",
+        "2057839002",
+        "2079642408",
+        "2105848461",
+        "2161088492",
+        "2162833734",
+        "2169624745",
+        "2171874178"
+    ]
+}

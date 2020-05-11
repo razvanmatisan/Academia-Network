@@ -1,0 +1,32 @@
+{
+    "id": "1647204807",
+    "title": "Online detection and modeling of safety boundaries for aerospace applications using active learning and Bayesian statistics",
+    "venue": "international symposium on neural networks",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Yuning He",
+            "id": "2636023489",
+            "org": "UARC, NASA AMES Research Center, Moffett Field, CA, United States"
+        }
+    ],
+    "fields_of_study": [
+        "Airspace class",
+        "Bayesian statistics",
+        "Machine learning",
+        "Artificial intelligence",
+        "Active learning",
+        "Subject-matter expert",
+        "Pattern recognition",
+        "Statistical model",
+        "Computer science",
+        "Particle filter",
+        "Bayesian probability",
+        "Bayesian inference"
+    ],
+    "references": [
+        "1510052597",
+        "2043653481",
+        "2115305054"
+    ]
+}

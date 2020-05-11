@@ -1,0 +1,31 @@
+{
+    "id": "1750782604",
+    "title": "Equation Solving in Geometrical Theories",
+    "venue": "CTRS '94 Proceedings of the 4th International Workshop on Conditional and Typed Rewriting Systems",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Philippe Balbiani",
+            "id": "2669796802",
+            "org": "Institut de recherche en informatique de Toulouse"
+        }
+    ],
+    "fields_of_study": [
+        "Projective geometry",
+        "Discrete mathematics",
+        "Axiom",
+        "Duality (projective geometry)",
+        "Mathematical analysis",
+        "If and only if",
+        "Equation solving",
+        "Mathematics",
+        "Projective differential geometry",
+        "Rewriting"
+    ],
+    "references": [
+        "18320342",
+        "1577485093",
+        "1594729984",
+        "2077378514"
+    ]
+}

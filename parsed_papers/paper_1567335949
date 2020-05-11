@@ -1,0 +1,37 @@
+{
+    "id": "1567335949",
+    "title": "Describing Gottler's Operational Graph Grammars with Pushouts",
+    "venue": "international workshop on graph grammars and their application to computer science",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Klaus Barthelmann",
+            "id": "2081678408",
+            "org": "Joh.-Gutenberg-Universitat"
+        }
+    ],
+    "fields_of_study": [
+        "Tree-adjoining grammar",
+        "Graph property",
+        "Graph algebra",
+        "Graph rewriting",
+        "Graph (abstract data type)",
+        "Discrete mathematics",
+        "Null graph",
+        "Clique-width",
+        "Context-sensitive grammar",
+        "Mathematics"
+    ],
+    "references": [
+        "1487667540",
+        "1497820340",
+        "1522209613",
+        "1539163926",
+        "2006513683",
+        "2013956597",
+        "2035301332",
+        "2055102312",
+        "2129556344",
+        "2536118580"
+    ]
+}

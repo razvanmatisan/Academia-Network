@@ -1,0 +1,35 @@
+{
+    "id": "1573047523",
+    "title": "Powerdomains and nondeterministic recursive definitions",
+    "venue": "Proceedings of the 5th Colloquium on International Symposium on Programming",
+    "year": 1982,
+    "authors": [
+        {
+            "name": "Matthew Hennessy",
+            "id": "2094873031",
+            "org": "University of Edinburgh"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Recursion",
+        "Nondeterministic algorithm",
+        "Integration by substitution",
+        "Natural number",
+        "Simple function",
+        "Mathematics",
+        "Operator (computer programming)"
+    ],
+    "references": [
+        "119905804",
+        "1564550046",
+        "1964838474",
+        "2007270285",
+        "2037785443",
+        "2040073752",
+        "2062024564",
+        "2075052434",
+        "2103953153",
+        "2292996153"
+    ]
+}

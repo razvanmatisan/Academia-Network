@@ -1,0 +1,30 @@
+{
+    "id": "1507801882",
+    "title": "GraphEd: An Interactive Tool For Developing Graph Grammars",
+    "venue": "international workshop on graph grammars and their application to computer science",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Michael Himsolt",
+            "id": "2675400823",
+            "org": "Universitat Passau"
+        }
+    ],
+    "fields_of_study": [
+        "Data structure",
+        "Graph (abstract data type)",
+        "Theoretical computer science",
+        "Graph rewriting",
+        "Entity-relationship model",
+        "Macro",
+        "Graph database",
+        "Machine learning",
+        "Petri net",
+        "Computer science",
+        "Artificial intelligence",
+        "Flowchart"
+    ],
+    "references": [
+        "2013956597"
+    ]
+}

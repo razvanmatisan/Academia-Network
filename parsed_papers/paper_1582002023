@@ -1,0 +1,40 @@
+{
+    "id": "1582002023",
+    "title": "Adaptive channel allocation spectrum etiquette for cognitive radio networks",
+    "venue": "arXiv: Computer Science and Game Theory",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Nie Nie",
+            "id": "2170213206",
+            "org": "Dept. of Electr. & Comput. Eng., Stevens Inst. of Technol., Hoboken, NJ"
+        },
+        {
+            "name": "Cristina Comaniciu",
+            "id": "188397525",
+            "org": "Dept. of Electr. & Comput. Eng., Stevens Inst. of Technol., Hoboken, NJ"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical economics",
+        "Information exchange",
+        "Game theory",
+        "Channel allocation schemes",
+        "Cognitive radio",
+        "Cooperative learning",
+        "Potential game",
+        "Network performance",
+        "Nash equilibrium",
+        "Economics"
+    ],
+    "references": [
+        "1570906179",
+        "1767261506",
+        "1988790447",
+        "2095913550",
+        "2108077180",
+        "2111479894",
+        "2138729496",
+        "2158061833"
+    ]
+}

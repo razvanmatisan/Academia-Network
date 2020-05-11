@@ -1,0 +1,34 @@
+{
+    "id": "1612698827",
+    "title": "A LEXICAL DATABASE TOOL FOR QUANTITATIVE PHONOLOGICAL RESEARCH",
+    "venue": "meeting of the association for computational linguistics",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Steven Bird",
+            "id": "2120683996",
+            "org": "University of Edinburgh"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Artificial intelligence",
+        "Notation",
+        "Machine learning",
+        "Perl",
+        "Database",
+        "Lexical database",
+        "Regular expression",
+        "Transcription (linguistics)",
+        "Web server",
+        "Hyperlink",
+        "Exemplification",
+        "Computer science"
+    ],
+    "references": [
+        "1493322074",
+        "1513168562",
+        "1647053039",
+        "1668342573"
+    ]
+}

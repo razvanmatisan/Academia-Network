@@ -1,0 +1,35 @@
+{
+    "id": "1513816586",
+    "title": "Visually tracked flashlights as interaction devices",
+    "venue": "international conference on human-computer interaction",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Jonathan Green",
+            "id": "2408801894",
+            "org": "Mixed Reality Laboratory|University of Nottingham"
+        }
+    ],
+    "fields_of_study": [
+        "Human-computer interaction",
+        "Augmented reality",
+        "Software deployment",
+        "Flashlight",
+        "Multimedia",
+        "Usability",
+        "Patent application",
+        "Eye tracking",
+        "Visitor pattern",
+        "Computer science",
+        "Simulation",
+        "Software"
+    ],
+    "references": [
+        "1591236165",
+        "1980519917",
+        "1995133527",
+        "1998051546",
+        "2056140296",
+        "2082353791"
+    ]
+}

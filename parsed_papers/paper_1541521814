@@ -1,0 +1,36 @@
+{
+    "id": "1541521814",
+    "title": "Classification of HIV protease inhibitors on the basis of their antiviral potency using radial basis function neural networks",
+    "venue": "Journal of Computer-aided Molecular Design",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Su J. Patankar",
+            "id": "2099638322",
+            "org": "Department of Chemistry, Penn State University, University Park, USA"
+        },
+        {
+            "name": "Peter C. Jurs",
+            "id": "41762301",
+            "org": "Department of Chemistry, Penn State University, University Park, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Protease",
+        "Quantitative structure-activity relationship",
+        "HIV Protease Inhibitor",
+        "Radial basis function",
+        "Viral replication",
+        "Bioinformatics",
+        "Classifier (linguistics)",
+        "Artificial neural network",
+        "Potency",
+        "Biology"
+    ],
+    "references": [
+        "1524688041",
+        "1570802136",
+        "2087347434",
+        "2148141518"
+    ]
+}

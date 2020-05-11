@@ -1,0 +1,41 @@
+{
+    "id": "1602969385",
+    "title": "Arc Consistency Projection: A New Generalization Relation for Graphs",
+    "venue": "international conference on conceptual structures",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Michel Liquiere",
+            "id": "2803803618",
+            "org": "LIRMM, 161 Rue ada, 34392 Montpellier cedex 5, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Projection (set theory)",
+        "Projection (relational algebra)",
+        "Local consistency",
+        "Combinatorics",
+        "Projection method",
+        "Discrete mathematics",
+        "Constraint satisfaction problem",
+        "Projection (mathematics)",
+        "Operator (computer programming)",
+        "Mathematics",
+        "Projection (linear algebra)"
+    ],
+    "references": [
+        "47957325",
+        "223002628",
+        "1493596129",
+        "1503729935",
+        "1552785398",
+        "1571012830",
+        "1874959578",
+        "1887871432",
+        "2030766291",
+        "2087757633",
+        "2107143096",
+        "2124996875"
+    ]
+}

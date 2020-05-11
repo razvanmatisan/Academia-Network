@@ -1,0 +1,43 @@
+{
+    "id": "104486092",
+    "title": "Towards Programmable Context-Aware Voice Services",
+    "venue": "In: Glitho, R and Karmouch, A and Pierre, S, (eds.) INTELLIGENCE IN COMMUNICATION SYSTEMS.  (pp. 231 - 247).  SPRINGER (2005)",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Kerry Jean",
+            "id": "2113531050",
+            "org": "University College London"
+        },
+        {
+            "name": "Nikolaos Vardalachos",
+            "id": "1268169397",
+            "org": "University College London"
+        },
+        {
+            "name": "Alex Galis",
+            "id": "2043417786",
+            "org": "University College London"
+        }
+    ],
+    "fields_of_study": [
+        "Service layer",
+        "Software deployment",
+        "Service delivery framework",
+        "Session Initiation Protocol",
+        "Differentiated service",
+        "Voice over IP",
+        "Real-time computing",
+        "Computer network",
+        "Services computing",
+        "Middleware",
+        "Engineering"
+    ],
+    "references": [
+        "1513004256",
+        "1577767448",
+        "1882088395",
+        "1999733627",
+        "2097822042"
+    ]
+}

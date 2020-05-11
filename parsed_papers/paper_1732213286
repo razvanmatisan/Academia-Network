@@ -1,0 +1,40 @@
+{
+    "id": "1732213286",
+    "title": "WiseMAC: an ultra low power MAC protocol for the downlink of infrastructure wireless sensor networks",
+    "venue": "international symposium on computers and communications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Amre El-Hoiydi",
+            "id": "2121059940",
+            "org": "Swiss Center for Electron. & Microtechnol. Inc., Neuchatel, Switzerland"
+        },
+        {
+            "name": "Jean-Dominique Decotignie",
+            "id": "2466022279",
+            "org": "Swiss Center for Electron. & Microtechnol. Inc., Neuchatel, Switzerland"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "Wireless network",
+        "Wireless sensor network",
+        "Sensor array",
+        "Telecommunications link",
+        "Energy consumption",
+        "Power management",
+        "Wireless",
+        "Computer science",
+        "Access control"
+    ],
+    "references": [
+        "1547174948",
+        "2043322165",
+        "2099057525",
+        "2100117806",
+        "2127949150",
+        "2135505702",
+        "2137343993",
+        "2168452204"
+    ]
+}

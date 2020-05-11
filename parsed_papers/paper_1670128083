@@ -1,0 +1,42 @@
+{
+    "id": "1670128083",
+    "title": "Energy shaping of hybrid systems via control Lyapunov functions",
+    "venue": "advances in computing and communications",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Ryan W. Sinnet",
+            "id": "2303937289",
+            "org": "Dept. Mechanical Engineering, Texas A&M University, 3123 TAMU, College Station, 77843-3123, USA"
+        },
+        {
+            "name": "Aaron D. Ames",
+            "id": "2129145761",
+            "org": "Dept. Mechanical Engineering, Texas A&M University, 3123 TAMU, College Station, 77843-3123, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Control engineering",
+        "Lyapunov redesign",
+        "Control theory",
+        "Lyapunov equation",
+        "Hybrid system",
+        "Lyapunov exponent",
+        "Limit cycle",
+        "Dynamical systems theory",
+        "Control theory",
+        "Lyapunov function",
+        "Mathematics"
+    ],
+    "references": [
+        "1639534865",
+        "1966972652",
+        "1981690142",
+        "2047174209",
+        "2102263452",
+        "2107610091",
+        "2112640448",
+        "2163668399",
+        "2171879251"
+    ]
+}

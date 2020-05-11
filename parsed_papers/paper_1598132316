@@ -1,0 +1,44 @@
+{
+    "id": "1598132316",
+    "title": "Performance and Computational Complexity Comparison of Block-Based Fingerprint Enhancement",
+    "venue": "international conference on biometrics",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Suksan Jirachaweng",
+            "id": "236580809",
+            "org": "Kasetsart Signal & Image Processing Laboratory (KSIP Lab), Department of Electrical Engineering, Kasetsart University, Bangkok, Thailand 10900#TAB#"
+        },
+        {
+            "name": "Teesid Leelasawassuk",
+            "id": "2517541440",
+            "org": "Kasetsart Signal & Image Processing Laboratory (KSIP Lab), Department of Electrical Engineering, Kasetsart University, Bangkok, Thailand 10900#TAB#"
+        },
+        {
+            "name": "Vutipong Areekul",
+            "id": "1814740688",
+            "org": "Kasetsart Signal & Image Processing Laboratory (KSIP Lab), Department of Electrical Engineering, Kasetsart University, Bangkok, Thailand 10900#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Frequency domain",
+        "Fourier transform",
+        "Computer science",
+        "Pattern recognition",
+        "Gabor filter",
+        "Discrete cosine transform",
+        "Blossom algorithm",
+        "Short-time Fourier transform",
+        "Computational complexity theory",
+        "Filter (signal processing)"
+    ],
+    "references": [
+        "1484153948",
+        "1556341070",
+        "2007394947",
+        "2127717018",
+        "2137238957",
+        "2137441863"
+    ]
+}

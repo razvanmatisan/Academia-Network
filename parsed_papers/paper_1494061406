@@ -1,0 +1,42 @@
+{
+    "id": "1494061406",
+    "title": "Retrieval in a Prototype-Based Case Library: A Case Study in Diabetes Therapy Revision",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Riccardo Bellazzi",
+            "id": "2047440685",
+            "org": "Universite di Pavia"
+        },
+        {
+            "name": "Stefania Montani",
+            "id": "2055316552",
+            "org": "Universite di Pavia"
+        },
+        {
+            "name": "Luigi Portinale",
+            "id": "2271505588",
+            "org": "Universita di Torino"
+        }
+    ],
+    "fields_of_study": [
+        "Situation analysis",
+        "Decision support system",
+        "Knowledge representation and reasoning",
+        "Diabetes Therapy",
+        "Information system",
+        "Machine learning",
+        "Case-based reasoning",
+        "Naive Bayes classifier",
+        "Distributed computing",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1507189784",
+        "1535924909",
+        "2140785063",
+        "2163952039"
+    ]
+}

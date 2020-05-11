@@ -1,0 +1,36 @@
+{
+    "id": "148665649",
+    "title": "Communication cost in Distributed Bayesian Belief Networks.",
+    "venue": "belgium-netherlands conference on artificial intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "S.P. van Gosliga",
+            "id": "2414207921",
+            "org": "University of Amsterdam"
+        },
+        {
+            "name": "M.G. Maris",
+            "id": "2641069051",
+            "org": "University of Amsterdam"
+        }
+    ],
+    "fields_of_study": [
+        "Variable-order Bayesian network",
+        "Artificial intelligence",
+        "Machine learning",
+        "Intelligent agent",
+        "Bayesian network",
+        "Multi-agent system",
+        "Computer science",
+        "Intelligent control"
+    ],
+    "references": [
+        "1528271421",
+        "1542595196",
+        "1587990862",
+        "2043642599",
+        "2085861234",
+        "2159080219"
+    ]
+}

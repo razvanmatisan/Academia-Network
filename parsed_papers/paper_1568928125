@@ -1,0 +1,34 @@
+{
+    "id": "1568928125",
+    "title": "Automatic domain decomposition on unstructured grids (DOUG)",
+    "venue": "Advances in Computational Mathematics",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "M. J. Hagger",
+            "id": "2641337367",
+            "org": "Winfrith Technology Centre, DERA Winfrith, Winfrith Newburgh, Dorchester, UK"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Iterative method",
+        "Unstructured grid",
+        "Domain decomposition methods",
+        "Mathematics",
+        "Discretization",
+        "Finite element method",
+        "Elliptic partial differential equation",
+        "Partial differential equation",
+        "Solver"
+    ],
+    "references": [
+        "1481923190",
+        "1982819547",
+        "1989048979",
+        "2011674220",
+        "2016448996",
+        "2128672663",
+        "2155216327"
+    ]
+}

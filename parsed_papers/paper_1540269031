@@ -1,0 +1,39 @@
+{
+    "id": "1540269031",
+    "title": "Learning blocking schemes for record linkage",
+    "venue": "national conference on artificial intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Matthew Michelson",
+            "id": "2128498655",
+            "org": "University of Southern California, Information Sciences Institute, Marina del Rey, CA#TAB#"
+        },
+        {
+            "name": "Craig A. Knoblock",
+            "id": "1991211814",
+            "org": "University of Southern California, Information Sciences Institute, Marina del Rey, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Subject-matter expert",
+        "Computer science",
+        "Data set",
+        "Record linkage",
+        "Preprocessor",
+        "Data mining"
+    ],
+    "references": [
+        "154872207",
+        "1612155886",
+        "2036216970",
+        "2119479037",
+        "2133462743",
+        "2150546140",
+        "2154785834",
+        "2161600801",
+        "2164456230"
+    ]
+}

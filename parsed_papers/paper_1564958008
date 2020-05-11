@@ -1,0 +1,45 @@
+{
+    "id": "1564958008",
+    "title": "A Hybrid Overlay Topology for Wide Area Multicast Sessions",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Redouane Benaini",
+            "id": "2685041970",
+            "org": "Institut National des Telecommunications"
+        },
+        {
+            "name": "Karim Sbata",
+            "id": "2306481884",
+            "org": "Institut National des Telecommunications"
+        },
+        {
+            "name": "Pierre Vincent",
+            "id": "2689379591",
+            "org": "Institut National des Telecommunications"
+        }
+    ],
+    "fields_of_study": [
+        "Hypercube",
+        "Scalability",
+        "Multicast",
+        "Distributed computing",
+        "Access control",
+        "RTP Control Protocol",
+        "Logical topology",
+        "Systems architecture",
+        "Computer network",
+        "Spanning tree",
+        "Computer science",
+        "Topology"
+    ],
+    "references": [
+        "1532042013",
+        "2114797272",
+        "2123732385",
+        "2127280340",
+        "2149649316",
+        "2156644501"
+    ]
+}

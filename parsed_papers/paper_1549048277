@@ -1,0 +1,32 @@
+{
+    "id": "1549048277",
+    "title": "On Complexity of Polynomial Basis Squaring in F2m",
+    "venue": "selected areas in cryptography",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Huapeng Wu",
+            "id": "2150966680",
+            "org": "University of Waterloo"
+        }
+    ],
+    "fields_of_study": [
+        "Trinomial",
+        "Elliptic function",
+        "Discrete mathematics",
+        "Elliptic curve",
+        "Algebra",
+        "Irreducible polynomial",
+        "Elliptic curve cryptography",
+        "Finite field",
+        "Normal basis",
+        "Polynomial basis",
+        "Mathematics"
+    ],
+    "references": [
+        "1534148356",
+        "2054020579",
+        "2128903967",
+        "2138169871"
+    ]
+}

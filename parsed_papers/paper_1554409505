@@ -1,0 +1,34 @@
+{
+    "id": "1554409505",
+    "title": "Planning and scheduling to minimize tardiness",
+    "venue": "principles and practice of constraint programming",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "John N. Hooker",
+            "id": "2151268893",
+            "org": "Carnegie Mellon University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Computer science",
+        "Tardiness",
+        "Constraint programming",
+        "Assignment problem",
+        "Integer programming",
+        "Scheduling (computing)",
+        "Job shop scheduling",
+        "Benders' decomposition",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "1483563708",
+        "1551931587",
+        "1573298811",
+        "1698280944",
+        "2097731353",
+        "2501112583",
+        "2611669817"
+    ]
+}

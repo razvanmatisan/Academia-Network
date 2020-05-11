@@ -1,0 +1,32 @@
+{
+    "id": "1495308955",
+    "title": "From Practice to Theory in Designing Autonomous Agents",
+    "venue": "Proceedings of the First Australian Workshop on DAI: Distributed Artificial Intelligence: Architecture and Modelling",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Lorenzo Sommaruga",
+            "id": "114616169",
+            "org": "Universidad Carlos III de Madrid"
+        },
+        {
+            "name": "Nadia Catenazzi",
+            "id": "148794233",
+            "org": "Universidad Carlos III de Madrid"
+        }
+    ],
+    "fields_of_study": [
+        "Agent architecture",
+        "Autonomous agent",
+        "Intelligent agent",
+        "Agent-based social simulation",
+        "Architecture",
+        "Systems engineering",
+        "Computer science",
+        "Structuring"
+    ],
+    "references": [
+        "1592228927",
+        "2035346816"
+    ]
+}

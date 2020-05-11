@@ -1,0 +1,30 @@
+{
+    "id": "1559738570",
+    "title": "On the randomness of Legendre and Jacobi sequences",
+    "venue": "international cryptology conference",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Ivan Damgard",
+            "id": "2682364181",
+            "org": "Aarhus University"
+        }
+    ],
+    "fields_of_study": [
+        "Quadratic residue",
+        "Discrete mathematics",
+        "Legendre function",
+        "Legendre symbol",
+        "Combinatorics",
+        "Randomness",
+        "Pseudorandom number generator",
+        "Associated Legendre polynomials",
+        "Legendre's equation",
+        "Mathematics",
+        "Discrete logarithm"
+    ],
+    "references": [
+        "2068149596",
+        "2164284862"
+    ]
+}

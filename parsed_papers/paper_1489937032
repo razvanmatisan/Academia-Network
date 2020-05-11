@@ -1,0 +1,44 @@
+{
+    "id": "1489937032",
+    "title": "Predictive analytics that takes in account network relations: a case study of research data of a contemporary university",
+    "venue": "australasian data mining conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Ekta Nankani",
+            "id": "158373178",
+            "org": "University of Western Sydney#TAB#"
+        },
+        {
+            "name": "Simeon J. Simoff",
+            "id": "735013031",
+            "org": "University of Western Sydney#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Artificial intelligence",
+        "Machine learning",
+        "Strategic planning",
+        "Centrality",
+        "Predictive analytics",
+        "Network science",
+        "Social network analysis",
+        "Data set",
+        "Closeness",
+        "Dynamic network analysis",
+        "Computer science"
+    ],
+    "references": [
+        "1548260500",
+        "1582922395",
+        "1986498438",
+        "2012557827",
+        "2048392812",
+        "2059859368",
+        "2087858212",
+        "2115022330",
+        "2122710250",
+        "2124962729"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "161635360",
+    "title": "Policy Engineering for Security Management of Organization Information Systems",
+    "venue": "latin american network operations and management symposium",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Yi Zhang",
+            "id": "2659478457",
+            "org": "Department of Computer Science and Engineering|Shanghai Jiaotong University"
+        },
+        {
+            "name": "Yong Zhang",
+            "id": "2662901342",
+            "org": "Department of Computer Science and Engineering|Shanghai Jiaotong University"
+        },
+        {
+            "name": "Weinong Wang",
+            "id": "2673577861",
+            "org": "Department of Computer Science and Engineering|Shanghai Jiaotong University"
+        }
+    ],
+    "fields_of_study": [
+        "Risk management information systems",
+        "Computer science",
+        "Management science",
+        "ITIL security management",
+        "Applied engineering",
+        "Information system",
+        "Data management",
+        "Program management",
+        "Security information and event management",
+        "Systems management",
+        "Systems engineering"
+    ],
+    "references": [
+        "1550884769",
+        "2165065735"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "176167070",
+    "title": "Collective Sorting Tuple Spaces.",
+    "venue": "7o Workshop congiunto AI*IA-TABOO \"Dagli oggetti agli agenti\" (WOA 2006): sistemi grid, p2p e self-*",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Matteo Casadei",
+            "id": "2120958953",
+            "org": "University of Bologna"
+        },
+        {
+            "name": "Luca Gardelli",
+            "id": "569336614",
+            "org": "University of Bologna"
+        },
+        {
+            "name": "Mirko Viroli",
+            "id": "2232603568",
+            "org": "University of Bologna"
+        }
+    ],
+    "fields_of_study": [
+        "Tuple space",
+        "Tuple",
+        "Complex system",
+        "Distributed computing",
+        "Coordination game",
+        "Multi-agent system",
+        "Sorting",
+        "Rewriting",
+        "Mathematics",
+        "Self-organization"
+    ],
+    "references": [
+        "1558995532",
+        "2005818379",
+        "2119212127",
+        "2130161981"
+    ]
+}

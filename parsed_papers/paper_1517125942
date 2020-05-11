@@ -1,0 +1,38 @@
+{
+    "id": "1517125942",
+    "title": "Non-Deterministic Polynomial Optimization Problems and Their Approximation",
+    "venue": "international colloquium on automata, languages and programming",
+    "year": 1977,
+    "authors": [
+        {
+            "name": "Azaria Paz",
+            "id": "2136328717",
+            "org": "TECHNION-Israel Institute of Technology"
+        },
+        {
+            "name": "Shlomo Moran",
+            "id": "2201759764",
+            "org": "TECHNION-Israel Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Square-free polynomial",
+        "Matrix polynomial",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Hardness of approximation",
+        "P versus NP problem",
+        "L-reduction",
+        "Polynomial",
+        "Wilkinson's polynomial",
+        "Optimization problem"
+    ],
+    "references": [
+        "1655990431",
+        "2032950184",
+        "2036265926",
+        "2078007422",
+        "2147799577"
+    ]
+}

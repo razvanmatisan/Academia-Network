@@ -1,0 +1,49 @@
+{
+    "id": "1532663597",
+    "title": "A Model of Cooperative Solvers for Computational Problems",
+    "venue": "international conference on parallel processing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Alexander Kleymenov",
+            "id": "2399701778",
+            "org": "Institute of Informatics Systems of SD RAN"
+        },
+        {
+            "name": "D. Petunin",
+            "id": "2408061057",
+            "org": "Institute of Informatics Systems of SD RAN"
+        },
+        {
+            "name": "Alexander Semenov",
+            "id": "2127186669",
+            "org": "Institute of Informatics Systems of SD RAN"
+        },
+        {
+            "name": "I. Vazhev",
+            "id": "2408332483",
+            "org": "Institute of Informatics Systems of SD RAN"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Architecture",
+        "Precedence graph",
+        "Theoretical computer science",
+        "Kernel method",
+        "Interval vector",
+        "Computer science",
+        "Computational problem",
+        "Interval arithmetic",
+        "Kernel (linear algebra)",
+        "Algorithm",
+        "Constraint logic programming"
+    ],
+    "references": [
+        "1524779265",
+        "1585665186",
+        "1849344587",
+        "1982147057",
+        "2009122662"
+    ]
+}

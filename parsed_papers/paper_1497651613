@@ -1,0 +1,45 @@
+{
+    "id": "1497651613",
+    "title": "A Review of Trust Management, Security and Privacy Policy Languages.",
+    "venue": "international conference on security and cryptography",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Juri Luca De Coi",
+            "id": "1854942308",
+            "org": "S Research Center|University of Hannover"
+        },
+        {
+            "name": "Daniel Olmedilla",
+            "id": "2138768164",
+            "org": "S Research Center|University of Hannover"
+        }
+    ],
+    "fields_of_study": [
+        "Information privacy",
+        "Privacy software",
+        "Computer security",
+        "Privacy by Design",
+        "Computational trust",
+        "Security convergence",
+        "Cloud computing security",
+        "Computer science",
+        "Privacy policy",
+        "Security information and event management"
+    ],
+    "references": [
+        "130640788",
+        "1525636359",
+        "1968556863",
+        "2004851692",
+        "2022985851",
+        "2076452632",
+        "2113467413",
+        "2138742779",
+        "2138916465",
+        "2162737732",
+        "2164441047",
+        "2168884369",
+        "2169568031"
+    ]
+}

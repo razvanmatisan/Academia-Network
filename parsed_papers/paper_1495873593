@@ -1,0 +1,51 @@
+{
+    "id": "1495873593",
+    "title": "Multi-modality tomographic image reconstruction using mesh modeling",
+    "venue": "international symposium on biomedical imaging",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jovan G. Brankov",
+            "id": "16673794",
+            "org": "Illinois Inst. of Technol., Chicago, IL, USA"
+        },
+        {
+            "name": "Yongyi Yang",
+            "id": "2130749780",
+            "org": "Illinois Inst. of Technol., Chicago, IL, USA"
+        },
+        {
+            "name": "Richard M. Leahy",
+            "id": "1995808116",
+            "org": "Illinois Institute of Technology|University of Southern California"
+        },
+        {
+            "name": "Miles N. Wernick",
+            "id": "2799171693",
+            "org": "Illinois Institute of Technology|University of Southern California"
+        }
+    ],
+    "fields_of_study": [
+        "Image segmentation",
+        "Computer vision",
+        "Artificial intelligence",
+        "Mesh generation",
+        "Pattern recognition",
+        "Image resolution",
+        "Anatomical boundary",
+        "Smoothing",
+        "Computer science",
+        "Pixel",
+        "Adaptive filter",
+        "Iterative reconstruction"
+    ],
+    "references": [
+        "1501672475",
+        "1861469053",
+        "2009663065",
+        "2020999234",
+        "2096556620",
+        "2150289298",
+        "2166887721"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1529063404",
+    "title": "Executing Nested Queries.",
+    "venue": "BTW",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Goetz Graefe",
+            "id": "2284116839",
+            "org": "Microsoft Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Nested set model",
+        "Nested loop join",
+        "Query optimization",
+        "Database",
+        "Block nested loop",
+        "Hash function",
+        "Materialized view",
+        "Indexation",
+        "Nested SQL",
+        "Computer science"
+    ],
+    "references": [
+        "106164280",
+        "134694575",
+        "1501284171",
+        "1526124194",
+        "1533420657",
+        "1578663408",
+        "1601880505",
+        "1865801528",
+        "1968039508",
+        "1994502095",
+        "2041770008",
+        "2054308357",
+        "2082004608",
+        "2099993385",
+        "2122406210",
+        "2122990007",
+        "2151203234",
+        "2153485419",
+        "2158237121",
+        "2159772324",
+        "2171438172",
+        "2336493585"
+    ]
+}

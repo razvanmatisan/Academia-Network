@@ -1,0 +1,46 @@
+{
+    "id": "1591674245",
+    "title": "Distributed local 2-connectivity test of graphs and applications",
+    "venue": "international symposium on parallel and distributed processing and applications",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Brahim Hamid",
+            "id": "2303767204",
+            "org": "LaBRI-University of Bordeaux-1, Talence, France#TAB#"
+        },
+        {
+            "name": "Bertrand Le Saec",
+            "id": "2760887993",
+            "org": "LaBRI-University of Bordeaux-1, Talence, France#TAB#"
+        },
+        {
+            "name": "Mohamed Mosbah",
+            "id": "2091218137",
+            "org": "LaBRI-University of Bordeaux-1, Talence, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Graph power",
+        "Geometric graph theory",
+        "Cycle graph",
+        "Computer science",
+        "Strength of a graph",
+        "Butterfly graph",
+        "Voltage graph",
+        "Graph factorization",
+        "Windmill graph"
+    ],
+    "references": [
+        "1595621695",
+        "1780945093",
+        "1973926450",
+        "2008292658",
+        "2035315311",
+        "2111332454",
+        "2118382442",
+        "2142573375",
+        "2611515161"
+    ]
+}

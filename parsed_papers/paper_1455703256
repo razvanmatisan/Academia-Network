@@ -1,0 +1,34 @@
+{
+    "id": "1455703256",
+    "title": "The robustness of assortativity (short paper)",
+    "venue": "critical information infrastructures security",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Antonio Scala",
+            "id": "1387271665",
+            "org": "University of Rome \" Sapienza\""
+        },
+        {
+            "name": "Gregorio D'Agostino",
+            "id": "2674926293",
+            "org": "ENEA CR \"Casaccia\""
+        }
+    ],
+    "fields_of_study": [
+        "Degree distribution",
+        "Distributed computing",
+        "Computer science",
+        "Biological network",
+        "Robustness (computer science)",
+        "Complex network",
+        "No free lunch in search and optimization",
+        "Preferential attachment",
+        "Assortativity",
+        "Scale-free network"
+    ],
+    "references": [
+        "1501825524",
+        "2112494680"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1551574596",
+    "title": "A Distributed Immune Algorithm for Solving Optimization Problems",
+    "venue": "IDC",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Mariusz Oszust",
+            "id": "2012902591",
+            "org": "Rzeszow University of Technology"
+        },
+        {
+            "name": "Marian Wysocki",
+            "id": "2140929314",
+            "org": "Rzeszow University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Usability",
+        "Computation",
+        "Mathematical optimization",
+        "Combinatorial optimization",
+        "Quadratic assignment problem",
+        "Robot control",
+        "Machine learning",
+        "Travelling salesman problem",
+        "Distributive property",
+        "Algorithm",
+        "Optimization problem",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "81342865",
+        "1772172785",
+        "2146942119",
+        "2164934768"
+    ]
+}

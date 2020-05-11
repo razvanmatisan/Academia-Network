@@ -1,0 +1,33 @@
+{
+    "id": "1582197729",
+    "title": "Communities through Time: Using History for Social Navigation",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Alan Wexelblat",
+            "id": "502937274",
+            "org": "Software Agents Group"
+        }
+    ],
+    "fields_of_study": [
+        "Social relation",
+        "Information system",
+        "Distributed computing",
+        "Proxy server",
+        "Home page",
+        "Information space",
+        "Systems architecture",
+        "Social navigation",
+        "Computer science"
+    ],
+    "references": [
+        "2002444211",
+        "2026506423",
+        "2030144199",
+        "2113609601",
+        "2124591829",
+        "2142094977",
+        "2164395272"
+    ]
+}

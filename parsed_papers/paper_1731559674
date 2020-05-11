@@ -1,0 +1,38 @@
+{
+    "id": "1731559674",
+    "title": "Training mahalanobis kernels by linear programming",
+    "venue": "international conference on artificial neural networks",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Shigeo Abe",
+            "id": "2130438778",
+            "org": "Kobe University, Kobe, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Support vector machine",
+        "Mathematical optimization",
+        "Covariance matrix",
+        "Pattern recognition",
+        "Data set",
+        "Kernel (linear algebra)",
+        "Artificial intelligence",
+        "Mahalanobis distance",
+        "Linear programming",
+        "Radial basis function kernel",
+        "Mathematics",
+        "Diagonal"
+    ],
+    "references": [
+        "1503196035",
+        "1547527303",
+        "1578080815",
+        "1657174467",
+        "2058824296",
+        "2107961375",
+        "2113362355",
+        "2116758157"
+    ]
+}

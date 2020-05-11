@@ -1,0 +1,31 @@
+{
+    "id": "1560494913",
+    "title": "A book-agent system for library marketing",
+    "venue": "international conference on computational collective intelligence",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Toshiro Minami",
+            "id": "2511551622",
+            "org": "Kyushu Institute of Information Sciences, Dazaifu, Fukuoka, Japan and Kyushu University Library, Higashi, Fukuoka, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multimedia",
+        "Digital marketing",
+        "Library management",
+        "Special Interest Group",
+        "Computer science",
+        "Marketing",
+        "Market system",
+        "Multi-agent system",
+        "Social network",
+        "Library classification"
+    ],
+    "references": [
+        "1514196359",
+        "1574191126",
+        "1989993068",
+        "2155106456"
+    ]
+}

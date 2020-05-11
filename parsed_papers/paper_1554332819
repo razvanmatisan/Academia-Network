@@ -1,0 +1,30 @@
+{
+    "id": "1554332819",
+    "title": "A New Interface for HOL - Ideas, Issues and Implementation",
+    "venue": "theorem proving in higher order logics",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Don Syme",
+            "id": "2136386745",
+            "org": "The Computer Laboratory, University of Cambridge, UK"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Usability",
+        "Design objective",
+        "Theoretical computer science",
+        "HOL",
+        "Automated theorem proving",
+        "Rapid prototyping",
+        "Architecture",
+        "Extensibility",
+        "Computer science"
+    ],
+    "references": [
+        "1543115413",
+        "2109158420",
+        "2134342348"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "127465381",
+    "title": "An analysis of network configuration artifacts",
+    "venue": "usenix large installation systems administration conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "David Plonka",
+            "id": "2015791125",
+            "org": "University of Wisconsin-Madison#TAB#"
+        },
+        {
+            "name": "Andres Jaan Tack",
+            "id": "2095689533",
+            "org": "University of Wisconsin-Madison#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Spatial network analysis software",
+        "Network simulation",
+        "Software deployment",
+        "Computer science",
+        "Organizational network analysis",
+        "Literature",
+        "Simulation",
+        "Software development",
+        "Social software engineering",
+        "Intelligent computer network",
+        "Package development process",
+        "Distributed computing"
+    ],
+    "references": [
+        "1574156540",
+        "1707144927",
+        "1853827169",
+        "2032008460",
+        "2051851471"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "1498362934",
+    "title": "Beyond the Epipolar Constraint: Integrating 3D Motion and Structure Estimation",
+    "venue": "european workshop on 3d structure from multiple images of large scale environments",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Tomas Brodsky",
+            "id": "2050815567",
+            "org": "University of Maryland"
+        },
+        {
+            "name": "Cornelia Fermuller",
+            "id": "2121777383",
+            "org": "University of Maryland"
+        },
+        {
+            "name": "Yiannis Aloimonos",
+            "id": "286064733",
+            "org": "University of Maryland"
+        }
+    ],
+    "fields_of_study": [
+        "Image segmentation",
+        "Constrained optimization",
+        "Motion estimation",
+        "Mathematical optimization",
+        "Epipolar geometry",
+        "Classification of discontinuities",
+        "Computer vision",
+        "Optical flow",
+        "Motion field",
+        "Structure from motion",
+        "Artificial intelligence",
+        "Mathematics"
+    ],
+    "references": [
+        "1522172521",
+        "1563606890",
+        "2020999234",
+        "2060169966",
+        "2089199244",
+        "2097357723",
+        "2145713909",
+        "2146203184",
+        "2168080203"
+    ]
+}

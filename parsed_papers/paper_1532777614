@@ -1,0 +1,36 @@
+{
+    "id": "1532777614",
+    "title": "Relaxed Soundness of Business Processes",
+    "venue": "conference on advanced information systems engineering",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Juliane Dehnert",
+            "id": "1965115577",
+            "org": "Technical University Berlin"
+        },
+        {
+            "name": "Peter Rittgen",
+            "id": "2510307552",
+            "org": "University Koblenz-Landau"
+        }
+    ],
+    "fields_of_study": [
+        "Correctness",
+        "Systems design",
+        "Business process",
+        "Systems engineering",
+        "Soundness",
+        "Software development",
+        "Information system",
+        "Petri net",
+        "Computer science",
+        "Business process reengineering"
+    ],
+    "references": [
+        "2691241",
+        "2097810426",
+        "2129466958",
+        "2162868766"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1590901743",
+    "title": "Fast algorithm for connected row convex constraints",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Yuanlin Zhang",
+            "id": "2673248584",
+            "org": "Texas Tech University, Computer Science Department#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Complexity of constraint satisfaction",
+        "Time complexity",
+        "Local consistency",
+        "Mathematical optimization",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Constraint satisfaction problem",
+        "Difference-map algorithm",
+        "Algorithm",
+        "Randomized algorithm",
+        "Constraint satisfaction",
+        "Mathematics"
+    ],
+    "references": [
+        "41859519",
+        "326611788",
+        "1550078947",
+        "2041737564",
+        "2163595382",
+        "2255409074"
+    ]
+}

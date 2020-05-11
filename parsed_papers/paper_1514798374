@@ -1,0 +1,31 @@
+{
+    "id": "1514798374",
+    "title": "A Mechanisation of Computability Theory in HOL",
+    "venue": "theorem proving in higher order logics",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Vincent Zammit",
+            "id": "2664761604",
+            "org": "University of Kent"
+        }
+    ],
+    "fields_of_study": [
+        "Computability",
+        "Effective method",
+        "Rice's theorem",
+        "Algorithm",
+        "HOL",
+        "Computable analysis",
+        "Computable function",
+        "Computer science",
+        "utm theorem",
+        "Computability logic"
+    ],
+    "references": [
+        "1527862632",
+        "1547662821",
+        "1564971179",
+        "2094542439"
+    ]
+}

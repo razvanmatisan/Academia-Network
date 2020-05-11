@@ -1,0 +1,45 @@
+{
+    "id": "1608435297",
+    "title": "Distributed Composite Event Detection in Publish/Subscribe Networks - A Case for Self-Organization",
+    "venue": "Electronic Communication of The European Association of Software Science and Technology",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Enrico Seib",
+            "id": "2084613731",
+            "org": "University of Rostock"
+        },
+        {
+            "name": "Helge Parzyjegla",
+            "id": "2794433730",
+            "org": "University of Rostock"
+        },
+        {
+            "name": "Gero Muhl",
+            "id": "2139526993",
+            "org": "University of Rostock"
+        }
+    ],
+    "fields_of_study": [
+        "Publication",
+        "Heuristic",
+        "Distributed computing",
+        "Ubiquitous computing",
+        "Computer science",
+        "Real-time computing",
+        "Composite number",
+        "Optimization problem",
+        "Self-organization",
+        "Middleware"
+    ],
+    "references": [
+        "1579145134",
+        "1579525522",
+        "1970063686",
+        "1982807047",
+        "2085412609",
+        "2131975004",
+        "2143420242",
+        "2144974502"
+    ]
+}

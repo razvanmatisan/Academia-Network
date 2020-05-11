@@ -1,0 +1,38 @@
+{
+    "id": "1511384199",
+    "title": "A Fuzzy-Ga Hybrid Technique for Optimization of Teaching Sequences Presented in ITSs",
+    "venue": "Fuzzy Days",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "David Pritchard",
+            "id": "2421516467",
+            "org": "Wellington Institute of Technology"
+        },
+        {
+            "name": "Mircea Gh. Negoita",
+            "id": "1264403802",
+            "org": "Wellington Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Fuzzy rule",
+        "Fuzzy logic",
+        "Natural language processing",
+        "Intelligent tutoring system",
+        "Machine learning",
+        "Artificial intelligence",
+        "Computer science",
+        "TUTOR"
+    ],
+    "references": [
+        "84923368",
+        "1485537594",
+        "1501978450",
+        "1514685102",
+        "1579353377",
+        "1593514682",
+        "1778534358",
+        "2153486042"
+    ]
+}

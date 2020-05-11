@@ -1,0 +1,35 @@
+{
+    "id": "1548114909",
+    "title": "Simultaneous Evaluation of Multiple Topics in SIETTE",
+    "venue": "intelligent tutoring systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Eduardo Guzman",
+            "id": "2109332580",
+            "org": "Universidad de Malaga"
+        },
+        {
+            "name": "Ricardo Conejo",
+            "id": "2119546222",
+            "org": "Universidad de Malaga"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Inference",
+        "Finalization",
+        "Knowledge level",
+        "Item response theory",
+        "Computerized adaptive testing",
+        "Intelligent tutoring system",
+        "Educational program",
+        "Computer science",
+        "The Internet"
+    ],
+    "references": [
+        "1491178396",
+        "1553924804"
+    ]
+}

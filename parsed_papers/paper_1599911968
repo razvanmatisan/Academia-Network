@@ -1,0 +1,32 @@
+{
+    "id": "1599911968",
+    "title": "Tracking Articulators in X-ray Movies of the Vocal Tract",
+    "venue": "computer analysis of images and patterns",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Georg Thimm",
+            "id": "2654293933",
+            "org": "IDIAP"
+        }
+    ],
+    "fields_of_study": [
+        "Vocal tract",
+        "Normalization (statistics)",
+        "Computer vision",
+        "Artificial intelligence",
+        "Throat",
+        "Pattern recognition",
+        "Computer science",
+        "Tongue",
+        "Standardization",
+        "Edge detection"
+    ],
+    "references": [
+        "1493380185",
+        "1677817494",
+        "2033895145",
+        "2148107745",
+        "2722851397"
+    ]
+}

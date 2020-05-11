@@ -1,0 +1,31 @@
+{
+    "id": "1511527545",
+    "title": "Transcendental Functions and Continuity Checking in PVS",
+    "venue": "theorem proving in higher order logics",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Hanne Gottliebsen",
+            "id": "2469834025",
+            "org": "University of St Andrews"
+        }
+    ],
+    "fields_of_study": [
+        "Bellman equation",
+        "Discrete mathematics",
+        "Algorithm",
+        "Theoretical computer science",
+        "Transcendental function",
+        "Formal specification",
+        "Semantics of logic",
+        "Formal verification",
+        "Automated theorem proving",
+        "Symbolic computation",
+        "Mathematics"
+    ],
+    "references": [
+        "1566038112",
+        "1568144041",
+        "1822676550"
+    ]
+}

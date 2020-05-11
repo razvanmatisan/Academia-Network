@@ -1,0 +1,34 @@
+{
+    "id": "1528367724",
+    "title": "Enabling a Mobile Network Manager (MNM) Through Mobile Agents",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Akhil Sahai",
+            "id": "2294952583",
+            "org": "IRISA-INRIA"
+        },
+        {
+            "name": "Christine Morin",
+            "id": "2098877419",
+            "org": "IRISA-INRIA"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile agent",
+        "Network simulation",
+        "Network management station",
+        "Radio access network",
+        "Network management",
+        "Cellular network",
+        "Distributed computing",
+        "Mobile computing",
+        "Network management application",
+        "Computer science"
+    ],
+    "references": [
+        "1510940979",
+        "2144974879"
+    ]
+}

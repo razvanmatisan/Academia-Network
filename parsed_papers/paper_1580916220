@@ -1,0 +1,33 @@
+{
+    "id": "1580916220",
+    "title": "An Adaptation Heuristic for Case-Based Estimation",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "David McSherry",
+            "id": "2169867232",
+            "org": "University of Ulster"
+        }
+    ],
+    "fields_of_study": [
+        "Domain knowledge",
+        "Heuristic",
+        "Adaptive system",
+        "Machine learning",
+        "Rule-based system",
+        "Knowledge acquisition",
+        "Additive function",
+        "Case-based reasoning",
+        "Distributed computing",
+        "Semantic reasoner",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1565624606",
+        "1895754424",
+        "2103939263",
+        "2127741023"
+    ]
+}

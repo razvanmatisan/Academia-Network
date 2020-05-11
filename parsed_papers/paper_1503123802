@@ -1,0 +1,32 @@
+{
+    "id": "1503123802",
+    "title": "Combining competition and cooperation in supervised inductive learning",
+    "venue": "international conference on machine learning",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Cezary Z. Janikow",
+            "id": "17064695",
+            "org": "Department of Mathematics and Computer Science, University of Missouri at St. Louis, St. Louis, MO 63121"
+        }
+    ],
+    "fields_of_study": [
+        "Semi-supervised learning",
+        "Machine learning",
+        "Inductive bias",
+        "Genetic algorithm",
+        "Artificial intelligence",
+        "Multi-task learning",
+        "Computer science",
+        "Operator (computer programming)",
+        "Inference engine",
+        "Concept learning"
+    ],
+    "references": [
+        "103369941",
+        "138562460",
+        "1555269426",
+        "2018642704",
+        "2152275320"
+    ]
+}

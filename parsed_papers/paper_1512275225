@@ -1,0 +1,50 @@
+{
+    "id": "1512275225",
+    "title": "Finding All the Best Swaps of a Minimum Diameter Spanning Tree under Transient Edge Failures",
+    "venue": "european symposium on algorithms",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Enrico Nardelli",
+            "id": "1998351617",
+            "org": "Universita di L'Aquila"
+        },
+        {
+            "name": "Guido Proietti",
+            "id": "1999884796",
+            "org": "Universita di L'Aquila"
+        },
+        {
+            "name": "Peter Widmayer",
+            "id": "70450096",
+            "org": "ETH Zentrum"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Distributed computing",
+        "Mathematical optimization",
+        "Combinatorial optimization",
+        "Distributed minimum spanning tree",
+        "Telecommunications network",
+        "Minimum degree spanning tree",
+        "Swap (finance)",
+        "Minimum spanning tree",
+        "Dynamic programming",
+        "Spanning tree",
+        "Mathematics"
+    ],
+    "references": [
+        "1486260668",
+        "1503550791",
+        "1518529661",
+        "1963834353",
+        "1978099551",
+        "1980494375",
+        "2004681879",
+        "2044146725",
+        "2069416867",
+        "2097890715",
+        "2121473031"
+    ]
+}

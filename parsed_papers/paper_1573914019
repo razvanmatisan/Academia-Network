@@ -1,0 +1,28 @@
+{
+    "id": "1573914019",
+    "title": "First-Order Properties of Trees, Star-Free Expressions, adn Aperiodicity",
+    "venue": "symposium on theoretical aspects of computer science",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Uschi Heuter",
+            "id": "45388476",
+            "org": "Lehrstuhl fur Informatik II RWTH Aachen"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Computer science",
+        "Combinatorics",
+        "Equivalence (measure theory)",
+        "Finite-state machine",
+        "Regular expression",
+        "Expression (mathematics)"
+    ],
+    "references": [
+        "2013085432",
+        "2035020702",
+        "2073663206",
+        "2134888877"
+    ]
+}

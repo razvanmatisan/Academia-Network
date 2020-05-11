@@ -1,0 +1,38 @@
+{
+    "id": "1514570516",
+    "title": "Verification of the WAP transaction layer",
+    "venue": "software engineering and formal methods",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Yu-Tong He",
+            "id": "2810964414",
+            "org": "Dept. of Comput. & Software, McMaster Univ., Hamilton, Ont., Canada"
+        },
+        {
+            "name": "Ryszard Janicki",
+            "id": "1462185583",
+            "org": "Dept. of Comput. & Software, McMaster Univ., Hamilton, Ont., Canada"
+        }
+    ],
+    "fields_of_study": [
+        "Application layer",
+        "General Inter-ORB Protocol",
+        "Internet protocol suite",
+        "Computer science",
+        "Wireless Application Protocol",
+        "Universal composability",
+        "Reverse Address Resolution Protocol",
+        "Real-time computing",
+        "Internetwork protocol",
+        "OSI model",
+        "Distributed computing"
+    ],
+    "references": [
+        "326424914",
+        "1786127122",
+        "1860481808",
+        "1996832037",
+        "2115309705"
+    ]
+}

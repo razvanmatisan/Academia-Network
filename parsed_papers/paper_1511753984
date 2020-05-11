@@ -1,0 +1,40 @@
+{
+    "id": "1511753984",
+    "title": "Towards modeling and testing of IP routing protocols",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jianping Wu",
+            "id": "2102111143",
+            "org": "Department of Computer Science and Technology, Tsinghua University, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Zhongjie Li",
+            "id": "2129649020",
+            "org": "Department of Computer Science and Technology, Tsinghua University, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Xia Yin",
+            "id": "2138989563",
+            "org": "Department of Computer Science and Technology, Tsinghua University, Beijing, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Enhanced Interior Gateway Routing Protocol",
+        "Static routing",
+        "Link-state routing protocol",
+        "Routing Information Protocol",
+        "Policy-based routing",
+        "Distributed computing",
+        "Computer network",
+        "Zone Routing Protocol",
+        "Interior gateway protocol",
+        "Dynamic Source Routing",
+        "Computer science"
+    ],
+    "references": [
+        "139363979",
+        "1602394068"
+    ]
+}

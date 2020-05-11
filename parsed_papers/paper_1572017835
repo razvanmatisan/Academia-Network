@@ -1,0 +1,38 @@
+{
+    "id": "1572017835",
+    "title": "An exploratory analysis on user behavior regularity in the mobile internet",
+    "venue": "international conference on knowledge based and intelligent information and engineering systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Toshihiko Yamakami",
+            "id": "2303074192",
+            "org": "ACCESS, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Internet privacy",
+        "User interface design",
+        "Clickstream",
+        "Mobile search",
+        "Wireless",
+        "World Wide Web",
+        "Distributed computing",
+        "Identifier",
+        "Mobile computing",
+        "User modeling",
+        "The Internet",
+        "Computer science"
+    ],
+    "references": [
+        "1543724700",
+        "1601275155",
+        "1826368116",
+        "1990300234",
+        "2021329643",
+        "2039722754",
+        "2058520989",
+        "2154090399",
+        "2167075859"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "1550621539",
+    "title": "A Hierarchy of Language Families Learnable by Regular Language Learners",
+    "venue": "international colloquium on grammatical inference",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Yuji Takada",
+            "id": "2112928217",
+            "org": "Fujitsu Laboratories Ltd"
+        }
+    ],
+    "fields_of_study": [
+        "Universal Networking Language",
+        "Hierarchy",
+        "Learnability",
+        "Computer science",
+        "Artificial intelligence",
+        "Machine learning",
+        "Natural language processing",
+        "Regular language",
+        "Regular grammar",
+        "Algorithmic learning theory",
+        "Context-sensitive language"
+    ],
+    "references": [
+        "1984086143",
+        "1989445634",
+        "2036666387",
+        "2080558225",
+        "2084578840"
+    ]
+}

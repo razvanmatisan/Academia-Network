@@ -1,0 +1,44 @@
+{
+    "id": "1689435873",
+    "title": "A combinator language for theorem discovery",
+    "venue": "CICM'12 Proceedings of the 11th international conference on Intelligent Computer Mathematics",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Phil Scott",
+            "id": "2522188834",
+            "org": "School of Informatics, University of Edinburgh, UK#TAB#"
+        },
+        {
+            "name": "Jacques D. Fleuriot",
+            "id": "739540358",
+            "org": "School of Informatics, University of Edinburgh, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical proof",
+        "Algebraic number",
+        "Lemma (mathematics)",
+        "Automation",
+        "Combinatory logic",
+        "Algorithm",
+        "Theoretical computer science",
+        "Computer science",
+        "Rewriting"
+    ],
+    "references": [
+        "146121977",
+        "1485908855",
+        "1497011154",
+        "1533525390",
+        "1594381772",
+        "1606604604",
+        "1829244603",
+        "2127571754",
+        "2136202785",
+        "2139827631",
+        "2147639553",
+        "2162914952",
+        "2568653835"
+    ]
+}

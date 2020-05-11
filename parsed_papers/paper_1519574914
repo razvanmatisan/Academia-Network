@@ -1,0 +1,41 @@
+{
+    "id": "1519574914",
+    "title": "Policy iteration for relational MDPs",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Chenggang Wang",
+            "id": "2119591309",
+            "org": "Department of Computer Science, Tufts University, Medford, MA#TAB#"
+        },
+        {
+            "name": "Roni Khardon",
+            "id": "639666141",
+            "org": "Department of Computer Science, Tufts University, Medford, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Artificial intelligence",
+        "Machine learning",
+        "Mathematical optimization",
+        "Restricted representation",
+        "Well-defined",
+        "Reinforcement learning",
+        "Markov decision process",
+        "Abstraction"
+    ],
+    "references": [
+        "1530573725",
+        "1800916125",
+        "1874230510",
+        "1877180816",
+        "1997477668",
+        "2128547596",
+        "2134153324",
+        "2152669282",
+        "2154393523",
+        "2167435507"
+    ]
+}

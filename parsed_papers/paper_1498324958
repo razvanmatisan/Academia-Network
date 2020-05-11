@@ -1,0 +1,43 @@
+{
+    "id": "1498324958",
+    "title": "The Influence of Learning in the Evolution of Busy Beavers",
+    "venue": "evoworkshops on applications of evolutionary computing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Francisco Baptista Pereira",
+            "id": "2098031034",
+            "org": "Instituto Superior de Engenharia de Coimbra"
+        },
+        {
+            "name": "Francisco Baptista Pereira",
+            "id": "2098031034",
+            "org": "Instituto Superior de Engenharia de Coimbra"
+        },
+        {
+            "name": "Ernesto Costa",
+            "id": "2148035700",
+            "org": "Centro de Informatica e Sistemas da Universidade de Coimbra"
+        }
+    ],
+    "fields_of_study": [
+        "Evolutionary algorithm",
+        "Genetic algorithm",
+        "Busy beaver",
+        "Machine learning",
+        "Distributed computing",
+        "Local search (optimization)",
+        "Search algorithm",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "103551442",
+        "1499172641",
+        "1504962226",
+        "1540715591",
+        "1596643057",
+        "2150449253",
+        "2159955357"
+    ]
+}

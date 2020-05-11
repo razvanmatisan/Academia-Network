@@ -1,0 +1,47 @@
+{
+    "id": "128885880",
+    "title": "A VIRTUAL REALITY SIMULATOR FOR ACTIVE STEREO VISION SYSTEMS",
+    "venue": "international conference on computer vision theory and applications",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Manuela Chessa",
+            "id": "2071243906",
+            "org": "University of Genoa"
+        },
+        {
+            "name": "Fabio Solari",
+            "id": "2096944442",
+            "org": "University of Genoa"
+        },
+        {
+            "name": "Silvio P. Sabatini",
+            "id": "1125327664",
+            "org": "University of Genoa"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Metaverse",
+        "Computer vision",
+        "Modeling and simulation",
+        "Rendering (computer graphics)",
+        "Computer science",
+        "3D reconstruction",
+        "Virtual reality",
+        "Simulation",
+        "Immersion (virtual reality)",
+        "Active vision",
+        "Stereo cameras"
+    ],
+    "references": [
+        "170560476",
+        "1487182886",
+        "1555614281",
+        "1991949768",
+        "2097261533",
+        "2099712288",
+        "2112066522",
+        "2154390974"
+    ]
+}

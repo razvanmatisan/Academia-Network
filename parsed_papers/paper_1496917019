@@ -1,0 +1,39 @@
+{
+    "id": "1496917019",
+    "title": "What Is the Expressive Power of Disjunctive Preconditions",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Bernhard Nebel",
+            "id": "1989269690",
+            "org": "Albert-Ludwigs-Universitat"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "STRIPS",
+        "Conjunctive normal form",
+        "Rotation formalisms in three dimensions",
+        "Decision list",
+        "Propositional calculus",
+        "Disjunctive normal form",
+        "Conjecture",
+        "Expressive power",
+        "Algorithm",
+        "Mathematics"
+    ],
+    "references": [
+        "1490897486",
+        "1498154961",
+        "1514296638",
+        "1540422960",
+        "1589170163",
+        "1981061232",
+        "1989978772",
+        "2061146398",
+        "2114540561",
+        "2153306470",
+        "2170408876"
+    ]
+}

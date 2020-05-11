@@ -1,0 +1,39 @@
+{
+    "id": "105050702",
+    "title": "Data Store Issues for Location-Based Services.",
+    "venue": "IEEE Data(base) Engineering Bulletin",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "John Krumm",
+            "id": "2230377555",
+            "org": "Microsoft Research Redmond"
+        },
+        {
+            "name": "Steven A. Shafer",
+            "id": "1977866571",
+            "org": "Microsoft Research Redmond"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Location-based service",
+        "Data mining",
+        "Differentiated service",
+        "Data architecture",
+        "Services computing",
+        "Computer science",
+        "Service (systems architecture)",
+        "Systems architecture"
+    ],
+    "references": [
+        "152691338",
+        "1572856678",
+        "2009845912",
+        "2129857356",
+        "2141834215",
+        "2149692139",
+        "2158683916",
+        "2164890970"
+    ]
+}

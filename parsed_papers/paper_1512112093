@@ -1,0 +1,41 @@
+{
+    "id": "1512112093",
+    "title": "A Simple Parallel Dictionary Matching Algorithm",
+    "venue": "european conference on parallel processing",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Paolo Ferragina",
+            "id": "531878810",
+            "org": "Universita di Pisa"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Parallel computing",
+        "Suffix",
+        "Matching pursuit",
+        "Suffix tree",
+        "Parallel algorithm",
+        "Blossom algorithm",
+        "K-SVD",
+        "3-dimensional matching",
+        "Computer science",
+        "Prefix"
+    ],
+    "references": [
+        "1602529240",
+        "1966318226",
+        "1982024542",
+        "1985108724",
+        "2003200876",
+        "2085988127",
+        "2099964107",
+        "2120490947",
+        "2121252285",
+        "2134826720",
+        "2135755078",
+        "2434820933",
+        "2533248932"
+    ]
+}

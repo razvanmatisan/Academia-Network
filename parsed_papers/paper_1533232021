@@ -1,0 +1,30 @@
+{
+    "id": "1533232021",
+    "title": "Circuit Partitioning with Genetic Algorithms Using a Coding Scheme to Preserve the Structure of a Circuit",
+    "venue": "parallel problem solving from nature",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Martin Hulin",
+            "id": "2320174452",
+            "org": "Siemens AG, ZFE IS SYS 3, Munchen 83,"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic algorithm",
+        "Mathematical optimization",
+        "Artificial intelligence",
+        "Machine learning",
+        "Computer science",
+        "Coding (social sciences)",
+        "Theoretical computer science",
+        "Adder"
+    ],
+    "references": [
+        "202604755",
+        "1639032689",
+        "2084528420",
+        "2095117703",
+        "2156894251"
+    ]
+}

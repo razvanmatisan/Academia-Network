@@ -1,0 +1,32 @@
+{
+    "id": "1594158258",
+    "title": "Correctness by Construction: Integrating Formality into a Commercial Development Process",
+    "venue": "formal methods",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Anthony Hall",
+            "id": "2504467650",
+            "org": "Praxis Critical Systems Limited"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Code coverage",
+        "Correctness",
+        "Formal methods",
+        "Real-time computing",
+        "Database",
+        "Formality",
+        "Formal specification",
+        "ITSEC",
+        "High-level design",
+        "Software",
+        "Computer science"
+    ],
+    "references": [
+        "2116352900",
+        "2157904642",
+        "2169102479"
+    ]
+}

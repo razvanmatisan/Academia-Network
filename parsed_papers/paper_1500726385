@@ -1,0 +1,46 @@
+{
+    "id": "1500726385",
+    "title": "Automata based interfaces for control and scheduling",
+    "venue": "international conference on hybrid systems computation and control",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Gera Weiss",
+            "id": "2125376807",
+            "org": "University of Pennsylvania#TAB#"
+        },
+        {
+            "name": "Rajeev Alur",
+            "id": "689646243",
+            "org": "University of Pennsylvania#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Linear system",
+        "Formal language",
+        "Implementation",
+        "Scheduling (computing)",
+        "Finite-state machine",
+        "Identifier",
+        "Software",
+        "Theoretical computer science",
+        "Distributed computing",
+        "Computer science",
+        "Exponential stability"
+    ],
+    "references": [
+        "143291542",
+        "1488202922",
+        "1756169151",
+        "1788867639",
+        "1891915427",
+        "2074070037",
+        "2100329191",
+        "2102194774",
+        "2121784623",
+        "2134659903",
+        "2150859886",
+        "2151218450",
+        "2164500517"
+    ]
+}

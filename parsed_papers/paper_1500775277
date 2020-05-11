@@ -1,0 +1,44 @@
+{
+    "id": "1500775277",
+    "title": "CGGC: Cached Greedy Geocast",
+    "venue": "wired wireless internet communications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Christian Maihofer",
+            "id": "720795786",
+            "org": "Communication Systems (RIC/TC)"
+        },
+        {
+            "name": "Reinhold Eberhardt",
+            "id": "2154222154",
+            "org": "Communication Systems (RIC/TC)"
+        },
+        {
+            "name": "Elmar Schoch",
+            "id": "1998724881",
+            "org": "Communication Systems (RIC/TC)"
+        }
+    ],
+    "fields_of_study": [
+        "Wireless network",
+        "Wireless ad hoc network",
+        "Computer network",
+        "Cache",
+        "CPU cache",
+        "Geocast",
+        "Internet Protocol",
+        "Mobile ad hoc network",
+        "Mobile computing",
+        "Computer science"
+    ],
+    "references": [
+        "1911837509",
+        "1964224627",
+        "2003702658",
+        "2101963262",
+        "2114771944",
+        "2144113407",
+        "2149959815"
+    ]
+}

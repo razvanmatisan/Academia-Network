@@ -1,0 +1,38 @@
+{
+    "id": "1487815580",
+    "title": "Typicality Effects in the Categorization of Spatial Relations",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Constanze Vorwerg",
+            "id": "2067469348",
+            "org": "Universitat Bielefeld"
+        },
+        {
+            "name": "Gert Rickheit",
+            "id": "190407988",
+            "org": "Universitat Bielefeld"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Neuropsychology",
+        "Spatial intelligence",
+        "Fuzzy logic",
+        "Spatial cognition",
+        "Spatial relation",
+        "Visual space",
+        "Machine learning",
+        "Categorization",
+        "Cognition",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1510156564",
+        "1918758839",
+        "2028586234",
+        "2109498760"
+    ]
+}

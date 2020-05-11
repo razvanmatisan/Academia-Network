@@ -1,0 +1,42 @@
+{
+    "id": "1677497782",
+    "title": "Tools for assembling modular ontologies in ontolingua",
+    "venue": "national conference on artificial intelligence",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Richard Fikes",
+            "id": "2215881882",
+            "org": "Stanford University, Stanford, CA#TAB#"
+        },
+        {
+            "name": "Adam Farquhar",
+            "id": "2127858571",
+            "org": "Stanford University, Stanford, CA#TAB#"
+        },
+        {
+            "name": "James P. Rice",
+            "id": "2101587206",
+            "org": "Stanford University, Stanford, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Programming language",
+        "Machine learning",
+        "Formalism (philosophy)",
+        "Artificial intelligence",
+        "Modular design",
+        "Development environment",
+        "World Wide Web",
+        "Computer science",
+        "Input/output",
+        "Ontology",
+        "Axiom",
+        "Suite",
+        "Ontology (information science)"
+    ],
+    "references": [
+        "2027885802",
+        "2437494761"
+    ]
+}

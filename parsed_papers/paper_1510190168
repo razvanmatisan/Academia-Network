@@ -1,0 +1,30 @@
+{
+    "id": "1510190168",
+    "title": "Cryptographic capsules: a disjunctive primitive for interactive protocols",
+    "venue": "international cryptology conference",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Josh Benaloh",
+            "id": "2304239797",
+            "org": "Microsoft Research"
+        }
+    ],
+    "fields_of_study": [
+        "True quantified Boolean formula",
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "Quadratic residue",
+        "Cryptographic primitive",
+        "Interaction protocol",
+        "Cryptographic protocol",
+        "Residue (complex analysis)",
+        "Cryptography",
+        "Computer science"
+    ],
+    "references": [
+        "1498590645",
+        "1557783852",
+        "2119436952"
+    ]
+}

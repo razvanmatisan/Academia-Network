@@ -1,0 +1,46 @@
+{
+    "id": "161020217",
+    "title": "High-level Proofs about Low-level Programs",
+    "venue": "Electronic Communication of The European Association of Software Science and Technology",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Holger Gast",
+            "id": "2165694080",
+            "org": "University of Tubingen"
+        },
+        {
+            "name": "Julia Trieflinger",
+            "id": "260621696",
+            "org": "University of Tubingen"
+        }
+    ],
+    "fields_of_study": [
+        "Data structure",
+        "Mathematical proof",
+        "Byte",
+        "Theoretical computer science",
+        "Memory model",
+        "Explicit memory",
+        "HOL",
+        "Functional verification",
+        "Computer science",
+        "Abstraction"
+    ],
+    "references": [
+        "14193191",
+        "29700130",
+        "169519546",
+        "1495368328",
+        "1528455415",
+        "1545100927",
+        "1986134382",
+        "2085253283",
+        "2125142549",
+        "2130970533",
+        "2132122557",
+        "2140865947",
+        "2141080699",
+        "2491926874"
+    ]
+}

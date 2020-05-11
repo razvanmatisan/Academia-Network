@@ -1,0 +1,46 @@
+{
+    "id": "12422104",
+    "title": "Batch Queueing in the Winner Resource Management System.",
+    "venue": "parallel and distributed processing techniques and applications",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Olaf Arndt",
+            "id": "2514467892",
+            "org": "Dept . of Electrical Engineering and Computer Science|University of Siegen"
+        },
+        {
+            "name": "Bernd Freisleben",
+            "id": "2466281398",
+            "org": "Dept . of Electrical Engineering and Computer Science|University of Siegen"
+        },
+        {
+            "name": "Thilo Kielmann",
+            "id": "2000018466",
+            "org": "Computer Systems"
+        },
+        {
+            "name": "Frank Thilo",
+            "id": "2073658570",
+            "org": "Dept . of Electrical Engineering and Computer Science|University of Siegen"
+        }
+    ],
+    "fields_of_study": [
+        "Workstation",
+        "Resource Management System",
+        "Distributed computing",
+        "Exploit",
+        "Computer science",
+        "Batch processing",
+        "Resource management",
+        "Layered queueing network",
+        "Idle",
+        "Queueing theory"
+    ],
+    "references": [
+        "1509469082",
+        "1537929875",
+        "1573033176",
+        "2043381104"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "1722279290",
+    "title": "SAFENET-a LAN for Navy mission critical systems",
+    "venue": "local computer networks",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Daniel T. Green",
+            "id": "2110403603",
+            "org": "US Naval Surface Warfare Center, Dahlgren, VA, USA"
+        },
+        {
+            "name": "David T. Marlow",
+            "id": "2123853785",
+            "org": "US Naval Surface Warfare Center, Dahlgren, VA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "Navy",
+        "Mission critical",
+        "Network management",
+        "Directory service",
+        "Networking cables",
+        "Architecture",
+        "OSI model",
+        "Local area network",
+        "Computer science"
+    ],
+    "references": [
+        "1754031839"
+    ]
+}

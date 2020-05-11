@@ -1,0 +1,33 @@
+{
+    "id": "136050693",
+    "title": "Self-calibration from multiple views with a rotating camera",
+    "venue": "european conference on computer vision",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Richard I. Hartley",
+            "id": "2138371963",
+            "org": "G.E. CRD"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Calibration",
+        "Computer science",
+        "Computer vision",
+        "Plane at infinity",
+        "Epipolar geometry",
+        "Rotation matrix",
+        "Real image",
+        "Synthetic data",
+        "Homography"
+    ],
+    "references": [
+        "1630235098",
+        "1943823759",
+        "2065592949",
+        "2121417205",
+        "2157405987",
+        "2164232884"
+    ]
+}

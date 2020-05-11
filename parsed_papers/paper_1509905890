@@ -1,0 +1,34 @@
+{
+    "id": "1509905890",
+    "title": "The Mathematical Foundation fo Symbolic Trajectory Evaluation",
+    "venue": "computer aided verification",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Ching-Tsun Chou",
+            "id": "2147982522",
+            "org": "Intel Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "Symbolic trajectory evaluation",
+        "Corollary",
+        "Algorithm",
+        "Abstract interpretation",
+        "Satisfiability",
+        "Trajectory",
+        "Assertion",
+        "Formal verification",
+        "Data-flow analysis",
+        "Mathematics"
+    ],
+    "references": [
+        "1986558678",
+        "2043100293",
+        "2114067856",
+        "2124153277",
+        "2144928994"
+    ]
+}

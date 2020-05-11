@@ -1,0 +1,43 @@
+{
+    "id": "105869708",
+    "title": "An MDA(r)-based framework for model-driven product derivation.",
+    "venue": "iasted conference on software engineering and applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Oystein Haugen",
+            "id": "2659747775",
+            "org": "University of Oslo"
+        },
+        {
+            "name": "Birger Moller-Pedersen",
+            "id": "2241489685",
+            "org": "University of Oslo"
+        },
+        {
+            "name": "Jon Oldevik",
+            "id": "419587911",
+            "org": "SINTEF"
+        },
+        {
+            "name": "Arnor Solberg",
+            "id": "2170376885",
+            "org": "SINTEF"
+        }
+    ],
+    "fields_of_study": [
+        "Model transformation",
+        "Domain model",
+        "Product family engineering",
+        "Conceptual model",
+        "System model",
+        "Logical data model",
+        "Unified Modeling Language",
+        "Architecture",
+        "Computer science",
+        "Systems engineering"
+    ],
+    "references": [
+        "1594445969"
+    ]
+}

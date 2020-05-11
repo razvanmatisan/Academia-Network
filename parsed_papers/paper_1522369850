@@ -1,0 +1,32 @@
+{
+    "id": "1522369850",
+    "title": "Enhanced theorem reuse by partial theory inclusions",
+    "venue": "artificial intelligence and symbolic computation",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Immanuel Normann",
+            "id": "2796873252",
+            "org": "Computer Science, International University Bremen#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Horn clause",
+        "Transitive closure",
+        "Proof theory",
+        "Axiom",
+        "Graph theory",
+        "Automated theorem proving",
+        "Symbolic computation",
+        "Mathematics",
+        "Space hierarchy theorem"
+    ],
+    "references": [
+        "1499458271",
+        "1532420827",
+        "1538520214",
+        "1784902132",
+        "1924552249"
+    ]
+}

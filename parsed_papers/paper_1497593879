@@ -1,0 +1,37 @@
+{
+    "id": "1497593879",
+    "title": "Hybrid genetic algorithms are better for spatial clustering",
+    "venue": "pacific rim international conference on artificial intelligence",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Vladimir Estivill-Castro",
+            "id": "273506593",
+            "org": "Department of Computer Science & Software Engineering, The University of Newcastle, Callaghan, NSW, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Stochastic gradient descent",
+        "Iterative method",
+        "Gradient descent",
+        "Genetic algorithm",
+        "Pattern recognition",
+        "Cluster analysis",
+        "Mathematical optimization",
+        "Expectation-maximization algorithm",
+        "Explained sum of squares",
+        "Backpropagation",
+        "Mathematics"
+    ],
+    "references": [
+        "46478508",
+        "111853629",
+        "1524740068",
+        "1905425803",
+        "1969193848",
+        "2036246488",
+        "2117341849"
+    ]
+}

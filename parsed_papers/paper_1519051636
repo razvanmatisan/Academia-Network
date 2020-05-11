@@ -1,0 +1,30 @@
+{
+    "id": "1519051636",
+    "title": "Type Extensibility of a Knowledge Representation System with Powersets",
+    "venue": "international syposium on methodologies for intelligent systems",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Cecile Capponi",
+            "id": "1968219720",
+            "org": "Projet Sherpa, INRIA Rhone-Alpes"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Data type",
+        "Artificial intelligence",
+        "Knowledge representation and reasoning",
+        "Data structure",
+        "Abstract data type",
+        "Description logic",
+        "Extensibility",
+        "Computer science"
+    ],
+    "references": [
+        "56664686",
+        "169661509",
+        "286722592",
+        "2159525276"
+    ]
+}

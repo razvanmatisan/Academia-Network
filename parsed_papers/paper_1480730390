@@ -1,0 +1,46 @@
+{
+    "id": "1480730390",
+    "title": "User-Centric optimization with evolutionary and memetic systems",
+    "venue": "international conference on large scale scientific computing",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Javier Espinar",
+            "id": "2511130323",
+            "org": "Dept. Lenguajes y Ciencias de la Computacion, ETSI Informatica, Universidad de Malaga, Malaga, Spain#TAB#"
+        },
+        {
+            "name": "Carlos Cotta",
+            "id": "2169187097",
+            "org": "Dept. Lenguajes y Ciencias de la Computacion, ETSI Informatica, Universidad de Malaga, Malaga, Spain#TAB#"
+        },
+        {
+            "name": "Antonio J. Fernandez-Leiva",
+            "id": "2307383162",
+            "org": "Dept. Lenguajes y Ciencias de la Computacion, ETSI Informatica, Universidad de Malaga, Malaga, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Metaheuristic",
+        "Evolutionary computation",
+        "User-centered design",
+        "Evolutionary algorithm",
+        "GRASP",
+        "Management science",
+        "Local search (optimization)",
+        "Multi-objective optimization",
+        "Computer science",
+        "Memetic algorithm"
+    ],
+    "references": [
+        "33555762",
+        "1519119983",
+        "1572130003",
+        "1816560798",
+        "2019034008",
+        "2075319581",
+        "2131480237",
+        "2149753971",
+        "2151554678"
+    ]
+}

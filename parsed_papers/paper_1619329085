@@ -1,0 +1,32 @@
+{
+    "id": "1619329085",
+    "title": "Generating Configuration Expert Systems from Conceptual Specifications of the Expert Knowledge",
+    "venue": "knowledge acquisition, modeling and management",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Johann Schweiger",
+            "id": "2305735845",
+            "org": "Technische Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Knowledge base",
+        "Expert system",
+        "Knowledge management",
+        "Computer science",
+        "Legal expert system",
+        "Knowledge representation and reasoning",
+        "Knowledge-based systems",
+        "Subject-matter expert",
+        "Knowledge acquisition",
+        "Open Knowledge Base Connectivity"
+    ],
+    "references": [
+        "96305443",
+        "172699314",
+        "1564733196",
+        "2171862092"
+    ]
+}

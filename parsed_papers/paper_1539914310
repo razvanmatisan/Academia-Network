@@ -1,0 +1,40 @@
+{
+    "id": "1539914310",
+    "title": "Online scheduling with hard deadlines on parallel machines",
+    "venue": "algorithmic applications in management",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jihuan Ding",
+            "id": "2139605224",
+            "org": "Department of Mathematics, Zhejiang University, Hangzhou, China#TAB#"
+        },
+        {
+            "name": "Guochuan Zhang",
+            "id": "2101625090",
+            "org": "Department of Mathematics, Zhejiang University, Hangzhou, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Online algorithm",
+        "Admission control",
+        "Distributed computing",
+        "Competitive analysis",
+        "Scheduling (computing)",
+        "Job shop scheduling",
+        "Upper and lower bounds",
+        "Real-time computing",
+        "Deterministic system (philosophy)",
+        "Computer science",
+        "Algorithmics"
+    ],
+    "references": [
+        "1492322076",
+        "1517334619",
+        "1565113225",
+        "2023171863",
+        "2041516682",
+        "2070734629",
+        "2078234942"
+    ]
+}

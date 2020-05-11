@@ -1,0 +1,39 @@
+{
+    "id": "1492552267",
+    "title": "A Machine Learning Algorithm Based on Supervised Clustering and Classification",
+    "venue": "active media technology",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Nong Ye",
+            "id": "2710886441",
+            "org": "Arizona State University"
+        },
+        {
+            "name": "Xiangyang Li",
+            "id": "2671346883",
+            "org": "Arizona State University"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Computer science",
+        "Cluster analysis",
+        "Consensus clustering",
+        "CURE data clustering algorithm",
+        "Correlation clustering",
+        "Fuzzy clustering",
+        "Machine learning",
+        "Biclustering",
+        "Conceptual clustering",
+        "Canopy clustering algorithm",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1530595269",
+        "1633659671",
+        "1971784203",
+        "2161349318"
+    ]
+}

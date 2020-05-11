@@ -1,0 +1,37 @@
+{
+    "id": "1548023671",
+    "title": "Towards the optimal minimization of a pronunciation dictionary model",
+    "venue": "text speech and dialogue",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Simon Dobriyek",
+            "id": "2411771605",
+            "org": "University of Ljubljana, Faculty of Electrical Engineering, Ljubljana, Slovenia#TAB#"
+        },
+        {
+            "name": "Janez Zibert",
+            "id": "2574214053",
+            "org": "University of Primorska, Primorska Institute of Natural Sciences and Technology, Koper, Slovenia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Redundancy (engineering)",
+        "Computer science",
+        "Speech recognition",
+        "Artificial intelligence",
+        "Minification",
+        "Natural language processing",
+        "Pronunciation",
+        "Transducer",
+        "Machine learning",
+        "Finite state transducer"
+    ],
+    "references": [
+        "1491178396",
+        "1582482241",
+        "1586668623",
+        "2046932483",
+        "2070830131"
+    ]
+}

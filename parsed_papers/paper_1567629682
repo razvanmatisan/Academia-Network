@@ -1,0 +1,36 @@
+{
+    "id": "1567629682",
+    "title": "BPEL-unit: JUnit for BPEL processes",
+    "venue": "international conference on service oriented computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Zhong Jie Li",
+            "id": "2680441694",
+            "org": "IBM China Research Lab, Beijing, China#TAB#"
+        },
+        {
+            "name": "Wei Sun",
+            "id": "2646492376",
+            "org": "IBM China Research Lab, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Test Management Approach",
+        "Software engineering",
+        "Black-box testing",
+        "Unit testing",
+        "Data mining",
+        "White-box testing",
+        "Test strategy",
+        "Manual testing",
+        "Business Process Execution Language",
+        "Regression testing",
+        "Simulation",
+        "Computer science"
+    ],
+    "references": [
+        "2006867623",
+        "2033165602"
+    ]
+}

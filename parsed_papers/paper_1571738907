@@ -1,0 +1,33 @@
+{
+    "id": "1571738907",
+    "title": "Two Industrial Trials of Formal Specification",
+    "venue": "algebraic methodology and software technology",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "John S. Fitzgerald",
+            "id": "2106110649",
+            "org": "University of Newcastle upon Tyne"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Formal methods",
+        "Theoretical computer science",
+        "Software requirements specification",
+        "Language Of Temporal Ordering Specification",
+        "Formal specification",
+        "Refinement",
+        "Specification language",
+        "Social software engineering",
+        "Formal verification",
+        "Computer science"
+    ],
+    "references": [
+        "1543142665",
+        "1970495662",
+        "1974536701",
+        "2016976065",
+        "2157577995"
+    ]
+}

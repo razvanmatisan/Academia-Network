@@ -1,0 +1,43 @@
+{
+    "id": "1532525784",
+    "title": "Uncovering the Conceptual Models in Ripple Down Rules",
+    "venue": "international conference on conceptual structures",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Debbie Richards",
+            "id": "2156772009",
+            "org": "University of New South Wales"
+        },
+        {
+            "name": "Paul Compton",
+            "id": "2130286701",
+            "org": "University of New South Wales"
+        }
+    ],
+    "fields_of_study": [
+        "Ripple-down rules",
+        "Management science",
+        "Reuse",
+        "Distributed computing",
+        "Conceptual model",
+        "Knowledge acquisition",
+        "Data mining",
+        "Knowledge-based systems",
+        "Formal concept analysis",
+        "Concept learning",
+        "Bottleneck",
+        "Computer science"
+    ],
+    "references": [
+        "39725046",
+        "1521591401",
+        "1532854226",
+        "1851672339",
+        "2011422262",
+        "2019276034",
+        "2035346816",
+        "2038386889",
+        "2340020088"
+    ]
+}

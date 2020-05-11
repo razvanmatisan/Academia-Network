@@ -1,0 +1,30 @@
+{
+    "id": "1675775829",
+    "title": "An evolutionary measure for image matching",
+    "venue": "international conference on pattern recognition",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Dinkar N. Bhat",
+            "id": "2777904951",
+            "org": "LG Electron. Res. Center of America, Princeton, NJ, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Ordinal Scale",
+        "Permutation",
+        "Evolutionary computation",
+        "Artificial intelligence",
+        "Pixel",
+        "Robustness (computer science)",
+        "Jaro-Winkler distance",
+        "Substring",
+        "Pattern recognition",
+        "Computer science",
+        "Computational complexity theory"
+    ],
+    "references": [
+        "2102832789",
+        "2105795486"
+    ]
+}

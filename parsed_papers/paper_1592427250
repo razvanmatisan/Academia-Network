@@ -1,0 +1,33 @@
+{
+    "id": "1592427250",
+    "title": "A Semantic Matching Algorithm: Analysis and Implementation",
+    "venue": "mathematical foundations of computer science",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Hui Shi",
+            "id": "2124081924",
+            "org": "Universitat Bremen"
+        }
+    ],
+    "fields_of_study": [
+        "Functional programming",
+        "Complexity class",
+        "Semantic computing",
+        "Semantic matching",
+        "Automated theorem proving",
+        "Polynomial",
+        "Theoretical computer science",
+        "Algorithm",
+        "Computer science",
+        "3-dimensional matching"
+    ],
+    "references": [
+        "1513315908",
+        "1542267272",
+        "1581724852",
+        "1993563396",
+        "2031825596",
+        "2113722134"
+    ]
+}

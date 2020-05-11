@@ -1,0 +1,36 @@
+{
+    "id": "1607323714",
+    "title": "Detecting 3-D Parallel Lines for Perceptual Organization",
+    "venue": "european conference on computer vision",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Xavier Lebegue",
+            "id": "2104205392",
+            "org": "The University of Texas at Austin"
+        },
+        {
+            "name": "Jake K. Aggarwal",
+            "id": "2112183790",
+            "org": "The University of Texas at Austin"
+        }
+    ],
+    "fields_of_study": [
+        "Coordinate system",
+        "Artificial intelligence",
+        "Perceptual learning",
+        "Perceptual system",
+        "Computer science",
+        "Computer vision",
+        "Perception",
+        "Image processing",
+        "Line segment",
+        "Parallel",
+        "Mobile robot"
+    ],
+    "references": [
+        "2085020657",
+        "2145158371",
+        "2157921396"
+    ]
+}

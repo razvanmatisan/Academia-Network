@@ -1,0 +1,35 @@
+{
+    "id": "1543867827",
+    "title": "Towards a biomathematical model of intentional autonomous multiagent systems",
+    "venue": "computer aided systems theory",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jochen Pfalzgraf",
+            "id": "289150871",
+            "org": "Department of Computer Science, Institute of Forensic Neuropsychiatry, University of Salzburg#TAB#"
+        },
+        {
+            "name": "Bernhard J. Mitterauer",
+            "id": "1934359272",
+            "org": "Department of Computer Science, Institute of Forensic Neuropsychiatry, University of Salzburg#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Computer science",
+        "Semantics",
+        "Implementation",
+        "Mathematical and theoretical biology",
+        "Autonomous robot",
+        "Artificial neural network",
+        "Category theory",
+        "Multi-agent system",
+        "Autonomous system (mathematics)",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1553374216",
+        "1586030051"
+    ]
+}

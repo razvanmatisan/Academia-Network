@@ -1,0 +1,43 @@
+{
+    "id": "1524980443",
+    "title": "Online coloring of intervals with bandwidth",
+    "venue": "workshop on approximation and online algorithms",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Udo Adamy",
+            "id": "142514827",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "Thomas Erlebach",
+            "id": "2087328515",
+            "org": "ETH Zurich"
+        }
+    ],
+    "fields_of_study": [
+        "Fractional coloring",
+        "Combinatorics",
+        "Mathematical optimization",
+        "Discrete mathematics",
+        "Online algorithm",
+        "Greedy coloring",
+        "Competitive analysis",
+        "Distributed computing",
+        "Interval arithmetic",
+        "Interval graph",
+        "Complete coloring",
+        "Resource allocation",
+        "Mathematics"
+    ],
+    "references": [
+        "148398262",
+        "203573418",
+        "1527665940",
+        "1568139931",
+        "1963482209",
+        "1987042917",
+        "2147737694",
+        "2178802647"
+    ]
+}

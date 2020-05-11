@@ -1,0 +1,47 @@
+{
+    "id": "1816012646",
+    "title": "AToM3: A Tool for Multi-formalism and Meta-modelling",
+    "venue": "fundamental approaches to software engineering",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Juan de Lara",
+            "id": "2160674753",
+            "org": "Universidad Autonoma de Madrid"
+        },
+        {
+            "name": "Juan de Lara",
+            "id": "2160674753",
+            "org": "Universidad Autonoma de Madrid"
+        },
+        {
+            "name": "Hans Vangheluwe",
+            "id": "2045058881",
+            "org": "McGill University"
+        }
+    ],
+    "fields_of_study": [
+        "Formalism (philosophy)",
+        "Theoretical computer science",
+        "Rotation formalisms in three dimensions",
+        "Programming language",
+        "Metamodeling",
+        "Dynamical systems theory",
+        "Modeling and simulation",
+        "Graph rewriting",
+        "Code generation",
+        "Operational semantics",
+        "Computer science"
+    ],
+    "references": [
+        "1491178396",
+        "1504602695",
+        "1566201427",
+        "1569585985",
+        "1889300740",
+        "1979290877",
+        "2064650227",
+        "2109432723",
+        "2168383868"
+    ]
+}

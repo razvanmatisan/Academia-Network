@@ -1,0 +1,43 @@
+{
+    "id": "1576065316",
+    "title": "Reactive tabu search for measuring graph similarity",
+    "venue": "GbRPR'05 Proceedings of the 5th IAPR international conference on Graph-Based Representations in Pattern Recognition",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Sebastien Sorlin",
+            "id": "2000845451",
+            "org": "LIRIS, CNRS FRE2672, bat. Nautibus, University of Lyon I, Villeurbanne cedex, France#TAB#"
+        },
+        {
+            "name": "Christine Solnon",
+            "id": "2068016607",
+            "org": "LIRIS, CNRS FRE2672, bat. Nautibus, University of Lyon I, Villeurbanne cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Quartic graph",
+        "Graph power",
+        "Factor-critical graph",
+        "Discrete mathematics",
+        "Mathematical optimization",
+        "Voltage graph",
+        "Strength of a graph",
+        "Butterfly graph",
+        "Mathematics",
+        "Simplex graph",
+        "Graph factorization"
+    ],
+    "references": [
+        "1502274520",
+        "1545341716",
+        "1600556920",
+        "1655990431",
+        "1974672137",
+        "1984217603",
+        "2046021036",
+        "2053841470",
+        "2104670598",
+        "2109294083"
+    ]
+}

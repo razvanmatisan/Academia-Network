@@ -1,0 +1,32 @@
+{
+    "id": "1792324772",
+    "title": "Below All Subsets for Some Permutational Counting Problems",
+    "venue": "scandinavian workshop on algorithm theory",
+    "year": 2016,
+    "authors": [
+        {
+            "name": "Andreas Bjorklund",
+            "id": "2116076300",
+            "org": "Institutionen for datavetenskap"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Discrete mathematics",
+        "Mathematics",
+        "Computing the permanent",
+        "Multigraph",
+        "Hamiltonian (quantum mechanics)",
+        "Matrix (mathematics)",
+        "Counting problem",
+        "Integer"
+    ],
+    "references": [
+        "1618878876",
+        "1968952709",
+        "1971483538",
+        "1975286948",
+        "1975587904",
+        "2151732151"
+    ]
+}

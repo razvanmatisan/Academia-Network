@@ -1,0 +1,36 @@
+{
+    "id": "1512641181",
+    "title": "Deterministic Systems of Sequential Processes: a class of structured Petri nets",
+    "venue": "applications and theory of petri nets",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Younes Souissi",
+            "id": "2250290439",
+            "org": "Institut National des Telecommunications"
+        }
+    ],
+    "fields_of_study": [
+        "Stochastic Petri net",
+        "Process architecture",
+        "Formal methods",
+        "DSSP (hydrogen bond estimation algorithm)",
+        "Discrete mathematics",
+        "Distributed computing",
+        "Computer science",
+        "Message passing",
+        "Modular design",
+        "Liveness",
+        "Petri net",
+        "Theoretical computer science"
+    ],
+    "references": [
+        "1510345036",
+        "1819916734",
+        "2090740917",
+        "2130638542",
+        "2164003033",
+        "2179661259",
+        "2295768847"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1504217304",
+    "title": "Faster Luby-Rackoff Ciphers",
+    "venue": "fast software encryption",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Stefan Lucks",
+            "id": "2645504127",
+            "org": "Georg-August-Universitat Gottingen"
+        }
+    ],
+    "fields_of_study": [
+        "Differential cryptanalysis",
+        "Residual block termination",
+        "Kasiski examination",
+        "Stream cipher attack",
+        "Block size",
+        "Theoretical computer science",
+        "Avalanche effect",
+        "Computer science",
+        "T-function",
+        "MDC-2"
+    ],
+    "references": [
+        "1483955788",
+        "1501549751",
+        "1527570981",
+        "1559931973",
+        "1569086558",
+        "2015826302",
+        "2077300005",
+        "2117362057"
+    ]
+}

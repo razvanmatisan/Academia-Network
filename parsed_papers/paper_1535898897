@@ -1,0 +1,47 @@
+{
+    "id": "1535898897",
+    "title": "A novel approach to reusable time-economized STIL based pattern development",
+    "venue": "vlsi design and test",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Rahul Malhotra",
+            "id": "2225787659",
+            "org": "IIIT Delhi"
+        },
+        {
+            "name": "Sujay Deb",
+            "id": "2320603484",
+            "org": "IIIT Delhi"
+        },
+        {
+            "name": "Fabio Carlucci",
+            "id": "2240901195",
+            "org": "ST Microelectronics, Greater Noida, Uttar Pradesh"
+        }
+    ],
+    "fields_of_study": [
+        "Code coverage",
+        "Real-time computing",
+        "System on a chip",
+        "Electronic engineering",
+        "Computer science",
+        "Test engineer",
+        "Embedded system",
+        "Test compression",
+        "Time to market",
+        "Automatic test pattern generation",
+        "Reusability",
+        "Automotive industry"
+    ],
+    "references": [
+        "1559719544",
+        "1902239726",
+        "1968865352",
+        "2064499425",
+        "2113903347",
+        "2121331887",
+        "2133386310",
+        "2156101882"
+    ]
+}

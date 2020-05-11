@@ -1,0 +1,39 @@
+{
+    "id": "1499045143",
+    "title": "DirectSVM: A Simple Support Vector Machine Perceptron",
+    "venue": "signal processing systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Danny Roobaert",
+            "id": "2480479027",
+            "org": "Artificial Intelligence Lab, Department of Computer Science, University of Toronto, Toronto ON M5S 3H5, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Support vector machine",
+        "Sequential minimal optimization",
+        "Perceptron",
+        "Structured support vector machine",
+        "Mathematical optimization",
+        "Relevance vector machine",
+        "Margin classifier",
+        "Linear separability",
+        "Least squares support vector machine",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Mathematics"
+    ],
+    "references": [
+        "1709057194",
+        "1976990135",
+        "2087347434",
+        "2100038678",
+        "2119821739",
+        "2148603752",
+        "2151040995",
+        "2153635508",
+        "2154579312",
+        "2166282318"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "1605995803",
+    "title": "A modular multiplication algorithm with triangle additions",
+    "venue": "symposium on computer arithmetic",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Naofumi Takagi",
+            "id": "2102346390",
+            "org": "Dept. of Inf. Sci., Kyoto Univ., Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Multiplication algorithm",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Kochanski multiplication",
+        "Modular arithmetic",
+        "Cryptosystem",
+        "Algorithm",
+        "Residue (complex analysis)",
+        "Cryptography",
+        "Mathematics"
+    ],
+    "references": [
+        "1519059659",
+        "1540582803",
+        "2108834246"
+    ]
+}

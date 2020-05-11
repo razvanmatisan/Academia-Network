@@ -1,0 +1,35 @@
+{
+    "id": "1563852347",
+    "title": "Provably Secure Metering Scheme",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Wakaha Ogata",
+            "id": "2058530354",
+            "org": "Tokyo Institute of Technology"
+        },
+        {
+            "name": "Kaoru Kurosawa",
+            "id": "1646480596",
+            "org": "Tokyo Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Provable security",
+        "Computer science",
+        "Information protection policy",
+        "Metering mode",
+        "Audit",
+        "Communication complexity",
+        "Public-key cryptography",
+        "Web server",
+        "Distributed computing",
+        "Secret sharing"
+    ],
+    "references": [
+        "1596850266",
+        "2129289679",
+        "2141420453"
+    ]
+}

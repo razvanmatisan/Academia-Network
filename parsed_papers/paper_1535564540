@@ -1,0 +1,37 @@
+{
+    "id": "1535564540",
+    "title": "Improvement of Cluster Detection and Labeling Neural Network by Introducing Elliptical Basis Function",
+    "venue": "international conference on artificial neural networks",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Christophe Lurette",
+            "id": "2303496777",
+            "org": "Laboratoire I3D, USTL"
+        },
+        {
+            "name": "Stephane Lecoeuche",
+            "id": "2463860861",
+            "org": "Laboratoire I3D, USTL"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Network architecture",
+        "Transfer function",
+        "Artificial neural network",
+        "Artificial intelligence",
+        "Architecture",
+        "Pattern recognition",
+        "Basis function",
+        "Activation function",
+        "Computer science"
+    ],
+    "references": [
+        "1975395358",
+        "2073568237",
+        "2119647208",
+        "2128279985",
+        "2140939879"
+    ]
+}

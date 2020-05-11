@@ -1,0 +1,39 @@
+{
+    "id": "1614476484",
+    "title": "Implementation results of bloom filters for string matching",
+    "venue": "field-programmable custom computing machines",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Michael Attig",
+            "id": "404106645",
+            "org": "Appl. Res. Lab., Washington Univ., USA"
+        },
+        {
+            "name": "Sarang Dharmapurikar",
+            "id": "1841619341",
+            "org": "Appl. Res. Lab., Washington Univ., USA"
+        },
+        {
+            "name": "John W. Lockwood",
+            "id": "2022287624",
+            "org": "Appl. Res. Lab., Washington Univ., USA"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Parallel computing",
+        "Message authentication code",
+        "Network packet",
+        "Field-programmable gate array",
+        "Intrusion prevention system",
+        "Computer science",
+        "Bloom filter",
+        "String searching algorithm",
+        "The Internet"
+    ],
+    "references": [
+        "1674877186",
+        "2123845384"
+    ]
+}

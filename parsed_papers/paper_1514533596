@@ -1,0 +1,42 @@
+{
+    "id": "1514533596",
+    "title": "Computer Aided Requirements Management",
+    "venue": "international conference on computational collective intelligence",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Kamil Karwowski",
+            "id": "2492218228",
+            "org": "Institute of Computer Science, Warsaw University of Technology,#TAB#"
+        },
+        {
+            "name": "Witold Wysota",
+            "id": "1969540116",
+            "org": "Institute of Computer Science, Warsaw University of Technology,#TAB#"
+        },
+        {
+            "name": "Jacek Wytrebowicz",
+            "id": "2190700528",
+            "org": "Institute of Computer Science, Warsaw University of Technology,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Requirements management",
+        "Data mining",
+        "Semantic network",
+        "Functional requirement",
+        "Non-functional requirement",
+        "Computer science",
+        "Computer-aided",
+        "Requirement prioritization",
+        "Ontology (information science)",
+        "Architecture",
+        "Knowledge management"
+    ],
+    "references": [
+        "1517165089",
+        "1761256982",
+        "2167662161"
+    ]
+}

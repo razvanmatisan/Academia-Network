@@ -1,0 +1,30 @@
+{
+    "id": "1528070154",
+    "title": "Streaming String Transducers",
+    "venue": "workshop on logic language information and computation",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Rajeev Alur",
+            "id": "689646243",
+            "org": "University of Pennsylvania"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Functional programming",
+        "Equivalence (measure theory)",
+        "Algorithm",
+        "Computer science",
+        "Finite-state machine",
+        "PSPACE",
+        "Monad (functional programming)",
+        "Quantum finite automata",
+        "Satisfiability",
+        "Data domain"
+    ],
+    "references": [
+        "1529428897",
+        "2032823354"
+    ]
+}

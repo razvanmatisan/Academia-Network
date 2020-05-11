@@ -1,0 +1,32 @@
+{
+    "id": "1520068574",
+    "title": "Language Independent Container Specification",
+    "venue": "Selected Papers from the International Seminar on Generic Programming",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Alexandre V. Zamulin",
+            "id": "2059859948",
+            "org": "Siberian Division of the Russian Academy of Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Iterator pattern",
+        "Iterator",
+        "Container (abstract data type)",
+        "Generic programming",
+        "Standard Template Library",
+        "Database",
+        "Abstract state machines",
+        "Object type",
+        "Programming language",
+        "Unique identifier",
+        "Computer science"
+    ],
+    "references": [
+        "1486609093",
+        "1497184464",
+        "1544633123",
+        "2059895047"
+    ]
+}

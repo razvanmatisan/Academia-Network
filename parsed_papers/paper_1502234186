@@ -1,0 +1,33 @@
+{
+    "id": "1502234186",
+    "title": "Benchmark Problems in Which Equality Plays the Major Role",
+    "venue": "conference on automated deduction",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Ewing L. Lusk",
+            "id": "1977610862",
+            "org": "Argonne National Laboratory"
+        },
+        {
+            "name": "Larry Wos",
+            "id": "2024384555",
+            "org": "Argonne National Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Mathematical logic",
+        "Algorithm",
+        "Automated reasoning",
+        "Robbins algebra",
+        "Group theory",
+        "Automation",
+        "Combinatory logic",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "2013434344",
+        "2044767417"
+    ]
+}

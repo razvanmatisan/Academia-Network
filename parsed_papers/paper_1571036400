@@ -1,0 +1,51 @@
+{
+    "id": "1571036400",
+    "title": "Particle filters, a quasi-monte carlo solution for segmentation of coronaries",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Charles Florin",
+            "id": "2113285740",
+            "org": "Imaging & Visualization Department, Siemens Corporate Research, Princeton, NJ#TAB#"
+        },
+        {
+            "name": "Nikos Paragios",
+            "id": "2041929413",
+            "org": "CERTIS - Ecole Nationale des Ponts et Chaussees, Champs-sur-Marne, France#TAB#"
+        },
+        {
+            "name": "James W. Williams",
+            "id": "2597619904",
+            "org": "Imaging & Visualization Department, Siemens Corporate Research, Princeton, NJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Computer vision",
+        "Quasi-Monte Carlo method",
+        "Monte Carlo integration",
+        "Mathematical optimization",
+        "Mixture model",
+        "Monte Carlo method",
+        "Segmentation",
+        "Hybrid Monte Carlo",
+        "Particle filter",
+        "Markov chain Monte Carlo",
+        "Mathematics"
+    ],
+    "references": [
+        "1520386923",
+        "1524428407",
+        "2005476680",
+        "2099505818",
+        "2104355613",
+        "2114894781",
+        "2126736494",
+        "2128839247",
+        "2147196412",
+        "2158050435",
+        "2160337655"
+    ]
+}

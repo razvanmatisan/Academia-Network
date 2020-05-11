@@ -1,0 +1,54 @@
+{
+    "id": "1565924926",
+    "title": "Dynamic Graph Clustering Using Minimum-Cut Trees",
+    "venue": "workshop on algorithms and data structures",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Robert Gorke",
+            "id": "2036458022",
+            "org": "Faculty of Informatics, Universitat Karlsruhe (TH), Karlsruhe Institute of Technology (KIT),#TAB#"
+        },
+        {
+            "name": "Tanja Hartmann",
+            "id": "2257845665",
+            "org": "Faculty of Informatics, Universitat Karlsruhe (TH), Karlsruhe Institute of Technology (KIT),#TAB#"
+        },
+        {
+            "name": "Dorothea Wagner",
+            "id": "2140363637",
+            "org": "Faculty of Informatics, Universitat Karlsruhe (TH), Karlsruhe Institute of Technology (KIT),#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Cluster analysis",
+        "Discrete mathematics",
+        "Correlation clustering",
+        "Fuzzy clustering",
+        "k-medians clustering",
+        "CURE data clustering algorithm",
+        "Mathematical optimization",
+        "Single-linkage clustering",
+        "Voltage graph",
+        "Canopy clustering algorithm",
+        "Mathematics"
+    ],
+    "references": [
+        "1207633162",
+        "1778020744",
+        "1986207529",
+        "1994788283",
+        "2013469283",
+        "2030724586",
+        "2034331023",
+        "2090359754",
+        "2107139394",
+        "2109726592",
+        "2126789858",
+        "2127048411",
+        "2130891992",
+        "2132914434",
+        "2550016344"
+    ]
+}

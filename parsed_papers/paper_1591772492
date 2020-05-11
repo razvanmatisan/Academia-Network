@@ -1,0 +1,46 @@
+{
+    "id": "1591772492",
+    "title": "An algorithm for the induction of defeasible logic theories from databases",
+    "venue": "australasian database conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Benjamin Johnston",
+            "id": "2119111402",
+            "org": "School of Information Technology and Electrical Engineering, The University of Queensland, Brisbane, Queensland, Australia#TAB#"
+        },
+        {
+            "name": "Guido Governatori",
+            "id": "2108494256",
+            "org": "School of Information Technology and Electrical Engineering, The University of Queensland, Brisbane, Queensland, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Precedent",
+        "Branch and bound",
+        "Expert system",
+        "Rule-based system",
+        "Defeasible logic",
+        "Association rule learning",
+        "Algorithm",
+        "Computer science",
+        "Machine learning",
+        "Artificial intelligence",
+        "Heuristics",
+        "Artificial intelligence and law"
+    ],
+    "references": [
+        "1519321178",
+        "1637985016",
+        "2014343072",
+        "2025139391",
+        "2039686381",
+        "2064853889",
+        "2092011393",
+        "2098791425",
+        "2101791665",
+        "2109029617",
+        "2125055259"
+    ]
+}

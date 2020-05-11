@@ -1,0 +1,45 @@
+{
+    "id": "1574263887",
+    "title": "Non-negative hidden Markov modeling of audio with application to source separation",
+    "venue": "international conference on latent variable analysis and signal separation",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Gautham J. Mysore",
+            "id": "2144483826",
+            "org": "Center for Computer Research in Music and Acoustics, Stanford University#TAB#"
+        },
+        {
+            "name": "Paris Smaragdis",
+            "id": "1984479034",
+            "org": "Advanced Technology Labs, Adobe Systems Inc.#TAB#"
+        },
+        {
+            "name": "Bhiksha Raj",
+            "id": "2166106843",
+            "org": "School of Computer Science, Carnegie Mellon University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Maximum-entropy Markov model",
+        "Markov model",
+        "Forward algorithm",
+        "Source separation",
+        "Probabilistic logic",
+        "Variable-order Markov model",
+        "Markov chain",
+        "Machine learning",
+        "Pattern recognition",
+        "Hidden Markov model",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "80444264",
+        "1528056001",
+        "2112921197",
+        "2127851351",
+        "2134807719",
+        "2155531311"
+    ]
+}

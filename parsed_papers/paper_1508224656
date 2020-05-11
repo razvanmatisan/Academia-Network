@@ -1,0 +1,30 @@
+{
+    "id": "1508224656",
+    "title": "A Typed Lambda Calculus with Categorical Type Constructors",
+    "venue": "Category Theory and Computer Science",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Tatsuya Hagino",
+            "id": "2632422072",
+            "org": "University of Edinburgh"
+        }
+    ],
+    "fields_of_study": [
+        "Lambda cube",
+        "Discrete mathematics",
+        "Type constructor",
+        "Fixed-point combinator",
+        "Typed lambda calculus",
+        "Simply typed lambda calculus",
+        "System F",
+        "Pure type system",
+        "Dependent type",
+        "Mathematics"
+    ],
+    "references": [
+        "165446927",
+        "2024873396",
+        "2037729105"
+    ]
+}

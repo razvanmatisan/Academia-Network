@@ -1,0 +1,36 @@
+{
+    "id": "1528845003",
+    "title": "Type Checking Classes in Object-Z to Promote Quality of Specifications",
+    "venue": "Software Quality and Productivity: Theory, practice and training",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Jian Chen",
+            "id": "2706211103",
+            "org": "Monash University"
+        },
+        {
+            "name": "Bohdan Durnota",
+            "id": "1070366637",
+            "org": "Monash University"
+        }
+    ],
+    "fields_of_study": [
+        "Software requirements specification",
+        "Software development",
+        "Model checking",
+        "Software design",
+        "Formal specification",
+        "Specification language",
+        "Software verification and validation",
+        "Package development process",
+        "Programming language",
+        "Computer science",
+        "Systems engineering"
+    ],
+    "references": [
+        "172305180",
+        "1794841650",
+        "2104452490"
+    ]
+}

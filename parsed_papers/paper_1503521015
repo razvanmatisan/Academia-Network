@@ -1,0 +1,41 @@
+{
+    "id": "1503521015",
+    "title": "Term Graph Rewriting",
+    "venue": "HOA '95 Selected Papers from the Second International Workshop on Higher-Order Algebra, Logic, and Term Rewriting",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Jan Willem Klop",
+            "id": "2310247031",
+            "org": "CWI"
+        },
+        {
+            "name": "Jan Willem Klop",
+            "id": "2310247031",
+            "org": "CWI"
+        }
+    ],
+    "fields_of_study": [
+        "Recursion",
+        "Graph rewriting",
+        "Discrete mathematics",
+        "Lambda calculus",
+        "Garbage collection",
+        "Clique-width",
+        "Algorithm",
+        "Mathematics",
+        "Confluence",
+        "Abstract semantic graph",
+        "Rewriting"
+    ],
+    "references": [
+        "1546302958",
+        "1555216982",
+        "1589263972",
+        "1848485899",
+        "2006468185",
+        "2084745607",
+        "2101016798",
+        "2295866357"
+    ]
+}

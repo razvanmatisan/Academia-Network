@@ -1,0 +1,44 @@
+{
+    "id": "1494435042",
+    "title": "Automated keyphrase extraction: assisting students in the search for online materials",
+    "venue": "atlantic web intelligence conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "John Kilbride",
+            "id": "2141229663",
+            "org": "Department of Computer Science, University College Dublin, Belfield, Dublin 4, Ireland#TAB#"
+        },
+        {
+            "name": "Eleni Mangina",
+            "id": "99055383",
+            "org": "Department of Computer Science, University College Dublin, Belfield, Dublin 4, Ireland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Trustworthiness",
+        "Data mining",
+        "Information retrieval",
+        "Computer science",
+        "Online search",
+        "Systems design",
+        "Search engine",
+        "Learning environment",
+        "The Internet",
+        "Informal learning",
+        "Web search engine"
+    ],
+    "references": [
+        "26591655",
+        "1493526108",
+        "1907578970",
+        "2012713830",
+        "2060772621",
+        "2066636486",
+        "2099685860",
+        "2113609601",
+        "2155106456",
+        "2159094788",
+        "2169602691"
+    ]
+}

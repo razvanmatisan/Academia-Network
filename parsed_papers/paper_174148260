@@ -1,0 +1,35 @@
+{
+    "id": "174148260",
+    "title": "Attention-Based Robot Control",
+    "venue": "international conference on knowledge-based and intelligent information and engineering systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Stathis Kasderidis",
+            "id": "94972064",
+            "org": "King's College London"
+        },
+        {
+            "name": "John G. Taylor",
+            "id": "2296541475",
+            "org": "King's College London"
+        }
+    ],
+    "fields_of_study": [
+        "Personal robot",
+        "Robot learning",
+        "Mobile robot",
+        "Social robot",
+        "Simulation",
+        "Mobile robot navigation",
+        "Control engineering",
+        "Robot control",
+        "Computer science",
+        "Arm solution",
+        "Real-time Control System"
+    ],
+    "references": [
+        "1575773511",
+        "2081817157"
+    ]
+}

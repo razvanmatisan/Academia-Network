@@ -1,0 +1,30 @@
+{
+    "id": "1607600671",
+    "title": "Virtual Expansion of Rainbow Tables",
+    "venue": "international conference on digital forensics",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Vrizlynn L. L. Thing",
+            "id": "2893790179",
+            "org": "Institute for Infocomm Research"
+        }
+    ],
+    "fields_of_study": [
+        "Password",
+        "Encryption",
+        "Database",
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Computational complexity theory",
+        "Digital forensics",
+        "Rainbow table",
+        "Computer science"
+    ],
+    "references": [
+        "1549671385",
+        "1882297107",
+        "2012646342",
+        "2104633167"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": "1600983603",
+    "title": "Inference control in logic databases as a constraint satisfaction problem",
+    "venue": "international conference on information systems security",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Joachim Biskup",
+            "id": "2134007924",
+            "org": "Fachbereich Informatik, Universitamund Dortmund, Dortmund, Germany#TAB#"
+        },
+        {
+            "name": "Dominique Marc Burgard",
+            "id": "2340838556",
+            "org": "Fachbereich Informatik, Universitamund Dortmund, Dortmund, Germany#TAB#"
+        },
+        {
+            "name": "Torben Weibert",
+            "id": "38965623",
+            "org": "Fachbereich Informatik, Universitamund Dortmund, Dortmund, Germany#TAB#"
+        },
+        {
+            "name": "Lena Wiese",
+            "id": "2140063843",
+            "org": "Fachbereich Informatik, Universitamund Dortmund, Dortmund, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Constraint programming",
+        "Constraint satisfaction dual problem",
+        "Complexity of constraint satisfaction",
+        "Concurrent constraint logic programming",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Database",
+        "Computer science",
+        "Constraint learning",
+        "Constraint logic programming",
+        "Theoretical computer science",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "1515441675",
+        "1537427830",
+        "1727654594",
+        "1733489975",
+        "1969789681",
+        "1987332998",
+        "2021079739",
+        "2037956976",
+        "2058970046",
+        "2067106503"
+    ]
+}

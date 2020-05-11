@@ -1,0 +1,44 @@
+{
+    "id": "1573652402",
+    "title": "Age classification combining contour and texture feature",
+    "venue": "international conference on neural information processing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Yan-Ming Tang",
+            "id": "2276949307",
+            "org": "Center for Brain-Like Computing and Machine Intelligence, Department of Computer Science and Engineering, Shanghai, Jiao Tong University, Shanghai, China#TAB#"
+        },
+        {
+            "name": "Bao-Liang Lu",
+            "id": "2099287918",
+            "org": "Center for Brain-Like Computing and Machine Intelligence, Department of Computer Science and Eng., Shanghai, Jiao Tong Univ., Shanghai, China and MOE-Microsoft Key Lab. for Int. Computing and Int. ...#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Feature (machine learning)",
+        "Support vector machine",
+        "Kanade-Lucas-Tomasi feature tracker",
+        "Machine learning",
+        "Feature (computer vision)",
+        "Texture filtering",
+        "Artificial intelligence",
+        "Local binary patterns",
+        "Pattern recognition",
+        "Feature extraction",
+        "Texture compression",
+        "Computer vision",
+        "Computer science"
+    ],
+    "references": [
+        "1510526001",
+        "1555640461",
+        "1769974409",
+        "2038952578",
+        "2056983531",
+        "2095757522",
+        "2096336206",
+        "2121939926",
+        "2164598857"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1546559129",
+    "title": "Comparing Invariants for Class Fields of Imaginary Quadratic Fields",
+    "venue": "algorithmic number theory symposium",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Andreas Enge",
+            "id": "2250264814",
+            "org": "Ecole polytechnique"
+        },
+        {
+            "name": "Francois Morain",
+            "id": "2007777908",
+            "org": "Ecole polytechnique"
+        }
+    ],
+    "fields_of_study": [
+        "Number theory",
+        "Discrete mathematics",
+        "Elliptic curve",
+        "Invariant (mathematics)",
+        "Elliptic curve primality",
+        "Quadratic field",
+        "Modular form",
+        "Algebraic number field",
+        "Polynomial",
+        "Mathematics"
+    ],
+    "references": [
+        "1513429293",
+        "2025384727",
+        "2031838298",
+        "2156382452"
+    ]
+}

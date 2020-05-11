@@ -1,0 +1,39 @@
+{
+    "id": "1492947443",
+    "title": "Web-Enabling Geographic Data with Object-Relational Databases",
+    "venue": "Datenbanksysteme in Buro, Technik und Wissenschaft (BTW), 9. GI-Fachtagung,",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Carsten Kleiner",
+            "id": "2396239931",
+            "org": "Universitat Hannover"
+        },
+        {
+            "name": "Udo W. Lipeck",
+            "id": "2608262123",
+            "org": "Universitat Hannover"
+        }
+    ],
+    "fields_of_study": [
+        "Semi-structured model",
+        "View",
+        "Database",
+        "Data mining",
+        "Data warehouse",
+        "Database design",
+        "Database model",
+        "Data transformation",
+        "Database schema",
+        "Computer science",
+        "Data modeling"
+    ],
+    "references": [
+        "97077349",
+        "1506831386",
+        "1535627680",
+        "1567588492",
+        "1604305177",
+        "1916576906"
+    ]
+}

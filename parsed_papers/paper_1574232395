@@ -1,0 +1,37 @@
+{
+    "id": "1574232395",
+    "title": "Learning Content Recommendation Service Based-on Simple Sequencing Specification",
+    "venue": "international conference on web-based learning",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Liping Shen",
+            "id": "2112608809",
+            "org": "Shanghai Jiao Tong University"
+        },
+        {
+            "name": "Ruimin Shen",
+            "id": "2195100411",
+            "org": "Shanghai Jiao Tong University"
+        }
+    ],
+    "fields_of_study": [
+        "Teaching method",
+        "Knowledge management",
+        "Learning object",
+        "Knowledge base",
+        "Expert system",
+        "Knowledge-based systems",
+        "Image retrieval",
+        "Computer science",
+        "Data mining",
+        "Protege",
+        "Content analysis"
+    ],
+    "references": [
+        "193530434",
+        "1997841190",
+        "2135300212",
+        "2168972707"
+    ]
+}

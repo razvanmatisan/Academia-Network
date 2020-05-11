@@ -1,0 +1,30 @@
+{
+    "id": "1511108553",
+    "title": "Universal access through client-centred cognitive assessment and personality profiling.",
+    "venue": "ERCIM workshop on user interfaces for all",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ray G. Adams",
+            "id": "2252538027",
+            "org": "Middlesex University"
+        }
+    ],
+    "fields_of_study": [
+        "Information access",
+        "Human-computer interaction",
+        "Computer user satisfaction",
+        "Universal design",
+        "Emerging technologies",
+        "User modeling",
+        "Artificial intelligence",
+        "User requirements document",
+        "User profile",
+        "Computer science",
+        "User interface"
+    ],
+    "references": [
+        "166322005",
+        "1913312173"
+    ]
+}

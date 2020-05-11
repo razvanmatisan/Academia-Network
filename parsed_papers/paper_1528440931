@@ -1,0 +1,30 @@
+{
+    "id": "1528440931",
+    "title": "Datafly: A System for Providing Anonymity in Medical Data",
+    "venue": "Proceedings of the IFIP TC11 WG11.3 Eleventh International Conference on Database Securty XI: Status and Prospects",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Latanya Sweeney",
+            "id": "2777673388",
+            "org": "Massachusetts Institute of Technology Cambridge"
+        }
+    ],
+    "fields_of_study": [
+        "Social Security number",
+        "Anonymity",
+        "Phone",
+        "Batch processing",
+        "On the fly",
+        "Computer security",
+        "Confidentiality",
+        "Identifier",
+        "Internet privacy",
+        "Computer program",
+        "Computer science"
+    ],
+    "references": [
+        "2123774149",
+        "2138801553"
+    ]
+}

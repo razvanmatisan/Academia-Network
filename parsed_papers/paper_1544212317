@@ -1,0 +1,31 @@
+{
+    "id": "1544212317",
+    "title": "Automatic Singularity Test for Motion Analysis by an Information Criterion",
+    "venue": "european conference on computer vision",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Kenichi Kanatani",
+            "id": "2280745349",
+            "org": "Gunma University"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Computer vision",
+        "Maximum likelihood",
+        "Artificial intelligence",
+        "Motion analysis",
+        "Motion estimation",
+        "Structure from motion",
+        "Planar",
+        "Control theory",
+        "Singularity",
+        "Motion field"
+    ],
+    "references": [
+        "212739341",
+        "2115334033",
+        "2153563330"
+    ]
+}

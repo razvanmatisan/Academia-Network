@@ -1,0 +1,41 @@
+{
+    "id": "152093514",
+    "title": "Audio Information Retrieval (AIR) Tools.",
+    "venue": "international symposium/conference on music information retrieval",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Perry R. Cook",
+            "id": "2127663426",
+            "org": "Princeton University"
+        },
+        {
+            "name": "George Tzanetakis",
+            "id": "2152010163",
+            "org": "Princeton University"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Human-computer information retrieval",
+        "Information retrieval",
+        "Computer science",
+        "Machine learning",
+        "Music information retrieval",
+        "Concept search",
+        "Digital audio",
+        "Mel-frequency cepstrum",
+        "Audio analyzer",
+        "Raw audio format",
+        "Linear predictive coding"
+    ],
+    "references": [
+        "1589182518",
+        "1774234760",
+        "1861596447",
+        "2046134527",
+        "2128838222",
+        "2140772338",
+        "2166248431"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1508676564",
+    "title": "Applying the Resource Description Framework to Web Engineering",
+    "venue": "electronic commerce and web technologies",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Reinhold Klapsing",
+            "id": "1248277074",
+            "org": "University of Essen"
+        },
+        {
+            "name": "Gustaf Neumann",
+            "id": "2113115014",
+            "org": "University of Essen"
+        }
+    ],
+    "fields_of_study": [
+        "Web standards",
+        "Database",
+        "Web application security",
+        "Data mining",
+        "Web service",
+        "Web development",
+        "Semantic Web",
+        "Web modeling",
+        "Computer science",
+        "Semantic Web Stack",
+        "WS-Policy"
+    ],
+    "references": [
+        "87306216",
+        "2044990068",
+        "2063358702",
+        "2063845067",
+        "2109101568"
+    ]
+}

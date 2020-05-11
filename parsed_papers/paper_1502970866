@@ -1,0 +1,36 @@
+{
+    "id": "1502970866",
+    "title": "Neural Network Regression for LHF Process Optimization",
+    "venue": "international conference on neural information processing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Miroslaw Kordos",
+            "id": "2245460938",
+            "org": "Department of Material Engineering and Metallurgy, The Silesian University of Technology, Katowice, Poland 40-019#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Process optimization",
+        "Time delay neural network",
+        "Machine learning",
+        "Artificial intelligence",
+        "Stochastic neural network",
+        "Pattern recognition",
+        "Artificial neural network",
+        "Feature selection",
+        "Input/output",
+        "Computer science",
+        "Multilayer perceptron",
+        "Activation function"
+    ],
+    "references": [
+        "1530232915",
+        "1546003325",
+        "1969097421",
+        "2055855936",
+        "2058538513",
+        "2116297960",
+        "2160397751"
+    ]
+}

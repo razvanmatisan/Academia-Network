@@ -1,0 +1,41 @@
+{
+    "id": "1606198718",
+    "title": "Architectures of Enterprise Systems: Modelling Transactional Contexts",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Iman Poernomo",
+            "id": "2891420942",
+            "org": "Monash University, Caulfield East"
+        },
+        {
+            "name": "Ralf H. Reussner",
+            "id": "2888052400",
+            "org": "Monash University, Caulfield East"
+        },
+        {
+            "name": "Heinz W. Schmidt",
+            "id": "2133052068",
+            "org": "Monash University"
+        }
+    ],
+    "fields_of_study": [
+        "Implementation",
+        "Enterprise system",
+        "Middleware (distributed applications)",
+        "Database",
+        "Java",
+        "Component-based software engineering",
+        "Computer science",
+        "Software",
+        "Software architecture",
+        "Middleware"
+    ],
+    "references": [
+        "1489800325",
+        "2096973649",
+        "2110425399",
+        "2162366870"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1506157725",
+    "title": "Multi-lattices as a basis for generalized fuzzy logic programming",
+    "venue": "international workshop on fuzzy logic and applications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jesus Medina",
+            "id": "2101414484",
+            "org": "Dept. Matematica Aplicada, Universidad de Malaga#TAB#"
+        },
+        {
+            "name": "Manuel Ojeda-Aciego",
+            "id": "1962625704",
+            "org": "Dept. Matematica Aplicada, Universidad de Malaga#TAB#"
+        },
+        {
+            "name": "Jorge Ruiz-Calvino",
+            "id": "264681433",
+            "org": "Dept. Matematica Aplicada, Universidad de Malaga#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Functional logic programming",
+        "Horn clause",
+        "Computer science",
+        "Fuzzy logic",
+        "Dynamic logic (modal logic)",
+        "Logic programming",
+        "Multimodal logic",
+        "Intermediate logic",
+        "Higher-order logic"
+    ],
+    "references": [
+        "1554990043",
+        "1568260037",
+        "1984723670",
+        "2002985477",
+        "2022476135",
+        "2024614677",
+        "2141538006",
+        "2152825128"
+    ]
+}

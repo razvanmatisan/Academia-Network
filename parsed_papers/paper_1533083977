@@ -1,0 +1,35 @@
+{
+    "id": "1533083977",
+    "title": "Coordinated Incremental Attribute Evaluation on a DR-Threaded Tree",
+    "venue": "Proceedings of the International Conference WAGA on Attribute Grammars and their Applications",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Scott A. Vorthmann",
+            "id": "1211193294",
+            "org": "Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Dependency graph",
+        "Thread (computing)",
+        "Semantics",
+        "Copying",
+        "Graph",
+        "Distributed computing",
+        "Divergence",
+        "Threaded binary tree",
+        "Incremental decision tree",
+        "Artificial intelligence",
+        "Mathematics",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1990597096",
+        "2029068974",
+        "2033272649",
+        "2059587003",
+        "2084472818",
+        "2104464431"
+    ]
+}

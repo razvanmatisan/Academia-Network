@@ -1,0 +1,46 @@
+{
+    "id": "1482839775",
+    "title": "Cluttered Orderings for the Complete Graph",
+    "venue": "computing and combinatorics conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Myra B. Cohen",
+            "id": "2151210804",
+            "org": "University of Auckland"
+        },
+        {
+            "name": "Charles J. Colbourn",
+            "id": "2157907216",
+            "org": "University of Vermont"
+        },
+        {
+            "name": "Dalibor Froncek",
+            "id": "176564898",
+            "org": "Technical Univ. Ostrava"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Discrete mathematics",
+        "Vertex (geometry)",
+        "De Bruijn graph",
+        "Cycle graph",
+        "Complete graph",
+        "Erasure code",
+        "Parity (mathematics)",
+        "Multiple edges",
+        "Mixed graph",
+        "Mathematics"
+    ],
+    "references": [
+        "1504660457",
+        "1531975040",
+        "1964089084",
+        "2099627766",
+        "2120737913",
+        "2147853062",
+        "2159986814",
+        "2296226841"
+    ]
+}

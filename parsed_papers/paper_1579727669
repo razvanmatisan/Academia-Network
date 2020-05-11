@@ -1,0 +1,41 @@
+{
+    "id": "1579727669",
+    "title": "An Eager Regression Method Based on Best Feature Projections",
+    "venue": "industrial and engineering applications of artificial intelligence and expert systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Tolga Aydn",
+            "id": "2284440010",
+            "org": "Bilkent University"
+        },
+        {
+            "name": "H. Altay Guvenir",
+            "id": "421612369",
+            "org": "Bilkent University"
+        }
+    ],
+    "fields_of_study": [
+        "Categorical variable",
+        "Feature Dimension",
+        "Data mining",
+        "Feature (computer vision)",
+        "Machine learning",
+        "Principal component regression",
+        "Feature (machine learning)",
+        "Computer science",
+        "Feature vector",
+        "k-nearest neighbors algorithm",
+        "Dimensionality reduction",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1527338945",
+        "1571076699",
+        "1965934112",
+        "1986241547",
+        "2079917809",
+        "2147169507"
+    ]
+}

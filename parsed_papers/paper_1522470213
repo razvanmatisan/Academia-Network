@@ -1,0 +1,33 @@
+{
+    "id": "1522470213",
+    "title": "New Generalized Data Structures for Matrices Lead to a Variety of High Performance Algorithms",
+    "venue": "international conference on parallel processing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Fred G. Gustavson",
+            "id": "2077030820",
+            "org": "Yorktown Heights"
+        }
+    ],
+    "fields_of_study": [
+        "Block matrix",
+        "Computer science",
+        "Parallel computing",
+        "LU decomposition",
+        "Kernel (linear algebra)",
+        "System of linear equations",
+        "Matrix (mathematics)",
+        "Cholesky decomposition",
+        "Data structure",
+        "Algorithm",
+        "Theoretical computer science",
+        "Fortran"
+    ],
+    "references": [
+        "1975244539",
+        "2026237859",
+        "2032052535",
+        "2042975873"
+    ]
+}

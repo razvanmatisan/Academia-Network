@@ -1,0 +1,36 @@
+{
+    "id": "1500229497",
+    "title": "Inquirus, the NECI meta search engine",
+    "venue": "international world wide web conferences",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Steve Lawrence",
+            "id": "2114878113",
+            "org": "NEC Research Institute, 4 Independence Way, Princeton, NJ 08540, USA"
+        },
+        {
+            "name": "C. Lee Giles",
+            "id": "2124749556",
+            "org": "NEC Research Institute, 4 Independence Way, Princeton, NJ 08540, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Data mining",
+        "World Wide Web",
+        "Organic search",
+        "Metasearch engine",
+        "Query expansion",
+        "Search analytics",
+        "Search engine indexing",
+        "Computer science",
+        "Ranking (information retrieval)",
+        "Proximity search",
+        "Spamdexing"
+    ],
+    "references": [
+        "1550771877",
+        "1833785989"
+    ]
+}

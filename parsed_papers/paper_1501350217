@@ -1,0 +1,40 @@
+{
+    "id": "1501350217",
+    "title": "A General Scheme for Breadth-First Graph Traversal",
+    "venue": "mathematics of program construction",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Martin Russling",
+            "id": "146197485",
+            "org": "Universitat Augsburg"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "Graph traversal",
+        "Quartic graph",
+        "Factor-critical graph",
+        "Combinatorics",
+        "Voltage graph",
+        "Butterfly graph",
+        "Distance-hereditary graph",
+        "Strength of a graph",
+        "Simplex graph",
+        "Mathematics"
+    ],
+    "references": [
+        "1504717566",
+        "1510119905",
+        "1534679741",
+        "1589642822",
+        "1993075518",
+        "2006006495",
+        "2037911517",
+        "2080726204",
+        "2097747488",
+        "2138709157",
+        "2170362097"
+    ]
+}

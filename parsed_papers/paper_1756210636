@@ -1,0 +1,40 @@
+{
+    "id": "1756210636",
+    "title": "Graphical Modeling and Simulation of Learning Designs",
+    "venue": "international conference on computers in education",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Andreas Harrer",
+            "id": "2029084078",
+            "org": "Collide Group, University Duisburg-Essen, Germany, harrer@collide.info#TAB#"
+        },
+        {
+            "name": "Nils Malzahn",
+            "id": "188323894",
+            "org": "Collide Group, University Duisburg-Essen, Germany, harrer@collide.info#TAB#"
+        },
+        {
+            "name": "H. Ulrich Hoppe",
+            "id": "2600197373",
+            "org": "Collide Group, University Duisburg-Essen, Germany, harrer@collide.info#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Computer science",
+        "Theoretical computer science",
+        "Modeling language",
+        "Modeling and simulation",
+        "Simulation",
+        "Instructional design",
+        "Graphical model"
+    ],
+    "references": [
+        "1575913317",
+        "1985667055",
+        "2129066201",
+        "2129395888",
+        "2153078142"
+    ]
+}

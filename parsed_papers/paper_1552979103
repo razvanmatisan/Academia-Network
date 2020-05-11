@@ -1,0 +1,37 @@
+{
+    "id": "1552979103",
+    "title": "Automated Conjecturing of Frobenius Numbers via Grammatical Evolution",
+    "venue": "Experimental Mathematics",
+    "year": 2017,
+    "authors": [
+        {
+            "name": "Nikola Adzaga",
+            "id": "2595822728",
+            "org": "Department of Mathematics, Faculty of Civil Engineering, University of Zagreb, Zagreb, Croatia"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical analysis",
+        "Symbolic regression",
+        "Number theory",
+        "Topology",
+        "GRASP",
+        "Discrete mathematics",
+        "Mathematics",
+        "Genetic programming",
+        "Combinatorics",
+        "Enumeration",
+        "Sketch",
+        "Grammatical evolution",
+        "Coin problem"
+    ],
+    "references": [
+        "1501858132",
+        "2002301065",
+        "2011931262",
+        "2053969447",
+        "2104416102",
+        "2124479173",
+        "2296218809"
+    ]
+}

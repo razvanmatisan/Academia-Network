@@ -1,0 +1,32 @@
+{
+    "id": "1588709998",
+    "title": "Consensus Sequence Plots and Error Thresholds: Tools for Visualising the Structure of Fitness Landscapes",
+    "venue": "parallel problem solving from nature",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Gabriela Ochoa",
+            "id": "2104376372",
+            "org": "The University of Sussex, Falmer"
+        }
+    ],
+    "fields_of_study": [
+        "Evolutionary algorithm",
+        "Mathematical and theoretical biology",
+        "Genetic algorithm",
+        "Artificial intelligence",
+        "Mutation rate",
+        "Fitness landscape",
+        "Machine learning",
+        "Functional decomposition",
+        "Evolutionary dynamics",
+        "Computer science",
+        "Algorithm",
+        "Population"
+    ],
+    "references": [
+        "1484638596",
+        "1515457845",
+        "1585921282"
+    ]
+}

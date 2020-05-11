@@ -1,0 +1,40 @@
+{
+    "id": "1531575814",
+    "title": "Some Positive Results for Boundedness of Multiple Recursive Rules",
+    "venue": "international conference on database theory",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Ke Wang",
+            "id": "2626264286",
+            "org": "National University of Singapore"
+        }
+    ],
+    "fields_of_study": [
+        "Decidability",
+        "Discrete mathematics",
+        "Datalog",
+        "Uniqueness",
+        "Recursion",
+        "Arity",
+        "PSPACE",
+        "Conjunctive query",
+        "Bounded function",
+        "Computer science"
+    ],
+    "references": [
+        "245469613",
+        "1501047561",
+        "1585796231",
+        "1979514837",
+        "1983914494",
+        "1994301353",
+        "1994464782",
+        "2004862636",
+        "2019120929",
+        "2048541310",
+        "2076108709",
+        "2093117456",
+        "2105681750"
+    ]
+}

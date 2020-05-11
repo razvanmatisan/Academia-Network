@@ -1,0 +1,44 @@
+{
+    "id": "157143398",
+    "title": "PVESTA: a parallel statistical model checking and quantitative analysis tool",
+    "venue": "conference on algebra and coalgebra in computer science",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Musab AlTurki",
+            "id": "2329680381",
+            "org": "University of Illinois at Urbana-Champaign, Urbana, IL#TAB#"
+        },
+        {
+            "name": "Jose Meseguer",
+            "id": "2141313922",
+            "org": "University of Illinois at Urbana-Champaign, Urbana, IL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Probabilistic CTL",
+        "Computer science",
+        "Discrete mathematics",
+        "Probabilistic relevance model",
+        "Probabilistic logic",
+        "Divergence-from-randomness model",
+        "Theoretical computer science",
+        "Scalability",
+        "Abstraction model checking",
+        "Statistical model",
+        "Markov chain"
+    ],
+    "references": [
+        "1511105469",
+        "1533572394",
+        "1560643704",
+        "1976195354",
+        "1996506321",
+        "2005998857",
+        "2067971887",
+        "2083505384",
+        "2106265536",
+        "2114158268",
+        "2120926795"
+    ]
+}

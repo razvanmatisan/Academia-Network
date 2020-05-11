@@ -1,0 +1,42 @@
+{
+    "id": "1602662578",
+    "title": "Dynamical systems trees",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Andrew Howard",
+            "id": "2112027886",
+            "org": "Columbia University, New York, NY#TAB#"
+        },
+        {
+            "name": "Tony Jebara",
+            "id": "2048157592",
+            "org": "Columbia University, New York, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hierarchy",
+        "Mathematics",
+        "Machine learning",
+        "Artificial intelligence",
+        "Tree structure",
+        "Dynamical system",
+        "Kalman filter",
+        "Dynamical systems theory",
+        "Nonlinear system",
+        "Network topology",
+        "Hidden Markov model"
+    ],
+    "references": [
+        "1528056001",
+        "1568191923",
+        "2102716594",
+        "2104163628",
+        "2110935301",
+        "2138280907",
+        "2140440049",
+        "2145002876",
+        "2167023596"
+    ]
+}

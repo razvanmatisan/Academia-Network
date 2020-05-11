@@ -1,0 +1,37 @@
+{
+    "id": "1550619647",
+    "title": "Dynamic maps in monte carlo localization",
+    "venue": "canadian conference on artificial intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Adam Milstein",
+            "id": "2112501512",
+            "org": "School of Computer Science, University of Waterloo, Waterloo, ON#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile robot",
+        "Machine learning",
+        "Robot",
+        "Artificial intelligence",
+        "Probabilistic method",
+        "Monte Carlo method",
+        "Bayesian probability",
+        "Computer science",
+        "Monte Carlo localization",
+        "Robotics"
+    ],
+    "references": [
+        "1518703880",
+        "1572232541",
+        "1592813209",
+        "1601378499",
+        "1675551633",
+        "2135092312",
+        "2140927080",
+        "2148820580",
+        "2154943073",
+        "2160584648"
+    ]
+}

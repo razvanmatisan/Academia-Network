@@ -1,0 +1,32 @@
+{
+    "id": "1561400825",
+    "title": "Model Diagnostics for Remote Access Regression Servers",
+    "venue": "Statistics and Computing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jerome P. Reiter",
+            "id": "1905884054",
+            "org": "Institute of Statistics and Decision Sciences, Box 90251, Duke University, Durham, NC 27708, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Statistics",
+        "Variables",
+        "Regression diagnostic",
+        "General linear model",
+        "Synthetic data",
+        "Server",
+        "Standard error",
+        "Data mining",
+        "Generalized linear model",
+        "Microdata (HTML)",
+        "Computer science"
+    ],
+    "references": [
+        "237305821",
+        "1509910777",
+        "1535377138",
+        "1550744777"
+    ]
+}

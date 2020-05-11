@@ -1,0 +1,41 @@
+{
+    "id": "1510884566",
+    "title": "Measuring semantic similarity between geospatial conceptual regions",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Angela Schwering",
+            "id": "2020014843",
+            "org": "Ordnance Survey of Great Britain, United Kingdom#TAB#"
+        },
+        {
+            "name": "Martin Raubal",
+            "id": "2249358914",
+            "org": "Institute for Geoinformatics, University of Muenster, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semantic interoperability",
+        "Similarity measure",
+        "Semantics",
+        "Geospatial analysis",
+        "Geographic information system",
+        "Semantic computing",
+        "Semantic Web",
+        "Data mining",
+        "Semantic similarity",
+        "Computer science"
+    ],
+    "references": [
+        "1556613215",
+        "1568691446",
+        "1796264214",
+        "1849252796",
+        "1979663447",
+        "2084180754",
+        "2087739686",
+        "2134126205",
+        "2149906774"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1501026504",
+    "title": "Spatial Internet Marketplaces: A Grand Challenge?",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "David J. Abel",
+            "id": "2096247799",
+            "org": "CSIRO Mathematical and Information Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Market research",
+        "Marketing",
+        "Spatial decision support system",
+        "Information industry",
+        "Data access",
+        "Information market",
+        "Systems design",
+        "Distributed computing",
+        "Information technology",
+        "Computer security",
+        "Computer science",
+        "The Internet"
+    ],
+    "references": [
+        "1495556926",
+        "1514257960",
+        "1583873984",
+        "2074965064",
+        "2138076477"
+    ]
+}

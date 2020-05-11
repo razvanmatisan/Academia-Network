@@ -1,0 +1,39 @@
+{
+    "id": "1531160657",
+    "title": "Structural damage detection by integrating independent component analysis and support vector machine",
+    "venue": "advanced data mining and applications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Huazhu Song",
+            "id": "2115485360",
+            "org": "School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, P.R. China#TAB#"
+        },
+        {
+            "name": "Luo Zhong",
+            "id": "2643433071",
+            "org": "School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, P.R. China#TAB#"
+        },
+        {
+            "name": "Bo Han",
+            "id": "2677691995",
+            "org": "Center for Information Science and Technology, Temple University, Philadelphia, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Service life",
+        "Independent component analysis",
+        "Support vector machine",
+        "Data mining",
+        "Machine learning",
+        "Artificial neural network",
+        "Computer science"
+    ],
+    "references": [
+        "177357870",
+        "1663792126",
+        "2108995755",
+        "2159737176"
+    ]
+}

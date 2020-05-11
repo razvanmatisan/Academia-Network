@@ -1,0 +1,29 @@
+{
+    "id": "1535715099",
+    "title": "GAACO: A GA + ACO Hybrid for Faster and Better Search Capability",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Adnan Acan",
+            "id": "1820038433",
+            "org": "Eastern Mediterranean University"
+        }
+    ],
+    "fields_of_study": [
+        "Evolutionary algorithm",
+        "Metaheuristic",
+        "Genetic algorithm",
+        "Mathematical optimization",
+        "Ant colony optimization algorithms",
+        "Population",
+        "Hybrid algorithm",
+        "Combinatorial optimization",
+        "Quadratic assignment problem",
+        "Algorithm",
+        "Computer science"
+    ],
+    "references": [
+        "2140481494"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1569587472",
+    "title": "Seamless Communication and Access to Information for Mobile Users in a Wireless Environment",
+    "venue": "international conference on enterprise information systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Golha Sharifi",
+            "id": "2018820895",
+            "org": "University of Saskatchewan"
+        },
+        {
+            "name": "Julita Vassileva",
+            "id": "1185234378",
+            "org": "University of Saskatchewan"
+        },
+        {
+            "name": "Ralph Deters",
+            "id": "1689898797",
+            "org": "University of Saskatchewan"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile database",
+        "Wi-Fi array",
+        "Mobile search",
+        "Radio access network",
+        "Mobile station",
+        "Mobile Web",
+        "Mobile technology",
+        "Computer network",
+        "Computer science",
+        "Mobile computing"
+    ],
+    "references": [
+        "1567640524",
+        "1598660716",
+        "2099883111",
+        "2102741008",
+        "2128672031"
+    ]
+}

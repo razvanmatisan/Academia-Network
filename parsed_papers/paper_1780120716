@@ -1,0 +1,41 @@
+{
+    "id": "1780120716",
+    "title": "An agent negotiation engine for collaborative decision making",
+    "venue": "modeling decisions for artificial intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Tom Wanyama",
+            "id": "1848360881",
+            "org": "Department of Electrical and Computer Engineering, University of Calgary, Calgary, Alberta, Canada#TAB#"
+        },
+        {
+            "name": "Behrouz H. Far",
+            "id": "2115501983",
+            "org": "Department of Electrical and Computer Engineering, University of Calgary, Calgary, Alberta, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Management science",
+        "Qualitative reasoning",
+        "Artificial intelligence",
+        "Autonomous agent",
+        "Social Welfare",
+        "Decision support system",
+        "Simulation",
+        "Group decision-making",
+        "Deadlock",
+        "Negotiation",
+        "Computer science"
+    ],
+    "references": [
+        "1517480288",
+        "1524584174",
+        "1566277354",
+        "1964167056",
+        "2060907774",
+        "2081754091",
+        "2110872636"
+    ]
+}

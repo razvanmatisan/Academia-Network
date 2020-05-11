@@ -1,0 +1,33 @@
+{
+    "id": "1519678728",
+    "title": "Enhancing the Structure of Z Specifications",
+    "venue": "Proceedings of the Z User Workshop",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "David J. Duke",
+            "id": "2778676141",
+            "org": "University of Queensland"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Notation",
+        "Discrete mathematics",
+        "Axiom",
+        "Schema (psychology)",
+        "Abstract data type",
+        "Facet (geometry)",
+        "Abstract syntax",
+        "Mathematics"
+    ],
+    "references": [
+        "1495400307",
+        "1564174837",
+        "1570542700",
+        "1584992184",
+        "1596779761",
+        "2104452490",
+        "2135024913"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "150776435",
+    "title": "Cryptanalysis of Pseudo-random Generators Based on Vectorial FCSRs",
+    "venue": "international conference on cryptology in india",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Thierry P. Berger",
+            "id": "2230282940",
+            "org": "Universite de Limoges"
+        },
+        {
+            "name": "Marine Minier",
+            "id": "2170245978",
+            "org": "Universite de Lyon, INRIA"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "Linear function",
+        "Pseudorandom number generator",
+        "Cryptanalysis",
+        "Linear feedback shift register",
+        "Stream cipher",
+        "Feedback with Carry Shift Registers",
+        "Mathematics"
+    ],
+    "references": [
+        "1482605212",
+        "1492441428",
+        "1502317825",
+        "1513554972",
+        "1566252749",
+        "1584542188",
+        "1592558250",
+        "1708343850",
+        "2008254902",
+        "2072580053",
+        "2094132308",
+        "2103352188",
+        "2132247054",
+        "2151236127"
+    ]
+}

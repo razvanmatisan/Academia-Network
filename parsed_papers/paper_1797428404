@@ -1,0 +1,41 @@
+{
+    "id": "1797428404",
+    "title": "Features and Classifiers for the Automatic Classification of Musical Audio Signals",
+    "venue": "international symposium/conference on music information retrieval",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Kristopher West",
+            "id": "2283862723",
+            "org": "University of East Anglia"
+        },
+        {
+            "name": "Stephen J. Cox",
+            "id": "2585973874",
+            "org": "University of East Anglia"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Audio signal",
+        "Computer science",
+        "Linear discriminant analysis",
+        "Artificial intelligence",
+        "Gaussian",
+        "Decision tree",
+        "Classifier (linguistics)",
+        "Linear classifier",
+        "Random subspace method",
+        "Pattern recognition"
+    ],
+    "references": [
+        "131293899",
+        "1577685863",
+        "1835965142",
+        "1986053274",
+        "2031614119",
+        "2097807493",
+        "2125324924",
+        "2133824856"
+    ]
+}

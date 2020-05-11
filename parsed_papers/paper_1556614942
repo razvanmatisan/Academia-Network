@@ -1,0 +1,37 @@
+{
+    "id": "1556614942",
+    "title": "Context-Specific Independence in Directed Relational Probabilistic Models and its Influence on the Efficiency of Gibbs Sampling",
+    "venue": "european conference on artificial intelligence",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Daan Fierens",
+            "id": "256756514",
+            "org": "Department of Computer Science, Katholieke Universiteit Leuven, Belgium, email: daan.fierens@cs.kuleuven.be#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Inference",
+        "Artificial intelligence",
+        "Machine learning",
+        "Probabilistic relevance model",
+        "Computer science",
+        "Probabilistic logic",
+        "Approximate inference",
+        "Bayesian network",
+        "Statistical relational learning",
+        "Statistical model",
+        "Gibbs sampling"
+    ],
+    "references": [
+        "73939759",
+        "203049729",
+        "1544444076",
+        "1584654272",
+        "1797876566",
+        "2038500945",
+        "2137126099",
+        "2155102572",
+        "2167116921"
+    ]
+}

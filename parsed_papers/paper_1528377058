@@ -1,0 +1,48 @@
+{
+    "id": "1528377058",
+    "title": "Hopcroft's Algorithm and Cyclic Automata",
+    "venue": "language and automata theory and applications",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Giusi Castiglione",
+            "id": "2089212603",
+            "org": "Dipartimento di Matematica e Applicazioni, Universita di Palermo, Palermo, Italy 90123#TAB#"
+        },
+        {
+            "name": "Antonio Restivo",
+            "id": "1995084502",
+            "org": "Dipartimento di Matematica e Applicazioni, Universita di Palermo, Palermo, Italy 90123#TAB#"
+        },
+        {
+            "name": "Marinella Sciortino",
+            "id": "2105873785",
+            "org": "Dipartimento di Matematica e Applicazioni, Universita di Palermo, Palermo, Italy 90123#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Two-way deterministic finite automaton",
+        "Discrete mathematics",
+        "Combinatorics",
+        "DFA minimization",
+        "o-automaton",
+        "Quantum finite automata",
+        "Nested word",
+        "Continuous spatial automaton",
+        "Algorithm",
+        "Deterministic automaton",
+        "Mathematics",
+        "Automata theory"
+    ],
+    "references": [
+        "1556120461",
+        "1586668623",
+        "1588292369",
+        "1588454361",
+        "1986184582",
+        "2030681981",
+        "2070830131",
+        "2081090714",
+        "2091022743"
+    ]
+}

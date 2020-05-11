@@ -1,0 +1,35 @@
+{
+    "id": "1591425412",
+    "title": "A bootstrapping approach to conceptual clustering",
+    "venue": "international conference on machine learning",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Katharina Morik",
+            "id": "2070565061",
+            "org": "GMD, F3/XPS, P.O.Box 1240, D-5205 St.Augustin, Germany (West)"
+        },
+        {
+            "name": "Joerg-Uwe Kietz",
+            "id": "2273911757",
+            "org": "GMD, F3/XPS, P.O.Box 1240, D-5205 St.Augustin, Germany (West)"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Mathematics",
+        "Knowledge representation and reasoning",
+        "First-order logic",
+        "Conceptual model (computer science)",
+        "Rule of inference",
+        "Artificial intelligence",
+        "Inference engine",
+        "Conceptual clustering",
+        "Bootstrapping",
+        "Concept learning"
+    ],
+    "references": [
+        "2029680470",
+        "2159525276"
+    ]
+}

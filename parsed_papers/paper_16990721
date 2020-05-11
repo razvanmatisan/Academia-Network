@@ -1,0 +1,34 @@
+{
+    "id": "16990721",
+    "title": "Similarity Search in XML Data using Cost-Based Query Transformations.",
+    "venue": "international workshop on the web and databases",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Torsten Schlieder",
+            "id": "185627034",
+            "org": "Freie Universitat Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Information retrieval",
+        "Query optimization",
+        "Concept search",
+        "Web search query",
+        "Data mining",
+        "Computer science",
+        "Query expansion",
+        "Web query classification",
+        "Ranking (information retrieval)",
+        "RDF query language",
+        "Sargable"
+    ],
+    "references": [
+        "22830412",
+        "1660390307",
+        "1975009259",
+        "2007857312",
+        "2138540053"
+    ]
+}

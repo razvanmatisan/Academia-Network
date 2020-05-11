@@ -1,0 +1,36 @@
+{
+    "id": "1757682328",
+    "title": "A Framework for Distributed Reinforcement Learning",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Pan Gu",
+            "id": "2465380615",
+            "org": "Northeastern University"
+        },
+        {
+            "name": "Anthony B. Maddox",
+            "id": "2698087687",
+            "org": "Northeastern University"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Leabra",
+        "Wake-sleep algorithm",
+        "Active learning (machine learning)",
+        "Learning classifier system",
+        "Unsupervised learning",
+        "Multi-task learning",
+        "Robot learning",
+        "Reinforcement learning",
+        "Computer science"
+    ],
+    "references": [
+        "1557517019",
+        "1641379095",
+        "2052117683"
+    ]
+}

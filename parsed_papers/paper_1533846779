@@ -1,0 +1,29 @@
+{
+    "id": "1533846779",
+    "title": "On two recent attempts to show that English is not a CFL",
+    "venue": "Computational Linguistics",
+    "year": 1984,
+    "authors": [
+        {
+            "name": "Geoffrey K. Pullum",
+            "id": "2284566928",
+            "org": "University of California, Santa Cruz, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parsing",
+        "Natural language processing",
+        "Natural language",
+        "Generative grammar",
+        "Artificial intelligence",
+        "Denial",
+        "Language identification",
+        "Linguistics",
+        "Computer science",
+        "Recursively enumerable language"
+    ],
+    "references": [
+        "1550226055",
+        "2103939851"
+    ]
+}

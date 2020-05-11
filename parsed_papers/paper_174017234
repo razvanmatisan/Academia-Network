@@ -1,0 +1,37 @@
+{
+    "id": "174017234",
+    "title": "Rule Induction as Exploratory Data Analysis",
+    "venue": "international conference on artificial intelligence and statistics",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Jason Catlett",
+            "id": "2672126504",
+            "org": "AT&T Bell Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Training set",
+        "Rule induction",
+        "Machine learning",
+        "Artificial intelligence",
+        "Decision rule",
+        "Exploratory data analysis",
+        "Decision table",
+        "Computer science",
+        "Sampling (statistics)"
+    ],
+    "references": [
+        "1485712894",
+        "1513874326",
+        "1515227130",
+        "1595468493",
+        "1608701707",
+        "1630964756",
+        "1991597981",
+        "2066933362",
+        "2128420091",
+        "2133431834",
+        "2319794630"
+    ]
+}

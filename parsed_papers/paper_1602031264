@@ -1,0 +1,58 @@
+{
+    "id": "1602031264",
+    "title": "Text Mining in the SOMLib Digital Library System: The Representation of Topics and Genres",
+    "venue": "Applied Intelligence",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Andreas Rauber",
+            "id": "2057632188",
+            "org": "Department of Software Technology, Vienna University of Technology, Favoritenstr. 9-11/188, A-1040 Vienna, Austria. andi@ifs.tuwien.ac.at#TAB#"
+        },
+        {
+            "name": "Dieter Merkl",
+            "id": "651475416",
+            "org": "Department of Software Technology, Vienna University of Technology, Favoritenstr. 9-11/188, A-1040 Vienna, Austria. dieter@ifs.tuwien.ac.at#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Visualization",
+        "Machine learning",
+        "Computer science",
+        "Cluster analysis",
+        "Artificial intelligence",
+        "Information retrieval",
+        "Hierarchy",
+        "Document clustering",
+        "Digital library",
+        "Artificial neural network",
+        "Graphics",
+        "Data mining",
+        "Text mining"
+    ],
+    "references": [
+        "1487806714",
+        "1524674157",
+        "1526580693",
+        "1574191126",
+        "1641006451",
+        "1833785989",
+        "1996764654",
+        "2005758492",
+        "2006493416",
+        "2028342611",
+        "2041332679",
+        "2064579132",
+        "2074011351",
+        "2074449313",
+        "2082708424",
+        "2103442113",
+        "2117812871",
+        "2118209142",
+        "2127601566",
+        "2149053355",
+        "2157886637",
+        "2162161511",
+        "2203835818"
+    ]
+}

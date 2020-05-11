@@ -1,0 +1,29 @@
+{
+    "id": "1762141172",
+    "title": "Managing Critical Spreadsheets in a Compliant Environment",
+    "venue": "arXiv: Software Engineering",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Soheil Saadat",
+            "id": "2717214678",
+            "org": "Prodiance Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Process management",
+        "Systems engineering",
+        "Mandate",
+        "Operational risk",
+        "Basel II",
+        "Change control",
+        "Computer security",
+        "Audit",
+        "Access control",
+        "Engineering"
+    ],
+    "references": [
+        "1512791200",
+        "1575549743"
+    ]
+}

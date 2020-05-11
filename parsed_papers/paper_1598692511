@@ -1,0 +1,33 @@
+{
+    "id": "1598692511",
+    "title": "Hybrid modeling and verification of Java based software",
+    "venue": "SET",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Konrad Kulakowski",
+            "id": "2143308348",
+            "org": "AGH University of Science and Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Formal methods",
+        "Process calculus",
+        "Petri net",
+        "Hybrid system",
+        "Java",
+        "Bisimulation",
+        "Theoretical computer science",
+        "Software",
+        "Formal verification",
+        "Programming language",
+        "Computer science"
+    ],
+    "references": [
+        "1503973138",
+        "1517958155",
+        "1554045856",
+        "1556838231",
+        "2137865376"
+    ]
+}

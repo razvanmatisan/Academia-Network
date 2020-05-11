@@ -1,0 +1,38 @@
+{
+    "id": "1493760256",
+    "title": "IP traceback algorithm for DoS/DDoS attack",
+    "venue": "asia pacific network operations and management symposium",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Hongbin Yim",
+            "id": "2138549188",
+            "org": "Department of Electrical and Computer Engineering Hanyang University, Sungdong-gu, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jae-il Jung",
+            "id": "2133530556",
+            "org": "Department of Electrical and Computer Engineering Hanyang University, Sungdong-gu, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "Network packet",
+        "IP traceback",
+        "Internet Protocol",
+        "Application layer DDoS attack",
+        "Algorithm",
+        "Internet security",
+        "Denial-of-service attack",
+        "Computer science",
+        "Computer security",
+        "The Internet",
+        "Trinoo"
+    ],
+    "references": [
+        "1498306861",
+        "1967949770",
+        "2084830206",
+        "2106655090"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1589285216",
+    "title": "Recovering human pose in 3D by visual manifolds",
+    "venue": "international conference on pattern recognition",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Zibin Wang",
+            "id": "2305446394",
+            "org": "Dept. of Mech. and Automation Engineering, The Chinese University of Hong Kong"
+        },
+        {
+            "name": "Ronald Chung",
+            "id": "2164461207",
+            "org": "Dept. of Mech. and Automation Engineering, The Chinese University of Hong Kong"
+        }
+    ],
+    "fields_of_study": [
+        "3D pose estimation",
+        "Computer vision",
+        "Feature detection (computer vision)",
+        "Manifold",
+        "Feature extraction",
+        "Articulated body pose estimation",
+        "Training set",
+        "Artificial intelligence",
+        "Pose",
+        "Motion capture",
+        "Pattern recognition",
+        "Computer science"
+    ],
+    "references": [
+        "1502922572",
+        "1785794460",
+        "1997500560",
+        "2104941942",
+        "2131263044",
+        "2131417778",
+        "2139461634",
+        "2151259142",
+        "2158268505"
+    ]
+}

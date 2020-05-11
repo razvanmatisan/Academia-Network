@@ -1,0 +1,40 @@
+{
+    "id": "1574447973",
+    "title": "Using Online Learning to Analyze the Opponent's Behavior",
+    "venue": "robot soccer world cup",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Ubbo Visser",
+            "id": "196936156",
+            "org": "University of Bremen"
+        },
+        {
+            "name": "Hans Georg Weland",
+            "id": "2600500686",
+            "org": "University of Bremen"
+        }
+    ],
+    "fields_of_study": [
+        "Effective method",
+        "Model-based reasoning",
+        "Computer science",
+        "Simulation",
+        "Decision tree",
+        "Machine learning",
+        "League",
+        "Adversary",
+        "Decision tree learning",
+        "Football",
+        "Robotics",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1597858345",
+        "1600860698",
+        "1757815404",
+        "1824415582",
+        "2032427901",
+        "2125055259"
+    ]
+}

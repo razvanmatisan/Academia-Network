@@ -1,0 +1,43 @@
+{
+    "id": "1481097559",
+    "title": "Trade-Off Analysis of Real-Time Control Performance and Schedulability*",
+    "venue": "Real-time Systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Danbing Seto",
+            "id": "2631918792",
+            "org": "Pratt & Whitney, United Technologies Corp., 400 Main Street, MS 163-14 East Hartford, CT 06108#TAB#"
+        },
+        {
+            "name": "John P. Lehoczky",
+            "id": "282073601",
+            "org": "Department of Statistics, Carnegie Mellon University, Pittsburgh, PA 15213#TAB#"
+        },
+        {
+            "name": "Lui Sha",
+            "id": "2126304957",
+            "org": "Department of Computer Science, University of Illinois, 1304 W. Springfield Avenue, Urbana, IL 61801#TAB#"
+        },
+        {
+            "name": "Kang G. Shin",
+            "id": "2160067404",
+            "org": "Real-Time Computing Laboratory, Department of Electrical Engineering and Computer Science, The University of Michigan, Ann Arbor, MI 48109#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Real-time computing",
+        "Control theory",
+        "Scheduling (computing)",
+        "Computing Methodologies",
+        "Resource management",
+        "Computer science",
+        "Real-time Control System",
+        "Physical system"
+    ],
+    "references": [
+        "2099287519",
+        "2164299558"
+    ]
+}

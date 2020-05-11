@@ -1,0 +1,41 @@
+{
+    "id": "1699388987",
+    "title": "XDuce: A Typed XML Processing Language (Preliminary Report)",
+    "venue": "international workshop on the web and databases",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Haruo Hosoya",
+            "id": "2099269196",
+            "org": "University of Pennsylvania"
+        },
+        {
+            "name": "Benjamin C. Pierce",
+            "id": "1988947184",
+            "org": "University of Pennsylvania"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "XML Signature",
+        "RELAX NG",
+        "Regular Language description for XML",
+        "Computer science",
+        "Programming language",
+        "XML Schema Editor",
+        "XML framework",
+        "XML validation",
+        "XML Schema (W3C)",
+        "Efficient XML Interchange"
+    ],
+    "references": [
+        "1990483472",
+        "1995362929",
+        "1996126974",
+        "2019789808",
+        "2087060113",
+        "2108584692",
+        "2153166264",
+        "2167787721"
+    ]
+}

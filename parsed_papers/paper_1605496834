@@ -1,0 +1,48 @@
+{
+    "id": "1605496834",
+    "title": "Tree-Based Method for Classifying Websites Using Extended Hidden Markov Models",
+    "venue": "knowledge discovery and data mining",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Majid Yazdani",
+            "id": "2779217113",
+            "org": "Web Intelligence Laboratory, Computer Engineering Department, Sharif University of Technology, Tehran, Iran#TAB#"
+        },
+        {
+            "name": "Milad Eftekhar",
+            "id": "2123746623",
+            "org": "Web Intelligence Laboratory, Computer Engineering Department, Sharif University of Technology, Tehran, Iran#TAB#"
+        },
+        {
+            "name": "Hassan Abolhassani",
+            "id": "1968678165",
+            "org": "Web Intelligence Laboratory, Computer Engineering Department, Sharif University of Technology, Tehran, Iran#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Web mining",
+        "Computer science",
+        "Artificial intelligence",
+        "Forward algorithm",
+        "Machine learning",
+        "Markov model",
+        "Viterbi algorithm",
+        "Sampling (statistics)",
+        "Tree structure",
+        "Web page",
+        "Hidden Markov model",
+        "Pattern recognition"
+    ],
+    "references": [
+        "178180052",
+        "1503141391",
+        "2033751006",
+        "2065168033",
+        "2076008912",
+        "2112335400",
+        "2121715962",
+        "2704966794"
+    ]
+}

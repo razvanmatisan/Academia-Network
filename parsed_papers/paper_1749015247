@@ -1,0 +1,32 @@
+{
+    "id": "1749015247",
+    "title": "An efficient parallel solution for Euclidean shortest path in three dimensions",
+    "venue": "international conference on robotics and automation",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Chanderjit L. Bajaj",
+            "id": "2467782642",
+            "org": "Purdue University, West Lafayette, IN"
+        }
+    ],
+    "fields_of_study": [
+        "Euclidean shortest path",
+        "Iterative method",
+        "Mathematical optimization",
+        "Discrete mathematics",
+        "Gauss-Seidel method",
+        "K shortest path routing",
+        "Three-dimensional space",
+        "Shortest path problem",
+        "Euclidean geometry",
+        "Binary logarithm",
+        "Mathematics"
+    ],
+    "references": [
+        "2009056209",
+        "2024693023",
+        "2062881752",
+        "2071025762"
+    ]
+}

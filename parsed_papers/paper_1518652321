@@ -1,0 +1,47 @@
+{
+    "id": "1518652321",
+    "title": "On-line Algorithms for Edge-Disjoint Paths in Trees of Rings",
+    "venue": "latin american symposium on theoretical informatics",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "R. Sai Anand",
+            "id": "2117796670",
+            "org": "Eidgenossische Technische Hochschule Zurich"
+        },
+        {
+            "name": "Thomas Erlebach",
+            "id": "2087328515",
+            "org": "Eidgenossische Technische Hochschule Zurich"
+        }
+    ],
+    "fields_of_study": [
+        "Vertex (geometry)",
+        "Tree (graph theory)",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Telecommunications network",
+        "Distributed computing",
+        "Tree structure",
+        "Competitive analysis",
+        "K-ary tree",
+        "Disjoint sets",
+        "Algorithm",
+        "Path (graph theory)",
+        "Mathematics"
+    ],
+    "references": [
+        "1525584233",
+        "1552828154",
+        "1590340002",
+        "1955839943",
+        "1993066545",
+        "2004681879",
+        "2020384210",
+        "2080354718",
+        "2081414879",
+        "2114218179",
+        "2121839513",
+        "2139739478"
+    ]
+}

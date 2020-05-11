@@ -1,0 +1,47 @@
+{
+    "id": "1533029138",
+    "title": "Resource brokering in grid environments using evolutionary algorithms",
+    "venue": "international conference on parallel and distributed computing and networks",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Wolfgang Suss",
+            "id": "2574275139",
+            "org": "Forschungszentrum Karlsruhe GmbH, Institute for Applied Computer Science, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Wilfried Jakob",
+            "id": "2104163988",
+            "org": "Forschungszentrum Karlsruhe GmbH, Institute for Applied Computer Science, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Alexander Quinte",
+            "id": "2309950227",
+            "org": "Forschungszentrum Karlsruhe GmbH, Institute for Applied Computer Science, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Karl-Uwe Stucky",
+            "id": "2077764046",
+            "org": "Forschungszentrum Karlsruhe GmbH, Institute for Applied Computer Science, Karlsruhe, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Grid computing",
+        "Production planning",
+        "Resource Management System",
+        "Grid",
+        "Management science",
+        "Semantic grid",
+        "DRMAA",
+        "Resource management",
+        "Resource allocation",
+        "Computer science"
+    ],
+    "references": [
+        "144069488",
+        "1490268936",
+        "1494320231",
+        "1973906086",
+        "2152270876"
+    ]
+}

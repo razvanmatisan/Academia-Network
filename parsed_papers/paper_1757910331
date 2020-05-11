@@ -1,0 +1,38 @@
+{
+    "id": "1757910331",
+    "title": "Cumulative Arrays and Geometric Secret Sharing Schemes",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Wen-Ai Jackson",
+            "id": "2294311315",
+            "org": "Royal Holloway"
+        },
+        {
+            "name": "Keith M. Martin",
+            "id": "2101537662",
+            "org": "The University of Adelaide"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Verifiable secret sharing",
+        "Shamir's Secret Sharing",
+        "Homomorphic secret sharing",
+        "Code rate",
+        "Monotone polygon",
+        "Access structure",
+        "Secure multi-party computation",
+        "Mathematics",
+        "Secret sharing"
+    ],
+    "references": [
+        "1507039798",
+        "2031906711",
+        "2088023978",
+        "2093673286",
+        "2141420453"
+    ]
+}

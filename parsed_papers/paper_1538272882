@@ -1,0 +1,43 @@
+{
+    "id": "1538272882",
+    "title": "World Wide Web - A Multilingual Language Resource",
+    "venue": "web intelligence",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Fang Li",
+            "id": "2720585233",
+            "org": "Shanghai Jiao Tong University"
+        },
+        {
+            "name": "Huanye Sheng",
+            "id": "2883444147",
+            "org": "Shanghai Jiao Tong University"
+        },
+        {
+            "name": "Wilhelm Weisweber",
+            "id": "349326611",
+            "org": "Technical University of Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Multilingualism",
+        "Lexico",
+        "Machine translation",
+        "Markup language",
+        "Natural language",
+        "Computer science",
+        "World Wide Web",
+        "Natural language processing",
+        "Lexicon",
+        "Artificial intelligence",
+        "German",
+        "The Internet"
+    ],
+    "references": [
+        "121228829",
+        "1489181569",
+        "1580609246",
+        "1636405317"
+    ]
+}

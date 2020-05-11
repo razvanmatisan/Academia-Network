@@ -1,0 +1,45 @@
+{
+    "id": "1523031440",
+    "title": "Fast and Robust Edge-Based Localization in the Sony Four-Legged Robot League",
+    "venue": "robot soccer world cup",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Thomas Rofer",
+            "id": "139009017",
+            "org": "Universitat Bremen"
+        },
+        {
+            "name": "Matthias Jungel",
+            "id": "362606577",
+            "org": "Humboldt-Universitat zu Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Simulation",
+        "Computer science",
+        "Computer vision",
+        "Embedded system",
+        "Artificial intelligence",
+        "Mobile robot",
+        "Machine vision",
+        "Frame rate",
+        "Robot",
+        "Image processing",
+        "Legged robot",
+        "AIBO",
+        "Field line"
+    ],
+    "references": [
+        "1492289768",
+        "1518703880",
+        "1570424480",
+        "1795768933",
+        "1976410891",
+        "2107193468",
+        "2112734135",
+        "2120712855",
+        "2131865378",
+        "2168237427"
+    ]
+}

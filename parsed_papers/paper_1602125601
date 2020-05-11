@@ -1,0 +1,38 @@
+{
+    "id": "1602125601",
+    "title": "Dynamic generation of context rules",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Waltenegus Dargie",
+            "id": "2258958395",
+            "org": "Department of Computer Networks, Faculty of Computer Science, Dresden University of Technology, Dresden, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Systems design",
+        "Real-time computing",
+        "Correlation and dependence",
+        "Data mining",
+        "Distributed computing",
+        "Existential quantification",
+        "Decision rule",
+        "Mobile computing",
+        "Event (computing)",
+        "Computer science",
+        "Context model",
+        "Self-organization"
+    ],
+    "references": [
+        "1579145134",
+        "1985951810",
+        "1993521216",
+        "2012173916",
+        "2080957047",
+        "2096885595",
+        "2116502002",
+        "2163167025",
+        "2167464841"
+    ]
+}

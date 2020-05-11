@@ -1,0 +1,44 @@
+{
+    "id": "1652437284",
+    "title": "Revisiting the Edge of Chaos : Evolving Cellular Automata to Perform Computations",
+    "venue": "Complex Systems",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Melanie Mitchell",
+            "id": "2160125451",
+            "org": "Santa Fe Institute"
+        },
+        {
+            "name": "Peter Hraber",
+            "id": "711176755",
+            "org": "Santa Fe Institute"
+        },
+        {
+            "name": "James P. Crutchfield",
+            "id": "2145277740",
+            "org": "University of California, Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Symmetry breaking",
+        "Computation",
+        "Edge of chaos",
+        "Artificial intelligence",
+        "Constructive",
+        "Genetic algorithm",
+        "Chaotic",
+        "Algorithm",
+        "Lambda",
+        "Cellular automaton",
+        "Computer science"
+    ],
+    "references": [
+        "189912205",
+        "1524077745",
+        "1576818901",
+        "1639032689",
+        "2071906671"
+    ]
+}

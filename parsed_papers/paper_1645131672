@@ -1,0 +1,37 @@
+{
+    "id": "1645131672",
+    "title": "Reliable and efficient geometric computing",
+    "venue": "european symposium on algorithms",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Kurt Mehlhorn",
+            "id": "512556102",
+            "org": "Max-Planck-Institut fur Informatik#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Geometric networks",
+        "Discrete mathematics",
+        "Computer science",
+        "Combinatorics",
+        "Implementation",
+        "Crash",
+        "Geometric design",
+        "Floating point",
+        "Theoretical computer science",
+        "Computer Aided Design"
+    ],
+    "references": [
+        "1485262373",
+        "1578641439",
+        "1956324564",
+        "2042215200",
+        "2043552663",
+        "2074843875",
+        "2120242761",
+        "2148713284",
+        "2156153879",
+        "2215813021"
+    ]
+}

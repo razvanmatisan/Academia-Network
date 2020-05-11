@@ -1,0 +1,37 @@
+{
+    "id": "1808531129",
+    "title": "Agent oriented conceptual modeling of parallel workflow systems",
+    "venue": "industrial and engineering applications of artificial intelligence and expert systems",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Samir Aknine",
+            "id": "2599484194",
+            "org": "Universite Paris Dauphine"
+        },
+        {
+            "name": "Suzanne Pinson",
+            "id": "1974386982",
+            "org": "Universite Paris Dauphine"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Systems engineering",
+        "Ontology",
+        "Information system",
+        "Conceptual model",
+        "Workflow",
+        "Workflow technology",
+        "Workflow management system",
+        "Design methods",
+        "Distributed computing",
+        "Workflow engine",
+        "Knowledge management"
+    ],
+    "references": [
+        "1522992942",
+        "2116323426",
+        "2171344460"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1510328675",
+    "title": "Prototyping-Oriented Software Development: Concepts and Tools",
+    "venue": "Software - Concepts and Tools \\/ Structured Programming",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Walter R. Bischofberger",
+            "id": "291900542",
+            "org": "Informatic Laboratory"
+        },
+        {
+            "name": "Gustav Pomberger",
+            "id": "2092391892",
+            "org": "Institut fur Wirtschaftsinformatik|Johannes Kepler University"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "Systems engineering",
+        "Software peer review",
+        "Goal-Driven Software Development Process",
+        "Software development process",
+        "Package development process",
+        "Software quality analyst",
+        "Software sizing",
+        "Software development",
+        "Social software engineering",
+        "Software engineering"
+    ],
+    "references": [
+        "97128702",
+        "1567835448",
+        "1608436211",
+        "2006766462",
+        "2008223026",
+        "2013142212"
+    ]
+}

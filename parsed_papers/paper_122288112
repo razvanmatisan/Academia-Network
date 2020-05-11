@@ -1,0 +1,35 @@
+{
+    "id": "122288112",
+    "title": "Interpretive vision and restriction graphs",
+    "venue": "national conference on artificial intelligence",
+    "year": 1980,
+    "authors": [
+        {
+            "name": "Rodney A. Brooks",
+            "id": "2288122487",
+            "org": "Artificial Intelligence Laboratory, Computer Science Department, Stanford University, Stanford, California#TAB#"
+        },
+        {
+            "name": "Thomas O. Binford",
+            "id": "2247196141",
+            "org": "Artificial Intelligence Laboratory, Computer Science Department, Stanford University, Stanford, California#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Feature (computer vision)",
+        "Isomorphism",
+        "Artificial intelligence",
+        "Machine learning",
+        "Dimensional modeling",
+        "Computer science",
+        "Infimum and supremum",
+        "Geometric modeling",
+        "Case analysis",
+        "Graph",
+        "Arc (geometry)"
+    ],
+    "references": [
+        "1607206213",
+        "2157368609"
+    ]
+}

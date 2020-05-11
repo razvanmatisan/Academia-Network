@@ -1,0 +1,41 @@
+{
+    "id": "1606710386",
+    "title": "Supporting business process management and coordination in a virtual enterprise",
+    "venue": "international conference on information technology",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Luis M. Camarinha-Matos",
+            "id": "102567340",
+            "org": "New University of Lisbon"
+        },
+        {
+            "name": "Celson Pantoja-Lima",
+            "id": "435960411",
+            "org": "New University of Lisbon"
+        }
+    ],
+    "fields_of_study": [
+        "Enterprise integration",
+        "Business Process Model and Notation",
+        "Business process modeling",
+        "Integrated enterprise modeling",
+        "Business architecture",
+        "Artifact-centric business process model",
+        "Process modeling",
+        "Process management",
+        "Engineering",
+        "Business process management"
+    ],
+    "references": [
+        "1567995614",
+        "1966623679",
+        "1976109100",
+        "1981994545",
+        "2068394020",
+        "2109859591",
+        "2154427703",
+        "2156879624",
+        "2550456376"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "1507005982",
+    "title": "An Implementation Method of Migratable Distributed Objects Using an RPC Technique Integrated with Virtual Memory Management",
+    "venue": "european conference on object oriented programming",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Kenji Kono",
+            "id": "2777793016",
+            "org": "University of Tokyo"
+        },
+        {
+            "name": "Kazuhiko Kato",
+            "id": "2131095813",
+            "org": "University of Tsukuba"
+        },
+        {
+            "name": "Takashi Masuda",
+            "id": "1958410199",
+            "org": "University of Tokyo"
+        }
+    ],
+    "fields_of_study": [
+        "Runtime system",
+        "Distributed object",
+        "Address space",
+        "Data diffusion machine",
+        "Virtual address space",
+        "Distributed computing",
+        "Real-time computing",
+        "Abstraction (linguistics)",
+        "Computer science",
+        "Page fault",
+        "Virtual memory"
+    ],
+    "references": [
+        "1484359890",
+        "1541859602",
+        "1583265213",
+        "1973788482",
+        "1978254772",
+        "1988827547",
+        "1996254964",
+        "2044902313",
+        "2070179848",
+        "2100665041",
+        "2106035061",
+        "2117291155",
+        "2121134342",
+        "2127547524",
+        "2146609112",
+        "2164901581",
+        "2171240827"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1590207103",
+    "title": "Price of anarchy of network routing games with incomplete information",
+    "venue": "workshop on internet and network economics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Dinesh Garg",
+            "id": "2210115675",
+            "org": "Department of Computer Science and Automation, Indian Institute of Science, Bangalore, India#TAB#"
+        },
+        {
+            "name": "Y. Narahari",
+            "id": "1995827453",
+            "org": "Department of Computer Science and Automation, Indian Institute of Science, Bangalore, India#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Non-cooperative game",
+        "Mathematical economics",
+        "Bayesian game",
+        "Price of stability",
+        "Solution concept",
+        "Distributed computing",
+        "Complete information",
+        "Strategy",
+        "Price of anarchy",
+        "Nash equilibrium",
+        "Mathematics"
+    ],
+    "references": [
+        "1526250527",
+        "1532725322",
+        "1668637896",
+        "1966132455",
+        "2088559962",
+        "2108934095",
+        "2125537511",
+        "2139774323"
+    ]
+}

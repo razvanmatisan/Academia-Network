@@ -1,0 +1,43 @@
+{
+    "id": "1602801054",
+    "title": "Uniform Interpolation by Resolution in Modal Logic",
+    "venue": "european conference on logics in artificial intelligence",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Andreas Herzig",
+            "id": "1975496208",
+            "org": "Institut de Recherche en Informatique de Toulouse,#TAB#"
+        },
+        {
+            "name": "Jerome Mengin",
+            "id": "2118946247",
+            "org": "Institut de Recherche en Informatique de Toulouse,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Negation normal form",
+        "Modal m-calculus",
+        "Discrete mathematics",
+        "Resolution (logic)",
+        "Normal modal logic",
+        "Dynamic logic (modal logic)",
+        "Strict conditional",
+        "Accessibility relation",
+        "Algorithm",
+        "Multimodal logic",
+        "Mathematics"
+    ],
+    "references": [
+        "72921216",
+        "146287317",
+        "193514054",
+        "1484202639",
+        "2017094488",
+        "2019301510",
+        "2025873079",
+        "2071786581",
+        "2114212951",
+        "2156666265"
+    ]
+}

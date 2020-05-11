@@ -1,0 +1,32 @@
+{
+    "id": "1547527303",
+    "title": "Training of support vector machines with Mahalanobis kernels",
+    "venue": "international conference on artificial neural networks",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Shigeo Abe",
+            "id": "2130438778",
+            "org": "Graduate School of Science and Technology, Kobe University, Kobe, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Kernel embedding of distributions",
+        "Machine learning",
+        "Kernel smoother",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Kernel principal component analysis",
+        "Mahalanobis distance",
+        "Kernel method",
+        "Polynomial kernel",
+        "Mathematics",
+        "Radial basis function kernel",
+        "Variable kernel density estimation"
+    ],
+    "references": [
+        "1503196035",
+        "2108995755",
+        "2176767885"
+    ]
+}

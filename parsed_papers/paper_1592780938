@@ -1,0 +1,24 @@
+{
+    "id": "1592780938",
+    "title": "Generalized qualitative probability: savage revisited",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Daniel J. Lehmann",
+            "id": "2107927076",
+            "org": "Institute of Computer Science, Hebrew University, Jerusalem, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Game theory",
+        "Mathematical economics",
+        "Rationality",
+        "Sure-thing principle",
+        "Ranking",
+        "Mathematics"
+    ],
+    "references": []
+}

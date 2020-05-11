@@ -1,0 +1,42 @@
+{
+    "id": "1583208091",
+    "title": "A Compositional Approach for the Design of a Parallel Query Processing Language",
+    "venue": "international conference on parallel architectures and languages europe",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Carla Chachaty",
+            "id": "2091578185",
+            "org": "BULL Corporate Research Center"
+        },
+        {
+            "name": "Pascale Borla-Salamet",
+            "id": "222103006",
+            "org": "BULL Corporate Research Center"
+        },
+        {
+            "name": "Mike Ward",
+            "id": "2310766569",
+            "org": "International Computers Limited"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Query expansion",
+        "View",
+        "Query language",
+        "Query optimization",
+        "Theoretical computer science",
+        "Sargable",
+        "RDF query language",
+        "Query by Example",
+        "Data control language",
+        "Computer science"
+    ],
+    "references": [
+        "1502462697",
+        "2063663576",
+        "2126583885",
+        "2171922437"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1564876084",
+    "title": "Bipartite Graph Matchings in the Semi-streaming Model",
+    "venue": "european symposium on algorithms",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Sebastian Eggert",
+            "id": "2144584424",
+            "org": "Christian-Albrechts-Universitat Kiel"
+        },
+        {
+            "name": "Lasse Kliemann",
+            "id": "2158768683",
+            "org": "Christian-Albrechts-Universitat Kiel"
+        },
+        {
+            "name": "Anand Srivastav",
+            "id": "2137613117",
+            "org": "Christian-Albrechts-Universitat Kiel"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Hopcroft-Karp algorithm",
+        "Discrete mathematics",
+        "Graph bandwidth",
+        "Bipartite graph",
+        "Edge-transitive graph",
+        "Factor-critical graph",
+        "Clique-width",
+        "Voltage graph",
+        "3-dimensional matching",
+        "Mathematics"
+    ],
+    "references": [
+        "1494735819",
+        "1514707655",
+        "1965972569",
+        "1995484833",
+        "2157529519",
+        "2165753192"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1492931190",
+    "title": "Privacy Layer for Business Intelligence",
+    "venue": "International Conference on Network Security and Applications",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Vishal Gupta",
+            "id": "2226776918",
+            "org": "Infosys Technologies Limited"
+        },
+        {
+            "name": "Ashutosh Saxena",
+            "id": "2160427440",
+            "org": "Infosys Technologies Limited"
+        }
+    ],
+    "fields_of_study": [
+        "Web intelligence",
+        "Business activity monitoring",
+        "Data science",
+        "Information sensitivity",
+        "Business intelligence",
+        "World Wide Web",
+        "Information management",
+        "Business",
+        "Data warehouse",
+        "Cloud computing security",
+        "Information security"
+    ],
+    "references": [
+        "52117063",
+        "1613845839",
+        "2069085398",
+        "2125665745",
+        "2145747124",
+        "2149471762"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "1525188821",
+    "title": "Incremental learning of cellular automata for parallel recognition of formal languages",
+    "venue": "discovery science",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Katsuhiko Nakamura",
+            "id": "2164908576",
+            "org": "School of Science and Engineering, Tokyo Denki University, Hatoyama-machi, Saitama-ken, Japan#TAB#"
+        },
+        {
+            "name": "Keita Imada",
+            "id": "2124203391",
+            "org": "School of Science and Engineering, Tokyo Denki University, Hatoyama-machi, Saitama-ken, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Formal language",
+        "Machine learning",
+        "Cellular automaton",
+        "occam",
+        "Artificial intelligence",
+        "Grammar induction",
+        "Theory of computation",
+        "Programming language",
+        "Theoretical computer science",
+        "Parallel language",
+        "Rule-based machine translation",
+        "Context-free grammar",
+        "Computer science"
+    ],
+    "references": [
+        "1482578672",
+        "1582728640",
+        "1603299012",
+        "1854866626",
+        "1970863182",
+        "1971471851",
+        "1979559409",
+        "1981896174",
+        "1989113687",
+        "1992491491",
+        "2007670043",
+        "2018993132",
+        "2060249124",
+        "2078011493",
+        "2090079828",
+        "2125305342"
+    ]
+}

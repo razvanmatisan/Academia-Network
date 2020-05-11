@@ -1,0 +1,39 @@
+{
+    "id": "1589602221",
+    "title": "Intonation modelling and adaptation for emotional prosody generation",
+    "venue": "affective computing and intelligent interaction",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Zeynep Inanoglu",
+            "id": "2462047524",
+            "org": "Cambridge University Engineering Department, Machine Intelligence Laboratory, Cambridge, UK#TAB#"
+        },
+        {
+            "name": "Steve J. Young",
+            "id": "2125228453",
+            "org": "Cambridge University Engineering Department, Machine Intelligence Laboratory, Cambridge, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Speech recognition",
+        "Markov model",
+        "Emotional prosody",
+        "Computer science",
+        "Pitch contour",
+        "Prosody",
+        "Perception",
+        "Speech synthesis",
+        "Syllable",
+        "Hidden Markov model"
+    ],
+    "references": [
+        "1567113014",
+        "2037740282",
+        "2091738194",
+        "2098421901",
+        "2149425161",
+        "2154920538",
+        "2428180336"
+    ]
+}

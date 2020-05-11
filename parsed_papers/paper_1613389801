@@ -1,0 +1,45 @@
+{
+    "id": "1613389801",
+    "title": "Semantic approach to image retrieval using statistical models based on a lexical ontology",
+    "venue": "international conference on knowledge based and intelligent information and engineering systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Syed Abdullah Fadzli",
+            "id": "2069405803",
+            "org": "Cardiff University, Wales, UK#TAB#"
+        },
+        {
+            "name": "Rossitza Setchi",
+            "id": "1986794756",
+            "org": "Cardiff University, Wales, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Automatic image annotation",
+        "Web search query",
+        "Information retrieval",
+        "Digital image",
+        "SemEval",
+        "The Internet",
+        "Image retrieval",
+        "Semantic similarity",
+        "Statistical model",
+        "Pattern recognition",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1487335190",
+        "1536697368",
+        "1568365983",
+        "1647729745",
+        "1990843604",
+        "2046589280",
+        "2087739686",
+        "2100935296",
+        "2111993661",
+        "2114822471",
+        "2117805756"
+    ]
+}

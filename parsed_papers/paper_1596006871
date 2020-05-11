@@ -1,0 +1,43 @@
+{
+    "id": "1596006871",
+    "title": "Distance Labeling Schemes for Well-Separated Graph Classes",
+    "venue": "symposium on theoretical aspects of computer science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Michal Katz",
+            "id": "2162660778",
+            "org": "Bar Ilan University"
+        },
+        {
+            "name": "Nir A. Katz",
+            "id": "2124410102",
+            "org": "Bar Ilan University"
+        },
+        {
+            "name": "David Peleg",
+            "id": "1903060929",
+            "org": "The Weizmann Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Permutation graph",
+        "Combinatorics",
+        "Pancyclic graph",
+        "Discrete mathematics",
+        "Random regular graph",
+        "Edge-graceful labeling",
+        "Trapezoid graph",
+        "Indifference graph",
+        "Chordal graph",
+        "1-planar graph",
+        "Mathematics"
+    ],
+    "references": [
+        "1500591628",
+        "2006334273",
+        "2022977787",
+        "2139539283",
+        "2151358465"
+    ]
+}

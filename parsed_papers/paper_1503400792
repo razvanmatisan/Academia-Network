@@ -1,0 +1,42 @@
+{
+    "id": "1503400792",
+    "title": "Modeling of the German Yield Curve by Error Correction Neural Networks",
+    "venue": "intelligent data engineering and automated learning",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Hans-Georg Zimmermann",
+            "id": "2124918841",
+            "org": "SIEMENS AG"
+        },
+        {
+            "name": "Ralph Neuneier",
+            "id": "492030",
+            "org": "SIEMENS AG"
+        },
+        {
+            "name": "Ralph Grothmann",
+            "id": "2501646202",
+            "org": "University of Bremen"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Error detection and correction",
+        "Coordinate system",
+        "Artificial intelligence",
+        "Mathematical optimization",
+        "Yield curve",
+        "Computer science",
+        "Errors-in-variables models",
+        "Artificial neural network",
+        "Simulation",
+        "Deterministic system",
+        "Autoregressive model",
+        "Recurrent neural network"
+    ],
+    "references": [
+        "1584535387",
+        "2154890045"
+    ]
+}

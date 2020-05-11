@@ -1,0 +1,38 @@
+{
+    "id": "1552576519",
+    "title": "Top-Down Considerations on Distributed Computing",
+    "venue": "international symposium on distributed computing",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Ron van der Meyden",
+            "id": "211497782",
+            "org": "University of Technology Sydney"
+        },
+        {
+            "name": "Yoram Moses",
+            "id": "2098769611",
+            "org": "The Technion"
+        }
+    ],
+    "fields_of_study": [
+        "Leader election",
+        "Concurrency",
+        "Distributed algorithm",
+        "Distributed computing",
+        "Top-down and bottom-up design",
+        "Principle of compositionality",
+        "Complex system",
+        "Complex system",
+        "Computer science"
+    ],
+    "references": [
+        "1595487726",
+        "2042981544",
+        "2045364115",
+        "2058696974",
+        "2077371116",
+        "2087171358",
+        "2097139655"
+    ]
+}

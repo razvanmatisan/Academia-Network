@@ -1,0 +1,36 @@
+{
+    "id": "1551176011",
+    "title": "A Comparison Between Petri-Nets and Graph Grammars",
+    "venue": "workshop on graph theoretic concepts in computer science",
+    "year": 1980,
+    "authors": [
+        {
+            "name": "Hans-Jorg Kreowski",
+            "id": "1971382267",
+            "org": "Technische Universitat Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Quartic graph",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Edge-transitive graph",
+        "Strength of a graph",
+        "Coxeter graph",
+        "Voltage graph",
+        "Simplex graph",
+        "Butterfly graph",
+        "Mathematics",
+        "Windmill graph"
+    ],
+    "references": [
+        "110217058",
+        "129545406",
+        "1536964847",
+        "1581163322",
+        "1640078058",
+        "1963498955",
+        "2047907247",
+        "2094159214"
+    ]
+}

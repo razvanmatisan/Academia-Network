@@ -1,0 +1,27 @@
+{
+    "id": "1527351083",
+    "title": "VLSI Implementation of an Associative Memory Based on Distributed Storage of Information",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Ulrich Ruckert",
+            "id": "267718115",
+            "org": "Universitat Dortmund"
+        }
+    ],
+    "fields_of_study": [
+        "Asynchronous communication",
+        "Artificial neuron",
+        "Computer memory",
+        "Very-large-scale integration",
+        "Input/output",
+        "Parallel computing",
+        "Memory map",
+        "Theoretical computer science",
+        "Content-addressable memory",
+        "Distributed data store",
+        "Computer science"
+    ],
+    "references": []
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1490137602",
+    "title": "Reverse Engineering to Recover and Describe a System's Architecture",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Berndt Bellay",
+            "id": "2311472866",
+            "org": "Technical University of Vienna"
+        },
+        {
+            "name": "Harald C. Gall",
+            "id": "2158171975",
+            "org": "Technical University of Vienna"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Database-centric architecture",
+        "Space-based architecture",
+        "Reference architecture",
+        "Software architecture description",
+        "Enterprise architecture framework",
+        "Software architecture",
+        "Distributed computing",
+        "Architecture",
+        "Simulation",
+        "Systems architecture",
+        "Computer science"
+    ],
+    "references": [
+        "1489800325",
+        "2020188861",
+        "2101382685",
+        "2122824813",
+        "2146082668",
+        "2153464794",
+        "2153933075",
+        "2160946661",
+        "2169348520"
+    ]
+}

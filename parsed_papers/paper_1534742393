@@ -1,0 +1,41 @@
+{
+    "id": "1534742393",
+    "title": "Translating Spanish into logic through logic",
+    "venue": "Computational Linguistics",
+    "year": 1981,
+    "authors": [
+        {
+            "name": "Veronica Dahl",
+            "id": "2121555361",
+            "org": "University of Buenos Aires, Buenos Aires, Argentina#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Natural language",
+        "Semantics",
+        "Query language",
+        "First-order logic",
+        "Artificial intelligence",
+        "Description logic",
+        "Programming language",
+        "Logic programming",
+        "Presupposition",
+        "Syntax",
+        "Computer science"
+    ],
+    "references": [
+        "147900504",
+        "1557689795",
+        "1578088218",
+        "1659143126",
+        "2035032881",
+        "2043794661",
+        "2056911890",
+        "2067936680",
+        "2071546952",
+        "2112962394",
+        "2161160885",
+        "2164155814"
+    ]
+}

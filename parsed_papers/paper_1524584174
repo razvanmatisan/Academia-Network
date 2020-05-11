@@ -1,0 +1,35 @@
+{
+    "id": "1524584174",
+    "title": "Reliability of LSP Criteria",
+    "venue": "modeling decisions for artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jozo J. Dujmovic",
+            "id": "118349341",
+            "org": "San Francisco State University"
+        },
+        {
+            "name": "Wen Yuan Fang",
+            "id": "2501657483",
+            "org": "San Francisco State University"
+        }
+    ],
+    "fields_of_study": [
+        "Model-based reasoning",
+        "Machine learning",
+        "Mainframe computer",
+        "Parameter",
+        "Complex system",
+        "Complex system",
+        "Ranking",
+        "Error function",
+        "Confidence interval",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1494090454",
+        "1509866077"
+    ]
+}

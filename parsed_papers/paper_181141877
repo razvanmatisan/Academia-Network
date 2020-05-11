@@ -1,0 +1,36 @@
+{
+    "id": "181141877",
+    "title": "Optimizing DOM Programs on XML Views over Existing Relational Databases",
+    "venue": "conference on advanced information systems engineering",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Atsuyuki Morishima",
+            "id": "2250380985",
+            "org": "University of Tsukuba"
+        },
+        {
+            "name": "Akira Kojima",
+            "id": "2321113380",
+            "org": "Shibaura Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Streaming XML",
+        "Database",
+        "XML database",
+        "cXML",
+        "XML validation",
+        "XML framework",
+        "Computer science",
+        "Simple API for XML",
+        "XML Schema Editor",
+        "Efficient XML Interchange"
+    ],
+    "references": [
+        "1557544237",
+        "1916576906",
+        "2075552472"
+    ]
+}

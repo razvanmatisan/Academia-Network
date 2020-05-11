@@ -1,0 +1,34 @@
+{
+    "id": "1511892573",
+    "title": "A Model for Informed Negotiating Agents",
+    "venue": "agent and multi agent systems technologies and applications",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "John K. Debenham",
+            "id": "2230915954",
+            "org": "Faculty of IT, University of Technology, Sydney, Australia#TAB#"
+        },
+        {
+            "name": "Simeon J. Simoff",
+            "id": "735013031",
+            "org": "Faculty of IT, University of Technology, Sydney, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Information model",
+        "Agent architecture",
+        "Autonomous agent",
+        "Intelligent agent",
+        "Multi-agent system",
+        "Exchange of information",
+        "Agent-based social simulation",
+        "Computer science",
+        "Negotiation",
+        "Knowledge management"
+    ],
+    "references": [
+        "1556421367",
+        "2110872636"
+    ]
+}

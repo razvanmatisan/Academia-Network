@@ -1,0 +1,42 @@
+{
+    "id": "112757362",
+    "title": "Model Driven Development of Complex User Interface.",
+    "venue": "model driven engineering languages and systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Xudong Lu",
+            "id": "2682536957",
+            "org": "Shandong University"
+        },
+        {
+            "name": "Jiancheng Wan",
+            "id": "2693504092",
+            "org": "Shandong University"
+        }
+    ],
+    "fields_of_study": [
+        "User interface design",
+        "Systems engineering",
+        "Natural user interface",
+        "Theoretical computer science",
+        "Monolithic application",
+        "Human-computer interaction",
+        "Shell (computing)",
+        "Multiple document interface",
+        "Computer science",
+        "User modeling",
+        "Human action cycle",
+        "User interface"
+    ],
+    "references": [
+        "1509026406",
+        "1562508493",
+        "1584352659",
+        "2043464501",
+        "2115210820",
+        "2131555591",
+        "2141860801",
+        "2159899187"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "100372560",
+    "title": "Performance Issues in Data Extraction Methods of ETL Process for XML Format in Oracle 11g",
+    "venue": "international conference: beyond databases, architectures and structures",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Lukasz Wycislik",
+            "id": "127773853",
+            "org": "Silesian University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Streaming XML",
+        "Database",
+        "Oracle Unified Method",
+        "Oracle",
+        "XML framework",
+        "XML",
+        "Data mining",
+        "XML validation",
+        "Computer science",
+        "Data extraction",
+        "Efficient XML Interchange"
+    ],
+    "references": [
+        "1531730941",
+        "1965014786"
+    ]
+}

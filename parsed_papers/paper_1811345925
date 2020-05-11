@@ -1,0 +1,41 @@
+{
+    "id": "1811345925",
+    "title": "Benefits of Using Ontologies in the Management of High Speed Networks",
+    "venue": "international conference on communications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jorge E. Lopez de Vergara",
+            "id": "2266012798",
+            "org": "Universidad Politecnica de Madrid E.T.S.I. de Telecomunicacion"
+        },
+        {
+            "name": "Victor A. Villagra",
+            "id": "228733504",
+            "org": "Universidad Politecnica de Madrid E.T.S.I. de Telecomunicacion"
+        },
+        {
+            "name": "Julio Berrocal",
+            "id": "2124625384",
+            "org": "Universidad Politecnica de Madrid E.T.S.I. de Telecomunicacion"
+        }
+    ],
+    "fields_of_study": [
+        "Structure of Management Information",
+        "Information management",
+        "Network management",
+        "Knowledge representation and reasoning",
+        "Information integration",
+        "Management information systems",
+        "Ontology (information science)",
+        "Computer science",
+        "Data mining",
+        "Ontology language"
+    ],
+    "references": [
+        "1848291080",
+        "1963158109",
+        "2042037135",
+        "2164947858"
+    ]
+}

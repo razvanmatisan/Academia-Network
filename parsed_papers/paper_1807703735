@@ -1,0 +1,28 @@
+{
+    "id": "1807703735",
+    "title": "Federated Identity Management",
+    "venue": "Foundations of Security Analysis and Design V",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "David W. Chadwick",
+            "id": "2149179216",
+            "org": "Computing Laboratory, University of Kent, Canterbury, UK CT2 7NF#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Digital identity",
+        "Management system",
+        "World Wide Web",
+        "Identity management",
+        "Federated identity",
+        "Shibboleth",
+        "Internet privacy",
+        "Computer science",
+        "Computer programming"
+    ],
+    "references": [
+        "2026287943",
+        "2121507517"
+    ]
+}

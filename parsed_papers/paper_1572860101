@@ -1,0 +1,33 @@
+{
+    "id": "1572860101",
+    "title": "The emerging discipline of collaborative networks",
+    "venue": "working conference on virtual enterprises",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Luis M. Camarinha-Matos",
+            "id": "102567340",
+            "org": "New University of Lisbon"
+        },
+        {
+            "name": "Hamideh Afsarmanesh",
+            "id": "139710438",
+            "org": "University of Amsterdam"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Collaborative network",
+        "Virtual Laboratory",
+        "Systems engineering",
+        "Virtual community",
+        "Virtual organization",
+        "Supply chain",
+        "Engineering"
+    ],
+    "references": [
+        "1504219907",
+        "1584320459",
+        "2571007736"
+    ]
+}

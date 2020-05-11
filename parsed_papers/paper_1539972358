@@ -1,0 +1,39 @@
+{
+    "id": "1539972358",
+    "title": "SPECWARE: An Advanced Evironment for the Formal Development of Complex Software Systems",
+    "venue": "algebraic methodology and software technology",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Richard Jullig",
+            "id": "1225828849",
+            "org": "Kestrel Institute"
+        },
+        {
+            "name": "Yellamraju Venkata Srinivas",
+            "id": "2656459039",
+            "org": "Kestrel Institute"
+        },
+        {
+            "name": "J. Liu",
+            "id": "2548025771",
+            "org": "Kestrel Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Algebraic specification",
+        "Computer architecture",
+        "Top-down and bottom-up design",
+        "Software construction",
+        "Software system",
+        "Formal specification",
+        "Software development",
+        "Software verification and validation",
+        "Computer science"
+    ],
+    "references": [
+        "2030096232",
+        "2129466151"
+    ]
+}

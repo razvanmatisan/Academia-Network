@@ -1,0 +1,48 @@
+{
+    "id": "1534693227",
+    "title": "A molecular modeling system based on dynamic gestures",
+    "venue": "international conference on computational science and its applications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Sungjun Park",
+            "id": "2569403652",
+            "org": "Computer Science & Engineering, Konkuk University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jun Lee",
+            "id": "2130899522",
+            "org": "Computer Science & Engineering, Konkuk University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jee-In Kim",
+            "id": "2692459091",
+            "org": "Internet & Multimedia, Konkuk University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Stereoscopy",
+        "Computer vision",
+        "Match moving",
+        "Scene graph",
+        "Distributed computing",
+        "Data structure",
+        "Energy minimization",
+        "Motion estimation",
+        "Simulation",
+        "Input device",
+        "Artificial intelligence",
+        "Gesture",
+        "Computer science"
+    ],
+    "references": [
+        "115633549",
+        "2033528502",
+        "2041812519",
+        "2093710326",
+        "2095604271",
+        "2113634802",
+        "2117464136",
+        "2141208266"
+    ]
+}

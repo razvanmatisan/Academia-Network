@@ -1,0 +1,48 @@
+{
+    "id": "1486916877",
+    "title": "On the Unification of Persistent Programming and the World Wide Web",
+    "venue": "international workshop on the web and databases",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Richard C. H. Connor",
+            "id": "2150291205",
+            "org": "University of Glasgow"
+        },
+        {
+            "name": "Keith Sibson",
+            "id": "2001000444",
+            "org": "University of Glasgow"
+        },
+        {
+            "name": "Paolo Manghi",
+            "id": "282834861",
+            "org": "University of Glasgow"
+        }
+    ],
+    "fields_of_study": [
+        "Fourth-generation programming language",
+        "Database",
+        "World Wide Web",
+        "Comparison of multi-paradigm programming languages",
+        "Fifth-generation programming language",
+        "Very high-level programming language",
+        "Computer science",
+        "Extensible programming",
+        "Second-generation programming language",
+        "Programming language theory",
+        "Object-relational mapping"
+    ],
+    "references": [
+        "11531653",
+        "1552743650",
+        "1588254135",
+        "1857623082",
+        "1987203566",
+        "2017532341",
+        "2033904757",
+        "2089042876",
+        "2140009428",
+        "2168368830"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1480033978",
+    "title": "Formal extreme (and extremely formal) programming",
+    "venue": "international conference on software engineering",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Angel Herranz",
+            "id": "2168508558",
+            "org": "Univ. Politecnica de Madrid, Boadilla del Monte, Spain#TAB#"
+        },
+        {
+            "name": "Juan Jose Moreno-Navarro",
+            "id": "2149397661",
+            "org": "Univ. Politecnica de Madrid, Boadilla del Monte, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Daily build",
+        "Real-time computing",
+        "Formal methods",
+        "Extreme programming",
+        "Refinement",
+        "Extreme programming practices",
+        "Formal specification",
+        "Code refactoring",
+        "Formal verification"
+    ],
+    "references": [
+        "1589342014",
+        "1970495662",
+        "2153887189"
+    ]
+}

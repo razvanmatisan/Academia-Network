@@ -1,0 +1,42 @@
+{
+    "id": "1510971620",
+    "title": "Information systems and environmentally sustainable development: energy informatics and new directions for the is community",
+    "venue": "Management Information Systems Quarterly",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Richard T. Watson",
+            "id": "2128964823",
+            "org": "Department of MIS, University of Georgia, Atlanta, GA#TAB#"
+        },
+        {
+            "name": "Marie-Claude Boudreau",
+            "id": "2168467640",
+            "org": "Department of MIS, University of Georgia, Atlanta, GA#TAB#"
+        },
+        {
+            "name": "Adela J. Chen",
+            "id": "2112747569",
+            "org": "Department of MIS, University of Georgia, Atlanta, GA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Green Information Technology",
+        "Sustainability organizations",
+        "Knowledge management",
+        "Management science",
+        "Sustainability",
+        "Sustainable business",
+        "Information system",
+        "Sustainable development",
+        "Energy informatics",
+        "Environmental impact assessment",
+        "Engineering"
+    ],
+    "references": [
+        "11827706",
+        "83599959",
+        "2137486085",
+        "2146074520"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1652503362",
+    "title": "An experimental comparison of knowledge engineering for expert systems and for decision analysis",
+    "venue": "national conference on artificial intelligence",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Max Henrion",
+            "id": "2038277194",
+            "org": "Social and Decision Science, and Engineering and Public Policy, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Daniel R. Cooley",
+            "id": "2428519326",
+            "org": "Department of Plant Pathology, University of Massachusetts, Amherst, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Knowledge base",
+        "Expert system",
+        "Influence diagram",
+        "Machine learning",
+        "Computer science",
+        "Decision analysis",
+        "Subject-matter expert",
+        "Legal expert system",
+        "Data mining",
+        "Decision engineering",
+        "Intelligent decision support system"
+    ],
+    "references": [
+        "13520770",
+        "1489174353",
+        "1551898291",
+        "1840384731",
+        "2138113041",
+        "2143075689",
+        "2170265979",
+        "2173775520",
+        "2179604013"
+    ]
+}

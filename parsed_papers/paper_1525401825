@@ -1,0 +1,33 @@
+{
+    "id": "1525401825",
+    "title": "Object-Oriented Conceptual Graphs",
+    "venue": "international conference on conceptual structures",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Gerard Ellis",
+            "id": "2429793897",
+            "org": "Royal Melbourne Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Modus ponens",
+        "Conceptual graph",
+        "Mathematical optimization",
+        "Object model",
+        "Specification language",
+        "Graph",
+        "Programming language",
+        "Automated theorem proving",
+        "Object-oriented programming",
+        "Computer science",
+        "Conceptual schema"
+    ],
+    "references": [
+        "1493596129",
+        "1605464573",
+        "2003003751",
+        "2081781117"
+    ]
+}

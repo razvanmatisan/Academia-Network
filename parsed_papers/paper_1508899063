@@ -1,0 +1,32 @@
+{
+    "id": "1508899063",
+    "title": "Introductory computing: the design discipline",
+    "venue": "international conference informatics schools",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Viera K. Proulx",
+            "id": "162149366",
+            "org": "Northeastern University, Boston, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Java",
+        "Computer engineering",
+        "Curriculum",
+        "Design elements and principles",
+        "ProgramByDesign",
+        "Software",
+        "Program Design Language",
+        "Object-oriented programming",
+        "Systems engineering",
+        "Computer science",
+        "Abstraction"
+    ],
+    "references": [
+        "190038403",
+        "1643203223",
+        "2024864280",
+        "2218481780"
+    ]
+}

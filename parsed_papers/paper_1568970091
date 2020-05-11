@@ -1,0 +1,45 @@
+{
+    "id": "1568970091",
+    "title": "AES on FPGA from the fastest to the smallest",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Tim Good",
+            "id": "2101359458",
+            "org": "Department of Electronic & Electrical Engineering, University of Sheffield, Sheffield, UK#TAB#"
+        },
+        {
+            "name": "Mohammed Benaissa",
+            "id": "1925908147",
+            "org": "Department of Electronic & Electrical Engineering, University of Sheffield, Sheffield, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "IPsec",
+        "Parallel computing",
+        "Advanced Encryption Standard",
+        "Throughput",
+        "Field-programmable gate array",
+        "Encryption",
+        "Cryptography",
+        "Mobile computing",
+        "Server",
+        "Real-time computing",
+        "Computer science"
+    ],
+    "references": [
+        "1487268209",
+        "1514141030",
+        "1558584288",
+        "1581096142",
+        "1598409309",
+        "1719766253",
+        "1836039892",
+        "1891546997",
+        "2034115915",
+        "2112244944",
+        "2161048573",
+        "2167720990"
+    ]
+}

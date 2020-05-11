@@ -1,0 +1,43 @@
+{
+    "id": "1489641494",
+    "title": "Learning Programs in the Event Calculus",
+    "venue": "inductive logic programming",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Stephen Moyle",
+            "id": "2077754824",
+            "org": "Oxford University Computing Laboratory"
+        },
+        {
+            "name": "Stephen Muggleton",
+            "id": "735181462",
+            "org": "Oxford University Computing Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Computability",
+        "Horn clause",
+        "Artificial intelligence",
+        "Machine learning",
+        "Theoretical computer science",
+        "Event calculus",
+        "Domain specificity",
+        "Axiom",
+        "Programming language",
+        "Blocks world",
+        "Computer science",
+        "Inductive logic programming",
+        "PROGOL"
+    ],
+    "references": [
+        "108297560",
+        "192208033",
+        "1577587474",
+        "1583058930",
+        "2054628190",
+        "2084846114",
+        "2114462967",
+        "2119831128"
+    ]
+}

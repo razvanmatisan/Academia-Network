@@ -1,0 +1,33 @@
+{
+    "id": "1665632678",
+    "title": "Efficient nash computation in large population games with bounded influence",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Michael J. Kearns",
+            "id": "2118586410",
+            "org": "Department of Computer and Information Science, University of Pennsylvania, Philadelphia, Pennsylvania#TAB#"
+        },
+        {
+            "name": "Yishay Mansour",
+            "id": "2078633956",
+            "org": "School of Computer Science, Tel Aviv University, Tel Aviv, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computation",
+        "Best response",
+        "Mathematical optimization",
+        "Computer science",
+        "Epsilon-equilibrium",
+        "Bounded function",
+        "Population",
+        "Nash equilibrium",
+        "Theoretical computer science"
+    ],
+    "references": [
+        "1980497227",
+        "2160135758"
+    ]
+}

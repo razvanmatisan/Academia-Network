@@ -1,0 +1,45 @@
+{
+    "id": "1602394068",
+    "title": "Testing IP Routing Protocols - From Probabilistic Algorithms to a Software Tool",
+    "venue": "formal techniques for (networked and) distributed systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Ruibing Hao",
+            "id": "2015477836",
+            "org": "Bell Laboratories, Lucent Technologies"
+        },
+        {
+            "name": "David Lee",
+            "id": "2604921275",
+            "org": "Bell Laboratories Research China"
+        },
+        {
+            "name": "Rakesh Kumar Sinha",
+            "id": "2763903507",
+            "org": "Bell Laboratories, Lucent Technologies"
+        },
+        {
+            "name": "Dario Vlah",
+            "id": "2311507365",
+            "org": "Bell Laboratories, Lucent Technologies"
+        }
+    ],
+    "fields_of_study": [
+        "Routing table",
+        "Link-state routing protocol",
+        "Routing protocol",
+        "Virtual routing and forwarding",
+        "Convergence (routing)",
+        "Equal-cost multi-path routing",
+        "Distributed computing",
+        "Computer science",
+        "Loose Source Routing",
+        "Distance-vector routing protocol",
+        "Real-time computing"
+    ],
+    "references": [
+        "1503954572",
+        "2113230746"
+    ]
+}

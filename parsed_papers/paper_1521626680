@@ -1,0 +1,32 @@
+{
+    "id": "1521626680",
+    "title": "Sentence co-occurrences as small-world graphs: a solution to automatic lexical disambiguation",
+    "venue": "international conference on computational linguistics",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Stefan Bordag",
+            "id": "229609675",
+            "org": "Universitat Leipzig, Institut fur Informatik, Leipzig#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language",
+        "Phrase",
+        "WordNet",
+        "Word-sense disambiguation",
+        "Natural language processing",
+        "Random graph",
+        "SemEval",
+        "Artificial intelligence",
+        "Graph",
+        "Computer science",
+        "Pattern recognition",
+        "Sentence"
+    ],
+    "references": [
+        "1561908597",
+        "1574901103",
+        "2118020653"
+    ]
+}

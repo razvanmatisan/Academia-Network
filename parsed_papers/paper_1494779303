@@ -1,0 +1,44 @@
+{
+    "id": "1494779303",
+    "title": "Performance Engineering Evaluation of CORBA-based Distributed Systems with SPE*ED",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Connie U. Smith",
+            "id": "2809968067",
+            "org": "Performance Engineering Services"
+        },
+        {
+            "name": "Lloyd G. Williams",
+            "id": "2125081987",
+            "org": "Software Engineering Research"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed object",
+        "Common Object Request Broker Architecture",
+        "Distributed design patterns",
+        "Engineering design process",
+        "Distributed computing",
+        "Performance engineering",
+        "Object request broker",
+        "Object-oriented programming",
+        "Real-time computing",
+        "Computer science",
+        "Software performance testing"
+    ],
+    "references": [
+        "153786802",
+        "1507300019",
+        "1512415461",
+        "1584915076",
+        "2061197966",
+        "2072640987",
+        "2096881034",
+        "2134027218",
+        "2135486052",
+        "2136475162",
+        "2156375420"
+    ]
+}

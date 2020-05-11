@@ -1,0 +1,40 @@
+{
+    "id": "1483204526",
+    "title": "Improved Approximation Algorithms for MAX k-CUT and MAX BISECTION",
+    "venue": "integer programming and combinatorial optimization",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Alan M. Frieze",
+            "id": "2036959358",
+            "org": "Carnegie Mellon University"
+        },
+        {
+            "name": "Mark Jerrum",
+            "id": "2076712289",
+            "org": "University of Edinburgh"
+        }
+    ],
+    "fields_of_study": [
+        "Cycle graph",
+        "Path graph",
+        "Mathematical optimization",
+        "Approximation algorithm",
+        "Discrete mathematics",
+        "Path (graph theory)",
+        "Combinatorics",
+        "Cut",
+        "Topological graph",
+        "Strength of a graph",
+        "Mathematics",
+        "Hypercube graph"
+    ],
+    "references": [
+        "1539191226",
+        "2027048490",
+        "2038225707",
+        "2069816168",
+        "2143391442",
+        "2162018802"
+    ]
+}

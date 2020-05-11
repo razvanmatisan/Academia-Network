@@ -1,0 +1,35 @@
+{
+    "id": "1563264444",
+    "title": "OntoComP: A Protege Plugin for Completing OWL Ontologies",
+    "venue": "european semantic web conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Baris Sertkaya",
+            "id": "269769221",
+            "org": "Theoretical Computer Science, TU Dresden, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ontology-based data integration",
+        "Data mining",
+        "Process ontology",
+        "Open Biomedical Ontologies",
+        "Suggested Upper Merged Ontology",
+        "Ontology components",
+        "Upper ontology",
+        "Ontology (information science)",
+        "Ontology engineering",
+        "Computer science"
+    ],
+    "references": [
+        "49596961",
+        "387168707",
+        "1482031469",
+        "1502374275",
+        "1503729935",
+        "1978211738",
+        "2146428518",
+        "2258352907"
+    ]
+}

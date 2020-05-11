@@ -1,0 +1,47 @@
+{
+    "id": "1481743338",
+    "title": "CRF Models for Tamil Part of Speech Tagging and Chunking",
+    "venue": "international conference on the computer processing of oriental languages",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "S. Lakshmana Pandian",
+            "id": "2089340502",
+            "org": "Department of Computer Science and Engineering, Anna University, Chennai, India 25#TAB#"
+        },
+        {
+            "name": "T. V. Geetha",
+            "id": "1969380775",
+            "org": "Department of Computer Science and Engineering, Anna University, Chennai, India 25#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern recognition",
+        "Sequence labeling",
+        "Natural language processing",
+        "Artificial intelligence",
+        "Markov model",
+        "Computer science",
+        "Conditional random field",
+        "Maximum-entropy Markov model",
+        "Machine learning",
+        "Language model",
+        "Variable-order Markov model",
+        "Hidden Markov model",
+        "Graphical model"
+    ],
+    "references": [
+        "1520377376",
+        "1551773846",
+        "1953828586",
+        "1968801347",
+        "1988995507",
+        "2046224275",
+        "2117400858",
+        "2122691642",
+        "2145948275",
+        "2147880316",
+        "2156515921",
+        "2161290181"
+    ]
+}

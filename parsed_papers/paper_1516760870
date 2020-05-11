@@ -1,0 +1,37 @@
+{
+    "id": "1516760870",
+    "title": "Local Search Techniques for Constrained Portfolio SelectionProblems",
+    "venue": "Computing in Economics and Finance",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Andrea Schaerf",
+            "id": "2785723131",
+            "org": "Dipartimento di Ingegneria Elettrica, Gestionale e Meccanica, Universita di Udine, Via delle Scienze 208, I-33100, Udine, Italy"
+        }
+    ],
+    "fields_of_study": [
+        "Merton's portfolio problem",
+        "Post-modern portfolio theory",
+        "Portfolio optimization",
+        "Mathematical optimization",
+        "Local search (optimization)",
+        "Efficient frontier",
+        "Economics",
+        "Modern portfolio theory",
+        "Portfolio",
+        "Black-Litterman model"
+    ],
+    "references": [
+        "1967136603",
+        "1974288696",
+        "2015097024",
+        "2106555029",
+        "2107709238",
+        "2128193809",
+        "2144015438",
+        "2151237529",
+        "2163056681",
+        "2166029977"
+    ]
+}

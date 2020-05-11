@@ -1,0 +1,46 @@
+{
+    "id": "1575798196",
+    "title": "Inducing Probabilistic Grammars by Bayesian Model Merging",
+    "venue": "international colloquium on grammatical inference",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Andreas Stolcke",
+            "id": "684032073",
+            "org": "International Computer Science Institute"
+        },
+        {
+            "name": "Stephen M. Omohundro",
+            "id": "2797595859",
+            "org": "International Computer Science Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Natural language processing",
+        "Computer science",
+        "Artificial intelligence",
+        "Stochastic grammar",
+        "Probabilistic logic",
+        "Link grammar",
+        "L-attributed grammar",
+        "Stochastic context-free grammar",
+        "Hidden Markov model",
+        "Context-free grammar",
+        "Pattern recognition",
+        "Bayesian inference"
+    ],
+    "references": [
+        "1486103693",
+        "1583239513",
+        "1825362480",
+        "1983661866",
+        "2056933273",
+        "2061079066",
+        "2096498841",
+        "2111041233",
+        "2121227244",
+        "2157140289",
+        "2162157640"
+    ]
+}

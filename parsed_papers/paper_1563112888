@@ -1,0 +1,32 @@
+{
+    "id": "1563112888",
+    "title": "Probabilistic Infinite Secret Sharing.",
+    "venue": "IACR Cryptology ePrint Archive",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Laszlo Csirmaz",
+            "id": "2799201520",
+            "org": "Alfred Renyi Institute of Mathematics"
+        }
+    ],
+    "fields_of_study": [
+        "Joint probability distribution",
+        "Measure (mathematics)",
+        "Discrete mathematics",
+        "Probabilistic logic",
+        "Combinatorics",
+        "If and only if",
+        "Open set",
+        "Access structure",
+        "Random variable",
+        "Mathematics",
+        "Secret sharing"
+    ],
+    "references": [
+        "51265332",
+        "169867194",
+        "1557832296",
+        "2120551550"
+    ]
+}

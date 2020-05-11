@@ -1,0 +1,32 @@
+{
+    "id": "1526219158",
+    "title": "Context adaptive self-configuration system",
+    "venue": "international conference on computational science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Seunghwa Lee",
+            "id": "2123206546",
+            "org": "School of Information and Communication Engineering, Sungkyunkwan University, Suwon, Korea#TAB#"
+        },
+        {
+            "name": "Eunseok Lee",
+            "id": "2135234537",
+            "org": "School of Information and Communication Engineering, Sungkyunkwan University, Suwon, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Adaptive system",
+        "Adaptability",
+        "Automation",
+        "Real-time computing",
+        "Distributed computing",
+        "Resource management",
+        "Computer science"
+    ],
+    "references": [
+        "1500058748",
+        "1997369208",
+        "2138098922"
+    ]
+}

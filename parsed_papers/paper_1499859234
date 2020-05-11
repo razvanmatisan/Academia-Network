@@ -1,0 +1,44 @@
+{
+    "id": "1499859234",
+    "title": "Mining normal and intrusive activity patterns for computer intrusion detection",
+    "venue": "intelligence and security informatics",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Xiangyang Li",
+            "id": "2894145592",
+            "org": "University of Michigan - Dearborn"
+        },
+        {
+            "name": "Nong Ye",
+            "id": "2894350616",
+            "org": "Arizona State University"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Cluster analysis",
+        "Supervised learning",
+        "Robustness (computer science)",
+        "Heuristic",
+        "Scalability",
+        "Intrusion detection system",
+        "Machine learning",
+        "Distributed memory",
+        "Constant false alarm rate",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1482924192",
+        "1530595269",
+        "1633659671",
+        "1884606608",
+        "1971784203",
+        "1994212840",
+        "2095979141",
+        "2100721247",
+        "2117646649",
+        "2128217000"
+    ]
+}

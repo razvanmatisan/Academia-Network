@@ -1,0 +1,49 @@
+{
+    "id": "1537957341",
+    "title": "Knowledge Base Machine Based on Parallel Kernel Language",
+    "venue": "IWDM",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Hidenori Itoh",
+            "id": "2653488055",
+            "org": "Institute for New Generation Computer Technology"
+        },
+        {
+            "name": "Toshiaki Takewaki",
+            "id": "2407545006",
+            "org": "Institute for New Generation Computer Technology"
+        },
+        {
+            "name": "Haruo Yokota",
+            "id": "2141906338",
+            "org": "Fujitsu Laboratories Ltd. Kawasaki"
+        }
+    ],
+    "fields_of_study": [
+        "Horn clause",
+        "Inference",
+        "Knowledge base",
+        "Fifth generation computer",
+        "Pointer machine",
+        "Kernel method",
+        "Machine learning",
+        "Tree kernel",
+        "Logic programming",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "30277732",
+        "115213581",
+        "1502343123",
+        "1515935588",
+        "2001150015",
+        "2003990235",
+        "2066716204",
+        "2095868631",
+        "2116070819",
+        "2124717933",
+        "2163058466"
+    ]
+}

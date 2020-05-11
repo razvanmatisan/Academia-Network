@@ -1,0 +1,37 @@
+{
+    "id": "1574401506",
+    "title": "Inverting the Burrows--Wheeler transform",
+    "venue": "Journal of Functional Programming",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Richard S. Bird",
+            "id": "2143632891",
+            "org": "Programming Research Group, Oxford University, Wolfson Building, Parks Road, Oxford OX1 3QD, UK (email: richard.bird@comlab.ox.ac.uk)#TAB#"
+        },
+        {
+            "name": "Shin-Cheng Mu",
+            "id": "2106801306",
+            "org": "Programming Research Group, Oxford University, Wolfson Building, Parks Road, Oxford OX1 3QD, UK (email: richard.bird@comlab.ox.ac.uk)#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "Discrete Hartley transform",
+        "Hartley transform",
+        "S transform",
+        "Fractional Fourier transform",
+        "Harmonic wavelet transform",
+        "Algorithm",
+        "Burrows-Wheeler transform",
+        "Data compression ratio",
+        "Computer science"
+    ],
+    "references": [
+        "1545746670",
+        "2025934427",
+        "2153694213",
+        "2158874082"
+    ]
+}

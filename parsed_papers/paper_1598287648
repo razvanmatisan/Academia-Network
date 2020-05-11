@@ -1,0 +1,38 @@
+{
+    "id": "1598287648",
+    "title": "Fast ``Short'' Messages on a Linux Cluster",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Marco Danelutto",
+            "id": "2107789154",
+            "org": "University of Pisa"
+        },
+        {
+            "name": "A. Rampini",
+            "id": "2413252957",
+            "org": "University of Pisa"
+        }
+    ],
+    "fields_of_study": [
+        "Overhead (business)",
+        "Computer science",
+        "Configfs",
+        "Linux kernel",
+        "epoll",
+        "HTree",
+        "Operating system",
+        "Small number",
+        "System call",
+        "Computer cluster",
+        "Real-time computing"
+    ],
+    "references": [
+        "1569694307",
+        "1603868614",
+        "1868661282",
+        "2015455082",
+        "2036968986"
+    ]
+}

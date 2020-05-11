@@ -1,0 +1,29 @@
+{
+    "id": "1482808320",
+    "title": "Support Services For Business Networking",
+    "venue": "IFIP World Conference on IT Tools",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Igor Hawryszkiewycz",
+            "id": "2128907604",
+            "org": "School of Computing Science, University of Technology, Sydney, Australia"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile business development",
+        "Electronic business",
+        "Network formation",
+        "Industrialization of services business model",
+        "Business relationship management",
+        "Business networking",
+        "Services computing",
+        "Business model",
+        "Process management",
+        "Business"
+    ],
+    "references": [
+        "1551074885",
+        "1843052344"
+    ]
+}

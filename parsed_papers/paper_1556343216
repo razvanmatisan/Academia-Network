@@ -1,0 +1,36 @@
+{
+    "id": "1556343216",
+    "title": "A quantum jump in computer science",
+    "venue": "Computer Science Today",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Gilles Brassard",
+            "id": "2041502760",
+            "org": "Universite de Montreal"
+        }
+    ],
+    "fields_of_study": [
+        "Quantum nanoscience",
+        "Theoretical computer science",
+        "Quantum information",
+        "Quantum algorithm",
+        "Quantum technology",
+        "Quantum simulator",
+        "Quantum channel",
+        "Open quantum system",
+        "Physics",
+        "Quantum mechanics",
+        "Quantum network"
+    ],
+    "references": [
+        "1599837121",
+        "1993688167",
+        "2001466659",
+        "2053619374",
+        "2078558384",
+        "2137005141",
+        "2154839628",
+        "2168676717"
+    ]
+}

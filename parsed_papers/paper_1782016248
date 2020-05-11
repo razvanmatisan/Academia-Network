@@ -1,0 +1,48 @@
+{
+    "id": "1782016248",
+    "title": "Statistical modeling of shape and appearance using the continuous medial representation",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Paul A. Yushkevich",
+            "id": "272559230",
+            "org": "Department of Radiology, University of Pennsylvania#TAB#"
+        },
+        {
+            "name": "Hui Zhang",
+            "id": "2653277364",
+            "org": "Department of Radiology, University of Pennsylvania#TAB#"
+        },
+        {
+            "name": "James C. Gee",
+            "id": "2157377923",
+            "org": "Department of Radiology, University of Pennsylvania#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern recognition",
+        "Coordinate system",
+        "Point distribution model",
+        "Medial axis",
+        "Artificial intelligence",
+        "Active shape model",
+        "Computer vision",
+        "Active appearance model",
+        "Principal geodesic analysis",
+        "Topological skeleton",
+        "Shape analysis (digital geometry)",
+        "Mathematics"
+    ],
+    "references": [
+        "1563961677",
+        "1575139267",
+        "2038952578",
+        "2077246452",
+        "2129751220",
+        "2152826865",
+        "2169539372",
+        "2172803778",
+        "2296388103"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "1604870856",
+    "title": "Hybrid Kernels and Capture Basins for Impulse Constrained Systems",
+    "venue": "international workshop on hybrid systems computation and control",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Patrick Saint-Pierre",
+            "id": "2306351585",
+            "org": "Universite Paris IX"
+        }
+    ],
+    "fields_of_study": [
+        "Constructive",
+        "Hybrid system",
+        "Kernel (linear algebra)",
+        "Dynamical system",
+        "Impulse (physics)",
+        "Mathematical optimization",
+        "Control theory",
+        "Mathematics"
+    ],
+    "references": []
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1563599373",
+    "title": "Adapting to the user's internet search strategy",
+    "venue": "international conference on user modeling, adaptation, and personalization",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jean-David Ruvini",
+            "id": "2303136125",
+            "org": "e-lab Bouygues SA, Eugene Freyssinet, St Quentin en Yvelines, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Metasearch engine",
+        "Self-organizing list",
+        "Organic search",
+        "Search engine optimization",
+        "Search analytics",
+        "Ranking (information retrieval)",
+        "Spamdexing",
+        "Search engine",
+        "Data mining",
+        "Computer science"
+    ],
+    "references": [
+        "1750885886",
+        "1972645849",
+        "2008889224",
+        "2012516036",
+        "2047221353",
+        "2088832942",
+        "2112929667",
+        "2119859154",
+        "2136661411",
+        "2162077280",
+        "2170654002"
+    ]
+}

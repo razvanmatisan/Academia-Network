@@ -1,0 +1,38 @@
+{
+    "id": "1604769668",
+    "title": "Degree of Similarity in Fuzzy Partition",
+    "venue": "soft computing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Rolly Intan",
+            "id": "2127129671",
+            "org": "Meiji University"
+        },
+        {
+            "name": "Masao Mukaidono",
+            "id": "370444231",
+            "org": "Meiji University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Fuzzy associative matrix",
+        "Fuzzy mathematics",
+        "Type-2 fuzzy sets and systems",
+        "Fuzzy subalgebra",
+        "Fuzzy set operations",
+        "Mathematics",
+        "Defuzzification",
+        "Fuzzy classification",
+        "Fuzzy number"
+    ],
+    "references": [
+        "1487560496",
+        "1573517062",
+        "1898259180",
+        "2019529630",
+        "2121169588",
+        "2165267798"
+    ]
+}

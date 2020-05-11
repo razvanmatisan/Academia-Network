@@ -1,0 +1,38 @@
+{
+    "id": "1556698173",
+    "title": "Encoding Ordinal Features into Binary Features for Text Classification",
+    "venue": "european conference on information retrieval",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Andrea Esuli",
+            "id": "97551770",
+            "org": "Istituto di Scienza e Tecnologia dell'Informazione, Consiglio Nazionale delle Ricerche, Pisa, Italy 56124#TAB#"
+        },
+        {
+            "name": "Fabrizio Sebastiani",
+            "id": "2130902957",
+            "org": "Istituto di Scienza e Tecnologia dell'Informazione, Consiglio Nazionale delle Ricerche, Pisa, Italy 56124#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Binary number",
+        "Encoding (memory)",
+        "Boosting (machine learning)",
+        "Supervised learning",
+        "Ordinal number",
+        "Support vector machine",
+        "Data mining",
+        "Machine learning",
+        "Computer science",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1495524224",
+        "1588207936",
+        "1678889691",
+        "1965657003",
+        "2135511047"
+    ]
+}

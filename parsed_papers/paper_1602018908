@@ -1,0 +1,35 @@
+{
+    "id": "1602018908",
+    "title": "CR-Prolog as a Specification Language for Constraint Satisfaction Problems",
+    "venue": "international conference on logic programming",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Marcello Balduccini",
+            "id": "2305337498",
+            "org": "Intelligent Systems, OCTO, Eastman Kodak Company, Rochester, NY, USA 14650-2102#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Concurrent constraint logic programming",
+        "Constraint programming",
+        "Algorithm",
+        "Constraint satisfaction dual problem",
+        "Theoretical computer science",
+        "Complexity of constraint satisfaction",
+        "Computer science",
+        "Mathematical optimization",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Constraint learning",
+        "Constraint logic programming",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "47957325",
+        "1600627406",
+        "2012170877",
+        "2054623824",
+        "2076698873",
+        "2096621306"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "1580417272",
+    "title": "Tamper Resistant Software: An Implementation",
+    "venue": "information hiding",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "David Aucsmith",
+            "id": "1977387845",
+            "org": "IAL"
+        }
+    ],
+    "fields_of_study": [
+        "Computer engineering",
+        "Code segment",
+        "Theoretical computer science",
+        "Threat model",
+        "Computer science",
+        "Tamper resistance",
+        "Design elements and principles",
+        "Software",
+        "Architecture",
+        "Trojan horse"
+    ],
+    "references": [
+        "1996360405"
+    ]
+}

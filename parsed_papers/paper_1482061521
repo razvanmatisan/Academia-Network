@@ -1,0 +1,35 @@
+{
+    "id": "1482061521",
+    "title": "The project on extended affix grammars at Nijmegen",
+    "venue": "WAGA Proceedings of the international conference on Attribute grammars and their applications",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Hans Meijer",
+            "id": "2046273438",
+            "org": "University of Nijmegen"
+        }
+    ],
+    "fields_of_study": [
+        "Parsing",
+        "General practice",
+        "Natural language processing",
+        "Attribute grammar",
+        "Circular dependency",
+        "Parse tree",
+        "Computer science",
+        "Artificial intelligence",
+        "Affix",
+        "Rule-based machine translation"
+    ],
+    "references": [
+        "24705948",
+        "39739796",
+        "1485863316",
+        "1557855974",
+        "1964071625",
+        "2057219663",
+        "2058476719",
+        "2104416102"
+    ]
+}

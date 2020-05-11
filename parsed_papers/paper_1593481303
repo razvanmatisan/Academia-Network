@@ -1,0 +1,41 @@
+{
+    "id": "1593481303",
+    "title": "Grammatical Evolution: Evolving Programs for an Arbitrary Language",
+    "venue": "european conference on genetic programming",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Conor Ryan",
+            "id": "2118252332",
+            "org": "University of Limerick Dept. Of Computer Science and Information Systems Ireland Ireland"
+        },
+        {
+            "name": "J. J. Collins",
+            "id": "2252260338",
+            "org": "University of Limerick Dept. Of Computer Science and Information Systems Ireland Ireland"
+        },
+        {
+            "name": "Michael O'Neill",
+            "id": "2235459539",
+            "org": "University of Limerick Dept. Of Computer Science and Information Systems Ireland Ireland"
+        }
+    ],
+    "fields_of_study": [
+        "Symbolic regression",
+        "Program analysis",
+        "Genetic algorithm",
+        "Artificial intelligence",
+        "Theoretical computer science",
+        "Evolutionary algorithm",
+        "Machine learning",
+        "Computer science",
+        "Backus-Naur Form",
+        "Automatic programming",
+        "Grammatical evolution",
+        "Expression (mathematics)"
+    ],
+    "references": [
+        "1606791384",
+        "2163430147"
+    ]
+}

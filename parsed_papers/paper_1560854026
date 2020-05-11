@@ -1,0 +1,41 @@
+{
+    "id": "1560854026",
+    "title": "Applications, implementation and performance evaluation of bit stream programming in erlang",
+    "venue": "practical aspects of declarative languages",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Per Gustafsson",
+            "id": "2115707708",
+            "org": "Uppsala University and Ericsson AB, Sweden#TAB#"
+        },
+        {
+            "name": "Konstantinos F. Sagonas",
+            "id": "2064107187",
+            "org": "National Technical University of Athens, Greece#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Bit field",
+        "Theoretical computer science",
+        "Programming paradigm",
+        "Computer science",
+        "STREAMS",
+        "Bit manipulation",
+        "Bitwise operations in C",
+        "Declarative programming",
+        "Imperative programming",
+        "Bit slicing"
+    ],
+    "references": [
+        "1652311832",
+        "1990751139",
+        "1997199152",
+        "2024347417",
+        "2027132261",
+        "2096679454",
+        "2132155852",
+        "2152544235",
+        "2161780258"
+    ]
+}

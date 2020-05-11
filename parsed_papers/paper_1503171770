@@ -1,0 +1,50 @@
+{
+    "id": "1503171770",
+    "title": "Generating Executable Scenarios from Natural Language",
+    "venue": "international conference on computational linguistics",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Michal Gordon",
+            "id": "2133186814",
+            "org": "The Weizmann Institute of Science, Rehovot, Israel 76100#TAB#"
+        },
+        {
+            "name": "David Harel",
+            "id": "427806604",
+            "org": "The Weizmann Institute of Science, Rehovot, Israel 76100#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Natural language",
+        "Artificial intelligence",
+        "Specification language",
+        "Natural language programming",
+        "Software requirements",
+        "Computer science",
+        "Sequence diagram",
+        "Natural language user interface",
+        "Programming language",
+        "Executable",
+        "Controlled natural language"
+    ],
+    "references": [
+        "41467094",
+        "1482962177",
+        "1483406120",
+        "1492273650",
+        "1518558009",
+        "1556566737",
+        "1572511148",
+        "1592055490",
+        "1593904304",
+        "1881220596",
+        "2040085723",
+        "2064650227",
+        "2115076780",
+        "2117886413",
+        "2160983536",
+        "2897840903"
+    ]
+}

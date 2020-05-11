@@ -1,0 +1,48 @@
+{
+    "id": "1660133578",
+    "title": "An efficient approach to clustering in large multimedia databases with noise",
+    "venue": "knowledge discovery and data mining",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Alexander Hinneburg",
+            "id": "293376274",
+            "org": "Institute of Computer Science, University of Halle, Germany#TAB#"
+        },
+        {
+            "name": "Daniel A. Keim",
+            "id": "2147343253",
+            "org": "Institute of Computer Science, University of Halle, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Constrained clustering",
+        "Determining the number of clusters in a data set",
+        "Data mining",
+        "Cluster analysis",
+        "DBSCAN",
+        "Computer science",
+        "Database",
+        "Artificial intelligence",
+        "Multimedia",
+        "Machine learning",
+        "CURE data clustering algorithm",
+        "Data stream clustering",
+        "Correlation clustering",
+        "Canopy clustering algorithm"
+    ],
+    "references": [
+        "120268299",
+        "1497131759",
+        "1566114229",
+        "1575476631",
+        "1577072181",
+        "1673310716",
+        "2010595692",
+        "2095897464",
+        "2117401405",
+        "2136196605",
+        "2150661231",
+        "2164500538"
+    ]
+}

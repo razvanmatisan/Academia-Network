@@ -1,0 +1,32 @@
+{
+    "id": "1788898868",
+    "title": "Selection of informative clusters from hierarchical cluster tree with gene classes",
+    "venue": "BMC Bioinformatics",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Petri Toronen",
+            "id": "12630806",
+            "org": "A. I. Virtanen Institute for Molecular Sciences, Kuopio, Finland"
+        }
+    ],
+    "fields_of_study": [
+        "Complete-linkage clustering",
+        "Categorical variable",
+        "Cluster analysis",
+        "Hierarchical clustering",
+        "Gene expression profiling",
+        "Gene",
+        "Bioinformatics",
+        "Dendrogram",
+        "Biology",
+        "Sorting"
+    ],
+    "references": [
+        "1555260226",
+        "2004958539",
+        "2108420379",
+        "2137786672",
+        "2148071771"
+    ]
+}

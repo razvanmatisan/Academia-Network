@@ -1,0 +1,36 @@
+{
+    "id": "1482203794",
+    "title": "Convex Envelopes of Monomials of Odd Degree",
+    "venue": "Journal of Global Optimization",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Leo Liberti",
+            "id": "2279537921",
+            "org": "Centre for Process Systems Engineering, Imperial College of Science, Technology and Medicine, London SW7 2BY, UK#TAB#"
+        },
+        {
+            "name": "C.C. Pantelides",
+            "id": "2189783400",
+            "org": "Centre for Process Systems Engineering, Imperial College of Science, Technology and Medicine, London SW7 2BY, UKCorresponding author. e-mail: c.pantelides@ic.ac.uk#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical analysis",
+        "Mathematical optimization",
+        "Convex analysis",
+        "Subderivative",
+        "Nonlinear programming",
+        "Mathematics",
+        "Linear matrix inequality",
+        "Global optimization",
+        "Convex hull",
+        "Convex optimization",
+        "Convex combination"
+    ],
+    "references": [
+        "1981367768",
+        "1988622494",
+        "2056371558"
+    ]
+}

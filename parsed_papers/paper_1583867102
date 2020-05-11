@@ -1,0 +1,34 @@
+{
+    "id": "1583867102",
+    "title": "Towards an ideal social simulation language",
+    "venue": "multi agent systems and agent based simulation",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Bruce Edmonds",
+            "id": "1761356427",
+            "org": "Centre for Policy Modelling, Manchester Metropolitan University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint programming",
+        "Management science",
+        "Social phenomenon",
+        "Computer science",
+        "Semantics",
+        "Social simulation",
+        "Social system",
+        "Relational model",
+        "Syntax",
+        "Simulation language"
+    ],
+    "references": [
+        "1489074606",
+        "1512629955",
+        "1513019119",
+        "2005184520",
+        "2098399738",
+        "2104613743",
+        "2131035629"
+    ]
+}

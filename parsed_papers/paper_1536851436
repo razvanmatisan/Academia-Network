@@ -1,0 +1,39 @@
+{
+    "id": "1536851436",
+    "title": "Knowledge discovery by relation approximation: a rough set approach",
+    "venue": "rough sets and knowledge technology",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Hung Son Nguyen",
+            "id": "2894283200",
+            "org": "Institute of Mathematics, Warsaw University, Warsaw, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Knowledge extraction",
+        "Expert system",
+        "Decision analysis",
+        "Artificial intelligence",
+        "Inductive reasoning",
+        "Knowledge acquisition",
+        "Computer science",
+        "Rough set"
+    ],
+    "references": [
+        "1494340393",
+        "1533530351",
+        "1543303889",
+        "1582014272",
+        "1582582233",
+        "1591618909",
+        "1597041560",
+        "1810004342",
+        "1893503423",
+        "2122763706",
+        "2150762813",
+        "2163963159",
+        "2340020088"
+    ]
+}

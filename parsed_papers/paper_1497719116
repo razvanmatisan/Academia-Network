@@ -1,0 +1,43 @@
+{
+    "id": "1497719116",
+    "title": "A Formal Framework for Modules with State",
+    "venue": "algebraic methodology and software technology",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Davide Ancona",
+            "id": "2097229627",
+            "org": "DISI - Universita di Genova"
+        },
+        {
+            "name": "Elena Zucca",
+            "id": "2442926778",
+            "org": "DISI - Universita di Genova"
+        }
+    ],
+    "fields_of_study": [
+        "Formal methods",
+        "Theoretical computer science",
+        "Programming language",
+        "Fourth-generation programming language",
+        "Fifth-generation programming language",
+        "Specification language",
+        "Very high-level programming language",
+        "Object language",
+        "Programming language implementation",
+        "Computer science",
+        "Programming domain"
+    ],
+    "references": [
+        "106459699",
+        "1541593857",
+        "1554424044",
+        "1603788080",
+        "1829244603",
+        "1970554275",
+        "2010883554",
+        "2115641952",
+        "2138387375",
+        "2293815615"
+    ]
+}

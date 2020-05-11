@@ -1,0 +1,39 @@
+{
+    "id": "1812587682",
+    "title": "Notice of Violation of IEEE Publication Principles Monitorable electronic contract",
+    "venue": "congress on evolutionary computation",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Lai Xu",
+            "id": "2653968500",
+            "org": "Tilburg Univ., Netherlands"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Machine learning",
+        "Artificial intelligence",
+        "Business process",
+        "Computer science",
+        "Contract management",
+        "Architecture",
+        "E-commerce",
+        "Formal specification",
+        "Notice",
+        "Transaction processing",
+        "Software agent",
+        "Computer security"
+    ],
+    "references": [
+        "1535871849",
+        "1548658709",
+        "1604052145",
+        "2075128051",
+        "2081689734",
+        "2088703903",
+        "2110689325",
+        "2157558021",
+        "2177538391"
+    ]
+}

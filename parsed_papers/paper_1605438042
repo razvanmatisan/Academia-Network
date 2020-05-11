@@ -1,0 +1,34 @@
+{
+    "id": "1605438042",
+    "title": "Risk Management of COTS Based Systems Development",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Louis C. Rose",
+            "id": "2503056972",
+            "org": "BAE SYSTEMS"
+        }
+    ],
+    "fields_of_study": [
+        "Requirements management",
+        "Risk management",
+        "Systems engineering",
+        "Common Object Request Broker Architecture",
+        "Commercial off-the-shelf",
+        "Distributed computing",
+        "Component-based software engineering",
+        "Computer science",
+        "Simulation",
+        "Software development"
+    ],
+    "references": [
+        "1754812760",
+        "1968932868",
+        "2076483318",
+        "2119600129",
+        "2134062730",
+        "2166056089",
+        "2171163654"
+    ]
+}

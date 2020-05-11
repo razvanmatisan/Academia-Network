@@ -1,0 +1,37 @@
+{
+    "id": "101112147",
+    "title": "Efficient and provably secure methods for switching from arithmetic to boolean masking",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Blandine Debraize",
+            "id": "255616343",
+            "org": "Gemalto, Meudon Cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Boolean algebra",
+        "Parallel computing",
+        "Standard Boolean model",
+        "Arithmetic",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Power analysis",
+        "Masking (art)",
+        "Boolean expression",
+        "Boolean circuit",
+        "Cryptography",
+        "Computer science"
+    ],
+    "references": [
+        "1548656471",
+        "1592811212",
+        "1605116544",
+        "1758363771",
+        "2132250906",
+        "2154909745",
+        "2172632525",
+        "2612208439"
+    ]
+}

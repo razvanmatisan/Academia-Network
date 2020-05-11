@@ -1,0 +1,34 @@
+{
+    "id": "1497341111",
+    "title": "Buchberger Algorithm and Integer Programming",
+    "venue": "Applicable Algebra in Engineering, Communication and Computing",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Pasqualina Conti",
+            "id": "2128699602",
+            "org": "Istituto di Matematica Applicata -- Dipartimento di Matematica, Universita di Pisa, Italy"
+        },
+        {
+            "name": "Carlo Traverso",
+            "id": "2475751482",
+            "org": "Istituto di Matematica Applicata -- Dipartimento di Matematica, Universita di Pisa, Italy"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Integer programming",
+        "Discrete mathematics",
+        "Branch and cut",
+        "Critical pair",
+        "Faugere's F4 and F5 algorithms",
+        "Mathematics",
+        "Branch and price",
+        "Buchberger's algorithm",
+        "Smith normal form"
+    ],
+    "references": [
+        "1524248088",
+        "2086855586"
+    ]
+}

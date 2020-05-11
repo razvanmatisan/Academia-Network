@@ -1,0 +1,46 @@
+{
+    "id": "1521854317",
+    "title": "Operators and Classification for Data Mapping in Semantic Integration",
+    "venue": "international conference on conceptual modeling",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Anca Dobre",
+            "id": "2516234723",
+            "org": "University of Zurich"
+        },
+        {
+            "name": "Farshad Hakimpour",
+            "id": "2649944062",
+            "org": "University of Zurich"
+        },
+        {
+            "name": "Klaus R. Dittrich",
+            "id": "2032041029",
+            "org": "University of Zurich"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Database",
+        "Data mining",
+        "Data mapping",
+        "Input/output",
+        "Information integration",
+        "Information system",
+        "Computer science",
+        "Schema (psychology)",
+        "Operator (computer programming)",
+        "Semantic integration"
+    ],
+    "references": [
+        "1556076816",
+        "2008896880",
+        "2033652908",
+        "2048959202",
+        "2092833514",
+        "2125822162",
+        "2149185259",
+        "2585818281"
+    ]
+}

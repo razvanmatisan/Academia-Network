@@ -1,0 +1,45 @@
+{
+    "id": "1558584575",
+    "title": "Genetic granular kernel methods for cyclooxygenase-2 inhibitor activity comparison",
+    "venue": "international symposium on neural networks",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Bo Jin",
+            "id": "2306540404",
+            "org": "Department of Computer Science, Georgia State University, Atlanta, GA#TAB#"
+        },
+        {
+            "name": "Yan-Qing Zhang",
+            "id": "2112042812",
+            "org": "Department of Computer Science, Georgia State University, Atlanta, GA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Support vector machine",
+        "Genetic algorithm",
+        "Pattern recognition",
+        "Kernel method",
+        "Kernel (linear algebra)",
+        "Polynomial kernel",
+        "Kernel (image processing)",
+        "Computer science",
+        "String kernel",
+        "Radial basis function kernel"
+    ],
+    "references": [
+        "1480643256",
+        "1486401986",
+        "1510073064",
+        "1997355076",
+        "2087347434",
+        "2107425660",
+        "2119821739",
+        "2127713198",
+        "2142183404",
+        "2148603752",
+        "2164654044"
+    ]
+}

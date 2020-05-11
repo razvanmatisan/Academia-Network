@@ -1,0 +1,43 @@
+{
+    "id": "1505087841",
+    "title": "Training support vector machines using greedy stagewise algorithm",
+    "venue": "knowledge discovery and data mining",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Liefeng Bo",
+            "id": "2278593545",
+            "org": "Institute of Intelligent Information Processing, Xidian University, Xi'an, China#TAB#"
+        },
+        {
+            "name": "Ling Wang",
+            "id": "2669774783",
+            "org": "Institute of Intelligent Information Processing, Xidian University, Xi'an, China#TAB#"
+        },
+        {
+            "name": "Licheng Jiao",
+            "id": "2166558591",
+            "org": "Institute of Intelligent Information Processing, Xidian University, Xi'an, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Sample size determination",
+        "Greedy algorithm",
+        "Computer science",
+        "Machine learning",
+        "Support vector machine",
+        "Artificial intelligence",
+        "Overfitting",
+        "Relevance vector machine",
+        "Algorithm",
+        "Computational complexity theory"
+    ],
+    "references": [
+        "1486089539",
+        "1648445109",
+        "2087347434",
+        "2119821739",
+        "2151040995",
+        "2156512439"
+    ]
+}

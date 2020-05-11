@@ -1,0 +1,42 @@
+{
+    "id": "172706242",
+    "title": "Robust Tagging System for Lexicon Creation.",
+    "venue": "international conference on artificial intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Anna Pappa",
+            "id": "2684604906",
+            "org": "Dpt of Computer Science|University of Paris"
+        }
+    ],
+    "fields_of_study": [
+        "Speech recognition",
+        "Word error rate",
+        "Verb phrase",
+        "Natural language processing",
+        "Unsupervised learning",
+        "Noun",
+        "Rule-based system",
+        "Knowledge acquisition",
+        "Lexicon",
+        "Shallow parsing",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "22895256",
+        "199541590",
+        "1527008920",
+        "1571453868",
+        "1632114991",
+        "1810157568",
+        "2116144811",
+        "2124634352",
+        "2150600651",
+        "2157693466",
+        "2163354206",
+        "2166394306",
+        "2170206653"
+    ]
+}

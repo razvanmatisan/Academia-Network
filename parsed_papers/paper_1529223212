@@ -1,0 +1,37 @@
+{
+    "id": "1529223212",
+    "title": "Flexibility in Macro-Scripts for Computer-Supported Collaborative Learning.",
+    "venue": "Journal of Computer Assisted Learning",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Pierre Dillenbourg",
+            "id": "273645318",
+            "org": "Ecole Polytechnique Federale de Lausanne, Lausanne, Switzerland"
+        },
+        {
+            "name": "Pierre Tchounikine",
+            "id": "2339892792",
+            "org": "Universite du Maine, Le Mans, France"
+        }
+    ],
+    "fields_of_study": [
+        "Design choice",
+        "Emergent organization",
+        "Collaborative learning",
+        "Knowledge management",
+        "Pedagogy",
+        "Cooperative learning",
+        "World Wide Web",
+        "Computer-supported collaborative learning",
+        "Scripting language",
+        "Operationalization",
+        "Computer-mediated communication",
+        "Computer science"
+    ],
+    "references": [
+        "2062093148",
+        "2113831001",
+        "2118172827"
+    ]
+}

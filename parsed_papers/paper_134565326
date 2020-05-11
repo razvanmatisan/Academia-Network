@@ -1,0 +1,46 @@
+{
+    "id": "134565326",
+    "title": "Enhancing the Performance of Auroscheduling in Distributed Shared Memory Multiprocessors",
+    "venue": "european conference on parallel processing",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Dimitrios S. Nikolopoulos",
+            "id": "222314420",
+            "org": "University of Patras High Performance Computing Architectures Laboratory Department of Computer Engineering and Informatics Rio 26500 Patras Greece Rio 26500 Patras Greece"
+        },
+        {
+            "name": "Eleftherios D. Polychronopoulos",
+            "id": "56925266",
+            "org": "High Performance Computing|Laboratory Department of Computer Engineering and Informatics|University of Patras"
+        },
+        {
+            "name": "Theodore S. Papatheodorou",
+            "id": "615415263",
+            "org": "University of Patras High Performance Computing Architectures Laboratory Department of Computer Engineering and Informatics Rio 26500 Patras Greece Rio 26500 Patras Greece"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Distributed shared memory",
+        "Data diffusion machine",
+        "Distributed computing",
+        "Distributed memory",
+        "Supercomputer architecture",
+        "Computer science",
+        "Shared disk architecture",
+        "Uniform memory access",
+        "Cache-only memory architecture",
+        "Shared memory"
+    ],
+    "references": [
+        "1491726889",
+        "1543117568",
+        "1583973024",
+        "2057420532",
+        "2072246515",
+        "2099413756",
+        "2100720297",
+        "2142899035"
+    ]
+}

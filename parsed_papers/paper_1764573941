@@ -1,0 +1,38 @@
+{
+    "id": "1764573941",
+    "title": "Evolutionary Neural Network Learning",
+    "venue": "portuguese conference on artificial intelligence",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Miguel Rocha",
+            "id": "2299683466",
+            "org": "Universidade do Minho"
+        },
+        {
+            "name": "Paulo Cortez",
+            "id": "2114594441",
+            "org": "Universidade do Minho"
+        },
+        {
+            "name": "Jose Neves",
+            "id": "2568267441",
+            "org": "Universidade do Minho"
+        }
+    ],
+    "fields_of_study": [
+        "Evolutionary algorithm",
+        "Machine learning",
+        "Maxima and minima",
+        "Genetic algorithm",
+        "Local search (optimization)",
+        "Artificial intelligence",
+        "Artificial neural network",
+        "Computer science",
+        "Gradient method"
+    ],
+    "references": [
+        "44465109",
+        "2142183404"
+    ]
+}

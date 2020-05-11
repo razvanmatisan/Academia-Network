@@ -1,0 +1,35 @@
+{
+    "id": "1589617955",
+    "title": "A Customizable Coordination Service for Autonomous Agents",
+    "venue": "intelligent agents",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Munindar P. Singh",
+            "id": "2306655439",
+            "org": "North Carolina State University"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Autonomous agent",
+        "Multi-agent system",
+        "Distributed computing",
+        "Computer science",
+        "Temporal logic"
+    ],
+    "references": [
+        "1496766904",
+        "1503983812",
+        "1529834563",
+        "1610892232",
+        "2043318789",
+        "2068394020",
+        "2104212468",
+        "2128937446",
+        "2131163579",
+        "2146839809",
+        "2157598146",
+        "2167403441"
+    ]
+}

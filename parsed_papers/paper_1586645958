@@ -1,0 +1,37 @@
+{
+    "id": "1586645958",
+    "title": "Analysis of a simple model of problem solving times",
+    "venue": "intelligent tutoring systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Petr Jarusek",
+            "id": "115106745",
+            "org": "Faculty of Informatics, Masaryk University, Brno, Czech Republic#TAB#"
+        },
+        {
+            "name": "Radek Pelanek",
+            "id": "331254149",
+            "org": "Faculty of Informatics, Masaryk University, Brno, Czech Republic#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Logarithm",
+        "Machine learning",
+        "Collaborative filtering",
+        "Item response theory",
+        "Computer science",
+        "Estimation theory",
+        "TUTOR",
+        "General Group Problem Solving (GGPS) Model"
+    ],
+    "references": [
+        "155047197",
+        "158708155",
+        "1765030997",
+        "2015040676",
+        "2165949563",
+        "2206085713"
+    ]
+}

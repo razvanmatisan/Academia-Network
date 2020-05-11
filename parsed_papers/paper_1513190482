@@ -1,0 +1,41 @@
+{
+    "id": "1513190482",
+    "title": "Free Variables and Subexpressions in Higher-Order Meta Logic",
+    "venue": "theorem proving in higher order logics",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Chuck Liang",
+            "id": "2156883296",
+            "org": "Trinity College"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Parsing",
+        "Discrete mathematics",
+        "Lambda calculus",
+        "Free variables and bound variables",
+        "Higher-order abstract syntax",
+        "Abstract syntax",
+        "Logic programming",
+        "Program transformation",
+        "Rewriting",
+        "Mathematics"
+    ],
+    "references": [
+        "1588934256",
+        "1590056785",
+        "1597351747",
+        "1986402635",
+        "1995955735",
+        "2009464583",
+        "2034676877",
+        "2050702141",
+        "2057588976",
+        "2075352622",
+        "2076819871",
+        "2099089064",
+        "2151038558"
+    ]
+}

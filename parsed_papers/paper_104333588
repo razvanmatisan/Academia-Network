@@ -1,0 +1,31 @@
+{
+    "id": "104333588",
+    "title": "A conceptual parser for natural language",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1969,
+    "authors": [
+        {
+            "name": "Roger C. Schank",
+            "id": "378837251",
+            "org": "Computer Science Department, Stanford University, Stanford, California#TAB#"
+        },
+        {
+            "name": "Lawrence G. Tesler",
+            "id": "2052345548",
+            "org": "Computer Science Department, Stanford University, Stanford, California#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Compiler-compiler",
+        "Natural language",
+        "Parsing",
+        "Language identification",
+        "Natural language processing",
+        "Computer science",
+        "Programming language",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1563155388"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "1533036623",
+    "title": "clp(pdf(y)): constraints for probabilistic reasoning in logic programming",
+    "venue": "principles and practice of constraint programming",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Nicos Angelopoulos",
+            "id": "2508144328",
+            "org": "Department of Computer Science, York University, York, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Probability distribution",
+        "Probabilistic logic",
+        "Cryptography",
+        "Stochastic programming",
+        "Machine learning",
+        "Conditional probability distribution",
+        "Logic programming",
+        "Bayesian network",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1543028224",
+        "1552758672",
+        "1582613186",
+        "2012741612",
+        "2090761873"
+    ]
+}

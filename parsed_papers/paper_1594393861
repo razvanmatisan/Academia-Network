@@ -1,0 +1,35 @@
+{
+    "id": "1594393861",
+    "title": "Solving Open Questions with an Automated Theorem-Proving Program",
+    "venue": "conference on automated deduction",
+    "year": 1982,
+    "authors": [
+        {
+            "name": "Larry Wos",
+            "id": "2024384555",
+            "org": "Argonne National Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Computer science",
+        "Algorithm",
+        "Rule of inference",
+        "Digital electronics",
+        "Conjecture",
+        "Automated reasoning",
+        "Automated proof checking",
+        "Automated theorem proving",
+        "Theoretical computer science",
+        "Computer Aided Design"
+    ],
+    "references": [
+        "1974462798",
+        "2011948182",
+        "2030918492",
+        "2038464985",
+        "2041659040",
+        "2058514808",
+        "2084463114"
+    ]
+}

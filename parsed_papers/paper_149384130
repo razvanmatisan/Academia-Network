@@ -1,0 +1,31 @@
+{
+    "id": "149384130",
+    "title": "Fast algorithms for the characteristic polynomial",
+    "venue": "Theoretical Computer Science",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Walter Keller-Gehrig",
+            "id": "2318697312",
+            "org": "Dietzingerstrasse 12, 8003 Zurich, Switzerland"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Matrix polynomial",
+        "Combinatorics",
+        "Stable polynomial",
+        "Mathematics",
+        "Mathematical optimization",
+        "Reciprocal polynomial",
+        "Alternating polynomial",
+        "Wilkinson's polynomial",
+        "Characteristic polynomial",
+        "Polynomial matrix",
+        "Polynomial"
+    ],
+    "references": [
+        "1973342538",
+        "2010811692"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1487878873",
+    "title": "Automatic Interpretation of Scanned Topographic Maps: A Raster-Based Approach",
+    "venue": "graphics recognition",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Steffen Frischknecht",
+            "id": "2295739900",
+            "org": "Swiss Federal Institute of Technology (ETH) Zurich ETH Hbnggerberg"
+        },
+        {
+            "name": "Entela Kanani",
+            "id": "2150900022",
+            "org": "Swiss Federal Institute of Technology (ETH) Zurich ETH Hbnggerberg"
+        }
+    ],
+    "fields_of_study": [
+        "Template matching",
+        "Topographic map",
+        "Vectorization (mathematics)",
+        "Photogrammetry",
+        "Computer vision",
+        "Artificial intelligence",
+        "Computer science",
+        "Pattern recognition",
+        "Geographic information system",
+        "Document processing",
+        "Raster graphics",
+        "Line (geometry)"
+    ],
+    "references": [
+        "2116691848",
+        "2153044048"
+    ]
+}

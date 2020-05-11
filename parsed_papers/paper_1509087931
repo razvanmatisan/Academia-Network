@@ -1,0 +1,48 @@
+{
+    "id": "1509087931",
+    "title": "The Epsilon Transformation Language",
+    "venue": "international conference on model transformation",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Dimitrios S. Kolovos",
+            "id": "1996244569",
+            "org": "Department of Computer Science, University of York, Heslington, York, UK YO10 5DD#TAB#"
+        },
+        {
+            "name": "Richard F. Paige",
+            "id": "2044930014",
+            "org": "Department of Computer Science, University of York, Heslington, York, UK YO10 5DD#TAB#"
+        },
+        {
+            "name": "Fiona Polack",
+            "id": "2003314108",
+            "org": "Department of Computer Science, University of York, Heslington, York, UK YO10 5DD#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Model transformation",
+        "Pattern recognition",
+        "Merge (version control)",
+        "Transformation language",
+        "Theoretical computer science",
+        "Model transformation language",
+        "Workflow",
+        "Specification language",
+        "Artificial intelligence",
+        "Systems engineering",
+        "Computer science"
+    ],
+    "references": [
+        "1486745608",
+        "1603230831",
+        "1995647130",
+        "2026193949",
+        "2049008406",
+        "2063268247",
+        "2125764954",
+        "2147642262",
+        "2162425337",
+        "2169954581"
+    ]
+}

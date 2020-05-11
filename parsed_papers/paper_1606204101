@@ -1,0 +1,32 @@
+{
+    "id": "1606204101",
+    "title": "On Extreme Points of Convex Compact Turing Located Set",
+    "venue": "foundations of computer science",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Xiaolin Ge",
+            "id": "2126888973",
+            "org": "Cornell University-Ithaca"
+        },
+        {
+            "name": "Anil Nerode",
+            "id": "321207788",
+            "org": "Cornell University-Ithaca"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Subderivative",
+        "Combinatorics",
+        "Krein-Milman theorem",
+        "Absolutely convex set",
+        "Orthogonal convex hull",
+        "Convex hull",
+        "Proper convex function",
+        "Choquet theory",
+        "Convex set",
+        "Mathematics"
+    ],
+    "references": []
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1494645067",
+    "title": "A New Change of Variables for Efficient BRDF Representation",
+    "venue": "eurographics symposium on rendering techniques",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Szymon Rusinkiewicz",
+            "id": "1936126667",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Artificial intelligence",
+        "Specular reflection",
+        "Parametrization",
+        "Mathematical optimization",
+        "Spherical harmonics",
+        "Discrete mathematics",
+        "Change of basis",
+        "Change of variables",
+        "Distribution function",
+        "Bidirectional reflectance distribution function",
+        "Mathematics",
+        "Basis function"
+    ],
+    "references": [
+        "1524975883",
+        "1575170600",
+        "1979606301",
+        "2012909180",
+        "2094673986",
+        "2104587129",
+        "2118588333",
+        "2144323660",
+        "2144736368",
+        "2149089336",
+        "2161446118"
+    ]
+}

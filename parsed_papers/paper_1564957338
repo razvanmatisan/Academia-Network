@@ -1,0 +1,39 @@
+{
+    "id": "1564957338",
+    "title": "CGE: a sequential learning algorithm for mealy automata",
+    "venue": "international colloquium on grammatical inference",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Karl Meinke",
+            "id": "731579050",
+            "org": "School of Computer Science and Communication, Royal Institute of Technology, Stockholm, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Regular language",
+        "System under test",
+        "Computable general equilibrium",
+        "Automaton",
+        "Universal algebra",
+        "Sequence learning",
+        "Algorithm",
+        "Theoretical computer science",
+        "Congruence (geometry)",
+        "Rewriting"
+    ],
+    "references": [
+        "1482663303",
+        "1584684441",
+        "1587497712",
+        "1599044589",
+        "1701438870",
+        "1984666354",
+        "2033904437",
+        "2044136839",
+        "2054995704",
+        "2114575161",
+        "2156530815"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1601278659",
+    "title": "On the Computational Complexity of Codes in Graphs",
+    "venue": "mathematical foundations of computer science",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Jan Kratochvil",
+            "id": "2312053838",
+            "org": "Charles University Prague Prague"
+        },
+        {
+            "name": "Mirko Krivanek",
+            "id": "2289297144",
+            "org": "Charles University Prague Prague"
+        }
+    ],
+    "fields_of_study": [
+        "Pathwidth",
+        "Combinatorics",
+        "Perfect graph theorem",
+        "Discrete mathematics",
+        "Planar straight-line graph",
+        "Book embedding",
+        "Computational complexity theory",
+        "Universal graph",
+        "Distance-hereditary graph",
+        "Comparability graph",
+        "Mathematics"
+    ],
+    "references": [
+        "2002722727",
+        "2036945144",
+        "2051769825"
+    ]
+}

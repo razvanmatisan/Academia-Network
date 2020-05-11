@@ -1,0 +1,34 @@
+{
+    "id": "1530244357",
+    "title": "On Behavioural Model Transformation in Web Services",
+    "venue": "international conference on conceptual modeling",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Behzad Bordbar",
+            "id": "2042417741",
+            "org": "University of Birmingham"
+        },
+        {
+            "name": "Athanasios Staikopoulos",
+            "id": "2180037404",
+            "org": "University of Birmingham"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Web service",
+        "WS-Addressing",
+        "Computer science",
+        "Web modeling",
+        "Web development",
+        "Business Process Execution Language",
+        "WS-I Basic Profile",
+        "Services computing",
+        "WS-Policy"
+    ],
+    "references": [
+        "51347347",
+        "2035750649"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1819142276",
+    "title": "Multi-agent reasoning with belief contexts: the approach and a case study",
+    "venue": "intelligent agents",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Alessandro Cimatti",
+            "id": "1478355294",
+            "org": "IRST--Istituto per la Ricerca Scientifica e Tecnologica, Trento, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Natural language processing",
+        "Propositional attitude",
+        "Deductive reasoning",
+        "Verbal reasoning",
+        "Natural deduction",
+        "Evidential reasoning approach",
+        "Computer science",
+        "Case-based reasoning",
+        "Analytic reasoning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "72919982",
+        "1488300569",
+        "1531543048",
+        "1697030722",
+        "2057858426",
+        "2082432863",
+        "2125692076"
+    ]
+}

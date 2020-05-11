@@ -1,0 +1,23 @@
+{
+    "id": "165484688",
+    "title": "Reasoning about hidden mechanisms",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Richard J. Doyle",
+            "id": "2796656323",
+            "org": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Causal model",
+        "Computer science"
+    ],
+    "references": [
+        "2051532474",
+        "2053190303"
+    ]
+}

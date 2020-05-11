@@ -1,0 +1,34 @@
+{
+    "id": "1556237857",
+    "title": "On Disjunctive Representations of Distributions and Randomization",
+    "venue": "International Conference on Innovative Techniques and Applications of Artificial Intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "T. K. Satish Kumar",
+            "id": "2148920057",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Joint probability distribution",
+        "Conditional independence",
+        "Conditional probability",
+        "Regular conditional probability",
+        "Conditional probability distribution",
+        "Chain rule (probability)",
+        "Machine learning",
+        "Bayesian network",
+        "Artificial intelligence",
+        "Computer science",
+        "Conditional variance"
+    ],
+    "references": [
+        "1562643156",
+        "1587990862",
+        "1637052413",
+        "1991477862",
+        "2010438070",
+        "2094500233"
+    ]
+}

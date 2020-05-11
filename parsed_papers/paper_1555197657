@@ -1,0 +1,45 @@
+{
+    "id": "1555197657",
+    "title": "Towards an iterative classification based on concept lattice",
+    "venue": "concept lattices and their applications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Stephanie Guillas",
+            "id": "2127914447",
+            "org": "L3I laboratory, Universite de La Rochelle, La Rochelle Cedex 1, France#TAB#"
+        },
+        {
+            "name": "Karell Bertet",
+            "id": "1995420573",
+            "org": "L3I laboratory, Universite de La Rochelle, La Rochelle Cedex 1, France#TAB#"
+        },
+        {
+            "name": "Jean-Marc Ogier",
+            "id": "2144112298",
+            "org": "L3I laboratory, Universite de La Rochelle, La Rochelle Cedex 1, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Data mining",
+        "Lattice (order)",
+        "Classifier (linguistics)",
+        "Iterative and incremental development",
+        "Margin classifier",
+        "Topological graph",
+        "Computer science",
+        "Formal concept analysis",
+        "Naive Bayes classifier",
+        "Quadratic classifier",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "84664620",
+        "1494387441",
+        "1575208710",
+        "1851672339",
+        "2092323144"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1539979035",
+    "title": "A Key Distribution Paradox",
+    "venue": "international cryptology conference",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Yacov Yacobi",
+            "id": "2627905977",
+            "org": "Bellcore"
+        }
+    ],
+    "fields_of_study": [
+        "Semantic security",
+        "Key distribution",
+        "Discrete mathematics",
+        "Ciphertext indistinguishability",
+        "Key authentication",
+        "Ciphertext-only attack",
+        "Public-key cryptography",
+        "Threshold cryptosystem",
+        "Distributed computing",
+        "Chosen-ciphertext attack",
+        "Mathematics"
+    ],
+    "references": [
+        "1519891470",
+        "1972792640",
+        "1975688140",
+        "1996360405",
+        "2028907144",
+        "2033535959",
+        "2073210531",
+        "2151413173",
+        "2156186849"
+    ]
+}

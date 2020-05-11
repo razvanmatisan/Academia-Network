@@ -1,0 +1,38 @@
+{
+    "id": "1599561194",
+    "title": "A relational framework for abstract interpretation",
+    "venue": "Programs as Data Objects, Proceedings of a Workshop",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Alan Mycroft",
+            "id": "163000670",
+            "org": "Computer Laboratory"
+        },
+        {
+            "name": "Neil D. Jones",
+            "id": "2116419005",
+            "org": "DIKU"
+        }
+    ],
+    "fields_of_study": [
+        "Pure mathematics",
+        "Special case",
+        "Metalanguage",
+        "Power domains",
+        "Abstract interpretation",
+        "Relational theory",
+        "Discrete mathematics",
+        "Logical disjunction",
+        "Logical relations",
+        "Mathematics"
+    ],
+    "references": [
+        "326743114",
+        "1512248102",
+        "2043100293",
+        "2141956765",
+        "2163976959",
+        "2166822586"
+    ]
+}

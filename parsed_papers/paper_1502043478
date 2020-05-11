@@ -1,0 +1,36 @@
+{
+    "id": "1502043478",
+    "title": "UML-F in the Design of an Agent-Oriented Software Framework",
+    "venue": "pacific rim international conference on multi agents",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Daniel Cabrera-Paniagua",
+            "id": "2442476495",
+            "org": "Escuela de Ingenieria Informatica, Pontificia Universidad Catolica de Valparaiso, Valparaiso, Chile#TAB#"
+        },
+        {
+            "name": "Claudio Cubillos",
+            "id": "2158917271",
+            "org": "Escuela de Ingenieria Informatica, Pontificia Universidad Catolica de Valparaiso, Valparaiso, Chile#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Resource-oriented architecture",
+        "Systems engineering",
+        "Goal-Driven Software Development Process",
+        "Computer science",
+        "Social software engineering",
+        "Software design description",
+        "Applications of UML",
+        "Package development process",
+        "UML tool",
+        "P-Modeling Framework"
+    ],
+    "references": [
+        "102967843",
+        "144330717",
+        "1536157937"
+    ]
+}

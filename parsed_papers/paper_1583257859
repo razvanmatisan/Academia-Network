@@ -1,0 +1,29 @@
+{
+    "id": "1583257859",
+    "title": "The Paradox of the Heap of Grains in Respect to Roughness, Fuzziness and Negligibility",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Solomon Marcus",
+            "id": "2149753759",
+            "org": "Romanian Academy, Mathematics"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical logic",
+        "Discrete mathematics",
+        "Infinity",
+        "Binary relation",
+        "Fuzzy set",
+        "Heap (data structure)",
+        "Sorites paradox",
+        "Vagueness",
+        "Mathematics",
+        "Rough set"
+    ],
+    "references": [
+        "940499644",
+        "1532584664"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "1576166751",
+    "title": "Structure of Rough Approximations Based on Molecular Lattices",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jianhua Dai",
+            "id": "2113765065",
+            "org": "Zhejiang University"
+        }
+    ],
+    "fields_of_study": [
+        "Stone's representation theorem for Boolean algebras",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Filtered algebra",
+        "Two-element Boolean algebra",
+        "Map of lattices",
+        "Ideal (order theory)",
+        "Free Boolean algebra",
+        "Interior algebra",
+        "Complete Boolean algebra",
+        "Mathematics"
+    ],
+    "references": [
+        "1514968118",
+        "1595713163"
+    ]
+}

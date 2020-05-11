@@ -1,0 +1,42 @@
+{
+    "id": "1501221730",
+    "title": "Using Uncensored Communication Channels to Divert Spam Traffic",
+    "venue": "Information Economics and Policy",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Benjamin Chiao",
+            "id": "2573932513",
+            "org": "Shanghai University of Finance and Economics"
+        },
+        {
+            "name": "Jeffrey K. MacKie-Mason",
+            "id": "1233869612",
+            "org": "Key Laboratory of Mathematical Economics (SUFE), Ministry of Education, and Shanghai University of Finance and Economics, Shanghai 200433, China"
+        },
+        {
+            "name": "Jeffrey K. MacKie-Mason",
+            "id": "1233869612",
+            "org": "Key Laboratory of Mathematical Economics (SUFE), Ministry of Education, and Shanghai University of Finance and Economics, Shanghai 200433, China"
+        }
+    ],
+    "fields_of_study": [
+        "Email address harvesting",
+        "Economics",
+        "Two-sided market",
+        "Opt-in email",
+        "Internet privacy",
+        "Spamming",
+        "Incentive-centered design",
+        "Email authentication",
+        "Communication channel"
+    ],
+    "references": [
+        "1503064432",
+        "1601379374",
+        "1987508326",
+        "1993428784",
+        "2070179845",
+        "2139740166"
+    ]
+}

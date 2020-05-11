@@ -1,0 +1,47 @@
+{
+    "id": "1587157897",
+    "title": "RSA Accumulator Based Broadcast Encryption",
+    "venue": "international conference on information security",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Craig Gentry",
+            "id": "2339798781",
+            "org": "DoCoMo Communications Laboratories USA, Inc"
+        },
+        {
+            "name": "Zulfikar Ramzan",
+            "id": "2777617213",
+            "org": "DoCoMo Communications Laboratories USA, Inc"
+        }
+    ],
+    "fields_of_study": [
+        "Broadcast encryption",
+        "Client-side encryption",
+        "Encryption",
+        "56-bit encryption",
+        "Distributed computing",
+        "Filesystem-level encryption",
+        "Deterministic encryption",
+        "40-bit encryption",
+        "Theoretical computer science",
+        "On-the-fly encryption",
+        "Computer science"
+    ],
+    "references": [
+        "1495266644",
+        "1499665530",
+        "1522268755",
+        "1571147132",
+        "1591932736",
+        "1600192790",
+        "1840081982",
+        "1951707894",
+        "1996360405",
+        "2031338211",
+        "2035274144",
+        "2149459807",
+        "2168571148",
+        "2295616646"
+    ]
+}

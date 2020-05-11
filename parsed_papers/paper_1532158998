@@ -1,0 +1,39 @@
+{
+    "id": "1532158998",
+    "title": "Stochastic node caching for memory-bounded search",
+    "venue": "national conference on artificial intelligence",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Teruhisa Miura",
+            "id": "2105159835",
+            "org": "Kyoto University"
+        },
+        {
+            "name": "Toru Ishida",
+            "id": "2119853680",
+            "org": "Department of Social Informatics|Kyoto University"
+        }
+    ],
+    "fields_of_study": [
+        "Goal node",
+        "Iterative deepening depth-first search",
+        "Fringe search",
+        "Cache",
+        "Linear space",
+        "Bounded function",
+        "Real-time computing",
+        "State space",
+        "Search algorithm",
+        "Distributed computing",
+        "Computer science"
+    ],
+    "references": [
+        "21421256",
+        "96515380",
+        "201239910",
+        "2009833344",
+        "2077166305",
+        "2150470619"
+    ]
+}

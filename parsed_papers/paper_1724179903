@@ -1,0 +1,33 @@
+{
+    "id": "1724179903",
+    "title": "Interactive Interpretation of Hierarchical Clustering",
+    "venue": "european conference on principles of data mining and knowledge discovery",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Eric Boudaillier",
+            "id": "2276658662",
+            "org": "Postgraduate Student at University of Orsay"
+        },
+        {
+            "name": "Georges Hebrail",
+            "id": "2507026161",
+            "org": "Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Hierarchical clustering",
+        "Recursion",
+        "Computer science",
+        "Machine learning",
+        "Consensus clustering",
+        "Cluster analysis",
+        "Artificial intelligence",
+        "Fuzzy clustering",
+        "Special case",
+        "Conceptual clustering",
+        "Brown clustering"
+    ],
+    "references": []
+}

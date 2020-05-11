@@ -1,0 +1,36 @@
+{
+    "id": "1517193156",
+    "title": "A real-coded predator-prey genetic algorithm for multiobjective optimization",
+    "venue": "international conference on evolutionary multi criterion optimization",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Xiaodong Li",
+            "id": "2239240923",
+            "org": "School of Computer Science and Information Technology, RMIT University, Melbourne, VIC, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic algorithm",
+        "Crossover",
+        "Evolutionary algorithm",
+        "Predation",
+        "Population size",
+        "Population",
+        "Mathematical optimization",
+        "Multi-objective optimization",
+        "Operator (computer programming)",
+        "Computer science"
+    ],
+    "references": [
+        "268706133",
+        "1540072641",
+        "1560661952",
+        "1565902586",
+        "1604582731",
+        "1792149802",
+        "2051848379",
+        "2106334424",
+        "2161392888"
+    ]
+}

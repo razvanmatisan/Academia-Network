@@ -1,0 +1,33 @@
+{
+    "id": "10166426",
+    "title": "An augmented state transition network analysis procedure",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1969,
+    "authors": [
+        {
+            "name": "Daniel G. Bobrow",
+            "id": "2566588746",
+            "org": "Bolt, Beranek and Newman, Inc., Cambridge, Massachusetts#TAB#"
+        },
+        {
+            "name": "Bruce Eraser",
+            "id": "2460966050",
+            "org": "Language Research Foundation, Cambridge, Massachusetts#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parsing",
+        "Merge (version control)",
+        "Artificial intelligence",
+        "Machine learning",
+        "Network analysis",
+        "FLAGS register",
+        "Ambiguity",
+        "Mathematics",
+        "Sentence",
+        "Concordance"
+    ],
+    "references": [
+        "2033261979"
+    ]
+}

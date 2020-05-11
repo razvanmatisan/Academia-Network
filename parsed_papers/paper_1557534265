@@ -1,0 +1,35 @@
+{
+    "id": "1557534265",
+    "title": "On the feedback vertex set problem for a planar graph",
+    "venue": "Computing",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Wolfgang Hackbusch",
+            "id": "116357114",
+            "org": "Praktische Mathematik, Christian-Albrechts-Universitat zu Kiel, Kiel, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical analysis",
+        "Mathematics",
+        "Mathematical optimization",
+        "Polyhedral graph",
+        "Feedback vertex set",
+        "Outerplanar graph",
+        "Discrete mathematics",
+        "Planar straight-line graph",
+        "Nowhere-zero flow",
+        "Universal graph",
+        "Forbidden graph characterization",
+        "Butterfly graph"
+    ],
+    "references": [
+        "299991764",
+        "1527837582",
+        "1681726776",
+        "2080076699",
+        "2148028437",
+        "2577317768"
+    ]
+}

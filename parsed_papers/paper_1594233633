@@ -1,0 +1,41 @@
+{
+    "id": "1594233633",
+    "title": "Highly scalable video compression with scalable motion coding",
+    "venue": "international conference on image processing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "David Taubman",
+            "id": "2042431570",
+            "org": "New South Wales Univ., Sydney, NSW, Australia"
+        },
+        {
+            "name": "Andrew Secker",
+            "id": "2157163451",
+            "org": "New South Wales Univ., Sydney, NSW, Australia"
+        }
+    ],
+    "fields_of_study": [
+        "Video compression picture types",
+        "Computer vision",
+        "Quarter-pixel motion",
+        "Block-matching algorithm",
+        "Motion estimation",
+        "Artificial intelligence",
+        "Rate-distortion optimization",
+        "Theoretical computer science",
+        "Coding tree unit",
+        "Motion compensation",
+        "Computer science",
+        "Scalable Video Coding"
+    ],
+    "references": [
+        "1524079700",
+        "1576046429",
+        "1588828197",
+        "2047314660",
+        "2089559918",
+        "2100148109",
+        "2101907787"
+    ]
+}

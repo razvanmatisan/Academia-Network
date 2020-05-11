@@ -1,0 +1,38 @@
+{
+    "id": "1535341753",
+    "title": "Innate and adaptive principles for an artificial immune system",
+    "venue": "simulated evolution and learning",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Melanie Middlemiss",
+            "id": "2044119745",
+            "org": "Information Science Department, University of Otago, Dunedin, N.Z.#TAB#"
+        },
+        {
+            "name": "Peter A. Whigham",
+            "id": "2077181067",
+            "org": "Information Science Department, University of Otago, Dunedin, N.Z.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Immune system",
+        "Expert system",
+        "Knowledge base",
+        "Artificial immune system",
+        "Peripheral tolerance",
+        "Machine learning",
+        "Pattern recognition receptor",
+        "Intrusion detection system",
+        "Computer science",
+        "Artificial intelligence",
+        "Analogy"
+    ],
+    "references": [
+        "1527092300",
+        "1528191221",
+        "1546332307",
+        "2016649354",
+        "2129624205"
+    ]
+}

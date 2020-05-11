@@ -1,0 +1,34 @@
+{
+    "id": "1590409422",
+    "title": "Experimental Verification of Human Skill Transfer to Deburring Robots",
+    "venue": "international symposium on experimental robotics",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "H. Harry Asada",
+            "id": "2164307765",
+            "org": "Massachusetts Institute of Technology"
+        },
+        {
+            "name": "Sheng Liu",
+            "id": "2287169413",
+            "org": "Massachusetts Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Work in process",
+        "Control engineering",
+        "Simulation",
+        "Lipschitz continuity",
+        "Engineering",
+        "Robot",
+        "Control theory",
+        "Content-addressable memory",
+        "Control system",
+        "Robot control",
+        "Associative property"
+    ],
+    "references": [
+        "1506247397"
+    ]
+}

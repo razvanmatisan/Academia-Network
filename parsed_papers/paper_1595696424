@@ -1,0 +1,40 @@
+{
+    "id": "1595696424",
+    "title": "Fast Integer Sorting in Linear Space",
+    "venue": "symposium on theoretical aspects of computer science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Yijie Han",
+            "id": "2778421363",
+            "org": "University of Missouri - Kansas City"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Time complexity",
+        "Combinatorics",
+        "Linear space",
+        "Log-log plot",
+        "Integer",
+        "Binary logarithm",
+        "Integer sorting",
+        "Mathematics",
+        "Sorting",
+        "Sorting algorithm"
+    ],
+    "references": [
+        "1569625216",
+        "1599325086",
+        "1977026060",
+        "1984816083",
+        "1985361644",
+        "1996398006",
+        "2005608544",
+        "2009283111",
+        "2074286662",
+        "2082201612",
+        "2126532003",
+        "2167592280"
+    ]
+}

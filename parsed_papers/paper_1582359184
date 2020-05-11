@@ -1,0 +1,42 @@
+{
+    "id": "1582359184",
+    "title": "Anzu: a tool for property synthesis",
+    "venue": "computer aided verification",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Barbara Jobstmann",
+            "id": "171279138",
+            "org": "Graz University of Technology#TAB#"
+        },
+        {
+            "name": "Stefan J. Galler",
+            "id": "388604490",
+            "org": "Graz University of Technology#TAB#"
+        },
+        {
+            "name": "Martin Weiglhofer",
+            "id": "2129323228",
+            "org": "Graz University of Technology#TAB#"
+        },
+        {
+            "name": "Roderick Bloem",
+            "id": "2124281036",
+            "org": "Graz University of Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Theoretical computer science",
+        "Verilog",
+        "Formal specification",
+        "Anzu",
+        "Linear temporal logic",
+        "Computer science"
+    ],
+    "references": [
+        "2016206563",
+        "2041701185",
+        "2166856993"
+    ]
+}

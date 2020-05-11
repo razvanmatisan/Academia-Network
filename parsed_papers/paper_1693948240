@@ -1,0 +1,38 @@
+{
+    "id": "1693948240",
+    "title": "Mesh Connected Computers with Fixed and Reconfigurable Buses: Packet Routing, Sorting, and Selection",
+    "venue": "european symposium on algorithms",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Sanguthevar Rajasekaran",
+            "id": "2171202298",
+            "org": "University of Pennsylvania"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Link-state routing protocol",
+        "Static routing",
+        "Discrete mathematics",
+        "Computer science",
+        "Hazy Sighted Link State Routing Protocol",
+        "Equal-cost multi-path routing",
+        "DSRFLOW",
+        "Loose Source Routing",
+        "Dynamic Source Routing",
+        "Destination-Sequenced Distance Vector routing"
+    ],
+    "references": [
+        "1530271078",
+        "1556524945",
+        "1968312484",
+        "2003960430",
+        "2020797856",
+        "2052565631",
+        "2057161655",
+        "2079505536",
+        "2089062581",
+        "2126155114"
+    ]
+}

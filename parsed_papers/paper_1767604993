@@ -1,0 +1,43 @@
+{
+    "id": "1767604993",
+    "title": "Fuzzy based resource management framework for high throughput computing",
+    "venue": "cluster computing and the grid",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "K. P. Kumar",
+            "id": "2429553822",
+            "org": "Dept. of Space, ADRIN, Secunderabad, India"
+        },
+        {
+            "name": "A. Agarwal",
+            "id": "2428638624",
+            "org": "Sandia Nat. Labs., Albuquerque, NM, USA#TAB#"
+        },
+        {
+            "name": "R. Krishnan",
+            "id": "2435685830",
+            "org": "Sandia Nat. Labs., Albuquerque, NM, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Real-time computing",
+        "Dynamic priority scheduling",
+        "Fuzzy set",
+        "Computer science",
+        "Resource management",
+        "Fuzzy set operations",
+        "Fuzzy logic",
+        "Defuzzification",
+        "Resource allocation",
+        "Fuzzy number"
+    ],
+    "references": [
+        "1609508258",
+        "1809943808",
+        "1992346916",
+        "2111996486",
+        "2177192778"
+    ]
+}

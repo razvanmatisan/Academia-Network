@@ -1,0 +1,34 @@
+{
+    "id": "1530698827",
+    "title": "Proximity operators for qualitative spatial reasoning",
+    "venue": "conference on spatial information theory",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Mark Gahegan",
+            "id": "2633858940",
+            "org": "Curtin University"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Machine learning",
+        "Qualitative reasoning",
+        "Artificial intelligence",
+        "Distance measures",
+        "Spatial intelligence",
+        "Computer science",
+        "Raw data",
+        "Fuzzy set",
+        "Geographic information system",
+        "Operator (computer programming)",
+        "Closeness",
+        "Topology"
+    ],
+    "references": [
+        "91364859",
+        "1913512158",
+        "1984067106",
+        "2078019102"
+    ]
+}

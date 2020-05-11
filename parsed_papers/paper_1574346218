@@ -1,0 +1,43 @@
+{
+    "id": "1574346218",
+    "title": "On Data Summaries Based on Gradual Rules",
+    "venue": "computational intelligence",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Patrick Bosc",
+            "id": "1859776836",
+            "org": "IRISA, ENSSAT"
+        },
+        {
+            "name": "Olivier Pivert",
+            "id": "299056886",
+            "org": "IRISA, ENSSAT"
+        },
+        {
+            "name": "Laurent Ughetto",
+            "id": "2780410436",
+            "org": "IUT de Lannion"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Of the form",
+        "Pattern recognition",
+        "Knowledge extraction",
+        "Computer science",
+        "Fuzzy logic",
+        "Data mining",
+        "Information extraction",
+        "Knowledge-based systems",
+        "Knowledge acquisition",
+        "Tuple",
+        "Functional dependency"
+    ],
+    "references": [
+        "1521868366",
+        "1971078475",
+        "2030949032",
+        "2116309930"
+    ]
+}

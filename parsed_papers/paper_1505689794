@@ -1,0 +1,45 @@
+{
+    "id": "1505689794",
+    "title": "An evaluation of structural parameters for probabilistic reasoning: results on benchmark circuits",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Yousri El Fattah",
+            "id": "2113356083",
+            "org": "Rockwell Science Center, Thousand Oaks, CA and Information & Computer Science Dept., University of California, Irvine, CA#TAB#"
+        },
+        {
+            "name": "Rina Dechter",
+            "id": "294129211",
+            "org": "Information & Computer Science Dept., University of California, Irvine, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Cluster analysis",
+        "Mathematical optimization",
+        "Machine learning",
+        "Electronic circuit",
+        "Data mining",
+        "Artificial intelligence",
+        "Probabilistic logic",
+        "Conditioning",
+        "Treewidth",
+        "Probabilistic analysis of algorithms",
+        "Dense graph",
+        "Heuristics"
+    ],
+    "references": [
+        "143545926",
+        "1553198434",
+        "2034501206",
+        "2035567824",
+        "2069683773",
+        "2113677269",
+        "2132550272",
+        "2143075689",
+        "2151720296",
+        "2159080219"
+    ]
+}

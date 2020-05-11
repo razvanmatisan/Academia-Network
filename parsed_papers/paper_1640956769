@@ -1,0 +1,49 @@
+{
+    "id": "1640956769",
+    "title": "Weighted Node Coloring: When Stable Sets Are Expensive",
+    "venue": "workshop on graph theoretic concepts in computer science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Marc Demange",
+            "id": "2139394932",
+            "org": "ESSEC"
+        },
+        {
+            "name": "Dominique de Werra",
+            "id": "2136597731",
+            "org": "Federale de Lausanne"
+        },
+        {
+            "name": "Jerome Monnot",
+            "id": "2035369221",
+            "org": "Universite Paris-Dauphine"
+        },
+        {
+            "name": "Vangelis Th. Paschos",
+            "id": "691884403",
+            "org": "Universite Paris-Dauphine"
+        }
+    ],
+    "fields_of_study": [
+        "Brooks' theorem",
+        "Strong perfect graph theorem",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Fractional coloring",
+        "Greedy coloring",
+        "Complete coloring",
+        "1-planar graph",
+        "Bipartite graph",
+        "Indifference graph",
+        "Mathematics"
+    ],
+    "references": [
+        "1571040502",
+        "1966523365",
+        "1982463691",
+        "2024380444",
+        "2088330156",
+        "2089247135"
+    ]
+}

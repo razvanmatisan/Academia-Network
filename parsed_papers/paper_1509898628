@@ -1,0 +1,35 @@
+{
+    "id": "1509898628",
+    "title": "Programming, Transforming, and Providing with Function Abstractions and Memories",
+    "venue": "international colloquium on automata languages and programming",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Ian A. Mason",
+            "id": "2001880323",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Carolyn L. Talcott",
+            "id": "661662328",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Inductive programming",
+        "First-generation programming language",
+        "Computer science",
+        "Very high-level programming language",
+        "Fifth-generation programming language",
+        "Semantics (computer science)",
+        "Extensible programming",
+        "Computer architecture",
+        "Programming domain",
+        "Programming language theory"
+    ],
+    "references": [
+        "1485242112",
+        "2088735483",
+        "2140560121"
+    ]
+}

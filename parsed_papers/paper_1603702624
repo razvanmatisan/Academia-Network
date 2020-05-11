@@ -1,0 +1,42 @@
+{
+    "id": "1603702624",
+    "title": "A robust image watermarking technique for JPEG images using quadtrees",
+    "venue": "advances in multimedia",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Kil-Sang Yoo",
+            "id": "2164551235",
+            "org": "Department of Image Engineering, Graduate School of Advanced Imaging Science and Multimedia and Film, Chung-Ang University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Mi-Ae Kim",
+            "id": "2125240045",
+            "org": "Department of Image Engineering, Graduate School of Advanced Imaging Science and Multimedia and Film, Chung-Ang University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Won-Hyung Lee",
+            "id": "2096292835",
+            "org": "Department of Image Engineering, Graduate School of Advanced Imaging Science and Multimedia and Film, Chung-Ang University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Digital watermarking",
+        "Computer vision",
+        "Watermark",
+        "Quantization (image processing)",
+        "Lossy compression",
+        "JPEG",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Wavelet transform",
+        "Image processing",
+        "JPEG 2000",
+        "Computer science"
+    ],
+    "references": [
+        "1517284373",
+        "2116467012",
+        "2169016692"
+    ]
+}

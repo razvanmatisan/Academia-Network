@@ -1,0 +1,38 @@
+{
+    "id": "1525967001",
+    "title": "Web service discovery and dynamic invocation based on UDDI/OWL-S",
+    "venue": "business process management",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "JianJun Yu",
+            "id": "2895121395",
+            "org": "National Laboratory of Software Development Environment, Beihang University, Beijing, China#TAB#"
+        },
+        {
+            "name": "Gang Zhou",
+            "id": "2895713786",
+            "org": "National Laboratory of Software Development Environment, Beihang University, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Web service",
+        "OWL-S",
+        "WS-Addressing",
+        "Web modeling",
+        "Web development",
+        "Database",
+        "World Wide Web",
+        "WS-I Basic Profile",
+        "Semantic Web Stack",
+        "WS-Policy"
+    ],
+    "references": [
+        "200522420",
+        "1585021136",
+        "1602713645",
+        "2155661783",
+        "2161265250"
+    ]
+}

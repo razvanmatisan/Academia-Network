@@ -1,0 +1,49 @@
+{
+    "id": "1577113682",
+    "title": "Towards More Realistic Self Contained Models of Neurons: High-Order, Recurrence and Local Learning",
+    "venue": "international work-conference on artificial and natural neural networks",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Jose Mira",
+            "id": "2165534910",
+            "org": "UNED"
+        },
+        {
+            "name": "Ana E. Delgado Garcia",
+            "id": "2145576804",
+            "org": "UNED Dpto. de Informatica y Automatica Facultad de Ciencias C/Senda del Rey s/n Madrid Spain C/Senda del Rey s/n Madrid Spain"
+        },
+        {
+            "name": "Jose R. Alvarez",
+            "id": "2122428501",
+            "org": "UNED"
+        },
+        {
+            "name": "A.P. de Madrid",
+            "id": "2105307632",
+            "org": "UNED"
+        },
+        {
+            "name": "Matilde Santos",
+            "id": "2172096080",
+            "org": "UNED"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Computation",
+        "Locality",
+        "Fault tolerance",
+        "Multitier architecture",
+        "Artificial intelligence",
+        "Theoretical computer science",
+        "Computer science"
+    ],
+    "references": [
+        "1488273532",
+        "1514707188",
+        "1566835906",
+        "2098500169"
+    ]
+}

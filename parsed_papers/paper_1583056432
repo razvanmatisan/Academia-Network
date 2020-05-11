@@ -1,0 +1,29 @@
+{
+    "id": "1583056432",
+    "title": "A Hardware Random Number Generator",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Thomas E. Tkacik",
+            "id": "95415952",
+            "org": "Motorola"
+        }
+    ],
+    "fields_of_study": [
+        "Abstract machine",
+        "Theoretical computer science",
+        "Lavarand",
+        "Pseudorandom number generator",
+        "Random number generation",
+        "Self-shrinking generator",
+        "Hardware random number generator",
+        "Finite-state machine",
+        "Random seed",
+        "Computer science"
+    ],
+    "references": [
+        "2039586611",
+        "2138274182"
+    ]
+}

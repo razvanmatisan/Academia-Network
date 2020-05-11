@@ -1,0 +1,38 @@
+{
+    "id": "1527158396",
+    "title": "Using semantic class information for rapid development of language models within ASR dialogue systems",
+    "venue": "international conference on acoustics, speech, and signal processing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Eric Fosler-Lussier",
+            "id": "2019857459",
+            "org": "Lucent Technol. Bell Labs., Murray Hill, NJ, USA"
+        },
+        {
+            "name": "Hong-Kwang Jeff Kuo",
+            "id": "2172243122",
+            "org": "Bell Labs|Lucent Technologies"
+        }
+    ],
+    "fields_of_study": [
+        "Perplexity",
+        "Natural language understanding",
+        "Natural language",
+        "Training set",
+        "Natural language processing",
+        "Probabilistic logic",
+        "Machine learning",
+        "Language model",
+        "Computer science",
+        "Artificial intelligence",
+        "Context-free grammar"
+    ],
+    "references": [
+        "20424082",
+        "103303497",
+        "151895332",
+        "2091671846",
+        "2406693526"
+    ]
+}

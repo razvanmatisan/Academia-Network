@@ -1,0 +1,44 @@
+{
+    "id": "1514018246",
+    "title": "Public Key Authentication with One (Online) Single Addition",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Marc Girault",
+            "id": "2107238361",
+            "org": "France Telecom R&D"
+        },
+        {
+            "name": "David Lefranc",
+            "id": "2112136494",
+            "org": "France Telecom R&D"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Hamming distance",
+        "Parallel computing",
+        "Embedded system",
+        "Key (lock)",
+        "Chip",
+        "Public-key cryptography",
+        "Cryptography",
+        "Identification scheme",
+        "Hamming weight",
+        "Authentication",
+        "Computer science"
+    ],
+    "references": [
+        "1500077521",
+        "1571217056",
+        "1646354800",
+        "1766160141",
+        "1882430379",
+        "1970606468",
+        "1994962217",
+        "2052667569",
+        "2090769756",
+        "2208595511"
+    ]
+}

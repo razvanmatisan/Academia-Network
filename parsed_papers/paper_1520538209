@@ -1,0 +1,37 @@
+{
+    "id": "1520538209",
+    "title": "A multi-stage chinese collocation extraction system",
+    "venue": "international conference on machine learning and cybernetics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Ruifeng Xu",
+            "id": "2099613179",
+            "org": "Dept. of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong#TAB#"
+        },
+        {
+            "name": "Qin Lu",
+            "id": "2112113948",
+            "org": "Dept. of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Discriminative model",
+        "Type theory",
+        "Perceptron",
+        "Principle of compositionality",
+        "Artificial neural network",
+        "Pattern recognition",
+        "Computer science",
+        "Collocation",
+        "Dependency grammar",
+        "Collocation extraction"
+    ],
+    "references": [
+        "1574901103",
+        "1593045043",
+        "1940278502"
+    ]
+}

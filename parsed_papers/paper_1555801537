@@ -1,0 +1,29 @@
+{
+    "id": "1555801537",
+    "title": "Overcoming incomplete perception with util distinction memory",
+    "venue": "international conference on machine learning",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "R. Andrew McCallum",
+            "id": "2343279647",
+            "org": "Department of Computer Science, University of Rochester, Rochester, NY 14627, mccallum@cs. rochester.edu"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Perception",
+        "Artificial intelligence",
+        "Reinforcement learning",
+        "State space",
+        "Pattern recognition",
+        "Hidden Markov model",
+        "Computer science"
+    ],
+    "references": [
+        "116417374",
+        "1491843047",
+        "1657674574",
+        "2149276032"
+    ]
+}

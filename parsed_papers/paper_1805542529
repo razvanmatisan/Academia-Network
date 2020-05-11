@@ -1,0 +1,35 @@
+{
+    "id": "1805542529",
+    "title": "Building and Using a Russian Resource Grammar in GF",
+    "venue": "conference on intelligent text processing and computational linguistics",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Janna Khegai",
+            "id": "20869548",
+            "org": "Chalmers University of Technology and Gothenburg University"
+        },
+        {
+            "name": "Aarne Ranta",
+            "id": "2001403868",
+            "org": "Chalmers University of Technology and Gothenburg University"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Artificial intelligence",
+        "Computer science",
+        "Affix grammar",
+        "Emergent grammar",
+        "Adaptive grammar",
+        "Extended Affix Grammar",
+        "Mildly context-sensitive grammar formalism",
+        "Grammar systems theory",
+        "Operator-precedence grammar",
+        "Unrestricted grammar"
+    ],
+    "references": [
+        "1514538741",
+        "1541653499"
+    ]
+}

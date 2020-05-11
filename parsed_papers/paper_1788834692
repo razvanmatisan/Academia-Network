@@ -1,0 +1,75 @@
+{
+    "id": "1788834692",
+    "title": "InfoHarness: Use of Automatically Generated Metadata for Search and Retrieval of Heterogeneous Information",
+    "venue": "conference on advanced information systems engineering",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Leon A. Shklar",
+            "id": "118537551",
+            "org": "Bell Communications Research"
+        },
+        {
+            "name": "Leon A. Shklar",
+            "id": "118537551",
+            "org": "Bell Communications Research"
+        },
+        {
+            "name": "Amit P. Sheth",
+            "id": "2295682018",
+            "org": "University of Georgia"
+        },
+        {
+            "name": "Vipul Kashyap",
+            "id": "2129309639",
+            "org": "University of Georgia"
+        },
+        {
+            "name": "Vipul Kashyap",
+            "id": "2129309639",
+            "org": "University of Georgia"
+        },
+        {
+            "name": "Kshitij Shah",
+            "id": "2103924174",
+            "org": "Bell Communications Research"
+        },
+        {
+            "name": "Kshitij Shah",
+            "id": "2103924174",
+            "org": "Bell Communications Research"
+        }
+    ],
+    "fields_of_study": [
+        "Metadata repository",
+        "Information retrieval",
+        "Hypertext Transfer Protocol",
+        "Class hierarchy",
+        "Search engine indexing",
+        "Human-computer information retrieval",
+        "Metadata",
+        "Database",
+        "Computer science",
+        "Indexation",
+        "Search engine"
+    ],
+    "references": [
+        "93765870",
+        "1586689013",
+        "1980536491",
+        "1988229869",
+        "1992438279",
+        "2011619161",
+        "2016758618",
+        "2029593563",
+        "2075456742",
+        "2083583325",
+        "2096922909",
+        "2097997737",
+        "2100512708",
+        "2101103738",
+        "2117085788",
+        "2143471387",
+        "2147152072"
+    ]
+}

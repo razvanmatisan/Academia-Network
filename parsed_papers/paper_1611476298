@@ -1,0 +1,31 @@
+{
+    "id": "1611476298",
+    "title": "Sensor fusion in certainty grids for mobile robots",
+    "venue": "Ai Magazine",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Hans P. Moravec",
+            "id": "62125035",
+            "org": "Carnegie-Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Grid",
+        "Occupancy grid mapping",
+        "Simulation",
+        "Motion planning",
+        "Probabilistic logic",
+        "Sensor fusion",
+        "Robot",
+        "Software framework",
+        "Computer vision",
+        "Computer science",
+        "Mobile robot"
+    ],
+    "references": [
+        "1835023670",
+        "2154418813"
+    ]
+}

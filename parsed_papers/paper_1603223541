@@ -1,0 +1,37 @@
+{
+    "id": "1603223541",
+    "title": "Toward a Unification of Human-Computer Learning and Tutoring",
+    "venue": "intelligent tutoring systems",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Henry Hamburger",
+            "id": "428219134",
+            "org": "George Mason University"
+        },
+        {
+            "name": "Gheorghe Tecuci",
+            "id": "2295119506",
+            "org": "George Mason University"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Domain knowledge",
+        "Intelligent agent",
+        "Conceptual framework",
+        "Experiential learning",
+        "Natural language processing",
+        "The Conceptual Framework",
+        "Computer science",
+        "Learning environment",
+        "Knowledge acquisition",
+        "Artificial intelligence",
+        "TUTOR"
+    ],
+    "references": [
+        "1500014905",
+        "1568840571",
+        "2106969952"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1626722111",
+    "title": "Learning probabilistic models of the Web",
+    "venue": "international acm sigir conference on research and development in information retrieval",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Thomas Hofmann",
+            "id": "2240984066",
+            "org": "Department of Computer Science|Brown University"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Web navigation",
+        "Computer science",
+        "Web intelligence",
+        "Information retrieval",
+        "Web standards",
+        "Web development",
+        "Machine learning",
+        "Web modeling",
+        "Web page",
+        "World Wide Web",
+        "Social Semantic Web",
+        "Artificial intelligence",
+        "Semantic Web Stack"
+    ],
+    "references": [
+        "1491101954",
+        "2062270497",
+        "2093390569",
+        "2107743791",
+        "2138621811",
+        "2140842551",
+        "2147152072"
+    ]
+}

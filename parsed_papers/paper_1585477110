@@ -1,0 +1,47 @@
+{
+    "id": "1585477110",
+    "title": "Fast video retrieval under sparse training data",
+    "venue": "conference on image and video retrieval",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Yan Liu",
+            "id": "2645954102",
+            "org": "New York, USA"
+        },
+        {
+            "name": "John R. Kender",
+            "id": "229175834",
+            "org": "New York, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Computer science",
+        "Artificial intelligence",
+        "Time complexity",
+        "Feature (computer vision)",
+        "Feature selection",
+        "Mahalanobis distance",
+        "Machine learning",
+        "Image retrieval",
+        "Information extraction",
+        "Curse of dimensionality",
+        "Dimensionality reduction",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1530887066",
+        "1592785605",
+        "1849729440",
+        "2017337590",
+        "2058646514",
+        "2098120171",
+        "2130660124",
+        "2137677098",
+        "2138826255",
+        "2161827960",
+        "2167081989",
+        "2435251607"
+    ]
+}

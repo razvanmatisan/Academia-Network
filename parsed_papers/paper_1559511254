@@ -1,0 +1,33 @@
+{
+    "id": "1559511254",
+    "title": "Analysis of the Non-Context-Free Component of Formal Languages.",
+    "venue": "mathematical foundations of computer science",
+    "year": 1976,
+    "authors": [
+        {
+            "name": "Michal P. Chytil",
+            "id": "2151140343",
+            "org": "Charles University"
+        }
+    ],
+    "fields_of_study": [
+        "Abstract family of languages",
+        "Cone (formal languages)",
+        "Formal language",
+        "Formal system",
+        "Natural language processing",
+        "Programming language",
+        "Grammar systems theory",
+        "Ontology language",
+        "Extended Affix Grammar",
+        "Chomsky hierarchy",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1500655838",
+        "1528597009",
+        "2089442854",
+        "2401174797"
+    ]
+}

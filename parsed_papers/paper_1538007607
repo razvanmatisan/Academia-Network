@@ -1,0 +1,38 @@
+{
+    "id": "1538007607",
+    "title": "A conceptual architecture of distributed web services for service ecosystems",
+    "venue": "computer applications in industry and engineering",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Chen Wu",
+            "id": "2106044792",
+            "org": "Curtin University"
+        },
+        {
+            "name": "Elizabeth Chang",
+            "id": "2099883334",
+            "org": "Curtin University"
+        }
+    ],
+    "fields_of_study": [
+        "Middleware (distributed applications)",
+        "WS-Addressing",
+        "Web service",
+        "Web modeling",
+        "WS-I Basic Profile",
+        "Services computing",
+        "Service-oriented architecture",
+        "Distributed computing",
+        "Computer science",
+        "WS-Policy"
+    ],
+    "references": [
+        "1553460403",
+        "1557292059",
+        "1971885361",
+        "1982342196",
+        "2059767076",
+        "2077318760"
+    ]
+}

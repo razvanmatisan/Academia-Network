@@ -1,0 +1,26 @@
+{
+    "id": "1546149393",
+    "title": "Confidence factors, empiricism and the Dempster-Shafer theory of evidence",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "John F. Lemmer",
+            "id": "2708136821",
+            "org": "RCA, Advanced Technology Laboratories, Moorestown, NJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Statistics",
+        "Dempster-Shafer theory",
+        "Sample space",
+        "Semantics",
+        "Mathematics",
+        "Empiricism",
+        "Sampling (statistics)",
+        "Syntax",
+        "Knowledge-based systems",
+        "Intuition"
+    ],
+    "references": []
+}

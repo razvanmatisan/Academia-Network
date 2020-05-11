@@ -1,0 +1,48 @@
+{
+    "id": "1502435754",
+    "title": "Rough sets and gradual decision rules",
+    "venue": "granular computing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Salvatore Greco",
+            "id": "1965690711",
+            "org": "Faculty of Economics, University of Catania, Catania, Italy#TAB#"
+        },
+        {
+            "name": "Masahiro Inuiguchi",
+            "id": "315861661",
+            "org": "Graduate School of Engineering, Osaka University, Suita, Osaka, Japan#TAB#"
+        },
+        {
+            "name": "Roman Slwinski",
+            "id": "2554916908",
+            "org": "Institute of Computing Science, Poznan University of Technology, Poznan, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Discrete mathematics",
+        "Fuzzy associative matrix",
+        "Fuzzy mathematics",
+        "Type-2 fuzzy sets and systems",
+        "Fuzzy subalgebra",
+        "Fuzzy set operations",
+        "Defuzzification",
+        "Fuzzy classification",
+        "Mathematics",
+        "Fuzzy number"
+    ],
+    "references": [
+        "100057694",
+        "1484435280",
+        "1519154000",
+        "1536630500",
+        "1593054802",
+        "2030949032",
+        "2050996323",
+        "2101285186",
+        "2340020088"
+    ]
+}

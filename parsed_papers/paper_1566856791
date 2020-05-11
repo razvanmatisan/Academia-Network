@@ -1,0 +1,39 @@
+{
+    "id": "1566856791",
+    "title": "Attribute grammars and two-level grammars: A unifying approach",
+    "venue": "mathematical foundations of computer science",
+    "year": 1978,
+    "authors": [
+        {
+            "name": "Piotr Dembinski",
+            "id": "2068910102",
+            "org": "Polish Academy of Sciences"
+        },
+        {
+            "name": "Jan Maluszynski",
+            "id": "2305753708",
+            "org": "Polish Academy of Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Phrase structure grammar",
+        "Tree-adjoining grammar",
+        "Natural language processing",
+        "Definite clause grammar",
+        "Indexed grammar",
+        "L-attributed grammar",
+        "Stochastic context-free grammar",
+        "Context-sensitive grammar",
+        "Context-free grammar",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "6453825",
+        "45315167",
+        "1595574873",
+        "1964071625",
+        "2032371599",
+        "2171727886"
+    ]
+}

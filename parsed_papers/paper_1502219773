@@ -1,0 +1,34 @@
+{
+    "id": "1502219773",
+    "title": "Fuzzy consensus models in GDSS.",
+    "venue": "ANNES",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Mariorizzi",
+            "id": "2396898125",
+            "org": "Deparfment of Computer and Management Sciences|University of Trento"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Fuzzy logic",
+        "Fuzzy mathematics",
+        "Machine learning",
+        "Fuzzy set operations",
+        "Artificial intelligence",
+        "Fuzzy classification",
+        "Defuzzification",
+        "Fuzzy number",
+        "Mathematics"
+    ],
+    "references": [
+        "1485045067",
+        "1527944521",
+        "2033937921",
+        "2037533091",
+        "2041280856",
+        "2049441685",
+        "2052876062"
+    ]
+}

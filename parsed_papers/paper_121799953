@@ -1,0 +1,36 @@
+{
+    "id": "121799953",
+    "title": "Multi feature indexing network MUFIN for similarity search applications",
+    "venue": "conference on current trends in theory and practice of informatics",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Pavel Zezula",
+            "id": "683790044",
+            "org": "Masaryk University, Brno, Czech Republic#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Digital data",
+        "Data type",
+        "Information retrieval",
+        "Nearest neighbor search",
+        "Data collection",
+        "Search engine indexing",
+        "Computer science",
+        "Semantic similarity",
+        "Data mining",
+        "Scalability",
+        "Similarity heuristic"
+    ],
+    "references": [
+        "1564694602",
+        "1603845670",
+        "1973836650",
+        "2051540411",
+        "2128550681",
+        "2146310234",
+        "2149687010",
+        "2157092487"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1568177678",
+    "title": "A Parallel Algorithm for POMDP Solution",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Larry D. Pyeatt",
+            "id": "157591724",
+            "org": "Texas Tech University"
+        },
+        {
+            "name": "Adele E. Howe",
+            "id": "2111752460",
+            "org": "Colorado State University"
+        }
+    ],
+    "fields_of_study": [
+        "Markov decision process",
+        "Mathematical optimization",
+        "Distributed algorithm",
+        "Parallel algorithm",
+        "Partially observable Markov decision process",
+        "Dynamic programming",
+        "Machine learning",
+        "Markov process",
+        "Piecewise linear function",
+        "Artificial intelligence",
+        "Computer science",
+        "Exact algorithm"
+    ],
+    "references": [
+        "131709709",
+        "1657674574",
+        "1991665457",
+        "2023294468",
+        "2032100464",
+        "2034725503",
+        "2054726834",
+        "2099873296"
+    ]
+}

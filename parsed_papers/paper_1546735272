@@ -1,0 +1,46 @@
+{
+    "id": "1546735272",
+    "title": "Adaptive Wavelet Video Filtering",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Andreas Kassler",
+            "id": "2670423123",
+            "org": "University of Ulm"
+        },
+        {
+            "name": "Christian Kucherer",
+            "id": "1968326178",
+            "org": "NEC Europe Ltd."
+        },
+        {
+            "name": "Andreas Schrader",
+            "id": "2780738756",
+            "org": "NEC Europe Ltd."
+        }
+    ],
+    "fields_of_study": [
+        "Frame rate",
+        "Quality of service",
+        "Wavelet",
+        "Filter (signal processing)",
+        "Real-time computing",
+        "STREAMS",
+        "Distributed computing",
+        "Communication source",
+        "Resource management",
+        "Resource allocation",
+        "Computer science"
+    ],
+    "references": [
+        "1485697703",
+        "1498777530",
+        "1511467705",
+        "1933537300",
+        "2046037511",
+        "2101838603",
+        "2146405370",
+        "2150050648"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1517840777",
+    "title": "Kleene Algebra with Relations",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jules Desharnais",
+            "id": "2063216861",
+            "org": "Universite Laval"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Algebra representation",
+        "Kleene's recursion theorem",
+        "Cellular algebra",
+        "Filtered algebra",
+        "Algebra",
+        "Two-element Boolean algebra",
+        "Kleene algebra",
+        "Allen's interval algebra",
+        "Mathematics",
+        "Kleene star"
+    ],
+    "references": [
+        "1503973138",
+        "1552805404",
+        "1964754311",
+        "1984061517",
+        "1998368317",
+        "2006006495",
+        "2026224305",
+        "2044475951",
+        "2152198540",
+        "2163152086"
+    ]
+}

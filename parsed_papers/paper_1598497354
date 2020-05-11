@@ -1,0 +1,38 @@
+{
+    "id": "1598497354",
+    "title": "A fast natural Newton method",
+    "venue": "international conference on machine learning",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Nicolas Le Roux",
+            "id": "2044175236",
+            "org": "Microsoft Research, 7 JJ Thomson Avenue, Cambridge, CB3 0FB UK"
+        },
+        {
+            "name": "Andrew W. Fitzgibbon",
+            "id": "2106076158",
+            "org": "Microsoft Research, 7 JJ Thomson Avenue, Cambridge, CB3 0FB UK"
+        }
+    ],
+    "fields_of_study": [
+        "Instance-based learning",
+        "Active learning (machine learning)",
+        "Semi-supervised learning",
+        "Machine learning",
+        "Artificial intelligence",
+        "Algorithmic learning theory",
+        "Multi-task learning",
+        "Online machine learning",
+        "Stability (learning theory)",
+        "Computational learning theory",
+        "Computer science"
+    ],
+    "references": [
+        "1491622225",
+        "1970789124",
+        "2113651538",
+        "2137515395",
+        "2164273299"
+    ]
+}

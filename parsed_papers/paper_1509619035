@@ -1,0 +1,42 @@
+{
+    "id": "1509619035",
+    "title": "Efficient and experimental meta-heuristics for MAX-SAT problems",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Dalila Boughaci",
+            "id": "2402835994",
+            "org": "ITS, University of sciences and technology, Algiers, Algeria#TAB#"
+        },
+        {
+            "name": "Habiba Drias",
+            "id": "2306801064",
+            "org": "National Institute of Computer Science, Alger#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Metaheuristic",
+        "Local search (optimization)",
+        "Mathematical optimization",
+        "Tabu search",
+        "Combinatorial optimization",
+        "Boolean satisfiability problem",
+        "Optimization problem",
+        "Computer science",
+        "Memetic algorithm",
+        "Algorithmics"
+    ],
+    "references": [
+        "20621945",
+        "1504542257",
+        "1513769081",
+        "1521053613",
+        "1554262786",
+        "1639032689",
+        "2017183884",
+        "2036265926",
+        "2057361103",
+        "2084792706"
+    ]
+}

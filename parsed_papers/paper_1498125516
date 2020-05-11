@@ -1,0 +1,46 @@
+{
+    "id": "1498125516",
+    "title": "Verifying Continuous Time Markov Chains",
+    "venue": "computer aided verification",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Adnan Aziz",
+            "id": "2139108221",
+            "org": "ECE UT Austin"
+        },
+        {
+            "name": "Kumud Kumar Sanwal",
+            "id": "2241879559",
+            "org": "Bell Labs AT&T"
+        },
+        {
+            "name": "Vigyan Singhal",
+            "id": "2095411425",
+            "org": "CBL Cadence"
+        },
+        {
+            "name": "Robert K. Brayton",
+            "id": "2038038819",
+            "org": "EECS UC Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Algebra",
+        "Algorithm",
+        "Markov kernel",
+        "Markov chain mixing time",
+        "Markov property",
+        "Markov chain",
+        "Examples of Markov chains",
+        "Markov process",
+        "Uniformization (probability theory)",
+        "Computer science",
+        "Balance equation"
+    ],
+    "references": [
+        "2005998857",
+        "2153439859",
+        "2168605507"
+    ]
+}

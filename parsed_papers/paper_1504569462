@@ -1,0 +1,44 @@
+{
+    "id": "1504569462",
+    "title": "Toward a General Theory of Unicast-Based Multicast Communication",
+    "venue": "workshop on graph theoretic concepts in computer science",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Barbara D. Birchler",
+            "id": "1277970408",
+            "org": "Michigan State University"
+        },
+        {
+            "name": "Abdol Hossein Esfahanian",
+            "id": "2477932312",
+            "org": "Michigan State University"
+        },
+        {
+            "name": "Eric Torng",
+            "id": "2042179775",
+            "org": "Michigan State University"
+        }
+    ],
+    "fields_of_study": [
+        "Protocol Independent Multicast",
+        "Xcast",
+        "Inter-domain",
+        "Multicast",
+        "Pragmatic General Multicast",
+        "Computer science",
+        "Computer network",
+        "Distributed computing",
+        "Source-specific multicast",
+        "Distance Vector Multicast Routing Protocol",
+        "Multicast address"
+    ],
+    "references": [
+        "2085045995",
+        "2121551904",
+        "2135074398",
+        "2148323349",
+        "2154703337",
+        "2157066436"
+    ]
+}

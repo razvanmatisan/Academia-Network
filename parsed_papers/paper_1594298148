@@ -1,0 +1,38 @@
+{
+    "id": "1594298148",
+    "title": "Testing from Structured Algebraic Specifications",
+    "venue": "algebraic methodology and software technology",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Patricia D. L. Machado",
+            "id": "2163474848",
+            "org": "University of Edinburgh, JMCB"
+        }
+    ],
+    "fields_of_study": [
+        "Programming language",
+        "sort",
+        "Algebraic specification",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Formal specification",
+        "Algebraic number",
+        "Oracle",
+        "First-order logic",
+        "restrict",
+        "Computer science",
+        "Executable"
+    ],
+    "references": [
+        "1508416889",
+        "1515836884",
+        "1527688737",
+        "1787500456",
+        "1828540440",
+        "1856380672",
+        "1885303164",
+        "1979248560",
+        "2029841602"
+    ]
+}

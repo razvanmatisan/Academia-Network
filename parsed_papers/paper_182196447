@@ -1,0 +1,39 @@
+{
+    "id": "182196447",
+    "title": "Modified multi-objective particle swarm optimization algorithm for multi-objective optimization problems",
+    "venue": "international conference on swarm intelligence",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Ying Qiao",
+            "id": "2556201729",
+            "org": "Research Institute of Information and System Science, Beifang University of Nationalities, Yinchuan, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multi-swarm optimization",
+        "Meta-optimization",
+        "Machine learning",
+        "Mathematical optimization",
+        "Convergence (routing)",
+        "Metaheuristic",
+        "Artificial intelligence",
+        "Derivative-free optimization",
+        "Algorithm",
+        "Imperialist competitive algorithm",
+        "Computer science",
+        "Multi-objective optimization",
+        "Particle swarm optimization"
+    ],
+    "references": [
+        "1587294773",
+        "1600188168",
+        "2077293529",
+        "2126105956",
+        "2127147933",
+        "2129676199",
+        "2140882991",
+        "2165171393",
+        "2210195496"
+    ]
+}

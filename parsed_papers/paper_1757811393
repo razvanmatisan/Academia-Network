@@ -1,0 +1,41 @@
+{
+    "id": "1757811393",
+    "title": "Fast Meldable Priority Queues",
+    "venue": "workshop on algorithms and data structures",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Gerth Stolting Brodal",
+            "id": "108255672",
+            "org": "University of Aarhus Ny Munkegade"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Discrete mathematics",
+        "Pointer machine",
+        "Real-time computing",
+        "Priority inheritance",
+        "Queue management system",
+        "Linear space",
+        "Double-ended priority queue",
+        "Priority queue",
+        "Binary logarithm"
+    ],
+    "references": [
+        "121517553",
+        "1535027983",
+        "1604702867",
+        "1966271560",
+        "1970691969",
+        "1984281137",
+        "2006820476",
+        "2037007500",
+        "2063301486",
+        "2084224084",
+        "2087629135",
+        "2121354236",
+        "2163169902",
+        "2502477570"
+    ]
+}

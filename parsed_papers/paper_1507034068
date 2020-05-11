@@ -1,0 +1,68 @@
+{
+    "id": "1507034068",
+    "title": "Data Mining using MLC++, A Machine Learning Library in C++",
+    "venue": "international conference on tools with artificial intelligence",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Ron Kohavi",
+            "id": "73615348",
+            "org": "Scalable Server Division | Silicon Graphics , Inc"
+        },
+        {
+            "name": "Dan Sommerfield",
+            "id": "2058945821",
+            "org": "Scalable Server Division | Silicon Graphics , Inc"
+        },
+        {
+            "name": "James Dougherty",
+            "id": "2581999379",
+            "org": "Scalable Server Division | Silicon Graphics , Inc"
+        }
+    ],
+    "fields_of_study": [
+        "Visualization",
+        "Machine learning",
+        "Statistical classification",
+        "Decision tree",
+        "Hybrid algorithm",
+        "Artificial intelligence",
+        "Data mining",
+        "Pattern recognition",
+        "Software",
+        "Scratch",
+        "Data warehouse",
+        "Computer science",
+        "Weighted Majority Algorithm"
+    ],
+    "references": [
+        "69783631",
+        "1506385404",
+        "1507029541",
+        "1516193414",
+        "1520252399",
+        "1539741229",
+        "1559060276",
+        "1559996711",
+        "1597165973",
+        "1630964756",
+        "1678889691",
+        "1680392829",
+        "1738398458",
+        "1927345150",
+        "2003048487",
+        "2017337590",
+        "2019363670",
+        "2022058268",
+        "2067098334",
+        "2076118331",
+        "2079257256",
+        "2096123080",
+        "2117174233",
+        "2129113961",
+        "2132166479",
+        "2133671888",
+        "2136000097",
+        "2149706766"
+    ]
+}

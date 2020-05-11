@@ -1,0 +1,55 @@
+{
+    "id": "1556799615",
+    "title": "All k-bounded policies are equivalent for self-stabilization",
+    "venue": "international conference on stabilization safety and security of distributed systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Joffroy Beauquier",
+            "id": "8978629",
+            "org": "L.R.I., C.N.R.S., Universite Paris-Sud 11, Orsay Cedex, France#TAB#"
+        },
+        {
+            "name": "Colette Johnen",
+            "id": "696817296",
+            "org": "L.R.I., C.N.R.S., Universite Paris-Sud 11, Orsay Cedex, France#TAB#"
+        },
+        {
+            "name": "Stephane Messika",
+            "id": "126059911",
+            "org": "L.R.I., C.N.R.S., Universite Paris-Sud 11, Orsay Cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Convergence (routing)",
+        "Distributed algorithm",
+        "Markov decision process",
+        "If and only if",
+        "Bounded function",
+        "Distributed computing",
+        "Autonomous system (mathematics)",
+        "Randomized algorithm",
+        "Self-stabilization",
+        "Computer science"
+    ],
+    "references": [
+        "138290785",
+        "1528284586",
+        "1562975305",
+        "1579038633",
+        "1869355114",
+        "1992996044",
+        "1995619371",
+        "2011962634",
+        "2027852742",
+        "2043235094",
+        "2055454967",
+        "2071659383",
+        "2102789884",
+        "2138035108",
+        "2157571107",
+        "2165161585",
+        "2611515161",
+        "2801026249"
+    ]
+}

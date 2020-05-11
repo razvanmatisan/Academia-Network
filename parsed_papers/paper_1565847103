@@ -1,0 +1,42 @@
+{
+    "id": "1565847103",
+    "title": "Retargetable machine-description system: multi-layer architecture approach",
+    "venue": "grid and cooperative computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Dan Wu",
+            "id": "2654323647",
+            "org": "Computer School, National University of Defense Technology, Changsha, Hunan, China#TAB#"
+        },
+        {
+            "name": "Zhiying Wang",
+            "id": "2120268967",
+            "org": "Computer School, National University of Defense Technology, Changsha, Hunan, China#TAB#"
+        },
+        {
+            "name": "Kui Dai",
+            "id": "2060754583",
+            "org": "Computer School, National University of Defense Technology, Changsha, Hunan, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Compiler construction",
+        "Computer architecture",
+        "Embedded system",
+        "Architecture",
+        "Class diagram",
+        "Design language",
+        "Unified Modeling Language",
+        "Multitier architecture",
+        "Compiler",
+        "Systems architecture",
+        "Distributed computing",
+        "Computer science"
+    ],
+    "references": [
+        "1534873454",
+        "2100368493",
+        "2162479472"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": "1536220268",
+    "title": "Extended hadamard equivalence",
+    "venue": "SETA'06 Proceedings of the 4th international conference on Sequences and Their Applications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Doreen Hertel",
+            "id": "2057886589",
+            "org": "Institute for Algebra and Geometry, Faculty of Mathematics, Otto-von-Guericke-University Magdeburg, Magdeburg, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hadamard three-circle theorem",
+        "Hadamard three-lines theorem",
+        "Hadamard transform",
+        "Complex Hadamard matrix",
+        "Hadamard's inequality",
+        "Mathematical analysis",
+        "Hadamard matrix",
+        "Complementary sequences",
+        "Hadamard's maximal determinant problem",
+        "Mathematics"
+    ],
+    "references": [
+        "1546467724",
+        "1990773884"
+    ]
+}

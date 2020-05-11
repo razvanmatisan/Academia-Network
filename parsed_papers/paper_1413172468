@@ -1,0 +1,30 @@
+{
+    "id": "1413172468",
+    "title": "Parallel associative processing for knowledge bases",
+    "venue": "Proceedings of the PRISMA workshop on Parallel database systems",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Simon H. Lavington",
+            "id": "100025731",
+            "org": "University of Essex"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Transitive closure",
+        "Applications of artificial intelligence",
+        "Data structure",
+        "Memory management",
+        "Deductive database",
+        "SIMD",
+        "Intersection (set theory)",
+        "Computer science",
+        "Associative property"
+    ],
+    "references": [
+        "1803554314",
+        "2058268836",
+        "2072755230"
+    ]
+}

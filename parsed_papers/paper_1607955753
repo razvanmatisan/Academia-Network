@@ -1,0 +1,44 @@
+{
+    "id": "1607955753",
+    "title": "Efficient Revocation in Group Signatures",
+    "venue": "public key cryptography",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Emmanuel Bresson",
+            "id": "1781639045",
+            "org": "Ecole Normale Superieure"
+        },
+        {
+            "name": "Jacques Stern",
+            "id": "2097349350",
+            "org": "Ecole Normale Superieure"
+        }
+    ],
+    "fields_of_study": [
+        "Anonymity",
+        "Group signature",
+        "Login",
+        "Cheating",
+        "Distributed computing",
+        "Encryption",
+        "Computer science",
+        "Computer security",
+        "Revocation",
+        "Cryptography"
+    ],
+    "references": [
+        "1497351799",
+        "1505286256",
+        "1524224810",
+        "1531945782",
+        "1558116972",
+        "1587945298",
+        "1646354800",
+        "1836064679",
+        "2052267638",
+        "2101803085",
+        "2108834246",
+        "2135656098"
+    ]
+}

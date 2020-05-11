@@ -1,0 +1,32 @@
+{
+    "id": "1531202692",
+    "title": "Automatic parallelization of nested loop programs for non-manifest real-time stream processing applications",
+    "venue": "Theoretical Computer Science",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Tjerk Bijlsma",
+            "id": "2016382357",
+            "org": "Computer Architecture Design and Test for Embedded Systems"
+        }
+    ],
+    "fields_of_study": [
+        "Task parallelism",
+        "Stream processing",
+        "Compile time",
+        "Parallel computing",
+        "FIFO (computing and electronics)",
+        "Indexation",
+        "Compiler",
+        "Automatic parallelization",
+        "Theoretical computer science",
+        "Multiprocessing",
+        "Computer science"
+    ],
+    "references": [
+        "1500859230",
+        "2034591560",
+        "2055084740",
+        "2165820775"
+    ]
+}

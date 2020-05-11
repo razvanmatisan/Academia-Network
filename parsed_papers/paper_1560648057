@@ -1,0 +1,36 @@
+{
+    "id": "1560648057",
+    "title": "Online learning of Bayesian network parameters with incomplete data",
+    "venue": "international conference on intelligent computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Sungsoo Lim",
+            "id": "2465124245",
+            "org": "Dept. of Computer Science, Yonsei University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Sung-Bae Cho",
+            "id": "2287563723",
+            "org": "Dept. of Computer Science, Yonsei University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Instance-based learning",
+        "Machine learning",
+        "Artificial intelligence",
+        "Active learning (machine learning)",
+        "Semi-supervised learning",
+        "Pattern recognition",
+        "Unsupervised learning",
+        "Online machine learning",
+        "Bayesian network",
+        "Wake-sleep algorithm",
+        "Variable-order Bayesian network",
+        "Computer science"
+    ],
+    "references": [
+        "1780353274",
+        "1989926363"
+    ]
+}

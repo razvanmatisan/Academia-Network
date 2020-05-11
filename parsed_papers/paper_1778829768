@@ -1,0 +1,30 @@
+{
+    "id": "1778829768",
+    "title": "Modal Logic over Finite Structures",
+    "venue": "Journal of Logic, Language and Information",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Eric Rosen",
+            "id": "2164545871",
+            "org": "Mathematische Grundlagen der Informatik, RWTH, Aachen, Germany (E-mail: erosen@informatik.rwth-aachen.de)#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Mathematics",
+        "Modal m-calculus",
+        "Elementary class",
+        "Satisfiability",
+        "Dynamic logic (modal logic)",
+        "Normal modal logic",
+        "Strict conditional",
+        "Multimodal logic",
+        "Accessibility relation"
+    ],
+    "references": [
+        "1978469611",
+        "2037583170",
+        "2132541147"
+    ]
+}

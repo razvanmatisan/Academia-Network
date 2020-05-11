@@ -1,0 +1,45 @@
+{
+    "id": "1565361379",
+    "title": "Implementation of replication methods in the grid environment",
+    "venue": "grid computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Renata Slota",
+            "id": "2000762652",
+            "org": "Institute of Computer Science, AGH-UST, Cracow, Poland#TAB#"
+        },
+        {
+            "name": "Darin Nikolow",
+            "id": "1799661699",
+            "org": "Institute of Computer Science, AGH-UST, Cracow, Poland#TAB#"
+        },
+        {
+            "name": "Lukasz Skital",
+            "id": "2046851919",
+            "org": "Academic Computer Center CYFRONET AGH, Cracow, Poland#TAB#"
+        },
+        {
+            "name": "Jacek Kitowski",
+            "id": "1589995181",
+            "org": "Institute of Computer Science, AGH-UST, Cracow, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Real-time computing",
+        "Access time",
+        "Replication (computing)",
+        "Grid",
+        "Replicating portfolio",
+        "Data Protection Act 1998",
+        "Computer science",
+        "Computer data storage"
+    ],
+    "references": [
+        "1505604120",
+        "1574234270",
+        "1581690648",
+        "2124550969"
+    ]
+}

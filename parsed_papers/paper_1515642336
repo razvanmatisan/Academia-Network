@@ -1,0 +1,43 @@
+{
+    "id": "1515642336",
+    "title": "Hiding More of Hidden Algebra",
+    "venue": "formal methods",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Joseph A. Goguen",
+            "id": "2062581780",
+            "org": "University of California at San Diego"
+        },
+        {
+            "name": "Grigore Rosu",
+            "id": "96492545",
+            "org": "University of California at San Diego"
+        }
+    ],
+    "fields_of_study": [
+        "Algebraic specification",
+        "Language Of Temporal Ordering Specification",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "STREAMS",
+        "Hidden algebra",
+        "Specification language",
+        "Concurrency",
+        "Data structure",
+        "Formal verification",
+        "Computer science"
+    ],
+    "references": [
+        "174657201",
+        "657159919",
+        "1487335573",
+        "1600606023",
+        "1976967017",
+        "2010883554",
+        "2029841602",
+        "2033809864",
+        "2039716077",
+        "2069740012"
+    ]
+}

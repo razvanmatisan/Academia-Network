@@ -1,0 +1,38 @@
+{
+    "id": "1564509380",
+    "title": "A filtering algorithm for global sequencing constraints",
+    "venue": "principles and practice of constraint programming",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Jean-Charles Regin",
+            "id": "2239919637",
+            "org": "ILOG S.A., Gentilly, France#TAB#"
+        },
+        {
+            "name": "Jean-Francois Puget",
+            "id": "1924168505",
+            "org": "ILOG S.A., Gentilly, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Mathematical optimization",
+        "Cardinality",
+        "Scheduling (computing)",
+        "Filter (signal processing)",
+        "Algorithm",
+        "Integer",
+        "Constraint satisfaction problem",
+        "Constraint satisfaction",
+        "Mathematics"
+    ],
+    "references": [
+        "164193862",
+        "1480778854",
+        "2022088719",
+        "2112957923",
+        "2135432705",
+        "2164279585"
+    ]
+}

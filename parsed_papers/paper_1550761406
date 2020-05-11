@@ -1,0 +1,31 @@
+{
+    "id": "1550761406",
+    "title": "A family of Jacobians suitable for discrete log cryptosystems",
+    "venue": "international cryptology conference",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Neal Koblitz",
+            "id": "1965415099",
+            "org": "Univerity of Washington"
+        }
+    ],
+    "fields_of_study": [
+        "Almost prime",
+        "Elliptic curve",
+        "Discrete mathematics",
+        "Primitive root modulo n",
+        "Mathematical analysis",
+        "Cryptosystem",
+        "Hyperelliptic curve",
+        "Finite field",
+        "Hyperelliptic curve cryptography",
+        "Mathematics",
+        "Discrete logarithm"
+    ],
+    "references": [
+        "1490994218",
+        "2003736153",
+        "2037690423"
+    ]
+}

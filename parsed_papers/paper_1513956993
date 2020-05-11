@@ -1,0 +1,34 @@
+{
+    "id": "1513956993",
+    "title": "Maturity and Evolution in Software Product Lines: Approaches, Artefacts and Organization",
+    "venue": "software product lines",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jan Bosch",
+            "id": "2271217432",
+            "org": "University of Groningen"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Software Engineering Process Group",
+        "Social software engineering",
+        "Software design description",
+        "Software construction",
+        "Software sizing",
+        "Software quality analyst",
+        "Software product line",
+        "Package development process",
+        "Computer science"
+    ],
+    "references": [
+        "1500250067",
+        "1554977156",
+        "2067623886",
+        "2097761176",
+        "2116844130",
+        "2142874510",
+        "2161969230"
+    ]
+}

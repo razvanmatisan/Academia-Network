@@ -1,0 +1,46 @@
+{
+    "id": "1506348237",
+    "title": "Model selection in kernel methods based on a spectral analysis of label information",
+    "venue": "joint pattern recognition symposium",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Mikio L. Braun",
+            "id": "2233962492",
+            "org": "Fraunhofer Institute FIRST, Intelligent Data Analysis Group, Berlin, Germany#TAB#"
+        },
+        {
+            "name": "Tilman Lange",
+            "id": "2106668379",
+            "org": "Institute of Computational Science, ETH Zurich, Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Joachim M. Buhmann",
+            "id": "2051956577",
+            "org": "Institute of Computational Science, ETH Zurich, Zurich, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Principal component regression",
+        "Statistics",
+        "Support vector machine",
+        "Kernel embedding of distributions",
+        "Kernel principal component analysis",
+        "Kernel method",
+        "Variable kernel density estimation",
+        "Tree kernel",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Radial basis function kernel",
+        "Mathematics"
+    ],
+    "references": [
+        "1540007258",
+        "2124623336",
+        "2139095575",
+        "2148603752",
+        "2155100959",
+        "2161767008"
+    ]
+}

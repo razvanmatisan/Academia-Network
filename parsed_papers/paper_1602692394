@@ -1,0 +1,36 @@
+{
+    "id": "1602692394",
+    "title": "A baseline for NLP in domain-specific IR",
+    "venue": "cross language evaluation forum",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Johannes Leveling",
+            "id": "684296984",
+            "org": "Intelligent Information and Communication Systems (IICS), University of Hagen (FernUniversitat in Hagen), Hagen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Semantic network",
+        "Information retrieval",
+        "Semantics",
+        "Machine translation",
+        "Multilingualism",
+        "Vocabulary",
+        "Document processing",
+        "Query expansion",
+        "Artificial intelligence",
+        "Bag-of-words model",
+        "Computer science"
+    ],
+    "references": [
+        "174218120",
+        "1570247188",
+        "1596363282",
+        "2050661945",
+        "2129778332",
+        "2135922393",
+        "2183534784"
+    ]
+}

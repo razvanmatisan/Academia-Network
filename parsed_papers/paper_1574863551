@@ -1,0 +1,32 @@
+{
+    "id": "1574863551",
+    "title": "Support function machines",
+    "venue": "intelligent data engineering and automated learning",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Jiuzhen Liang",
+            "id": "2627664290",
+            "org": "School of Information Technology, Jiangnan University, Wuxi, Jiangsu Province, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time series",
+        "Artificial intelligence",
+        "Support vector machine",
+        "Machine learning",
+        "Structured support vector machine",
+        "Artificial neural network",
+        "Support function",
+        "Pattern recognition",
+        "Relevance vector machine",
+        "Computer science",
+        "Vector-valued function",
+        "Least squares support vector machine"
+    ],
+    "references": [
+        "1482684349",
+        "2055522016",
+        "2165801360"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": "1502014321",
+    "title": "Protecting unattended computers without software",
+    "venue": "annual computer security applications conference",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Carl E. Landwehr",
+            "id": "2079317943",
+            "org": "Naval Res. Lab., Washington, DC, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Authorization",
+        "Embedded system",
+        "Computer security",
+        "Workstation",
+        "Dozen",
+        "Office automation",
+        "Computer science",
+        "Login",
+        "Physical access",
+        "Software"
+    ],
+    "references": [
+        "2102796633",
+        "2103078852"
+    ]
+}

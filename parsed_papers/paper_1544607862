@@ -1,0 +1,30 @@
+{
+    "id": "1544607862",
+    "title": "Experience with Change-Oriented SCM Tools",
+    "venue": "software configuration management workshop",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Ivica Crnkovic",
+            "id": "327572045",
+            "org": "ABB Industrial Systems AB"
+        }
+    ],
+    "fields_of_study": [
+        "Change management (engineering)",
+        "Systems engineering",
+        "Computer science",
+        "Backporting",
+        "Software development",
+        "Package development process",
+        "Software verification and validation",
+        "Application lifecycle management",
+        "Software configuration management",
+        "Software sizing"
+    ],
+    "references": [
+        "1530797982",
+        "1557186703",
+        "2166667085"
+    ]
+}

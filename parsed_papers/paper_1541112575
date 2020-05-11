@@ -1,0 +1,42 @@
+{
+    "id": "1541112575",
+    "title": "Specifying the Remote Control of Valves in an Explosion Test Environment",
+    "venue": "formal methods",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Martin Schonhoff",
+            "id": "2790157117",
+            "org": "Technical University of Braunschweig, Computer Science, Databases"
+        },
+        {
+            "name": "Mojgan Kowsari",
+            "id": "2044671656",
+            "org": "Technical University of Braunschweig, Computer Science, Databases"
+        }
+    ],
+    "fields_of_study": [
+        "Information system",
+        "Systems engineering",
+        "Embedded system",
+        "Formal methods",
+        "Specification language",
+        "Formal specification",
+        "Distributed computing",
+        "Units of measurement",
+        "Control system",
+        "Object-oriented programming",
+        "Remote control",
+        "Computer science"
+    ],
+    "references": [
+        "1553420545",
+        "1575606562",
+        "1592209047",
+        "1604954985",
+        "1844364562",
+        "2086142629",
+        "2099293367",
+        "2112337853"
+    ]
+}

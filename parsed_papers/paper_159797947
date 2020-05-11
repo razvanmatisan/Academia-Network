@@ -1,0 +1,43 @@
+{
+    "id": "159797947",
+    "title": "Using decision procedures efficiently for optimization",
+    "venue": "international conference on automated planning and scheduling",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Matthew J. Streeter",
+            "id": "2046320987",
+            "org": "School of Computer Science, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Stephen F. Smith",
+            "id": "2136337285",
+            "org": "School of Computer Science, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Optimal decision",
+        "Branch and bound",
+        "Upper and lower bounds",
+        "Mathematical optimization",
+        "Artificial intelligence",
+        "Computer science",
+        "Machine learning",
+        "Query optimization",
+        "Of the form",
+        "Job shop scheduling",
+        "Satplan",
+        "Optimization problem"
+    ],
+    "references": [
+        "174819206",
+        "1601165051",
+        "2025460523",
+        "2041252124",
+        "2068373264",
+        "2077902449",
+        "2134331592",
+        "2150470619",
+        "2161704742"
+    ]
+}

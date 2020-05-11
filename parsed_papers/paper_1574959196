@@ -1,0 +1,32 @@
+{
+    "id": "1574959196",
+    "title": "A Lazy Approach to Fully-Expansive Theorem Proving",
+    "venue": "theorem proving in higher order logics",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Richard J. Boulton",
+            "id": "2712524568",
+            "org": "University of Cambridge Computer Laboratory, New Museums Site, Pembroke Street, Cambridge, CB2 3QG, England"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical proof",
+        "Algorithm",
+        "Full employment theorem",
+        "HOL",
+        "Computer science",
+        "Computer-assisted proof",
+        "Gap theorem",
+        "Fundamental theorem",
+        "Automated theorem proving",
+        "Compactness theorem"
+    ],
+    "references": [
+        "1605476959",
+        "1636139685",
+        "1769439978",
+        "2005915144",
+        "2034500240"
+    ]
+}

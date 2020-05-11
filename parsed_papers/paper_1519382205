@@ -1,0 +1,31 @@
+{
+    "id": "1519382205",
+    "title": "Using category theory to design implicit conversions and generic operators",
+    "venue": "compiler construction",
+    "year": 1980,
+    "authors": [
+        {
+            "name": "John C. Reynolds",
+            "id": "2403193723",
+            "org": "Syracuse University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Higher category theory",
+        "Category",
+        "Pure mathematics",
+        "Mathematics",
+        "Category theory",
+        "Biproduct",
+        "Imperative programming",
+        "Operator (computer programming)",
+        "Free algebra",
+        "Allegory"
+    ],
+    "references": [
+        "2061786858",
+        "2109798037",
+        "2169907127"
+    ]
+}

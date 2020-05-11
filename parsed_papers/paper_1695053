@@ -1,0 +1,26 @@
+{
+    "id": "1695053",
+    "title": "The Corporate Software Bank",
+    "venue": "usenix large installation systems administration conference",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Steven W. Lodin",
+            "id": "2394619439",
+            "org": "Delco Electronics Corporation#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Software deployment",
+        "Software system",
+        "Software development",
+        "Workgroup",
+        "Unix",
+        "System administrator",
+        "Computer security",
+        "Software",
+        "The Internet"
+    ],
+    "references": []
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1542063513",
+    "title": "Web Implementation of a Securtty Mediator for Medical Databases",
+    "venue": "Proceedings of the IFIP TC11 WG11.3 Eleventh International Conference on Database Securty XI: Status and Prospects",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Gio Wiederhold",
+            "id": "1988326922",
+            "org": "Stanford University Stanford"
+        },
+        {
+            "name": "Michel Bilello",
+            "id": "2053165216",
+            "org": "Stanford University Stanford"
+        },
+        {
+            "name": "Chris Donahue",
+            "id": "2275810812",
+            "org": "Stanford University Stanford"
+        }
+    ],
+    "fields_of_study": [
+        "Information privacy",
+        "Health care",
+        "Database",
+        "Information sharing",
+        "Internet access",
+        "Information transfer",
+        "Software",
+        "Internet privacy",
+        "Computer security",
+        "Officer",
+        "The Internet",
+        "Computer science"
+    ],
+    "references": [
+        "1484065071",
+        "2117610634"
+    ]
+}

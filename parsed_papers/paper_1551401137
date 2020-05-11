@@ -1,0 +1,44 @@
+{
+    "id": "1551401137",
+    "title": "Formal Verification of BPEL4WS Business Collaborations",
+    "venue": "international conference on electronic commerce",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jesus Arias Fisteus",
+            "id": "2006328392",
+            "org": "Carlos III University of Madrid"
+        },
+        {
+            "name": "Luis Sanchez Fernandez",
+            "id": "2231045907",
+            "org": "Carlos III University of Madrid"
+        },
+        {
+            "name": "Carlos Delgado Kloos",
+            "id": "1995220988",
+            "org": "Carlos III University of Madrid"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Business process",
+        "Systems engineering",
+        "Formal methods",
+        "Model checking",
+        "Spin- 1/2 ",
+        "Promela",
+        "Formal verification",
+        "Distributed computing",
+        "Architecture",
+        "Simulation",
+        "Extensibility"
+    ],
+    "references": [
+        "2105718463",
+        "2145860989",
+        "2164015376",
+        "2166309559",
+        "2340735175"
+    ]
+}

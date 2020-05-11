@@ -1,0 +1,47 @@
+{
+    "id": "1515983432",
+    "title": "Performance comparison of erasure codes for different churn models in P2P storage systems",
+    "venue": "international conference on intelligent computing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jingxing Li",
+            "id": "2491488628",
+            "org": "Tianjin Key Laboratory of Intelligence Computing and Novel Software Technology, Tianjin University of Technology, Tianjin, China#TAB#"
+        },
+        {
+            "name": "Guangping Xu",
+            "id": "2149843936",
+            "org": "Tianjin Key Laboratory of Intelligence Computing and Novel Software Technology, Tianjin University of Technology, Tianjin, China#TAB#"
+        },
+        {
+            "name": "Hua Zhang",
+            "id": "2228727073",
+            "org": "Tianjin Key Laboratory of Intelligence Computing and Novel Software Technology, Tianjin University of Technology, Tianjin, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Redundancy (engineering)",
+        "Reliability theory",
+        "Pareto distribution",
+        "Erasure code",
+        "Real-time computing",
+        "Computer science",
+        "Data availability",
+        "Weibull distribution",
+        "Exponential distribution",
+        "Computer data storage"
+    ],
+    "references": [
+        "1591141258",
+        "1822772607",
+        "1997096104",
+        "2040495054",
+        "2091949726",
+        "2111686839",
+        "2112373045",
+        "2112454114",
+        "2143218859",
+        "2168886131"
+    ]
+}

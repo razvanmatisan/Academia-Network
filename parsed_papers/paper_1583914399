@@ -1,0 +1,36 @@
+{
+    "id": "1583914399",
+    "title": "Information modeling for automated risk analysis",
+    "venue": "international conference on communications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Howard Chivers",
+            "id": "2508404294",
+            "org": "Department of Information Systems, Cranfield University, Shrivenham, Swindon, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Communications security",
+        "Real-time computing",
+        "Systems engineering",
+        "Systems design",
+        "Security testing",
+        "Security engineering",
+        "Security service",
+        "Requirements traceability",
+        "Computer science",
+        "Data mining",
+        "Security information and event management",
+        "Computer security model"
+    ],
+    "references": [
+        "1525616187",
+        "1604301660",
+        "1946950447",
+        "2000628719",
+        "2148325159",
+        "2158426091",
+        "2164886052"
+    ]
+}

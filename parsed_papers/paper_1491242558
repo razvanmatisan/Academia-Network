@@ -1,0 +1,54 @@
+{
+    "id": "1491242558",
+    "title": "HOVER: hybrid on-demand distance vector routing for wireless mesh networks",
+    "venue": "ACSC '08 Proceedings of the thirty-first Australasian conference on Computer science - Volume 74",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Stephan Mir",
+            "id": "2636957058",
+            "org": "National ICT Australia Limited, Brisbane, QLD, Australia#TAB#"
+        },
+        {
+            "name": "Asad Amir Pirzada",
+            "id": "2051452799",
+            "org": "National ICT Australia Limited, Brisbane, QLD, Australia#TAB#"
+        },
+        {
+            "name": "Marius Portmann",
+            "id": "2002712743",
+            "org": "National ICT Australia Limited, Brisbane, QLD, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Shared mesh",
+        "Wireless mesh network",
+        "Switched mesh",
+        "Ad hoc wireless distribution service",
+        "Wireless Routing Protocol",
+        "Hazy Sighted Link State Routing Protocol",
+        "Distributed computing",
+        "Dynamic Source Routing",
+        "Order One Network Protocol",
+        "Engineering",
+        "Computer network"
+    ],
+    "references": [
+        "1530392688",
+        "1662911496",
+        "2031770535",
+        "2041248965",
+        "2046980951",
+        "2058942164",
+        "2097164742",
+        "2099574482",
+        "2101771805",
+        "2102258543",
+        "2124651399",
+        "2137775453",
+        "2145872403",
+        "2159694916",
+        "2164489551",
+        "2525496374"
+    ]
+}

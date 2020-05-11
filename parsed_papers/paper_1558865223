@@ -1,0 +1,29 @@
+{
+    "id": "1558865223",
+    "title": "Object representation of scope during translation",
+    "venue": "european conference on object-oriented programming",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Stephen C. Dewhurst",
+            "id": "2484014757",
+            "org": "AT&T Bell Laboratories, Summit, NJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Single Compilation Unit",
+        "Programming language",
+        "Theoretical computer science",
+        "Smart pointer",
+        "Data structure",
+        "Compiler correctness",
+        "Compiler",
+        "Copy elision",
+        "Inline function",
+        "Run-time type information",
+        "Computer science"
+    ],
+    "references": [
+        "2611598995"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "1515727841",
+    "title": "Building resource aware middleware services over MANET for rescue and emergency applications",
+    "venue": "personal, indoor and mobile radio communications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Ovidiu Valentin Drugan",
+            "id": "1910026787",
+            "org": "Dept. of Informatics, Oslo Univ."
+        },
+        {
+            "name": "Thomas Plagemann",
+            "id": "1991531123",
+            "org": "Dept. of Informatics, Oslo Univ."
+        },
+        {
+            "name": "Ellen Munthe-Kaas",
+            "id": "264305755",
+            "org": "Dept. of Informatics, Oslo Univ."
+        }
+    ],
+    "fields_of_study": [
+        "Wireless ad hoc network",
+        "Routing protocol",
+        "Computer network",
+        "Mobile radio",
+        "Resource management",
+        "Mobile ad hoc network",
+        "Distributed computing",
+        "Computer science",
+        "Middleware",
+        "Resource allocation"
+    ],
+    "references": [
+        "1507616550",
+        "1521843528",
+        "1527653472",
+        "1581707651",
+        "1974973584",
+        "1978231807",
+        "1986118466",
+        "1995709547",
+        "2028856927",
+        "2044237546",
+        "2045573095",
+        "2080010503",
+        "2099849691",
+        "2102258543",
+        "2104415796",
+        "2125436894",
+        "2137475084",
+        "2161132563",
+        "2405265072"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1627058395",
+    "title": "Relating full abstraction results for different programming languages",
+    "venue": "foundations of software technology and theoretical computer science",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Kurt Sieber",
+            "id": "2060622447",
+            "org": "Universitat des Saarlandes"
+        }
+    ],
+    "fields_of_study": [
+        "Fourth-generation programming language",
+        "Fifth-generation programming language",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Programming language theory",
+        "Computer science",
+        "Very high-level programming language",
+        "Intentional programming",
+        "Second-generation programming language",
+        "Programming language",
+        "Comparison of multi-paradigm programming languages",
+        "Third-generation programming language"
+    ],
+    "references": [
+        "85649325",
+        "1516577572",
+        "2005403834",
+        "2007270285",
+        "2007759294",
+        "2068492670",
+        "2088735483",
+        "2118229393",
+        "2136413089",
+        "2156876717"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "1596198151",
+    "title": "Transformation of Graphical ECA Policies into Executable PonderTalk Code",
+    "venue": "rules and rule markup languages for the semantic web",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Raphael Romeikat",
+            "id": "2083771451",
+            "org": "Programming Distributed Systems, University of Augsburg, Germany#TAB#"
+        },
+        {
+            "name": "Markus Sinsel",
+            "id": "2409408455",
+            "org": "Programming Distributed Systems, University of Augsburg, Germany#TAB#"
+        },
+        {
+            "name": "Bernhard Bauer",
+            "id": "2159731087",
+            "org": "Programming Distributed Systems, University of Augsburg, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Data mining",
+        "Database",
+        "Model transformation",
+        "Theoretical computer science",
+        "Business model",
+        "Event condition action",
+        "Executable",
+        "Business rule"
+    ],
+    "references": [
+        "1488500715",
+        "1967384977",
+        "1990911977",
+        "2009470509",
+        "2138129124",
+        "2148724073",
+        "2164441047",
+        "2168884369",
+        "2169664715"
+    ]
+}

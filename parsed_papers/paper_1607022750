@@ -1,0 +1,47 @@
+{
+    "id": "1607022750",
+    "title": "Collaborative learning with logic-based models",
+    "venue": "adaptive and learning agents",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Michal Jakob",
+            "id": "2110670522",
+            "org": "Gerstner Laboratory, Department of Cybernetics, Czech Technical University, Prague, Czech Republic#TAB#"
+        },
+        {
+            "name": "Jan Tozicka",
+            "id": "223515999",
+            "org": "Gerstner Laboratory, Department of Cybernetics, Czech Technical University, Prague, Czech Republic#TAB#"
+        },
+        {
+            "name": "Michal Pechoucek",
+            "id": "337734935",
+            "org": "Gerstner Laboratory, Department of Cybernetics, Czech Technical University, Prague, Czech Republic#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Collaborative learning",
+        "Component-based software engineering",
+        "Generalization",
+        "Adaptability",
+        "Modular design",
+        "Intelligent agent",
+        "Machine learning",
+        "Control system",
+        "Inductive logic programming",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "71768770",
+        "1498225051",
+        "1506992748",
+        "1591368770",
+        "1987902506",
+        "2077397274",
+        "2107544712",
+        "2132898164",
+        "2146482048"
+    ]
+}

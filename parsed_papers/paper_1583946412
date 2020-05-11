@@ -1,0 +1,43 @@
+{
+    "id": "1583946412",
+    "title": "On steganographic chosen covertext security",
+    "venue": "international colloquium on automata languages and programming",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Nicholas Hopper",
+            "id": "2106238981",
+            "org": "University of Minnesota, Minneapolis, MN#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Steganography",
+        "Replay attack",
+        "Diffie-Hellman problem",
+        "Distributed computing",
+        "Chosen-ciphertext attack",
+        "Encryption",
+        "Public-key cryptography",
+        "Random oracle",
+        "Cryptography",
+        "Mathematics"
+    ],
+    "references": [
+        "36535589",
+        "1479681406",
+        "1498810624",
+        "1520041135",
+        "1541863674",
+        "1801447676",
+        "1835586838",
+        "1878459630",
+        "2026463022",
+        "2052267638",
+        "2096050104",
+        "2101803085",
+        "2112139527",
+        "2116050022",
+        "2184811974",
+        "2753819115"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "118394045",
+    "title": "DRScribe: an improved topic-based publish-subscribe system with dynamic routing",
+    "venue": "web age information management",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Guohui Li",
+            "id": "2713703352",
+            "org": "School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, P.R. China#TAB#"
+        },
+        {
+            "name": "Sheng Gao",
+            "id": "2639434956",
+            "org": "School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hop (networking)",
+        "Protocol Independent Multicast",
+        "Computer science",
+        "Xcast",
+        "Information sharing",
+        "Multicast",
+        "Distance Vector Multicast Routing Protocol",
+        "Computer network",
+        "Bloom filter",
+        "Distributed computing",
+        "Source-specific multicast"
+    ],
+    "references": [
+        "154400449",
+        "1483932765",
+        "1971405342",
+        "2057456423",
+        "2118428193",
+        "2131185826",
+        "2131975004",
+        "2137218888",
+        "2156644501",
+        "2158049821",
+        "2163059190",
+        "2166454918",
+        "2167898414"
+    ]
+}

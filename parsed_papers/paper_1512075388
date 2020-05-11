@@ -1,0 +1,40 @@
+{
+    "id": "1512075388",
+    "title": "Software Component Selection Algorithm Using Intelligent Agents",
+    "venue": "agent and multi agent systems technologies and applications",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Blanca Z. Abraham",
+            "id": "2755422381",
+            "org": "Fundacion para el Desarrollo de la Ciencia y la Tecnologia, FUNDACITE Merida - Venezuela, Universidad de Los Andes, Merida, Venezuela#TAB#"
+        },
+        {
+            "name": "Jose C. Aguilar",
+            "id": "2602913760",
+            "org": "Fundacion para el Desarrollo de la Ciencia y la Tecnologia, FUNDACITE Merida - Venezuela, Universidad de Los Andes, Merida, Venezuela#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Collective intelligence",
+        "Marketing and artificial intelligence",
+        "Swarm intelligence",
+        "Machine learning",
+        "Component-based software engineering",
+        "Intelligent agent",
+        "Artificial intelligence",
+        "Selection algorithm",
+        "Computer science",
+        "Computational intelligence",
+        "The Internet"
+    ],
+    "references": [
+        "1534937062",
+        "2010050450",
+        "2050829440",
+        "2077348753",
+        "2122910865",
+        "2126554879",
+        "2136877520"
+    ]
+}

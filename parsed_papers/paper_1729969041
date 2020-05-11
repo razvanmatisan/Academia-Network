@@ -1,0 +1,47 @@
+{
+    "id": "1729969041",
+    "title": "Recommendation systems: a probabilistic analysis",
+    "venue": "foundations of computer science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Ravi Kumar",
+            "id": "2577876495",
+            "org": "IBM Almaden Res. Center, San Jose, CA, USA"
+        },
+        {
+            "name": "Prabhakar Raghavan",
+            "id": "2195048431",
+            "org": "IBM Almaden Research Center"
+        },
+        {
+            "name": "Sridhar Rajagopalan",
+            "id": "2059781006",
+            "org": "IBM Almaden Research Center"
+        },
+        {
+            "name": "Andrew Tomkins",
+            "id": "2130754085",
+            "org": "IBM Almaden Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm design",
+        "Recommender system",
+        "Probabilistic logic",
+        "Collaborative filtering",
+        "Computer science",
+        "Probabilistic analysis of algorithms",
+        "Data mining"
+    ],
+    "references": [
+        "1966553486",
+        "2019363670",
+        "2030144199",
+        "2063392856",
+        "2124591829",
+        "2147152072",
+        "2155106456",
+        "2295815851"
+    ]
+}

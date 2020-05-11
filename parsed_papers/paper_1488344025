@@ -1,0 +1,41 @@
+{
+    "id": "1488344025",
+    "title": "Modeling interorganizational workflows with XML nets",
+    "venue": "hawaii international conference on system sciences",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Kirsten Lenz",
+            "id": "2688410013",
+            "org": "Inst. of Inf. Syst., J.W. Goethe Univ., Frankfurt/Main, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Streaming XML",
+        "XML Encryption",
+        "Database",
+        "XML validation",
+        "XML Schema Editor",
+        "cXML",
+        "XML framework",
+        "Document Structure Description",
+        "Data mining",
+        "Efficient XML Interchange",
+        "Computer science"
+    ],
+    "references": [
+        "22830412",
+        "1511509087",
+        "1560626952",
+        "1563158029",
+        "1575821076",
+        "1938526162",
+        "1990358443",
+        "2007857312",
+        "2020516964",
+        "2092663181",
+        "2114627486",
+        "2159765281",
+        "2176296250"
+    ]
+}

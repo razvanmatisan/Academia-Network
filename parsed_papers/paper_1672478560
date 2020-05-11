@@ -1,0 +1,42 @@
+{
+    "id": "1672478560",
+    "title": "On the Degree of Ambiguity of Finite Automata",
+    "venue": "mathematical foundations of computer science",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Andreas Weber",
+            "id": "2496704179",
+            "org": "J. W. Goethe-Universitat"
+        },
+        {
+            "name": "Helmut Seidl",
+            "id": "2043679408",
+            "org": "J. W. Goethe-Universitat"
+        }
+    ],
+    "fields_of_study": [
+        "DFA minimization",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Deterministic finite automaton",
+        "Nested word",
+        "Quantum finite automata",
+        "o-automaton",
+        "Krohn-Rhodes theory",
+        "Nondeterministic finite automaton",
+        "Continuous spatial automaton",
+        "Mathematics"
+    ],
+    "references": [
+        "1598450631",
+        "1655990431",
+        "1850316734",
+        "1966515438",
+        "1978033038",
+        "1998084650",
+        "2011523226",
+        "2059200976",
+        "2165854715"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1754554616",
+    "title": "Modelling the Crypto-Processor from Design to Synthesis",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "W. P. Choi",
+            "id": "2306827352",
+            "org": "City University of Hong Kong"
+        },
+        {
+            "name": "Lee-Ming Cheng",
+            "id": "2569125396",
+            "org": "City University of Hong Kong"
+        }
+    ],
+    "fields_of_study": [
+        "Computer-automated design",
+        "Architecture",
+        "Computer architecture",
+        "Iterative design",
+        "Computer science",
+        "FPGA prototype",
+        "VHDL",
+        "Virtual prototyping",
+        "Electronic design automation",
+        "Design flow"
+    ],
+    "references": [
+        "1484777401",
+        "1578869570",
+        "2112689819"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "1520264472",
+    "title": "Comparison of compression algorithms' impact on Iris recognition accuracy",
+    "venue": "international conference on biometrics",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Stefan Matschitsch",
+            "id": "343805161",
+            "org": "School of Telematics & Network Engineering, Carinthia Tech Institute, Austria#TAB#"
+        },
+        {
+            "name": "Martin Tschinder",
+            "id": "312472486",
+            "org": "School of Telematics & Network Engineering, Carinthia Tech Institute, Austria#TAB#"
+        },
+        {
+            "name": "Andreas Uhl",
+            "id": "2162525018",
+            "org": "School of Telematics & Network Engineering, Carinthia Tech Institute and Department of Computer Sciences, Salzburg University, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Artificial intelligence",
+        "Lossy compression",
+        "Image compression",
+        "Transparency (data compression)",
+        "JPEG",
+        "Computer science",
+        "Pattern recognition",
+        "Fractal compression",
+        "Data compression",
+        "Data compression ratio",
+        "Lossless compression"
+    ],
+    "references": [
+        "1974821667",
+        "2142276208",
+        "2145041988",
+        "2145307864",
+        "2150959387",
+        "2151148935"
+    ]
+}

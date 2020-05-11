@@ -1,0 +1,35 @@
+{
+    "id": "1511509087",
+    "title": "ARIS Architecture and Reference Models for Business Process Management",
+    "venue": "business process management",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "August-Wilhelm Scheer",
+            "id": "2012069470",
+            "org": "Universitat des Saarlandes"
+        },
+        {
+            "name": "Markus Nuttgens",
+            "id": "96833993",
+            "org": "Universitat des Saarlandes"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Business process",
+        "Process management",
+        "Business process modeling",
+        "Business architecture",
+        "Business Process Model and Notation",
+        "Architecture of Integrated Information Systems",
+        "Process modeling",
+        "Artifact-centric business process model",
+        "Business process management",
+        "Engineering"
+    ],
+    "references": [
+        "1554793946",
+        "2403323234"
+    ]
+}

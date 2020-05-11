@@ -1,0 +1,44 @@
+{
+    "id": "1579849458",
+    "title": "Impact of Growing Business on Software Processes",
+    "venue": "european conference on software process improvement",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Natalja Nikitina",
+            "id": "2305819685",
+            "org": "Royal Institute of Technology"
+        },
+        {
+            "name": "Miroslawa E J Kajko-Mattsson",
+            "id": "2574598756",
+            "org": "Royal Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Business requirements",
+        "Business activity monitoring",
+        "Business process modeling",
+        "Management science",
+        "Software asset management",
+        "Business software",
+        "Artifact-centric business process model",
+        "Business process management",
+        "Process management",
+        "New business development",
+        "Engineering"
+    ],
+    "references": [
+        "1506144519",
+        "1550168967",
+        "2008712567",
+        "2031782651",
+        "2065059607",
+        "2067177226",
+        "2120221214",
+        "2128181234",
+        "2138898810",
+        "2140087689",
+        "2163002387"
+    ]
+}

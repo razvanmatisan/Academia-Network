@@ -1,0 +1,39 @@
+{
+    "id": "1575742624",
+    "title": "Doctoral colloquium: integrating web content into mashups on desktop and mobile devices",
+    "venue": "grid and pervasive computing",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Arto Salminen",
+            "id": "2057183397",
+            "org": "Department of Software Systems, Tampere University of Technology, Tampere, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Web of Things",
+        "Web service",
+        "Web modeling",
+        "World Wide Web",
+        "Web development",
+        "Mashup",
+        "Web 2.0",
+        "Service-oriented architecture",
+        "Computer science",
+        "Web Accessibility Initiative"
+    ],
+    "references": [
+        "1509065747",
+        "1977002888",
+        "1977696507",
+        "2011427107",
+        "2016450006",
+        "2016604944",
+        "2028056543",
+        "2086135446",
+        "2128479663",
+        "2144372170",
+        "2166869783",
+        "2203487440"
+    ]
+}

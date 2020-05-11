@@ -1,0 +1,42 @@
+{
+    "id": "179881429",
+    "title": "Static Source Code Analysis using OCL",
+    "venue": "Electronic Communication of The European Association of Software Science and Technology",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Mirko Seifert",
+            "id": "2163355695",
+            "org": "Dresden University of Technology"
+        },
+        {
+            "name": "Roland Samlaus",
+            "id": "2558003959",
+            "org": "Dresden University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Source code",
+        "Theoretical computer science",
+        "Static program analysis",
+        "Control flow analysis",
+        "KPI-driven code analysis",
+        "Second-generation programming language",
+        "Domain-specific language",
+        "Code generation",
+        "Computer science",
+        "Programming language",
+        "Computer programming"
+    ],
+    "references": [
+        "1567888042",
+        "1597340042",
+        "1660714679",
+        "1986453394",
+        "2018951244",
+        "2040060046",
+        "2043100293",
+        "2093094052",
+        "2146455667"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "1539013671",
+    "title": "Decision Making with Probabilistic Decision Tables",
+    "venue": "soft computing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Wojciech Ziarko",
+            "id": "2065594098",
+            "org": "University of Regina"
+        }
+    ],
+    "fields_of_study": [
+        "Weighted sum model",
+        "Artificial intelligence",
+        "Influence diagram",
+        "Optimal decision",
+        "Machine learning",
+        "Probabilistic logic",
+        "Decision table",
+        "Probabilistic relevance model",
+        "Dominance-based rough set approach",
+        "Mathematics",
+        "Rough set"
+    ],
+    "references": [
+        "1515067090",
+        "1523311805",
+        "2160875929",
+        "2340020088"
+    ]
+}

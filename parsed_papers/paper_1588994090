@@ -1,0 +1,37 @@
+{
+    "id": "1588994090",
+    "title": "Abstraction of Systems with Counters for Symbolic Model Checking.",
+    "venue": "MBMV",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Klaus Schneider",
+            "id": "2122241011",
+            "org": "Karlsruhe Institute of Technology"
+        },
+        {
+            "name": "George Logothetis",
+            "id": "2023375900",
+            "org": "Karlsruhe Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Model checking",
+        "Symbolic trajectory evaluation",
+        "Fault tolerance",
+        "Discrete mathematics",
+        "Abstraction model checking",
+        "State space",
+        "Abstraction",
+        "Control system",
+        "Proof assistant",
+        "Computer science"
+    ],
+    "references": [
+        "1481643576",
+        "2043100293",
+        "2080593426",
+        "2100139843",
+        "2127928829"
+    ]
+}

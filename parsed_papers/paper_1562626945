@@ -1,0 +1,46 @@
+{
+    "id": "1562626945",
+    "title": "Investigating the emergence of phenotypic plasticity in evolving digital organisms",
+    "venue": "european conference on artificial life",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Jeff Clune",
+            "id": "1996419712",
+            "org": "Digital Evolution Lab, Michigan State University, East Lansing, MI#TAB#"
+        },
+        {
+            "name": "Charles Ofria",
+            "id": "331195918",
+            "org": "Digital Evolution Lab, Michigan State University, East Lansing, MI#TAB#"
+        },
+        {
+            "name": "Robert T. Pennock",
+            "id": "2121657469",
+            "org": "Digital Evolution Lab, Michigan State University, East Lansing, MI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Plasticity",
+        "Phenotypic plasticity",
+        "Artificial intelligence",
+        "Natural selection",
+        "Evolutionary biology",
+        "Machine learning",
+        "Population",
+        "Avida",
+        "Artificial life",
+        "Ecology",
+        "In silico",
+        "Intelligent decision support system",
+        "Biology"
+    ],
+    "references": [
+        "1507439377",
+        "1979356863",
+        "2116339921",
+        "2147276070",
+        "2162170584",
+        "2167053763"
+    ]
+}

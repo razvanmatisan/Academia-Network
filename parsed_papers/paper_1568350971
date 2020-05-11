@@ -1,0 +1,41 @@
+{
+    "id": "1568350971",
+    "title": "Proving properties of stateflow models using ISO standard z and CADiZ",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Ian Toyn",
+            "id": "292823293",
+            "org": "Department of Computer Science, University of York, Heslington, York, UK#TAB#"
+        },
+        {
+            "name": "Andy Galloway",
+            "id": "2100290540",
+            "org": "Department of Computer Science, University of York, Heslington, York, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Notation",
+        "Discrete mathematics",
+        "Formal methods",
+        "Rule of inference",
+        "Software development",
+        "Formal specification",
+        "Theoretical computer science",
+        "Algorithm",
+        "Stateflow",
+        "Automated theorem proving",
+        "Automation",
+        "Computer science"
+    ],
+    "references": [
+        "1534362305",
+        "1574030932",
+        "1897595500",
+        "1899715084",
+        "1996325171",
+        "2099529102",
+        "2116170170"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1556700438",
+    "title": "Optimal Call Admission Control under Generalized Processor Sharing Scheduling",
+    "venue": "international workshop on quality of service",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Antonis Panagakis",
+            "id": "1995771440",
+            "org": "University of Athens"
+        },
+        {
+            "name": "Ioannis Stavrakakis",
+            "id": "49825174",
+            "org": "University of Athens"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Computer network",
+        "Constrained optimization",
+        "Shared resource",
+        "Scheduling (computing)",
+        "Call Admission Control",
+        "Leaky bucket",
+        "Distributed computing",
+        "Generalized processor sharing",
+        "Bandwidth (signal processing)",
+        "Computer science",
+        "Resource allocation"
+    ],
+    "references": [
+        "1528496005",
+        "1637295674",
+        "1656979091",
+        "1965709776",
+        "2106320395",
+        "2140096940",
+        "2149248364",
+        "2171067922",
+        "2176566884"
+    ]
+}

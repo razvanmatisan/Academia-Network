@@ -1,0 +1,34 @@
+{
+    "id": "1536050932",
+    "title": "A Coloring Algorithm for Interval Graphs",
+    "venue": "mathematical foundations of computer science",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Maciej Slusarek",
+            "id": "2637940553",
+            "org": "Jagiellonian University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Combinatorics",
+        "Fractional coloring",
+        "Edge coloring",
+        "Graph coloring",
+        "Greedy coloring",
+        "Mathematical optimization",
+        "Indifference graph",
+        "List coloring",
+        "Algorithm",
+        "1-planar graph",
+        "Complete coloring",
+        "Mathematics"
+    ],
+    "references": [
+        "203573418",
+        "1987042917",
+        "2094678784",
+        "2166952631"
+    ]
+}

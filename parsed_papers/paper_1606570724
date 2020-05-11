@@ -1,0 +1,36 @@
+{
+    "id": "1606570724",
+    "title": "Constraints as data: a new perspective on inferring probabilities",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Manfred Jaeger",
+            "id": "2168994444",
+            "org": "MPI Informatik, Saarbrucken, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Statistical inference",
+        "Inference",
+        "Statistical theory",
+        "Statistical model",
+        "Predictive inference",
+        "Frequentist inference",
+        "Computer science",
+        "Fiducial inference",
+        "Entropy maximization",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "62763226",
+        "113489683",
+        "1497541798",
+        "1505179150",
+        "1573742539",
+        "1576529139",
+        "1992373581",
+        "2052958516"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "1466730687",
+    "title": "Key-Efficient steganography",
+    "venue": "information hiding",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Aggelos Kiayias",
+            "id": "2887336121",
+            "org": "University of Connecticut, Storrs, CT#TAB#"
+        },
+        {
+            "name": "Alexander Russell",
+            "id": "2147225627",
+            "org": "University of Connecticut, Storrs, CT#TAB#"
+        },
+        {
+            "name": "Narasimha Shashidhar",
+            "id": "1979932220",
+            "org": "Sam Houston State University, Huntsville, TX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Key distribution",
+        "Theoretical computer science",
+        "Security parameter",
+        "Computer science",
+        "Secure transmission",
+        "Key size",
+        "Cryptographic protocol",
+        "Public-key cryptography",
+        "Shared secret",
+        "Pre-shared key"
+    ],
+    "references": [
+        "1479681406",
+        "1491152510",
+        "1527181506",
+        "1591473542",
+        "1797136128",
+        "1878459630",
+        "1878907771",
+        "1885440117",
+        "2035532007",
+        "2060474153",
+        "2112139527",
+        "2119913278",
+        "2163861376",
+        "2165058514"
+    ]
+}

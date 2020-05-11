@@ -1,0 +1,39 @@
+{
+    "id": "1752148941",
+    "title": "A sequential scheduling approach to combining multiple object classifiers using cross-entropy",
+    "venue": "international conference on multiple classifier systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Derek R. Magee",
+            "id": "1734913807",
+            "org": "University of Leeds, Leeds, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Probabilistic classification",
+        "Cascading classifiers",
+        "Mixture model",
+        "Random subspace method",
+        "Linear classifier",
+        "Cross entropy",
+        "Computer science",
+        "Machine learning",
+        "Multiclass classification",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Quadratic classifier"
+    ],
+    "references": [
+        "1528664985",
+        "2024186559",
+        "2025653905",
+        "2032210760",
+        "2042297051",
+        "2098154993",
+        "2098305884",
+        "2104489595",
+        "2152761983",
+        "2164598857"
+    ]
+}

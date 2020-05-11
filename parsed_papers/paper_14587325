@@ -1,0 +1,37 @@
+{
+    "id": "14587325",
+    "title": "Association Rule Mining Algorithms for Set-Valued Data",
+    "venue": "intelligent data engineering and automated learning",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Christopher A. Shoemaker",
+            "id": "2421743342",
+            "org": "Worcester Polytechnic Institute"
+        },
+        {
+            "name": "Carolina Ruiz",
+            "id": "2149401507",
+            "org": "Worcester Polytechnic Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Apriori algorithm",
+        "Machine learning",
+        "Data type",
+        "Computer science",
+        "Information extraction",
+        "Data mining",
+        "Association rule learning",
+        "Algorithm"
+    ],
+    "references": [
+        "1506285740",
+        "1517178556",
+        "1574241439",
+        "1730294811",
+        "2154642793",
+        "2166559705"
+    ]
+}

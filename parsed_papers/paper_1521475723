@@ -1,0 +1,28 @@
+{
+    "id": "1521475723",
+    "title": "Concept Formation and Decision Tree Induction Using the Genetic Programming Paradigm",
+    "venue": "parallel problem solving from nature",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "John R. Koza",
+            "id": "2141641810",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Genetic algorithm",
+        "Machine learning",
+        "Computer science",
+        "Genetic programming",
+        "Decision tree",
+        "Genetic program",
+        "Computer program",
+        "Concept learning"
+    ],
+    "references": [
+        "138562460",
+        "2149706766"
+    ]
+}

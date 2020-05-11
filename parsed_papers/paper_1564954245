@@ -1,0 +1,38 @@
+{
+    "id": "1564954245",
+    "title": "Challenges for Content-Based Navigation of Digital Video in the Fischlar Digital Library",
+    "venue": "conference on image and video retrieval",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Alan F. Smeaton",
+            "id": "2326079530",
+            "org": "Dublin City University"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Multimedia",
+        "Artificial intelligence",
+        "Computer vision",
+        "Video Library",
+        "Video tracking",
+        "Digital library",
+        "Image compression",
+        "Image retrieval",
+        "Content analysis"
+    ],
+    "references": [
+        "1523898944",
+        "1535215946",
+        "1545756119",
+        "1975830550",
+        "1995980232",
+        "2022209857",
+        "2046983134",
+        "2051329839",
+        "2076779687",
+        "2121996546",
+        "2153203381"
+    ]
+}

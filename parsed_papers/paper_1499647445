@@ -1,0 +1,65 @@
+{
+    "id": "1499647445",
+    "title": "Evaluation of Terminological Schema Matching and Its Implications for Schema Mapping",
+    "venue": "pacific rim international conference on artificial intelligence",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Sarawat Anam",
+            "id": "2282878597",
+            "org": "University of Tasmania"
+        },
+        {
+            "name": "Sarawat Anam",
+            "id": "2282878597",
+            "org": "University of Tasmania"
+        },
+        {
+            "name": "Yang Sok Kim",
+            "id": "2105835376",
+            "org": "University of Tasmania"
+        },
+        {
+            "name": "Byeong Ho Kang",
+            "id": "2162029091",
+            "org": "University of Tasmania"
+        },
+        {
+            "name": "Qing Liu",
+            "id": "2793921354",
+            "org": "Intelligent Sensing and Systems Laboratory, CSIRO Computational Informatics"
+        }
+    ],
+    "fields_of_study": [
+        "Semi-structured model",
+        "Information retrieval",
+        "Information schema",
+        "Schema (genetic algorithms)",
+        "Computer science",
+        "Document Schema Definition Languages",
+        "Star schema",
+        "Schema matching",
+        "XML Schema Editor",
+        "Schema migration",
+        "Data mining"
+    ],
+    "references": [
+        "31931630",
+        "136414689",
+        "1571902268",
+        "1573035800",
+        "1590200387",
+        "1606141065",
+        "1646278814",
+        "1997288098",
+        "2007682403",
+        "2014888296",
+        "2068680051",
+        "2100684772",
+        "2131981997",
+        "2139135093",
+        "2140655242",
+        "2155368982",
+        "2157060173"
+    ]
+}

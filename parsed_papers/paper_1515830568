@@ -1,0 +1,35 @@
+{
+    "id": "1515830568",
+    "title": "Optimization by Island-Structured Decentralized Particle Swarms",
+    "venue": "Fuzzy Days",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Juan Romero",
+            "id": "2558568021",
+            "org": "University of Malaga ETSI Informatica (office 3.2.49)"
+        },
+        {
+            "name": "Carlos Cotta",
+            "id": "2169187097",
+            "org": "University of Malaga ETSI Informatica (office 3.2.49)"
+        }
+    ],
+    "fields_of_study": [
+        "Swarm intelligence",
+        "Metaheuristic",
+        "Mathematical optimization",
+        "Evolutionary algorithm",
+        "Multi-swarm optimization",
+        "Continuous optimization",
+        "Memetic algorithm",
+        "Ring network",
+        "Particle swarm optimization",
+        "Computer science"
+    ],
+    "references": [
+        "1485961250",
+        "1556765312",
+        "2166348281"
+    ]
+}

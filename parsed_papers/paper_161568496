@@ -1,0 +1,31 @@
+{
+    "id": "161568496",
+    "title": "Using global properties for qualitative reasoning: a qualitative system theory",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Yoshiteru Ishida",
+            "id": "2149868662",
+            "org": "Division of Applied Systems Science, Kyoto University, Kyoto, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Linear system",
+        "Discrete mathematics",
+        "Qualitative reasoning",
+        "Instability",
+        "Invariant (mathematics)",
+        "Phase space",
+        "Spurious relationship",
+        "Fixed point",
+        "Observability",
+        "Mathematics"
+    ],
+    "references": [
+        "1528076685",
+        "2017103958",
+        "2053190303",
+        "2176876276"
+    ]
+}

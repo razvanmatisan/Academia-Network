@@ -1,0 +1,46 @@
+{
+    "id": "1516022555",
+    "title": "Unintrusive Ways to Integrate Formal Specifications in Practice",
+    "venue": "formal methods",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Jeannette M. Wing",
+            "id": "1584891692",
+            "org": "Carnegie Mellon University"
+        },
+        {
+            "name": "Amy Moormann Zaremski",
+            "id": "309463339",
+            "org": "Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Formal methods",
+        "Natural language processing",
+        "Software development process",
+        "Specification language",
+        "Formal specification",
+        "Structured analysis",
+        "Formal verification",
+        "Programming language",
+        "Design by contract",
+        "Object language",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1970495662",
+        "1985562074",
+        "2040400953",
+        "2077592849",
+        "2103953153",
+        "2106667508",
+        "2115937516",
+        "2123985997",
+        "2145078030",
+        "2147543351",
+        "2168468191"
+    ]
+}

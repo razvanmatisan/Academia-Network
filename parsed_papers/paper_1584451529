@@ -1,0 +1,35 @@
+{
+    "id": "1584451529",
+    "title": "Gathering Non-oblivious Mobile Robots",
+    "venue": "latin american symposium on theoretical informatics",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Mark Cieliebak",
+            "id": "56993564",
+            "org": "ETH Zurich"
+        }
+    ],
+    "fields_of_study": [
+        "Commonsense reasoning",
+        "Discrete mathematics",
+        "Mobile robot",
+        "Synchronization",
+        "Computer science",
+        "Coordinate system",
+        "Robot",
+        "Autonomous system (mathematics)",
+        "Simulation",
+        "Distributed computing",
+        "Deterministic algorithm",
+        "Robotics",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1592126212",
+        "1635699204",
+        "2024735613",
+        "2097569568",
+        "2119120935"
+    ]
+}

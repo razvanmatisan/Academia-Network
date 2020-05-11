@@ -1,0 +1,41 @@
+{
+    "id": "1495182254",
+    "title": "An ant system based multicasting in mobile ad hoc network",
+    "venue": "congress on evolutionary computation",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Se-young Lee",
+            "id": "2498922571",
+            "org": "Dept. of Comput. Sci. & Eng., Sogang Univ., Seoul, South Korea"
+        },
+        {
+            "name": "Hyeong Soo Chang",
+            "id": "2251094633",
+            "org": "Dept. of Comput. Sci. & Eng., Sogang Univ., Seoul, South Korea"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Optimized Link State Routing Protocol",
+        "Adaptive quality of service multi-hop routing",
+        "Wireless ad hoc network",
+        "ODMRP",
+        "Vehicular ad hoc network",
+        "Ad hoc wireless distribution service",
+        "Wireless Routing Protocol",
+        "Computer network",
+        "Mobile ad hoc network",
+        "Distributed computing"
+    ],
+    "references": [
+        "1895543896",
+        "1998667180",
+        "2017938154",
+        "2086825632",
+        "2123222113",
+        "2131437083",
+        "2133520751",
+        "2145848738"
+    ]
+}

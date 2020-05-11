@@ -1,0 +1,42 @@
+{
+    "id": "1616564522",
+    "title": "On the Capacity of the Diamond Half-Duplex Relay Channel",
+    "venue": "arXiv: Information Theory",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Hossein Bagheri",
+            "id": "2020428386",
+            "org": "Dept . of Electrical Engineering|University of Waterloo"
+        },
+        {
+            "name": "Abolfazl S. Motahari",
+            "id": "2095482447",
+            "org": "Dept . of Electrical Engineering|University of Waterloo"
+        },
+        {
+            "name": "Amir K. Khandani",
+            "id": "1981209599",
+            "org": "Dept . of Electrical Engineering|University of Waterloo"
+        }
+    ],
+    "fields_of_study": [
+        "Binary erasure channel",
+        "Mathematics",
+        "Mathematical optimization",
+        "Channel capacity",
+        "Communications system",
+        "Information theory",
+        "Spatial correlation",
+        "Duplex (telecommunications)",
+        "Relay channel",
+        "Topology",
+        "Telecommunications",
+        "Communication channel"
+    ],
+    "references": [
+        "1528321597",
+        "1595160571",
+        "2100192251"
+    ]
+}

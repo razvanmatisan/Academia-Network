@@ -1,0 +1,43 @@
+{
+    "id": "1543543410",
+    "title": "Hierarchical Clustering of Composite Objects with a Variable Number of Components",
+    "venue": "international conference on artificial intelligence and statistics",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Alain Ketterlin",
+            "id": "1239733417",
+            "org": "Universite Louis Pasteur"
+        },
+        {
+            "name": "Pierre Gancarski",
+            "id": "11102111",
+            "org": "Universite Louis Pasteur"
+        },
+        {
+            "name": "Jerzy J. Korczak",
+            "id": "2248670586",
+            "org": "Universite Louis Pasteur"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Machine learning",
+        "Correlation clustering",
+        "CURE data clustering algorithm",
+        "Artificial intelligence",
+        "Consensus clustering",
+        "FLAME clustering",
+        "Hierarchical clustering of networks",
+        "Canopy clustering algorithm",
+        "Pattern recognition",
+        "Mathematics",
+        "Brown clustering"
+    ],
+    "references": [
+        "42468102",
+        "1518912663",
+        "2050206309",
+        "2073308541"
+    ]
+}

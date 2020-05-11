@@ -1,0 +1,29 @@
+{
+    "id": "179800872",
+    "title": "Getting the envisionment right",
+    "venue": "national conference on artificial intelligence",
+    "year": 1982,
+    "authors": [
+        {
+            "name": "Benjamin Kuipers",
+            "id": "2036402807",
+            "org": "Tufts University, Medford, Massachusetts#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Causality",
+        "Artificial intelligence",
+        "Commonsense reasoning",
+        "Expressive power",
+        "Computer science",
+        "Differential equation",
+        "Commonsense knowledge",
+        "Physical system"
+    ],
+    "references": [
+        "180728787",
+        "1500903818",
+        "1568665038"
+    ]
+}

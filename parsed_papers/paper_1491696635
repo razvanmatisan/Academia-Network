@@ -1,0 +1,36 @@
+{
+    "id": "1491696635",
+    "title": "An Iterative Algorithm for Synthesizing Invariants",
+    "venue": "national conference on artificial intelligence",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Jussi Rintanen",
+            "id": "647630240",
+            "org": "Institut fur Informat"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic algorithm",
+        "Machine learning",
+        "Invariant (mathematics)",
+        "Iterative method",
+        "Graphplan",
+        "Fixed point",
+        "Artificial intelligence",
+        "Existential quantification",
+        "Operator (computer programming)",
+        "Computer science",
+        "Schematic"
+    ],
+    "references": [
+        "147418395",
+        "1499973835",
+        "1528726876",
+        "1556247398",
+        "1658166031",
+        "1711345289",
+        "2025460523",
+        "2099120582"
+    ]
+}

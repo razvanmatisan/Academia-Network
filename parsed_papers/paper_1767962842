@@ -1,0 +1,38 @@
+{
+    "id": "1767962842",
+    "title": "SQL/LPP: A Time Series Extension of SQL Based on Limited Patience Patterns",
+    "venue": "database and expert systems applications",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Chang-Shing Perng",
+            "id": "2620314759",
+            "org": "University of California"
+        },
+        {
+            "name": "Douglas Stott Parker Jr.",
+            "id": "2895850836",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Data definition language",
+        "Data mining",
+        "Database",
+        "Temporal database",
+        "SQL/PSM",
+        "Computer science",
+        "Null (SQL)",
+        "SQL",
+        "Query by Example",
+        "PL/SQL",
+        "Language Integrated Query"
+    ],
+    "references": [
+        "1498925777",
+        "1993863827",
+        "2119984902",
+        "2127057359",
+        "2128061541"
+    ]
+}

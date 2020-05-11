@@ -1,0 +1,28 @@
+{
+    "id": "1595635751",
+    "title": "Coping with complexity through adaptive interface design",
+    "venue": "international conference on human computer interaction",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Nadine Sarter",
+            "id": "282720713",
+            "org": "University of Michigan, Department of Industrial and Operations Engineering, Center for Ergonomics, Ann Arbor, MI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Coping (psychology)",
+        "Interface design",
+        "Complex system",
+        "Distributed computing",
+        "Complex system",
+        "Operator (computer programming)",
+        "Real-time computing",
+        "Computer science"
+    ],
+    "references": [
+        "1991658485",
+        "2055417565",
+        "2069243478"
+    ]
+}

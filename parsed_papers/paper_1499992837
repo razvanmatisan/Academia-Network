@@ -1,0 +1,35 @@
+{
+    "id": "1499992837",
+    "title": "Learning Strategies Using Decision Lists",
+    "venue": "algorithmic learning theory",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Satoshi Kobayashi",
+            "id": "2176624287",
+            "org": "The University of Electro-Communications"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Speedup",
+        "Schema (psychology)",
+        "Error-driven learning",
+        "Probably approximately correct learning",
+        "Multi-task learning",
+        "Computer science",
+        "Decision list",
+        "Preference learning",
+        "Operator (computer programming)"
+    ],
+    "references": [
+        "92466676",
+        "159210726",
+        "1487503790",
+        "2070664878",
+        "2110415190",
+        "2115005659",
+        "2428981601"
+    ]
+}

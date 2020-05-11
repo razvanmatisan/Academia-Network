@@ -1,0 +1,49 @@
+{
+    "id": "1501507312",
+    "title": "A Provenance-Based Fault Tolerance Mechanism for Scientific Workflows",
+    "venue": "international provenance and annotation workshop",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Daniel Crawl",
+            "id": "193273906",
+            "org": "San Diego Supercomputer Center, UCSD, La Jolla, USA CA 92093#TAB#"
+        },
+        {
+            "name": "Ilkay Altintas",
+            "id": "1988531382",
+            "org": "San Diego Supercomputer Center, UCSD, La Jolla, USA CA 92093#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Kepler scientific workflow system",
+        "Provenance",
+        "Computer science",
+        "Database",
+        "Data mining",
+        "Input/output",
+        "Workflow",
+        "Computational model",
+        "Fault tolerance",
+        "Scientific communication",
+        "Model of computation"
+    ],
+    "references": [
+        "1529006120",
+        "1535091890",
+        "1542375738",
+        "1569860203",
+        "1582664144",
+        "1707514625",
+        "1983833794",
+        "2030977227",
+        "2059471034",
+        "2076001464",
+        "2093427535",
+        "2109546901",
+        "2119027715",
+        "2150656025",
+        "2158126684",
+        "2161688581"
+    ]
+}

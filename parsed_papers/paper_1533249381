@@ -1,0 +1,37 @@
+{
+    "id": "1533249381",
+    "title": "A database of glyphs for OCR of mathematical documents",
+    "venue": "mathematical knowledge management",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Alan P. Sexton",
+            "id": "2150786701",
+            "org": "School of Computer Science, University of Birmingham, UK#TAB#"
+        },
+        {
+            "name": "Volker Sorge",
+            "id": "2010414180",
+            "org": "School of Computer Science, University of Birmingham, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Font",
+        "Character encoding",
+        "Computer science",
+        "Knowledge engineering",
+        "Optical character recognition",
+        "Glyph",
+        "Database",
+        "Typography",
+        "Text mining",
+        "Source document"
+    ],
+    "references": [
+        "1553585638",
+        "2011296149",
+        "2134468216",
+        "2144572495",
+        "2503588064"
+    ]
+}

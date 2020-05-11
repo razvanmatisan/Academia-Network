@@ -1,0 +1,36 @@
+{
+    "id": "1589217920",
+    "title": "A NETWORK PARSING SCHEME",
+    "venue": "artificial intelligence: methodology, systems, applications",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Lydia Sinapova",
+            "id": "438889732",
+            "org": "Institute of Engineering Cybernetics and Robotics - BAS, Acad.G.Bonchev str. bl.29A, 1113 Sofia, BULGARIA"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Machine learning",
+        "Inference",
+        "Parsing",
+        "Artificial intelligence",
+        "Computer science",
+        "Parser combinator",
+        "Computation",
+        "Top-down parsing",
+        "Computer network programming",
+        "Bottom-up parsing",
+        "Network model"
+    ],
+    "references": [
+        "83713632",
+        "1546482446",
+        "1987457926",
+        "1990989925",
+        "2015781447",
+        "2097016336",
+        "2157025042"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "137219120",
+    "title": "Generating Structural Essays from Languages of Discrete Structures",
+    "venue": "AID",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Kristina Shea",
+            "id": "2227424933",
+            "org": "Swiss Federal Institute of Technology (EPFL)"
+        },
+        {
+            "name": "Jonathan Cagan",
+            "id": "659339707",
+            "org": "Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Generative grammar",
+        "Truss",
+        "Discrete mathematics",
+        "Design language",
+        "Attribute grammar",
+        "Stochastic optimization",
+        "Grammar",
+        "Elegance",
+        "Rule-based machine translation",
+        "Computer science"
+    ],
+    "references": [
+        "16217331",
+        "80275623",
+        "2146173781",
+        "2148535958",
+        "2153532463",
+        "2293218717"
+    ]
+}

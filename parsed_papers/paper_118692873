@@ -1,0 +1,43 @@
+{
+    "id": "118692873",
+    "title": "Ant colony optimization for resource-constrained project scheduling",
+    "venue": "genetic and evolutionary computation conference",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Daniel Merkle",
+            "id": "1981192622",
+            "org": "Institute for Applied Computer Science and Formal Description Methods, University of Karlsruhe, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Martin Middendorf",
+            "id": "2062962849",
+            "org": "Institute for Applied Computer Science and Formal Description Methods, University of Karlsruhe, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Hartmut Schmeck",
+            "id": "2036573014",
+            "org": "Institute for Applied Computer Science and Formal Description Methods, University of Karlsruhe, Karlsruhe, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Meta-optimization",
+        "Simulated annealing",
+        "Mathematical optimization",
+        "Machine learning",
+        "Metaheuristic",
+        "Artificial intelligence",
+        "Genetic algorithm",
+        "Computer science",
+        "Ant colony optimization algorithms",
+        "Tabu search",
+        "Schedule (project management)",
+        "Heuristics"
+    ],
+    "references": [
+        "1526580552",
+        "2038345112",
+        "2107941094",
+        "2121852392"
+    ]
+}

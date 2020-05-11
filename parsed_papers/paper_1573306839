@@ -1,0 +1,34 @@
+{
+    "id": "1573306839",
+    "title": "MagicUWE --- A CASE Tool Plugin for Modeling Web Applications",
+    "venue": "international conference on web engineering",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Marianne Busch",
+            "id": "2173124471",
+            "org": "Ludwig-Maximilians-Universitat Munchen, Germany#TAB#"
+        },
+        {
+            "name": "Nora Koch",
+            "id": "2128327921",
+            "org": "Ludwig-Maximilians-Universitat Munchen, Germany and Cirquent GmbH, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Usability",
+        "World Wide Web",
+        "Web modeling",
+        "Software development",
+        "Adaptability",
+        "Extensibility",
+        "UML tool",
+        "Web application",
+        "Computer science",
+        "Web engineering"
+    ],
+    "references": [
+        "1479972092",
+        "1543865625"
+    ]
+}

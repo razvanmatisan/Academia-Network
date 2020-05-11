@@ -1,0 +1,31 @@
+{
+    "id": "1530060392",
+    "title": "The ATLANTIC Audio Demonstration System",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Andrew Mason",
+            "id": "2597411954",
+            "org": "BBC Research & Development"
+        },
+        {
+            "name": "Nicholas J. Yeadon",
+            "id": "754013002",
+            "org": "BBC Research & Development"
+        }
+    ],
+    "fields_of_study": [
+        "Information and Communications Technology",
+        "Codec",
+        "Asynchronous communication",
+        "Signal compression",
+        "Distributed computing",
+        "Broadcasting",
+        "Data stream",
+        "Computer science"
+    ],
+    "references": [
+        "1557826021"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "1818561783",
+    "title": "The Semantics of the C Programming Language",
+    "venue": "computer science logic",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Yuri Gurevich",
+            "id": "2154094381",
+            "org": "University of Michigan"
+        },
+        {
+            "name": "James K. Huggins",
+            "id": "1979262351",
+            "org": "University of Michigan"
+        }
+    ],
+    "fields_of_study": [
+        "Fourth-generation programming language",
+        "First-generation programming language",
+        "High-level programming language",
+        "Very high-level programming language",
+        "Semantics (computer science)",
+        "Programming language generations",
+        "Programming language theory",
+        "Computer science",
+        "Programming language",
+        "Programming domain"
+    ],
+    "references": [
+        "1491178396"
+    ]
+}

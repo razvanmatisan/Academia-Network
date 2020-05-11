@@ -1,0 +1,48 @@
+{
+    "id": "1550982044",
+    "title": "Using Story Topics For Language Model Adaptation",
+    "venue": "conference of the international speech communication association",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Kristie Seymore",
+            "id": "2798533022",
+            "org": "School of Computer Science | Carnegie Mellon University"
+        },
+        {
+            "name": "Kristie Seymore",
+            "id": "2798533022",
+            "org": "School of Computer Science | Carnegie Mellon University"
+        },
+        {
+            "name": "Ronald Rosenfeld",
+            "id": "2396008703",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "Ronald Rosenfeld",
+            "id": "2396008703",
+            "org": "Microsoft Research"
+        }
+    ],
+    "fields_of_study": [
+        "Speech recognition",
+        "Modeling language",
+        "Universal Networking Language",
+        "First-generation programming language",
+        "Comprehension approach",
+        "Natural language programming",
+        "Natural language processing",
+        "Language identification",
+        "Object language",
+        "Language model",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1665921526",
+        "2107373357",
+        "2134237567",
+        "2159518412"
+    ]
+}

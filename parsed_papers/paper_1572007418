@@ -1,0 +1,45 @@
+{
+    "id": "1572007418",
+    "title": "Reasoning-Based Knowledge Extraction for Text Classification",
+    "venue": "discovery science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Chiara Cumbo",
+            "id": "1977955021",
+            "org": "Universita della Calabria"
+        },
+        {
+            "name": "Salvatore Iiritano",
+            "id": "2690333128",
+            "org": "Exeura s.r.l"
+        },
+        {
+            "name": "Pasquale Rullo",
+            "id": "2021431683",
+            "org": "Exeura s.r.l"
+        }
+    ],
+    "fields_of_study": [
+        "Domain knowledge",
+        "Knowledge extraction",
+        "Machine learning",
+        "Knowledge base",
+        "Ontology",
+        "Data mining",
+        "Natural language processing",
+        "Knowledge representation and reasoning",
+        "Categorization",
+        "Ontology (information science)",
+        "Computer science",
+        "Content analysis",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1547179998",
+        "1969572066",
+        "2005422315",
+        "2098162425",
+        "2435251607"
+    ]
+}

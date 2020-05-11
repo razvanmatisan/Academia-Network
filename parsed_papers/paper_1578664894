@@ -1,0 +1,50 @@
+{
+    "id": "1578664894",
+    "title": "An Agent-Based Approach for Helping Users of Hand-Held Devices to Browse Software Catalogs",
+    "venue": "cooperative information agents",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Eduardo Mena",
+            "id": "2110296209",
+            "org": "Univ. of Zaragoza"
+        },
+        {
+            "name": "Jose Antonio Mateos Royo",
+            "id": "1998501447",
+            "org": "Univ. of Zaragoza"
+        },
+        {
+            "name": "Arantza Illarramendi",
+            "id": "2081500402",
+            "org": "Univ. of the Basque Country"
+        },
+        {
+            "name": "Alfredo Goni",
+            "id": "2167552378",
+            "org": "Univ. of the Basque Country"
+        }
+    ],
+    "fields_of_study": [
+        "Software deployment",
+        "Software metric",
+        "Data mining",
+        "Software peer review",
+        "Database",
+        "Software design description",
+        "Software development",
+        "Software verification and validation",
+        "Distributed computing",
+        "Package development process",
+        "Computer science",
+        "Software as a service"
+    ],
+    "references": [
+        "1518577448",
+        "1522927410",
+        "1848545595",
+        "2110267054",
+        "2110432090",
+        "2158030545"
+    ]
+}

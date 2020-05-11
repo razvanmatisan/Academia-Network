@@ -1,0 +1,40 @@
+{
+    "id": "1762773051",
+    "title": "Interaction Compatibility: An Essential Ingredient for Service Composition",
+    "venue": "grid and cooperative computing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jun Han",
+            "id": "2120459512",
+            "org": "Swinburne University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Web service",
+        "Systems engineering",
+        "Database",
+        "Application service provider",
+        "Component-based software engineering",
+        "Ingredient",
+        "Specification language",
+        "Software agent",
+        "Distributed computing",
+        "Computer science",
+        "Data as a service",
+        "Software as a service"
+    ],
+    "references": [
+        "1502457987",
+        "1511202038",
+        "1548817500",
+        "1913545852",
+        "1969952687",
+        "1975455609",
+        "2013658284",
+        "2071385868",
+        "2122466006",
+        "2137018211",
+        "2137948900"
+    ]
+}

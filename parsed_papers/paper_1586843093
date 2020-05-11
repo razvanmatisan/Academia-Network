@@ -1,0 +1,28 @@
+{
+    "id": "1586843093",
+    "title": "Designing Industrial Case-Based Reasoning Applications",
+    "venue": "European Conference on Case-Based Reasoning",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Mehmet Goker",
+            "id": "2193829517",
+            "org": "PricewaterhouseCoopers, Center for Advanced Research"
+        }
+    ],
+    "fields_of_study": [
+        "Opportunistic reasoning",
+        "Reasoning system",
+        "Strategic business unit",
+        "Legal expert system",
+        "Workflow",
+        "Knowledge representation and reasoning",
+        "End user",
+        "Deployment environment",
+        "Management science",
+        "Engineering"
+    ],
+    "references": [
+        "2043795103"
+    ]
+}

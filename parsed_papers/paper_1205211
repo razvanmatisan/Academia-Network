@@ -1,0 +1,37 @@
+{
+    "id": "1205211",
+    "title": "Recognition of Labeled Multidigraphs by Spanning Tree Automata",
+    "venue": "international conference on implementation and application of automata",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Akio Fujiyoshi",
+            "id": "2005204336",
+            "org": "Ibaraki University"
+        }
+    ],
+    "fields_of_study": [
+        "Gomory-Hu tree",
+        "Combinatorics",
+        "K-ary tree",
+        "Discrete mathematics",
+        "Trie",
+        "Tree automaton",
+        "Deterministic automaton",
+        "Distributed minimum spanning tree",
+        "Minimum spanning tree",
+        "Spanning tree",
+        "Mathematics"
+    ],
+    "references": [
+        "1586668623",
+        "1588795928",
+        "1637551570",
+        "1799103480",
+        "2028357390",
+        "2037121285",
+        "2038955206",
+        "2064796716",
+        "2086823052"
+    ]
+}

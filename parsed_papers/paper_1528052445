@@ -1,0 +1,42 @@
+{
+    "id": "1528052445",
+    "title": "A Case-Based Classification of Respiratory Sinus Arrhythmia",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Markus Nilsson",
+            "id": "2168065136",
+            "org": "Malardalen University"
+        },
+        {
+            "name": "Peter Funk",
+            "id": "2109801299",
+            "org": "Malardalen University"
+        }
+    ],
+    "fields_of_study": [
+        "Architecture",
+        "Cardiology",
+        "Decision support system",
+        "Distributed computing",
+        "Internal medicine",
+        "Heart rate variability",
+        "Case-based reasoning",
+        "Vagal tone",
+        "Heart rate",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "179786294",
+        "1497357851",
+        "1525116517",
+        "1551094312",
+        "1573126221",
+        "1575842952",
+        "1841403979",
+        "2110793574",
+        "2631686562"
+    ]
+}

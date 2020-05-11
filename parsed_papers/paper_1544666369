@@ -1,0 +1,39 @@
+{
+    "id": "1544666369",
+    "title": "Parallel ant colony optimization algorithm on a multi-core processor",
+    "venue": "international conference on swarm intelligence",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Shigeyoshi Tsutsui",
+            "id": "2137466413",
+            "org": "Management Information, Hannan University, Matsubara, Osaka, Japan#TAB#"
+        },
+        {
+            "name": "Noriyuki Fujimoto",
+            "id": "2304853559",
+            "org": "Science, Osaka Prefecture University, Sakai, Osaka, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Asynchronous communication",
+        "Parallel metaheuristic",
+        "ANT",
+        "Java",
+        "Multi-core processor",
+        "Parallel computing",
+        "Ant colony optimization algorithms",
+        "Local search (optimization)",
+        "Computer science",
+        "Algorithm",
+        "Distributed computing"
+    ],
+    "references": [
+        "1504935863",
+        "1512346611",
+        "1543940176",
+        "1801849579",
+        "1936124188"
+    ]
+}

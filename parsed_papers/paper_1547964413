@@ -1,0 +1,39 @@
+{
+    "id": "1547964413",
+    "title": "Shedding More Light on Image Watermarks",
+    "venue": "information hiding",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Juan Hernandez",
+            "id": "2297418785",
+            "org": "Universidad de Vigo, Vigo"
+        },
+        {
+            "name": "Fernando Perez-Gonzalez",
+            "id": "620829404",
+            "org": "Universidad de Vigo, Vigo"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Signal processing",
+        "Information protection policy",
+        "Robustness (computer science)",
+        "Direct-sequence spread spectrum",
+        "Digital watermarking",
+        "Image processing",
+        "Computer science",
+        "Spread spectrum",
+        "Cryptography",
+        "Distributed computing"
+    ],
+    "references": [
+        "1743965195",
+        "1788382226",
+        "2065024926",
+        "2101834942",
+        "2116467012",
+        "2152845298"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1484140719",
+    "title": "Landscape Categories in Yindjibarndi: Ontology, Environment, and Language",
+    "venue": "conference on spatial information theory",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "David M. Mark",
+            "id": "2273967268",
+            "org": "University at Buffalo"
+        },
+        {
+            "name": "A.G. Turk",
+            "id": "2158004162",
+            "org": "Murdoch University"
+        }
+    ],
+    "fields_of_study": [
+        "Ontology",
+        "Topographic map",
+        "Data mining",
+        "Natural language processing",
+        "Local language",
+        "Natural language",
+        "Computer science",
+        "Cultural diversity",
+        "Spatial cognition",
+        "Indigenous",
+        "Geographic information system",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1505889767",
+        "1607017541",
+        "1900895789",
+        "2050212325",
+        "2097961633",
+        "2122716552"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "1601289065",
+    "title": "Subspace Detection: A Robust Statistics Formulation",
+    "venue": "conference on learning theory",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Sanjoy Dasgupta",
+            "id": "2472035779",
+            "org": "UC"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Linear subspace",
+        "Gaussian noise",
+        "Mathematical optimization",
+        "Gaussian",
+        "Principal component analysis",
+        "Artificial intelligence",
+        "Computer science",
+        "Robust statistics",
+        "Subspace topology"
+    ],
+    "references": [
+        "1976986203"
+    ]
+}

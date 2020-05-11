@@ -1,0 +1,46 @@
+{
+    "id": "1589992863",
+    "title": "A novel approach for transparent bandwidth conservation",
+    "venue": "international conference on networking",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "David Salyers",
+            "id": "359427085",
+            "org": "Department of Computer Science and Engineering, University of Notre Dame, Notre Dame, IN.#TAB#"
+        },
+        {
+            "name": "Aaron Striegel",
+            "id": "360766964",
+            "org": "Department of Computer Science and Engineering, University of Notre Dame, Notre Dame, IN.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Protocol Independent Multicast",
+        "IP multicast",
+        "Computer network",
+        "Multicast",
+        "Xcast",
+        "Inter-domain",
+        "Pragmatic General Multicast",
+        "Computer science",
+        "Source-specific multicast",
+        "Distance Vector Multicast Routing Protocol"
+    ],
+    "references": [
+        "1523599681",
+        "1557142139",
+        "1571218544",
+        "1731982387",
+        "1993865637",
+        "2011831586",
+        "2048654151",
+        "2067338315",
+        "2070370054",
+        "2123732385",
+        "2129292927",
+        "2137847645",
+        "2156639545"
+    ]
+}

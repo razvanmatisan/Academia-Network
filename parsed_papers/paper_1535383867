@@ -1,0 +1,34 @@
+{
+    "id": "1535383867",
+    "title": "Business Models for ASP Marketplaces",
+    "venue": "european conference on information systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Gerrit Tamm",
+            "id": "1928167168",
+            "org": "Institute of Information Systems|Humboldt University"
+        },
+        {
+            "name": "Oliver Guenther",
+            "id": "2252067957",
+            "org": "Institute of Information Systems|Humboldt University"
+        }
+    ],
+    "fields_of_study": [
+        "Marketing",
+        "Computer science",
+        "Information management",
+        "Application service provider",
+        "Revenue",
+        "Application server",
+        "Business model",
+        "Software versioning",
+        "Software",
+        "Product differentiation"
+    ],
+    "references": [
+        "2021638366",
+        "2164218188"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "152725877",
+    "title": "Approximate Solutions in Space Mission Design",
+    "venue": "parallel problem solving from nature",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Oliver Schutze",
+            "id": "83108027",
+            "org": "CINVESTAV-IPN, Computer Science Department, Mexico City, Mexico#TAB#"
+        },
+        {
+            "name": "Massimiliano Vasile",
+            "id": "2061595226",
+            "org": "Department of Aerospace Engineering, University of Glasgow, Glasgow, Scotland#TAB#"
+        },
+        {
+            "name": "Carlos A. Coello Coello",
+            "id": "2040834078",
+            "org": "CINVESTAV-IPN, Computer Science Department, Mexico City, Mexico#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Artificial intelligence",
+        "Computer science",
+        "Machine learning",
+        "Ant colony optimization algorithms",
+        "Artificial life",
+        "Adaptive system",
+        "Pareto principle",
+        "Multi-objective optimization",
+        "Space exploration"
+    ],
+    "references": [
+        "1603470271",
+        "1980272771",
+        "1987812847",
+        "2050552449",
+        "2063375245",
+        "2126105956"
+    ]
+}

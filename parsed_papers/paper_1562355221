@@ -1,0 +1,41 @@
+{
+    "id": "1562355221",
+    "title": "When is Metric Temporal Logic expressively complete",
+    "venue": "computer science logic",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Paul Hunter",
+            "id": "2147423863",
+            "org": "Universite libre de Bruxelles"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Algorithm",
+        "Decidability",
+        "Discrete mathematics",
+        "Many-valued logic",
+        "Description logic",
+        "Mathematics",
+        "Dynamic logic (modal logic)",
+        "Multimodal logic",
+        "Linear temporal logic",
+        "Higher-order logic",
+        "Temporal logic"
+    ],
+    "references": [
+        "187081080",
+        "1521364045",
+        "1592839336",
+        "1608292181",
+        "1885037678",
+        "1912165540",
+        "2026629052",
+        "2030263557",
+        "2048178754",
+        "2140028191",
+        "2500870110",
+        "2512926276"
+    ]
+}

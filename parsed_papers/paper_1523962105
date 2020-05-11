@@ -1,0 +1,30 @@
+{
+    "id": "1523962105",
+    "title": "The Definition of Transitive Closure with OCL: Limitations and Applications",
+    "venue": "international andrei ershov memorial conference on perspectives of system informatics",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Thomas Baar",
+            "id": "2780223020",
+            "org": "Universitat Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "Correctness",
+        "Semantics",
+        "Discrete mathematics",
+        "Object Constraint Language",
+        "Transitive closure",
+        "First-order logic",
+        "Metamodeling",
+        "Class diagram",
+        "Programming language",
+        "Set theory",
+        "Mathematics"
+    ],
+    "references": [
+        "1482193060",
+        "1522310484"
+    ]
+}

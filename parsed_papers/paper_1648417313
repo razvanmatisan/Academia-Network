@@ -1,0 +1,32 @@
+{
+    "id": "1648417313",
+    "title": "A Bayesian Hybrid Method for Context-sensitive Spelling Correction.",
+    "venue": "meeting of the association for computational linguistics",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Andrew R. Golding",
+            "id": "2014251961",
+            "org": "Mitsubishi Electric Research Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Part-of-speech tagging",
+        "Artificial intelligence",
+        "Ambiguity",
+        "Natural language processing",
+        "Machine learning",
+        "Decision list",
+        "Naive Bayes classifier",
+        "Computer science",
+        "Syntax",
+        "Spelling",
+        "Complementarity (molecular biology)",
+        "Bayesian probability",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1632114991",
+        "2016871293"
+    ]
+}

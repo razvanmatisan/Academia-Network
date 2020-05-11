@@ -1,0 +1,33 @@
+{
+    "id": "1595746714",
+    "title": "AdaptAgent : integrated architecture for adaptive workflow and agents.",
+    "venue": "South African Computer Journal",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Nanjangud C. Narendra",
+            "id": "2778836496",
+            "org": "E-Solutions Center|Hewlett-Packard India"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Knowledge management",
+        "Business process",
+        "Event-driven process chain",
+        "Workflow technology",
+        "Workflow engine",
+        "Workflow management system",
+        "Workflow",
+        "Business process management",
+        "Workflow Management Coalition"
+    ],
+    "references": [
+        "1605829780",
+        "1964888231",
+        "1992466477",
+        "2113467413",
+        "2124344619",
+        "2160851181"
+    ]
+}

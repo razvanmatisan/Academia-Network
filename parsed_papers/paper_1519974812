@@ -1,0 +1,44 @@
+{
+    "id": "1519974812",
+    "title": "Bias-Variance Analysis and Ensembles of SVM",
+    "venue": "multiple classifier systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Giorgio Valentini",
+            "id": "2141756282",
+            "org": "Universita di Genova"
+        },
+        {
+            "name": "Thomas G. Dietterich",
+            "id": "160031478",
+            "org": "Oregon State University"
+        }
+    ],
+    "fields_of_study": [
+        "Support vector machine",
+        "Kernel method",
+        "Ensemble learning",
+        "Analysis of variance",
+        "Kernel (linear algebra)",
+        "Machine learning",
+        "Variance decomposition of forecast errors",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1491993603",
+        "1500698297",
+        "1503201211",
+        "1516193414",
+        "1521062204",
+        "1534477342",
+        "1575925575",
+        "1840338487",
+        "2049937414",
+        "2076118331",
+        "2110488825",
+        "2148603752"
+    ]
+}

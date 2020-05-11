@@ -1,0 +1,29 @@
+{
+    "id": "149717523",
+    "title": "A Formal Proof of Pick's Theorem - (Extended Abstract).",
+    "venue": "international congress on mathematical software",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "John Harrison",
+            "id": "2148262072",
+            "org": "Intel Corporation, JF1-13, 2111 NE 25th Avenue, Hillsboro, OR 97124, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Bruck-Ryser-Chowla theorem",
+        "Discrete mathematics",
+        "Pick's theorem",
+        "Analytic proof",
+        "Computer-assisted proof",
+        "Carlson's theorem",
+        "Formal proof",
+        "Mathematics",
+        "Factor theorem",
+        "Proofs of Fermat's little theorem"
+    ],
+    "references": [
+        "1497011154",
+        "1528908721"
+    ]
+}

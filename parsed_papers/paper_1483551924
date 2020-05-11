@@ -1,0 +1,35 @@
+{
+    "id": "1483551924",
+    "title": "Genetic Programming for Feature Detection and Image Segmentation",
+    "venue": "artificial intelligence and the simulation of behaviour",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Riccardo Poli",
+            "id": "2030200780",
+            "org": "The University of Birmingham"
+        }
+    ],
+    "fields_of_study": [
+        "Image segmentation",
+        "Machine learning",
+        "Feature (computer vision)",
+        "Genetic algorithm",
+        "Feature detection (computer vision)",
+        "Genetic programming",
+        "Minimum spanning tree-based segmentation",
+        "Segmentation-based object categorization",
+        "Computer science",
+        "Pattern recognition",
+        "Scale-space segmentation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1517016597",
+        "1564160963",
+        "1576818901",
+        "2021884232",
+        "2108843657",
+        "2165211718"
+    ]
+}

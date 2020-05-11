@@ -1,0 +1,34 @@
+{
+    "id": "1535691285",
+    "title": "Applying Patterns to ITS Architectures",
+    "venue": "intelligent tutoring systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Vladan Devedzic",
+            "id": "1998324464",
+            "org": "University of Belgrade"
+        }
+    ],
+    "fields_of_study": [
+        "Software design pattern",
+        "Systems engineering",
+        "Knowledge management",
+        "Behavioral pattern",
+        "Software development",
+        "Component-based software engineering",
+        "Software design",
+        "Systems architecture",
+        "Simulation",
+        "Intelligent tutoring system",
+        "Computer science",
+        "Pattern language"
+    ],
+    "references": [
+        "99312690",
+        "1483635811",
+        "1496748331",
+        "1606466759",
+        "1608686106"
+    ]
+}

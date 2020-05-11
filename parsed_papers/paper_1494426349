@@ -1,0 +1,47 @@
+{
+    "id": "1494426349",
+    "title": "On decision problems for probabilistic Buchi automata",
+    "venue": "foundations of software science and computation structure",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Christel Baier",
+            "id": "2163680003",
+            "org": "Technische Universitat Dresden, Germany#TAB#"
+        },
+        {
+            "name": "Nathalie Bertrand",
+            "id": "2071381722",
+            "org": "Technische Universitat Dresden, Germany and IRISA, INRIA Rennes, France#TAB#"
+        },
+        {
+            "name": "Marcus Grosser",
+            "id": "2028938857",
+            "org": "Technische Universitat Dresden, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Decision problem",
+        "Decidability",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Markov decision process",
+        "Satisfiability",
+        "Transition system",
+        "Probabilistic logic",
+        "Undecidable problem",
+        "Buchi automaton",
+        "Mathematics"
+    ],
+    "references": [
+        "1523289856",
+        "1659060819",
+        "1851152565",
+        "1972203711",
+        "1977070092",
+        "2031592188",
+        "2091188761",
+        "2092977061",
+        "2165161585"
+    ]
+}

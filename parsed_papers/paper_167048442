@@ -1,0 +1,36 @@
+{
+    "id": "167048442",
+    "title": "Expectation-based vision for self-localization on a legged robot",
+    "venue": "national conference on artificial intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Daniel Stronger",
+            "id": "2058181192",
+            "org": "Department of Computer Sciences, The University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Peter Stone",
+            "id": "2147180669",
+            "org": "Department of Computer Sciences, The University of Texas at Austin#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Object detection",
+        "Kalman filter",
+        "Robot",
+        "Computer science",
+        "AIBO",
+        "Robot control",
+        "Legged robot"
+    ],
+    "references": [
+        "1577509784",
+        "2096600681",
+        "2099189953",
+        "2120605734",
+        "2157290733"
+    ]
+}

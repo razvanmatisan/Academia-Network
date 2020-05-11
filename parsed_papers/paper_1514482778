@@ -1,0 +1,40 @@
+{
+    "id": "1514482778",
+    "title": "Host load prediction for grid computing using free load profiles",
+    "venue": "international conference on algorithms and architectures for parallel processing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Sena Seneviratne",
+            "id": "2139229903",
+            "org": "School of Electrical and Information Engineering, The University of Sydney, Sydney, NSW, Australia#TAB#"
+        },
+        {
+            "name": "David Levy",
+            "id": "2113121939",
+            "org": "School of Electrical and Information Engineering, The University of Sydney, Sydney, NSW, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network Load Balancing Services",
+        "Grid",
+        "Distributed computing",
+        "Grid computing",
+        "Computer science",
+        "Distributed algorithm",
+        "Login",
+        "Load testing",
+        "Load balancing (computing)",
+        "Real-time computing",
+        "Load profile"
+    ],
+    "references": [
+        "1489252188",
+        "1495747516",
+        "1498325940",
+        "1771811734",
+        "2083209848",
+        "2151142272",
+        "2163242245"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1485397129",
+    "title": "The dynamics of computing agent systems",
+    "venue": "international conference on computational science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Maciej Smolka",
+            "id": "2112721418",
+            "org": "Institute of Computer Science, Jagiellonian University, Krakow, Poland#TAB#"
+        },
+        {
+            "name": "Piotr Uhruski",
+            "id": "2081630346",
+            "org": "Institute of Computer Science, Jagiellonian University, Krakow, Poland#TAB#"
+        },
+        {
+            "name": "Robert Schaefer",
+            "id": "2128455242",
+            "org": "Institute of Computer Science, Jagiellonian University, Krakow, Poland#TAB#"
+        },
+        {
+            "name": "Marek Grochowski",
+            "id": "2663634947",
+            "org": "Institute of Computer Science, Jagiellonian University, Krakow, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computation",
+        "Formal specification",
+        "Job shop scheduling",
+        "Scheduling (computing)",
+        "System dynamics",
+        "Parallel algorithm",
+        "Dynamical system",
+        "Distributed computing",
+        "Computer science",
+        "Multi-agent system"
+    ],
+    "references": [
+        "61022392",
+        "1481453903",
+        "1519229222",
+        "2101476026",
+        "2112966019",
+        "2114069170",
+        "2130120698"
+    ]
+}

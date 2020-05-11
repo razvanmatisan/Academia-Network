@@ -1,0 +1,40 @@
+{
+    "id": "1564105900",
+    "title": "On some complexity issues of NC analytic functions",
+    "venue": "theory and applications of models of computation",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Fuxiang Yu",
+            "id": "2716332450",
+            "org": "Department of Computer Science, State University of New York at Stony Brook, Stony Brook, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Jordan curve theorem",
+        "Discrete mathematics",
+        "Real-valued function",
+        "Global analytic function",
+        "Computable function",
+        "Computable analysis",
+        "Complexity class",
+        "Computable real function",
+        "Analytic function",
+        "Mathematics"
+    ],
+    "references": [
+        "1530287661",
+        "1558483132",
+        "1974938461",
+        "1975269884",
+        "1984509356",
+        "2021573332",
+        "2022212237",
+        "2047754121",
+        "2060219436",
+        "2125463200",
+        "2161829873",
+        "2169964586"
+    ]
+}

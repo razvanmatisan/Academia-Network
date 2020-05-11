@@ -1,0 +1,30 @@
+{
+    "id": "1553882010",
+    "title": "Accretion Representation for Scrutable Student Modeling",
+    "venue": "intelligent tutoring systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Judy Kay",
+            "id": "2130800239",
+            "org": "University of Sydney"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Inference",
+        "Belief revision",
+        "Machine learning",
+        "Computer science",
+        "Coaching",
+        "Intelligent tutoring system",
+        "Accretion (meteorology)",
+        "User modeling",
+        "Resolver"
+    ],
+    "references": [
+        "12622960",
+        "1994124005",
+        "2012224841"
+    ]
+}

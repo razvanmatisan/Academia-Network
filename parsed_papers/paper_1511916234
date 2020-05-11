@@ -1,0 +1,39 @@
+{
+    "id": "1511916234",
+    "title": "Elimination with a Motive",
+    "venue": "types for proofs and programs",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Conor McBride",
+            "id": "2097263646",
+            "org": "University of Durham"
+        }
+    ],
+    "fields_of_study": [
+        "Exploit",
+        "Algorithm",
+        "Dependency graph",
+        "Type theory",
+        "Parametric statistics",
+        "Discrete mathematics",
+        "Motif (music)",
+        "Automated theorem proving",
+        "Dependent type",
+        "Mathematics"
+    ],
+    "references": [
+        "1481180394",
+        "1520395147",
+        "1554538776",
+        "1581378641",
+        "2050702141",
+        "2075352622",
+        "2081019971",
+        "2100738443",
+        "2101274322",
+        "2111690589",
+        "2114980032",
+        "2117477507"
+    ]
+}

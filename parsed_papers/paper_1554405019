@@ -1,0 +1,32 @@
+{
+    "id": "1554405019",
+    "title": "Conceptual set covering: improving fit-and-split algorithms",
+    "venue": "international conference on machine learning",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Carl M. Kadie",
+            "id": "297969600",
+            "org": "Knowledge-Based Systems Group, Department of Computer Science & Beckman Institute, University of Illinois, Urbana, IL 61801"
+        }
+    ],
+    "fields_of_study": [
+        "Set cover problem",
+        "Machine learning",
+        "Assignment problem",
+        "Artificial intelligence",
+        "Weapon target assignment problem",
+        "Algorithm",
+        "Generalized assignment problem",
+        "Extant taxon",
+        "Computer science"
+    ],
+    "references": [
+        "87957625",
+        "175299670",
+        "1488511344",
+        "2033361580",
+        "2076242896",
+        "2149706766"
+    ]
+}

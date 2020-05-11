@@ -1,0 +1,45 @@
+{
+    "id": "1683527647",
+    "title": "On the Design of Parallel Programs for Machines with Distributed Memory",
+    "venue": "distributed memory computing conference",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Dominik Gomm",
+            "id": "1970122902",
+            "org": "Technische Universitat Munchen"
+        },
+        {
+            "name": "Michael Heckner",
+            "id": "2565221498",
+            "org": "Technische Universitat Munchen"
+        },
+        {
+            "name": "Klaus-Jorn Lange",
+            "id": "2248806885",
+            "org": "Technische Universitat Munchen"
+        },
+        {
+            "name": "Gerhard Riedle",
+            "id": "2563651975",
+            "org": "Technische Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Flat memory model",
+        "Distributed shared memory",
+        "CUDA Pinned memory",
+        "Concurrency",
+        "Overlay",
+        "Distributed computing",
+        "Supercomputer architecture",
+        "Distributed memory",
+        "Uniform memory access",
+        "Computer science"
+    ],
+    "references": [
+        "1540833278",
+        "2017205387",
+        "2045271686"
+    ]
+}

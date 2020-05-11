@@ -1,0 +1,26 @@
+{
+    "id": "1516914283",
+    "title": "An introduction to finite automata on infinite words",
+    "venue": "Automata on Infinite Words, Ecole de Printemps d'Informatique Theorique,",
+    "year": 1984,
+    "authors": [
+        {
+            "name": "Dominique Perrin",
+            "id": "2166227812",
+            "org": "Universite Paris 7"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Deterministic finite automaton",
+        "Finite-state machine",
+        "Nested word",
+        "o-automaton",
+        "Quantum finite automata",
+        "Nondeterministic finite automaton",
+        "Deterministic automaton",
+        "Mathematics",
+        "Automata theory"
+    ],
+    "references": []
+}

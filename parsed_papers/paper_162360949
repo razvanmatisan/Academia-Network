@@ -1,0 +1,42 @@
+{
+    "id": "162360949",
+    "title": "Extracting role hierarchies from authentication data flows.",
+    "venue": "Computer Systems: Science & Engineering",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Paolo Ceravolo",
+            "id": "1661797895",
+            "org": "University of Milan"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Computation",
+        "Database",
+        "Web application",
+        "Ontology",
+        "XML",
+        "Authentication",
+        "Data mining",
+        "Ontology engineering",
+        "Access control",
+        "Data flow diagram"
+    ],
+    "references": [
+        "22683294",
+        "75234989",
+        "1483502378",
+        "1493852485",
+        "1537119792",
+        "1972118060",
+        "2075693023",
+        "2111354519",
+        "2126359798",
+        "2126652054",
+        "2136593687",
+        "2153301229",
+        "2160873337",
+        "2166612637"
+    ]
+}

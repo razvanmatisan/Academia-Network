@@ -1,0 +1,38 @@
+{
+    "id": "1741217179",
+    "title": "Visual Attention Control by Sensor Space Segmentation for a Small Quadruped Robot Based on Information Criterion",
+    "venue": "robot soccer world cup",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Noriaki Mitsunaga",
+            "id": "91928462",
+            "org": "Osaka University"
+        },
+        {
+            "name": "Minoru Asada",
+            "id": "2079479084",
+            "org": "Osaka University"
+        }
+    ],
+    "fields_of_study": [
+        "Simulation",
+        "Computer science",
+        "Computer vision",
+        "Visual control",
+        "Data visualization",
+        "Robot",
+        "Mobile robot",
+        "Reinforcement learning",
+        "Action selection",
+        "Visual servoing",
+        "Legged robot",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "145683767",
+        "1898758362",
+        "1971676589",
+        "2136557331"
+    ]
+}

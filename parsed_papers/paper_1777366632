@@ -1,0 +1,39 @@
+{
+    "id": "1777366632",
+    "title": "Tractable multi-agent path planning on grid maps",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Ko-Hsin Cindy Wang",
+            "id": "2133294834",
+            "org": "NICTA and The Australian National University#TAB#"
+        },
+        {
+            "name": "Adi Botea",
+            "id": "2167848484",
+            "org": "NICTA and The Australian National University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Grid",
+        "Motion planning",
+        "Artificial intelligence",
+        "Machine learning",
+        "Completeness (statistics)",
+        "Branching factor",
+        "Mathematical optimization",
+        "Upper and lower bounds",
+        "Computer science",
+        "Grid reference"
+    ],
+    "references": [
+        "177987302",
+        "1530765895",
+        "1969483458",
+        "2135939055",
+        "2137651302",
+        "2166462345"
+    ]
+}

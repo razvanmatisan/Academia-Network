@@ -1,0 +1,44 @@
+{
+    "id": "1806113552",
+    "title": "Improved and Optimized Partitioning Techniques in Database Query Processing",
+    "venue": "british national conference on databases",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Kjell Bratbergsengen",
+            "id": "7690612",
+            "org": "Norwegian University of Science and Technology"
+        },
+        {
+            "name": "Kjetil Norvag",
+            "id": "202808005",
+            "org": "Norwegian University of Science and Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Data mining",
+        "Working range",
+        "Relational algebra",
+        "Information system",
+        "Operand",
+        "Block size",
+        "Distributed computing",
+        "Hash function",
+        "Theoretical computer science",
+        "Relation algebra",
+        "Computer science"
+    ],
+    "references": [
+        "1484813121",
+        "1497748148",
+        "1540926161",
+        "1545837354",
+        "1605782097",
+        "1992113803",
+        "2007030756",
+        "2043934800",
+        "2158237121",
+        "2169486917"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "1487573128",
+    "title": "Effects of Interaction Topology and Activation Regime in Several Multi-Agent Systems",
+    "venue": "multi agent systems and agent based simulation",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Robert L. Axtell",
+            "id": "2132403983",
+            "org": "The Brookings Institution"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Simulation",
+        "Lattice (order)",
+        "Random graph",
+        "Economic model",
+        "Regular graph",
+        "Limiting",
+        "Social network",
+        "Multi-agent system"
+    ],
+    "references": [
+        "2098399738"
+    ]
+}

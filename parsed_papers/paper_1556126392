@@ -1,0 +1,55 @@
+{
+    "id": "1556126392",
+    "title": "Verifiable secret sharing based on the Chinese remainder theorem",
+    "venue": "Security and Communication Networks",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Lein Harn",
+            "id": "724618227",
+            "org": "Department of Computer Science and Electrical Engineering, University of Missouri, Kansas City, MO, U.S.A.#TAB#"
+        },
+        {
+            "name": "Miao Fuyou",
+            "id": "286593368",
+            "org": "School of Computer Science and Technology, University of Science & Technology of China, China#TAB#"
+        },
+        {
+            "name": "Chin-Chen Chang",
+            "id": "2101549130",
+            "org": "Feng Chia University Department of Information Engineering and Computer Science Taichung Taiwan"
+        },
+        {
+            "name": "Chin-Chen Chang",
+            "id": "2101549130",
+            "org": "Feng Chia University Department of Information Engineering and Computer Science Taichung Taiwan"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Verifiable secret sharing",
+        "Computer security",
+        "Chinese remainder theorem",
+        "Secrecy",
+        "Shamir's Secret Sharing",
+        "Homomorphic secret sharing",
+        "Shared secret",
+        "Secure multi-party computation",
+        "Secret sharing"
+    ],
+    "references": [
+        "194315852",
+        "206566878",
+        "1484820633",
+        "1490335752",
+        "1496801598",
+        "1557783852",
+        "1885156594",
+        "1996360405",
+        "1997649474",
+        "2130738225",
+        "2133062571",
+        "2141420453",
+        "2168970529"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1551587226",
+    "title": "Q-Coverage Problem in Wireless Sensor Networks",
+    "venue": "international conference of distributed computing and networking",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Manju Chaudhary",
+            "id": "2282675106",
+            "org": "LNM Institute of Information Technology, Jaipur, Jaipur, India 303012#TAB#"
+        },
+        {
+            "name": "Arun K. Pujari",
+            "id": "2811356528",
+            "org": "LNM Institute of Information Technology, Jaipur, Jaipur, India 303012 and Artificial Intelligence Lab, University of Hyderabad, Hyderabad, India 500 046#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Wireless sensor network",
+        "Greedy algorithm",
+        "Heuristic",
+        "Distributed computing",
+        "Mathematical optimization",
+        "Quality of service",
+        "Residual",
+        "Computer science",
+        "Brooks-Iyengar algorithm",
+        "Real-time computing",
+        "Integer",
+        "Key distribution in wireless sensor networks"
+    ],
+    "references": [
+        "1998230089",
+        "2056746269",
+        "2163807729",
+        "2165883859",
+        "2167910416",
+        "2640035517"
+    ]
+}

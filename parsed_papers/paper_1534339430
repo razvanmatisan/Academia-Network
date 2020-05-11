@@ -1,0 +1,35 @@
+{
+    "id": "1534339430",
+    "title": "Full abstraction for functional languages with control",
+    "venue": "logic in computer science",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "James Laird",
+            "id": "2109752660",
+            "org": "Dept. of Comput. Sci., Edinburgh Univ., UK"
+        }
+    ],
+    "fields_of_study": [
+        "Game semantics",
+        "Discrete mathematics",
+        "Functional programming",
+        "Bracketing",
+        "Formal language",
+        "Abstract family of languages",
+        "Morphism",
+        "Modular design",
+        "Operator (computer programming)",
+        "Computer science"
+    ],
+    "references": [
+        "1553206107",
+        "1597533630",
+        "1988097129",
+        "2007270285",
+        "2012319728",
+        "2054299141",
+        "2071289523",
+        "2165446401"
+    ]
+}

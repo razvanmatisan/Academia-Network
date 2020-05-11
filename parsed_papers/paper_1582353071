@@ -1,0 +1,48 @@
+{
+    "id": "1582353071",
+    "title": "Learnability in rough set approaches",
+    "venue": "RSCTC'10 Proceedings of the 7th international conference on Rough sets and current trends in computing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jerzy Blaszczynski",
+            "id": "2056413487",
+            "org": "Institute of Computing Science, Poznan University of Technology, Poznan, Poland#TAB#"
+        },
+        {
+            "name": "Roman Slowinski",
+            "id": "2134359788",
+            "org": "Institute of Computing Science, Poznan University of Technology, Poznan, Poland and Institute for Systems Research, Polish Academy of Sciences, Warsaw, Poland#TAB#"
+        },
+        {
+            "name": "Marcin Szelag",
+            "id": "2017471046",
+            "org": "Institute of Computing Science, Poznan University of Technology, Poznan, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data structure",
+        "Learnability",
+        "Classifier (linguistics)",
+        "Data set",
+        "Decision table",
+        "Computer experiment",
+        "Machine learning",
+        "Random subspace method",
+        "Rough set",
+        "Mathematics",
+        "Pattern recognition",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1587427319",
+        "1720941897",
+        "1778634229",
+        "2039045151",
+        "2044876976",
+        "2052719321",
+        "2101285186",
+        "2136593597",
+        "2340020088"
+    ]
+}

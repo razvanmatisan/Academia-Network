@@ -1,0 +1,37 @@
+{
+    "id": "1555354465",
+    "title": "An Optimization Algorithm Based on Active and Instance-Based Learning",
+    "venue": "mexican international conference on artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Olac Fuentes",
+            "id": "2426151402",
+            "org": "Instituto Nacional de Astrofisica, Optica y Electronica"
+        },
+        {
+            "name": "Thamar Solorio",
+            "id": "143758417",
+            "org": "Instituto Nacional de Astrofisica, Optica y Electronica"
+        }
+    ],
+    "fields_of_study": [
+        "Instance-based learning",
+        "Extreme point",
+        "Machine learning",
+        "Artificial intelligence",
+        "Active learning",
+        "Optical engineering",
+        "White noise",
+        "Algorithm",
+        "Pattern recognition",
+        "Local regression",
+        "Computer science"
+    ],
+    "references": [
+        "123765585",
+        "1560399833",
+        "1639032689",
+        "1689445748"
+    ]
+}

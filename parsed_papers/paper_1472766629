@@ -1,0 +1,38 @@
+{
+    "id": "1472766629",
+    "title": "CTC2 and Fast Algebraic Attacks on Block Ciphers Revisited.",
+    "venue": "UNSPECIFIED (2007)",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Nicolas T. Courtois",
+            "id": "342533692",
+            "org": "University College London"
+        }
+    ],
+    "fields_of_study": [
+        "Key size",
+        "Block cipher",
+        "Block size",
+        "Theoretical computer science",
+        "World Wide Web",
+        "Algebraic number",
+        "Small number",
+        "Linear cryptanalysis",
+        "Cipher",
+        "Compromise",
+        "Computer science"
+    ],
+    "references": [
+        "165268098",
+        "1475025077",
+        "1495150777",
+        "1503267625",
+        "1542020576",
+        "1573095851",
+        "1583871653",
+        "1870923733",
+        "2124509406",
+        "2128968394"
+    ]
+}

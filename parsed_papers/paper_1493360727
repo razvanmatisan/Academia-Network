@@ -1,0 +1,43 @@
+{
+    "id": "1493360727",
+    "title": "Applying Machine Learning Techniques to Rule Generation in Intelligent Tutoring Systems",
+    "venue": "intelligent tutoring systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Matthew P. Jarvis",
+            "id": "2498887201",
+            "org": "Worcester Polytechnic Institute"
+        },
+        {
+            "name": "Goss Nuzzo-Jones",
+            "id": "1987990959",
+            "org": "Worcester Polytechnic Institute"
+        },
+        {
+            "name": "Neil T. Heffernan",
+            "id": "542498001",
+            "org": "Worcester Polytechnic Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Domain knowledge",
+        "Expert system",
+        "Authoring system",
+        "Computer science",
+        "Small number",
+        "Inductive logic programming",
+        "Programming by demonstration",
+        "Intelligent tutoring system",
+        "Knowledge modeling"
+    ],
+    "references": [
+        "1531743498",
+        "1537900672",
+        "1576466941",
+        "2110415190",
+        "2119831128"
+    ]
+}

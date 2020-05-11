@@ -1,0 +1,35 @@
+{
+    "id": "177474820",
+    "title": "TAC 2008 Update Summarization Task of ICL.",
+    "venue": "Theory and Applications of Categories",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Su jian Li",
+            "id": "2893386379",
+            "org": "Peking University"
+        },
+        {
+            "name": "Wei Wang",
+            "id": "2894381693",
+            "org": "Inst . of Computational Linguistics|Peking University"
+        },
+        {
+            "name": "Chen Wang",
+            "id": "2721745026",
+            "org": "Inst . of Computational Linguistics|Peking University"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Automatic summarization",
+        "Information retrieval",
+        "Multi-document summarization",
+        "Computer science",
+        "Filter (signal processing)"
+    ],
+    "references": [
+        "1561908597",
+        "2128672521"
+    ]
+}

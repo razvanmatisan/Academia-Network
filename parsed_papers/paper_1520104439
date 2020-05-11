@@ -1,0 +1,45 @@
+{
+    "id": "1520104439",
+    "title": "A novel hybrid forecast model with weighted forecast combination with application to daily rainfall forecast of Fukuoka city",
+    "venue": "asian conference on intelligent information and database systems",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Sirajum Monira Sumi",
+            "id": "2554041498",
+            "org": "Kyushu Institute of Technology, Fukuoka, Japan#TAB#"
+        },
+        {
+            "name": "Md. Faisal Zaman",
+            "id": "2462648993",
+            "org": "Kyushu Institute of Technology, Fukuoka, Japan#TAB#"
+        },
+        {
+            "name": "Hideo Hirose",
+            "id": "2154699960",
+            "org": "Kyushu Institute of Technology, Fukuoka, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multivariate adaptive regression splines",
+        "Multivariate statistics",
+        "Machine learning",
+        "Statistics",
+        "Gaussian process",
+        "Autocorrelation",
+        "Feature selection",
+        "Stepwise regression",
+        "Artificial intelligence",
+        "Linear regression",
+        "Computer science",
+        "Partial least squares regression"
+    ],
+    "references": [
+        "1543454375",
+        "1746819321",
+        "2018519044",
+        "2024880569",
+        "2055336003",
+        "2135570582"
+    ]
+}

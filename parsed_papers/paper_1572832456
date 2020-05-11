@@ -1,0 +1,28 @@
+{
+    "id": "1572832456",
+    "title": "e-Government in the European Commission",
+    "venue": "electronic government",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Erich Schweighofer",
+            "id": "315019404",
+            "org": "University of Vienna"
+        }
+    ],
+    "fields_of_study": [
+        "Electronic signature",
+        "Commission",
+        "Knowledge management",
+        "Information and Communications Technology",
+        "Information technology management",
+        "Database transaction",
+        "E-Government",
+        "Computer science",
+        "Document management system",
+        "Information technology"
+    ],
+    "references": [
+        "1526552016"
+    ]
+}

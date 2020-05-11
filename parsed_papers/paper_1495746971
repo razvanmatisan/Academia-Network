@@ -1,0 +1,30 @@
+{
+    "id": "1495746971",
+    "title": "A Privacy Awareness System for Ubiquitous Computing Environments",
+    "venue": "ubiquitous computing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Marc Langheinrich",
+            "id": "729715730",
+            "org": "ETH Zurich"
+        }
+    ],
+    "fields_of_study": [
+        "Personally identifiable information",
+        "Information protection policy",
+        "Privacy software",
+        "Privacy by Design",
+        "Information privacy",
+        "Ubiquitous computing",
+        "Computer security",
+        "Context-aware pervasive systems",
+        "Internet privacy",
+        "Privacy policy",
+        "Computer science"
+    ],
+    "references": [
+        "2031507048",
+        "2113738519"
+    ]
+}

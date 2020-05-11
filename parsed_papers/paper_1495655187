@@ -1,0 +1,35 @@
+{
+    "id": "1495655187",
+    "title": "Action of Modular Correspondences around CM Points",
+    "venue": "algorithmic number theory symposium",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jean-Marc Couveignes",
+            "id": "1032039832",
+            "org": "Universite de Toulouse II"
+        },
+        {
+            "name": "Thierry Henocq",
+            "id": "172629199",
+            "org": "Universite de Toulouse II"
+        }
+    ],
+    "fields_of_study": [
+        "Elliptic curve",
+        "Modular lambda function",
+        "Supersingular elliptic curve",
+        "Modular elliptic curve",
+        "Mathematical analysis",
+        "Elliptic curve point multiplication",
+        "Modular form",
+        "Modular curve",
+        "Topology",
+        "Mathematics",
+        "Classical modular curve"
+    ],
+    "references": [
+        "137840954",
+        "2156382452"
+    ]
+}

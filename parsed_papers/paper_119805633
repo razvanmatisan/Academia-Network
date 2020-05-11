@@ -1,0 +1,29 @@
+{
+    "id": "119805633",
+    "title": "On Color Edge Detection.",
+    "venue": "PICS",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Reiner Lenz",
+            "id": "2130507192",
+            "org": "Linkoping University"
+        }
+    ],
+    "fields_of_study": [
+        "Canny edge detector",
+        "Heat equation",
+        "Differential equation",
+        "Hue",
+        "Optics",
+        "Hyperbolic coordinates",
+        "Color space",
+        "Edge detection",
+        "Physics",
+        "Scale space"
+    ],
+    "references": [
+        "1604713470",
+        "2147469781"
+    ]
+}

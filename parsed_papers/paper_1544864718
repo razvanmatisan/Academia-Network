@@ -1,0 +1,41 @@
+{
+    "id": "1544864718",
+    "title": "Estimation of 2D displacement field based on affine geometric invariance and scene constraints",
+    "venue": "International Journal of Computer Vision",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jianchao Yao",
+            "id": "2310770113",
+            "org": "Signal Processing Laboratory, DSO National Laboratories, Singapore#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Non-linear least squares",
+        "Total least squares",
+        "Affine coordinate system",
+        "Affine transformation",
+        "Mathematical optimization",
+        "Affine shape adaptation",
+        "Least squares",
+        "Affine combination",
+        "Displacement field",
+        "Mathematics"
+    ],
+    "references": [
+        "1540376690",
+        "1575387439",
+        "1578285471",
+        "1595070607",
+        "1602748186",
+        "2015672003",
+        "2031555400",
+        "2118877769",
+        "2131874588",
+        "2138342552",
+        "2146203184",
+        "2152564378",
+        "2155986238",
+        "2165584048"
+    ]
+}

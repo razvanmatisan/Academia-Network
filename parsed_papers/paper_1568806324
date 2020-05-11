@@ -1,0 +1,47 @@
+{
+    "id": "1568806324",
+    "title": "Efficiently Clustering Documents with Committees",
+    "venue": "pacific rim international conference on artificial intelligence",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Patrick Pantel",
+            "id": "2250462127",
+            "org": "University of Alberta"
+        },
+        {
+            "name": "Dekang Lin",
+            "id": "2121846507",
+            "org": "University of Alberta"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Fuzzy clustering",
+        "Pattern recognition",
+        "Cluster analysis",
+        "Machine learning",
+        "Computer science",
+        "FLAME clustering",
+        "CURE data clustering algorithm",
+        "Correlation clustering",
+        "Data mining",
+        "Single-linkage clustering",
+        "Canopy clustering algorithm",
+        "Brown clustering"
+    ],
+    "references": [
+        "1558962159",
+        "1593045043",
+        "1620204465",
+        "1956559956",
+        "1992419399",
+        "1996764654",
+        "2066667100",
+        "2074449313",
+        "2099581008",
+        "2115657355",
+        "2141585940",
+        "2159637323"
+    ]
+}

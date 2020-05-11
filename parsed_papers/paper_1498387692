@@ -1,0 +1,44 @@
+{
+    "id": "1498387692",
+    "title": "Frontal Face Recognition from Video",
+    "venue": "international symposium on visual computing",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Angshul Majumdar",
+            "id": "2283832101",
+            "org": "Department of Electrical and Computer Engineering, University of British Columbia,#TAB#"
+        },
+        {
+            "name": "Panos Nasiopoulos",
+            "id": "2293203089",
+            "org": "Department of Electrical and Computer Engineering, University of British Columbia,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "3D single-object recognition",
+        "Computer science",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Feature (machine learning)",
+        "Support vector machine",
+        "Computer vision",
+        "Curvelet",
+        "Three-dimensional face recognition",
+        "Feature extraction",
+        "Video tracking",
+        "Facial recognition system"
+    ],
+    "references": [
+        "165039665",
+        "1482301053",
+        "1977664993",
+        "2028339207",
+        "2118135289",
+        "2141425367",
+        "2143857284",
+        "2144902422",
+        "2147914670",
+        "2164598857"
+    ]
+}

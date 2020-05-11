@@ -1,0 +1,42 @@
+{
+    "id": "1749325123",
+    "title": "Mobile Robot Control Based on Boolean Logic with Internal Memory",
+    "venue": "european conference on artificial life",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "DaeEun Kim",
+            "id": "2892789813",
+            "org": "The University of Edinburgh"
+        },
+        {
+            "name": "John Hallam",
+            "id": "2223611434",
+            "org": "The University of Edinburgh"
+        }
+    ],
+    "fields_of_study": [
+        "Boolean algebra",
+        "Evolutionary algorithm",
+        "Artificial intelligence",
+        "Evolutionary computation",
+        "Machine learning",
+        "Mobile robot",
+        "Logic Control",
+        "Finite-state machine",
+        "Stateless protocol",
+        "Obstacle avoidance",
+        "Computer science"
+    ],
+    "references": [
+        "1584640519",
+        "1639032689",
+        "1996833561",
+        "1999128321",
+        "2053024278",
+        "2097856935",
+        "2135974808",
+        "2145916090",
+        "2149054115"
+    ]
+}

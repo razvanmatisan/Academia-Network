@@ -1,0 +1,41 @@
+{
+    "id": "1598084377",
+    "title": "Hide & Crypt: Protecting Privacy in Proximity-Based Services",
+    "venue": "symposium on large spatial databases",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Dario Freni",
+            "id": "2093531430",
+            "org": "DICo, Universita di Milano,#TAB#"
+        },
+        {
+            "name": "Sergio Mascetti",
+            "id": "40711886",
+            "org": "DICo, Universita di Milano,#TAB#"
+        },
+        {
+            "name": "Claudio Bettini",
+            "id": "1152366434",
+            "org": "DICo, Universita di Milano,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile device",
+        "Location-based service",
+        "Service level requirement",
+        "Service provider",
+        "Service delivery framework",
+        "Private information retrieval",
+        "Application server",
+        "Computer security",
+        "Crypt",
+        "Internet privacy",
+        "Computer science"
+    ],
+    "references": [
+        "1583821184",
+        "1588969459",
+        "2113672679"
+    ]
+}

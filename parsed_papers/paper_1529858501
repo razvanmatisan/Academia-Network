@@ -1,0 +1,42 @@
+{
+    "id": "1529858501",
+    "title": "Gathering experience in trust-based interactions",
+    "venue": "international conference on trust management",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Colin English",
+            "id": "2115398250",
+            "org": "Department of Computer and Information Sciences, University of Strathclyde#TAB#"
+        },
+        {
+            "name": "Sotirios Terzis",
+            "id": "34974055",
+            "org": "Department of Computer and Information Sciences, University of Strathclyde#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "File server",
+        "Management science",
+        "Intrusion detection system",
+        "Reputation",
+        "Reputation system",
+        "Decision support system",
+        "Distributed computing",
+        "Interaction model",
+        "Architecture",
+        "Simulation",
+        "Evidence-based practice",
+        "Computer science"
+    ],
+    "references": [
+        "4295971",
+        "1480683228",
+        "1485855036",
+        "2041568009",
+        "2121103719",
+        "2140393476",
+        "2159761160",
+        "2407409432"
+    ]
+}

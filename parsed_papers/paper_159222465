@@ -1,0 +1,38 @@
+{
+    "id": "159222465",
+    "title": "A New Approach for Scientific Citation Classification Using Cue Phrases",
+    "venue": "australasian joint conference on artificial intelligence",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Son Bao Pham",
+            "id": "2041418121",
+            "org": "University of New South Wales"
+        },
+        {
+            "name": "Achim G. Hoffmann",
+            "id": "2121065413",
+            "org": "University of New South Wales"
+        }
+    ],
+    "fields_of_study": [
+        "Phrase",
+        "Knowledge base",
+        "Natural language processing",
+        "Knowledge engineering",
+        "Expert system",
+        "Rule-based system",
+        "Classifier (linguistics)",
+        "Ripple-down rules",
+        "Knowledge acquisition",
+        "Distributed computing",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1559838295",
+        "2149399041",
+        "2154498027",
+        "2166347079"
+    ]
+}

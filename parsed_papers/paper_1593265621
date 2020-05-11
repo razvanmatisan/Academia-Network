@@ -1,0 +1,50 @@
+{
+    "id": "1593265621",
+    "title": "SVM based regression schemes for instruments fault accommodation in automotive systems",
+    "venue": "international conference on image analysis and processing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Domenico Capriglione",
+            "id": "90657312",
+            "org": "Dipartimento di Automazione, Elettromagnetismo, Ingegneria dell'Informazione e Matematica Industriale, Universita degli Studi di Cassino, Cassino, (FR), Italy#TAB#"
+        },
+        {
+            "name": "Claudio Marrocco",
+            "id": "2000463690",
+            "org": "Dipartimento di Automazione, Elettromagnetismo, Ingegneria dell'Informazione e Matematica Industriale, Universita degli Studi di Cassino, Cassino, (FR), Italy#TAB#"
+        },
+        {
+            "name": "Mario Molinara",
+            "id": "418359043",
+            "org": "Dipartimento di Automazione, Elettromagnetismo, Ingegneria dell'Informazione e Matematica Industriale, Universita degli Studi di Cassino, Cassino, (FR), Italy#TAB#"
+        },
+        {
+            "name": "Francesco Tortorella",
+            "id": "2049957563",
+            "org": "Dipartimento di Automazione, Elettromagnetismo, Ingegneria dell'Informazione e Matematica Industriale, Universita degli Studi di Cassino, Cassino, (FR), Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Accommodation",
+        "Artificial intelligence",
+        "Support vector machine",
+        "Machine learning",
+        "Artificial neural network",
+        "Simulation",
+        "Computer science",
+        "Pattern recognition",
+        "Mean absolute error",
+        "Software",
+        "Automotive industry"
+    ],
+    "references": [
+        "1548139318",
+        "1964357740",
+        "2118395565",
+        "2123708925",
+        "2137533063",
+        "2153635508",
+        "2162673254"
+    ]
+}

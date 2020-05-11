@@ -1,0 +1,30 @@
+{
+    "id": "1519928440",
+    "title": "Neural Network for Modeling Esthetic Selection",
+    "venue": "international conference on neural information processing",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Tamas Gedeon",
+            "id": "2052936527",
+            "org": "Department of Computer Science, Australian National University, Acton, Australia ACT 0200#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Judgement",
+        "Machine learning",
+        "Interactive art",
+        "Communications protocol",
+        "Wireless sensor network",
+        "Incremental learning",
+        "Artificial neural network",
+        "Mondrian",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Backpropagation",
+        "Computer science"
+    ],
+    "references": [
+        "2040296072"
+    ]
+}

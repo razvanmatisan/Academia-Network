@@ -1,0 +1,46 @@
+{
+    "id": "1523831531",
+    "title": "Multi-modal services for web information collection based on multi-agent techniques",
+    "venue": "pacific rim international conference on multi-agents",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Qing He",
+            "id": "2167314737",
+            "org": "The Key Laboratory of Intelligent Information Processing, Department of Intelligence Software, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Xiu-Rong Zhao",
+            "id": "2109471167",
+            "org": "The Key Laboratory of Intelligent Information Processing, Department of Intelligence Software, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Sulan Zhang",
+            "id": "2109104270",
+            "org": "The Key Laboratory of Intelligent Information Processing, Department of Intelligence Software, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Web service",
+        "Web application security",
+        "Web intelligence",
+        "Distributed computing",
+        "Information retrieval",
+        "Web development",
+        "World Wide Web",
+        "Computer science",
+        "Web modeling",
+        "Web analytics",
+        "Web mapping",
+        "WS-Policy"
+    ],
+    "references": [
+        "1509866791",
+        "1613836731",
+        "2007687650",
+        "2029341294",
+        "2066636486",
+        "2079333567",
+        "2124673015"
+    ]
+}

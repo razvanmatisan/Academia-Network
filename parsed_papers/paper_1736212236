@@ -1,0 +1,39 @@
+{
+    "id": "1736212236",
+    "title": "Recognition Algorithm for Diamond-Free Graphs",
+    "venue": "Informatica (lithuanian Academy of Sciences)",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Mihai Talmaciu",
+            "id": "1180444756",
+            "org": "Department of Mathematics and Informatics, University of Bacau, 8 Spiru Haret str., 600114 Bacau, Romania, e-mail: mihaitalmaciu@yahoo.com, elenechita@yahoo.com#TAB#"
+        },
+        {
+            "name": "Elena Nechita",
+            "id": "847267790",
+            "org": "Department of Mathematics and Informatics, University of Bacau, 8 Spiru Haret str., 600114 Bacau, Romania, e-mail: mihaitalmaciu@yahoo.com, elenechita@yahoo.com#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Indifference graph",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Modular decomposition",
+        "Cograph",
+        "Chordal graph",
+        "Algorithm",
+        "Block graph",
+        "1-planar graph",
+        "Clique-sum",
+        "Triangle-free graph",
+        "Mathematics"
+    ],
+    "references": [
+        "2046616287",
+        "2058537654",
+        "2095003929",
+        "2150875823"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1765906049",
+    "title": "Random walk radiosity with generalized absorption probabilities",
+    "venue": "computer graphics international",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Mateu Sbert",
+            "id": "2114517036",
+            "org": "Inst. d'Inf. i Aplicacions, Girona Univ., Ecuador"
+        }
+    ],
+    "fields_of_study": [
+        "Statistics",
+        "Mathematical optimization",
+        "Estimator",
+        "System of linear equations",
+        "Random walk",
+        "Stochastic process",
+        "Path length",
+        "Monte Carlo method",
+        "Heuristics",
+        "Mathematics",
+        "Radiosity (computer graphics)"
+    ],
+    "references": [
+        "1506078792",
+        "1555180826",
+        "1975995398",
+        "2006148052",
+        "2090346540",
+        "2115373434",
+        "2138624212",
+        "2147632348",
+        "2160277153",
+        "2165534734"
+    ]
+}

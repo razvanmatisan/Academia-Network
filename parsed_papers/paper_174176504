@@ -1,0 +1,41 @@
+{
+    "id": "174176504",
+    "title": "Ontology Based Inferences Engine for Veterinary Diagnosis",
+    "venue": "international semantic technology conference",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Diego Guillen",
+            "id": "2124964114",
+            "org": "Pontificia Universidad Catolica del Peru"
+        },
+        {
+            "name": "Jacklin del Rocio Gonzales Maceda",
+            "id": "2274935278",
+            "org": "Pontificia Universidad Catolica del Peru"
+        }
+    ],
+    "fields_of_study": [
+        "Semantic technology",
+        "Medical diagnosis",
+        "Knowledge representation and reasoning",
+        "Veterinary medicine",
+        "Protege",
+        "Ontology",
+        "Ontology (information science)",
+        "Data mining",
+        "Inference engine",
+        "Data science",
+        "Computer science"
+    ],
+    "references": [
+        "1566836402",
+        "2005321422",
+        "2005806577",
+        "2078170874",
+        "2078759647",
+        "2110848783",
+        "2132729089",
+        "2188028491"
+    ]
+}

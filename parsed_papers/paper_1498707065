@@ -1,0 +1,42 @@
+{
+    "id": "1498707065",
+    "title": "Gadgets: Lazy Functional Components for Graphical User Interfaces",
+    "venue": "international symposium on programming language implementation and logic programming",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Rob Noble",
+            "id": "2677474361",
+            "org": "University of York"
+        },
+        {
+            "name": "Colin Runciman",
+            "id": "711150104",
+            "org": "University of York"
+        }
+    ],
+    "fields_of_study": [
+        "Functional programming",
+        "Functional reactive programming",
+        "Window manager",
+        "Message passing",
+        "Concurrency",
+        "Event-driven programming",
+        "Theoretical computer science",
+        "Programming language",
+        "Graphical user interface",
+        "User interface",
+        "Computer science"
+    ],
+    "references": [
+        "1584322803",
+        "1841465840",
+        "1966458383",
+        "2053346612",
+        "2074802267",
+        "2078944436",
+        "2095136535",
+        "2296715995",
+        "2568353413"
+    ]
+}

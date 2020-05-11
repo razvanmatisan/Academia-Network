@@ -1,0 +1,44 @@
+{
+    "id": "1512789879",
+    "title": "Constraint Handling Rules and tabled execution",
+    "venue": "international conference on logic programming",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Tom Schrijvers",
+            "id": "1504167664",
+            "org": "K.U.Leuven"
+        },
+        {
+            "name": "David Scott Warren",
+            "id": "2163362677",
+            "org": "State University of New York at Stony Brook"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Runtime system",
+        "Algorithm",
+        "Porting",
+        "Computer science",
+        "Constraint logic programming",
+        "Constraint satisfaction problem",
+        "Constraint Handling Rules",
+        "Logic programming",
+        "Constraint satisfaction",
+        "Prolog"
+    ],
+    "references": [
+        "1481147975",
+        "1585560305",
+        "1590854684",
+        "1973701399",
+        "2061236588",
+        "2070598037",
+        "2079333278",
+        "2120926795",
+        "2142190086",
+        "2155247860",
+        "2570710533"
+    ]
+}

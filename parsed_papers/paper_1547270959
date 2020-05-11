@@ -1,0 +1,39 @@
+{
+    "id": "1547270959",
+    "title": "On realizing iterated multiplication by small depth threshold circuits",
+    "venue": "symposium on theoretical aspects of computer science",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Matthias Krause",
+            "id": "2046237863",
+            "org": "Universitat Dortmund"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Discrete mathematics",
+        "Boolean function",
+        "Multiplication",
+        "Modulo",
+        "Probabilistic logic",
+        "Upper and lower bounds",
+        "Integer",
+        "Communication complexity",
+        "Iterated function",
+        "Mathematics"
+    ],
+    "references": [
+        "1556442495",
+        "2055350589",
+        "2062929592",
+        "2071732851",
+        "2080210666",
+        "2088543905",
+        "2097575812",
+        "2097886040",
+        "2114527013",
+        "2116794057",
+        "2129774539"
+    ]
+}

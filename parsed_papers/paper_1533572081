@@ -1,0 +1,54 @@
+{
+    "id": "1533572081",
+    "title": "A three level cache-based adaptive chinese language model",
+    "venue": "international joint conference on natural language processing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Junlin Zhang",
+            "id": "2224320647",
+            "org": "Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Le Sun",
+            "id": "2294279913",
+            "org": "Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Weimin Qu",
+            "id": "2235216325",
+            "org": "Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Lin Du",
+            "id": "2673703287",
+            "org": "Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Yufang Sun",
+            "id": "2106325811",
+            "org": "Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache language model",
+        "Universal Networking Language",
+        "Natural language processing",
+        "Cache",
+        "Markov property",
+        "Language identification",
+        "Lexicon",
+        "Machine learning",
+        "Computer science",
+        "Language model",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1501429302",
+        "1665921526",
+        "2072223048",
+        "2110145858",
+        "2113641473",
+        "2127836646"
+    ]
+}

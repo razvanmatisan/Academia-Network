@@ -1,0 +1,47 @@
+{
+    "id": "1583074514",
+    "title": "Reasoning in Data Integration Systems: Why LAV and GAV Are Siblings",
+    "venue": "international syposium on methodologies for intelligent systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Andrea Cali",
+            "id": "2781243587",
+            "org": "Universita di Roma \"La Sapienza\""
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Data mining",
+        "Machine learning",
+        "Information integration",
+        "Satisfiability",
+        "Conjunctive query",
+        "Generalization",
+        "Data integration",
+        "Schema (psychology)",
+        "Data integrity",
+        "Computer science",
+        "Rewriting"
+    ],
+    "references": [
+        "1485924036",
+        "1502040550",
+        "1507471977",
+        "1515520450",
+        "1536398564",
+        "1551808273",
+        "1558832481",
+        "1964202341",
+        "1992673035",
+        "2005032394",
+        "2062796915",
+        "2077518845",
+        "2094394144",
+        "2102729564",
+        "2112965492",
+        "2122917446",
+        "2152191782",
+        "2165491714"
+    ]
+}

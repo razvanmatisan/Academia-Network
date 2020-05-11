@@ -1,0 +1,38 @@
+{
+    "id": "1568004961",
+    "title": "A Generalized Secret Sharing Scheme With Cheater Detection",
+    "venue": "international cryptology conference",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Hung-Yu Lin",
+            "id": "2315581213",
+            "org": "University of Missouri-Kansas City"
+        },
+        {
+            "name": "Lein Harn",
+            "id": "724618227",
+            "org": "University of Missouri-Kansas City"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Cheating",
+        "Verifiable secret sharing",
+        "Homomorphic secret sharing",
+        "Shamir's Secret Sharing",
+        "Proactive secret sharing",
+        "Computer science",
+        "Secure multi-party computation",
+        "Shadow",
+        "Secret sharing"
+    ],
+    "references": [
+        "1557783852",
+        "1591932736",
+        "2018562795",
+        "2064052854",
+        "2099000090",
+        "2141420453"
+    ]
+}

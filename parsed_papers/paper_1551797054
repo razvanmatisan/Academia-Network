@@ -1,0 +1,35 @@
+{
+    "id": "1551797054",
+    "title": "Using the Generative Aspect of Attribute Grammars in a Knowledge Based Way",
+    "venue": "international conference on stochastic algorithms: foundations and applications",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Peter Forbrig",
+            "id": "2653633073",
+            "org": "Universitat Rostock"
+        }
+    ],
+    "fields_of_study": [
+        "Reuse",
+        "Knowledge base",
+        "Generative grammar",
+        "Natural language processing",
+        "Adaptive grammar",
+        "Attribute grammar",
+        "L-attributed grammar",
+        "Rule-based machine translation",
+        "Computer science",
+        "Artificial intelligence",
+        "Context-free grammar"
+    ],
+    "references": [
+        "154829633",
+        "1562070189",
+        "1903910618",
+        "1964071625",
+        "2007033444",
+        "2072500626",
+        "2081281664"
+    ]
+}

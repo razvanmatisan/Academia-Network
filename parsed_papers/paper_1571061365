@@ -1,0 +1,52 @@
+{
+    "id": "1571061365",
+    "title": "Prototype and feature selection by sampling and random mutation hill climbing algorithms",
+    "venue": "international conference on machine learning",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "David B. Skalak",
+            "id": "56345256",
+            "org": "Department of Computer Science, University of Massachusetts, Amherst, MA 01003"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Cluster analysis",
+        "Best bin first",
+        "Feature selection",
+        "Nearest neighbor search",
+        "Nearest-neighbor chain algorithm",
+        "Pattern recognition",
+        "Hill climbing",
+        "Artificial intelligence",
+        "k-nearest neighbors algorithm",
+        "Algorithm",
+        "Monte Carlo method",
+        "Computer science"
+    ],
+    "references": [
+        "23418094",
+        "101142848",
+        "190437827",
+        "205184011",
+        "1483055888",
+        "1527462214",
+        "1533544838",
+        "1539739406",
+        "1553244859",
+        "1592894394",
+        "1619226191",
+        "1994410331",
+        "1995023359",
+        "2023696990",
+        "2053913299",
+        "2057211203",
+        "2063270381",
+        "2089674328",
+        "2098631313",
+        "2107686700",
+        "2125055259",
+        "2132166479"
+    ]
+}

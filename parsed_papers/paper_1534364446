@@ -1,0 +1,45 @@
+{
+    "id": "1534364446",
+    "title": "Learning, Mining, or Modeling? A Case Study from Paleocology",
+    "venue": "discovery science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Heikki Mannila",
+            "id": "310734946",
+            "org": "University of Helsinki"
+        },
+        {
+            "name": "Hannu Toivonen",
+            "id": "2250270171",
+            "org": "University of Helsinki"
+        },
+        {
+            "name": "Atte Korhola",
+            "id": "1995149027",
+            "org": "University of Helsinki"
+        },
+        {
+            "name": "Heikki Olander",
+            "id": "2805356565",
+            "org": "University of Helsinki"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Data mining",
+        "Discovery science",
+        "Data set",
+        "Decision tree",
+        "Artificial intelligence",
+        "k-nearest neighbors algorithm",
+        "Knowledge acquisition",
+        "Bayesian inference",
+        "Statistical model",
+        "Bayesian probability",
+        "Computer science"
+    ],
+    "references": [
+        "1481566577"
+    ]
+}

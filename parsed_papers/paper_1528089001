@@ -1,0 +1,41 @@
+{
+    "id": "1528089001",
+    "title": "Formal safety analysis of a radio-based railroad crossing using deductive cause-consequence analysis (DCCA)",
+    "venue": "european dependable computing conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Frank Ortmeier",
+            "id": "31376790",
+            "org": "Lehrstuhl fur Softwaretechnik und Programmiersprachen, Universitat Augsburg, Augsburg#TAB#"
+        },
+        {
+            "name": "Wolfgang Reif",
+            "id": "2139633246",
+            "org": "Lehrstuhl fur Softwaretechnik und Programmiersprachen, Universitat Augsburg, Augsburg#TAB#"
+        },
+        {
+            "name": "Gerhard Schellhorn",
+            "id": "123694094",
+            "org": "Lehrstuhl fur Softwaretechnik und Programmiersprachen, Universitat Augsburg, Augsburg#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Formal methods",
+        "Mathematical proof",
+        "System safety",
+        "Discrete mathematics",
+        "Reliability engineering",
+        "Life-critical system",
+        "Mathematical model",
+        "Algorithm",
+        "Case-based reasoning",
+        "Failure mode and effects analysis",
+        "Fault tree analysis",
+        "Computer science"
+    ],
+    "references": [
+        "1543835464",
+        "1748251377"
+    ]
+}

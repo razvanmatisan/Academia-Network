@@ -1,0 +1,33 @@
+{
+    "id": "1822167468",
+    "title": "Cut and paste: ambient interaction using annotated cut-outs",
+    "venue": "ambient intelligence",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Geert Vanderhulst",
+            "id": "2309502725",
+            "org": "Alcatel-Lucent Bell Labs, Antwerpen, Belgium#TAB#"
+        },
+        {
+            "name": "Lieven Trappeniers",
+            "id": "2304666962",
+            "org": "Alcatel-Lucent Bell Labs, Antwerpen, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Augmented reality",
+        "Computer vision",
+        "Artificial intelligence",
+        "Multimedia",
+        "Knowledge base",
+        "Computer science",
+        "User interface"
+    ],
+    "references": [
+        "1583244102",
+        "2061266413",
+        "2110764733",
+        "2118322263"
+    ]
+}

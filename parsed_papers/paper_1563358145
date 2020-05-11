@@ -1,0 +1,40 @@
+{
+    "id": "1563358145",
+    "title": "On Replication of Software Transactional Memories",
+    "venue": "international conference on principles of distributed systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Luis E. T. Rodrigues",
+            "id": "2145040617",
+            "org": "INESC-ID/IST, joint work with:, Paolo Romano and Nuno Carvalho, INESC-ID,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Synchronization (computer science)",
+        "Computer science",
+        "Software transactional memory",
+        "Distributed computing",
+        "Real-time computing",
+        "Lock (computer science)",
+        "Parallel computing",
+        "Concurrency control",
+        "Spare part",
+        "Software",
+        "Transactional leadership",
+        "Transactional memory"
+    ],
+    "references": [
+        "1516351775",
+        "1574797275",
+        "1586956242",
+        "1928843336",
+        "1955276477",
+        "2003214215",
+        "2076907329",
+        "2103933790",
+        "2143278699",
+        "2154420584",
+        "2336493677"
+    ]
+}

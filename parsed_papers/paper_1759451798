@@ -1,0 +1,39 @@
+{
+    "id": "1759451798",
+    "title": "A finite semantics of simply-typed lambda terms for infinite runs of automata",
+    "venue": "computer science logic",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Klaus Aehlig",
+            "id": "137675174",
+            "org": "Mathematisches Institut, Ludwig-Maximilians-Universitat Munchen, Munchen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Decidability",
+        "Combinatorics",
+        "Recursion",
+        "o-automaton",
+        "Timed automaton",
+        "Lambda calculus",
+        "Finite-state machine",
+        "Nondeterministic finite automaton",
+        "Buchi automaton",
+        "Mathematics"
+    ],
+    "references": [
+        "1517623691",
+        "1540015096",
+        "1559784852",
+        "1802033981",
+        "1809956864",
+        "1877960822",
+        "2020520119",
+        "2068743712",
+        "2138308600",
+        "2160005349",
+        "2268014521"
+    ]
+}

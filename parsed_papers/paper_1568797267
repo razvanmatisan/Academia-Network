@@ -1,0 +1,36 @@
+{
+    "id": "1568797267",
+    "title": "Information Technology as a Fellow Player in Organizational Learning",
+    "venue": "european conference on information systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Jens Broendsted",
+            "id": "326256261",
+            "org": "Copenhagen Business School"
+        },
+        {
+            "name": "Bente Elkjaer",
+            "id": "309533190",
+            "org": "Copenhagen Business School"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Situated learning",
+        "Community of practice",
+        "Computer science",
+        "Experiential learning",
+        "Information processing",
+        "Educational technology",
+        "Management science",
+        "Facilitator",
+        "Organizational learning",
+        "Learning theory"
+    ],
+    "references": [
+        "1487897302",
+        "1570009831",
+        "2052384053"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1522882423",
+    "title": "Software-Hardware Trade-Offs: Application to A5/1 Cryptanalysis",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Thomas Pornin",
+            "id": "40448541",
+            "org": "Ecole Normale Superieure"
+        },
+        {
+            "name": "Jacques Stern",
+            "id": "2097349350",
+            "org": "Ecole Normale Superieure"
+        }
+    ],
+    "fields_of_study": [
+        "Neural cryptography",
+        "Differential cryptanalysis",
+        "Impossible differential cryptanalysis",
+        "Higher-order differential cryptanalysis",
+        "Theoretical computer science",
+        "Mod n cryptanalysis",
+        "Parallel computing",
+        "Boomerang attack",
+        "Block cipher",
+        "Linear cryptanalysis",
+        "Computer hardware",
+        "Computer science"
+    ],
+    "references": [
+        "1544956979",
+        "1554090281"
+    ]
+}

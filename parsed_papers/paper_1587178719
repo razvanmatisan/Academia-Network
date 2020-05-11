@@ -1,0 +1,46 @@
+{
+    "id": "1587178719",
+    "title": "Empirical evaluation of distributed maximal constraint satisfaction method",
+    "venue": "systems, man and cybernetics",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Masahiko Ando",
+            "id": "2297135392",
+            "org": "Dept. of Electr., Electron. & Information Eng., Kanagawa Univ., Japan"
+        },
+        {
+            "name": "Masato Noto",
+            "id": "2069251066",
+            "org": "Dept. of Electr., Electron. & Information Eng., Kanagawa Univ., Japan"
+        },
+        {
+            "name": "Hisamichi Toyoshima",
+            "id": "2097851757",
+            "org": "Dept. of Electr., Electron. & Information Eng., Kanagawa Univ., Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Complexity of constraint satisfaction",
+        "Constraint satisfaction dual problem",
+        "Machine learning",
+        "Artificial intelligence",
+        "Mathematical optimization",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Backtracking",
+        "Constraint graph",
+        "Constraint learning",
+        "Constraint satisfaction problem",
+        "Constraint satisfaction",
+        "Mathematics"
+    ],
+    "references": [
+        "13289598",
+        "1503263080",
+        "1638204652",
+        "2098727132",
+        "2108068825",
+        "2121766240",
+        "2157740753"
+    ]
+}

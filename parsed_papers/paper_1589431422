@@ -1,0 +1,47 @@
+{
+    "id": "1589431422",
+    "title": "The CrossGrid Performance Analysis Tool for Interactive Grid Applications",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Marian Bubak",
+            "id": "2011313876",
+            "org": "Institute of Computer Science"
+        },
+        {
+            "name": "Wlodzimierz Funika",
+            "id": "333163674",
+            "org": "Institute of Computer Science, Krakow, Poland"
+        },
+        {
+            "name": "Roland Wismuller",
+            "id": "710658356",
+            "org": "Technische Universitat Munchen"
+        },
+        {
+            "name": "Roland Wismuller",
+            "id": "710658356",
+            "org": "Technische Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Computer engineering",
+        "Program analysis",
+        "Grid",
+        "Grid computing",
+        "Distributed computing",
+        "Simulation",
+        "Computer science"
+    ],
+    "references": [
+        "1543124610",
+        "1552455804",
+        "1599643391",
+        "2083209848",
+        "2098984303",
+        "2116729357",
+        "2147472350",
+        "2170778112"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "1537212067",
+    "title": "CA and MAS - with the nasch as example",
+    "venue": "cellular automata for research and industry",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Tobias Kretz",
+            "id": "2038796318",
+            "org": "PTV Planung Transport Verkehr AG, Karlsruhe#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Nagel-Schreckenberg model",
+        "Cellular automaton",
+        "Multi-agent system",
+        "Computer science"
+    ],
+    "references": [
+        "1599526099"
+    ]
+}

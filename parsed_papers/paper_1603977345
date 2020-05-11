@@ -1,0 +1,30 @@
+{
+    "id": "1603977345",
+    "title": "Predicting agents tactics in automated negotiation",
+    "venue": "ieee wic acm international conference on intelligent agent technology",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Chongming Hou",
+            "id": "2443718279",
+            "org": "Knowledge Media Inst., Open Univ., Milton Keynes, UK"
+        }
+    ],
+    "fields_of_study": [
+        "Empirical research",
+        "Open system (systems theory)",
+        "Regression analysis",
+        "Negotiation theory",
+        "Nonlinear regression",
+        "Management science",
+        "Software agent",
+        "Heuristics",
+        "Computer science",
+        "Negotiation"
+    ],
+    "references": [
+        "1754744892",
+        "2105440797",
+        "2107939987"
+    ]
+}

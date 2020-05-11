@@ -1,0 +1,32 @@
+{
+    "id": "1599548310",
+    "title": "On r-constrained upward topological book embeddings",
+    "venue": "graph drawing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Tamara Mchedlidze",
+            "id": "2162508992",
+            "org": "Dept. of Mathematics, National Technical University of Athens, Athens, Greece#TAB#"
+        },
+        {
+            "name": "Antonios Symvonis",
+            "id": "2227226227",
+            "org": "Dept. of Mathematics, National Technical University of Athens, Athens, Greece#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hamiltonian path",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Vertex (geometry)",
+        "Numbering",
+        "Book embedding",
+        "Mathematics",
+        "Topology"
+    ],
+    "references": [
+        "1555017787",
+        "1778319251"
+    ]
+}

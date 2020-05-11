@@ -1,0 +1,33 @@
+{
+    "id": "1549022425",
+    "title": "A Graded Quadrivalent Logic for Ordinal Preference Modelling: Loyola-Like Approach",
+    "venue": "Fuzzy Optimization and Decision Making",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Philippe Fortemps",
+            "id": "2052218970",
+            "org": "Department of Math. & O.R., Mons Institute of Technology, Mons, Belgium"
+        },
+        {
+            "name": "Roman Slowinski",
+            "id": "2134359788",
+            "org": "Institute of Computing Science, Poznan University of Technology, Poznan, Poland"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical economics",
+        "Ordinal number",
+        "Ordinal Scale",
+        "Possibility theory",
+        "Mathematical optimization",
+        "Mathematics",
+        "Truth value",
+        "Ranking",
+        "Artificial intelligence",
+        "Finite set"
+    ],
+    "references": [
+        "2004026289"
+    ]
+}

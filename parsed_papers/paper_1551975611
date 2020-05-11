@@ -1,0 +1,30 @@
+{
+    "id": "1551975611",
+    "title": "Achieving Reusable and Reliable Client-Server Code using HOODTM Automated Code Generation for ADA95 and C++ Targets",
+    "venue": "international conference on reliable software technologies",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Maurice Heitz",
+            "id": "1969187137",
+            "org": "CISI"
+        }
+    ],
+    "fields_of_study": [
+        "Source code",
+        "Programming language",
+        "Real-time computing",
+        "Database",
+        "Computer science",
+        "Client-server model",
+        "Object-oriented programming",
+        "Object-oriented design",
+        "Object code",
+        "Object-orientation",
+        "Code generation"
+    ],
+    "references": [
+        "1557690937",
+        "2161825580"
+    ]
+}

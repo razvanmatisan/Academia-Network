@@ -1,0 +1,49 @@
+{
+    "id": "1811185933",
+    "title": "Constraint Satisfaction Problems and Finite Algebras",
+    "venue": "international colloquium on automata languages and programming",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Andrei A. Bulatov",
+            "id": "2145002912",
+            "org": "Ural State University"
+        },
+        {
+            "name": "Andrei A. Krokhin",
+            "id": "677481980",
+            "org": "Ural State University"
+        },
+        {
+            "name": "Peter Jeavons",
+            "id": "2071376435",
+            "org": "University of Oxford"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Schaefer's dichotomy theorem",
+        "Constraint satisfaction dual problem",
+        "Discrete mathematics",
+        "Complexity of constraint satisfaction",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Constraint graph",
+        "Local consistency",
+        "Constraint learning",
+        "Constraint satisfaction problem",
+        "Mathematics"
+    ],
+    "references": [
+        "13455872",
+        "1793685185",
+        "1978282744",
+        "1989168011",
+        "2016639451",
+        "2025319967",
+        "2116407296",
+        "2119456262",
+        "2135432705",
+        "2150339067",
+        "2166566648"
+    ]
+}

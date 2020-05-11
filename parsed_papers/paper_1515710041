@@ -1,0 +1,59 @@
+{
+    "id": "1515710041",
+    "title": "Interactive Verification of UML State Machines",
+    "venue": "international conference on formal engineering methods",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Michael Balser",
+            "id": "2308594213",
+            "org": "Universitat Augsburg"
+        },
+        {
+            "name": "Simon Baumler",
+            "id": "2013207243",
+            "org": "Universitat Augsburg"
+        },
+        {
+            "name": "Alexander Knapp",
+            "id": "2161420078",
+            "org": "Ludwig-Maximilians-Universitat"
+        },
+        {
+            "name": "Wolfgang Reif",
+            "id": "2139633246",
+            "org": "Universitat Augsburg"
+        },
+        {
+            "name": "Andreas Thums",
+            "id": "250619553",
+            "org": "Universitat Augsburg"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Pointer machine",
+        "UML state machine",
+        "Theoretical computer science",
+        "Symbolic execution",
+        "Abstract state machines",
+        "Unified Modeling Language",
+        "Finite-state machine",
+        "Computer science",
+        "Operational semantics",
+        "Formal verification"
+    ],
+    "references": [
+        "1540180001",
+        "1542970284",
+        "1570069626",
+        "1570343895",
+        "1587847854",
+        "1977237988",
+        "2009570820",
+        "2020034474",
+        "2038569232",
+        "2099529102",
+        "2336123333"
+    ]
+}

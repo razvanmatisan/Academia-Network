@@ -1,0 +1,54 @@
+{
+    "id": "1561240874",
+    "title": "Geometric Speed-Up Techniques for Finding Shortest Paths in Large Sparse Graphs",
+    "venue": "european symposium on algorithms",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Dorothea Wagner",
+            "id": "2140363637",
+            "org": "Universitat Karlsruhe"
+        },
+        {
+            "name": "Thomas Willhalm",
+            "id": "317983519",
+            "org": "Universitat Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "Yen's algorithm",
+        "Combinatorics",
+        "Dijkstra's algorithm",
+        "Floyd-Warshall algorithm",
+        "K shortest path routing",
+        "Algorithm",
+        "Shortest Path Faster Algorithm",
+        "Shortest path problem",
+        "Computer science",
+        "Theoretical computer science",
+        "Pathfinding",
+        "Dense graph"
+    ],
+    "references": [
+        "79845460",
+        "189590233",
+        "1480135873",
+        "1537256577",
+        "1549911051",
+        "1799626923",
+        "1982289281",
+        "2022980325",
+        "2073328808",
+        "2084224084",
+        "2095352457",
+        "2096594665",
+        "2100586428",
+        "2101923813",
+        "2139539792",
+        "2152545366",
+        "2156153879",
+        "2168555292",
+        "2180471588",
+        "2602500233"
+    ]
+}

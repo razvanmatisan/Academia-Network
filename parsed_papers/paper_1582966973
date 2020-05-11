@@ -1,0 +1,32 @@
+{
+    "id": "1582966973",
+    "title": "Distributed Application Monitoring for Clustered SMP Architectures",
+    "venue": "european conference on parallel processing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Karl Furlinger",
+            "id": "2584666772",
+            "org": "Technische Universitat Munchen"
+        },
+        {
+            "name": "Michael Gerndt",
+            "id": "32167922",
+            "org": "Technische Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Passive monitoring",
+        "Directory service",
+        "Address space",
+        "Distributed algorithm",
+        "Distributed computing",
+        "Real-time computing",
+        "Filter (signal processing)",
+        "Automation",
+        "Multiprocessing",
+        "Computer science",
+        "Data processing"
+    ],
+    "references": []
+}

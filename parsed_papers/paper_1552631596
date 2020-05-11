@@ -1,0 +1,51 @@
+{
+    "id": "1552631596",
+    "title": "Prottle: a probabilistic temporal planner",
+    "venue": "national conference on artificial intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Iain Little",
+            "id": "2156220574",
+            "org": "National ICT Australia & Computer Sciences Laboratory, The Australian National University, Canberra, ACT, Australia#TAB#"
+        },
+        {
+            "name": "Douglas Aberdeen",
+            "id": "1262135359",
+            "org": "National ICT Australia & Computer Sciences Laboratory, The Australian National University, Canberra, ACT, Australia#TAB#"
+        },
+        {
+            "name": "Sylvie Thiebaux",
+            "id": "44455724",
+            "org": "National ICT Australia & Computer Sciences Laboratory, The Australian National University, Canberra, ACT, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Heuristic",
+        "Machine learning",
+        "Probabilistic CTL",
+        "Probabilistic relevance model",
+        "Planning Domain Definition Language",
+        "Artificial intelligence",
+        "Probabilistic logic",
+        "Computer science",
+        "Divergence-from-randomness model",
+        "Probabilistic analysis of algorithms",
+        "Probabilistic database"
+    ],
+    "references": [
+        "67460457",
+        "108082272",
+        "131811946",
+        "136586159",
+        "192590192",
+        "1508018899",
+        "1519151529",
+        "1542132247",
+        "1627367978",
+        "2025460523",
+        "2119709400",
+        "2133429202",
+        "2134779831"
+    ]
+}

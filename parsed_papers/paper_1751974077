@@ -1,0 +1,46 @@
+{
+    "id": "1751974077",
+    "title": "E3value to BPMN Model Transformation",
+    "venue": "working conference on virtual enterprises",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Hassan Fatemi",
+            "id": "2155291396",
+            "org": "University of Twente"
+        },
+        {
+            "name": "Marten J. van Sinderen",
+            "id": "1879718138",
+            "org": "University of Twente"
+        },
+        {
+            "name": "Roel Wieringa",
+            "id": "1987029555",
+            "org": "University of Twente"
+        }
+    ],
+    "fields_of_study": [
+        "Model transformation",
+        "Knowledge management",
+        "Systems engineering",
+        "Process modeling",
+        "Business Process Model and Notation",
+        "Business process modeling",
+        "Computer science",
+        "Artifact-centric business process model",
+        "Business value"
+    ],
+    "references": [
+        "1573538539",
+        "1600126100",
+        "1702425856",
+        "1748990669",
+        "1795586347",
+        "2073205498",
+        "2097386277",
+        "2114824695",
+        "2156218005",
+        "2157901438"
+    ]
+}

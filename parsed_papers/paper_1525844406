@@ -1,0 +1,40 @@
+{
+    "id": "1525844406",
+    "title": "The Equivalence of Two Semantic Definitions for Inheritance in Object-Oriented Languages",
+    "venue": "international conference on mathematical foundations of programming semantics",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Kim B. Bruce",
+            "id": "2043604325",
+            "org": "Williams College"
+        }
+    ],
+    "fields_of_study": [
+        "Equivalence (measure theory)",
+        "Semantics",
+        "Denotational semantics",
+        "Object type",
+        "Natural language processing",
+        "Semantic equivalence",
+        "Programming language",
+        "Object-oriented programming",
+        "Semantic similarity",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1523713898",
+        "1976517701",
+        "2002475773",
+        "2011825885",
+        "2027657506",
+        "2052447934",
+        "2058121495",
+        "2153060956",
+        "2154294048",
+        "2159561161",
+        "2171058032",
+        "2171425038"
+    ]
+}

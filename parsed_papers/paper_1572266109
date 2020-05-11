@@ -1,0 +1,42 @@
+{
+    "id": "1572266109",
+    "title": "The Nonmonotonic Semantics of Active Rules in Deductive Databases",
+    "venue": "international conference on deductive and object oriented databases",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Carlo Zaniolo",
+            "id": "2028117853",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Database theory",
+        "Semantics",
+        "Information system",
+        "Query language",
+        "Deductive database",
+        "Database",
+        "Natural language processing",
+        "Active database",
+        "Well-founded semantics",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "270081759",
+        "1487307096",
+        "1509153766",
+        "1582599909",
+        "1590360882",
+        "1672891595",
+        "1768000531",
+        "1842205666",
+        "1968513265",
+        "1995080554",
+        "2059558261",
+        "2061565124",
+        "2091843160",
+        "2150426212"
+    ]
+}

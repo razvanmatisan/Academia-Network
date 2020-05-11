@@ -1,0 +1,61 @@
+{
+    "id": "1590810932",
+    "title": "Flexibility Schemes for Workflow Management Systems",
+    "venue": "business process management",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Rs Ronny Mans",
+            "id": "1988262443",
+            "org": "Eindhoven University of Technology"
+        },
+        {
+            "name": "Rs Ronny Mans",
+            "id": "1988262443",
+            "org": "Eindhoven University of Technology"
+        },
+        {
+            "name": "van der Wmp Wil Aalst",
+            "id": "2164418180",
+            "org": "Eindhoven University of Technology"
+        },
+        {
+            "name": "Nick Russell",
+            "id": "2157896481",
+            "org": "Eindhoven University of Technology"
+        },
+        {
+            "name": "Pjm Bakker",
+            "id": "2106507092",
+            "org": "Academic Medical Center, University of Amsterdam"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Computer science",
+        "Process management",
+        "Workflow",
+        "Workflow management system",
+        "Workflow engine",
+        "Workflow technology",
+        "XPDL",
+        "Business process management",
+        "Document management system",
+        "Workflow Management Coalition"
+    ],
+    "references": [
+        "1522730781",
+        "1554125077",
+        "1598495700",
+        "1600679678",
+        "1921613191",
+        "2107297768",
+        "2113457143",
+        "2137023847",
+        "2138278577",
+        "2139889174",
+        "2142340571",
+        "2171817964",
+        "2568081765"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1533617471",
+    "title": "Computing Controllers for Nonlinear Hybrid Systems",
+    "venue": "international workshop on hybrid systems computation and control",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Claire J. Tomlin",
+            "id": "1271484699",
+            "org": "Stanford University"
+        },
+        {
+            "name": "John Lygeros",
+            "id": "2894328901",
+            "org": "University of California"
+        },
+        {
+            "name": "Shankar Sastry",
+            "id": "2149692785",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Numerical partial differential equations",
+        "Hybrid system",
+        "Dynamical systems theory",
+        "Distributed parameter system",
+        "Dynamical system",
+        "Mathematical optimization",
+        "State space",
+        "Partial differential equation",
+        "Nonlinear system",
+        "Mathematics"
+    ],
+    "references": [
+        "9012611",
+        "1481109946",
+        "1498285565",
+        "2149184914",
+        "2165489953"
+    ]
+}

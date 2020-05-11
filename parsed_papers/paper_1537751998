@@ -1,0 +1,40 @@
+{
+    "id": "1537751998",
+    "title": "The Use of Exogenous Knowledge to Learn Bayesian Networks from Incomplete Databases",
+    "venue": "intelligent data analysis",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Marco Ramoni",
+            "id": "2892946238",
+            "org": "The Open University"
+        },
+        {
+            "name": "Paola Sebastiani",
+            "id": "1942584594",
+            "org": "City University"
+        }
+    ],
+    "fields_of_study": [
+        "Extreme point",
+        "Machine learning",
+        "Pattern recognition",
+        "Database",
+        "Bayesian network",
+        "Missing data",
+        "Artificial intelligence",
+        "Knowledge acquisition",
+        "Computer science",
+        "Gibbs sampling",
+        "Convex combination"
+    ],
+    "references": [
+        "103273366",
+        "1669437150",
+        "1730193065",
+        "1969953427",
+        "1989926363",
+        "2008906462",
+        "2170112109"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": "1550066434",
+    "title": "A method for estimating authentication performance over time, with applications to face biometrics",
+    "venue": "iberoamerican congress on pattern recognition",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Norman Poh",
+            "id": "1678769217",
+            "org": "CVSSP, University of Surrey, Guildford, Surrey, UK#TAB#"
+        },
+        {
+            "name": "Josef Kittler",
+            "id": "2129457005",
+            "org": "CVSSP, University of Surrey, Guildford, Surrey, UK#TAB#"
+        },
+        {
+            "name": "Raymond S. Smith",
+            "id": "2329721075",
+            "org": "CVSSP, University of Surrey, Guildford, Surrey, UK#TAB#"
+        },
+        {
+            "name": "J. Rafael Tena",
+            "id": "2306507773",
+            "org": "CVSSP, University of Surrey, Guildford, Surrey, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern recognition",
+        "Biometrics",
+        "Computer vision",
+        "Gaussian",
+        "Sliding window protocol",
+        "Population",
+        "Machine learning",
+        "Computer science",
+        "Dilemma",
+        "Facial recognition system",
+        "Authentication",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1510601647",
+        "1533303231",
+        "1545641654",
+        "1586405805",
+        "2093510936",
+        "2137659841",
+        "2141511080",
+        "2142578202"
+    ]
+}

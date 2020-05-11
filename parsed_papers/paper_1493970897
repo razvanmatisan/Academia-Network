@@ -1,0 +1,54 @@
+{
+    "id": "1493970897",
+    "title": "A Quality-Based Terminological Reasoning Model for Text Knowledge Acquisition",
+    "venue": "knowledge acquisition, modeling and management",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Udo Hahn",
+            "id": "2049587962",
+            "org": "Freiburg University"
+        },
+        {
+            "name": "Manfred Klenner",
+            "id": "2026405831",
+            "org": "Freiburg University"
+        },
+        {
+            "name": "Klemens Schnattinger",
+            "id": "290293070",
+            "org": "Freiburg University"
+        }
+    ],
+    "fields_of_study": [
+        "Model-based reasoning",
+        "Knowledge engineering",
+        "Data mining",
+        "Knowledge management",
+        "Computer science",
+        "Procedural knowledge",
+        "Natural language processing",
+        "Body of knowledge",
+        "Personal knowledge management",
+        "Knowledge-based systems",
+        "Knowledge acquisition",
+        "Artificial intelligence",
+        "Open Knowledge Base Connectivity"
+    ],
+    "references": [
+        "184147274",
+        "1546368270",
+        "1555476679",
+        "1799706624",
+        "1977710006",
+        "1994507518",
+        "2006145408",
+        "2010852434",
+        "2036977123",
+        "2046992816",
+        "2158334418",
+        "2166618406",
+        "2167798087",
+        "2175589616"
+    ]
+}

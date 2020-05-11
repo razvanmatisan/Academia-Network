@@ -1,0 +1,33 @@
+{
+    "id": "1542234847",
+    "title": "Linear Duration Invariants",
+    "venue": "international symposium organized jointly with working group provably correct systems on formal techniques in real time and fault tolerant systems",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Chaochen Zhou",
+            "id": "2628685472",
+            "org": "UNU/IIST P.O. Box 3058 Macau P.O. Box 3058 Macau"
+        }
+    ],
+    "fields_of_study": [
+        "Duration calculus",
+        "Algebra",
+        "Boolean function",
+        "Linear inequality",
+        "Satisfiability",
+        "Invariant (mathematics)",
+        "Linear programming",
+        "Automaton",
+        "Real-time computing",
+        "Regular expression",
+        "Computer science"
+    ],
+    "references": [
+        "1499407607",
+        "1507695589",
+        "1995691455",
+        "2133939589",
+        "2167467151"
+    ]
+}

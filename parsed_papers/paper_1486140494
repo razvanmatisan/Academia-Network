@@ -1,0 +1,43 @@
+{
+    "id": "1486140494",
+    "title": "Using web archive for improving search engine results",
+    "venue": "asia pacific web conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Adam Jatowt",
+            "id": "13250842",
+            "org": "National Institute of Information and Communications Technology, Kyoto, Japan#TAB#"
+        },
+        {
+            "name": "Yukiko Kawai",
+            "id": "2811174566",
+            "org": "National Institute of Information and Communications Technology, Kyoto, Japan#TAB#"
+        },
+        {
+            "name": "Katsumi Tanaka",
+            "id": "2100196114",
+            "org": "National Institute of Information and Communications Technology, Kyoto, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Doorway page",
+        "Static web page",
+        "Information retrieval",
+        "Database",
+        "World Wide Web",
+        "WAR",
+        "Popularity",
+        "Web page",
+        "Search engine",
+        "Computer science",
+        "HITS algorithm",
+        "The Internet"
+    ],
+    "references": [
+        "1495524224",
+        "1591738266",
+        "2134308336",
+        "2166743161"
+    ]
+}

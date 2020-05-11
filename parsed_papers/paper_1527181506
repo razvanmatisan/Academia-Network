@@ -1,0 +1,39 @@
+{
+    "id": "1527181506",
+    "title": "An Information-Theoretic Model for Steganography",
+    "venue": "information hiding",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Christian Cachin",
+            "id": "2780758804",
+            "org": "MIT Laboratory for Computer Science"
+        }
+    ],
+    "fields_of_study": [
+        "Statistical hypothesis testing",
+        "Kullback-Leibler divergence",
+        "Theoretical computer science",
+        "Steganography",
+        "Information hiding",
+        "Computer science",
+        "Information theory",
+        "Data compression",
+        "Adversary",
+        "Cryptography"
+    ],
+    "references": [
+        "1539419769",
+        "1583385494",
+        "1591473542",
+        "1743965195",
+        "1878907771",
+        "2041404167",
+        "2046825849",
+        "2096050104",
+        "2107745473",
+        "2129733197",
+        "2155272268",
+        "2159390040"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1565574722",
+    "title": "Combining Theorem Proving and Symbolic Mathematical Computing",
+    "venue": "international conference on artificial intelligence",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Karsten Homann",
+            "id": "2111402126",
+            "org": "Universitat Karlsruhe"
+        },
+        {
+            "name": "Jacques Calmet",
+            "id": "728729591",
+            "org": "Universitat Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "Fixed-point theorem",
+        "Knowledge base",
+        "Mathematical Computing",
+        "Knowledge representation and reasoning",
+        "Theoretical computer science",
+        "Automated theorem proving",
+        "Fundamental theorem",
+        "Common knowledge",
+        "Compactness theorem",
+        "Computer science"
+    ],
+    "references": [
+        "1488534910",
+        "1901645307",
+        "1937914841"
+    ]
+}

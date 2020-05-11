@@ -1,0 +1,37 @@
+{
+    "id": "1593880919",
+    "title": "SBVR's approach to controlled natural language",
+    "venue": "controlled natural language",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Silvie Spreeuwenberg",
+            "id": "2641895769",
+            "org": "LibRT, Amsterdam, Netherlands#TAB#"
+        },
+        {
+            "name": "Keri Anderson Healy",
+            "id": "2281283743",
+            "org": "BRCommunity#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics of Business Vocabulary and Business Rules",
+        "Formal language",
+        "Natural language",
+        "Semantics",
+        "Ontology",
+        "Natural language processing",
+        "Vocabulary",
+        "Programming language",
+        "Computer science",
+        "Artificial intelligence",
+        "Business rule",
+        "Controlled natural language"
+    ],
+    "references": [
+        "62997667",
+        "1525375095",
+        "2149194017"
+    ]
+}

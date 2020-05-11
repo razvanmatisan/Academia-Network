@@ -1,0 +1,39 @@
+{
+    "id": "1483801056",
+    "title": "Towards Ontology Driven Software Design",
+    "venue": "International Workshop on Radical Innovations of Software and Systems Engineering in the Future",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Paolo Ciancarini",
+            "id": "2120525876",
+            "org": "University of Bologna"
+        },
+        {
+            "name": "Valentina Presutti",
+            "id": "2807653113",
+            "org": "University of Bologna"
+        }
+    ],
+    "fields_of_study": [
+        "Web standards",
+        "Systems engineering",
+        "Web development",
+        "Web modeling",
+        "Web navigation",
+        "Semantic Web Stack",
+        "Data mining",
+        "WS-Policy",
+        "Web engineering",
+        "Computer science",
+        "Web Accessibility Initiative"
+    ],
+    "references": [
+        "1522224264",
+        "1536364518",
+        "1573434647",
+        "1967583234",
+        "2044990068",
+        "2101709920"
+    ]
+}

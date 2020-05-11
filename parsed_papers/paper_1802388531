@@ -1,0 +1,44 @@
+{
+    "id": "1802388531",
+    "title": "Bayesian learning in undirected graphical models: approximate MCMC algorithms",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Iain Murray",
+            "id": "2195050966",
+            "org": "University College London, London, UK#TAB#"
+        },
+        {
+            "name": "Zoubin Ghahramani",
+            "id": "617670330",
+            "org": "University College London, London, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Markov random field",
+        "Markov model",
+        "Machine learning",
+        "Mathematics",
+        "Artificial intelligence",
+        "Variable-order Bayesian network",
+        "Bayesian network",
+        "Variable-order Markov model",
+        "Markov chain Monte Carlo",
+        "Gibbs sampling",
+        "Graphical model"
+    ],
+    "references": [
+        "1581262234",
+        "1796935230",
+        "1997243486",
+        "2020999234",
+        "2037008056",
+        "2042492924",
+        "2098678088",
+        "2100034662",
+        "2116064496",
+        "2160842254"
+    ]
+}

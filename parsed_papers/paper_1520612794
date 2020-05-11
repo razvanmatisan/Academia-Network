@@ -1,0 +1,39 @@
+{
+    "id": "1520612794",
+    "title": "Priority Vantage Points Structures for Similarity Queries in Metric Spaces",
+    "venue": "conference information and communication technology",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Cengiz Celik",
+            "id": "2630085096",
+            "org": "University of Maryland at College Park"
+        }
+    ],
+    "fields_of_study": [
+        "Range query (data structures)",
+        "Metric space",
+        "Relational database",
+        "Distributed computing",
+        "Binary search algorithm",
+        "Nearest neighbor search",
+        "CPU time",
+        "Full table scan",
+        "Indexation",
+        "Mathematics"
+    ],
+    "references": [
+        "1523134890",
+        "1554174647",
+        "1592473003",
+        "1971927246",
+        "1994529543",
+        "2037201833",
+        "2038044292",
+        "2049644877",
+        "2090398718",
+        "2098912494",
+        "2129430460",
+        "2157092487"
+    ]
+}

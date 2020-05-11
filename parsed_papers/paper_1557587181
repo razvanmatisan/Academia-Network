@@ -1,0 +1,41 @@
+{
+    "id": "1557587181",
+    "title": "Business Process Modelling for Academic Virtual Organizations",
+    "venue": "working conference on virtual enterprises",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Paul Cotofrei",
+            "id": "271153770",
+            "org": "University of Neuchatel"
+        },
+        {
+            "name": "Kilian Stoffel",
+            "id": "1971646697",
+            "org": "University of Neuchatel"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Business process",
+        "Systems engineering",
+        "Business process discovery",
+        "Business process modeling",
+        "Process modeling",
+        "Business Process Model and Notation",
+        "Function model",
+        "Process management",
+        "Artifact-centric business process model",
+        "Business rule",
+        "Computer science"
+    ],
+    "references": [
+        "121057435",
+        "150042433",
+        "1506112550",
+        "1558210257",
+        "1560602003",
+        "1598644103",
+        "2107016517"
+    ]
+}

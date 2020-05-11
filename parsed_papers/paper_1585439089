@@ -1,0 +1,44 @@
+{
+    "id": "1585439089",
+    "title": "Formal reasoning about actor programs using temporal logic",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Susanne Schacht",
+            "id": "2127120531",
+            "org": "isys software gmbh"
+        }
+    ],
+    "fields_of_study": [
+        "Computation tree logic",
+        "Interval temporal logic",
+        "Dynamic logic (modal logic)",
+        "Concurrency",
+        "Bunched logic",
+        "Temporal logic of actions",
+        "Theoretical computer science",
+        "Actor model and process calculi",
+        "Linear temporal logic",
+        "Computer science"
+    ],
+    "references": [
+        "6354740",
+        "1503973138",
+        "1541752421",
+        "1588789843",
+        "1857327297",
+        "2004306067",
+        "2013672985",
+        "2015688007",
+        "2037564214",
+        "2054554282",
+        "2088735483",
+        "2098830227",
+        "2110425399",
+        "2117189826",
+        "2128732372",
+        "2128932399",
+        "2166656159"
+    ]
+}

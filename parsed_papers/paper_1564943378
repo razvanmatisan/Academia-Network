@@ -1,0 +1,51 @@
+{
+    "id": "1564943378",
+    "title": "Portable extraction of partially structured facts from the web",
+    "venue": "international conference natural language processing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Andrew Salway",
+            "id": "2777349297",
+            "org": "Centre for Digital Video Processing, School of Computing, Dublin City University, Dublin 9, Ireland#TAB#"
+        },
+        {
+            "name": "Liadh Kelly",
+            "id": "2156417348",
+            "org": "Centre for Digital Video Processing, School of Computing, Dublin City University, Dublin 9, Ireland#TAB#"
+        },
+        {
+            "name": "Inguna Skadina",
+            "id": "2894393232",
+            "org": "Tilde, Riga, Latvia#TAB#"
+        },
+        {
+            "name": "Gareth J. F. Jones",
+            "id": "2253680186",
+            "org": "Centre for Digital Video Processing, School of Computing, Dublin City University, Dublin 9, Ireland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parsing",
+        "Augmented reality",
+        "Information retrieval",
+        "Correctness",
+        "Porting",
+        "World Wide Web",
+        "Data model",
+        "Natural language processing",
+        "Latvian",
+        "Information extraction",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "167355512",
+        "1660390307",
+        "2042719229",
+        "2046983134",
+        "2099685860",
+        "2126539437",
+        "2127978399"
+    ]
+}

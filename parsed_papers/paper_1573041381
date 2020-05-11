@@ -1,0 +1,35 @@
+{
+    "id": "1573041381",
+    "title": "Diffeomorphisms Groups and Pattern Matching in Image Analysis",
+    "venue": "International Journal of Computer Vision",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Alain Trouve",
+            "id": "2475380720",
+            "org": "LAGA, Institut Galilee, Universite Paris13, Av J-B Clement, 93430 Villetaneuse, France. E-mail: trouve@math.univ-paris13.fr#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern matching",
+        "Computer vision",
+        "Large deformation diffeomorphic metric mapping",
+        "Computational anatomy",
+        "Lie group",
+        "Digital image",
+        "Infinitesimal",
+        "Image processing",
+        "Mathematical analysis",
+        "Geodesic",
+        "Artificial intelligence",
+        "Computer science",
+        "Topology"
+    ],
+    "references": [
+        "1577735487",
+        "2027435456",
+        "2041398617",
+        "2093976044",
+        "2124243699"
+    ]
+}

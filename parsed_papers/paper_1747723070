@@ -1,0 +1,45 @@
+{
+    "id": "1747723070",
+    "title": "Dynamic load balancing in geographically distributed heterogeneous Web servers",
+    "venue": "international conference on distributed computing systems",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Michele Colajanni",
+            "id": "349443823",
+            "org": "Dipt. di Inf. e Sistemistica, Rome Univ., Italy"
+        },
+        {
+            "name": "Philip S. Yu",
+            "id": "2125104194",
+            "org": "IBM"
+        },
+        {
+            "name": "Valeria Cardellini",
+            "id": "2111996256",
+            "org": "University of Rome La Sapienza"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Round-robin DNS",
+        "Network Load Balancing Services",
+        "Computer network",
+        "Client-server model",
+        "Web traffic",
+        "Computer science",
+        "Server",
+        "Load balancing (computing)",
+        "Web server",
+        "Domain Name System"
+    ],
+    "references": [
+        "1581144645",
+        "2022013117",
+        "2037842078",
+        "2075666301",
+        "2099374284",
+        "2138403394",
+        "2157571634"
+    ]
+}

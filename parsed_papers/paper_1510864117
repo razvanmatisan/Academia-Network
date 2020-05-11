@@ -1,0 +1,41 @@
+{
+    "id": "1510864117",
+    "title": "Specification and Verification of Constraint-Based Dynamic Systems",
+    "venue": "principles and practice of constraint programming",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Ying Zhang",
+            "id": "2494293070",
+            "org": "University of British Columbia"
+        },
+        {
+            "name": "Alan K. Mackworth",
+            "id": "1981134756",
+            "org": "University of British Columbia"
+        },
+        {
+            "name": "Alan K. Mackworth",
+            "id": "1981134756",
+            "org": "University of British Columbia"
+        }
+    ],
+    "fields_of_study": [
+        "Language Of Temporal Ordering Specification",
+        "Concurrent constraint logic programming",
+        "Constraint programming",
+        "Mathematical optimization",
+        "Computer science",
+        "Intelligent verification",
+        "Verification",
+        "Constraint satisfaction problem",
+        "Constraint logic programming",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "1504756454",
+        "1535149389",
+        "1588746435",
+        "2042707287"
+    ]
+}

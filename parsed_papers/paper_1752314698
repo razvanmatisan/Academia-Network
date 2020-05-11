@@ -1,0 +1,37 @@
+{
+    "id": "1752314698",
+    "title": "Knowledge driven dimension reduction for clustering",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Ian Davidson",
+            "id": "2560595684",
+            "org": "Department of Computer Science, University of California - Davis#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Discrete mathematics",
+        "Artificial intelligence",
+        "Clustering high-dimensional data",
+        "Machine learning",
+        "Subject-matter expert",
+        "Eigendecomposition of a matrix",
+        "Mathematical optimization",
+        "End user",
+        "Dimensionality reduction",
+        "User requirements document",
+        "Projection (linear algebra)",
+        "Mathematics"
+    ],
+    "references": [
+        "1564277727",
+        "2007186548",
+        "2117154949",
+        "2134089414",
+        "2152010828",
+        "2153839362",
+        "2167598827"
+    ]
+}

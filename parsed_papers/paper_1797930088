@@ -1,0 +1,42 @@
+{
+    "id": "1797930088",
+    "title": "Ontological Knowledge Maintenance Methodology",
+    "venue": "international conference on knowledge based and intelligent information and engineering systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Rim Djedidi",
+            "id": "11306275",
+            "org": "Department of Computer Science, SUPELEC Campus de Gif Plateau du moulon, , Gif sur Yvette Cedex, 91192#TAB#"
+        },
+        {
+            "name": "Marie-Aude Aufaure",
+            "id": "743058936",
+            "org": "Department of Computer Science, SUPELEC Campus de Gif Plateau du moulon, , Gif sur Yvette Cedex, 91192 and INRIA Paris-Rocquencourt / Axis Project Domaine de Voluceau, , Le Chesnay Cedex, 78153#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semantic data model",
+        "Ontology-based data integration",
+        "Process ontology",
+        "Knowledge-based systems",
+        "Body of knowledge",
+        "Upper ontology",
+        "Ontology (information science)",
+        "Data mining",
+        "Open Knowledge Base Connectivity",
+        "Computer science",
+        "Knowledge management"
+    ],
+    "references": [
+        "1481992253",
+        "1501276147",
+        "1526175732",
+        "2042037135",
+        "2097395913",
+        "2101747459",
+        "2115969784",
+        "2132777690",
+        "2154829072"
+    ]
+}

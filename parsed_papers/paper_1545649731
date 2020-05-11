@@ -1,0 +1,38 @@
+{
+    "id": "1545649731",
+    "title": "Expansive-bisimulation for context-free processes",
+    "venue": "formal methods",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Xinxin Liu",
+            "id": "2699914123",
+            "org": "Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Decidability",
+        "Theoretical computer science",
+        "Verifiable secret sharing",
+        "Equivalence (measure theory)",
+        "If and only if",
+        "Binary relation",
+        "Bisimulation",
+        "Expansive",
+        "Algorithm",
+        "Computer science"
+    ],
+    "references": [
+        "1499107405",
+        "1499210811",
+        "1555553717",
+        "1883453769",
+        "1965551437",
+        "2004114987",
+        "2008587618",
+        "2051521505",
+        "2123842443",
+        "2169869634"
+    ]
+}

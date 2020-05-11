@@ -1,0 +1,37 @@
+{
+    "id": "1594696240",
+    "title": "Proactive management of service instance pools for meeting service level agreements",
+    "venue": "international conference on service oriented computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Kavitha Ranganathan",
+            "id": "2271620901",
+            "org": "IBM T J Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Asit Dan",
+            "id": "2148152796",
+            "org": "IBM T J Watson Research Center, Hawthorne, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Service level",
+        "Web service",
+        "Overhead (business)",
+        "Service-level agreement",
+        "Scheduling (computing)",
+        "Provisioning",
+        "End user",
+        "Computer science",
+        "Resource allocation"
+    ],
+    "references": [
+        "1809943808",
+        "2020600041",
+        "2046184791",
+        "2151841150",
+        "2163242245"
+    ]
+}

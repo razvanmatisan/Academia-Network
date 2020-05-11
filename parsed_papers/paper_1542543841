@@ -1,0 +1,31 @@
+{
+    "id": "1542543841",
+    "title": "Integrated software process and product lines",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "H. Dieter Rombach",
+            "id": "2179818723",
+            "org": "Fraunhofer IESE & University of Kaiserslautern, Kaiserslautern, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Product engineering",
+        "Software Engineering Process Group",
+        "Systems engineering",
+        "Goal-Driven Software Development Process",
+        "Requirement",
+        "Distributed computing",
+        "Simulation",
+        "Social software engineering",
+        "Software product line",
+        "Domain engineering",
+        "Software sizing",
+        "Computer science"
+    ],
+    "references": [
+        "1999502939",
+        "2072859596"
+    ]
+}

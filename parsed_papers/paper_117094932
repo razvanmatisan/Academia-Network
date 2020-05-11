@@ -1,0 +1,38 @@
+{
+    "id": "117094932",
+    "title": "Towards a Semantic Framework for Business Activity Monitoring and Management",
+    "venue": "national conference on artificial intelligence",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Claire Costello",
+            "id": "2160937790",
+            "org": "Department of Information Technology|National University of Ireland"
+        },
+        {
+            "name": "Owen Molloy",
+            "id": "1248513901",
+            "org": "Department of Information Technology|National University of Ireland"
+        }
+    ],
+    "fields_of_study": [
+        "Business activity monitoring",
+        "Business process",
+        "XPDL",
+        "Process modeling",
+        "Business Process Execution Language",
+        "Computer science",
+        "Performance management",
+        "Business process management",
+        "Data mining",
+        "Performance metric"
+    ],
+    "references": [
+        "1497870168",
+        "1601777474",
+        "1969881622",
+        "2146658606",
+        "2150743219",
+        "2155602040"
+    ]
+}

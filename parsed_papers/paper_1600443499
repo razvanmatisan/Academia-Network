@@ -1,0 +1,39 @@
+{
+    "id": "1600443499",
+    "title": "An Evolutionary Approach to the Inverse Problem in Rule-Based Design Representations",
+    "venue": "AID",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Stephan Rudolph",
+            "id": "2134924352",
+            "org": "Universitat Stuttgart"
+        },
+        {
+            "name": "Rolf Alber",
+            "id": "2114792952",
+            "org": "Universitat Stuttgart"
+        }
+    ],
+    "fields_of_study": [
+        "Formalism (philosophy)",
+        "Design space exploration",
+        "Machine learning",
+        "Inverse problem",
+        "Mathematical optimization",
+        "Rule-based system",
+        "Artificial intelligence",
+        "Search algorithm",
+        "Fitness function",
+        "Grammar",
+        "Mathematics",
+        "Rule-based machine translation"
+    ],
+    "references": [
+        "68867049",
+        "137219120",
+        "1852189013",
+        "2000690667",
+        "2049659668"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1485320390",
+    "title": "Adapting Object-Oriented Components",
+    "venue": "european conference on object-oriented programming",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Jan Bosch",
+            "id": "2271217432",
+            "org": "University of Karlskrona/Ronneby"
+        }
+    ],
+    "fields_of_study": [
+        "Superimposition",
+        "Theoretical computer science",
+        "Computer engineering",
+        "Component-based software engineering",
+        "Software development",
+        "Software",
+        "Real-time computing",
+        "Component (UML)",
+        "Common Component Architecture",
+        "Object-oriented programming",
+        "Computer science",
+        "Presentation-abstraction-control"
+    ],
+    "references": [
+        "2030828698",
+        "2053962521",
+        "2086970510",
+        "2132055297",
+        "2144579789"
+    ]
+}

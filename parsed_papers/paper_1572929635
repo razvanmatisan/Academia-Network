@@ -1,0 +1,39 @@
+{
+    "id": "1572929635",
+    "title": "Virtual reconfigurable circuits for real-world applications of evolvable hardware",
+    "venue": "international conference on evolvable systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Lukas Sekanina",
+            "id": "2052842927",
+            "org": "Faculty of Information Technology, Brno University of Technology, Brno, Czech Republic#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Evolvable hardware",
+        "Electronic circuit",
+        "Reconfigurable computing",
+        "Field-programmable gate array",
+        "Operator (computer programming)",
+        "Control reconfiguration",
+        "Software",
+        "Granularity",
+        "Real-time computing",
+        "Computer architecture",
+        "Computer science"
+    ],
+    "references": [
+        "135865946",
+        "1486894692",
+        "1497726515",
+        "1742387217",
+        "1871720415",
+        "2099179746",
+        "2101089688",
+        "2108010960",
+        "2146546081",
+        "2152938581",
+        "2211621428"
+    ]
+}

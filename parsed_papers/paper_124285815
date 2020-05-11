@@ -1,0 +1,49 @@
+{
+    "id": "124285815",
+    "title": "XML data transformations as schema evolves",
+    "venue": "advances in databases and information systems",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Jakub Maly",
+            "id": "2184162423",
+            "org": "XML Research Group, Charles University in Prague, Czech Republic#TAB#"
+        },
+        {
+            "name": "Irena Mlynkova",
+            "id": "2002166654",
+            "org": "XML Research Group, Charles University in Prague, Czech Republic#TAB#"
+        },
+        {
+            "name": "Martin Necasky",
+            "id": "244726332",
+            "org": "XML Research Group, Charles University in Prague, Czech Republic#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Semi-structured model",
+        "Computer science",
+        "RELAX NG",
+        "Data mining",
+        "XML schema",
+        "Document Structure Description",
+        "XML validation",
+        "XML Schema (W3C)",
+        "XML Schema Editor",
+        "Efficient XML Interchange"
+    ],
+    "references": [
+        "42834599",
+        "1491485151",
+        "1502114651",
+        "1574045019",
+        "1588715299",
+        "1824916807",
+        "1969112326",
+        "2006568248",
+        "2096550032",
+        "2163820446",
+        "2626304854"
+    ]
+}

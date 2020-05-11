@@ -1,0 +1,38 @@
+{
+    "id": "136553607",
+    "title": "Towards a Semantic Infrastructure for User Generated Mobile Services",
+    "venue": "european semantic web conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Marcin Davies",
+            "id": "2711320716",
+            "org": "Telecommunications Research Center Vienna (ftw.), Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile business development",
+        "Mobile search",
+        "World Wide Web",
+        "Database",
+        "Mobile service",
+        "Computer science",
+        "Mobile Web",
+        "Semantic Web Stack",
+        "Web 2.0",
+        "Services computing",
+        "Microservices"
+    ],
+    "references": [
+        "1538985034",
+        "1589754820",
+        "1598890097",
+        "1602736775",
+        "1714132059",
+        "2027377329",
+        "2097094515",
+        "2145505619",
+        "2158607384",
+        "2161536823"
+    ]
+}

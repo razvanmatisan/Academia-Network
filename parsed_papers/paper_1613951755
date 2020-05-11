@@ -1,0 +1,40 @@
+{
+    "id": "1613951755",
+    "title": "CLPGUI: a generic graphical user interface for constraint logic programming over finite domains",
+    "venue": "arXiv: Software Engineering",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Francois Fages",
+            "id": "2068800805",
+            "org": "French Institute for Research in Computer Science and Automation"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Constraint programming",
+        "Computer science",
+        "Porting",
+        "Architecture",
+        "Message passing",
+        "Java",
+        "Graphical user interface",
+        "Distributed computing",
+        "Constraint logic programming",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "93498906",
+        "333633289",
+        "1486464946",
+        "1504020445",
+        "1540151021",
+        "1569624503",
+        "1588992886",
+        "1600165173",
+        "1604212720",
+        "1782371908",
+        "1988095917",
+        "2063727779"
+    ]
+}

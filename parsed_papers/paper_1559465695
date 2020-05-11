@@ -1,0 +1,43 @@
+{
+    "id": "1559465695",
+    "title": "Self-tuning reactive distributed trees for counting and balancing",
+    "venue": "international conference on principles of distributed systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Phuong Hoai Ha",
+            "id": "2131226101",
+            "org": "Department of Comp. Science, Chalmers University of Technology, Goteborg, Sweden#TAB#"
+        },
+        {
+            "name": "Marina Papatriantafilou",
+            "id": "269123960",
+            "org": "Department of Comp. Science, Chalmers University of Technology, Goteborg, Sweden#TAB#"
+        },
+        {
+            "name": "Philippas Tsigas",
+            "id": "2274820914",
+            "org": "Department of Comp. Science, Chalmers University of Technology, Goteborg, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Fractal tree index",
+        "Distributed computing",
+        "Search tree",
+        "Computer science",
+        "Real-time computing",
+        "Tree traversal",
+        "Parallel computing",
+        "Competitive analysis",
+        "Latency (engineering)",
+        "Tree-depth",
+        "Tree (data structure)",
+        "Self-tuning"
+    ],
+    "references": [
+        "1984352201",
+        "2016150385",
+        "2118877434",
+        "2294090198"
+    ]
+}

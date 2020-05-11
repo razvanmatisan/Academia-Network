@@ -1,0 +1,36 @@
+{
+    "id": "1536089344",
+    "title": "Multi-criteria airfoil design with evolution strategies",
+    "venue": "international conference on evolutionary multi criterion optimization",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Lars Willmes",
+            "id": "1982085693",
+            "org": "NuTech Solutions GmbH, Dortmund, Germany#TAB#"
+        },
+        {
+            "name": "Thomas Back",
+            "id": "2025148882",
+            "org": "NuTech Solutions GmbH, Dortmund, Germany and Leiden Institute of Advanced Computer Science, Leiden University, Leiden, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic algorithm",
+        "Evolutionary algorithm",
+        "Mathematical optimization",
+        "Pareto principle",
+        "Numerical analysis",
+        "Operator (computer programming)",
+        "Multi-objective optimization",
+        "Evolution strategy",
+        "Mathematics",
+        "Sorting"
+    ],
+    "references": [
+        "1502140970",
+        "1566356227",
+        "1578324001",
+        "2012367441"
+    ]
+}

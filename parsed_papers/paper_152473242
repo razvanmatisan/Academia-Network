@@ -1,0 +1,41 @@
+{
+    "id": "152473242",
+    "title": "Control on Demand",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Gisli Hjalmtysson",
+            "id": "2232155595",
+            "org": "AT&T Labs - Research, Florham Park, USA"
+        },
+        {
+            "name": "Samrat Bhattacherjee",
+            "id": "2317353068",
+            "org": "College of Computing, Georgia Institute of Technology Atlanta, Georgia 30332"
+        }
+    ],
+    "fields_of_study": [
+        "Forwarding plane",
+        "Network architecture",
+        "Distributed computing",
+        "Bidirectional Forwarding Detection",
+        "Field-programmable gate array",
+        "Robustness (computer science)",
+        "Software",
+        "Computer science",
+        "Datagram",
+        "Real-time computing",
+        "Router"
+    ],
+    "references": [
+        "1502349876",
+        "1575008295",
+        "1590510421",
+        "1963566811",
+        "2097822042",
+        "2100792372",
+        "2140049717",
+        "2294656064"
+    ]
+}

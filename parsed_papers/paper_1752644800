@@ -1,0 +1,35 @@
+{
+    "id": "1752644800",
+    "title": "Action-Rules: How to Increase Profit of a Company",
+    "venue": "european conference on principles of data mining and knowledge discovery",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Zbigniew W. Ras",
+            "id": "2059569764",
+            "org": "UNC-Charlotte"
+        },
+        {
+            "name": "Alicja Wieczorkowska",
+            "id": "182218848",
+            "org": "UNC-Charlotte"
+        }
+    ],
+    "fields_of_study": [
+        "Information system",
+        "Computer science",
+        "Data mining",
+        "Information processing",
+        "Loan",
+        "Decision support system",
+        "Decision table",
+        "Profitability index",
+        "Operations research",
+        "Knowledge representation and reasoning",
+        "Operations management",
+        "Marital status"
+    ],
+    "references": [
+        "206898339"
+    ]
+}

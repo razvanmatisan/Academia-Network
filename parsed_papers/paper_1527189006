@@ -1,0 +1,35 @@
+{
+    "id": "1527189006",
+    "title": "Cobra: A Content-Based Video Retrieval System",
+    "venue": "extending database technology",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Milan Petkovic",
+            "id": "2154378910",
+            "org": "University of Twente"
+        },
+        {
+            "name": "Willem Jonker",
+            "id": "2791263338",
+            "org": "University of Twente"
+        }
+    ],
+    "fields_of_study": [
+        "Domain knowledge",
+        "Knowledge base",
+        "Data mining",
+        "Database",
+        "Cobra",
+        "Video tracking",
+        "Bayesian network",
+        "Management system",
+        "Dynamic Bayesian network",
+        "Hidden Markov model",
+        "Computer science"
+    ],
+    "references": [
+        "2099799867",
+        "2111178887"
+    ]
+}

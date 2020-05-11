@@ -1,0 +1,39 @@
+{
+    "id": "1568906217",
+    "title": "Set domain propagation using ROBDDs",
+    "venue": "principles and practice of constraint programming",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Vitaly Lagoon",
+            "id": "209666180",
+            "org": "Department of Computer Science and Software Engineering, The University of Melbourne, Vic., Australia#TAB#"
+        },
+        {
+            "name": "Peter J. Stuckey",
+            "id": "2079669046",
+            "org": "Department of Computer Science and Software Engineering, The University of Melbourne, Vic., Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Discrete mathematics",
+        "Set function",
+        "Upper and lower bounds",
+        "Ranging",
+        "Binary decision diagram",
+        "Infinite set",
+        "Finite set",
+        "Mathematics",
+        "Constraint satisfaction",
+        "Solution set"
+    ],
+    "references": [
+        "1517578652",
+        "1592840579",
+        "1982243747",
+        "2030224590",
+        "2067273780",
+        "2127595379"
+    ]
+}

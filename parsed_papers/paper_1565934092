@@ -1,0 +1,41 @@
+{
+    "id": "1565934092",
+    "title": "Speculative Parallelization of Partially Parallel Loops",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Francis H. Dang",
+            "id": "1978761350",
+            "org": "Texas A&M University"
+        },
+        {
+            "name": "Lawrence Rauchwerger",
+            "id": "84560969",
+            "org": "Texas A&M University"
+        }
+    ],
+    "fields_of_study": [
+        "Exploit",
+        "Recursion",
+        "Time complexity",
+        "Program optimization",
+        "Speculative execution",
+        "Parallel computing",
+        "Load balancing (computing)",
+        "Distributed computing",
+        "Real-time computing",
+        "Computer science",
+        "Optimizing compiler",
+        "Heuristics"
+    ],
+    "references": [
+        "1565555689",
+        "2019048425",
+        "2091722458",
+        "2097686029",
+        "2098688018",
+        "2107522776",
+        "2148255965"
+    ]
+}

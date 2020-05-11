@@ -1,0 +1,34 @@
+{
+    "id": "1489483640",
+    "title": "The searching methods of mobile agents in telemedicine system environments",
+    "venue": "international conference on knowledge based and intelligent information and engineering systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Hyun-Cheol Jeong",
+            "id": "2501728588",
+            "org": "Dept. of Medical Information Engineering, Kwangju Health College, Kwangju, Korea#TAB#"
+        },
+        {
+            "name": "Inseob Song",
+            "id": "2644219292",
+            "org": "Internet Research Center, GoldBank Communication Inc., Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Information and Communications Technology",
+        "Mobile agent",
+        "Patient status",
+        "Server",
+        "Search algorithm",
+        "Mobile computing",
+        "Distributed computing",
+        "Computer science",
+        "Computer-mediated communication",
+        "Telemedicine"
+    ],
+    "references": [
+        "1510940979",
+        "2293405979"
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "id": "1819376366",
+    "title": "Entire network load-aware cooperative routing algorithm for video streaming over mobile ad hoc networks",
+    "venue": "Wireless Communications and Mobile Computing",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Oh Chan Kwon",
+            "id": "2140399260",
+            "org": "POSTECH Department of Computer Science and Engineering Pohang Gyeongbuk Korea"
+        },
+        {
+            "name": "Hyung Rai Oh",
+            "id": "2106054205",
+            "org": "POSTECH Department of Computer Science and Engineering Pohang Gyeongbuk Korea"
+        },
+        {
+            "name": "Zae-Kwun Lee",
+            "id": "2105304286",
+            "org": "Agency of Defense Development Daejeon Korea"
+        },
+        {
+            "name": "GyeongCheol Lee",
+            "id": "2306144909",
+            "org": "Purdue University School of Electrical and Computer Engineering IN USA"
+        },
+        {
+            "name": "YoungHo Park",
+            "id": "2810136880",
+            "org": "Kyungbuk National University Department of Electrical Engineering Sangju Korea"
+        },
+        {
+            "name": "Hwangjun Song",
+            "id": "2761084941",
+            "org": "POSTECH Department of Computer Science and Engineering Pohang Gyeongbuk Korea"
+        }
+    ],
+    "fields_of_study": [
+        "Optimized Link State Routing Protocol",
+        "Computer network",
+        "Link-state routing protocol",
+        "Static routing",
+        "Hazy Sighted Link State Routing Protocol",
+        "Wireless ad hoc network",
+        "Adaptive quality of service multi-hop routing",
+        "Wireless Routing Protocol",
+        "Distributed computing",
+        "Computer science",
+        "Algorithm",
+        "Destination-Sequenced Distance Vector routing"
+    ],
+    "references": [
+        "1782536560",
+        "1992876548",
+        "2003531160",
+        "2022858979",
+        "2055654205",
+        "2062371900",
+        "2099339647",
+        "2109601960",
+        "2124651399",
+        "2128952907",
+        "2130273643",
+        "2132609161",
+        "2135035173",
+        "2137775453",
+        "2148414233",
+        "2149959815",
+        "2157603331",
+        "2163956132",
+        "2169586400",
+        "2213553754"
+    ]
+}

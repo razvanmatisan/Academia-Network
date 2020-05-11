@@ -1,0 +1,48 @@
+{
+    "id": "1605104317",
+    "title": "A Comparison of Attribute Selection Strategies for Attribute-Oriented Generalization",
+    "venue": "international syposium on methodologies for intelligent systems",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Brock Barber",
+            "id": "2191931192",
+            "org": "University of Regina"
+        },
+        {
+            "name": "Howard J. Hamilton",
+            "id": "2196958594",
+            "org": "University of Regina"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Machine learning",
+        "Artificial intelligence",
+        "Knowledge extraction",
+        "Knowledge base",
+        "Generalization",
+        "Attribute domain",
+        "Tuple",
+        "Feature selection",
+        "Subject-matter expert",
+        "Concept learning",
+        "Computer science"
+    ],
+    "references": [
+        "135311109",
+        "1494422686",
+        "1528801041",
+        "1556507321",
+        "1601529450",
+        "1619226191",
+        "1787564306",
+        "1978387271",
+        "2020259034",
+        "2046335732",
+        "2120943950",
+        "2125055259",
+        "2159886288",
+        "2535884801"
+    ]
+}

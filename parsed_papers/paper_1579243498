@@ -1,0 +1,38 @@
+{
+    "id": "1579243498",
+    "title": "Majority ordering and the morphological pattern spectrum",
+    "venue": "advanced concepts for intelligent vision systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Alessandro Ledda",
+            "id": "1992857891",
+            "org": "Telin-IPI, Ghent University, Gent, Belgium#TAB#"
+        },
+        {
+            "name": "Wilfried Philips",
+            "id": "2438499849",
+            "org": "Telin-IPI, Ghent University, Gent, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Morphological pattern",
+        "Color image",
+        "Computer vision",
+        "Artificial intelligence",
+        "Image processing",
+        "Grayscale",
+        "Pattern recognition",
+        "Multispectral image",
+        "Computer science",
+        "Mathematical morphology",
+        "Sorting",
+        "Binary image"
+    ],
+    "references": [
+        "1990073712",
+        "2016102962",
+        "2076035429",
+        "2147490290"
+    ]
+}

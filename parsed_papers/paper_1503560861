@@ -1,0 +1,40 @@
+{
+    "id": "1503560861",
+    "title": "A Soft Computing Approach for Toxicity Prediction",
+    "venue": "ibero american conference on ai",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Dirk Devogelaere",
+            "id": "217593033",
+            "org": "K.U.Leuven"
+        },
+        {
+            "name": "Patrick Van Bael",
+            "id": "7223793",
+            "org": "K.U.Leuven"
+        },
+        {
+            "name": "Marcel Rijckaert",
+            "id": "2027828510",
+            "org": "K.U.Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "Multivariate analysis",
+        "Quantitative structure-activity relationship",
+        "Cluster analysis",
+        "Genetic algorithm",
+        "Robustness (computer science)",
+        "Feature selection",
+        "Molecular descriptor",
+        "Soft computing",
+        "Machine learning",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1689445748",
+        "2142183404"
+    ]
+}

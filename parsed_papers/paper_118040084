@@ -1,0 +1,35 @@
+{
+    "id": "118040084",
+    "title": "Groggy Wakeup - Automated Generation of Power-Efficient Detection Hierarchies for Wearable Sensors",
+    "venue": "wearable and implantable body sensor networks",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Ari Y. Benbasat",
+            "id": "15036103",
+            "org": "MIT"
+        },
+        {
+            "name": "Joseph A. Paradiso",
+            "id": "295984705",
+            "org": "MIT"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Hierarchy",
+        "Embedded system",
+        "Sampling (signal processing)",
+        "Wearable computer",
+        "Real-time computing",
+        "Decision tree learning"
+    ],
+    "references": [
+        "1481827761",
+        "2096264378",
+        "2101327874",
+        "2121358742",
+        "2130017063",
+        "2142891525"
+    ]
+}

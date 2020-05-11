@@ -1,0 +1,41 @@
+{
+    "id": "1514295918",
+    "title": "Performance Comparison of Different Cache-Replacement Policies for Video Distribution in CDN",
+    "venue": "international conference on communications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Umesh Chejara",
+            "id": "2555374580",
+            "org": "Purdue University"
+        },
+        {
+            "name": "Heung-Keung Chai",
+            "id": "2166448115",
+            "org": "Purdue University"
+        },
+        {
+            "name": "Hyunjoon Cho",
+            "id": "2308166649",
+            "org": "Purdue University"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "Real-time computing",
+        "Cache",
+        "Latency (engineering)",
+        "CPU cache",
+        "Distributed computing",
+        "Telecommunications network",
+        "Computer science",
+        "Cache algorithms",
+        "Internet traffic",
+        "The Internet",
+        "Content analysis"
+    ],
+    "references": [
+        "1570160575",
+        "2066660519"
+    ]
+}

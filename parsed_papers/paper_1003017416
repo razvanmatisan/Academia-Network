@@ -1,0 +1,44 @@
+{
+    "id": "1003017416",
+    "title": "Extensional Confluences and Local Closure Operators",
+    "venue": "international conference on formal concept analysis",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Henry Soldano",
+            "id": "1848325164",
+            "org": "Universite Paris 13, Sorbonne Paris Cite"
+        },
+        {
+            "name": "Henry Soldano",
+            "id": "1848325164",
+            "org": "Universite Paris 13, Sorbonne Paris Cite"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Vertex (geometry)",
+        "Lattice (order)",
+        "Knowledge extraction",
+        "Discrete mathematics",
+        "Social network",
+        "Formal concept analysis",
+        "Operator (computer programming)",
+        "Confluence",
+        "Intension",
+        "Mathematics"
+    ],
+    "references": [
+        "55688645",
+        "89628396",
+        "1503729935",
+        "1605329062",
+        "1852340955",
+        "1973346243",
+        "2032982462",
+        "2084044979",
+        "2110598277",
+        "2128743571",
+        "2394712967"
+    ]
+}

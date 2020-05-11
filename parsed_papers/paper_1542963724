@@ -1,0 +1,31 @@
+{
+    "id": "1542963724",
+    "title": "Supporting Mobile Applications with Real-Time Visualisation of GPS Availability",
+    "venue": "human-computer interaction with mobile devices and services",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Anthony Steed",
+            "id": "2101305348",
+            "org": "University College London"
+        }
+    ],
+    "fields_of_study": [
+        "Global Positioning System",
+        "Wireless network",
+        "Visualization",
+        "Assisted GPS",
+        "Mobile computing",
+        "Scenario planning",
+        "Distributed computing",
+        "Computer science",
+        "User interface"
+    ],
+    "references": [
+        "2036218035",
+        "2102329924",
+        "2106183262",
+        "2150388519",
+        "2162118158"
+    ]
+}

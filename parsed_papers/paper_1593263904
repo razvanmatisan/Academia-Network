@@ -1,0 +1,36 @@
+{
+    "id": "1593263904",
+    "title": "Automatic Generation of XML from Relations: The Nested Relation Approach",
+    "venue": "international conference on conceptual modeling",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Antonio Badia",
+            "id": "2100467944",
+            "org": "University of Louisville"
+        }
+    ],
+    "fields_of_study": [
+        "Nested set model",
+        "Data mining",
+        "Streaming XML",
+        "Well-formed document",
+        "Database",
+        "Computer science",
+        "Document Structure Description",
+        "XML validation",
+        "XML Schema Editor",
+        "XML framework",
+        "Efficient XML Interchange"
+    ],
+    "references": [
+        "189337624",
+        "1497363202",
+        "1535627680",
+        "1564914190",
+        "1596809650",
+        "1622715022",
+        "2108014443",
+        "2121008273"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": "1581546190",
+    "title": "The role of situation awareness in assuring safety of autonomous vehicles",
+    "venue": "international conference on computer safety reliability and security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Andrzej Wardzinski",
+            "id": "2059436340",
+            "org": "PROKOM Software SA, Gdynia, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Situation analysis",
+        "Safety assurance",
+        "System safety",
+        "Computer science",
+        "Architecture",
+        "Complete information",
+        "Autonomous system (mathematics)",
+        "Systems architecture",
+        "Situation awareness"
+    ],
+    "references": [
+        "1970495662",
+        "2160723486"
+    ]
+}

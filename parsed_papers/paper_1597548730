@@ -1,0 +1,47 @@
+{
+    "id": "1597548730",
+    "title": "A Modeling Approach for Designing Value Chain of VE",
+    "venue": "working conference on virtual enterprises",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Cheol han Kim",
+            "id": "2789368663",
+            "org": "Daejoen University"
+        },
+        {
+            "name": "Young Jun Son",
+            "id": "2124249016",
+            "org": "The University of Arizona"
+        },
+        {
+            "name": "Tae-Young Kim",
+            "id": "2482635385",
+            "org": "Pohang University of Science and Technology"
+        },
+        {
+            "name": "Kwangsoo Kim",
+            "id": "2894512477",
+            "org": "Pohang University of Science and Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Systems engineering",
+        "Integrated enterprise modeling",
+        "Process modeling",
+        "Service-oriented modeling",
+        "Business process modeling",
+        "Business Process Model and Notation",
+        "Business architecture",
+        "Process management",
+        "Computer science",
+        "Artifact-centric business process model",
+        "Function model"
+    ],
+    "references": [
+        "1556329882",
+        "1564385135",
+        "2017081644"
+    ]
+}

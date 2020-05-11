@@ -1,0 +1,35 @@
+{
+    "id": "144720637",
+    "title": "SALT: a spoken language interface for web-based multimodal dialog systems.",
+    "venue": "conference of the international speech communication association",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Kuansan Wang",
+            "id": "2127379895",
+            "org": "Speech Technology Group|Microsoft Research"
+        }
+    ],
+    "fields_of_study": [
+        "Spoken language",
+        "Adapter pattern",
+        "Shell (computing)",
+        "Multiple document interface",
+        "Natural language processing",
+        "Dialog box",
+        "Natural language user interface",
+        "Human-computer interaction",
+        "Marker interface pattern",
+        "Interface description language",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "142104124",
+        "172292236",
+        "1566056932",
+        "1999090433",
+        "2121723793",
+        "2336741951"
+    ]
+}

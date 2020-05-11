@@ -1,0 +1,34 @@
+{
+    "id": "1592547387",
+    "title": "Interpolation for Natural Deduction with Generalized Eliminations",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Ralph Matthes",
+            "id": "2167530927",
+            "org": "Institut fur Informatik der Ludwig-Maximilians-Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Functional programming",
+        "Discrete mathematics",
+        "Data type",
+        "Product type",
+        "Mathematical proof",
+        "Lambda calculus",
+        "Interpolation",
+        "Typed lambda calculus",
+        "Natural deduction",
+        "Mathematics"
+    ],
+    "references": [
+        "1520264397",
+        "1608923249",
+        "1991947308",
+        "2008058588",
+        "2060230835",
+        "2083658940",
+        "2127394739"
+    ]
+}

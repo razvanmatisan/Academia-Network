@@ -1,0 +1,35 @@
+{
+    "id": "1520299729",
+    "title": "Analysis of a simple evolutionary algorithm for minimization in euclidean spaces",
+    "venue": "international colloquium on automata languages and programming",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jens Jagerskupper",
+            "id": "331836205",
+            "org": "FB Informatik, Univ. Dortmund, Dortmund, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Continuous optimization",
+        "Discrete mathematics",
+        "Evolutionary algorithm",
+        "Genetic algorithm",
+        "Upper and lower bounds",
+        "Euclidean space",
+        "Mathematical optimization",
+        "Stochastic process",
+        "Multivariate random variable",
+        "Evolution strategy",
+        "Mathematics"
+    ],
+    "references": [
+        "372717656",
+        "1522890465",
+        "1606499289",
+        "1606774760",
+        "1996375957",
+        "2112576984",
+        "2165220807"
+    ]
+}

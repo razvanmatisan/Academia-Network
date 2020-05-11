@@ -1,0 +1,28 @@
+{
+    "id": "1543661909",
+    "title": "New Challenges for Defining Information Fusion Requirements",
+    "venue": "IF&amp;GIS",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "James Llinas",
+            "id": "2101870864",
+            "org": "State University of New York at Buffalo"
+        }
+    ],
+    "fields_of_study": [
+        "Command and control",
+        "Complex adaptive system",
+        "Exploit",
+        "Sensor fusion",
+        "Process design",
+        "Effects-based operations",
+        "Agile software development",
+        "Situation awareness",
+        "Engineering",
+        "Systems engineering"
+    ],
+    "references": [
+        "2101559633"
+    ]
+}

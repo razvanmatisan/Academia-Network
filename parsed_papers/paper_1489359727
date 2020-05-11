@@ -1,0 +1,49 @@
+{
+    "id": "1489359727",
+    "title": "Complete FPGA implemented evolvable image filters",
+    "venue": "mexican international conference on artificial intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jin Wang",
+            "id": "2630999231",
+            "org": "Department of Information Technology & Telecommunication, Inha University, Incheon, Korea#TAB#"
+        },
+        {
+            "name": "Chong Ho Lee",
+            "id": "2656569845",
+            "org": "Department of Information Technology & Telecommunication, Inha University, Incheon, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Composite image filter",
+        "Evolutionary algorithm",
+        "Parallel computing",
+        "Machine learning",
+        "Virtex",
+        "Conventional PCI",
+        "Genetic programming",
+        "Artificial intelligence",
+        "Field-programmable gate array",
+        "Reconfigurable computing",
+        "FPGA prototype",
+        "Algorithm",
+        "Computer science"
+    ],
+    "references": [
+        "1481731330",
+        "1485638949",
+        "1497726515",
+        "1500359245",
+        "1539252974",
+        "1544659150",
+        "1572929635",
+        "1775913388",
+        "1968603320",
+        "2101089688",
+        "2103119002",
+        "2149362532",
+        "2153280597",
+        "2172008153"
+    ]
+}

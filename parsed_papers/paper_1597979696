@@ -1,0 +1,29 @@
+{
+    "id": "1597979696",
+    "title": "Supracompact Inference Operations",
+    "venue": "Proceedings of the 1st International Workshop on Nonmonotonic and Inductive Logic",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Michael Freund",
+            "id": "1988251916",
+            "org": "University of Orleans"
+        }
+    ],
+    "fields_of_study": [
+        "Compact space",
+        "Representation theorem",
+        "Inference",
+        "Functional equation",
+        "Discrete mathematics",
+        "Infinite set",
+        "Distributivity",
+        "Combinatorics",
+        "Distributive property",
+        "Mathematics",
+        "Finite set"
+    ],
+    "references": [
+        "2080142817"
+    ]
+}

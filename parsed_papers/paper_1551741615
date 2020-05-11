@@ -1,0 +1,36 @@
+{
+    "id": "1551741615",
+    "title": "Using Genetic Algorithms to Optimize ACS-TSP",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Marcin L. Pilat",
+            "id": "2569051314",
+            "org": "Carleton University"
+        },
+        {
+            "name": "Tony White",
+            "id": "2096125512",
+            "org": "Carleton University"
+        }
+    ],
+    "fields_of_study": [
+        "Simulated annealing",
+        "Meta-optimization",
+        "Genetic algorithm",
+        "FSA-Red Algorithm",
+        "Evolutionary programming",
+        "Mathematical optimization",
+        "Ant colony optimization algorithms",
+        "Population-based incremental learning",
+        "Travelling salesman problem",
+        "Computer science"
+    ],
+    "references": [
+        "2107941094",
+        "2118051273",
+        "2126554879",
+        "2154929945"
+    ]
+}

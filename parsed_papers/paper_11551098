@@ -1,0 +1,31 @@
+{
+    "id": "11551098",
+    "title": "Rule-based inference in large knowledge bases",
+    "venue": "national conference on artificial intelligence",
+    "year": 1980,
+    "authors": [
+        {
+            "name": "William Mark",
+            "id": "2626449536",
+            "org": "USC/Information Sciences Institute#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Knowledge base",
+        "Model-based reasoning",
+        "Inference",
+        "Machine learning",
+        "Knowledge extraction",
+        "Legal expert system",
+        "Computer science",
+        "Rule-based system",
+        "Knowledge-based systems",
+        "Inference engine",
+        "Data mining"
+    ],
+    "references": [
+        "1539937695",
+        "1587269616"
+    ]
+}

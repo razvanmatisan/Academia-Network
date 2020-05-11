@@ -1,0 +1,38 @@
+{
+    "id": "1488827158",
+    "title": "The inversion camera model",
+    "venue": "joint pattern recognition symposium",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Christian Perwass",
+            "id": "2001030183",
+            "org": "Institut fur Informatik, CAU Kiel, Kiel, Germany#TAB#"
+        },
+        {
+            "name": "Gerald Sommer",
+            "id": "2138280970",
+            "org": "Institut fur Informatik, CAU Kiel, Kiel, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pinhole camera model",
+        "Camera auto-calibration",
+        "Camera matrix",
+        "View camera",
+        "Triangulation (computer vision)",
+        "Three-CCD camera",
+        "Stereo camera",
+        "Camera resectioning",
+        "Computer vision",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1521225408",
+        "1605885907",
+        "2092787444",
+        "2103569660",
+        "2144325227"
+    ]
+}

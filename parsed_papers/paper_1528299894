@@ -1,0 +1,39 @@
+{
+    "id": "1528299894",
+    "title": "Approximate N-Gram Markov Model for Natural Language Generation.",
+    "venue": "arXiv: Computation and Language",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Hsin-Hsi Chen",
+            "id": "2102355148",
+            "org": "National Taiwan University"
+        },
+        {
+            "name": "Yue-Shi Lee",
+            "id": "2166233230",
+            "org": "National Taiwan University"
+        }
+    ],
+    "fields_of_study": [
+        "n-gram",
+        "Machine learning",
+        "Natural language processing",
+        "Maximum-entropy Markov model",
+        "Markov model",
+        "Markov algorithm",
+        "Natural language generation",
+        "Artificial intelligence",
+        "Variable-order Markov model",
+        "Markov chain",
+        "Markov process",
+        "Computer science",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1593045043",
+        "2097333193",
+        "2114930830",
+        "2127836646"
+    ]
+}

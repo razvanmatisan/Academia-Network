@@ -1,0 +1,33 @@
+{
+    "id": "1522911467",
+    "title": "A Comparison of Rule-Based and Machine Learning Methods for Identifying Non-nominal It",
+    "venue": "international conference natural language processing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Richard Evans",
+            "id": "2482099074",
+            "org": "University of Wolverhampton"
+        }
+    ],
+    "fields_of_study": [
+        "Example-based machine translation",
+        "Machine translation",
+        "Active learning (machine learning)",
+        "Noun phrase",
+        "Natural language",
+        "Rule-based system",
+        "Pronoun",
+        "Machine learning",
+        "Computational linguistics",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1604122592",
+        "1814652019",
+        "2125055259",
+        "2127071136",
+        "2145211186"
+    ]
+}

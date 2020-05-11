@@ -1,0 +1,29 @@
+{
+    "id": "1573937741",
+    "title": "Markov chain Monte Carlo estimation of exponential random graph models",
+    "venue": "Journal of Social Structure",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Tom A. B. Snijders",
+            "id": "369089569",
+            "org": "Sociology/ICS"
+        }
+    ],
+    "fields_of_study": [
+        "Complement graph",
+        "Statistics",
+        "Dynamic Monte Carlo method",
+        "Markov chain mixing time",
+        "Hybrid Monte Carlo",
+        "Exponential random graph models",
+        "Variable-order Markov model",
+        "Slice sampling",
+        "Computer science",
+        "Markov chain Monte Carlo"
+    ],
+    "references": [
+        "2020999234",
+        "2615953416"
+    ]
+}

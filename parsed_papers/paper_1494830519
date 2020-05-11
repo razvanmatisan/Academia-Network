@@ -1,0 +1,33 @@
+{
+    "id": "1494830519",
+    "title": "Linear Algebraic Proofs of VC-Dimension Based Inequalities",
+    "venue": "european conference on computational learning theory",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Leonid Gurvits",
+            "id": "2559748175",
+            "org": "NEC Research Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Algebraic surface",
+        "Linear algebra",
+        "Cardinality",
+        "VC dimension",
+        "System of linear equations",
+        "Combinatorics",
+        "Dimension of an algebraic variety",
+        "Polynomial",
+        "Constant function",
+        "Mathematics"
+    ],
+    "references": [
+        "1971361630",
+        "1981207991",
+        "2019671617",
+        "2064197162",
+        "2150434953"
+    ]
+}

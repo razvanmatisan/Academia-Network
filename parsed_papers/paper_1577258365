@@ -1,0 +1,47 @@
+{
+    "id": "1577258365",
+    "title": "Robust speech activity detection in interactive smart-room environments",
+    "venue": "international conference on machine learning",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Dusan Macho",
+            "id": "1988628716",
+            "org": "TALP Research Center, Universitat Politecnica de Catalunya, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Climent Nadeu",
+            "id": "689516214",
+            "org": "TALP Research Center, Universitat Politecnica de Catalunya, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Andrey Temko",
+            "id": "1965563337",
+            "org": "TALP Research Center, Universitat Politecnica de Catalunya, Barcelona, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Support vector machine",
+        "Speech recognition",
+        "NIST",
+        "Speech processing",
+        "Word error rate",
+        "Pattern recognition",
+        "Mixture model",
+        "Artificial intelligence",
+        "Linear discriminant analysis",
+        "Decision tree learning",
+        "Voice activity detection",
+        "Computer science"
+    ],
+    "references": [
+        "1490760466",
+        "1499712254",
+        "1560013842",
+        "2117990954",
+        "2125055259",
+        "2145887942",
+        "2157821739",
+        "2402261002"
+    ]
+}

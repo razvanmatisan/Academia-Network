@@ -1,0 +1,57 @@
+{
+    "id": "1505990572",
+    "title": "On the Design and Evaluation of Job Scheduling Algorithms",
+    "venue": "job scheduling strategies for parallel processing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Jochen Krallmann",
+            "id": "2695700403",
+            "org": "University Dortmund"
+        },
+        {
+            "name": "Uwe Schwiegelshohn",
+            "id": "219282350",
+            "org": "University Dortmund"
+        },
+        {
+            "name": "Ramin Yahyapour",
+            "id": "380037160",
+            "org": "University Dortmund"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Fair-share scheduling",
+        "Lottery scheduling",
+        "Distributed computing",
+        "Real-time computing",
+        "Two-level scheduling",
+        "Deadline-monotonic scheduling",
+        "Dynamic priority scheduling",
+        "Genetic algorithm scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Rate-monotonic scheduling"
+    ],
+    "references": [
+        "1487076132",
+        "1501479579",
+        "1532089073",
+        "1548019789",
+        "1555915743",
+        "1571694740",
+        "1575773008",
+        "1596277129",
+        "2011039300",
+        "2028057069",
+        "2038438147",
+        "2041645394",
+        "2043078530",
+        "2047173920",
+        "2127960094",
+        "2134773842",
+        "2150074609",
+        "2154305205",
+        "2160982301"
+    ]
+}

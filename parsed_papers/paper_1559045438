@@ -1,0 +1,37 @@
+{
+    "id": "1559045438",
+    "title": "Parallel Controlled Conspiracy Number Search",
+    "venue": "european conference on parallel processing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Ulf Lorenz",
+            "id": "1894587577",
+            "org": "Paderborn University"
+        }
+    ],
+    "fields_of_study": [
+        "Approximation algorithm",
+        "Workstation",
+        "Search tree",
+        "Game theory",
+        "Game tree",
+        "Speedup",
+        "Ranking",
+        "Search algorithm",
+        "Distributed computing",
+        "Computer science"
+    ],
+    "references": [
+        "1556461797",
+        "1560689031",
+        "1843202602",
+        "1988498514",
+        "1992249923",
+        "2014969765",
+        "2019170199",
+        "2024020624",
+        "2135110690",
+        "2157803532"
+    ]
+}

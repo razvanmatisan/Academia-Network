@@ -1,0 +1,44 @@
+{
+    "id": "1522851200",
+    "title": "Using the UML to Describe the BSP Model of Parallel Computation",
+    "venue": "parallel and distributed processing techniques and applications",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Michael Scherger",
+            "id": "268535032",
+            "org": "Department of Mathematics|and Computer Science|Kent State University"
+        },
+        {
+            "name": "Johnnie W. Baker",
+            "id": "2156268029",
+            "org": "Department of Mathematics|and Computer Science|Kent State University"
+        },
+        {
+            "name": "Jerry L. Potter",
+            "id": "1984536359",
+            "org": "Department of Mathematics|and Computer Science|Kent State University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "System software",
+        "Parallel Extensions",
+        "Bulk synchronous parallel",
+        "Computer science",
+        "Unified Modeling Language",
+        "Computer architecture",
+        "Parallel programming model",
+        "Object-oriented programming"
+    ],
+    "references": [
+        "1528367975",
+        "1973797056",
+        "2019013398",
+        "2041327854",
+        "2045271686",
+        "2130521512",
+        "2135601680",
+        "2159765281"
+    ]
+}

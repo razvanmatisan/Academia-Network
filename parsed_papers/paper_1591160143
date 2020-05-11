@@ -1,0 +1,41 @@
+{
+    "id": "1591160143",
+    "title": "Autobiographic agents in dynamic virtual environments - performance comparison for different memory control architectures",
+    "venue": "congress on evolutionary computation",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Wan Ching Ho",
+            "id": "2158060222",
+            "org": "Adaptive Syst. Res. Group, Hertfordshire Univ., Hatfield"
+        },
+        {
+            "name": "Kerstin Dautenhahn",
+            "id": "332625852",
+            "org": "Adaptive Syst. Res. Group, Hertfordshire Univ., Hatfield"
+        },
+        {
+            "name": "Chrystopher L. Nehaniv",
+            "id": "1575075415",
+            "org": "Adaptive Syst. Res. Group, Hertfordshire Univ., Hatfield"
+        }
+    ],
+    "fields_of_study": [
+        "Memory architecture",
+        "Machine learning",
+        "Artificial intelligence",
+        "Computer science",
+        "Autonomous agent",
+        "Short-term memory",
+        "Autobiographical memory",
+        "Architecture",
+        "Software agent",
+        "Virtual machine",
+        "Long-term memory"
+    ],
+    "references": [
+        "1571412859",
+        "2086105103",
+        "2097856935"
+    ]
+}

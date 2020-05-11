@@ -1,0 +1,28 @@
+{
+    "id": "130111390",
+    "title": "Paving the Road to Business Process Automation.",
+    "venue": "european conference on information systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Peter Rittgen",
+            "id": "2510307552",
+            "org": "University Koblenz - Landau Rheinau"
+        }
+    ],
+    "fields_of_study": [
+        "Event-driven process chain",
+        "Computer science",
+        "Knowledge management",
+        "Business process discovery",
+        "Goal-Driven Software Development Process",
+        "Process Driven Development",
+        "Business process modeling",
+        "Function model",
+        "Artifact-centric business process model",
+        "Design process"
+    ],
+    "references": [
+        "202745445"
+    ]
+}

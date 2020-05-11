@@ -1,0 +1,33 @@
+{
+    "id": "1603082437",
+    "title": "Efficient Reachability Analysis and Refinement Checking of Timed Automata Using BDDs",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Dirk Beyer",
+            "id": "2078780617",
+            "org": "Technical University Cottbus"
+        }
+    ],
+    "fields_of_study": [
+        "Formalism (philosophy)",
+        "Discrete mathematics",
+        "Matrix (mathematics)",
+        "Modular design",
+        "Real-time operating system",
+        "Formal specification",
+        "Binary decision diagram",
+        "Reachability",
+        "Theoretical computer science",
+        "Formal verification",
+        "Computer science"
+    ],
+    "references": [
+        "1559321056",
+        "1604784787",
+        "1605860947",
+        "1796268701",
+        "2101508170"
+    ]
+}

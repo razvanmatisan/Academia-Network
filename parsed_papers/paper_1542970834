@@ -1,0 +1,32 @@
+{
+    "id": "1542970834",
+    "title": "On the role of symmetry in solving maximum lifetime problem in two-dimensional sensor networks",
+    "venue": "Wireless Networks",
+    "year": 2017,
+    "authors": [
+        {
+            "name": "Zbigniew Lipinski",
+            "id": "1921604738",
+            "org": "Institute of Mathematics and Informatics, Opole University, Opole, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Wireless sensor network",
+        "Symmetry group",
+        "Isometry",
+        "Computer science",
+        "Invariant (physics)",
+        "Invariant (mathematics)",
+        "Mathematical optimization",
+        "Homogeneous space",
+        "Existential quantification",
+        "Euclidean geometry"
+    ],
+    "references": [
+        "1547410739",
+        "1548885290",
+        "1787995280",
+        "1992876548",
+        "2167331384"
+    ]
+}

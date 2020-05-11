@@ -1,0 +1,37 @@
+{
+    "id": "168651322",
+    "title": "Optimally Quantized and Smoothed Histograms.",
+    "venue": "joint international conference on information sciences",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Mingzhou Song",
+            "id": "2124073498",
+            "org": "University of Washington"
+        },
+        {
+            "name": "Robert M. Haralick",
+            "id": "2006600044",
+            "org": "University of Washington"
+        }
+    ],
+    "fields_of_study": [
+        "Density estimation",
+        "Bin",
+        "Quantization (signal processing)",
+        "Discretization",
+        "Histogram",
+        "Smoothing",
+        "k-nearest neighbors algorithm",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Mathematics",
+        "Variable kernel density estimation"
+    ],
+    "references": [
+        "69783631",
+        "1484813431",
+        "1585743408",
+        "1588516554"
+    ]
+}

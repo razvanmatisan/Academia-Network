@@ -1,0 +1,38 @@
+{
+    "id": "1681333182",
+    "title": "A New Formulation of Tabled Resolution with Delay",
+    "venue": "portuguese conference on artificial intelligence",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Terrance Swift",
+            "id": "2291248690",
+            "org": "SUNY Stony Brook"
+        }
+    ],
+    "fields_of_study": [
+        "Equivalence (measure theory)",
+        "Formalism (philosophy)",
+        "Rotation formalisms in three dimensions",
+        "Parameterized complexity",
+        "Model checking",
+        "Computer science",
+        "Theoretical computer science",
+        "Logic programming",
+        "Circumscription"
+    ],
+    "references": [
+        "1518621415",
+        "1520935955",
+        "1524332517",
+        "1595745052",
+        "1774324140",
+        "1844282718",
+        "1968513265",
+        "2002082975",
+        "2062607893",
+        "2070598037",
+        "2091478774",
+        "2132574120"
+    ]
+}

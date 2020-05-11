@@ -1,0 +1,38 @@
+{
+    "id": "1568497082",
+    "title": "Self-Duality, Minimal Invariant Objects and Karoubi Invariance in Information Categories",
+    "venue": "formal methods",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Abbas Edalat",
+            "id": "157472243",
+            "org": "Imperial College"
+        }
+    ],
+    "fields_of_study": [
+        "Invariant (mathematics)",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Substructure",
+        "Morphism",
+        "Zero object",
+        "Karoubi envelope",
+        "Duality (optimization)",
+        "Functor",
+        "Covariance and contravariance of vectors",
+        "Computer science"
+    ],
+    "references": [
+        "188491190",
+        "228428197",
+        "1544564247",
+        "1554292048",
+        "1605925834",
+        "1967478329",
+        "1978840985",
+        "2024873396",
+        "2037729105",
+        "2139772363"
+    ]
+}

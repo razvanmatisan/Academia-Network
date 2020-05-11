@@ -1,0 +1,32 @@
+{
+    "id": "1497537021",
+    "title": "Using Description Logics for Recognising Textual Entailment",
+    "venue": "arXiv: Computation and Language",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Paul Bedaride",
+            "id": "76655222",
+            "org": "INRIA Lorraine - Loria"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Semantics",
+        "Natural language",
+        "Inference",
+        "Machine learning",
+        "Artificial intelligence",
+        "First-order logic",
+        "Semantics of logic",
+        "Description logic",
+        "Textual entailment",
+        "Computer science"
+    ],
+    "references": [
+        "1524799179",
+        "2115792525",
+        "2168652246",
+        "2525127255"
+    ]
+}

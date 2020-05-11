@@ -1,0 +1,25 @@
+{
+    "id": "117446995",
+    "title": "On the expressiveness of networks with hidden variables",
+    "venue": "national conference on artificial intelligence",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Rina Dechter",
+            "id": "294129211",
+            "org": "Computer Science Department, Technion - Israel Institute of Technology, Haifa, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hidden variable theory",
+        "Artificial intelligence",
+        "Binary number",
+        "Machine learning",
+        "Expressivity",
+        "Hidden semi-Markov model",
+        "Computer science"
+    ],
+    "references": [
+        "2119456262"
+    ]
+}

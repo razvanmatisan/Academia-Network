@@ -1,0 +1,30 @@
+{
+    "id": "1809141069",
+    "title": "Randomized On-line Algorithms for the Page Replication Problem",
+    "venue": "international symposium on algorithms and computation",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Hisashi Koga",
+            "id": "2239996905",
+            "org": "The University of Tokyo"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Distributed shared memory",
+        "Tree network",
+        "Upper and lower bounds",
+        "Competitive analysis",
+        "Algorithm",
+        "Theoretical computer science",
+        "Randomized algorithm",
+        "Distributed computing"
+    ],
+    "references": [
+        "2011670396",
+        "2041645394",
+        "2054033098",
+        "2158574844"
+    ]
+}

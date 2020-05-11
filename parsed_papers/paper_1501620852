@@ -1,0 +1,36 @@
+{
+    "id": "1501620852",
+    "title": "Coloring Random Graphs",
+    "venue": "scandinavian workshop on algorithm theory",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Martin Furer",
+            "id": "112114108",
+            "org": "Pennsylvania State University"
+        },
+        {
+            "name": "C. R. Subramanian",
+            "id": "2664416299",
+            "org": "Pennsylvania State University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Random regular graph",
+        "Random graph",
+        "Fractional coloring",
+        "Combinatorics",
+        "Greedy coloring",
+        "Brooks' theorem",
+        "Indifference graph",
+        "Complete coloring",
+        "1-planar graph",
+        "Mathematics"
+    ],
+    "references": [
+        "1977568210",
+        "2016776056",
+        "2083883919"
+    ]
+}

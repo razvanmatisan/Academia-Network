@@ -1,0 +1,46 @@
+{
+    "id": "1591954893",
+    "title": "Collecting Semantic Similarity Ratings to Connect Concepts in Assistive Communication Tools",
+    "venue": "Modeling, Learning, and Processing of Text Technological Data Structures",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Sonya S. Nikolova",
+            "id": "1218226069",
+            "org": "Princeton University"
+        },
+        {
+            "name": "Jordan L. Boyd-Graber",
+            "id": "337671685",
+            "org": "University of Maryland"
+        },
+        {
+            "name": "Christiane Fellbaum",
+            "id": "2156989404",
+            "org": "Princeton University"
+        }
+    ],
+    "fields_of_study": [
+        "Semantic network",
+        "WordNet",
+        "Anomic aphasia",
+        "Mental lexicon",
+        "British National Corpus",
+        "Semantic memory",
+        "Lexical database",
+        "Natural language processing",
+        "Semantic similarity",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "187999677",
+        "1554169383",
+        "1970381522",
+        "1978640248",
+        "2049261184",
+        "2100935296",
+        "2120667249",
+        "2155266520"
+    ]
+}

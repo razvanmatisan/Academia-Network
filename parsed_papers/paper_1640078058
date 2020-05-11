@@ -1,0 +1,41 @@
+{
+    "id": "1640078058",
+    "title": "The Mathematics of Record Handling",
+    "venue": "international colloquium on automata, languages and programming",
+    "year": 1977,
+    "authors": [
+        {
+            "name": "Hartmut Ehrig",
+            "id": "692045707",
+            "org": "Technische Universitat Berlin"
+        },
+        {
+            "name": "Barry K. Rosen",
+            "id": "2078595754",
+            "org": "IBM Thomas J. Watson Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Discrete mathematics",
+        "Graph (abstract data type)",
+        "Graph algebra",
+        "Combinatorics",
+        "Graph property",
+        "Graph rewriting",
+        "Algebraic graph theory",
+        "Graph theory",
+        "3-dimensional matching",
+        "Theoretical computer science",
+        "Voltage graph"
+    ],
+    "references": [
+        "1965970196",
+        "2022273990",
+        "2033278487",
+        "2056239109",
+        "2104274479",
+        "2147351452",
+        "2536118580"
+    ]
+}

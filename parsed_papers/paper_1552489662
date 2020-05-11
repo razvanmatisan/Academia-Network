@@ -1,0 +1,32 @@
+{
+    "id": "1552489662",
+    "title": "Independent one-time passwords",
+    "venue": "usenix security symposium",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Aviel D. Rubin",
+            "id": "2112283555",
+            "org": "Bellcore, Morristown, NJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Internet privacy",
+        "Smart card",
+        "Computer security",
+        "Authentication server",
+        "Remainder",
+        "Security token",
+        "Password",
+        "Password policy",
+        "Computer science",
+        "Authentication",
+        "One-time password"
+    ],
+    "references": [
+        "1979802565",
+        "2117362057",
+        "2146749986",
+        "2149929743"
+    ]
+}

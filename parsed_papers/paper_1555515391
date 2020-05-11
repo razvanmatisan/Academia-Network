@@ -1,0 +1,43 @@
+{
+    "id": "1555515391",
+    "title": "Specifying and optimising XML views",
+    "venue": "british national conference on databases",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Mark Roantree",
+            "id": "479692591",
+            "org": "Dublin City University, Ireland#TAB#"
+        },
+        {
+            "name": "Colm Noonan",
+            "id": "2280738880",
+            "org": "Dublin City University, Ireland#TAB#"
+        },
+        {
+            "name": "John Murphy",
+            "id": "2087471959",
+            "org": "Dublin City University, Ireland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "XML Encryption",
+        "Streaming XML",
+        "Database",
+        "Data mining",
+        "XML database",
+        "XML Schema Editor",
+        "XML validation",
+        "XML framework",
+        "Computer science",
+        "Efficient XML Interchange",
+        "XML Base"
+    ],
+    "references": [
+        "1547831574",
+        "1983604014",
+        "2086742729",
+        "2134356404",
+        "2161728285"
+    ]
+}

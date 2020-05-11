@@ -1,0 +1,42 @@
+{
+    "id": "1635722771",
+    "title": "The Design of a COM-Oriented Module System",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Riccardo Pucella",
+            "id": "2287457879",
+            "org": "Cornell University"
+        }
+    ],
+    "fields_of_study": [
+        "Standard ML",
+        "Modulo",
+        "Theoretical computer science",
+        "Structured programming",
+        "Computer science",
+        "Peano axioms",
+        "IUnknown",
+        "Memory management",
+        "Programming language",
+        "Object-oriented programming",
+        "Programmer"
+    ],
+    "references": [
+        "1484366641",
+        "1554222327",
+        "1557254125",
+        "1566218733",
+        "1644882639",
+        "1725475383",
+        "2072052702",
+        "2089424085",
+        "2093664495",
+        "2099305192",
+        "2145945984",
+        "2167017930",
+        "2610296873",
+        "2611598995"
+    ]
+}

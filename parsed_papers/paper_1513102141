@@ -1,0 +1,41 @@
+{
+    "id": "1513102141",
+    "title": "Efficient Training Algorithms for the Probabilistic RBF Network",
+    "venue": "hellenic conference on artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Constantinos Constantinopoulos",
+            "id": "289054761",
+            "org": "Univ. of Ioannina"
+        },
+        {
+            "name": "Aristidis Likas",
+            "id": "2080877090",
+            "org": "Univ. of Ioannina"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Greedy algorithm",
+        "Density estimation",
+        "Convergence (routing)",
+        "Mixture model",
+        "Probabilistic logic",
+        "Artificial neural network",
+        "Expectation-maximization algorithm",
+        "Algorithm",
+        "Computer science",
+        "Mixture theory"
+    ],
+    "references": [
+        "1570876803",
+        "2023399244",
+        "2119821739",
+        "2140136927",
+        "2146610201",
+        "2158303193",
+        "2162962395"
+    ]
+}

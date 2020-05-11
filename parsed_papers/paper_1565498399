@@ -1,0 +1,42 @@
+{
+    "id": "1565498399",
+    "title": "Named relationship mining from medical literature",
+    "venue": "international conference on data mining",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Isabelle Bichindaritz",
+            "id": "46962229",
+            "org": "Institute of Technology, University of Washington, Tacoma, WA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Data mining",
+        "Semantics",
+        "Knowledge extraction",
+        "Unified Medical Language System",
+        "Search engine indexing",
+        "Natural language processing",
+        "Concept mining",
+        "Semantic Web",
+        "Indexation",
+        "Computer science",
+        "Text mining"
+    ],
+    "references": [
+        "202824017",
+        "1516240924",
+        "1519968587",
+        "1553011358",
+        "1622389216",
+        "2004180556",
+        "2024030746",
+        "2033319677",
+        "2097352796",
+        "2118002992",
+        "2121940249",
+        "2158505321"
+    ]
+}

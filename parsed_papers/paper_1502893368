@@ -1,0 +1,43 @@
+{
+    "id": "1502893368",
+    "title": "Policy Iteration for Factored MDPs",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Daphne Koller",
+            "id": "2167404190",
+            "org": "Computer Science Department, Stanford University, Stanford, CA#TAB#"
+        },
+        {
+            "name": "Ronald Parr",
+            "id": "2638594123",
+            "org": "Computer Science Department, Stanford University, Stanford, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Machine learning",
+        "Metric (mathematics)",
+        "Artificial intelligence",
+        "Bellman equation",
+        "Discrete mathematics",
+        "Linear combination",
+        "Factorization",
+        "Dynamic Bayesian network",
+        "Dynamic programming",
+        "Subroutine",
+        "Basis function",
+        "Mathematics"
+    ],
+    "references": [
+        "1512407760",
+        "1588316674",
+        "1599912664",
+        "1646707810",
+        "1650504995",
+        "1688218840",
+        "1982333717",
+        "2072931156"
+    ]
+}

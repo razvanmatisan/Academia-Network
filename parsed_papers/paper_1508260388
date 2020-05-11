@@ -1,0 +1,29 @@
+{
+    "id": "1508260388",
+    "title": "The Fastap Keypad and Pervasive Computing",
+    "venue": "international conference on pervasive computing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "David Levy",
+            "id": "2113121939",
+            "org": "Cambridge, USA"
+        }
+    ],
+    "fields_of_study": [
+        "White paper",
+        "Distributed computing",
+        "Ubiquitous computing",
+        "Input/output",
+        "Computer science",
+        "Keypad",
+        "Mobile computing",
+        "Input method",
+        "User interface",
+        "The Internet"
+    ],
+    "references": [
+        "2058444391",
+        "2067502478"
+    ]
+}

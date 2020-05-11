@@ -1,0 +1,43 @@
+{
+    "id": "1571692922",
+    "title": "A model-theoretic framework for grammaticality judgements",
+    "venue": "FG'09 Proceedings of the 14th international conference on Formal grammar",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Denys Duchier",
+            "id": "2776703043",
+            "org": "LIFO, Universite d'Orleans#TAB#"
+        },
+        {
+            "name": "Jean-Philippe Prost",
+            "id": "2110731111",
+            "org": "LIFO, Universite d'Orleans#TAB#"
+        },
+        {
+            "name": "Thi-Bich-Hanh Dao",
+            "id": "2119479014",
+            "org": "LIFO, Universite d'Orleans#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Binary number",
+        "Phrase structure grammar",
+        "Logical conjunction",
+        "Parameter space",
+        "Syntactic category",
+        "Grammaticality",
+        "Natural language processing",
+        "Abstract syntax tree",
+        "Artificial intelligence",
+        "Mathematics",
+        "Rule-based machine translation"
+    ],
+    "references": [
+        "1586241929",
+        "1596198892",
+        "1602425092",
+        "2115047004",
+        "2170375985"
+    ]
+}

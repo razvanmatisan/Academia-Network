@@ -1,0 +1,35 @@
+{
+    "id": "1579312563",
+    "title": "Solving Domain Mismatch and Schema Mismatch Problems with an Object-Oriented Database Programming Language",
+    "venue": "very large data bases",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "William Kent",
+            "id": "2251908480",
+            "org": "Hewlett-Packard"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Fifth-generation programming language",
+        "Object-relational impedance mismatch",
+        "Data manipulation language",
+        "Computer science",
+        "Data control language",
+        "Theoretical computer science",
+        "Database schema",
+        "Programming domain",
+        "Object-relational mapping",
+        "Language primitive"
+    ],
+    "references": [
+        "1506763965",
+        "1524936640",
+        "2005649826",
+        "2089634871",
+        "2099825534",
+        "2137578365",
+        "2170489918"
+    ]
+}

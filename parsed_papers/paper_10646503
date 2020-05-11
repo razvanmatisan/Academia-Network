@@ -1,0 +1,29 @@
+{
+    "id": "10646503",
+    "title": "Learning effective search heuristics",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1983,
+    "authors": [
+        {
+            "name": "Pat Langley",
+            "id": "2811443521",
+            "org": "The Robotics Institute, Carnegie-Mellon University, Pittsburgh, Pennsylvania#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Incremental heuristic search",
+        "Artificial intelligence",
+        "Machine learning",
+        "Iterative deepening depth-first search",
+        "Beam search",
+        "Computer science",
+        "Generality",
+        "Heuristics"
+    ],
+    "references": [
+        "68718114",
+        "76350256",
+        "1501841208",
+        "2179799795"
+    ]
+}

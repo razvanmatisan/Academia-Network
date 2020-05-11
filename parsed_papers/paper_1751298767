@@ -1,0 +1,28 @@
+{
+    "id": "1751298767",
+    "title": "Contexts, Canons and Coreferent Types",
+    "venue": "international conference on conceptual structures",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "John Esch",
+            "id": "2150160215",
+            "org": "Unisys Government Systems Group"
+        }
+    ],
+    "fields_of_study": [
+        "Conceptual graph",
+        "Knowledge base",
+        "Natural language processing",
+        "Knowledge representation and reasoning",
+        "Computer science",
+        "Machine learning",
+        "Higher-order logic",
+        "Semantic reasoner",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1493596129",
+        "2168585493"
+    ]
+}

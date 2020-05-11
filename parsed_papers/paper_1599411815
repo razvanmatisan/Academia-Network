@@ -1,0 +1,30 @@
+{
+    "id": "1599411815",
+    "title": "Emergence of vowel systems through self-organisation",
+    "venue": "Ai Communications",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Bart de Boer",
+            "id": "2235253608",
+            "org": "Artificial Intelligence Laboratory|Vrije Universiteit Brussel"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Perception",
+        "Dynamical systems theory",
+        "Imitation",
+        "Formant",
+        "Sound change",
+        "Problem of universals",
+        "Population",
+        "Computer science",
+        "Vowel"
+    ],
+    "references": [
+        "1570599643",
+        "2021743383",
+        "2786843271"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1588879969",
+    "title": "Implementation of Modular Algebraic Specifications",
+    "venue": "european symposium on programming",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "N. W. P. van Diepen",
+            "id": "2652937505",
+            "org": "Centre for Mathematics and Computer Science"
+        }
+    ],
+    "fields_of_study": [
+        "Programming language",
+        "Theoretical computer science",
+        "First-generation programming language",
+        "Algebraic specification",
+        "Computer science",
+        "Specification language",
+        "Very high-level programming language",
+        "Algebraic modeling language",
+        "Fifth-generation programming language",
+        "Programming domain",
+        "Programming language implementation"
+    ],
+    "references": [
+        "1480729609",
+        "1541153481",
+        "1966748830",
+        "1989177109",
+        "1992266201",
+        "2034034435",
+        "2077012426",
+        "2077592849",
+        "2162643525",
+        "2167316540"
+    ]
+}

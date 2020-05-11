@@ -1,0 +1,32 @@
+{
+    "id": "1591210529",
+    "title": "On the Role of Architectures in Systems Engineering",
+    "venue": "computer aided systems theory",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Christoph Schaffer",
+            "id": "2154969940",
+            "org": "Johannes Kepler University"
+        }
+    ],
+    "fields_of_study": [
+        "Systems design",
+        "Computer science",
+        "Evolvability",
+        "Complex system",
+        "Systems theory",
+        "Complex system",
+        "Systems architecture",
+        "Computer Aided Design",
+        "Systems engineering"
+    ],
+    "references": [
+        "1582521208",
+        "1592347886",
+        "2016457827",
+        "2116736430",
+        "2137580583",
+        "2158087289"
+    ]
+}

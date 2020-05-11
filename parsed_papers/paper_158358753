@@ -1,0 +1,41 @@
+{
+    "id": "158358753",
+    "title": "Measuring random tests by conditional entropy and optimal execution order",
+    "venue": "international conference on trusted systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jialin Huang",
+            "id": "2695888759",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiaotong University, China#TAB#"
+        },
+        {
+            "name": "Xuejia Lai",
+            "id": "2085963908",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiaotong University, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Trusted Computing",
+        "Machine learning",
+        "Statistical hypothesis testing",
+        "NIST",
+        "Test suite",
+        "Conditional entropy",
+        "Pseudorandom number generator",
+        "Ranking",
+        "Suite",
+        "Theoretical computer science",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1505561248",
+        "1577120563",
+        "1583197584",
+        "1599218322",
+        "1976634091",
+        "2027769201",
+        "2033803521"
+    ]
+}

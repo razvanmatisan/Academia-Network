@@ -1,0 +1,44 @@
+{
+    "id": "1502569980",
+    "title": "Fuzzy Sets, Near Sets, and Rough Sets for Your Computational Intelligence Toolbox",
+    "venue": "foundations of computational intelligence",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "James F. Peters",
+            "id": "2118905927",
+            "org": "University of Manitoba"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Effective descriptive set theory",
+        "Discrete mathematics",
+        "Fuzzy set",
+        "Type-2 fuzzy sets and systems",
+        "Fuzzy set operations",
+        "Near sets",
+        "Dominance-based rough set approach",
+        "Membership function",
+        "Mathematics",
+        "Rough set"
+    ],
+    "references": [
+        "1531714509",
+        "1560168699",
+        "1565627856",
+        "1567873951",
+        "1591618909",
+        "1979029381",
+        "2004759662",
+        "2119722504",
+        "2129908023",
+        "2143040521",
+        "2143451122",
+        "2152096631",
+        "2162033093",
+        "2340020088",
+        "2570343052"
+    ]
+}

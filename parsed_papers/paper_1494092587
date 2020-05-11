@@ -1,0 +1,40 @@
+{
+    "id": "1494092587",
+    "title": "A survivable avionics system for space applications",
+    "venue": "ieee international symposium on fault tolerant computing",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Gerd Urban",
+            "id": "2254583023",
+            "org": "Daimler-Benz Aerosp., Bremen, Germany"
+        },
+        {
+            "name": "Hans-Joachim Kolinowitz",
+            "id": "2671666848",
+            "org": "Daimler-Benz Aerospace Bremen|Daimler-Benz Aerospace Bremen|JP Software-Consulting and Bremen Institute of Safe Systems"
+        },
+        {
+            "name": "Jan Peleska",
+            "id": "6818022",
+            "org": "Daimler-Benz Aerospace Bremen|Daimler-Benz Aerospace Bremen|JP Software-Consulting and Bremen Institute of Safe Systems"
+        }
+    ],
+    "fields_of_study": [
+        "Avionics",
+        "Realisation",
+        "Design elements and principles",
+        "International Space Station",
+        "Network packet",
+        "Actuator",
+        "Fault tolerance",
+        "Control engineering",
+        "Byzantine fault tolerance",
+        "Real-time computing",
+        "Engineering"
+    ],
+    "references": [
+        "1541671050",
+        "2120510885"
+    ]
+}

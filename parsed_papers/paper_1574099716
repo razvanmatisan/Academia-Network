@@ -1,0 +1,32 @@
+{
+    "id": "1574099716",
+    "title": "DC parallelism of connection graph",
+    "venue": "fall joint computer conference",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "R. Loganantharaj",
+            "id": "2681204850",
+            "org": "Center for Advanced Computer Studies, USL, P.O. Box 44330, Lafayette, LA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data parallelism",
+        "Task parallelism",
+        "Correctness",
+        "Speedup",
+        "Parallel algorithm",
+        "Implicit parallelism",
+        "Theoretical computer science",
+        "Proof procedure",
+        "Computer science",
+        "Multiprocessing"
+    ],
+    "references": [
+        "122908603",
+        "1482767073",
+        "1590287190",
+        "1970045008",
+        "1972956465"
+    ]
+}

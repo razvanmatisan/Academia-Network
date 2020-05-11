@@ -1,0 +1,48 @@
+{
+    "id": "1528256899",
+    "title": "Token-controlled public key encryption in the standard model",
+    "venue": "international conference on information security",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Sherman S. M. Chow",
+            "id": "2309300153",
+            "org": "Department of Computer Science, Courant Institute of Mathematical Sciences, New York University, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Key distribution",
+        "Financial cryptography",
+        "56-bit encryption",
+        "Encryption",
+        "On-the-fly encryption",
+        "Computer security",
+        "40-bit encryption",
+        "Keyfile",
+        "Probabilistic encryption",
+        "Computer science"
+    ],
+    "references": [
+        "1514617528",
+        "1527410104",
+        "1542069170",
+        "1561907855",
+        "1563187244",
+        "1574785216",
+        "1576877349",
+        "1584496230",
+        "1587391206",
+        "1596806171",
+        "1901278359",
+        "1979838117",
+        "2001619264",
+        "2101803085",
+        "2105600028",
+        "2112460803",
+        "2113999696",
+        "2132021741",
+        "2139172211",
+        "2158964208",
+        "2753555060"
+    ]
+}

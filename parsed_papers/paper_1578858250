@@ -1,0 +1,43 @@
+{
+    "id": "1578858250",
+    "title": "A Multi-representation Spatial Data Model",
+    "venue": "symposium on large spatial databases",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Sheng Zhou",
+            "id": "2000749612",
+            "org": "Cardiff University"
+        },
+        {
+            "name": "Christopher B. Jones",
+            "id": "2169689412",
+            "org": "Cardiff University"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Data mining",
+        "Level of detail",
+        "Image resolution",
+        "Generalization",
+        "Spatial database",
+        "Multiresolution analysis",
+        "Distributed database",
+        "Spatial analysis",
+        "Computer science",
+        "Data modeling"
+    ],
+    "references": [
+        "1533694765",
+        "1541567350",
+        "1572457317",
+        "1589542963",
+        "1605657873",
+        "1925470015",
+        "2091683883",
+        "2112935723",
+        "2155485496"
+    ]
+}

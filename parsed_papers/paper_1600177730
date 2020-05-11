@@ -1,0 +1,38 @@
+{
+    "id": "1600177730",
+    "title": "On Model Checking Synchronised Hardware Circuits",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Martin Leucker",
+            "id": "2153494020",
+            "org": "RWTH AachenLehrstuhl fur Informatik II"
+        }
+    ],
+    "fields_of_study": [
+        "Process calculus",
+        "Model checking",
+        "Transition system",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Petri net",
+        "Satisfiability",
+        "Buchi automaton",
+        "Computer hardware",
+        "Theoretical computer science",
+        "Computer science",
+        "Temporal logic"
+    ],
+    "references": [
+        "89538287",
+        "1503973138",
+        "1535497513",
+        "1540999307",
+        "1541012801",
+        "1591531250",
+        "1663179985",
+        "1975653808",
+        "2001748564"
+    ]
+}

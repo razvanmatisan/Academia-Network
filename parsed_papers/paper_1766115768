@@ -1,0 +1,30 @@
+{
+    "id": "1766115768",
+    "title": "Data Security and wireless networks - mutually exclusive?",
+    "venue": "system analysis and modeling",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Andrew Woodward",
+            "id": "2199461576",
+            "org": "School of Computer and Information Science|Edith Cowan University"
+        }
+    ],
+    "fields_of_study": [
+        "Municipal wireless network",
+        "Wireless LAN controller",
+        "Wireless intrusion prevention system",
+        "Computer security",
+        "Wi-Fi array",
+        "Computer science",
+        "Computer network",
+        "CAPWAP",
+        "Key distribution in wireless sensor networks",
+        "Wireless site survey",
+        "Security information and event management"
+    ],
+    "references": [
+        "1517136377",
+        "1556597491"
+    ]
+}

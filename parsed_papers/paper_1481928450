@@ -1,0 +1,39 @@
+{
+    "id": "1481928450",
+    "title": "Data Mining in Telecommunications",
+    "venue": "Data Mining and Knowledge Discovery",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Gary M. Weiss",
+            "id": "2112185085",
+            "org": "Fordham University"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Data mining",
+        "Component-based software engineering",
+        "Traverse",
+        "Data set",
+        "Marketing effectiveness",
+        "Telecommunications",
+        "Fault detection and isolation",
+        "Data science",
+        "Data stream mining"
+    ],
+    "references": [
+        "128624336",
+        "199552691",
+        "1517113043",
+        "1597286033",
+        "1992978513",
+        "2000832852",
+        "2002215687",
+        "2041775807",
+        "2068987343",
+        "2077949207",
+        "2145227912",
+        "2146377002"
+    ]
+}

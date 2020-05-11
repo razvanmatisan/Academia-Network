@@ -1,0 +1,52 @@
+{
+    "id": "1590488718",
+    "title": "Business contract obligation monitoring through use of multi tier contract ontology",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Vandana Kabilan",
+            "id": "1442961562",
+            "org": "Royal Institute of Technology and Stockholm University"
+        },
+        {
+            "name": "Paul Johannesson",
+            "id": "2119036949",
+            "org": "Royal Institute of Technology and Stockholm University"
+        },
+        {
+            "name": "Dickson M. Rugaimukamu",
+            "id": "2402395638",
+            "org": "Royal Institute of Technology and Stockholm University"
+        }
+    ],
+    "fields_of_study": [
+        "Business process",
+        "Exclusion clause",
+        "Core business",
+        "Process management",
+        "Contract management",
+        "Business process modeling",
+        "Workflow",
+        "Obligation",
+        "Business process management",
+        "Distributed computing",
+        "Computer science",
+        "Knowledge management"
+    ],
+    "references": [
+        "8667427",
+        "35346729",
+        "1483018444",
+        "1542292100",
+        "2062828083",
+        "2129466958",
+        "2133109597",
+        "2136563725",
+        "2140915630",
+        "2157558021",
+        "2157688345",
+        "2161646451",
+        "2164404885"
+    ]
+}

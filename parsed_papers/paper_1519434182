@@ -1,0 +1,37 @@
+{
+    "id": "1519434182",
+    "title": "A Portable Environment for Research in Automated Reasoning",
+    "venue": "conference on automated deduction",
+    "year": 1984,
+    "authors": [
+        {
+            "name": "Ewing L. Lusk",
+            "id": "1977610862",
+            "org": "Argonne National Laboratory, Argonne, IL#TAB#"
+        },
+        {
+            "name": "Ross Overbeek",
+            "id": "2444423396",
+            "org": "Argonne National Laboratory, Argonne, IL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computational logic",
+        "Functional logic programming",
+        "Reasoning system",
+        "Horn clause",
+        "Computer science",
+        "Inference",
+        "Algorithm",
+        "Dynamic logic (modal logic)",
+        "Automated reasoning",
+        "Logic programming",
+        "Theoretical computer science"
+    ],
+    "references": [
+        "1511421470",
+        "1587968455",
+        "2058514808",
+        "2085193930"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "1559822977",
+    "title": "On Traits and Types in a Java-like Setting",
+    "venue": "ifip international conference on theoretical computer science",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Viviana Bono",
+            "id": "2023607726",
+            "org": "Universita di Torino"
+        },
+        {
+            "name": "Ferruccio Damiani",
+            "id": "2113991381",
+            "org": "Universita di Torino"
+        },
+        {
+            "name": "Elena Giachino",
+            "id": "2806170463",
+            "org": "Universita di Torino"
+        }
+    ],
+    "fields_of_study": [
+        "First-generation programming language",
+        "Type system",
+        "Reuse",
+        "Method",
+        "Computer science",
+        "Programming language",
+        "Multiple inheritance",
+        "Object-based language",
+        "Object (computer science)",
+        "Third-generation programming language"
+    ],
+    "references": [
+        "196036100",
+        "1492136318",
+        "1588959535",
+        "1993029567",
+        "1997522747",
+        "1997608994",
+        "2033348393",
+        "2034356735",
+        "2065883028",
+        "2080648611",
+        "2086957250",
+        "2111898165",
+        "2114980545",
+        "2115680394",
+        "2153060956",
+        "2783579134"
+    ]
+}

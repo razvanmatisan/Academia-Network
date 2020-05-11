@@ -1,0 +1,60 @@
+{
+    "id": "1578223098",
+    "title": "Combining Linked Data and knowledge engineering best practices to design a lightweight role ontology",
+    "venue": "Applied Ontology",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Alexandre Passant",
+            "id": "29671053",
+            "org": "Digital Enterprise Research Institute, National University of Ireland, Galway, Ireland#TAB#"
+        },
+        {
+            "name": "Antoine Isaac",
+            "id": "2145083487",
+            "org": "Web and Media Group, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands#TAB#"
+        },
+        {
+            "name": "Philippe Laublet",
+            "id": "51425068",
+            "org": "STIH, Universite Paris-Sorbonne, Paris, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Data mining",
+        "Ontology-based data integration",
+        "Process ontology",
+        "Computer science",
+        "Open Biomedical Ontologies",
+        "Suggested Upper Merged Ontology",
+        "Upper ontology",
+        "Ontology components",
+        "Ontology (information science)",
+        "Ontology engineering"
+    ],
+    "references": [
+        "50216991",
+        "61760811",
+        "102708294",
+        "1493596129",
+        "1560159331",
+        "1597102962",
+        "1772693878",
+        "1796076224",
+        "2015191210",
+        "2056420273",
+        "2062070032",
+        "2071718761",
+        "2092403872",
+        "2097395913",
+        "2100341807",
+        "2109355792",
+        "2121939662",
+        "2124627092",
+        "2131785201",
+        "2137914315",
+        "2140305396",
+        "2145554685"
+    ]
+}

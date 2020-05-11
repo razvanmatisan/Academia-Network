@@ -1,0 +1,35 @@
+{
+    "id": "1549747829",
+    "title": "Information Systems that Really Support Decision-making",
+    "venue": "international syposium on methodologies for intelligent systems",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Gio Wiederhold",
+            "id": "1988326922",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Executive information system",
+        "Data mining",
+        "Decision support system",
+        "Information system",
+        "Information processing",
+        "Information integration",
+        "Intuition",
+        "Management information systems",
+        "Computer science"
+    ],
+    "references": [
+        "114314656",
+        "1508894072",
+        "2028991148",
+        "2040466333",
+        "2097269073",
+        "2125791539",
+        "2129272809",
+        "2141824507",
+        "2147100344"
+    ]
+}

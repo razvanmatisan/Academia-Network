@@ -1,0 +1,31 @@
+{
+    "id": "1618990641",
+    "title": "Perception and Classification. A Note on Near Sets and Rough Sets",
+    "venue": "Fundamenta Informaticae",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Marcin Wolski",
+            "id": "2145755892",
+            "org": "(Correspd.) Department of Logic and Methodology of Science, Maria Curie-Sklodowska University, Poland. marcin.wolski@umcs.lublin.pl#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Discrete space",
+        "Discrete mathematics",
+        "Topological space",
+        "Quotient space (topology)",
+        "Perception",
+        "Mathematics",
+        "Network topology",
+        "Near sets",
+        "Quotient",
+        "Rough set",
+        "Topology"
+    ],
+    "references": [
+        "1531714509",
+        "2340020088"
+    ]
+}

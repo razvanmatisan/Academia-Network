@@ -1,0 +1,48 @@
+{
+    "id": "1578662211",
+    "title": "Finding program slices for recursive procedures",
+    "venue": "computer software and applications conference",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "J.C. Hwang",
+            "id": "2687528356",
+            "org": "Inst. of Comput. Eng., Nat. Chiao Tung Univ., Hsinchu, Taiwan"
+        },
+        {
+            "name": "M.W. Du",
+            "id": "2635946648",
+            "org": "Inst. of Comput. Eng., Nat. Chiao Tung Univ., Hsinchu, Taiwan"
+        },
+        {
+            "name": "Ching-Roung Chou",
+            "id": "2250447523",
+            "org": "Inst. of Comput. Eng., Nat. Chiao Tung Univ., Hsinchu, Taiwan"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Recursion",
+        "Real-time computing",
+        "Discrete mathematics",
+        "Program slicing",
+        "Computation",
+        "m operator",
+        "Normalization property",
+        "Partially ordered set",
+        "Algorithm",
+        "Static analysis",
+        "Recursive language"
+    ],
+    "references": [
+        "1559182114",
+        "1964071625",
+        "1980767016",
+        "1983059830",
+        "2003831960",
+        "2011998974",
+        "2141109493",
+        "2144344516",
+        "2293624369"
+    ]
+}

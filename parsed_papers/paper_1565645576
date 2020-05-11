@@ -1,0 +1,54 @@
+{
+    "id": "1565645576",
+    "title": "The Orc Programming Language",
+    "venue": "formal techniques for networked and distributed systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "David Kitchin",
+            "id": "2144712861",
+            "org": "The University of Texas, Austin,#TAB#"
+        },
+        {
+            "name": "Adrian Quark",
+            "id": "1991767676",
+            "org": "The University of Texas, Austin,#TAB#"
+        },
+        {
+            "name": "William R. Cook",
+            "id": "2108277273",
+            "org": "The University of Texas, Austin,#TAB#"
+        },
+        {
+            "name": "Jayadev Misra",
+            "id": "2105352400",
+            "org": "The University of Texas, Austin,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "First-generation programming language",
+        "Theoretical computer science",
+        "Fourth-generation programming language",
+        "Concurrent object-oriented programming",
+        "High-level programming language",
+        "Fifth-generation programming language",
+        "Computer science",
+        "Very high-level programming language",
+        "Programming language",
+        "Programming domain",
+        "Programming language implementation"
+    ],
+    "references": [
+        "140604030",
+        "1484366641",
+        "1500859230",
+        "1518369453",
+        "1528588771",
+        "1533525390",
+        "1584322803",
+        "1603799276",
+        "1638436127",
+        "2055454967",
+        "2082357899"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "162893339",
+    "title": "An Ontology Structure for Semantic Sensing Information Representation in Healthcare Services",
+    "venue": "International Conference on Multimedia, Computer Graphics, and Broadcasting",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Rajani Reddy Gorrepati",
+            "id": "1619395008",
+            "org": "Jeju National University"
+        },
+        {
+            "name": "Do-Hyeun Kim",
+            "id": "2151839899",
+            "org": "Jeju National University"
+        }
+    ],
+    "fields_of_study": [
+        "Ontology",
+        "Information retrieval",
+        "OWL-S",
+        "Process ontology",
+        "Ontology-based data integration",
+        "Suggested Upper Merged Ontology",
+        "Bibliographic Ontology",
+        "Data mining",
+        "Ontology (information science)",
+        "Upper ontology",
+        "Computer science"
+    ],
+    "references": [
+        "1500058748",
+        "1529522905",
+        "1882088395",
+        "1976481908",
+        "2015707419",
+        "2021851523",
+        "2041388851",
+        "2144730987"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1570774143",
+    "title": "Domain-Theoretic formulation of linear boundary value problems",
+    "venue": "conference on computability in europe",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Dirk Pattinson",
+            "id": "2219391862",
+            "org": "Department of Computing, Imperial College London, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Domain theory",
+        "Discrete mathematics",
+        "Boundary value problem",
+        "Computability",
+        "Mathematical optimization",
+        "Interval arithmetic",
+        "Linear equation",
+        "Method of undetermined coefficients",
+        "Mathematics",
+        "Mixed boundary condition",
+        "Algorithmics"
+    ],
+    "references": [
+        "1527183913",
+        "1536885045",
+        "1943976802",
+        "2030347790",
+        "2075490047",
+        "2114953769",
+        "2115154197",
+        "2132524091"
+    ]
+}

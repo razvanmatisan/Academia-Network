@@ -1,0 +1,29 @@
+{
+    "id": "1547891792",
+    "title": "Green building energy analytics: Challenges and opportunities",
+    "venue": "international conference on pervasive computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Nirmalya Roy",
+            "id": "2250927129",
+            "org": "Department of Information Systems, University of Maryland Baltimore County, Baltimore, MD, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Real-time computing",
+        "Profiling (computer programming)",
+        "Software deployment",
+        "Analytics",
+        "Consumer behaviour",
+        "Probabilistic logic",
+        "Computer science",
+        "Simulation",
+        "Data analysis"
+    ],
+    "references": [
+        "1524815995",
+        "1577176343"
+    ]
+}

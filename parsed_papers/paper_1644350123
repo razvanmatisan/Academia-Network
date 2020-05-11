@@ -1,0 +1,42 @@
+{
+    "id": "1644350123",
+    "title": "Recognizing Members of the Tournament Equilibrium Set is NP-hard",
+    "venue": "arXiv: Computational Complexity",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Felix Brandt",
+            "id": "2097406414",
+            "org": "Institut fur Informatik|Universitat Munchen"
+        },
+        {
+            "name": "Felix A. Fischer",
+            "id": "2106088298",
+            "org": "Institut fur Informatik|Universitat Munchen"
+        },
+        {
+            "name": "Paul Harrenstein",
+            "id": "550663710",
+            "org": "Institut fur Informatik|Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Solution concept",
+        "Combinatorics",
+        "Game theory",
+        "Recursive definition",
+        "Mathematics",
+        "Tournament",
+        "Covering set",
+        "Satisfiability",
+        "Open problem",
+        "Computational complexity theory"
+    ],
+    "references": [
+        "106306009",
+        "154567452",
+        "1991733990",
+        "2074016826"
+    ]
+}

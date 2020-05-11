@@ -1,0 +1,45 @@
+{
+    "id": "1511176748",
+    "title": "Modeling Integrity in Data Exchange",
+    "venue": "very large data bases",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Gerome Miklau",
+            "id": "2302554261",
+            "org": "University of Washington"
+        },
+        {
+            "name": "Dan Suciu",
+            "id": "1986159374",
+            "org": "University of Washington"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Data mining",
+        "Digital signature",
+        "Data exchange",
+        "Semantics",
+        "Data model",
+        "Data structure",
+        "Computer science",
+        "Formal specification",
+        "Data integrity"
+    ],
+    "references": [
+        "1488126327",
+        "1512639828",
+        "1558832481",
+        "1566345534",
+        "1566730292",
+        "1582521812",
+        "1594668186",
+        "1976432263",
+        "1996360405",
+        "2005725110",
+        "2080971756",
+        "2095417143",
+        "2152191782"
+    ]
+}

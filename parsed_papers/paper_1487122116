@@ -1,0 +1,40 @@
+{
+    "id": "1487122116",
+    "title": "Optimal time-space tradeoff in probabilistic inference",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "David T. Allen",
+            "id": "2591495751",
+            "org": "University of California, Los Angeles, CA#TAB#"
+        },
+        {
+            "name": "Adnan Darwiche",
+            "id": "457026902",
+            "org": "University of California, Los Angeles, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Inference",
+        "Search tree",
+        "Machine learning",
+        "Artificial intelligence",
+        "Floating point",
+        "Cache",
+        "Variable elimination",
+        "CPU cache",
+        "Probabilistic logic",
+        "Bayesian network",
+        "Mathematics"
+    ],
+    "references": [
+        "1497668093",
+        "1522803879",
+        "1537811212",
+        "1606089158",
+        "1981962216",
+        "1984090594",
+        "2141876475"
+    ]
+}

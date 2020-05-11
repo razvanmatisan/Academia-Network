@@ -1,0 +1,41 @@
+{
+    "id": "1505641150",
+    "title": "First Competitive Ant Colony Scheme for the CARP",
+    "venue": "ant colony optimization and swarm intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Philippe Lacomme",
+            "id": "1998629404",
+            "org": "Blaise Pascal University"
+        },
+        {
+            "name": "Christian Prins",
+            "id": "2168577434",
+            "org": "University of Technology of Troyes"
+        },
+        {
+            "name": "Alain Tanguy",
+            "id": "2444326052",
+            "org": "Blaise Pascal University"
+        }
+    ],
+    "fields_of_study": [
+        "Swarm intelligence",
+        "Ant colony",
+        "Heuristic",
+        "Rate of convergence",
+        "Metaheuristic",
+        "Discrete mathematics",
+        "Mathematical optimization",
+        "Genetic algorithm",
+        "Local search (optimization)",
+        "Upper and lower bounds",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1517570823",
+        "2041183433"
+    ]
+}

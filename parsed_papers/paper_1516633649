@@ -1,0 +1,48 @@
+{
+    "id": "1516633649",
+    "title": "Scaling up high-value retrieval to medium-volume data",
+    "venue": "information retrieval facility conference",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Hamish Cunningham",
+            "id": "2073298952",
+            "org": "Department of Computer Science, University of Sheffield, Sheffield, UK#TAB#"
+        },
+        {
+            "name": "Allan Hanbury",
+            "id": "2168901591",
+            "org": "Information Retrieval Facility, Vienna, Austria#TAB#"
+        },
+        {
+            "name": "Stefan M. Ruger",
+            "id": "1385431002",
+            "org": "Knowledge Media Institute, The Open University, Milton Keynes, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Concept search",
+        "Document retrieval",
+        "Data mining",
+        "Information retrieval",
+        "Human-computer information retrieval",
+        "Adversarial information retrieval",
+        "Vector space model",
+        "Cognitive models of information retrieval",
+        "Computer science",
+        "Relevance (information retrieval)",
+        "Data retrieval"
+    ],
+    "references": [
+        "1505113900",
+        "1507658324",
+        "1527598200",
+        "1573709357",
+        "1604175545",
+        "1626162317",
+        "1630272287",
+        "1817462968",
+        "2101757148",
+        "2148592218"
+    ]
+}

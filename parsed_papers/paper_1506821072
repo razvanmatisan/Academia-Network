@@ -1,0 +1,27 @@
+{
+    "id": "1506821072",
+    "title": "Cellular Genetic Algorithms",
+    "venue": "international conference on genetic algorithms",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "L. Darrell Whitley",
+            "id": "1911861534",
+            "org": "Beijing Union University"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Genetic algorithm",
+        "Mutation",
+        "Crossover",
+        "Adaptability",
+        "Survival of the fittest",
+        "Nonlinear system",
+        "Artificial intelligence",
+        "Cellular automaton",
+        "Quality control and genetic algorithms",
+        "Computer science"
+    ],
+    "references": []
+}

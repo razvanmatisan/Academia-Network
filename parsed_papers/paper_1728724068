@@ -1,0 +1,44 @@
+{
+    "id": "1728724068",
+    "title": "Low-Latency Communication over Fast Ethernet",
+    "venue": "european conference on parallel processing",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Matt Welsh",
+            "id": "2778415745",
+            "org": "Cornell University"
+        },
+        {
+            "name": "Anindya Basu",
+            "id": "2640206905",
+            "org": "Cornell University"
+        },
+        {
+            "name": "Thorsten von Eicken",
+            "id": "2169239024",
+            "org": "Cornell University"
+        }
+    ],
+    "fields_of_study": [
+        "RDMA over Converged Ethernet",
+        "Parallel computing",
+        "Synchronous Ethernet",
+        "Ethernet over PDH",
+        "Carrier Ethernet",
+        "Connection-oriented Ethernet",
+        "Ethernet over SDH",
+        "ATA over Ethernet",
+        "Fast Ethernet",
+        "Computer science",
+        "Computer network"
+    ],
+    "references": [
+        "1967800745",
+        "2019590278",
+        "2110442760",
+        "2118483404",
+        "2154207621",
+        "2155066383"
+    ]
+}

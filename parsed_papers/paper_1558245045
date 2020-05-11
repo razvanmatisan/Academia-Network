@@ -1,0 +1,30 @@
+{
+    "id": "1558245045",
+    "title": "Logical Scaling in Formal Concept Analysis",
+    "venue": "international conference on conceptual structures",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Susanne Prediger",
+            "id": "1714846615",
+            "org": "Technische Hochschule Darmstadt"
+        }
+    ],
+    "fields_of_study": [
+        "Hierarchy",
+        "Lattice (order)",
+        "Discrete mathematics",
+        "Scaling",
+        "Knowledge representation and reasoning",
+        "Derivation",
+        "Matrix (mathematics)",
+        "Formal concept analysis",
+        "Concept learning",
+        "Mathematics"
+    ],
+    "references": [
+        "1523984945",
+        "1572977915",
+        "2145465694"
+    ]
+}

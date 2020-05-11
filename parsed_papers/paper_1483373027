@@ -1,0 +1,45 @@
+{
+    "id": "1483373027",
+    "title": "Rough multi-category decision theoretic framework",
+    "venue": "rough sets and knowledge technology",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Pawan Lingras",
+            "id": "2078486566",
+            "org": "Department of Mathematics & Computing Science, Saint Mary's University, Halifax, Nova Scotia, Canada#TAB#"
+        },
+        {
+            "name": "Min Chen",
+            "id": "2295426206",
+            "org": "Department of Mathematics & Computing Science, Saint Mary's University, Halifax, Nova Scotia, Canada and School of Electronics and Information Engineering, Tongji University, Shanghai, P.R. China#TAB#"
+        },
+        {
+            "name": "Duoqian Miao",
+            "id": "2082144266",
+            "org": "School of Electronics and Information Engineering, Tongji University, Shanghai, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Binary number",
+        "Machine learning",
+        "Artificial intelligence",
+        "Web mining",
+        "Dominance-based rough set approach",
+        "k-means clustering",
+        "Pattern recognition",
+        "Mathematics",
+        "Rough set"
+    ],
+    "references": [
+        "1606022329",
+        "1969463949",
+        "1980861610",
+        "1987149779",
+        "1997362234",
+        "2035165861",
+        "2142185590",
+        "2143040521"
+    ]
+}

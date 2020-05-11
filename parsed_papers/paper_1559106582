@@ -1,0 +1,43 @@
+{
+    "id": "1559106582",
+    "title": "Modular-Fuzzy Cooperation Algorithm for Multi-agent Systems",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Irfan Gultekin",
+            "id": "2709544350",
+            "org": "Firat University"
+        },
+        {
+            "name": "Ahmet Arslan",
+            "id": "2122031850",
+            "org": "Firat University"
+        }
+    ],
+    "fields_of_study": [
+        "Fuzzy rule",
+        "Fuzzy logic",
+        "Distributed computing",
+        "Neuro-fuzzy",
+        "Algorithm",
+        "Machine learning",
+        "Fuzzy set operations",
+        "Multi-agent system",
+        "Fuzzy number",
+        "Defuzzification",
+        "Fuzzy control system",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "126344362",
+        "1513468570",
+        "1542941925",
+        "1557517019",
+        "1641379095",
+        "1681475672",
+        "2115192345",
+        "2141559645"
+    ]
+}

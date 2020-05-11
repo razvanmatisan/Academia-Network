@@ -1,0 +1,29 @@
+{
+    "id": "1567459171",
+    "title": "Multiobjective Adaptive Representation Evolutionary Algorithm (MAREA) - a new evolutionary algorithm for multiobjective optimization",
+    "venue": "winter simulation conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Crina Grosan",
+            "id": "2065197918",
+            "org": "Babes-Bolyai University"
+        }
+    ],
+    "fields_of_study": [
+        "Evolutionary algorithm",
+        "Steady state",
+        "Evolutionary programming",
+        "Vector space",
+        "Mathematical optimization",
+        "Computer science",
+        "Multi-objective optimization",
+        "Adaptive representation",
+        "Evolution strategy"
+    ],
+    "references": [
+        "1993530334",
+        "2126105956",
+        "2167159964"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": "1822060758",
+    "title": "Towards Virtual Emotions and Emergence of Social Behaviour",
+    "venue": "intelligent virtual agents",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Dirk M. Reichardt",
+            "id": "2089077936",
+            "org": "BA Stuttgart - University of Cooperative Education, Stuttgart, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Non-cooperative game",
+        "Simultaneous game",
+        "Simulations and games in economics education",
+        "Social psychology",
+        "Sequential game",
+        "Repeated game",
+        "Metagaming",
+        "Population",
+        "Public goods game",
+        "Psychology"
+    ],
+    "references": [
+        "1501139396",
+        "2583574278"
+    ]
+}

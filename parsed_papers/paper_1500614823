@@ -1,0 +1,43 @@
+{
+    "id": "1500614823",
+    "title": "A memetic-clustering-based evolution strategy for traveling salesman problems",
+    "venue": "rough sets and knowledge technology",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Yuping Wang",
+            "id": "2638407271",
+            "org": "School of Computer Science and Technology, Xidian University, Xi'an, China#TAB#"
+        },
+        {
+            "name": "Jinhua Qin",
+            "id": "2461844453",
+            "org": "Department of Mathematics Science, Xidian University, Xi'an, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Nearest neighbour algorithm",
+        "2-opt",
+        "Machine learning",
+        "Christofides algorithm",
+        "Mathematical optimization",
+        "Local search (optimization)",
+        "Artificial intelligence",
+        "Lin-Kernighan heuristic",
+        "Travelling salesman problem",
+        "Computer science",
+        "Memetic algorithm"
+    ],
+    "references": [
+        "54221576",
+        "1542631934",
+        "1546457065",
+        "1992419399",
+        "2042986967",
+        "2066194644",
+        "2074950779",
+        "2142661676",
+        "2143391442"
+    ]
+}

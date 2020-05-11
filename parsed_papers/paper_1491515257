@@ -1,0 +1,32 @@
+{
+    "id": "1491515257",
+    "title": "Storing and Retrieving Documents in a Shared Workspace: Experiences from the Political Administration",
+    "venue": "international conference on human computer interaction",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Volker Wulf",
+            "id": "656307113",
+            "org": "University of Bonn"
+        }
+    ],
+    "fields_of_study": [
+        "Document retrieval",
+        "Classification scheme",
+        "Typing",
+        "Human-computer interaction",
+        "Christian ministry",
+        "Multimedia",
+        "Workspace",
+        "World Wide Web",
+        "Computer science",
+        "Engineering support",
+        "Collaborative software",
+        "Politics"
+    ],
+    "references": [
+        "1551074885",
+        "2038498725",
+        "2041513874"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1573754095",
+    "title": "A research agenda for agent-based service-oriented architectures",
+    "venue": "cooperative information agents",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Michael N. Huhns",
+            "id": "189712000",
+            "org": "Department of Computer Science and Engineering, University of South Carolina, Columbia, SC#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Currency converter",
+        "Software deployment",
+        "Web service",
+        "Information system",
+        "Component-based software engineering",
+        "Distributed computing",
+        "Simulation",
+        "Software architecture",
+        "Computer science",
+        "Systems architecture",
+        "Service-oriented architecture"
+    ],
+    "references": [
+        "1969397871",
+        "1992240573",
+        "2115044062",
+        "2130914035",
+        "2150194963",
+        "2169009917"
+    ]
+}

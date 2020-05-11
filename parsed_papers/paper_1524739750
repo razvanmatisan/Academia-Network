@@ -1,0 +1,36 @@
+{
+    "id": "1524739750",
+    "title": "Towards Probabilistic Knowledge Bases",
+    "venue": "international conference on logic programming",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Beat Wuthrich",
+            "id": "2629170242",
+            "org": "ECRC GmbH"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Probability theory",
+        "Semantics",
+        "Datalog",
+        "Computer science",
+        "Probabilistic logic",
+        "Fixed point"
+    ],
+    "references": [
+        "28888204",
+        "49339383",
+        "166404203",
+        "173033638",
+        "1496190091",
+        "1526145227",
+        "1602576879",
+        "1716383435",
+        "1980124682",
+        "2049488596",
+        "2075234487",
+        "2108911687"
+    ]
+}

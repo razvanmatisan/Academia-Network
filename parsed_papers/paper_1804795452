@@ -1,0 +1,37 @@
+{
+    "id": "1804795452",
+    "title": "An Attack on a Signature Scheme Proposed by Okamoto and Shiraishi",
+    "venue": "international cryptology conference",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Ernest F. Brickell",
+            "id": "2788476507",
+            "org": "Bell Communications Research"
+        },
+        {
+            "name": "John M. DeLaurentis",
+            "id": "1969188987",
+            "org": "Sandia National Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Modulus",
+        "Quadratic equation",
+        "Discrete mathematics",
+        "Digital signature",
+        "ElGamal signature scheme",
+        "Merkle signature scheme",
+        "Public-key cryptography",
+        "Computer science",
+        "Adversary",
+        "Authentication"
+    ],
+    "references": [
+        "1495206645",
+        "1592578919",
+        "2047360699",
+        "2056579313"
+    ]
+}

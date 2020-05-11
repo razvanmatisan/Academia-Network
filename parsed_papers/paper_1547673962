@@ -1,0 +1,39 @@
+{
+    "id": "1547673962",
+    "title": "Agent-Based Computing: Promise and Perils",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Nicholas R. Jennings",
+            "id": "2112978975",
+            "org": "Dept. Electronic Engineering, Queen Mary & Westfield College, University of London, London, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Autonomous agent",
+        "Conceptual model",
+        "Software system",
+        "Complex system",
+        "Situated",
+        "Intelligent agent",
+        "Scalability",
+        "Management science",
+        "Complex system",
+        "Computer science"
+    ],
+    "references": [
+        "2028476706",
+        "2076064414",
+        "2093236316",
+        "2105440797",
+        "2105656578",
+        "2119471769",
+        "2124344619",
+        "2129536637",
+        "2140980106",
+        "2141955344",
+        "2155909075",
+        "2161825580"
+    ]
+}

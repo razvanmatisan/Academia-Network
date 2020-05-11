@@ -1,0 +1,49 @@
+{
+    "id": "1563879233",
+    "title": "Topological mapping through distributed, passive sensors",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Dimitri Marinakis",
+            "id": "1227663142",
+            "org": "Centre for Intelligent Machines, McGill University, Montreal, Quebec, Canada#TAB#"
+        },
+        {
+            "name": "Gregory Dudek",
+            "id": "2044010133",
+            "org": "Centre for Intelligent Machines, McGill University, Montreal, Quebec, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Wireless sensor network",
+        "Machine learning",
+        "Graph",
+        "Expectation-maximization algorithm",
+        "Occam's razor",
+        "occam",
+        "Reasoning system",
+        "Computer science",
+        "Computer simulation",
+        "Theoretical computer science",
+        "Statistical model",
+        "Topology"
+    ],
+    "references": [
+        "1494582337",
+        "1550098664",
+        "1599296339",
+        "1870509166",
+        "1985749405",
+        "2050781898",
+        "2110048879",
+        "2110407935",
+        "2126141220",
+        "2142362566",
+        "2152632381",
+        "2160151388",
+        "2162234765",
+        "2171885964"
+    ]
+}

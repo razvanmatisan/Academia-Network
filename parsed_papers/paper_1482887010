@@ -1,0 +1,33 @@
+{
+    "id": "1482887010",
+    "title": "Automatic probabilistic knowledge acquisition from data",
+    "venue": "international conference on data engineering",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "William B. Gevarter",
+            "id": "2030958083",
+            "org": "NASA Ames Research Center, Moffett Field, CA 94035, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Expert system",
+        "Knowledge base",
+        "Information system",
+        "Database",
+        "Contingency table",
+        "Legal expert system",
+        "Probabilistic logic",
+        "Knowledge acquisition",
+        "Machine learning",
+        "Computer science",
+        "Computer program",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "61379056",
+        "113489683",
+        "1592089885"
+    ]
+}

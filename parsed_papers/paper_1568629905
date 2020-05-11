@@ -1,0 +1,30 @@
+{
+    "id": "1568629905",
+    "title": "Distributed PS-algol",
+    "venue": "international workshop on persistent object systems",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Francis Wai",
+            "id": "2618223241",
+            "org": "University of Glasgow"
+        }
+    ],
+    "fields_of_study": [
+        "Locality",
+        "Persistence (computer science)",
+        "Transparency (graphic)",
+        "Semantics",
+        "Remote procedure call",
+        "Address space",
+        "Programmer",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed Computing Environment"
+    ],
+    "references": [
+        "2110425399",
+        "2152879290",
+        "2163285366"
+    ]
+}

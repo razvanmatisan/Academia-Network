@@ -1,0 +1,36 @@
+{
+    "id": "1496647850",
+    "title": "Design of Reactive Control Systems for Event-Drivem Operations",
+    "venue": "formal methods",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Kevin Lano",
+            "id": "426991758",
+            "org": "Imperial College"
+        },
+        {
+            "name": "Arturo Sanchez",
+            "id": "2892633173",
+            "org": "Imperial College"
+        }
+    ],
+    "fields_of_study": [
+        "Formal methods",
+        "Theoretical computer science",
+        "Process control",
+        "Finite-state machine",
+        "Formal specification",
+        "Distributed computing",
+        "Control system",
+        "Reactive system",
+        "Vienna Development Method",
+        "Computer science",
+        "Temporal logic"
+    ],
+    "references": [
+        "1493987013",
+        "1544764256",
+        "1862905605"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": "13729126",
+    "title": "Web-scale human task management",
+    "venue": "european conference on software architecture",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Daniel Schulte",
+            "id": "2115135247",
+            "org": "FernUniversitat in Hagen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Architectural decision",
+        "Task management",
+        "Systems engineering",
+        "Task analysis",
+        "Computer science",
+        "Web application",
+        "Technical support",
+        "Management science"
+    ],
+    "references": [
+        "13643719",
+        "2036083077",
+        "2118736173",
+        "2119600129"
+    ]
+}

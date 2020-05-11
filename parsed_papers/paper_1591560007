@@ -1,0 +1,54 @@
+{
+    "id": "1591560007",
+    "title": "Triangulation of bayesian networks using an adaptive genetic algorithm",
+    "venue": "international syposium on methodologies for intelligent systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Hao Wang",
+            "id": "2593624907",
+            "org": "Department of Computer Science and Technology, Hefei University of Technology, Hefei, China#TAB#"
+        },
+        {
+            "name": "Kui Yu",
+            "id": "2567944696",
+            "org": "Department of Computer Science and Technology, Hefei University of Technology, Hefei, China#TAB#"
+        },
+        {
+            "name": "Xindong Wu",
+            "id": "2123651450",
+            "org": "Department of Computer Science and Technology, Hefei University of Technology, Hefei, China#TAB#"
+        },
+        {
+            "name": "Hongliang Yao",
+            "id": "2097449580",
+            "org": "Department of Computer Science and Technology, Hefei University of Technology, Hefei, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Simulated annealing",
+        "Artificial intelligence",
+        "Machine learning",
+        "Genetic algorithm",
+        "Crossover",
+        "Population",
+        "Population-based incremental learning",
+        "Adaptive algorithm",
+        "Algorithm",
+        "Search algorithm",
+        "Computer science",
+        "Premature convergence"
+    ],
+    "references": [
+        "1530282223",
+        "1566343863",
+        "1590630152",
+        "1991477862",
+        "1999432334",
+        "2086119402",
+        "2123093185",
+        "2142241599",
+        "2159080219",
+        "2170338867"
+    ]
+}

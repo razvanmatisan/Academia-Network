@@ -1,0 +1,38 @@
+{
+    "id": "1607921603",
+    "title": "An Integrity Check Value Algorithm for Stream Ciphers",
+    "venue": "international cryptology conference",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Richard Taylor",
+            "id": "2431710816",
+            "org": "Telecom Australia Research Laboratories#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Fluhrer, Mantin and Shamir attack",
+        "Running key cipher",
+        "Encryption",
+        "Computer science",
+        "Distributed computing",
+        "Stream cipher attack",
+        "Block cipher mode of operation",
+        "Stream cipher",
+        "CBC-MAC",
+        "Communication channel"
+    ],
+    "references": [
+        "1482660480",
+        "1488442350",
+        "1549228503",
+        "1600432225",
+        "1813564308",
+        "1985623009",
+        "2007585625",
+        "2052207834",
+        "2098801947",
+        "2134518741"
+    ]
+}

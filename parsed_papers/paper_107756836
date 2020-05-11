@@ -1,0 +1,29 @@
+{
+    "id": "107756836",
+    "title": "How Formal Ontology can help Civil Engineers",
+    "venue": "Ontologies for Urban Development",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Stefano Borgo",
+            "id": "2710162657",
+            "org": "ISTC-CNR"
+        }
+    ],
+    "fields_of_study": [
+        "Management science",
+        "Ontology",
+        "Process ontology",
+        "Knowledge representation and reasoning",
+        "Ontology alignment",
+        "Formal ontology",
+        "Upper ontology",
+        "Ontology (information science)",
+        "Theoretical computer science",
+        "Applied ontology",
+        "Computer science"
+    ],
+    "references": [
+        "2133109597"
+    ]
+}

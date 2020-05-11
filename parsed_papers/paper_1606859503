@@ -1,0 +1,28 @@
+{
+    "id": "1606859503",
+    "title": "Probabilistic conflict resolution in hierarchical hypothesis spaces",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Tod S. Levitt",
+            "id": "2603571609",
+            "org": "Advanced Information & Decision Systems, Mountain View, California#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Hierarchy",
+        "Machine learning",
+        "Computer science",
+        "Conflict resolution",
+        "Probabilistic logic",
+        "Applications of artificial intelligence",
+        "Artificial intelligence",
+        "Robotics"
+    ],
+    "references": [
+        "2015071685",
+        "2156094048"
+    ]
+}

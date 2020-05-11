@@ -1,0 +1,39 @@
+{
+    "id": "1488802379",
+    "title": "Mobile Agents for Discovering and Accessing Services in Nomadic Environments",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Zhou Wang",
+            "id": "2311886365",
+            "org": "University of Karlsruhe"
+        },
+        {
+            "name": "Jochen Seitz",
+            "id": "2168469629",
+            "org": "Ilmenau Technical University"
+        }
+    ],
+    "fields_of_study": [
+        "Interoperability",
+        "Mobile agent",
+        "Architecture",
+        "Distributed computing",
+        "Service discovery",
+        "Mobile computing",
+        "Service-oriented architecture",
+        "Computer network",
+        "Middleware",
+        "The Internet",
+        "Computer science"
+    ],
+    "references": [
+        "1563844626",
+        "1735967030",
+        "1989163006",
+        "2071990771",
+        "2094554288",
+        "2164353368"
+    ]
+}

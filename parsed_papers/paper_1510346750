@@ -1,0 +1,36 @@
+{
+    "id": "1510346750",
+    "title": "Knowledge in Context: A Strategy for Expert System Maintenance",
+    "venue": "australian joint conference on artificial intelligence",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Paul Compton",
+            "id": "2130286701",
+            "org": "St. Vincent's Hospital"
+        },
+        {
+            "name": "R. Jansen",
+            "id": "2336808118",
+            "org": "St. Vincent's Hospital"
+        }
+    ],
+    "fields_of_study": [
+        "Ripple-down rules",
+        "Expert system",
+        "Knowledge base",
+        "Knowledge engineering",
+        "Domain knowledge",
+        "Management science",
+        "Subject-matter expert",
+        "Legal expert system",
+        "Computer science",
+        "Knowledge-based systems"
+    ],
+    "references": [
+        "5877183",
+        "45599958",
+        "1855185230",
+        "2040672389"
+    ]
+}

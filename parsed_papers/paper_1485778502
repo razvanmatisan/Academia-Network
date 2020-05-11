@@ -1,0 +1,49 @@
+{
+    "id": "1485778502",
+    "title": "Location-Aware Shopping Assistance: Evaluation of a Decision-Theoretic Approach",
+    "venue": "human-computer interaction with mobile devices and services",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Thorsten Bohnenberger",
+            "id": "2431251480",
+            "org": "Saarland University"
+        },
+        {
+            "name": "Anthony Jameson",
+            "id": "2113883066",
+            "org": "German Research Center for Artificial Intelligence (DFKI)"
+        },
+        {
+            "name": "Antonio Kruger",
+            "id": "2471487312",
+            "org": "Saarland University"
+        },
+        {
+            "name": "Andreas Butz",
+            "id": "2147574392",
+            "org": "EyeLed GmbH"
+        }
+    ],
+    "fields_of_study": [
+        "Mockup",
+        "Shopping mall",
+        "Intelligent user interface",
+        "Usability",
+        "Expected utility hypothesis",
+        "Location awareness",
+        "Product (business)",
+        "Simulation",
+        "User interface",
+        "Computer science"
+    ],
+    "references": [
+        "1964077143",
+        "2039725156",
+        "2057690530",
+        "2061504687",
+        "2108349505",
+        "2159334452",
+        "2404201369"
+    ]
+}

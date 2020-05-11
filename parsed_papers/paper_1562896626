@@ -1,0 +1,55 @@
+{
+    "id": "1562896626",
+    "title": "Monitoring and Performance Analysis of Workflow Applications in Large Scale Distributed Systems",
+    "venue": "intelligent networking and collaborative systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Dragos Sbirlea",
+            "id": "119564951",
+            "org": "Computer Science Department, Rice University, Houston, USA"
+        },
+        {
+            "name": "Alina Simion",
+            "id": "2124641413",
+            "org": "Computer Science Department, Rice University, Houston, USA"
+        },
+        {
+            "name": "Florin Pop",
+            "id": "2303552343",
+            "org": "University Politehnica of Bucharest, Bucharest, Romania"
+        },
+        {
+            "name": "Valentin Cristea",
+            "id": "2201231914",
+            "org": "University Politehnica of Bucharest, Bucharest, Romania"
+        }
+    ],
+    "fields_of_study": [
+        "Grid",
+        "Error detection and correction",
+        "Distributed design patterns",
+        "Computer science",
+        "Distributed computing",
+        "Workflow",
+        "Distributed algorithm",
+        "Novelty",
+        "Scheduling (computing)",
+        "Performance tuning",
+        "Real-time computing"
+    ],
+    "references": [
+        "1502171645",
+        "1562375798",
+        "1569544466",
+        "1624502264",
+        "1784710995",
+        "1965218064",
+        "2004385870",
+        "2040931515",
+        "2082574111",
+        "2110099153",
+        "2110645766",
+        "2159102814"
+    ]
+}

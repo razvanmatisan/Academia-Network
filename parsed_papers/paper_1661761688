@@ -1,0 +1,39 @@
+{
+    "id": "1661761688",
+    "title": "Using genetic algorithms to solve NP-complete problems",
+    "venue": "international conference on genetic algorithms",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Kenneth A. De Jong",
+            "id": "2126791821",
+            "org": "George Mason University | Navy Center for Applied Research"
+        },
+        {
+            "name": "William M. Spears",
+            "id": "2723128070",
+            "org": "George Mason University | Navy Center for Applied Research"
+        }
+    ],
+    "fields_of_study": [
+        "P versus NP problem",
+        "Karp's 21 NP-complete problems",
+        "Mathematical optimization",
+        "co-NP-complete",
+        "Cook-Levin theorem",
+        "Karp-Lipton theorem",
+        "Boolean satisfiability problem",
+        "WalkSAT",
+        "PSPACE-complete",
+        "Mathematics"
+    ],
+    "references": [
+        "58255779",
+        "99032621",
+        "1482722110",
+        "1507363803",
+        "1607768087",
+        "1630205871",
+        "1996360405"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "12910824",
+    "title": "Identity-Enriched Session Management",
+    "venue": "I3E",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Tobias Baier",
+            "id": "2252201812",
+            "org": "University of Hamburg"
+        },
+        {
+            "name": "Christian P. Kunze",
+            "id": "2471319542",
+            "org": "University of Hamburg"
+        }
+    ],
+    "fields_of_study": [
+        "Realisation",
+        "Digital citizen",
+        "Data security",
+        "Digital identity",
+        "Spare part",
+        "Online community",
+        "Internet privacy",
+        "Identity management",
+        "The Internet",
+        "Engineering"
+    ],
+    "references": [
+        "1506512961",
+        "1547386575",
+        "2122025605",
+        "2164404885"
+    ]
+}

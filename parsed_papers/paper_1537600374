@@ -1,0 +1,37 @@
+{
+    "id": "1537600374",
+    "title": "Using HTTP as Field Network Transfer Protocol",
+    "venue": "Computer Networks and Isdn Systems",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Arkadiusz Jestratjew",
+            "id": "67061768",
+            "org": "Silesian University of Technology"
+        },
+        {
+            "name": "Andrzej Kwiecien",
+            "id": "2149846981",
+            "org": "Silesian University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Internet protocol suite",
+        "User Datagram Protocol",
+        "Computer network",
+        "Computer science",
+        "Reverse Address Resolution Protocol",
+        "OSI model",
+        "Port Control Protocol",
+        "Link Control Protocol",
+        "Distributed computing",
+        "Internetwork protocol",
+        "Internet Protocol Control Protocol"
+    ],
+    "references": [
+        "1531730941",
+        "2001291669",
+        "2046166587",
+        "2168321211"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1480258395",
+    "title": "Virtual FPGAs: Some steps behind the physical barriers",
+    "venue": "international parallel processing symposium",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "William Fornaciari",
+            "id": "346848410",
+            "org": "Department of Electronics and Information, Politecnico di Milano, Milano, Italy"
+        },
+        {
+            "name": "Vincenzo Piuri",
+            "id": "2130130519",
+            "org": "Department of Electronics and Information, Politecnico di Milano, Milano, Italy"
+        }
+    ],
+    "fields_of_study": [
+        "AND gate",
+        "Embedded system",
+        "FPGA prototype",
+        "Reconfigurable computing",
+        "Real-time operating system",
+        "Field-programmable gate array",
+        "Time-sharing",
+        "Human multitasking",
+        "Virtual memory",
+        "Computer science"
+    ],
+    "references": [
+        "1916709771",
+        "2037093958"
+    ]
+}

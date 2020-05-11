@@ -1,0 +1,40 @@
+{
+    "id": "1507003576",
+    "title": "Decision Enabling Potential of a Business Process",
+    "venue": "pacific asia conference on information systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Dina Neiger",
+            "id": "2077884544",
+            "org": "Association for Information Systems"
+        },
+        {
+            "name": "Leonid Churilov",
+            "id": "1998471002",
+            "org": "Monash University"
+        }
+    ],
+    "fields_of_study": [
+        "Business process",
+        "Business decision mapping",
+        "Business process discovery",
+        "Knowledge management",
+        "Business process modeling",
+        "Management science",
+        "Process modeling",
+        "Business Process Model and Notation",
+        "Business process management",
+        "Process management",
+        "Artifact-centric business process model",
+        "Computer science"
+    ],
+    "references": [
+        "1497602734",
+        "1533045755",
+        "1533934691",
+        "2008140108",
+        "2053762873",
+        "2074012861"
+    ]
+}

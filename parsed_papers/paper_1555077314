@@ -1,0 +1,36 @@
+{
+    "id": "1555077314",
+    "title": "Mathematical Education Game Based on Augmented Reality",
+    "venue": "international conference on e-learning and games",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Hye Sun Lee",
+            "id": "2308941386",
+            "org": "Mixed Reality and Interaction Lab, Sejong University, Seoul, Korea 143-747#TAB#"
+        },
+        {
+            "name": "Jong Weon Lee",
+            "id": "2164072814",
+            "org": "Mixed Reality and Interaction Lab, Sejong University, Seoul, Korea 143-747#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multimedia",
+        "Simulation",
+        "Game testing",
+        "Computer science",
+        "Game design",
+        "Video game design",
+        "Game art design",
+        "Video game development",
+        "Game Developer",
+        "Game mechanics",
+        "Game design document"
+    ],
+    "references": [
+        "108983897",
+        "1990880369",
+        "2008013054"
+    ]
+}

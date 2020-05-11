@@ -1,0 +1,41 @@
+{
+    "id": "1632252467",
+    "title": "On lattice codes for Gaussian interference channels",
+    "venue": "international symposium on information theory",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Jingge Zhu",
+            "id": "2120605578",
+            "org": "School of Computer and Communication Sciences, Ecole Polytechnique Federale de Lausanne (EPFL), Switzerland"
+        },
+        {
+            "name": "Michael Gastpar",
+            "id": "2052894389",
+            "org": "School of Computer and Communication Sciences, Ecole Polytechnique Federale de Lausanne (EPFL), Switzerland"
+        }
+    ],
+    "fields_of_study": [
+        "Interference (wave propagation)",
+        "Lattice (order)",
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "Decoding methods",
+        "Gaussian",
+        "Integrated circuit",
+        "Communication channel",
+        "Mathematics"
+    ],
+    "references": [
+        "1512015702",
+        "2005196269",
+        "2006428380",
+        "2044687293",
+        "2066309767",
+        "2068118751",
+        "2074964448",
+        "2132684888",
+        "2140960960",
+        "2152686737"
+    ]
+}

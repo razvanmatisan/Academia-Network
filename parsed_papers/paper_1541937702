@@ -1,0 +1,37 @@
+{
+    "id": "1541937702",
+    "title": "Communication Bandwidth of Parallel Programming Models on Hybrid Architectures",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Rolf Rabenseifner",
+            "id": "113177573",
+            "org": "High-Performance Computing-Center (HLRS), University of Stuttgart, Stuttgart, Germany D-70550#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Concurrent object-oriented programming",
+        "Parallel computing",
+        "Functional reactive programming",
+        "Programming paradigm",
+        "Computer science",
+        "Signal programming",
+        "Service-oriented programming",
+        "Distributed computing",
+        "Event-driven programming",
+        "Parallel programming model",
+        "Reactive programming"
+    ],
+    "references": [
+        "1496064480",
+        "1544734742",
+        "1716238170",
+        "1963882433",
+        "2046920165",
+        "2081612620",
+        "2098482419",
+        "2108689717",
+        "2127538310"
+    ]
+}

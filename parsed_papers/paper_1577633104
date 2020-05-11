@@ -1,0 +1,37 @@
+{
+    "id": "1577633104",
+    "title": "Unreliable Failure Detectors via Operational Semantics",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Uwe Nestmann",
+            "id": "2780820858",
+            "org": "School of Computer and Communication Sciences EPFL-I&C"
+        },
+        {
+            "name": "Rachele Fuzzati",
+            "id": "74740753",
+            "org": "School of Computer and Communication Sciences EPFL-I&C"
+        }
+    ],
+    "fields_of_study": [
+        "Process calculus",
+        "Detector",
+        "Formal language",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Failure semantics",
+        "Asynchronous system",
+        "Theoretical computer science",
+        "Operational semantics",
+        "Weak solution",
+        "Computer science"
+    ],
+    "references": [
+        "1498709867",
+        "2077240273",
+        "2097437469",
+        "2133943294"
+    ]
+}

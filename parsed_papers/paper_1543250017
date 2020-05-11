@@ -1,0 +1,41 @@
+{
+    "id": "1543250017",
+    "title": "Attribute (feature) completion - the theory of attributes from data mining prospect",
+    "venue": "international conference on data mining",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Tsay Young Lin",
+            "id": "2499477090",
+            "org": "Dept. of Comput. Sci., San Jose State Univ., CA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Semi-structured model",
+        "Data mining",
+        "Machine learning",
+        "Logical data model",
+        "Data model",
+        "Superkey",
+        "Canonical model",
+        "Computer science",
+        "Relational model",
+        "Artificial intelligence",
+        "Candidate key",
+        "Pattern recognition",
+        "Relation (database)"
+    ],
+    "references": [
+        "148160379",
+        "1484833499",
+        "1505152370",
+        "1517825201",
+        "1527854642",
+        "1534662846",
+        "1656108767",
+        "2079526144",
+        "2085638007",
+        "2166559705",
+        "2340020088"
+    ]
+}

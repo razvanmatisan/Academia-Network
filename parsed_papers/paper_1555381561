@@ -1,0 +1,38 @@
+{
+    "id": "1555381561",
+    "title": "EPSO-based gaussian process for electricity price forecasting",
+    "venue": "congress on evolutionary computation",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Hiroyuki Mori",
+            "id": "2794210662",
+            "org": "Dept. of Network Design, Meiji University, Nakano-ku, Tokyo 161-8525, Japan"
+        },
+        {
+            "name": "Kaoru Nakano",
+            "id": "2705652051",
+            "org": "Dept. of Electronics and Bioinformatics, Meiji University, Tama-ku, Kawasaki 214-8571, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Electric power system",
+        "Support vector machine",
+        "Marginal cost",
+        "Artificial intelligence",
+        "Mathematical optimization",
+        "Machine learning",
+        "Smart grid",
+        "Computer science",
+        "Electricity market",
+        "Gaussian process",
+        "Electricity price forecasting",
+        "Electricity pricing"
+    ],
+    "references": [
+        "1547527303",
+        "1663973292",
+        "1998986487",
+        "2161304083"
+    ]
+}

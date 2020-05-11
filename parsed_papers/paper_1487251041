@@ -1,0 +1,40 @@
+{
+    "id": "1487251041",
+    "title": "Defects and Agility: Localization Issues in Agile Development Projects",
+    "venue": "international conference on agile software development",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Malte Ressin",
+            "id": "104899105",
+            "org": "Centre for Internationalisation and Usability, Thames Valley University, London, UK"
+        },
+        {
+            "name": "Jose L. Abdelnour-Nocera",
+            "id": "408217030",
+            "org": "Centre for Internationalisation and Usability, Thames Valley University, London, UK"
+        },
+        {
+            "name": "Andy Smith",
+            "id": "2602527404",
+            "org": "Centre for Internationalisation and Usability, Thames Valley University, London, UK"
+        }
+    ],
+    "fields_of_study": [
+        "Agile usability engineering",
+        "Requirement",
+        "Software development process",
+        "Extreme programming practices",
+        "Agile software development",
+        "Agile Unified Process",
+        "Empirical process (process control model)",
+        "Engineering",
+        "Systems engineering",
+        "Lean software development"
+    ],
+    "references": [
+        "1506144519",
+        "1608874250",
+        "2009408294"
+    ]
+}

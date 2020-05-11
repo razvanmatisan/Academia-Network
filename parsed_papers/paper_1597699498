@@ -1,0 +1,47 @@
+{
+    "id": "1597699498",
+    "title": "Related-Key Cryptanalysis of the Full AES-192 and AES-256",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Alex Biryukov",
+            "id": "2167814525",
+            "org": "University of Luxembourg,#TAB#"
+        },
+        {
+            "name": "Dmitry Khovratovich",
+            "id": "717857179",
+            "org": "University of Luxembourg,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Related-key attack",
+        "Theoretical computer science",
+        "Higher-order differential cryptanalysis",
+        "Computer science",
+        "Chosen-ciphertext attack",
+        "Key-recovery attack",
+        "Boomerang attack",
+        "Linear cryptanalysis",
+        "Block cipher",
+        "Slide attack"
+    ],
+    "references": [
+        "52191336",
+        "85295516",
+        "1515958737",
+        "1518406241",
+        "1540066842",
+        "1554865288",
+        "1556212265",
+        "1568817903",
+        "1571476681",
+        "1587120902",
+        "1870015754",
+        "1991897749",
+        "2095675261",
+        "2169290761",
+        "2396412472"
+    ]
+}

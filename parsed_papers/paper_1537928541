@@ -1,0 +1,43 @@
+{
+    "id": "1537928541",
+    "title": "Experience-based admission control (EBAC)",
+    "venue": "international symposium on computers and communications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Michael Menth",
+            "id": "311150123",
+            "org": "Dept. of Distributed Syst., Wurzburg Univ., Germany"
+        },
+        {
+            "name": "Jens Milbrandt",
+            "id": "1968389801",
+            "org": "Dept. of Distributed Syst., Wurzburg Univ., Germany"
+        },
+        {
+            "name": "Simon Oechsner",
+            "id": "266942143",
+            "org": "Dept. of Distributed Syst., Wurzburg Univ., Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "Admission control",
+        "Statistic",
+        "Quality of service",
+        "Traffic generation model",
+        "Percentile",
+        "Network traffic control",
+        "Packet loss",
+        "Quantile",
+        "Real-time computing",
+        "Computer science"
+    ],
+    "references": [
+        "1528818301",
+        "2108345806",
+        "2118315375",
+        "2127537162",
+        "2147119799"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "1512698090",
+    "title": "CLIR at NTCIR Workshop 3: Cross-Language and Cross-Genre Retrieval",
+    "venue": "cross language evaluation forum",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Noriko Kando",
+            "id": "343307178",
+            "org": "National Institute of Informatics"
+        }
+    ],
+    "fields_of_study": [
+        "Information access",
+        "Information retrieval",
+        "Automatic summarization",
+        "Multilingualism",
+        "Question answering",
+        "Data mining",
+        "Information extraction",
+        "Computer science",
+        "Text mining"
+    ],
+    "references": [
+        "35713441",
+        "1972585778",
+        "2120763999",
+        "2143400823",
+        "2160892561",
+        "2186872665",
+        "2402806195"
+    ]
+}

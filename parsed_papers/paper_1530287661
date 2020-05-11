@@ -1,0 +1,31 @@
+{
+    "id": "1530287661",
+    "title": "On initial conditions for the convergence of simultaneous root finding methods",
+    "venue": "Computing",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Miodrag S. Petkovic",
+            "id": "2129579258",
+            "org": "Faculty of Electronic Engineering, University of Nis, Nis, Yugoslavia"
+        }
+    ],
+    "fields_of_study": [
+        "Iterative method",
+        "Mathematical analysis",
+        "Matrix polynomial",
+        "Mathematical optimization",
+        "Mathematics",
+        "Degree of a polynomial",
+        "Initial value problem",
+        "Reciprocal polynomial",
+        "Root-finding algorithm",
+        "Polynomial",
+        "Properties of polynomial roots"
+    ],
+    "references": [
+        "287601386",
+        "2025026078",
+        "2313498854"
+    ]
+}

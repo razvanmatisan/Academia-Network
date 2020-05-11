@@ -1,0 +1,39 @@
+{
+    "id": "1509525110",
+    "title": "Task Model Refinement with Meta Operators",
+    "venue": "Interactive Systems. Design, Specification, and Verification",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Maik Wurdel",
+            "id": "394069238",
+            "org": "Department of Computer Science, University of Rostock, Germany#TAB#"
+        },
+        {
+            "name": "Daniel Sinnig",
+            "id": "286567824",
+            "org": "Faculty of Engineering and Computer Science, Concordia University, Montreal, Canada#TAB#"
+        },
+        {
+            "name": "Peter Forbrig",
+            "id": "100654205",
+            "org": "Department of Computer Science, University of Rostock, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Requirements engineering",
+        "Equivalence (measure theory)",
+        "Reliability engineering",
+        "Function (engineering)",
+        "Task analysis",
+        "Theoretical computer science",
+        "Operator (computer programming)",
+        "User interface",
+        "Computer science"
+    ],
+    "references": [
+        "1558387439",
+        "1769485920",
+        "1816723967"
+    ]
+}

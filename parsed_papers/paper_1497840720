@@ -1,0 +1,37 @@
+{
+    "id": "1497840720",
+    "title": "Partial Algebras Flow From Algebraic Specifications",
+    "venue": "international colloquium on automata languages and programming",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Hans-Jorg Kreowski",
+            "id": "1971382267",
+            "org": "Universitat Bremen"
+        }
+    ],
+    "fields_of_study": [
+        "Function field of an algebraic variety",
+        "Discrete mathematics",
+        "Algebraic specification",
+        "Computer science",
+        "Algebraic extension",
+        "Combinatorics",
+        "Differential algebraic geometry",
+        "Derived algebraic geometry",
+        "Partial algebra",
+        "Dimension of an algebraic variety",
+        "Algebraic function"
+    ],
+    "references": [
+        "1485242112",
+        "1519959374",
+        "1963842623",
+        "1970554275",
+        "1971975252",
+        "1984841973",
+        "2035625685",
+        "2110050316",
+        "2120054914"
+    ]
+}

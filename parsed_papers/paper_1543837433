@@ -1,0 +1,42 @@
+{
+    "id": "1543837433",
+    "title": "An ontology for mobile device sensor-based context awareness",
+    "venue": "Contexts",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Panu Korpipaa",
+            "id": "2041928609",
+            "org": "VTT Technical Research Centre of Finland, VTT Electronics, Oulu, Finland#TAB#"
+        },
+        {
+            "name": "Jani Mantyjarvi",
+            "id": "1260726573",
+            "org": "VTT Technical Research Centre of Finland, VTT Electronics, Oulu, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile search",
+        "Natural language processing",
+        "Ontology",
+        "RDF",
+        "Ontology-based data integration",
+        "Abstraction layer",
+        "Database",
+        "Mobile device",
+        "Artificial intelligence",
+        "Mobile computing",
+        "Distributed computing",
+        "Context awareness",
+        "Computer science"
+    ],
+    "references": [
+        "1576835806",
+        "1882088395",
+        "1993521216",
+        "2092478745",
+        "2098957700",
+        "2099799663",
+        "2150094524"
+    ]
+}

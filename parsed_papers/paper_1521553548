@@ -1,0 +1,38 @@
+{
+    "id": "1521553548",
+    "title": "Toward the accurate identification of network applications",
+    "venue": "passive and active network measurement",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Andrew W. Moore",
+            "id": "2576671778",
+            "org": "University of Cambridge#TAB#"
+        },
+        {
+            "name": "Konstantina Papagiannaki",
+            "id": "637615493",
+            "org": "Intel Research, Cambridge#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Traffic classification",
+        "Data mining",
+        "Traffic flow",
+        "Distributed computing",
+        "Firewall (construction)",
+        "Network packet",
+        "Payload",
+        "Information extraction",
+        "Port (computer networking)",
+        "Computer science",
+        "The Internet",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1543274545",
+        "1674877186",
+        "1860651521",
+        "2101111986"
+    ]
+}

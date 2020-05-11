@@ -1,0 +1,45 @@
+{
+    "id": "143902180",
+    "title": "OPTIMAL ENERGY-DELAY ROUTING PROTOCOL WITH TRUST LEVELS FOR WIRELESS AD HOC NETWORKS",
+    "venue": "International Journal of Network Security",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Eyad Taqieddin",
+            "id": "2015044428",
+            "org": "University of Bradford"
+        },
+        {
+            "name": "Sarangapani Jagannathan",
+            "id": "2225715891",
+            "org": "Department of Electrical and Computer Engineering|University of Missouri-Rolla"
+        },
+        {
+            "name": "Ann Miller",
+            "id": "2291109655",
+            "org": "Department of Electrical and Computer Engineering|University of Missouri-Rolla"
+        }
+    ],
+    "fields_of_study": [
+        "Optimized Link State Routing Protocol",
+        "Computer security",
+        "Computer network",
+        "Link-state routing protocol",
+        "Hazy Sighted Link State Routing Protocol",
+        "Wireless Routing Protocol",
+        "Ad hoc wireless distribution service",
+        "Zone Routing Protocol",
+        "DSRFLOW",
+        "Dynamic Source Routing",
+        "Computer science"
+    ],
+    "references": [
+        "1558230724",
+        "2015560888",
+        "2113446256",
+        "2124597473",
+        "2135057483",
+        "2156603709",
+        "2168812739"
+    ]
+}

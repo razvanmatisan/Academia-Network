@@ -1,0 +1,39 @@
+{
+    "id": "1497870168",
+    "title": "Bossam: An Extended Rule Engine for OWL Inferencing",
+    "venue": "rules and rule markup languages for the semantic web",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Minsu Jang",
+            "id": "2104244871",
+            "org": "Electronics & Telecommunications Research Institute"
+        },
+        {
+            "name": "Joochan Sohn",
+            "id": "2151952011",
+            "org": "Electronics & Telecommunications Research Institute"
+        }
+    ],
+    "fields_of_study": [
+        "OWL-S",
+        "Computer science",
+        "Database",
+        "Semantic Web Rule Language",
+        "Expert system",
+        "Usability",
+        "Data mining",
+        "Description logic",
+        "Semantic Web",
+        "Search engine",
+        "Inference engine"
+    ],
+    "references": [
+        "48432237",
+        "1532079997",
+        "1554062985",
+        "1578007245",
+        "2029751914",
+        "2102308007"
+    ]
+}

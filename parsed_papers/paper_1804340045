@@ -1,0 +1,42 @@
+{
+    "id": "1804340045",
+    "title": "Bidding under uncertainty: theory and experiments",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Amy Greenwald",
+            "id": "2133795974",
+            "org": "Brown University, Providence, RI#TAB#"
+        },
+        {
+            "name": "Justin A. Boyan",
+            "id": "2804711575",
+            "org": "ITA Software, Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Financial economics",
+        "Mathematical optimization",
+        "Bidding",
+        "Asymptotically optimal algorithm",
+        "Expected value",
+        "Nondeterministic algorithm",
+        "Auction theory",
+        "Stochastic programming",
+        "Common value auction",
+        "Economics",
+        "Uncertainty theory"
+    ],
+    "references": [
+        "6407268",
+        "1584731082",
+        "1973073734",
+        "1999646641",
+        "2027113810",
+        "2064133327",
+        "2102023442",
+        "2102674295",
+        "2116952719"
+    ]
+}

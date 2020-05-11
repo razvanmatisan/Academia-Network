@@ -1,0 +1,40 @@
+{
+    "id": "1539479971",
+    "title": "COMMUNITY LEARNING IN INFORMATION TECHNOLOGY FASHION",
+    "venue": "international conference on information systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ping Wang",
+            "id": "2604005887",
+            "org": "Association for Information Systems"
+        },
+        {
+            "name": "Neil C. Ramiller",
+            "id": "121737005",
+            "org": "University of California, Los Angeles"
+        }
+    ],
+    "fields_of_study": [
+        "Learning cycle",
+        "Knowledge management",
+        "Learning community",
+        "Conceptualization",
+        "Marketing",
+        "Descriptive knowledge",
+        "Management science",
+        "Information technology",
+        "Enterprise resource planning",
+        "Professional learning community",
+        "Computer science",
+        "Organizational learning"
+    ],
+    "references": [
+        "1538800106",
+        "1679374005",
+        "2005914253",
+        "2104153957",
+        "2163883525",
+        "2168165191"
+    ]
+}

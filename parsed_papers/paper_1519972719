@@ -1,0 +1,32 @@
+{
+    "id": "1519972719",
+    "title": "Cross-Platform Parallel Debugging and Performance Analysis Tools",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Shirley Browne",
+            "id": "2131469229",
+            "org": "University of Tennessee"
+        }
+    ],
+    "fields_of_study": [
+        "Cross-platform",
+        "Program analysis",
+        "Algorithmic program debugging",
+        "Debugging",
+        "Computer architecture",
+        "Background debug mode interface",
+        "Snapshot (computer storage)",
+        "Software development",
+        "Parallel programming model",
+        "Distributed computing",
+        "Algorithm",
+        "Computer science"
+    ],
+    "references": [
+        "2072982258",
+        "2098984303",
+        "2165197170"
+    ]
+}

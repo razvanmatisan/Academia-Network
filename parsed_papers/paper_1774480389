@@ -1,0 +1,46 @@
+{
+    "id": "1774480389",
+    "title": "Milestones: a model checker combining symbolic model checking and partial order reduction",
+    "venue": "nasa formal methods",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Jose Vander Meulen",
+            "id": "2138458153",
+            "org": "Universite catholique de Louvain#TAB#"
+        },
+        {
+            "name": "Charles Pecheur",
+            "id": "287685391",
+            "org": "Universite catholique de Louvain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "CTL*",
+        "Theoretical computer science",
+        "Milestone (project management)",
+        "Computer science",
+        "Symbolic trajectory evaluation",
+        "Model checking",
+        "Partial order reduction",
+        "Combinatorial explosion",
+        "Algorithm",
+        "Deadlock",
+        "Spin model"
+    ],
+    "references": [
+        "1523442991",
+        "1568729458",
+        "1573151257",
+        "1573354578",
+        "1574030932",
+        "1583869287",
+        "1811042101",
+        "1965309410",
+        "1973954352",
+        "2115309705",
+        "2120926795",
+        "2132602141",
+        "2157127957"
+    ]
+}

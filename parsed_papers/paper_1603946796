@@ -1,0 +1,47 @@
+{
+    "id": "1603946796",
+    "title": "Acceleration of the A*-Algorithm for the Shortest Path Problem in Digital Road Maps",
+    "venue": "A Quarterly Journal of Operations Research",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Felix Hahne",
+            "id": "1535371917",
+            "org": "Universitat Hildesheim"
+        },
+        {
+            "name": "Curt Nowak",
+            "id": "2162257528",
+            "org": "Universitat Hildesheim"
+        },
+        {
+            "name": "Klaus Ambrosi",
+            "id": "2058367744",
+            "org": "Universitat Hildesheim"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Mathematical optimization",
+        "Yen's algorithm",
+        "Euclidean shortest path",
+        "Widest path problem",
+        "K shortest path routing",
+        "Mathematics",
+        "Shortest path problem",
+        "Shortest Path Faster Algorithm",
+        "Longest path problem",
+        "Constrained Shortest Path First"
+    ],
+    "references": [
+        "30435042",
+        "1487146975",
+        "1493214567",
+        "1561240874",
+        "1981031568",
+        "2003921147",
+        "2014889099",
+        "2030874472",
+        "2160645305"
+    ]
+}

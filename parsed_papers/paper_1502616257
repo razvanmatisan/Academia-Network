@@ -1,0 +1,30 @@
+{
+    "id": "1502616257",
+    "title": "Intelligent Power System",
+    "venue": "Wiley Encyclopedia of Computer Science and Engineering",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Zita A. Vale",
+            "id": "2626290525",
+            "org": "Polytechnic of Porto Portugal"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Marketing and artificial intelligence",
+        "Electric power system",
+        "Expert system",
+        "Simulation",
+        "Software",
+        "Intelligent decision support system",
+        "Multi-agent system",
+        "Computational intelligence",
+        "Engineering",
+        "Multidisciplinary approach"
+    ],
+    "references": [
+        "2004662601",
+        "2097118885"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1505461343",
+    "title": "Multipath FEC scheme for the ATM adaptation layer AAL5",
+    "venue": "BC '98 Proceedings of the IFIP TC6/WG6.2 Fourth International Conference on Broadband Communications: The future of telecommunications",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Georg Carle",
+            "id": "2127992992",
+            "org": "GMD FOKUS"
+        },
+        {
+            "name": "Stefan Dresler",
+            "id": "2022340459",
+            "org": "University of Karlsruhe"
+        },
+        {
+            "name": "Jochen H. Schiller",
+            "id": "2136213204",
+            "org": "University of Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "FX.25 Forward Error Correction",
+        "Multipath propagation",
+        "Error detection and correction",
+        "Forward error correction",
+        "Statistical time division multiplexing",
+        "Reed-Solomon error correction",
+        "ATM adaptation layer",
+        "Code rate",
+        "Real-time computing",
+        "Computer science",
+        "Computer network"
+    ],
+    "references": [
+        "1501052005",
+        "1534925464",
+        "1967810694",
+        "2106868065",
+        "2122410448",
+        "2132091939",
+        "2134731323",
+        "2151352110",
+        "2465200305"
+    ]
+}

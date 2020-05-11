@@ -1,0 +1,40 @@
+{
+    "id": "1501172337",
+    "title": "Process Query Language: A Way to Make Workflow Processes More Flexible *",
+    "venue": "advances in databases and information systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Mariusz Momotko",
+            "id": "82421949",
+            "org": "Rodan Systems"
+        },
+        {
+            "name": "Kazimierz Subieta",
+            "id": "372955294",
+            "org": "Institute of Computer Science PAS"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Windows Workflow Foundation",
+        "Data mining",
+        "Database",
+        "Workflow management system",
+        "XPDL",
+        "Workflow technology",
+        "Workflow engine",
+        "RDF query language",
+        "Business process management",
+        "Workflow Management Coalition"
+    ],
+    "references": [
+        "31253693",
+        "1524528671",
+        "1554278804",
+        "1554917839",
+        "1877477460",
+        "2054994067",
+        "2125568274"
+    ]
+}

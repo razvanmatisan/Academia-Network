@@ -1,0 +1,46 @@
+{
+    "id": "1567387185",
+    "title": "IRENA: information retrieval engine based on natural language analysis",
+    "venue": "RIAO '97 Computer-Assisted Information Searching on Internet",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Avi Arampatzis",
+            "id": "1998784297",
+            "org": "University of Nijmegen, Nijmegen, The Netherlands#TAB#"
+        },
+        {
+            "name": "Cornelis H. A. Koster",
+            "id": "2165092847",
+            "org": "University of Nijmegen, Nijmegen, The Netherlands#TAB#"
+        },
+        {
+            "name": "T. Tsoris",
+            "id": "369502492",
+            "org": "University of Nijmegen, Nijmegen, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language",
+        "Language transfer",
+        "Precision and recall",
+        "Question answering",
+        "Information retrieval",
+        "Parsing",
+        "Noun phrase",
+        "Language identification",
+        "Natural language processing",
+        "Lexicon",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1771592302",
+        "1970139893",
+        "1980910426",
+        "1993258438",
+        "2039748601",
+        "2058200372",
+        "2136987143"
+    ]
+}

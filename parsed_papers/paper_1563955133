@@ -1,0 +1,42 @@
+{
+    "id": "1563955133",
+    "title": "On the Quality of Partitions Based on Space-Filling Curves",
+    "venue": "international conference on computational science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jan Hungershofer",
+            "id": "251586807",
+            "org": "Paderborn Center for Parallel Computing"
+        },
+        {
+            "name": "Jens-Michael Wierum",
+            "id": "2798801538",
+            "org": "Paderborn Center for Parallel Computing"
+        }
+    ],
+    "fields_of_study": [
+        "Hilbert curve",
+        "Discrete mathematics",
+        "Grid",
+        "Space-filling curve",
+        "Computational geometry",
+        "Case analysis",
+        "Partition (number theory)",
+        "Indexation",
+        "Lebesgue integration",
+        "Mathematics"
+    ],
+    "references": [
+        "1494524132",
+        "1919542631",
+        "1986485161",
+        "1996639891",
+        "2009520177",
+        "2080956162",
+        "2120130991",
+        "2159772324",
+        "2563604890",
+        "2721204918"
+    ]
+}

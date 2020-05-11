@@ -1,0 +1,40 @@
+{
+    "id": "1580001748",
+    "title": "A Transparent Software Distributed Shared Memory",
+    "venue": "european conference on parallel processing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Emil-Dan Kohn",
+            "id": "2408699823",
+            "org": "Technion"
+        },
+        {
+            "name": "Assaf Schuster",
+            "id": "2135728993",
+            "org": "Technion"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed shared memory",
+        "Parallel computing",
+        "Scalability",
+        "Application programming interface",
+        "Memory model",
+        "Distributed algorithm",
+        "Distributed computing",
+        "Distributed memory",
+        "Shared memory",
+        "Global variable",
+        "Computer science"
+    ],
+    "references": [
+        "1542985837",
+        "1982881898",
+        "2048118924",
+        "2101166607",
+        "2126990153",
+        "2134023093",
+        "2141318181"
+    ]
+}

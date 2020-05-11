@@ -1,0 +1,38 @@
+{
+    "id": "1498291261",
+    "title": "Disclosure Risk Assessment in Perturbative Microdata Protection",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "William E. Yancey",
+            "id": "2115570601",
+            "org": "U.S. Bureau of the Census"
+        },
+        {
+            "name": "William E. Winkler",
+            "id": "2247444821",
+            "org": "U.S. Bureau of the Census"
+        },
+        {
+            "name": "Robert H. Creecy",
+            "id": "2676683084",
+            "org": "U.S. Bureau of the Census"
+        }
+    ],
+    "fields_of_study": [
+        "Econometrics",
+        "Risk analysis (business)",
+        "Risk assessment",
+        "Expectation-maximization algorithm",
+        "Probabilistic logic",
+        "Record linkage",
+        "Swap (computer programming)",
+        "Microdata (HTML)",
+        "Perturbation theory (quantum mechanics)",
+        "Mathematics"
+    ],
+    "references": [
+        "2010182665"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1553595359",
+    "title": "On Differential and Linear Crytoanalysis of the RC5 Encryption Algorithm",
+    "venue": "international cryptology conference",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Burton S. Kaliski",
+            "id": "2229857280",
+            "org": "RSA Laboratories"
+        },
+        {
+            "name": "Yiqun Lisa Yin",
+            "id": "2833068635",
+            "org": "RSA Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Differential cryptanalysis",
+        "Higher-order differential cryptanalysis",
+        "Theoretical computer science",
+        "Symmetric-key algorithm",
+        "Ciphertext-only attack",
+        "XSL attack",
+        "Boomerang attack",
+        "Block cipher",
+        "Linear cryptanalysis",
+        "Mathematics"
+    ],
+    "references": [
+        "1500356409",
+        "1537206908",
+        "1542500920",
+        "1556727271",
+        "1964723977",
+        "1978695162",
+        "1979802565"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1515162016",
+    "title": "Knowledge state reconsideration: hindsight belief revision",
+    "venue": "national conference on artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Frances L. Johnson",
+            "id": "2159456605",
+            "org": "Department of Computer Science and Engineering, Center for Cognitive Science, Center for Multisource Information Fusion, SNePS Research Group, University at Buffalo, The State University of New Yo ...#TAB#"
+        },
+        {
+            "name": "Stuart C. Shapiro",
+            "id": "2142879822",
+            "org": "Department of Computer Science and Engineering, Center for Cognitive Science, Center for Multisource Information Fusion, SNePS Research Group, University at Buffalo, The State University of New Yo ...#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Belief revision",
+        "AKA",
+        "Cognitive psychology",
+        "Machine learning",
+        "Transitive relation",
+        "Order of operations",
+        "Knowledge representation and reasoning",
+        "Hindsight bias",
+        "Reflexive relation",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "71638810",
+        "1513414475",
+        "1568131624",
+        "1889333569",
+        "2032245524",
+        "2079638767",
+        "2149420462"
+    ]
+}

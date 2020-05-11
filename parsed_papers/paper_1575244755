@@ -1,0 +1,28 @@
+{
+    "id": "1575244755",
+    "title": "Optimal rates of aggregation",
+    "venue": "conference on learning theory",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Alexandre B. Tsybakov",
+            "id": "2236752208",
+            "org": "Universite Paris 6"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Convex analysis",
+        "Statistics",
+        "Linear model",
+        "Square (algebra)",
+        "Upper and lower bounds",
+        "Regression analysis",
+        "Model selection",
+        "Estimator",
+        "Mathematics"
+    ],
+    "references": [
+        "1484867920"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "1653349957",
+    "title": "How to Evaluate Controlled Natural Languages",
+    "venue": "controlled natural language",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Tobias Kuhn",
+            "id": "2194150621",
+            "org": "University of Zurich"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language",
+        "Notation",
+        "Computer science",
+        "Natural language processing",
+        "Controlled natural language",
+        "Attempto Controlled English",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1506442979",
+        "2111306015",
+        "2135380458"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1605972127",
+    "title": "Weighted Graph-Matching Using Modal Clusters",
+    "venue": "computer analysis of images and patterns",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Marco Carcassoni",
+            "id": "2460227031",
+            "org": "University of York"
+        },
+        {
+            "name": "Edwin R. Hancock",
+            "id": "2047018924",
+            "org": "University of York"
+        }
+    ],
+    "fields_of_study": [
+        "Pairwise comparison",
+        "Discrete mathematics",
+        "Adjacency matrix",
+        "Artificial intelligence",
+        "Matrix representation",
+        "Mathematical optimization",
+        "Image processing",
+        "Probabilistic logic",
+        "Matching (graph theory)",
+        "Pattern recognition",
+        "Matrix decomposition",
+        "Mathematics",
+        "Eigendecomposition of a matrix"
+    ],
+    "references": [
+        "1640070940",
+        "1972278541",
+        "1977096235",
+        "2038377170",
+        "2094984135",
+        "2103239986",
+        "2104214849",
+        "2108182844",
+        "2114785422",
+        "2121947440",
+        "2140000690"
+    ]
+}

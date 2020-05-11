@@ -1,0 +1,53 @@
+{
+    "id": "155364494",
+    "title": "Agent Based Approach for Radio Resource Optimization for Cellular Networks",
+    "venue": "computer information systems and industrial management applications",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Rakesh Kumar Mishra",
+            "id": "2226201641",
+            "org": "Feroze Gandhi Istitute of Engineering and Technology"
+        },
+        {
+            "name": "S. Saha",
+            "id": "2136223893",
+            "org": "University of Calcutta"
+        },
+        {
+            "name": "Sankhayan Choudhury",
+            "id": "2142484337",
+            "org": "University of Calcutta"
+        },
+        {
+            "name": "Nabendu Chaki",
+            "id": "2194458762",
+            "org": "University of Calcutta"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Real-time computing",
+        "Computer science",
+        "Machine learning",
+        "Quality of service",
+        "Call Admission Control",
+        "Resource management",
+        "Cellular network",
+        "Data as a service",
+        "Multi-agent system",
+        "Radio resource management",
+        "Resource allocation"
+    ],
+    "references": [
+        "1675340958",
+        "1876335696",
+        "1966712739",
+        "2092585135",
+        "2100946206",
+        "2122837412",
+        "2127886468",
+        "2135755404",
+        "2151310192"
+    ]
+}

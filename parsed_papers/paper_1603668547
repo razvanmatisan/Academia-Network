@@ -1,0 +1,55 @@
+{
+    "id": "1603668547",
+    "title": "Reverse engineering of embedded software using syntactic pattern recognition",
+    "venue": "international conference on move to meaningful internet systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Mike Fournigault",
+            "id": "2345893964",
+            "org": "L2MP-ISEN, Toulon, France#TAB#"
+        },
+        {
+            "name": "Pierre-Yvan Liardet",
+            "id": "2012640772",
+            "org": "ST Microelectronics, Rousset, France#TAB#"
+        },
+        {
+            "name": "Yannick Teglia",
+            "id": "1629264000",
+            "org": "ST Microelectronics, Rousset, France#TAB#"
+        },
+        {
+            "name": "Alain Tremeau",
+            "id": "241542488",
+            "org": "LIGIV, Saint-Etienne, France#TAB#"
+        },
+        {
+            "name": "Frederique Robert-Inacio",
+            "id": "738448407",
+            "org": "L2MP-ISEN, Toulon, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Side channel attack",
+        "Syntactic pattern recognition",
+        "Real-time computing",
+        "Parsing",
+        "Reverse engineering",
+        "Distributed computing",
+        "Power analysis",
+        "Chip",
+        "Embedded software",
+        "Software development",
+        "Computer security",
+        "Computer science"
+    ],
+    "references": [
+        "1504927043",
+        "1506530330",
+        "1560093457",
+        "2154909745",
+        "2395584252",
+        "2464729570"
+    ]
+}

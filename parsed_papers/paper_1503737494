@@ -1,0 +1,41 @@
+{
+    "id": "1503737494",
+    "title": "Actor-Critic Algorithms for Variance Minimization",
+    "venue": "computer, information, and systems sciences, and engineering",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Yogesh P. Awate",
+            "id": "2627880957",
+            "org": "MarketRx - A Cognizant Company"
+        }
+    ],
+    "fields_of_study": [
+        "Empirical risk minimization",
+        "Approximation error",
+        "Covariance matrix",
+        "Estimator",
+        "Function approximation",
+        "Mathematical optimization",
+        "Reinforcement learning",
+        "Machine learning",
+        "Algorithm",
+        "Mean squared error",
+        "Covariance function",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1646707810",
+        "1970789124",
+        "2009303086",
+        "2120465407",
+        "2124098876",
+        "2130801532",
+        "2136602922",
+        "2144446635",
+        "2155027007",
+        "2172968643",
+        "2235112790"
+    ]
+}

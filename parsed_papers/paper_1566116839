@@ -1,0 +1,40 @@
+{
+    "id": "1566116839",
+    "title": "Text classification using web corpora and EM algorithms",
+    "venue": "asia information retrieval symposium",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Chen-Ming Hung",
+            "id": "2649007295",
+            "org": "Institute of Information Science, Academia Sinica, Taipei, Taiwan#TAB#"
+        },
+        {
+            "name": "Lee-Feng Chien",
+            "id": "2695509671",
+            "org": "Institute of Information Science, Academia Sinica, Taipei, Taiwan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Training set",
+        "Information retrieval",
+        "Cluster analysis",
+        "Document retrieval",
+        "Expectation-maximization algorithm",
+        "Classifier (linguistics)",
+        "Computer science",
+        "Machine learning",
+        "Search engine",
+        "Web search engine",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1570876803",
+        "2070920590",
+        "2097089247",
+        "2140136927",
+        "2167044614"
+    ]
+}

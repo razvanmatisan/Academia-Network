@@ -1,0 +1,47 @@
+{
+    "id": "1494472157",
+    "title": "Diagrammatic confluence for constraint handling rules",
+    "venue": "Theory and Practice of Logic Programming",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Remy Haemmerle",
+            "id": "2400586061",
+            "org": "Technical university of madrid#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Rotation formalisms in three dimensions",
+        "Computation",
+        "Theoretical computer science",
+        "Diagrammatic reasoning",
+        "Computer science",
+        "Modular design",
+        "Modularity",
+        "Constraint Handling Rules",
+        "Confluence",
+        "Rewriting"
+    ],
+    "references": [
+        "191952801",
+        "1483111029",
+        "1498867194",
+        "1499633535",
+        "1603799276",
+        "1605034197",
+        "1609605580",
+        "1620288907",
+        "1791504211",
+        "1833447734",
+        "1893229108",
+        "1907069005",
+        "1968228870",
+        "1979101142",
+        "2040263743",
+        "2079333278",
+        "2098036931",
+        "2144960539",
+        "2570710533"
+    ]
+}

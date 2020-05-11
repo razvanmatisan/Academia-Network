@@ -1,0 +1,41 @@
+{
+    "id": "1526738944",
+    "title": "A Feature Map Approach to Real-Time 3-D Object Pose Estimation from Single 2-D Perspective Views",
+    "venue": "Mustererkennung 1997, 19. DAGM-Symposium",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Stefan Winkler",
+            "id": "2295778526",
+            "org": "Deutsche Forschungsanstalt fur Luft- und Raumfahrt e.V.-DLR"
+        },
+        {
+            "name": "Patrick Wunsch",
+            "id": "2246925051",
+            "org": "Deutsche Forschungsanstalt fur Luft- und Raumfahrt e.V.-DLR"
+        },
+        {
+            "name": "Gerd Hirzinger",
+            "id": "1791484504",
+            "org": "Deutsche Forschungsanstalt fur Luft- und Raumfahrt e.V.-DLR"
+        }
+    ],
+    "fields_of_study": [
+        "Self-organizing map",
+        "3D pose estimation",
+        "Artificial neural network",
+        "Frame rate",
+        "Network topology",
+        "Real image",
+        "Computer vision",
+        "Pose",
+        "Tracking system",
+        "Mathematics",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1817644897",
+        "1968652193"
+    ]
+}

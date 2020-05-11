@@ -1,0 +1,48 @@
+{
+    "id": "1598086716",
+    "title": "A principled approach to the analysis of process mining algorithms",
+    "venue": "intelligent data engineering and automated learning",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Phil Weber",
+            "id": "2274536552",
+            "org": "School of Computer Science, University of Birmingham, UK#TAB#"
+        },
+        {
+            "name": "Behzad Bordbar",
+            "id": "2042417741",
+            "org": "School of Computer Science, University of Birmingham, UK#TAB#"
+        },
+        {
+            "name": "Peter Tino",
+            "id": "6607388",
+            "org": "School of Computer Science, University of Birmingham, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Business process discovery",
+        "Machine learning",
+        "Computer science",
+        "Process modeling",
+        "Business process modeling",
+        "Process mining",
+        "Concept mining",
+        "Business Process Model and Notation",
+        "Artifact-centric business process model",
+        "Data stream mining",
+        "Algorithm",
+        "Data mining"
+    ],
+    "references": [
+        "1508436075",
+        "2012597977",
+        "2031846435",
+        "2087103691",
+        "2098250644",
+        "2122092249",
+        "2163284032",
+        "2170917993"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "1539294504",
+    "title": "A Computing System to Assist Business Leaders in Making Ethical Decisions",
+    "venue": "II3E",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Reggie Davidrajuh",
+            "id": "34405783",
+            "org": "University of Stavanger"
+        }
+    ],
+    "fields_of_study": [
+        "Business decision mapping",
+        "Business opportunity",
+        "Stakeholder analysis",
+        "Multitier architecture",
+        "Stakeholder theory",
+        "Adaptive system",
+        "Business",
+        "Autonomic computing",
+        "Inference engine",
+        "Knowledge management"
+    ],
+    "references": [
+        "1487903654",
+        "1925367555",
+        "1980241963"
+    ]
+}

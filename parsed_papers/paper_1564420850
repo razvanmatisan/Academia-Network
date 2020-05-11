@@ -1,0 +1,36 @@
+{
+    "id": "1564420850",
+    "title": "Upper bounds for a theory of queues",
+    "venue": "international colloquium on automata languages and programming",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Tatiana Rybina",
+            "id": "2153797272",
+            "org": "University of Manchester#TAB#"
+        },
+        {
+            "name": "Andrei Voronkov",
+            "id": "2106828797",
+            "org": "University of Manchester#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Discrete mathematics",
+        "Distributed computing",
+        "Natural number",
+        "Upper and lower bounds",
+        "Exponential function",
+        "Turing machine",
+        "Queue",
+        "Mathematics"
+    ],
+    "references": [
+        "1517606395",
+        "1570009926",
+        "1988305994",
+        "1995317845",
+        "2296095876"
+    ]
+}

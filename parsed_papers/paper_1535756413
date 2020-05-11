@@ -1,0 +1,32 @@
+{
+    "id": "1535756413",
+    "title": "Messaging Systems: Parallel Computing the Internet and the Grid",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Geoffrey C. Fox",
+            "id": "2165267828",
+            "org": "Indiana University"
+        }
+    ],
+    "fields_of_study": [
+        "Messaging pattern",
+        "Grid",
+        "Web service",
+        "SOAP",
+        "Networking hardware",
+        "Distributed computing",
+        "Parallel algorithm",
+        "Message passing",
+        "The Internet",
+        "Computer science"
+    ],
+    "references": [
+        "180719159",
+        "1590053617",
+        "2059866967",
+        "2090969810",
+        "2133145482"
+    ]
+}

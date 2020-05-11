@@ -1,0 +1,31 @@
+{
+    "id": "1581057499",
+    "title": "Automata and AB-Categorial grammars",
+    "venue": "international conference on implementation and application of automata",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Isabelle Tellier",
+            "id": "61851480",
+            "org": "GRAppA & Inria Futurs, Lille (MOSTRARE project), Villeneuve d'Ascq, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Formalism (philosophy)",
+        "Natural language",
+        "Recursion",
+        "Expressive power",
+        "Natural language processing",
+        "Special case",
+        "Context-free language",
+        "Programming language",
+        "Categorial grammar",
+        "Computer science",
+        "Rule-based machine translation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1573512697",
+        "2035032881"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1527399479",
+    "title": "Advances in video compression",
+    "venue": "european signal processing conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jens-Rainer Ohm",
+            "id": "1893916197",
+            "org": "Institute of Communications Engineering, RWTH Aachen University, Melatener Str. 23, 52074, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Quarter-pixel motion",
+        "Video processing",
+        "Video compression picture types",
+        "Video tracking",
+        "Context-adaptive binary arithmetic coding",
+        "Simulation",
+        "Video post-processing",
+        "Motion compensation",
+        "Data compression",
+        "Computer science"
+    ],
+    "references": [
+        "1501960917",
+        "1524079700",
+        "2109946808",
+        "2118375162",
+        "2129768577",
+        "2130703261",
+        "2140199336",
+        "2142803455",
+        "2151518547"
+    ]
+}

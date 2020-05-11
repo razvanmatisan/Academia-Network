@@ -1,0 +1,48 @@
+{
+    "id": "1583704618",
+    "title": "Fitness Approximation In Evolutionary Computation - a Survey",
+    "venue": "genetic and evolutionary computation conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Yaochu Jin",
+            "id": "2280789105",
+            "org": "Future Technology Research, Honda R&D Europe (D) GmbH, Offenbach/Main, Germany#TAB#"
+        },
+        {
+            "name": "Bernhard Sendhoff",
+            "id": "699787859",
+            "org": "Future Technology Research, Honda R&D Europe (D) GmbH, Offenbach/Main, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Evolutionary algorithm",
+        "Machine learning",
+        "Evolutionary computation",
+        "Artificial intelligence",
+        "Mathematical optimization",
+        "Interactive evolutionary computation",
+        "Evolutionary programming",
+        "Human-based evolutionary computation",
+        "Fitness approximation",
+        "Learnable Evolution Model",
+        "Evolutionary robotics",
+        "Computer science"
+    ],
+    "references": [
+        "149236175",
+        "1555106872",
+        "1559312966",
+        "1591022951",
+        "1976379984",
+        "2023626239",
+        "2039992864",
+        "2070534370",
+        "2090711451",
+        "2115305054",
+        "2131279069",
+        "2148924730",
+        "2166856932",
+        "2509180494"
+    ]
+}

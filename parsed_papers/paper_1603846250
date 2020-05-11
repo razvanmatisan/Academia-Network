@@ -1,0 +1,38 @@
+{
+    "id": "1603846250",
+    "title": "Advances in Machine Learning",
+    "venue": "Advances in Computational Intelligence and Learning: Methods and Applications",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Maarten van Someren",
+            "id": "2124654629",
+            "org": "University of Amsterdam"
+        }
+    ],
+    "fields_of_study": [
+        "Instance-based learning",
+        "Predictive modelling",
+        "Algorithmic learning theory",
+        "Hyper-heuristic",
+        "Natural language processing",
+        "Machine learning",
+        "Computational intelligence",
+        "Statistical relational learning",
+        "Computational learning theory",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1534477342",
+        "1549465597",
+        "1561145889",
+        "1605688901",
+        "1976923275",
+        "1990372165",
+        "2042385018",
+        "2071865391",
+        "2152761983",
+        "2154231540"
+    ]
+}

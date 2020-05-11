@@ -1,0 +1,55 @@
+{
+    "id": "1569686038",
+    "title": "An integrated approach for P2P file sharing on multi-hop wireless networks",
+    "venue": "wireless and mobile computing, networking and communications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Bin Tang",
+            "id": "2161269703",
+            "org": "Dept. of Comput. Sci., Stony Brook Univ., NY, USA"
+        },
+        {
+            "name": "Zongheng Zhou",
+            "id": "2674536964",
+            "org": "Dept. of Comput. Sci., Stony Brook Univ., NY, USA"
+        },
+        {
+            "name": "Anand Kashyap",
+            "id": "2306754820",
+            "org": "Dept. of Comput. Sci., Stony Brook Univ., NY, USA"
+        },
+        {
+            "name": "Tzi-cker Chiueh",
+            "id": "2112199241",
+            "org": "Dept. of Comput. Sci., Stony Brook Univ., NY, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Optimized Link State Routing Protocol",
+        "Wireless ad hoc network",
+        "Computer network",
+        "Adaptive quality of service multi-hop routing",
+        "Ad hoc wireless distribution service",
+        "Wireless Routing Protocol",
+        "Distributed computing",
+        "SSH File Transfer Protocol",
+        "Hazy Sighted Link State Routing Protocol",
+        "Dynamic Source Routing",
+        "Computer science"
+    ],
+    "references": [
+        "1510648287",
+        "1553876756",
+        "2014306135",
+        "2045774966",
+        "2099574482",
+        "2118428193",
+        "2125673941",
+        "2133794215",
+        "2158049821",
+        "2163059190",
+        "2167898414",
+        "2169848785"
+    ]
+}

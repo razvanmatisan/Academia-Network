@@ -1,0 +1,37 @@
+{
+    "id": "1505226138",
+    "title": "Inductive type schemas as functors",
+    "venue": "computer science symposium in russia",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Freiric Barral",
+            "id": "2549538819",
+            "org": "LMU Munchen, Institut fur Informatik, Munchen, Germany#TAB#"
+        },
+        {
+            "name": "Sergei Soloviev",
+            "id": "2138564696",
+            "org": "IRIT, Universite Paul Sabatier, Toulouse, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parametric statistics",
+        "Normalization (statistics)",
+        "Decidability",
+        "Type theory",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Inductive type",
+        "Functor",
+        "Confluence",
+        "Rewriting",
+        "Mathematics"
+    ],
+    "references": [
+        "1514486135",
+        "1521250667",
+        "2015228038",
+        "2057292961"
+    ]
+}

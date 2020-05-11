@@ -1,0 +1,33 @@
+{
+    "id": "1597480012",
+    "title": "Towards DNA Sequencing Chips",
+    "venue": "mathematical foundations of computer science",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Pavel A. Pevzner",
+            "id": "2016289770",
+            "org": "The Pennsylvania State University"
+        },
+        {
+            "name": "Robert J. Lipshutz",
+            "id": "2214186907",
+            "org": "Affymetrix, Inc."
+        }
+    ],
+    "fields_of_study": [
+        "Massive parallel sequencing",
+        "Ion semiconductor sequencing",
+        "Sequencing by hybridization",
+        "Illumina dye sequencing",
+        "Shotgun sequencing",
+        "Sequence assembly",
+        "DNA nanoball sequencing",
+        "Sequencing by ligation",
+        "Computer science",
+        "Bioinformatics"
+    ],
+    "references": [
+        "2043481183"
+    ]
+}

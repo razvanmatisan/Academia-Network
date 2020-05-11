@@ -1,0 +1,38 @@
+{
+    "id": "1509485343",
+    "title": "On the Expressive Power of OCL",
+    "venue": "formal methods",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Luis Mandel",
+            "id": "2141896135",
+            "org": "Forschungsinstitut fur Angewandte Software-Technologie (FAST e. V.)"
+        },
+        {
+            "name": "Maria Victoria Cengarle",
+            "id": "31750804",
+            "org": "Ludwig-Maximilians-Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Codd's theorem",
+        "Computability",
+        "Relational calculus",
+        "Object Constraint Language",
+        "Discrete mathematics",
+        "Transitive closure",
+        "Binary relation",
+        "Algorithm",
+        "Turing machine",
+        "Object-oriented programming",
+        "Computer science"
+    ],
+    "references": [
+        "1495380017",
+        "1497921804",
+        "1524668325",
+        "2160417078",
+        "2529054973"
+    ]
+}

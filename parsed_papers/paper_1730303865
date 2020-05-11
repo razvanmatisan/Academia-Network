@@ -1,0 +1,35 @@
+{
+    "id": "1730303865",
+    "title": "A General Formula of the (t, n)-Threshold Visual Secret Sharing Scheme",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Hiroki Koga",
+            "id": "2088876706",
+            "org": "University of Tsukuba"
+        }
+    ],
+    "fields_of_study": [
+        "Bijection",
+        "Discrete mathematics",
+        "Satisfiability",
+        "Matrix (mathematics)",
+        "Linear space",
+        "Homogeneous polynomial",
+        "Shamir's Secret Sharing",
+        "Combinatorics",
+        "Lattice (group)",
+        "Secret sharing",
+        "Mathematics"
+    ],
+    "references": [
+        "1485965721",
+        "1557972157",
+        "1589946980",
+        "2009559910",
+        "2038948825",
+        "2046251989",
+        "2083844309"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "1561348373",
+    "title": "Knowledge technologies for the social semantic desktop",
+    "venue": "knowledge science engineering and management",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Andreas Dengel",
+            "id": "2429249806",
+            "org": "Knowledge Management Dept, DFKI & University of Kaiserslautern, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "RDF",
+        "Community building",
+        "Information sharing",
+        "Workspace",
+        "World Wide Web",
+        "RDF Schema",
+        "Social Semantic Web",
+        "Personal information management",
+        "Computer science",
+        "Semantic desktop",
+        "Knowledge management"
+    ],
+    "references": [
+        "179210487",
+        "1480606174",
+        "1497368632",
+        "1575801721",
+        "2101709920"
+    ]
+}

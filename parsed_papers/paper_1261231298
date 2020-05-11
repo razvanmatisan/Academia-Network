@@ -1,0 +1,41 @@
+{
+    "id": "1261231298",
+    "title": "A Competitive Analysis of Nearest Neighbor Based Algorithms for Searching Unknown Scenes (Preliminary Version)",
+    "venue": "symposium on theoretical aspects of computer science",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Bala Kalyanasundaram",
+            "id": "22180286",
+            "org": "Computer Science Department|University of Pittsburgh"
+        },
+        {
+            "name": "Kirk Pruhs",
+            "id": "2147318369",
+            "org": "Computer Science Department|University of Pittsburgh"
+        }
+    ],
+    "fields_of_study": [
+        "Best bin first",
+        "Nearest neighbor graph",
+        "Combinatorics",
+        "Computer science",
+        "Competitive analysis",
+        "Large margin nearest neighbor",
+        "Nearest-neighbor chain algorithm",
+        "Nearest neighbor search",
+        "Artificial intelligence",
+        "k-nearest neighbors algorithm",
+        "Randomized algorithm",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1538209031",
+        "2002652389",
+        "2022179164",
+        "2058154701",
+        "2060879333",
+        "2067168270",
+        "2126572568"
+    ]
+}

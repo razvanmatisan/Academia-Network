@@ -1,0 +1,36 @@
+{
+    "id": "1787710849",
+    "title": "Dimensional Indexing for Targeted Case-Base Retrieval: The SMIRKS System",
+    "venue": "the florida ai research society",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Philomena Y. Lee",
+            "id": "2480881511",
+            "org": "Department of Computer Science and Engineering|Wright State University"
+        },
+        {
+            "name": "Michael T. Cox",
+            "id": "2122026223",
+            "org": "Department of Computer Science and Engineering|Wright State University"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "One-dimensional space",
+        "Search engine indexing",
+        "Data mining",
+        "Elaboration",
+        "Computer science",
+        "Indexation",
+        "Case-based reasoning",
+        "Linear search",
+        "Semantic reasoner"
+    ],
+    "references": [
+        "1530921167",
+        "1999304076",
+        "2088779313",
+        "2163952039"
+    ]
+}

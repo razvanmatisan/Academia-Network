@@ -1,0 +1,48 @@
+{
+    "id": "142442699",
+    "title": "Tableaux for Relation-Changing Modal Logics",
+    "venue": "frontiers of combining systems",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Carlos Areces",
+            "id": "2056392177",
+            "org": "Universidad Nacional de Cordoba"
+        },
+        {
+            "name": "Carlos Areces",
+            "id": "2056392177",
+            "org": "Universidad Nacional de Cordoba"
+        },
+        {
+            "name": "Raul Fervari",
+            "id": "84930519",
+            "org": "Universidad Nacional de Cordoba"
+        },
+        {
+            "name": "Guillaume Hoffmann",
+            "id": "2133572653",
+            "org": "Universidad Nacional de Cordoba"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Discrete mathematics",
+        "Hybrid logic",
+        "Modal",
+        "Method of analytic tableaux",
+        "Modal logic",
+        "Modal operator",
+        "Satisfiability",
+        "Normal modal logic",
+        "Accessibility relation",
+        "Mathematics"
+    ],
+    "references": [
+        "69058103",
+        "1620944542",
+        "1818629355",
+        "2102598450",
+        "2153871866"
+    ]
+}

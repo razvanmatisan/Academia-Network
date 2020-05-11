@@ -1,0 +1,39 @@
+{
+    "id": "1520018740",
+    "title": "Estimating HMM Parameters Using Particle Swarm Optimisation",
+    "venue": "evoworkshops on applications of evolutionary computing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Somnuk Phon-Amnuaisuk",
+            "id": "2215360492",
+            "org": "Perceptions and Simulation of Intelligent Behaviours, Multimedia University, Cyberjaya, Malaysia 63100#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Spatial analysis",
+        "Baum-Welch algorithm",
+        "Machine learning",
+        "Estimation theory",
+        "Particle swarm optimization",
+        "Computer science",
+        "Pattern recognition",
+        "Hidden Markov model",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "166419126",
+        "1561764088",
+        "1564061042",
+        "1981606416",
+        "1990983979",
+        "2016282191",
+        "2037121285",
+        "2083204176",
+        "2090872985",
+        "2116640126",
+        "2130344854",
+        "2132233302",
+        "2151655762"
+    ]
+}

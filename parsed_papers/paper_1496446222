@@ -1,0 +1,43 @@
+{
+    "id": "1496446222",
+    "title": "A voluntary relaying MAC protocol for multi-rate wireless local area networks",
+    "venue": "next generation internet",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Jaeeun Na",
+            "id": "2168341888",
+            "org": "School of Engineering, Information and Communications University, Daejeon, Kora#TAB#"
+        },
+        {
+            "name": "Yeonkwon Jeong",
+            "id": "2131164563",
+            "org": "School of Engineering, Information and Communications University, Daejeon, Kora#TAB#"
+        },
+        {
+            "name": "Joongsoo Ma",
+            "id": "2142424071",
+            "org": "School of Engineering, Information and Communications University, Daejeon, Kora#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "Wi-Fi",
+        "Sleep mode",
+        "Exploit",
+        "Network packet",
+        "Throughput",
+        "Wireless",
+        "Media access control",
+        "Real-time computing",
+        "Local area network",
+        "Computer science"
+    ],
+    "references": [
+        "1489058467",
+        "1853659450",
+        "1871615473",
+        "2116820055",
+        "2140703851"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "15648959",
+    "title": "An Impersonation-Proof Identity Verfication Scheme",
+    "venue": "international cryptology conference",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Gustavus J. Simmons",
+            "id": "2148938693",
+            "org": "Sandia National Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "Possession (law)",
+        "Mathematical proof",
+        "Password",
+        "Personal identity",
+        "Database transaction",
+        "Authentication",
+        "Computer science",
+        "Zero-knowledge proof",
+        "Communication channel"
+    ],
+    "references": [
+        "1569083856",
+        "1589034595"
+    ]
+}

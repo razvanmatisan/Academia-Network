@@ -1,0 +1,39 @@
+{
+    "id": "1755464305",
+    "title": "Towards a temporal logic of causality and choice in distributed systems",
+    "venue": "Linear Time, Branching Time and Partial Order in Logics and Models for Concurrency, School/Workshop",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Wolfgang Reisig",
+            "id": "531013306",
+            "org": "Technical University of Munich"
+        }
+    ],
+    "fields_of_study": [
+        "Interval temporal logic",
+        "Description logic",
+        "Petri net",
+        "Concurrency",
+        "Discrete mathematics",
+        "Temporal logic of actions",
+        "Multimodal logic",
+        "Distributed computing",
+        "Linear temporal logic",
+        "Theoretical computer science",
+        "Computer science",
+        "Temporal logic"
+    ],
+    "references": [
+        "1483049117",
+        "1503002024",
+        "1571449242",
+        "1957550856",
+        "1983409972",
+        "1991052229",
+        "2040127143",
+        "2048355938",
+        "2066612386",
+        "2180713429"
+    ]
+}

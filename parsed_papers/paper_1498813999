@@ -1,0 +1,46 @@
+{
+    "id": "1498813999",
+    "title": "A Unifying Theory for Central Panoramic Systems and Practical Applications",
+    "venue": "european conference on computer vision",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Christopher Geyer",
+            "id": "2099699481",
+            "org": "University of Pennsylvania"
+        },
+        {
+            "name": "Konstantinos Daniilidis",
+            "id": "1667496756",
+            "org": "University of Pennsylvania"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Catadioptric system",
+        "Computer vision",
+        "Artificial intelligence",
+        "Oblique projection",
+        "Graphical projection",
+        "Planar projection",
+        "Parallel projection",
+        "Projection (mathematics)",
+        "Projection plane",
+        "Orthographic projection",
+        "Mathematics"
+    ],
+    "references": [
+        "1851037202",
+        "1965164020",
+        "2002647384",
+        "2023295350",
+        "2043146861",
+        "2086523316",
+        "2100687246",
+        "2118002377",
+        "2118603960",
+        "2140427427",
+        "2153777142",
+        "2158574611"
+    ]
+}

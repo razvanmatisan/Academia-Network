@@ -1,0 +1,51 @@
+{
+    "id": "1511448059",
+    "title": "Semi-supervised constrained clustering: an expert-guided data analysis methodology",
+    "venue": "pacific rim international conference on artificial intelligence",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Vid Podpecan",
+            "id": "50428273",
+            "org": "Jozef Stefan Institute, Ljubljana, Slovenia#TAB#"
+        },
+        {
+            "name": "Miha Grcar",
+            "id": "88547448",
+            "org": "Jozef Stefan Institute, Ljubljana, Slovenia#TAB#"
+        },
+        {
+            "name": "Nada Lavrac",
+            "id": "44897255",
+            "org": "Jozef Stefan Institute, Ljubljana, Slovenia and University of Nova Gorica, Nova Gorica, Slovenia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Fuzzy clustering",
+        "Cluster analysis",
+        "Computer science",
+        "Pattern recognition",
+        "Machine learning",
+        "Constrained clustering",
+        "Correlation clustering",
+        "CURE data clustering algorithm",
+        "k-medians clustering",
+        "FLAME clustering",
+        "Canopy clustering algorithm"
+    ],
+    "references": [
+        "1479963486",
+        "1501500081",
+        "1550159952",
+        "1558962159",
+        "1565377632",
+        "1975442866",
+        "2051224630",
+        "2104802194",
+        "2115657355",
+        "2121669559",
+        "2121714916",
+        "2167081989"
+    ]
+}

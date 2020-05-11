@@ -1,0 +1,31 @@
+{
+    "id": "1519262055",
+    "title": "A cryptanalysis of Step k,m -cascades",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Dieter Gollmann",
+            "id": "2618478289",
+            "org": "Universitat Karlsruhe"
+        },
+        {
+            "name": "William G. Chambers",
+            "id": "2628700578",
+            "org": "King's College London"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Finite-state machine",
+        "Cascade",
+        "Step function",
+        "Shift register",
+        "Cryptanalysis",
+        "Computer science"
+    ],
+    "references": [
+        "2118384689"
+    ]
+}

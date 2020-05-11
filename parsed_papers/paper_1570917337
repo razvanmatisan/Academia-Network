@@ -1,0 +1,40 @@
+{
+    "id": "1570917337",
+    "title": "Acme-Based Software Architecture Interchange",
+    "venue": "international conference on coordination models and languages",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "David Garlan",
+            "id": "2256096860",
+            "org": "Carnegie Mellon University"
+        },
+        {
+            "name": "Zhenyu Wang",
+            "id": "2279741844",
+            "org": "Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Wright",
+        "Interoperability",
+        "Theoretical computer science",
+        "Computer science",
+        "Systems engineering",
+        "Specification language",
+        "Architecture description language",
+        "Software development",
+        "Formal specification",
+        "Programming language",
+        "Software",
+        "Software architecture"
+    ],
+    "references": [
+        "1489800325",
+        "2013658284",
+        "2096973649",
+        "2126475077",
+        "2146082668",
+        "2176490758"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1601916792",
+    "title": "Numeric Mutation as an Improvement to Symbolic Regression in Genetic Programming",
+    "venue": "Evolutionary Programming",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Thomas Fernandez",
+            "id": "2344319510",
+            "org": "Florida Atlantic University"
+        },
+        {
+            "name": "Matthew P. Evett",
+            "id": "172267070",
+            "org": "Florida Atlantic University"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic algorithm",
+        "Evolutionary algorithm",
+        "Symbolic regression",
+        "Simulated annealing",
+        "Machine learning",
+        "Mathematical optimization",
+        "Genetic programming",
+        "Genetic program",
+        "Search algorithm",
+        "Statistical significance",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1576818901"
+    ]
+}

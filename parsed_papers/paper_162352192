@@ -1,0 +1,29 @@
+{
+    "id": "162352192",
+    "title": "Onion Routing Efficiency for Web Anonymization in Various Configurations",
+    "venue": "Computer Networks and Isdn Systems",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Tomas Sochor",
+            "id": "1579426234",
+            "org": "University of Ostrava"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "Cost of operation",
+        "Onion routing",
+        "Real-time computing",
+        "Response time",
+        "Round-trip delay time",
+        "Latency (engineering)",
+        "Computer science",
+        "Web traffic",
+        "Download"
+    ],
+    "references": [
+        "1655958391",
+        "1918499860"
+    ]
+}

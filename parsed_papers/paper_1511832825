@@ -1,0 +1,38 @@
+{
+    "id": "1511832825",
+    "title": "Specification of Graph Translators with Triple Graph Grammars",
+    "venue": "workshop on graph theoretic concepts in computer science",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Andy Schurr",
+            "id": "675269377",
+            "org": "RWTH Aachen"
+        }
+    ],
+    "fields_of_study": [
+        "Graph property",
+        "Discrete mathematics",
+        "Software design",
+        "Graph (abstract data type)",
+        "Data structure",
+        "Data integration",
+        "Graph rewriting",
+        "Null graph",
+        "Computer science",
+        "Voltage graph"
+    ],
+    "references": [
+        "189581324",
+        "200801094",
+        "1541822614",
+        "1554004702",
+        "1561241826",
+        "1563743222",
+        "1583783031",
+        "1587555185",
+        "1996596200",
+        "2057455870",
+        "2093311785"
+    ]
+}

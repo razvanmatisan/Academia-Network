@@ -1,0 +1,36 @@
+{
+    "id": "1513500578",
+    "title": "Coordination of actions in an autonomous robotic system",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Erik Sandewall",
+            "id": "1990854788",
+            "org": "Department of Computer and Information Science, Linkoping University, Linkoping, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Autonomous agent",
+        "State variable",
+        "Distributed computing",
+        "Autonomous robot",
+        "Robot",
+        "Simulation",
+        "Autonomous system (mathematics)",
+        "Artificial intelligence",
+        "Cognition",
+        "Computer science",
+        "Robotics"
+    ],
+    "references": [
+        "86126079",
+        "169171653",
+        "1490690916",
+        "1499848720",
+        "1524502879",
+        "1608796453",
+        "2007559574",
+        "2026921065"
+    ]
+}

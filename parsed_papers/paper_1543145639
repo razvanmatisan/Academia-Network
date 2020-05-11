@@ -1,0 +1,45 @@
+{
+    "id": "1543145639",
+    "title": "FLPI: an optimal algorithm for document indexing",
+    "venue": "rough sets and knowledge technology",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Jian-Wen Tao",
+            "id": "2422934914",
+            "org": "Department of Information Engineer, Zhejiang Business Technology Institute, Ningbo, P.R. China and College of Information Science and Engineering, Ningbo University, Ningbo, P.R. China#TAB#"
+        },
+        {
+            "name": "Qi-Fu Yao",
+            "id": "2689646152",
+            "org": "Department of Information Engineer, Zhejiang Business Technology Institute, Ningbo, P.R. China#TAB#"
+        },
+        {
+            "name": "Jie-Yu Zhao",
+            "id": "2643423054",
+            "org": "College of Information Science and Engineering, Ningbo University, Ningbo, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computation",
+        "Machine learning",
+        "Matrix (mathematics)",
+        "Search engine indexing",
+        "Artificial intelligence",
+        "Eigendecomposition of a matrix",
+        "Algorithm",
+        "Synthetic data",
+        "Indexation",
+        "Pattern recognition",
+        "Graph embedding",
+        "Dimensionality reduction",
+        "Computer science"
+    ],
+    "references": [
+        "1493526108",
+        "2013029404",
+        "2107743791",
+        "2109749916",
+        "2169658215"
+    ]
+}

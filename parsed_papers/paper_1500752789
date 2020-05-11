@@ -1,0 +1,45 @@
+{
+    "id": "1500752789",
+    "title": "Interpolants for Linear Arithmetic in SMT",
+    "venue": "automated technology for verification and analysis",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Christopher Lynch",
+            "id": "2125056509",
+            "org": "Department of Mathematics and Computer Science, Clarkson University, Potsdam, USA 13676#TAB#"
+        },
+        {
+            "name": "Yuefeng Tang",
+            "id": "2281886243",
+            "org": "Department of Mathematics and Computer Science, Clarkson University, Potsdam, USA 13676#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Arithmetic",
+        "Predicate abstraction",
+        "Interpolation",
+        "Local variable",
+        "Integer",
+        "Inequality",
+        "Real number",
+        "Congruence (geometry)",
+        "Solver",
+        "Mathematics"
+    ],
+    "references": [
+        "1499948164",
+        "1510368738",
+        "1516304047",
+        "1546818998",
+        "1556566737",
+        "1800123991",
+        "1882377980",
+        "2037690395",
+        "2084294613",
+        "2108174021",
+        "2114633883",
+        "2154173307"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1563402047",
+    "title": "Denial of service via algorithmic complexity attacks",
+    "venue": "usenix security symposium",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Scott A. Crosby",
+            "id": "2130256454",
+            "org": "Department of Computer Science, Rice University#TAB#"
+        },
+        {
+            "name": "Dan S. Wallach",
+            "id": "2149726944",
+            "org": "Department of Computer Science, Rice University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer security",
+        "Secure Hash Standard",
+        "Internet privacy",
+        "Cryptographic hash function",
+        "Double hashing",
+        "Primary clustering",
+        "Hash list",
+        "K-independent hashing",
+        "Computer science",
+        "Hash function",
+        "Hash buster"
+    ],
+    "references": [
+        "1578627459",
+        "1601379374",
+        "1612346709",
+        "1656678770",
+        "1675137049",
+        "2011831586",
+        "2021615496",
+        "2052207834",
+        "2086802227",
+        "2099844038",
+        "2130055503",
+        "2138381338",
+        "2145211381"
+    ]
+}

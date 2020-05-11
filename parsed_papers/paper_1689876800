@@ -1,0 +1,36 @@
+{
+    "id": "1689876800",
+    "title": "Combining Data and Knowledge by MaxEnt-Optimization of Probability Distributions",
+    "venue": "european conference on principles of data mining and knowledge discovery",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Wolfgang Ertel",
+            "id": "394117428",
+            "org": "Fachhochschule Ravensburg-Weingarten"
+        },
+        {
+            "name": "Manfred Schramm",
+            "id": "2026794982",
+            "org": "Fachhochschule Ravensburg-Weingarten"
+        }
+    ],
+    "fields_of_study": [
+        "Multivariate statistics",
+        "Artificial intelligence",
+        "Data mining",
+        "Expert system",
+        "Machine learning",
+        "Probability distribution",
+        "Probabilistic argumentation",
+        "Probabilistic logic",
+        "Principle of maximum entropy",
+        "Knowledge acquisition",
+        "Inference engine",
+        "Mathematics"
+    ],
+    "references": [
+        "1992373581",
+        "2125055259"
+    ]
+}

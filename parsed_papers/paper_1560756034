@@ -1,0 +1,29 @@
+{
+    "id": "1560756034",
+    "title": "Intensional Markup Language",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "William W. Wadge",
+            "id": "2179686629",
+            "org": "University of Victoria"
+        }
+    ],
+    "fields_of_study": [
+        "Markup language",
+        "Parametrization",
+        "Parametric statistics",
+        "Program optimization",
+        "Web page",
+        "Database",
+        "Information processing",
+        "Object-oriented programming",
+        "Programming language",
+        "Information technology",
+        "Computer science"
+    ],
+    "references": [
+        "2110994270"
+    ]
+}

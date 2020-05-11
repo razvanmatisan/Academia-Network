@@ -1,0 +1,50 @@
+{
+    "id": "1512215462",
+    "title": "XML-based Components for Federating Multiple Heterogeneous Data Sources",
+    "venue": "international conference on conceptual modeling",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Georges Gardarin",
+            "id": "2652722712",
+            "org": "University of Versailles-St-Quentin"
+        },
+        {
+            "name": "Fei Sha",
+            "id": "1855009544",
+            "org": "University of Versailles-St-Quentin"
+        },
+        {
+            "name": "Tuyet-Tram Dang-Ngoc",
+            "id": "2090273962",
+            "org": "University of Versailles-St-Quentin"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "XML Encryption",
+        "Streaming XML",
+        "Database",
+        "Computer science",
+        "XML database",
+        "World Wide Web",
+        "XML validation",
+        "XML framework",
+        "XML Schema Editor",
+        "XML Base",
+        "Efficient XML Interchange"
+    ],
+    "references": [
+        "1494048832",
+        "1535992660",
+        "1912713675",
+        "1967062750",
+        "1971845537",
+        "2100674109",
+        "2108014443",
+        "2117849706",
+        "2124391840",
+        "2134356404",
+        "2294792814"
+    ]
+}

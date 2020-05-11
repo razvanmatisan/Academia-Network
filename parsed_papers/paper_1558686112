@@ -1,0 +1,31 @@
+{
+    "id": "1558686112",
+    "title": "Business Process Modeling - Motivation, Requirements, Implementation",
+    "venue": "european conference on object-oriented programming",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Ilia Bider",
+            "id": "716314097",
+            "org": "IbisSoft"
+        },
+        {
+            "name": "Maxim Khomyakov",
+            "id": "1977583640",
+            "org": "IbisSoft"
+        }
+    ],
+    "fields_of_study": [
+        "Business process",
+        "Business process discovery",
+        "Business Process Model and Notation",
+        "Business process modeling",
+        "Process modeling",
+        "Process management",
+        "Business process management",
+        "Artifact-centric business process model",
+        "Business rule",
+        "Computer science"
+    ],
+    "references": []
+}

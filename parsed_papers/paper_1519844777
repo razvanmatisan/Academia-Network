@@ -1,0 +1,36 @@
+{
+    "id": "1519844777",
+    "title": "Random projection: a new approach to VLSI layout",
+    "venue": "foundations of computer science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Santosh Vempala",
+            "id": "2045140648",
+            "org": "Dept. of Math., MIT, Cambridge, MA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Combinatorics",
+        "Approximation algorithm",
+        "Computational geometry",
+        "Mathematical optimization",
+        "Bounded function",
+        "Euclidean distance",
+        "Linear programming relaxation",
+        "Linear programming",
+        "Subspace topology",
+        "Mathematics",
+        "Random projection"
+    ],
+    "references": [
+        "85690038",
+        "1971238646",
+        "2046242327",
+        "2080608361",
+        "2140062802",
+        "2141793995",
+        "2161959472"
+    ]
+}

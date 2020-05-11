@@ -1,0 +1,50 @@
+{
+    "id": "1540216372",
+    "title": "An access control method based on the prefix labeling scheme for XML repositories",
+    "venue": "australasian database conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Shohei Yokoyama",
+            "id": "2170280668",
+            "org": "Tokyo Metropolitan University, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Manabu Ohta",
+            "id": "2790447282",
+            "org": "Tokyo Metropolitan University, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Kaoru Katayama",
+            "id": "2116198482",
+            "org": "Tokyo Metropolitan University, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Hiroshi Ishikawa",
+            "id": "2807380512",
+            "org": "Tokyo Metropolitan University, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Streaming XML",
+        "Database",
+        "Data mining",
+        "XML Protocol",
+        "XML framework",
+        "XML validation",
+        "XML Catalog",
+        "Computer science",
+        "XML Schema Editor",
+        "Efficient XML Interchange",
+        "Simple API for XML"
+    ],
+    "references": [
+        "1781113593",
+        "2025590344",
+        "2068618567",
+        "2091712649",
+        "2110459974",
+        "2110982271",
+        "2139242647"
+    ]
+}

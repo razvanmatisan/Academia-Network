@@ -1,0 +1,48 @@
+{
+    "id": "1592678536",
+    "title": "Axiomatic Rewriting Theory VI Residual Theory Revisited",
+    "venue": "rewriting techniques and applications",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Paul-Andre Mellies",
+            "id": "1523905072",
+            "org": "Universite Paris 7"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Permutation",
+        "Axiomatic system",
+        "Algorithm",
+        "Critical pair",
+        "Axiom",
+        "Lambda calculus",
+        "Algebraic theory",
+        "Confluence",
+        "Rewriting",
+        "Mathematics"
+    ],
+    "references": [
+        "20773390",
+        "1556655517",
+        "1591581638",
+        "1596473987",
+        "1679090009",
+        "1884279423",
+        "1975808446",
+        "1979101142",
+        "1980647766",
+        "1990009925",
+        "2027836624",
+        "2028501336",
+        "2040263743",
+        "2049077134",
+        "2060344461",
+        "2085171596",
+        "2098036931",
+        "2099089064",
+        "2160480844",
+        "2295866357"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1603564255",
+    "title": "Situation aware cognitive assistance in smart homes",
+    "venue": "Journal of Multimedia",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Liming Chen",
+            "id": "2155463703",
+            "org": "School of Computing and Mathematics, University of Ulster, County Antrim, Northern Ireland#TAB#"
+        },
+        {
+            "name": "Chris D. Nugent",
+            "id": "2037184729",
+            "org": "School of Computing and Mathematics, University of Ulster, County Antrim, Northern Ireland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Semantic technology",
+        "Situational ethics",
+        "Human-computer interaction",
+        "Home automation",
+        "Artificial intelligence",
+        "Computer vision",
+        "Intelligent agent",
+        "Decision support system",
+        "Situation awareness",
+        "Ontology (information science)",
+        "Knowledge management",
+        "Cognition"
+    ],
+    "references": [
+        "36013382",
+        "170090413",
+        "175102462",
+        "1482585805",
+        "1539367018",
+        "1543136774",
+        "1967661515",
+        "1982030536",
+        "2020727264",
+        "2021851523",
+        "2085374652",
+        "2100349944",
+        "2109003533",
+        "2146948159"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": "1603565927",
+    "title": "Scaling reinforcement learning techniques via modularity",
+    "venue": "international conference on machine learning",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Lambert E. Wixson",
+            "id": "226805829",
+            "org": "Computer Science Department, University of Rochester, Rochester, NY 14627"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Modularity",
+        "Pattern recognition",
+        "Modular design",
+        "Scaling",
+        "Artificial intelligence",
+        "Expected utility hypothesis",
+        "Reinforcement learning",
+        "Architecture",
+        "Computer science",
+        "State vector"
+    ],
+    "references": [
+        "1491843047",
+        "1500245617",
+        "2084335986"
+    ]
+}

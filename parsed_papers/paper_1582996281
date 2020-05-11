@@ -1,0 +1,36 @@
+{
+    "id": "1582996281",
+    "title": "Network configuration management via model finding",
+    "venue": "usenix large installation systems administration conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Sanjai Narain",
+            "id": "2075605831",
+            "org": "Telcordia Technologies, Inc.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Private network",
+        "Computer science",
+        "Network service",
+        "Wireless ad hoc network",
+        "Configuration management",
+        "Satisfiability",
+        "Network management",
+        "Distributed computing",
+        "Control reconfiguration",
+        "Solver"
+    ],
+    "references": [
+        "64514683",
+        "1499901113",
+        "1536095764",
+        "1549538485",
+        "1667362966",
+        "2074845051",
+        "2138509363",
+        "2154228573",
+        "2156299128"
+    ]
+}

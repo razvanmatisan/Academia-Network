@@ -1,0 +1,31 @@
+{
+    "id": "1500473389",
+    "title": "Z and the Refinement Calculus",
+    "venue": "formal methods",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Steve King",
+            "id": "2237250160",
+            "org": "Oxford University Computing Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Formal methods",
+        "Language Of Temporal Ordering Specification",
+        "Refinement calculus",
+        "Formal specification",
+        "Epsilon calculus",
+        "Z notation",
+        "Refinement",
+        "Specification language",
+        "Programming language",
+        "Computer science"
+    ],
+    "references": [
+        "1552647623",
+        "1970495662",
+        "2038814435",
+        "2103953153"
+    ]
+}

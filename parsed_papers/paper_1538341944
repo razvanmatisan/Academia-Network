@@ -1,0 +1,37 @@
+{
+    "id": "1538341944",
+    "title": "Performance Guarantees for Hierarchical Clustering",
+    "venue": "conference on learning theory",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Sanjoy Dasgupta",
+            "id": "2472035779",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Hierarchical clustering",
+        "Machine learning",
+        "CURE data clustering algorithm",
+        "Artificial intelligence",
+        "Correlation clustering",
+        "Hierarchical clustering of networks",
+        "k-medians clustering",
+        "Single-linkage clustering",
+        "Canopy clustering algorithm",
+        "Mathematics",
+        "Brown clustering"
+    ],
+    "references": [
+        "1601227146",
+        "1772739125",
+        "1854155592",
+        "1973264045",
+        "2005983304",
+        "2073583237",
+        "2114473842",
+        "2133311553"
+    ]
+}

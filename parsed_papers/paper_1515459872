@@ -1,0 +1,38 @@
+{
+    "id": "1515459872",
+    "title": "Self assembling graphs",
+    "venue": "international work-conference on the interplay between natural and artificial computation",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Vincent Danos",
+            "id": "2182243253",
+            "org": "Equipe PPS, CNRS & Universite Paris VII#TAB#"
+        },
+        {
+            "name": "Fabien Tarissan",
+            "id": "2679275838",
+            "org": "Equipe PPS, Universite Paris VII#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Graph algebra",
+        "Artificial intelligence",
+        "Machine learning",
+        "Autonomous agent",
+        "Process calculus",
+        "Transition system",
+        "Rule-based system",
+        "Graph",
+        "Computer science",
+        "Point-to-point",
+        "Theoretical computer science"
+    ],
+    "references": [
+        "1511823635",
+        "1603799276",
+        "1986649132",
+        "2046679093",
+        "2159339668"
+    ]
+}

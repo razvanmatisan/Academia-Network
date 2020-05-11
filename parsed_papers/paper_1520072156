@@ -1,0 +1,42 @@
+{
+    "id": "1520072156",
+    "title": "Orthogonal Centroid Locally Linear Embedding for Classification",
+    "venue": "advanced data mining and applications",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Yong Wang",
+            "id": "2691036701",
+            "org": "Department of Mathematics and Systems Science, National University of Defense Technology, Changsha 410073#TAB#"
+        },
+        {
+            "name": "Yonggang Hu",
+            "id": "2116090474",
+            "org": "Department of Mathematics and Systems Science, National University of Defense Technology, Changsha 410073#TAB#"
+        },
+        {
+            "name": "Yi Wu",
+            "id": "2667681264",
+            "org": "Department of Mathematics and Systems Science, National University of Defense Technology, Changsha 410073#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Clustering high-dimensional data",
+        "Nonlinear dimensionality reduction",
+        "Semidefinite embedding",
+        "Artificial intelligence",
+        "Machine learning",
+        "Manifold",
+        "Embedding",
+        "Centroid",
+        "Disjoint sets",
+        "Pattern recognition",
+        "Mathematics"
+    ],
+    "references": [
+        "1821148229",
+        "2034438009",
+        "2063532964",
+        "2121647436"
+    ]
+}

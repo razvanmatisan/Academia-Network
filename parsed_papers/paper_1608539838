@@ -1,0 +1,30 @@
+{
+    "id": "1608539838",
+    "title": "The Role of Cognitive Science in Knowledge Engineering",
+    "venue": "Proceedings of the First Joint Workshop on Contemporary Knowledge Engineering and Cognition",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Gerhard Strube",
+            "id": "2496257084",
+            "org": "Albert Ludwig University"
+        }
+    ],
+    "fields_of_study": [
+        "Socio-cognitive",
+        "Knowledge engineering",
+        "Domain knowledge",
+        "Expert system",
+        "Procedural knowledge",
+        "Knowledge integration",
+        "Management science",
+        "Human factors and ergonomics",
+        "Knowledge management",
+        "Cognition",
+        "Computer science"
+    ],
+    "references": [
+        "38898114",
+        "1559126448"
+    ]
+}

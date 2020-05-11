@@ -1,0 +1,29 @@
+{
+    "id": "1536862222",
+    "title": "Property specification for coloured Petri nets",
+    "venue": "systems, man and cybernetics",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ee Ella Roubtsova",
+            "id": "2807804178",
+            "org": "Dept. of Technol. Manage., Eindhoven Univ. of Technol., Netherlands"
+        }
+    ],
+    "fields_of_study": [
+        "Coloured Petri net",
+        "Correctness",
+        "Process architecture",
+        "Stochastic Petri net",
+        "Systems design",
+        "Machine learning",
+        "Artificial intelligence",
+        "Computer science",
+        "Petri net",
+        "Temporal logic"
+    ],
+    "references": [
+        "1570088913",
+        "1981808971"
+    ]
+}

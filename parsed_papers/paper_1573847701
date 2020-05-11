@@ -1,0 +1,36 @@
+{
+    "id": "1573847701",
+    "title": "A logical framework for reasoning about space",
+    "venue": "conference on spatial information theory",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Laure Vieu",
+            "id": "28194390",
+            "org": "INRA"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Spatial intelligence",
+        "Artificial intelligence",
+        "Qualitative reasoning",
+        "Machine learning",
+        "Computer science",
+        "Formalism (philosophy)",
+        "Axiomatic system",
+        "Spatial analysis",
+        "Logical framework",
+        "Reasoning system",
+        "Mereology"
+    ],
+    "references": [
+        "80609641",
+        "1593007803",
+        "1984725964",
+        "2045829403",
+        "2053967911",
+        "2078019102",
+        "2161484642"
+    ]
+}

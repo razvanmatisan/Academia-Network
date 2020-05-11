@@ -1,0 +1,35 @@
+{
+    "id": "18209124",
+    "title": "From Real-Time BI to the Real-Time Enterprise: Organizational Enablers of Latency Reduction",
+    "venue": "international conference on information systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Greta L. Polites",
+            "id": "2305721212",
+            "org": "Association for Information Systems"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Real-time enterprise",
+        "Latency (engineering)",
+        "Sense and respond",
+        "Business intelligence",
+        "Phenomenon",
+        "Organizational Decision Making",
+        "Computer science"
+    ],
+    "references": [
+        "18765130",
+        "117601316",
+        "249396262",
+        "1510394286",
+        "1991286986",
+        "2053861517",
+        "2139797712",
+        "2145075671",
+        "2147270415",
+        "2148999615"
+    ]
+}

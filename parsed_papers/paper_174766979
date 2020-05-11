@@ -1,0 +1,39 @@
+{
+    "id": "174766979",
+    "title": "Certified Size-Change Termination",
+    "venue": "conference on automated deduction",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Alexander Krauss",
+            "id": "2132343087",
+            "org": "Technische Universitat Munchen, Institut fur Informatik,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical proof",
+        "Computer science",
+        "Transitive closure",
+        "Discrete mathematics",
+        "Recursion",
+        "Algorithm",
+        "HOL",
+        "Certification",
+        "Size change"
+    ],
+    "references": [
+        "1534850143",
+        "1546270920",
+        "1546449686",
+        "1562651002",
+        "1567380020",
+        "1569975162",
+        "1571196178",
+        "1594381772",
+        "1606555018",
+        "1869527659",
+        "1993129359",
+        "2106192381",
+        "2111229114"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "1497960466",
+    "title": "A kernel method for canonical correlation analysis",
+    "venue": "arXiv: Learning",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Shotaro Akaho",
+            "id": "2589577",
+            "org": "national institute of advanced industrial science and technology"
+        }
+    ],
+    "fields_of_study": [
+        "Statistics",
+        "Mathematics",
+        "Kernel (statistics)",
+        "Kernel embedding of distributions",
+        "Machine learning",
+        "Kernel method",
+        "Polynomial kernel",
+        "Kernel principal component analysis",
+        "Variable kernel density estimation",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Radial basis function kernel",
+        "Kernel Fisher discriminant analysis"
+    ],
+    "references": [
+        "1587559447",
+        "2148603752"
+    ]
+}

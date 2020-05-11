@@ -1,0 +1,38 @@
+{
+    "id": "141456974",
+    "title": "Decomposition techniques for planning in stochastic domains",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Thomas Dean",
+            "id": "2053515084",
+            "org": "Department of Computer Science, Brown University, Providence, RI#TAB#"
+        },
+        {
+            "name": "Shieu-Hong Lin",
+            "id": "2165448464",
+            "org": "Department of Computer Science, Brown University, Providence, RI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Decision problem",
+        "Discrete time and continuous time",
+        "Machine learning",
+        "Artificial intelligence",
+        "Discrete mathematics",
+        "Mathematical optimization",
+        "Markov decision process",
+        "Covering problems",
+        "State space",
+        "Partition (number theory)",
+        "Mathematics"
+    ],
+    "references": [
+        "1650504995",
+        "1966195676",
+        "1993711637",
+        "2032100464",
+        "2110415190"
+    ]
+}

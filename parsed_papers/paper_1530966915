@@ -1,0 +1,50 @@
+{
+    "id": "1530966915",
+    "title": "Making Knowledge Extraction and Reasoning Closer",
+    "venue": "pacific-asia conference on knowledge discovery and data mining",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Fosca Giannotti",
+            "id": "1205765909",
+            "org": "CNUCE - CNR, Pisa, Italy"
+        },
+        {
+            "name": "Giuseppe Manco",
+            "id": "2093732677",
+            "org": "CNUCE - CNR, Pisa, Italy"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge extraction",
+        "Relational database",
+        "Machine learning",
+        "Artificial intelligence",
+        "Computer science",
+        "Data mining",
+        "Deductive database",
+        "Query language",
+        "Separation of concerns",
+        "Knowledge acquisition",
+        "Information extraction",
+        "Evaluation function"
+    ],
+    "references": [
+        "151972525",
+        "1520923555",
+        "1539916429",
+        "1562318619",
+        "1599878308",
+        "1768000531",
+        "1823692244",
+        "1980960474",
+        "1995532290",
+        "2040580067",
+        "2050829396",
+        "2064803206",
+        "2102727638",
+        "2103533662",
+        "2126256482",
+        "2142334564"
+    ]
+}

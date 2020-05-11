@@ -1,0 +1,45 @@
+{
+    "id": "17126757",
+    "title": "The Agile Research Penultimatum.",
+    "venue": "Software Engineering Research and Practice",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Thomas Way",
+            "id": "2099660243",
+            "org": "Center of Excellence|Computing Sciences|Villanova University"
+        },
+        {
+            "name": "Sandhya Chandrasekhar",
+            "id": "2399997547",
+            "org": "Center of Excellence|Computing Sciences|Villanova University"
+        },
+        {
+            "name": "Arun Murthy",
+            "id": "2630409757",
+            "org": "Center of Excellence|Computing Sciences|Villanova University"
+        }
+    ],
+    "fields_of_study": [
+        "Feature-driven development",
+        "Agile usability engineering",
+        "Extreme programming practices",
+        "Process management",
+        "Empirical process (process control model)",
+        "Agile software development",
+        "Agile Unified Process",
+        "Systems engineering",
+        "P-Modeling Framework",
+        "Engineering",
+        "Lean software development"
+    ],
+    "references": [
+        "1776347023",
+        "1961162242",
+        "2001677911",
+        "2107738449",
+        "2131399871",
+        "2143322095",
+        "2752455916"
+    ]
+}

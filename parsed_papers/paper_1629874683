@@ -1,0 +1,37 @@
+{
+    "id": "1629874683",
+    "title": "Personal Recommendation in User-Object Networks",
+    "venue": "international conference on complex sciences",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Tao Zhou",
+            "id": "2422184792",
+            "org": "University of Fribourg"
+        },
+        {
+            "name": "Tao Zhou",
+            "id": "2422184792",
+            "org": "University of Fribourg"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Web intelligence",
+        "Web navigation",
+        "Web service",
+        "Recommender system",
+        "Web server",
+        "Mathematics",
+        "Web Accessibility Initiative",
+        "Semantic Web Stack",
+        "Web mapping"
+    ],
+    "references": [
+        "1530276735",
+        "1971040550",
+        "2027564548",
+        "2117354486",
+        "2171960770"
+    ]
+}

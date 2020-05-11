@@ -1,0 +1,33 @@
+{
+    "id": "1492831066",
+    "title": "A Type/Domain Security Policy for Internet Transmission, Sharing, and Archiving of Medical and Biological Data",
+    "venue": "policies for distributed systems and networks",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Roberto Viviani",
+            "id": "2803195872",
+            "org": "Universitatsklinik Ulm"
+        }
+    ],
+    "fields_of_study": [
+        "Pooling",
+        "Knowledge management",
+        "Distributed computing",
+        "Network security policy",
+        "Biological data",
+        "Health informatics",
+        "Electronic data interchange",
+        "Computer security",
+        "The Internet",
+        "Computer science",
+        "Computer security model",
+        "Security policy"
+    ],
+    "references": [
+        "1618548847",
+        "2094873755",
+        "2107836699",
+        "2170270083"
+    ]
+}

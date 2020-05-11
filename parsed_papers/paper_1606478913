@@ -1,0 +1,37 @@
+{
+    "id": "1606478913",
+    "title": "Correctness of Real Time Systems by Construction",
+    "venue": "international symposium organized jointly with working group provably correct systems on formal techniques in real time and fault tolerant systems",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Jjm Jozef Hooman",
+            "id": "2194305585",
+            "org": "Eindhoven University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Hoare logic",
+        "Formalism (philosophy)",
+        "Correctness",
+        "Specification language",
+        "Top-down and bottom-up design",
+        "Real-time computing",
+        "Axiomatic semantics",
+        "Prototype Verification System",
+        "Programming language",
+        "Computer science",
+        "Automated proof checking"
+    ],
+    "references": [
+        "1506458079",
+        "1534850143",
+        "1541175777",
+        "1552647623",
+        "1567441644",
+        "1579468405",
+        "2084556399",
+        "2090309908",
+        "2111706174"
+    ]
+}

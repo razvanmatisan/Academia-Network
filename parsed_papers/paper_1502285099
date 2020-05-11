@@ -1,0 +1,38 @@
+{
+    "id": "1502285099",
+    "title": "Ant colony optimisation for ligand docking",
+    "venue": "international conference on swarm intelligence",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Oliver Korb",
+            "id": "1703997779",
+            "org": "Cambridge Crystallographic Data Centre, Cambridge, UK#TAB#"
+        },
+        {
+            "name": "Jason C. Cole",
+            "id": "2128143466",
+            "org": "Cambridge Crystallographic Data Centre, Cambridge, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Assignment problem",
+        "Genetic algorithm",
+        "Heuristic",
+        "Machine learning",
+        "Artificial intelligence",
+        "Ant colony",
+        "Local search (optimization)",
+        "Search engine",
+        "Protein-ligand docking",
+        "Computer science",
+        "Ligand"
+    ],
+    "references": [
+        "1573676079",
+        "1801849579",
+        "1988437166",
+        "2118512515"
+    ]
+}

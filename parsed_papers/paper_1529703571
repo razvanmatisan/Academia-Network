@@ -1,0 +1,32 @@
+{
+    "id": "1529703571",
+    "title": "Risk neutral calibration of classifiers",
+    "venue": "canadian conference on artificial intelligence",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Ron Coleman",
+            "id": "2183507936",
+            "org": "Computer Science Department, Marist College, Poughkeepsie, New York, United States#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Calibration",
+        "Artificial intelligence",
+        "Classifier (linguistics)",
+        "Pattern recognition",
+        "Data set",
+        "Markov chain",
+        "Markov process",
+        "False positive paradox",
+        "Indexation",
+        "Computer science",
+        "Risk neutral"
+    ],
+    "references": [
+        "1598033630",
+        "2012942264",
+        "2058732827"
+    ]
+}

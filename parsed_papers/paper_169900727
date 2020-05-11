@@ -1,0 +1,43 @@
+{
+    "id": "169900727",
+    "title": "DISCOVERING VEILED UNSATISFIABLE XPATH QUERIES",
+    "venue": "international conference on enterprise information systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Jinghua Groppe",
+            "id": "2007981037",
+            "org": "University of Lubeck"
+        },
+        {
+            "name": "Volker Linnemann",
+            "id": "2171236752",
+            "org": "University of Lubeck"
+        }
+    ],
+    "fields_of_study": [
+        "Query optimization",
+        "Web search query",
+        "Information retrieval",
+        "Query language",
+        "Computer science",
+        "Database",
+        "XML",
+        "XPath 2.0",
+        "XPath",
+        "Web query classification",
+        "RDF query language"
+    ],
+    "references": [
+        "195884164",
+        "1497132157",
+        "1513019207",
+        "1716100575",
+        "2060657737",
+        "2117194933",
+        "2117789898",
+        "2134170665",
+        "2135415639",
+        "2135921726"
+    ]
+}

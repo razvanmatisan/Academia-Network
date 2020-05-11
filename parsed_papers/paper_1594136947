@@ -1,0 +1,33 @@
+{
+    "id": "1594136947",
+    "title": "Analyzing and Debugging Hierarchies of Multi-way Local Propagation Constraints",
+    "venue": "principles and practice of constraint programming",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Michael Sannella",
+            "id": "2080933598",
+            "org": "FR-35 University of Washington Seattle"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "User interface design",
+        "Debugging",
+        "Multiple document interface",
+        "Satisfiability",
+        "Constraint satisfaction problem",
+        "Theory of constraints",
+        "Real-time computing",
+        "User interface",
+        "Graphical user interface"
+    ],
+    "references": [
+        "97107922",
+        "1493241261",
+        "1579120539",
+        "2060498389",
+        "2065131671",
+        "2160796062"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1812453712",
+    "title": "Meta-Level Control of Approximate Reasoning: A Decision Theoretic Approach",
+    "venue": "international syposium on methodologies for intelligent systems",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Shlomo Zilberstein",
+            "id": "348962114",
+            "org": "University of Massachusetts"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Machine learning",
+        "Model-based reasoning",
+        "Artificial intelligence",
+        "Time allocation",
+        "Probabilistic logic",
+        "Anytime algorithm",
+        "Decision quality",
+        "Knowledge compilation",
+        "Deliberation",
+        "Computer science",
+        "Evidential reasoning approach"
+    ],
+    "references": [
+        "1496432202",
+        "1589640093",
+        "2144386448",
+        "2162412417",
+        "2166996723",
+        "2174370050"
+    ]
+}

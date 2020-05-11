@@ -1,0 +1,38 @@
+{
+    "id": "1501125417",
+    "title": "Information Theoretical Approach to Identification of Hybrid Systems",
+    "venue": "international workshop on hybrid systems computation and control",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Li Pu",
+            "id": "2693773417",
+            "org": "State Key Laboratory of Intelligent Technology and Systems, Tsinghua University, Beijing, China 100084#TAB#"
+        },
+        {
+            "name": "Jinchun Hu",
+            "id": "2145687490",
+            "org": "State Key Laboratory of Intelligent Technology and Systems, Tsinghua University, Beijing, China 100084#TAB#"
+        },
+        {
+            "name": "Badong Chen",
+            "id": "2473510192",
+            "org": "State Key Laboratory of Intelligent Technology and Systems, Tsinghua University, Beijing, China 100084#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete time and continuous time",
+        "Kullback-Leibler divergence",
+        "Probability density function",
+        "Mathematical optimization",
+        "Probability of error",
+        "Algebraic number",
+        "Hybrid system",
+        "Parameter identification problem",
+        "Mathematics"
+    ],
+    "references": [
+        "1550306788",
+        "2148319325"
+    ]
+}

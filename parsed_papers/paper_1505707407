@@ -1,0 +1,44 @@
+{
+    "id": "1505707407",
+    "title": "Discovering Rich Navigation Patterns on a Web Site",
+    "venue": "discovery science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Karine Chevalier",
+            "id": "2044167963",
+            "org": "France Telecom R&D (Lannion)"
+        },
+        {
+            "name": "Karine Chevalier",
+            "id": "2044167963",
+            "org": "France Telecom R&D (Lannion)"
+        },
+        {
+            "name": "Cecile Bothorel",
+            "id": "2437117185",
+            "org": "France Telecom R&D (Lannion)"
+        },
+        {
+            "name": "Vincent Corruble",
+            "id": "2809706302",
+            "org": "Universite Pierre et Marie Curie (Paris VI)"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Knowledge extraction",
+        "World Wide Web",
+        "User profile",
+        "The Internet",
+        "Computer science"
+    ],
+    "references": [
+        "1587478390",
+        "1608194207",
+        "1990800901",
+        "1996869586",
+        "2117725965",
+        "2475924711"
+    ]
+}

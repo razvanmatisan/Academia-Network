@@ -1,0 +1,51 @@
+{
+    "id": "1576363916",
+    "title": "Predicting phrase breaks with memory-based learning",
+    "venue": "SSW",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Bertjan Busser",
+            "id": "2309797743",
+            "org": "Tilburg University"
+        },
+        {
+            "name": "Bertjan Busser",
+            "id": "2309797743",
+            "org": "Tilburg University"
+        },
+        {
+            "name": "Walter Daelemans",
+            "id": "2234963844",
+            "org": "Computational Linguistics|Tilburg University"
+        },
+        {
+            "name": "Antal van den Bosch",
+            "id": "2161053677",
+            "org": "Computational Linguistics|Tilburg University"
+        }
+    ],
+    "fields_of_study": [
+        "Semi-supervised learning",
+        "Instance-based learning",
+        "Supervised learning",
+        "Precision and recall",
+        "Phrase",
+        "Active learning (machine learning)",
+        "Unsupervised learning",
+        "Algorithmic learning theory",
+        "Machine learning",
+        "Computer science",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1572157822",
+        "1586887050",
+        "1632114991",
+        "2025617415",
+        "2138056203",
+        "2145269499",
+        "2147169507"
+    ]
+}

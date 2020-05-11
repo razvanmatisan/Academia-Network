@@ -1,0 +1,45 @@
+{
+    "id": "1510374632",
+    "title": "An Investigation of Mixed-Media Information Retrieval",
+    "venue": "european conference on research and advanced technology for digital libraries",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Gareth J. F. Jones",
+            "id": "2253680186",
+            "org": "University of Exeter"
+        },
+        {
+            "name": "Adenike M. Lam-Adesina",
+            "id": "312014723",
+            "org": "University of Exeter"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "World Wide Web",
+        "Information retrieval",
+        "Query expansion",
+        "Visual Word",
+        "Digital document",
+        "Optical character recognition",
+        "Document clustering",
+        "Relevance (information retrieval)",
+        "Mixed media",
+        "Relevance feedback"
+    ],
+    "references": [
+        "170550002",
+        "1482214997",
+        "1482504747",
+        "1771572948",
+        "1772620444",
+        "2005679862",
+        "2065096648",
+        "2075798838",
+        "2093168600",
+        "2098162425",
+        "2106611880",
+        "2146815834"
+    ]
+}

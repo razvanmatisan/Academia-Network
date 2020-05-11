@@ -1,0 +1,39 @@
+{
+    "id": "1497743003",
+    "title": "A Deterministic Learning Approach Based on Discrepancy",
+    "venue": "italian workshop on neural nets",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Cristiano Cervellera",
+            "id": "1242659089",
+            "org": "Istituto di Studi sui Sistemi Intelligenti per l'Automazione CNR"
+        },
+        {
+            "name": "Marco Muselli",
+            "id": "2470165323",
+            "org": "Istituto di Elettronica e di Ingegneria dell'Informazione, e delle Telecomunicazioni CNR"
+        }
+    ],
+    "fields_of_study": [
+        "Number theory",
+        "Training set",
+        "Machine learning",
+        "Pattern recognition",
+        "Empirical risk minimization",
+        "Artificial intelligence",
+        "Artificial neural network",
+        "Deterministic system (philosophy)",
+        "Deterministic algorithm",
+        "Mathematics"
+    ],
+    "references": [
+        "2068871408",
+        "2103496339",
+        "2115305054",
+        "2145348031",
+        "2148603752",
+        "2148924730",
+        "2397807156"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1605959139",
+    "title": "Space priority mechanisms with bursty traffic",
+    "venue": "Proceedings of the IFIP WG 7.3 International Conference on Performance of Distributed Systems and Integrated Communication Networks",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Jorge Garcia",
+            "id": "2517720384",
+            "org": "Computer Architecture Department. Universitat Politecnica de Catalunya c/. Sor Eulalia de Anzizu. Modul D4. E-08034 Barcelona. Tel.: +34 3 401 68 82. Fax: +34 3 401 70 55"
+        },
+        {
+            "name": "Olga Casals",
+            "id": "2169127775",
+            "org": "Computer Architecture Department. Universitat Politecnica de Catalunya c/. Sor Eulalia de Anzizu. Modul D4. E-08034 Barcelona. Tel.: +34 3 401 68 82. Fax: +34 3 401 70 55"
+        }
+    ],
+    "fields_of_study": [
+        "Poisson process",
+        "Broadband Integrated Services Digital Network",
+        "Asynchronous Transfer Mode",
+        "Markovian arrival process",
+        "Quality of service",
+        "Poisson distribution",
+        "Real-time computing",
+        "Computer science",
+        "Computer network"
+    ],
+    "references": [
+        "2121529758",
+        "2158883695",
+        "2165551776"
+    ]
+}

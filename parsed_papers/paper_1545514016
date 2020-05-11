@@ -1,0 +1,35 @@
+{
+    "id": "1545514016",
+    "title": "Generalized Birthday Arracks on Unbalanced Feistel Networks",
+    "venue": "international cryptology conference",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Charanjit S. Jutla",
+            "id": "2084288858",
+            "org": "IBM"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Permutation",
+        "Discrete mathematics",
+        "Second moment method",
+        "Invertible matrix",
+        "Adversary",
+        "Random permutation",
+        "Block cipher",
+        "Mathematics",
+        "Plaintext",
+        "Birthday attack"
+    ],
+    "references": [
+        "1519080809",
+        "1543503103",
+        "2020726579",
+        "2068871408",
+        "2077300005",
+        "2568739026",
+        "2799397395"
+    ]
+}

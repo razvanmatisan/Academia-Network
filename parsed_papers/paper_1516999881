@@ -1,0 +1,36 @@
+{
+    "id": "1516999881",
+    "title": "Configurations by UML",
+    "venue": "european conference on software architecture",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Oystein Haugen",
+            "id": "2659747775",
+            "org": "Department of Informatics, University of Oslo#TAB#"
+        },
+        {
+            "name": "Birger Moller-Pedersen",
+            "id": "2241489685",
+            "org": "Department of Informatics, University of Oslo#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Object Constraint Language",
+        "Discrete mathematics",
+        "Reference architecture",
+        "Architecture",
+        "Software architecture description",
+        "Computer science",
+        "Systems architecture",
+        "Applications of UML",
+        "UML tool",
+        "RM-ODP"
+    ],
+    "references": [
+        "105869708",
+        "1500250067",
+        "1505090407",
+        "1592192899"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": "1523828437",
+    "title": "Investigating the robustness of aisles in a non-traditional unit-load warehouse design: Leverage",
+    "venue": "congress on evolutionary computation",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Omer Ozturkoglu",
+            "id": "643835267",
+            "org": "Department of Industrial Engineering, Yasar University, Izmir, Turkey"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Mathematical optimization",
+        "Leverage (finance)",
+        "Algorithm design",
+        "Optimal design",
+        "Robustness (computer science)",
+        "Unit load",
+        "Warehouse"
+    ],
+    "references": [
+        "1556071776",
+        "1577668191",
+        "1970320473",
+        "2055612692",
+        "2112426731",
+        "2161596865"
+    ]
+}

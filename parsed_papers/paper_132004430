@@ -1,0 +1,36 @@
+{
+    "id": "132004430",
+    "title": "Multi-agent Platform for Security Level Evaluation of Information and Communication Services",
+    "venue": "Advanced Methods for Computational Collective Intelligence",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Grzegorz Kolaczek",
+            "id": "42534692",
+            "org": "Wroclaw University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Security as a service",
+        "Computer network",
+        "Standard of Good Practice",
+        "Human-computer interaction in information security",
+        "Security information and event management",
+        "Information security",
+        "Cloud computing security",
+        "Security service",
+        "Computer security",
+        "Information security audit",
+        "Computer science"
+    ],
+    "references": [
+        "1498435839",
+        "1536262086",
+        "1578533394",
+        "1737333480",
+        "2122646361",
+        "2144936818",
+        "2152943292",
+        "2172201651"
+    ]
+}

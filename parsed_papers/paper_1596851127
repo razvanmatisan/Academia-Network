@@ -1,0 +1,47 @@
+{
+    "id": "1596851127",
+    "title": "Graph Matching Using Manifold Embedding",
+    "venue": "international conference on image analysis and recognition",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Bai Xiao",
+            "id": "2304186463",
+            "org": "University of York"
+        },
+        {
+            "name": "Hang Yu",
+            "id": "2308914943",
+            "org": "University of York"
+        },
+        {
+            "name": "Edwin R. Hancock",
+            "id": "2047018924",
+            "org": "University of York"
+        }
+    ],
+    "fields_of_study": [
+        "Geometric graph theory",
+        "Discrete mathematics",
+        "Random geometric graph",
+        "Factor-critical graph",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Strength of a graph",
+        "Butterfly graph",
+        "Voltage graph",
+        "Coxeter graph",
+        "Simplex graph",
+        "Mathematics",
+        "Topology"
+    ],
+    "references": [
+        "1489025000",
+        "1972278541",
+        "2110889574",
+        "2126359798",
+        "2136761100",
+        "2152132697",
+        "2159537329"
+    ]
+}

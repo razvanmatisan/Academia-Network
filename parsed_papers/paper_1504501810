@@ -1,0 +1,43 @@
+{
+    "id": "1504501810",
+    "title": "Another Way of Doing RSA Cryptography in Hardware",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Lejla Batina",
+            "id": "2090677550",
+            "org": "Pijnenburg SECUREALINK B. V."
+        },
+        {
+            "name": "Geeke Muurling",
+            "id": "1986037274",
+            "org": "Pijnenburg SECUREALINK B. V."
+        }
+    ],
+    "fields_of_study": [
+        "Public-key cryptography",
+        "Modular design",
+        "Computer hardware",
+        "Modular exponentiation",
+        "Architecture",
+        "Systolic array",
+        "Scalability",
+        "Theoretical computer science",
+        "Cryptosystem",
+        "Cryptography",
+        "Computer science"
+    ],
+    "references": [
+        "1481833500",
+        "1490476950",
+        "1536508214",
+        "1613874182",
+        "1660562555",
+        "1664808737",
+        "2098235952",
+        "2136870067",
+        "2154909745",
+        "2245967636"
+    ]
+}

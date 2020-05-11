@@ -1,0 +1,53 @@
+{
+    "id": "1514810803",
+    "title": "A message recognition protocol based on standard assumptions",
+    "venue": "applied cryptography and network security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Atefeh Mashatan",
+            "id": "113235389",
+            "org": "The Security and Cryptography Laboratory, EPFL, Lausanne, Switzerland#TAB#"
+        },
+        {
+            "name": "Serge Vaudenay",
+            "id": "22805272",
+            "org": "The Security and Cryptography Laboratory, EPFL, Lausanne, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Mathematical proof",
+        "Computer security",
+        "Wireless ad hoc network",
+        "Pseudorandom function family",
+        "Cryptographic primitive",
+        "Distributed computing",
+        "Cryptographic protocol",
+        "Authentication",
+        "Preimage attack",
+        "Random oracle",
+        "Computer science"
+    ],
+    "references": [
+        "1484451046",
+        "1524871574",
+        "1566345534",
+        "1572503422",
+        "1582272635",
+        "1593630688",
+        "1607948119",
+        "1972792640",
+        "2006664424",
+        "2031495811",
+        "2056002932",
+        "2067514565",
+        "2072056539",
+        "2098468714",
+        "2099042427",
+        "2110832606",
+        "2113446256",
+        "2120775753",
+        "2153340200"
+    ]
+}

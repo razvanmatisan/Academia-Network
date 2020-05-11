@@ -1,0 +1,43 @@
+{
+    "id": "1511947404",
+    "title": "A Pseudo-Global Optimization Approach with Application to the Design of Containerships",
+    "venue": "Journal of Global Optimization",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Hanif D. Sherali",
+            "id": "82646880",
+            "org": "Grado Department of Industrial and Systems Engineering, 250 Durham Hall, Mail Code 0118, Virginia Polytechnic Institute and State University, Blacksburg, VA 24061, USA#TAB#"
+        },
+        {
+            "name": "Vikram Ganesan",
+            "id": "2122522260",
+            "org": "Grado Department of Industrial and Systems Engineering, 250 Durham Hall, Mail Code 0118, Virginia Polytechnic Institute and State University, Blacksburg, VA 24061, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Heuristic",
+        "Mathematical optimization",
+        "Branch and bound",
+        "Upper and lower bounds",
+        "Return on investment",
+        "Mathematics",
+        "Profitability index",
+        "Global optimization",
+        "Response surface methodology",
+        "Optimization problem"
+    ],
+    "references": [
+        "1510052597",
+        "1529626893",
+        "1573878755",
+        "1966155596",
+        "1978797771",
+        "2021674665",
+        "2032394926",
+        "2063190731",
+        "2067100964",
+        "2151238122",
+        "2163913714"
+    ]
+}

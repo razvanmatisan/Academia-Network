@@ -1,0 +1,31 @@
+{
+    "id": "1483507679",
+    "title": "Medical Analysis and Diagnosis by Neural Networks",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Rudiger W. Brause",
+            "id": "1889647024",
+            "org": "J.W. Goethe-University"
+        }
+    ],
+    "fields_of_study": [
+        "Statistical classification",
+        "Neuro-fuzzy",
+        "Artificial neural network",
+        "Time delay neural network",
+        "Rule-based system",
+        "Machine learning",
+        "Interfacing",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1596459501",
+        "2011433920",
+        "2027197837",
+        "2106681456",
+        "2138754805"
+    ]
+}

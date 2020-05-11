@@ -1,0 +1,34 @@
+{
+    "id": "1563379585",
+    "title": "Biofeedback revisited: dynamic displays to improve health trajectories",
+    "venue": "international conference on persuasive technology",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Margaret E. Morris",
+            "id": "2098259900",
+            "org": "Intel Corporation#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Human-computer interaction",
+        "Wireless sensor network",
+        "Knowledge management",
+        "Computer science",
+        "Exertion",
+        "Persuasion",
+        "Experiential learning",
+        "Social engagement",
+        "Simulation",
+        "Biofeedback",
+        "User interface",
+        "Everyday life"
+    ],
+    "references": [
+        "1545967542",
+        "1585178616",
+        "2104873044",
+        "2122929515",
+        "2130922514"
+    ]
+}

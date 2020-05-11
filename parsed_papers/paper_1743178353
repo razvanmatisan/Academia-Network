@@ -1,0 +1,32 @@
+{
+    "id": "1743178353",
+    "title": "A Contemporary Foreword on GSM Security",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Paulo S. Pagliusi",
+            "id": "1979863749",
+            "org": "University of London"
+        }
+    ],
+    "fields_of_study": [
+        "GSM",
+        "Application security",
+        "Customised Applications for Mobile networks Enhanced Logic",
+        "Security service",
+        "Cloud computing security",
+        "Computer security",
+        "Security information and event management",
+        "Mobile computing",
+        "Computer science",
+        "Computer security model",
+        "Computer network"
+    ],
+    "references": [
+        "1540875416",
+        "1544956979",
+        "2155441237",
+        "2158812183"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": "1598890642",
+    "title": "Running Higher-Order Unification in PaiLisp",
+    "venue": "Proceedings of the US/Japan Workshop on Parallel Symbolic Computing: Languages, Systems, and Applications",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Masami Hagiya",
+            "id": "240110451",
+            "org": "University of Tokyo"
+        }
+    ],
+    "fields_of_study": [
+        "Logical framework",
+        "Discrete mathematics",
+        "Cost efficiency",
+        "Theoretical computer science",
+        "Ranging",
+        "Task switching",
+        "Unification",
+        "Symbolic computation",
+        "Mathematics"
+    ],
+    "references": [
+        "150402802",
+        "1534565738",
+        "1974087219",
+        "2034676877",
+        "2174235464"
+    ]
+}

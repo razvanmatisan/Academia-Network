@@ -1,0 +1,39 @@
+{
+    "id": "1596425290",
+    "title": "Encoding Natural Semantics in Coq",
+    "venue": "algebraic methodology and software technology",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Delphine Terrasse",
+            "id": "2278596646",
+            "org": "INRIA - Sophia-Antipolis"
+        }
+    ],
+    "fields_of_study": [
+        "Programming language",
+        "Denotational semantics",
+        "Formal semantics (linguistics)",
+        "Programming language theory",
+        "Operational semantics",
+        "Type erasure",
+        "Action semantics",
+        "Algorithm",
+        "Computer science",
+        "Proof-theoretic semantics",
+        "Well-founded semantics"
+    ],
+    "references": [
+        "53146943",
+        "1494633126",
+        "1561822296",
+        "1576042299",
+        "1949275316",
+        "1970894287",
+        "1974190112",
+        "1996404651",
+        "2051328776",
+        "2057588976",
+        "2118229393"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1561848877",
+    "title": "Typing rule-based transformations over topological collections",
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Julien Cohen",
+            "id": "2216302649",
+            "org": "LaMI, CNRS u.m.r. 8042, Universite d'Evry Val d'Essonne, 523 place des Terrasses de l'Agora, 91000 Evry, France"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "Programming paradigm",
+        "Fifth-generation programming language",
+        "Protocol (object-oriented programming)",
+        "Programming domain",
+        "Programming language theory",
+        "Second-generation programming language",
+        "Comparison of multi-paradigm programming languages",
+        "Mathematics",
+        "Topology",
+        "Third-generation programming language"
+    ],
+    "references": [
+        "82042501",
+        "2009259962",
+        "2015256273",
+        "2022443117",
+        "2090177961",
+        "2128510454",
+        "2130872776",
+        "2143145126",
+        "2166822586",
+        "2218973191"
+    ]
+}

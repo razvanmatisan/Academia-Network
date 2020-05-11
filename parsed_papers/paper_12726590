@@ -1,0 +1,43 @@
+{
+    "id": "12726590",
+    "title": "System Integration and Unified Information Access using Question based Knowledge Management Strategies.",
+    "venue": "information integration and web-based applications & services",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Alexander Schatten",
+            "id": "2084988586",
+            "org": "Institute for Software Technology and Interactive Systems|Vienna University of Technology"
+        },
+        {
+            "name": "Franz Inselkammer",
+            "id": "2407052771",
+            "org": "Institute for Software Technology and Interactive Systems|Vienna University of Technology"
+        },
+        {
+            "name": "A Min Tjoa",
+            "id": "400262344",
+            "org": "Institute for Software Technology and Interactive Systems|Vienna University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Unified Information Access",
+        "Knowledge base",
+        "Data mining",
+        "Structure of Management Information",
+        "Database",
+        "System integration",
+        "Data management",
+        "Personal knowledge management",
+        "Management information systems",
+        "Computer science",
+        "Knowledge management",
+        "Open Knowledge Base Connectivity"
+    ],
+    "references": [
+        "1487897302",
+        "1517312174",
+        "2044321151",
+        "2090036533"
+    ]
+}

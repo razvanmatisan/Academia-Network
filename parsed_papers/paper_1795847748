@@ -1,0 +1,38 @@
+{
+    "id": "1795847748",
+    "title": "Towards Characterizing When Information-Theoretic Secret Key Agreement Is Possible",
+    "venue": "international cryptology conference",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Ueli Maurer",
+            "id": "2068596995",
+            "org": "Swiss Federal Institute of Technology (ETH Zurich)"
+        },
+        {
+            "name": "Stefan Wolf",
+            "id": "2242008111",
+            "org": "Swiss Federal Institute of Technology (ETH Zurich)"
+        }
+    ],
+    "fields_of_study": [
+        "Binary number",
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "Joint probability distribution",
+        "Information theory",
+        "Alice and Bob",
+        "If and only if",
+        "Cryptography",
+        "Random variable",
+        "Communication channel",
+        "Mathematics"
+    ],
+    "references": [
+        "60616127",
+        "2001466659",
+        "2041435496",
+        "2106833918",
+        "2144007657"
+    ]
+}

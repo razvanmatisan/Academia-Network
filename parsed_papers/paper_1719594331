@@ -1,0 +1,29 @@
+{
+    "id": "1719594331",
+    "title": "Symlog: Automated Advice in Fitch-style Proof Construction",
+    "venue": "conference on automated deduction",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Frederic D. Portoraro",
+            "id": "255532199",
+            "org": "University of Toronto"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical proof",
+        "Algorithm",
+        "Mathematical logic",
+        "Discrete mathematics",
+        "Predicate logic",
+        "Computer-assisted proof",
+        "Natural deduction",
+        "Automated theorem proving",
+        "Mathematics",
+        "Student engagement"
+    ],
+    "references": [
+        "1524881735",
+        "1531370178"
+    ]
+}

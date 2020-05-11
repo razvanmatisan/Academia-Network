@@ -1,0 +1,32 @@
+{
+    "id": "1519123338",
+    "title": "Automatic synthesis of distributed systems",
+    "venue": "automated software engineering",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Alin Stefanescu",
+            "id": "2062021687",
+            "org": "LFCS, Edinburgh Univ., UK"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Asynchronous circuit",
+        "Logic synthesis",
+        "Specification language",
+        "Computer science",
+        "Distributed algorithm",
+        "Distributed computing",
+        "Concurrency control",
+        "High-level synthesis",
+        "Formal verification",
+        "Automata theory"
+    ],
+    "references": [
+        "89538287",
+        "1541012801",
+        "1937565299",
+        "2048355938"
+    ]
+}

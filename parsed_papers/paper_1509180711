@@ -1,0 +1,32 @@
+{
+    "id": "1509180711",
+    "title": "To be or not to be...a global constraint",
+    "venue": "principles and practice of constraint programming",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Christian Bessiere",
+            "id": "2168734674",
+            "org": "LIRMM-CNRS, Montpellier, France#TAB#"
+        },
+        {
+            "name": "Pascal Van Hentenryck",
+            "id": "301883243",
+            "org": "Brown University, Providence, RI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Concurrent constraint logic programming",
+        "Mathematical optimization",
+        "Constraint programming",
+        "Complexity of constraint satisfaction",
+        "Discrete mathematics",
+        "Local consistency",
+        "Constraint logic programming",
+        "Constraint satisfaction problem",
+        "Constraint learning",
+        "Constraint satisfaction",
+        "Mathematics"
+    ],
+    "references": []
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1618309400",
+    "title": "A polynomial time nilpotence test for galois groups and related results",
+    "venue": "mathematical foundations of computer science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Vikraman Arvind",
+            "id": "2596857858",
+            "org": "Institute of Mathematical Sciences, Chennai, India#TAB#"
+        },
+        {
+            "name": "Piyush P. Kurur",
+            "id": "119165180",
+            "org": "Department of Computer Science and Engineering, Indian Institute of Technology, Kanpur, Kanpur, UP, India#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Prime number",
+        "Combinatorics",
+        "Galois group",
+        "Time complexity",
+        "Prime factor",
+        "Minimal polynomial (field theory)",
+        "Mathematics",
+        "Generic polynomial",
+        "Polynomial",
+        "Nilpotent"
+    ],
+    "references": [
+        "1491399033",
+        "1497569480",
+        "1974672137",
+        "2065800794"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "11388921",
+    "title": "Knowledge production and integration for diagnosis, treatment and prognosis in medicine",
+    "venue": "conference on artificial intelligence research and development",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "John A. Bohada",
+            "id": "2659147083",
+            "org": "Department of Engineering Informatics and Mathematics, Rovira i Virgily University#TAB#"
+        },
+        {
+            "name": "David Riaoo",
+            "id": "2706764591",
+            "org": "Department of Engineering Informatics and Mathematics, Rovira i Virgily University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Business decision mapping",
+        "Business",
+        "R-CAST",
+        "Medical algorithm",
+        "Clinical decision support system",
+        "Decision analysis",
+        "Health care",
+        "Knowledge management"
+    ],
+    "references": [
+        "108716606",
+        "1540751513",
+        "1562875656",
+        "2136000097",
+        "2149706766"
+    ]
+}

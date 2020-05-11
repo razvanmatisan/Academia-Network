@@ -1,0 +1,33 @@
+{
+    "id": "1608879862",
+    "title": "Counting bottlenecks to show monotone P/spl ne/NP",
+    "venue": "foundations of computer science",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Armin Haken",
+            "id": "2483273230",
+            "org": "1805 Augusta Drive, Champaign, IL, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Combinatorics",
+        "And-inverter graph",
+        "Circuit minimization for Boolean functions",
+        "Circuit complexity",
+        "Cook-Levin theorem",
+        "Boolean circuit",
+        "Karp-Lipton theorem",
+        "Maximum satisfiability problem",
+        "Product term",
+        "Mathematics"
+    ],
+    "references": [
+        "1517585663",
+        "2012476164",
+        "2047749000",
+        "2069767473",
+        "2099332935"
+    ]
+}

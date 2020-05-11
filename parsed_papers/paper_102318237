@@ -1,0 +1,36 @@
+{
+    "id": "102318237",
+    "title": "Updatable Island Reasoning for Alchi-ontologies.",
+    "venue": "international conference on knowledge engineering and ontology development",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Sebastian Wandelt",
+            "id": "2691114306",
+            "org": "Institute of Software Systems|University of Technology"
+        },
+        {
+            "name": "Ralf Moller",
+            "id": "2306982268",
+            "org": "Institute of Software Systems|University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Semantic Web Rule Language",
+        "Information retrieval",
+        "Data mining",
+        "Social Semantic Web",
+        "Description logic",
+        "Semantic Web",
+        "Semantic Web Stack",
+        "Ontology (information science)"
+    ],
+    "references": [
+        "179809660",
+        "1501328101",
+        "1524799179",
+        "1989009626",
+        "2165433828"
+    ]
+}

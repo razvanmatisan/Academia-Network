@@ -1,0 +1,38 @@
+{
+    "id": "1547562281",
+    "title": "Concurrency and Automata on Infinite Sequences",
+    "venue": "Theoretical Computer Science",
+    "year": 1981,
+    "authors": [
+        {
+            "name": "David Michael Ritchie Park",
+            "id": "2279403687",
+            "org": "University of Warwick"
+        }
+    ],
+    "fields_of_study": [
+        "Recursion",
+        "Combinatorics",
+        "Hennessy-Milner logic",
+        "Abstract family of languages",
+        "Cone (formal languages)",
+        "Discrete mathematics",
+        "Algebra",
+        "Concurrency",
+        "Second-generation programming language",
+        "Regular expression",
+        "Computer science",
+        "Operator (computer programming)"
+    ],
+    "references": [
+        "117768600",
+        "1812404936",
+        "1976772375",
+        "2054801208",
+        "2094912129",
+        "2141405865",
+        "2149366752",
+        "2156429182",
+        "2162844904"
+    ]
+}

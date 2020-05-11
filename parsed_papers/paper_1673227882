@@ -1,0 +1,46 @@
+{
+    "id": "1673227882",
+    "title": "Incorrect attribute value detection for traffic accident data",
+    "venue": "international symposium on neural networks",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Rupam Deb",
+            "id": "2128324211",
+            "org": "School of Information and Communication technology, Griffith University, Gold Coast, Australia"
+        },
+        {
+            "name": "Alan Wee-Chung Liew",
+            "id": "2268041516",
+            "org": "School of Information and Communication technology, Griffith University, Gold Coast, Australia"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Minification",
+        "Machine learning",
+        "Artificial neural network",
+        "Noisy data",
+        "Asset management",
+        "Crash",
+        "Special case",
+        "Computer-aided manufacturing",
+        "Recall",
+        "Computer science",
+        "Data mining"
+    ],
+    "references": [
+        "183172906",
+        "1564764609",
+        "1606957466",
+        "1861600621",
+        "1997528284",
+        "2063876071",
+        "2133160781",
+        "2133654650",
+        "2159798994",
+        "2237197110",
+        "2395023126",
+        "2561448874"
+    ]
+}

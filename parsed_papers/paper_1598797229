@@ -1,0 +1,36 @@
+{
+    "id": "1598797229",
+    "title": "A component for management system and ubiquitous environment",
+    "venue": "international conference on intelligent computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Malrey Lee",
+            "id": "2580421451",
+            "org": "Department of Computer Science, Chonbuk National University, Jeonju, South Korea"
+        },
+        {
+            "name": "Kang Yun Jeong",
+            "id": "2627748587",
+            "org": "Department of Computer Science, Chonbuk National University, Jeonju, South Korea"
+        }
+    ],
+    "fields_of_study": [
+        "Customer intelligence",
+        "Knowledge base",
+        "Customer relationship management",
+        "Process management",
+        "Management system",
+        "Voice of the customer",
+        "Customer reference program",
+        "Computer science",
+        "Distributed computing",
+        "Data mining",
+        "Automation",
+        "Customer Service Assurance"
+    ],
+    "references": [
+        "1807484554",
+        "2147492008"
+    ]
+}

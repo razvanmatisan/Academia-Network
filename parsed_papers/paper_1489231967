@@ -1,0 +1,42 @@
+{
+    "id": "1489231967",
+    "title": "Secret sharing based on a hard-on-average problem",
+    "venue": "Linear Algebra and its Applications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Pino Caballero-Gil",
+            "id": "2213901692",
+            "org": "DEIOC, University of La Laguna, Astrofisico Francisco Sanchez, 38271 La Laguna, Tenerife, Spain"
+        },
+        {
+            "name": "Candelaria Hernandez-Goya",
+            "id": "199088331",
+            "org": "DEIOC, University of La Laguna, Astrofisico Francisco Sanchez, 38271 La Laguna, Tenerife, Spain"
+        }
+    ],
+    "fields_of_study": [
+        "Decision problem",
+        "Verifiable secret sharing",
+        "Mathematics",
+        "Key management",
+        "Homomorphic secret sharing",
+        "Shamir's Secret Sharing",
+        "Secure multi-party computation",
+        "Theoretical computer science",
+        "Computational complexity theory",
+        "Secret sharing"
+    ],
+    "references": [
+        "1501377049",
+        "1590395676",
+        "1594335079",
+        "1979740015",
+        "2099000090",
+        "2100008268",
+        "2141420453",
+        "2152708687",
+        "2159401786",
+        "2173249896"
+    ]
+}

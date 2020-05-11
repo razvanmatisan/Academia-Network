@@ -1,0 +1,40 @@
+{
+    "id": "1591124109",
+    "title": "Explaining the enjoyment of playing video games: the role of competition",
+    "venue": "international conference on entertainment computing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Peter Vorderer",
+            "id": "1273958724",
+            "org": "University of Southern California#TAB#"
+        },
+        {
+            "name": "Tilo Hartmann",
+            "id": "2110272412",
+            "org": "Hannover University of Music and Drama, Hannover, Germany#TAB#"
+        },
+        {
+            "name": "Christoph Klimmt",
+            "id": "203630367",
+            "org": "Hannover University of Music and Drama, Hannover, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Field experiment",
+        "Turns, rounds and time-keeping systems in games",
+        "Interactivity",
+        "Emergent gameplay",
+        "Video game design",
+        "Multimedia",
+        "Popularity",
+        "Video game culture",
+        "Simulation",
+        "Computer science",
+        "Game mechanics"
+    ],
+    "references": [
+        "1972888601",
+        "2160685358"
+    ]
+}

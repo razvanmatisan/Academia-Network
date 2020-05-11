@@ -1,0 +1,37 @@
+{
+    "id": "1509911821",
+    "title": "Efficient Induction of Numerical Constraints",
+    "venue": "international syposium on methodologies for intelligent systems",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Lionel Martin",
+            "id": "2502993187",
+            "org": "LIFO - Universite d'Orleans"
+        },
+        {
+            "name": "Christel Vrain",
+            "id": "642242693",
+            "org": "LIFO - Universite d'Orleans"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Originality",
+        "Iterative method",
+        "Artificial intelligence",
+        "Machine learning",
+        "Mathematical optimization",
+        "Hyperplane",
+        "Linear separability",
+        "Integer",
+        "Linear programming",
+        "Iterated function",
+        "Mathematics"
+    ],
+    "references": [
+        "7294475",
+        "105928333",
+        "1584941468"
+    ]
+}

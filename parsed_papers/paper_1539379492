@@ -1,0 +1,41 @@
+{
+    "id": "1539379492",
+    "title": "A Conceptual Graphs Approach to Conceptual Schema Integration",
+    "venue": "international conference on conceptual structures",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Peter N. Creasy",
+            "id": "47920624",
+            "org": "University of Queensland"
+        },
+        {
+            "name": "Gerard Ellis",
+            "id": "2168002375",
+            "org": "University of Queensland"
+        }
+    ],
+    "fields_of_study": [
+        "Conceptual graph",
+        "Information schema",
+        "Systems engineering",
+        "Conceptual design",
+        "Mathematical optimization",
+        "Conceptual system",
+        "Data mining",
+        "Database schema",
+        "Conceptual schema",
+        "Conceptual model (computer science)",
+        "Computer science",
+        "Analogy"
+    ],
+    "references": [
+        "1493596129",
+        "1513735893",
+        "1523363850",
+        "1525065868",
+        "2087570746",
+        "2089634871",
+        "2140667122"
+    ]
+}

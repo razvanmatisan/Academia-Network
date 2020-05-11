@@ -1,0 +1,33 @@
+{
+    "id": "1597992356",
+    "title": "A Bayesian Hierarchical Model Approach to Risk Estimation in Statistical Disclosure Limitation",
+    "venue": "privacy in statistical databases",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Silvia Polettini",
+            "id": "7165006",
+            "org": "ISTAT - Servizio Progettazione e Supporto Metodologico, nei Processi di Produzione Statistica"
+        },
+        {
+            "name": "Julian Stander",
+            "id": "2100725925",
+            "org": "University of Plymouth"
+        }
+    ],
+    "fields_of_study": [
+        "Posterior probability",
+        "Survey data collection",
+        "Bayesian hierarchical modeling",
+        "Statistics",
+        "Econometrics",
+        "Data mining",
+        "Risk analysis (business)",
+        "Sampling (statistics)",
+        "Data Protection Act 1998",
+        "Risk assessment",
+        "Microdata (HTML)",
+        "Computer science"
+    ],
+    "references": []
+}

@@ -1,0 +1,30 @@
+{
+    "id": "1670381244",
+    "title": "Towards safer, faster prenatal genetic tests: novel unsupervised, automatic and robust methods of segmentation of nuclei and probes",
+    "venue": "european conference on computer vision",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Christophe Restif",
+            "id": "2306417084",
+            "org": "Department of Computing, Oxford Brookes University, Oxford, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Computer vision",
+        "Artificial intelligence",
+        "Image segmentation",
+        "Image histogram",
+        "Image processing",
+        "Robustness (computer science)",
+        "Segmentation",
+        "Expectation-maximization algorithm",
+        "Segmentation-based object categorization",
+        "Scale-space segmentation"
+    ],
+    "references": [
+        "1518641734",
+        "2002197736"
+    ]
+}

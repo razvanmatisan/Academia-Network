@@ -1,0 +1,31 @@
+{
+    "id": "1525053642",
+    "title": "Grammars Without Erasing Rules - The OI Case",
+    "venue": "colloquium on trees in algebra and programming",
+    "year": 1981,
+    "authors": [
+        {
+            "name": "Bernard Leguy",
+            "id": "2030011920",
+            "org": "Universite de Lille I"
+        }
+    ],
+    "fields_of_study": [
+        "Phrase structure grammar",
+        "Monad (functional programming)",
+        "Context-free language",
+        "Programming language",
+        "Extended Affix Grammar",
+        "Computer science",
+        "Rule-based machine translation"
+    ],
+    "references": [
+        "1487230569",
+        "1963587568",
+        "2020316350",
+        "2044111300",
+        "2078866770",
+        "2404491450",
+        "2538148032"
+    ]
+}

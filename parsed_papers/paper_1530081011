@@ -1,0 +1,48 @@
+{
+    "id": "1530081011",
+    "title": "Key-attributes based optimistic data consistency maintenance method",
+    "venue": "international symposium on parallel and distributed processing and applications",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Jing Zhou",
+            "id": "2638707093",
+            "org": "National Key Laboratory for Parallel and Distributed Processing, Institute of Computer, National University of Defense Technology, Changsha, China#TAB#"
+        },
+        {
+            "name": "Yijie Wang",
+            "id": "2638090262",
+            "org": "National Key Laboratory for Parallel and Distributed Processing, Institute of Computer, National University of Defense Technology, Changsha, China#TAB#"
+        },
+        {
+            "name": "Sikun Li",
+            "id": "2124487108",
+            "org": "National Key Laboratory for Parallel and Distributed Processing, Institute of Computer, National University of Defense Technology, Changsha, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Real-time computing",
+        "Peer-to-peer",
+        "Latency (engineering)",
+        "Robustness (computer science)",
+        "Computer science",
+        "Eventual consistency",
+        "Data consistency",
+        "Consistency model",
+        "Network partition",
+        "Distributed data store"
+    ],
+    "references": [
+        "1480171571",
+        "1524103123",
+        "1984674591",
+        "2001803004",
+        "2108687825",
+        "2130078562",
+        "2133113412",
+        "2144894989",
+        "2158667103",
+        "2162817712"
+    ]
+}

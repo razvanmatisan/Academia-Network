@@ -1,0 +1,46 @@
+{
+    "id": "1527809416",
+    "title": "Minimum Degree Up to Local Complementation: Bounds, Parameterized Complexity, and Exact Algorithms",
+    "venue": "international symposium on algorithms and computation",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "David Cattaneo",
+            "id": "2150835408",
+            "org": "University of Grenoble"
+        },
+        {
+            "name": "Simon Perdrix",
+            "id": "2776328558",
+            "org": "CNRS, Inria Project Team Carte, LORIA"
+        }
+    ],
+    "fields_of_study": [
+        "Logarithm",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Mathematics",
+        "Upper and lower bounds",
+        "Bipartite graph",
+        "Parameterized complexity",
+        "Degree (graph theory)",
+        "Frequency partition of a graph",
+        "Complementation",
+        "Vertex cover"
+    ],
+    "references": [
+        "896820904",
+        "1490141328",
+        "1508926025",
+        "1521818649",
+        "1562747616",
+        "1631436345",
+        "1852497619",
+        "1964589141",
+        "2007652806",
+        "2117593045",
+        "2170716519",
+        "2171507355",
+        "2761395286"
+    ]
+}

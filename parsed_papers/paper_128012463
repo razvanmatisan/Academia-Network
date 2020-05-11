@@ -1,0 +1,35 @@
+{
+    "id": "128012463",
+    "title": "Communicating Scala Objects",
+    "venue": "communicating process architectures",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Bernard Sufrin",
+            "id": "2061862776",
+            "org": "University of Oxford"
+        }
+    ],
+    "fields_of_study": [
+        "Rendezvous",
+        "Scala",
+        "Implementation",
+        "Real-time computing",
+        "Distributed computing",
+        "Computer science",
+        "occam",
+        "Java",
+        "Parameterized complexity",
+        "Programming language",
+        "JCSP",
+        "Virtual machine"
+    ],
+    "references": [
+        "1493087819",
+        "1628092780",
+        "1938483076",
+        "2047847321",
+        "2110425399",
+        "2122093300"
+    ]
+}

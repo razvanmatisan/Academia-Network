@@ -1,0 +1,38 @@
+{
+    "id": "1507920653",
+    "title": "Combining Proof-Search and Counter-Model Construction for Deciding Godel-Dummett Logic",
+    "venue": "conference on automated deduction",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Dominique Larchey-Wendling",
+            "id": "2694179626",
+            "org": "Universite Henri Poincare"
+        }
+    ],
+    "fields_of_study": [
+        "Decidability",
+        "Mathematical proof",
+        "Algorithm",
+        "Structural rule",
+        "Discrete mathematics",
+        "Intuitionistic logic",
+        "Propositional calculus",
+        "Operational semantics",
+        "Sequent calculus",
+        "Sequent",
+        "Mathematics"
+    ],
+    "references": [
+        "1538212964",
+        "1571471913",
+        "1572031204",
+        "1858420784",
+        "2092765780",
+        "2106490090",
+        "2114979222",
+        "2124047678",
+        "2130376240",
+        "2131739376"
+    ]
+}

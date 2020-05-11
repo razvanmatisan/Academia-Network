@@ -1,0 +1,45 @@
+{
+    "id": "1517840124",
+    "title": "Component integration through built-in contract testing",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Hans-Gerhard Gross",
+            "id": "2180810509",
+            "org": "Fraunhofer Institute for Experimental Software Engineering"
+        },
+        {
+            "name": "Colin Atkinson",
+            "id": "2110818429",
+            "org": "University of Mannheim"
+        },
+        {
+            "name": "Franck Barbier",
+            "id": "2051020692",
+            "org": "Universite de Pau et des Pays l' Adour"
+        }
+    ],
+    "fields_of_study": [
+        "Software requirements specification",
+        "Pairwise comparison",
+        "Software deployment",
+        "Software construction",
+        "Systems engineering",
+        "Distributed computing",
+        "Software development",
+        "System integration testing",
+        "Component-based software engineering",
+        "Software",
+        "Operating system",
+        "Computer science"
+    ],
+    "references": [
+        "1489704271",
+        "1508028241",
+        "1594445969",
+        "2141407780",
+        "2161825580",
+        "2167500728"
+    ]
+}

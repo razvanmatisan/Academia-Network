@@ -1,0 +1,33 @@
+{
+    "id": "1586824226",
+    "title": "An AI Modelling Approach to Understanding a Complex Manufacturing Process",
+    "venue": "industrial and engineering applications of artificial intelligence and expert systems",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Marcos A. Rodrigues",
+            "id": "2257169048",
+            "org": "The University of Hull"
+        },
+        {
+            "name": "Leonardo Bottaci",
+            "id": "2157386053",
+            "org": "The University of Hull"
+        }
+    ],
+    "fields_of_study": [
+        "Expert system",
+        "Production line",
+        "Data mining",
+        "Computer science",
+        "Management science",
+        "Scheduling (production processes)",
+        "Process control",
+        "Simulation",
+        "Customer satisfaction"
+    ],
+    "references": [
+        "2137694518",
+        "2152475379"
+    ]
+}

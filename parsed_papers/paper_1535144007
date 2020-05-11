@@ -1,0 +1,34 @@
+{
+    "id": "1535144007",
+    "title": "VINAS-P: A Tool for Trace Theoretic Verification of Timed Asynchronous Circuits",
+    "venue": "computer aided verification",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Tomohiro Yoneda",
+            "id": "2145771268",
+            "org": "Tokyo Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Synchronous circuit",
+        "Circuit design",
+        "Asynchronous circuit",
+        "Network analysis",
+        "Asynchronous communication",
+        "Algorithm",
+        "Partial order reduction",
+        "Distributed computing",
+        "Clock skew",
+        "Formal verification",
+        "Computer science",
+        "Real-time computing"
+    ],
+    "references": [
+        "1491037212",
+        "1793691888",
+        "1861370427",
+        "1929497867",
+        "2016300863"
+    ]
+}

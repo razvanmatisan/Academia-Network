@@ -1,0 +1,29 @@
+{
+    "id": "1556906497",
+    "title": "Mobile Co-ordination: Providing Fault Tolerance in Tuple Space Based Co-ordination Languages",
+    "venue": "international conference on coordination models and languages",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Antony I. T. Rowstron",
+            "id": "2338340454",
+            "org": "Engineering Department"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Distributed computing",
+        "Fault tolerance",
+        "Tuple space",
+        "Formal specification",
+        "Specification language",
+        "Java",
+        "Tuple",
+        "Ordination",
+        "Object-oriented programming"
+    ],
+    "references": [
+        "1707607883",
+        "1965498649"
+    ]
+}

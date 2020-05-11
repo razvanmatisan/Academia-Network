@@ -1,0 +1,37 @@
+{
+    "id": "1531489133",
+    "title": "Monotone classification by function decomposition",
+    "venue": "discovery science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Viara Popova",
+            "id": "2124533525",
+            "org": "Department of Artificial Intelligence, Vrije Universiteit, Amsterdam, The Netherlands#TAB#"
+        },
+        {
+            "name": "Jan C. Bioch",
+            "id": "332503799",
+            "org": "Econometric Institute, Erasmus University Rotterdam, Rotterdam, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Bernstein's theorem on monotone functions",
+        "Hierarchy",
+        "Boolean function",
+        "Discrete mathematics",
+        "Functional decomposition",
+        "Constraint graph",
+        "Monotone polygon",
+        "Decomposition method (constraint satisfaction)",
+        "Mathematics"
+    ],
+    "references": [
+        "1518053057",
+        "1576290412",
+        "1785697160",
+        "2043879770",
+        "2059413692",
+        "2138178898"
+    ]
+}

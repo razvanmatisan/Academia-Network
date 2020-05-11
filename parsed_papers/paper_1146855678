@@ -1,0 +1,46 @@
+{
+    "id": "1146855678",
+    "title": "An Adaptive Neighborhood Search for k-Clustering Minimum Bi-clique Completion Problems",
+    "venue": "modelling, computation and optimization in information systems and management sciences",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Mhand Hifi",
+            "id": "2580171003",
+            "org": "Universite de Picardie Jules Verne"
+        },
+        {
+            "name": "Ibrahim Moussa",
+            "id": "2675885917",
+            "org": "Universite de Picardie Jules Verne"
+        },
+        {
+            "name": "Toufik Saadi",
+            "id": "2168922427",
+            "org": "Universite de Picardie Jules Verne"
+        },
+        {
+            "name": "Sagvan Saleh",
+            "id": "2128354828",
+            "org": "Universite de Picardie Jules Verne"
+        }
+    ],
+    "fields_of_study": [
+        "Bipartite graph",
+        "Computer science",
+        "Mathematical optimization",
+        "Heuristic",
+        "Vertex (geometry)",
+        "Local search (optimization)",
+        "Combinatorial optimization",
+        "Partition (number theory)",
+        "k-means clustering",
+        "Disjoint sets"
+    ],
+    "references": [
+        "1554727768",
+        "1589307603",
+        "1977415390",
+        "2003331610"
+    ]
+}

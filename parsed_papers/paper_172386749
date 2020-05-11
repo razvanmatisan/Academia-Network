@@ -1,0 +1,39 @@
+{
+    "id": "172386749",
+    "title": "The computational complexity of Evolutionarily Stable Strategies",
+    "venue": "Electronic Colloquium on Computational Complexity",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Kousha Etessami",
+            "id": "202235199",
+            "org": "Laboratory for Foundations of Computer Science|School of Informatics|University of Edinburgh|JZ"
+        },
+        {
+            "name": "Andreas Lochbihler",
+            "id": "2797221060",
+            "org": "Fakultat fur Mathematik und Informatik|Universitat Passau"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Evolutionarily stable strategy",
+        "Mathematics",
+        "Game theory",
+        "Combinatorics",
+        "Time complexity",
+        "Upper and lower bounds",
+        "Computational complexity theory",
+        "Mathematical optimization",
+        "Nash equilibrium"
+    ],
+    "references": [
+        "1550331971",
+        "1807884544",
+        "1992480370",
+        "2006912660",
+        "2018556306",
+        "2027574304",
+        "2125537511"
+    ]
+}

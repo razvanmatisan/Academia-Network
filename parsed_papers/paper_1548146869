@@ -1,0 +1,38 @@
+{
+    "id": "1548146869",
+    "title": "Inference of Finite-State Transducers by Using Regular Grammars and Morphisms",
+    "venue": "international colloquium on grammatical inference",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Francisco Casacuberta",
+            "id": "1336878",
+            "org": "Instituto Tecnologico de Informatica, Universidad Politecnica de Valencia"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Discrete mathematics",
+        "Tree-adjoining grammar",
+        "Regular grammar",
+        "Finite-state machine",
+        "L-attributed grammar",
+        "Regular tree grammar",
+        "Stochastic context-free grammar",
+        "Context-free grammar",
+        "Rule-based machine translation"
+    ],
+    "references": [
+        "1505482284",
+        "1587672565",
+        "1998809603",
+        "2006969979",
+        "2038705330",
+        "2097333193",
+        "2117652747",
+        "2130640821",
+        "2131236363",
+        "2139647714",
+        "2162157640"
+    ]
+}

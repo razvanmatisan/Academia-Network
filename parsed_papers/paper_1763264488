@@ -1,0 +1,38 @@
+{
+    "id": "1763264488",
+    "title": "A symbolic and surgical acquisition of terms through variation",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Christian Jacquemin",
+            "id": "2159588465",
+            "org": "IUT de Nantes"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Machine learning",
+        "Artificial intelligence",
+        "Parsing",
+        "Machine translation",
+        "Automatic indexing",
+        "Natural language processing",
+        "Permutation",
+        "Robustness (computer science)",
+        "Computer science",
+        "Syntax",
+        "Unification"
+    ],
+    "references": [
+        "1593045043",
+        "1992267841",
+        "2032219148",
+        "2062604708",
+        "2071203054",
+        "2087926223",
+        "2114461971",
+        "2151157246",
+        "2159637323"
+    ]
+}

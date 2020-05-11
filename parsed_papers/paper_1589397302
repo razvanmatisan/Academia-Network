@@ -1,0 +1,41 @@
+{
+    "id": "1589397302",
+    "title": "Effective Visualization and Navigation in a Multimedia Document Collection Using Ontology",
+    "venue": "pattern recognition and machine intelligence",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Surjeet Mishra",
+            "id": "2140174340",
+            "org": "TCS Innovation Labs Delhi, Tata Consultancy Services,#TAB#"
+        },
+        {
+            "name": "Hiranmay Ghosh",
+            "id": "2132359202",
+            "org": "TCS Innovation Labs Delhi, Tata Consultancy Services,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Domain knowledge",
+        "Information retrieval",
+        "Visualization",
+        "Knowledge organization",
+        "Computer science",
+        "Multimedia",
+        "Body of knowledge",
+        "Ontology (information science)",
+        "Data mining",
+        "Knowledge-based systems",
+        "Open Knowledge Base Connectivity",
+        "Knowledge space"
+    ],
+    "references": [
+        "91641418",
+        "1589160252",
+        "1914224222",
+        "2026743036",
+        "2105535124",
+        "2114544510",
+        "2148572968"
+    ]
+}

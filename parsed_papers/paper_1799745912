@@ -1,0 +1,47 @@
+{
+    "id": "1799745912",
+    "title": "Gauss Period, Sparse Polynomial, Redundant Basis, and Efficient Exponentiation for a Class of Finite Fields with Small Characteristic",
+    "venue": "international symposium on algorithms and computation",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Soonhak Kwon",
+            "id": "2160164031",
+            "org": "Sungkyunkwan University"
+        },
+        {
+            "name": "Chang Hoon Kim",
+            "id": "2135231757",
+            "org": "Daegu University"
+        },
+        {
+            "name": "Chun Pyo Hong",
+            "id": "2132184226",
+            "org": "Daegu University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Calculus",
+        "Gauss",
+        "Exponentiation by squaring",
+        "Mathematical analysis",
+        "Primitive polynomial",
+        "Exponentiation",
+        "Root of unity",
+        "Polynomial",
+        "Finite field",
+        "Primitive element",
+        "Mathematics"
+    ],
+    "references": [
+        "1515699644",
+        "1561590459",
+        "1574338402",
+        "1575893707",
+        "1582298460",
+        "1978030427",
+        "2084897040",
+        "2116313175"
+    ]
+}

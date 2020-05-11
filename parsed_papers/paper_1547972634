@@ -1,0 +1,38 @@
+{
+    "id": "1547972634",
+    "title": "Supporting the design process within an organisational context",
+    "venue": "european conference on computer supported cooperative work",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Bob Anderson",
+            "id": "2488151406",
+            "org": "Rank Xerox EuroPARC, England#TAB#"
+        },
+        {
+            "name": "Graham Button",
+            "id": "2031634763",
+            "org": "Rank Xerox EuroPARC, England#TAB#"
+        },
+        {
+            "name": "Wes Sharrock",
+            "id": "2034427648",
+            "org": "University of Manchester, England#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Technical drawing",
+        "Engineering design process",
+        "New product development",
+        "Management science",
+        "Case analysis",
+        "Computer science",
+        "Train of thought",
+        "Design process"
+    ],
+    "references": [
+        "2043173127",
+        "2048006820"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1519127112",
+    "title": "Reasoning with the Formal Definition of Standard ML in HOL",
+    "venue": "theorem proving in higher order logics",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Donald Syme",
+            "id": "2618595335",
+            "org": "The Australian National University"
+        },
+        {
+            "name": "Donald Syme",
+            "id": "2618595335",
+            "org": "The Australian National University"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Standard ML",
+        "Determinacy",
+        "Correctness",
+        "Reasoning system",
+        "HOL",
+        "Algorithm",
+        "Rule of inference",
+        "Programming language",
+        "Computer science",
+        "Syntax"
+    ],
+    "references": [
+        "1534508664",
+        "1590828018",
+        "2546854926"
+    ]
+}

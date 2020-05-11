@@ -1,0 +1,31 @@
+{
+    "id": "1513375250",
+    "title": "The Use of Psychophysiological Measures for Designing Adaptive Learning Systems",
+    "venue": "artificial intelligence applications and innovations",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Stamos T. Karamouzis",
+            "id": "1234267864",
+            "org": "Loyola University New Orleans"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Behaviorism",
+        "Adaptive learning",
+        "Robot learning",
+        "Learning environment",
+        "Functionalism (philosophy of mind)",
+        "Computer science",
+        "Learning theory",
+        "Instructional simulation",
+        "Proactive learning",
+        "Knowledge management"
+    ],
+    "references": [
+        "1594781181",
+        "1984170582"
+    ]
+}

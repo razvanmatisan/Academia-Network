@@ -1,0 +1,44 @@
+{
+    "id": "1513689653",
+    "title": "Pareto-optimality in Scheduling Problems",
+    "venue": "computational intelligence",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Antonio Fernandez Gomez-skarmeta",
+            "id": "2072057993",
+            "org": "Universidad de Murcia"
+        },
+        {
+            "name": "Fernando Jimenez",
+            "id": "2303240880",
+            "org": "Universidad de Murcia"
+        },
+        {
+            "name": "Jesus Ibanez",
+            "id": "2571257235",
+            "org": "Universidad de Murcia"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Lottery scheduling",
+        "Fair-share scheduling",
+        "Two-level scheduling",
+        "Nurse scheduling problem",
+        "Computer science",
+        "Machine learning",
+        "Mathematical optimization",
+        "Dynamic priority scheduling",
+        "Multi-objective optimization",
+        "Genetic algorithm scheduling",
+        "Rate-monotonic scheduling"
+    ],
+    "references": [
+        "1584887696",
+        "1588020177",
+        "1612556207",
+        "1639032689",
+        "2116661285"
+    ]
+}

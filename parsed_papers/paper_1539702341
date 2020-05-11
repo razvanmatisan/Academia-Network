@@ -1,0 +1,32 @@
+{
+    "id": "1539702341",
+    "title": "A polynomial-time algorithm for deciding Markov equivalence of directed cyclic graphical models",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Thomas S. Richardson",
+            "id": "2136117749",
+            "org": "Philosophy Department, Carnegie-Mellon University, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Directed graph",
+        "Directed acyclic graph",
+        "Indifference graph",
+        "Combinatorics",
+        "Chordal graph",
+        "Discrete mathematics",
+        "Causal Markov condition",
+        "Longest path problem",
+        "Algorithm",
+        "Strongly connected component",
+        "Markov chain",
+        "Mathematics"
+    ],
+    "references": [
+        "1589927998",
+        "1655990431",
+        "2159080219"
+    ]
+}

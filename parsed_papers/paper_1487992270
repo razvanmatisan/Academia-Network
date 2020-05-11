@@ -1,0 +1,39 @@
+{
+    "id": "1487992270",
+    "title": "An extensible proof text editor",
+    "venue": "international conference on logic programming",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Thomas Hallgren",
+            "id": "2168498621",
+            "org": "Department of Computing Science, Chalmers University of Technology, Goteborg, Sweden#TAB#"
+        },
+        {
+            "name": "Aarne Ranta",
+            "id": "2001403868",
+            "org": "Department of Computing Science, Chalmers University of Technology, Goteborg, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Grammatical Framework",
+        "Algorithm",
+        "Parsing",
+        "Proof theory",
+        "Natural language",
+        "Computer science",
+        "Formal proof",
+        "Programming language",
+        "Syntax",
+        "Abstract syntax",
+        "Proof assistant"
+    ],
+    "references": [
+        "1511774588",
+        "1561847196",
+        "1590769334",
+        "1590985701",
+        "2027584005",
+        "2232441531"
+    ]
+}

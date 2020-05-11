@@ -1,0 +1,33 @@
+{
+    "id": "1534043652",
+    "title": "The Development of a Computational Notation for Synthesis of Sign and Gesture",
+    "venue": "International Gesture Workshop",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Kirsty Crombie Smith",
+            "id": "2396179004",
+            "org": "University of Birmingham"
+        },
+        {
+            "name": "William H. Edmondson",
+            "id": "2219037552",
+            "org": "University of Birmingham"
+        }
+    ],
+    "fields_of_study": [
+        "Notation",
+        "Sign language",
+        "Natural language processing",
+        "Gesture",
+        "Peripheral vision",
+        "Computer science",
+        "Visual perception",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1580472634",
+        "2081721061",
+        "2126698653"
+    ]
+}

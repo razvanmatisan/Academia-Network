@@ -1,0 +1,45 @@
+{
+    "id": "1540263588",
+    "title": "Set Constraints in Logic Programming",
+    "venue": "international conference on logic programming",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Victor W. Marek",
+            "id": "1989537430",
+            "org": "University of Kentucky"
+        },
+        {
+            "name": "Jeffrey B. Remmel",
+            "id": "2103011650",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Stable model semantics",
+        "Constraint programming",
+        "Algorithm",
+        "Fixed point",
+        "Combinatorics",
+        "Logic programming",
+        "Complete lattice",
+        "Operator (computer programming)",
+        "Mathematics",
+        "Family of sets",
+        "Finite set"
+    ],
+    "references": [
+        "73864267",
+        "163058484",
+        "1503635106",
+        "1602972790",
+        "1639901403",
+        "1667362966",
+        "2050486226",
+        "2087563242",
+        "2129670563",
+        "2143382644",
+        "2164322797"
+    ]
+}

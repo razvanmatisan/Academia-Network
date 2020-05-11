@@ -1,0 +1,49 @@
+{
+    "id": "1594165648",
+    "title": "An integrated method for estimating selectivities in a multidatabase system",
+    "venue": "conference of the centre for advanced studies on collaborative research",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Qiang Zhu",
+            "id": "2292350935",
+            "org": "University of Waterloo, Ontario, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parametric statistics",
+        "Real-time computing",
+        "Distributed computing",
+        "Query optimization",
+        "Adaptive sampling",
+        "Statistic",
+        "Need to know",
+        "Local search (optimization)",
+        "Computer science",
+        "Cost estimate",
+        "Sampling (statistics)",
+        "Data mining"
+    ],
+    "references": [
+        "1485785467",
+        "1513100972",
+        "1587364696",
+        "1589269155",
+        "1819934925",
+        "1920644729",
+        "1945005351",
+        "1968829657",
+        "1972223681",
+        "1988144572",
+        "1993430431",
+        "2000025733",
+        "2018666252",
+        "2026896584",
+        "2040551865",
+        "2099626280",
+        "2153329411",
+        "2157851816",
+        "2165906949",
+        "2168356775"
+    ]
+}

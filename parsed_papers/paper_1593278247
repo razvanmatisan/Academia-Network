@@ -1,0 +1,40 @@
+{
+    "id": "1593278247",
+    "title": "A combination of interval logic and linear temporal logic",
+    "venue": "ifip international conference on programming concepts and methods",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Z. Qiu",
+            "id": "2630793278",
+            "org": "Peking University"
+        },
+        {
+            "name": "C. Zhou",
+            "id": "2651663332",
+            "org": "The United Nations University"
+        }
+    ],
+    "fields_of_study": [
+        "Computation tree logic",
+        "Interval temporal logic",
+        "Bunched logic",
+        "Description logic",
+        "Dynamic logic (modal logic)",
+        "Temporal logic of actions",
+        "Linear temporal logic",
+        "Multimodal logic",
+        "Theoretical computer science",
+        "Computer science"
+    ],
+    "references": [
+        "1571091199",
+        "1604338964",
+        "2015688007",
+        "2081938726",
+        "2093916942",
+        "2110246462",
+        "2166721364",
+        "2167467151"
+    ]
+}

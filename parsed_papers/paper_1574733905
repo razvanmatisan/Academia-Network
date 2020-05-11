@@ -1,0 +1,35 @@
+{
+    "id": "1574733905",
+    "title": "A decision-making model for intelligent agent with internal state",
+    "venue": "computer software and applications conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Shan-Li Hu",
+            "id": "2689298174",
+            "org": "Dept. of Comput. Sci. & Technol., Fuzhou Univ., China"
+        },
+        {
+            "name": "Hai-Yan Wu",
+            "id": "2396639057",
+            "org": "Dept. of Comput. Sci. & Technol., Fuzhou Univ., China"
+        }
+    ],
+    "fields_of_study": [
+        "Agent architecture",
+        "Computer science",
+        "Real-time computing",
+        "Management science",
+        "Autonomous agent",
+        "Percept",
+        "Intelligent agent",
+        "Embodied agent",
+        "Multi-agent system",
+        "Action selection",
+        "Intelligent decision support system",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1575020259"
+    ]
+}

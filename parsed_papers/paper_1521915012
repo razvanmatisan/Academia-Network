@@ -1,0 +1,35 @@
+{
+    "id": "1521915012",
+    "title": "A Time Predictable Instruction Cache for a Java Processor",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Martin Schoeberl",
+            "id": "2118320911",
+            "org": "JOP.design"
+        }
+    ],
+    "fields_of_study": [
+        "Cache coloring",
+        "Page cache",
+        "MESI protocol",
+        "Cache invalidation",
+        "Smart Cache",
+        "Cache",
+        "Cache algorithms",
+        "Operating system",
+        "Cache pollution",
+        "Computer science"
+    ],
+    "references": [
+        "137338904",
+        "1555915743",
+        "1569551987",
+        "2024800288",
+        "2104626020",
+        "2140007886",
+        "2146218445",
+        "2496007067"
+    ]
+}

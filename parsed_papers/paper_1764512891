@@ -1,0 +1,42 @@
+{
+    "id": "1764512891",
+    "title": "Toward a Super Duper Hardware Tactic",
+    "venue": "theorem proving in higher order logics",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Mark D. Aagaard",
+            "id": "2304720301",
+            "org": "Cornell University"
+        },
+        {
+            "name": "Miriam Leeser",
+            "id": "988563514",
+            "org": "Cornell University"
+        },
+        {
+            "name": "Phillip J. Windley",
+            "id": "1843258343",
+            "org": "Brigham Young University"
+        }
+    ],
+    "fields_of_study": [
+        "Nuprl",
+        "HOL",
+        "Algorithm",
+        "Mathematical proof",
+        "Theoretical computer science",
+        "Computer hardware",
+        "Automated theorem proving",
+        "Iterated function",
+        "Combinatory logic",
+        "Computer science",
+        "Higher-order logic",
+        "Adder"
+    ],
+    "references": [
+        "2123587147",
+        "2535018452",
+        "2582875292"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1590041244",
+    "title": "A Criteria Catalog Based Methodology for Analyzing Service Management Processes",
+    "venue": "distributed systems operations and management",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Michael Brenner",
+            "id": "2030432498",
+            "org": "University of Munich"
+        },
+        {
+            "name": "Igor Radisic",
+            "id": "2057478985",
+            "org": "University of Munich"
+        },
+        {
+            "name": "Martina Schollmeyer",
+            "id": "2124270897",
+            "org": "BMW Group"
+        }
+    ],
+    "fields_of_study": [
+        "Business process",
+        "Information Technology Infrastructure Library",
+        "Management science",
+        "IT service management",
+        "Distributed computing",
+        "Database",
+        "Service management",
+        "Incident management (ITSM)",
+        "Service quality",
+        "Provisioning",
+        "Computer science",
+        "Service catalog"
+    ],
+    "references": [
+        "1737826015",
+        "2109802360"
+    ]
+}

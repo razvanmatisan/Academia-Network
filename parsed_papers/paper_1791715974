@@ -1,0 +1,46 @@
+{
+    "id": "1791715974",
+    "title": "A Graph-Based Approach for Image Segmentation",
+    "venue": "international symposium on visual computing",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Thang V. Le",
+            "id": "2510352328",
+            "org": "Department of Computer Science, Rutgers University, Piscataway, USA NJ 08854#TAB#"
+        },
+        {
+            "name": "Casimir A. Kulikowski",
+            "id": "251505786",
+            "org": "Department of Computer Science, Rutgers University, Piscataway, USA NJ 08854#TAB#"
+        },
+        {
+            "name": "Ilya B. Muchnik",
+            "id": "1216200605",
+            "org": "DIMACS, Rutgers University, Piscataway, USA NJ 08854#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern recognition",
+        "Computer vision",
+        "Artificial intelligence",
+        "Image segmentation",
+        "Normalization (statistics)",
+        "Connected-component labeling",
+        "Clustering coefficient",
+        "Grayscale",
+        "Segmentation-based object categorization",
+        "Partition (number theory)",
+        "Pixel",
+        "Mathematics"
+    ],
+    "references": [
+        "1535144194",
+        "2034331023",
+        "2097072531",
+        "2121927366",
+        "2121947440",
+        "2130891992",
+        "2132914434"
+    ]
+}

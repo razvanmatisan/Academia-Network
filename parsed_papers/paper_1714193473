@@ -1,0 +1,31 @@
+{
+    "id": "1714193473",
+    "title": "Comparing the Power of Monadic NP Games",
+    "venue": "logical and computational complexity",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Ronald Fagin",
+            "id": "2103086064",
+            "org": "IBM Almaden Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Combinatorics",
+        "Upper and lower bounds",
+        "Complexity class",
+        "If and only if",
+        "Binary relation",
+        "Monad (functional programming)",
+        "Conjecture",
+        "Reachability",
+        "Ranging",
+        "Mathematics"
+    ],
+    "references": [
+        "228975603",
+        "1495098865",
+        "2003895694"
+    ]
+}

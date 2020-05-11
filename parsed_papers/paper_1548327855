@@ -1,0 +1,32 @@
+{
+    "id": "1548327855",
+    "title": "Learning of agents with limited resources",
+    "venue": "national conference on artificial intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Slawomir Nowaczyk",
+            "id": "2144075583",
+            "org": "Department of Computer Science, Lund University, Lund, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Inductive programming",
+        "Machine learning",
+        "Artificial intelligence",
+        "Deliberation",
+        "Belief-desire-intention software model",
+        "Computer science",
+        "Inductive logic programming",
+        "Rational agent"
+    ],
+    "references": [
+        "204258288",
+        "1490871205",
+        "1561643832",
+        "1568000229",
+        "2121863487",
+        "2124031149",
+        "2146819619"
+    ]
+}

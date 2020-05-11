@@ -1,0 +1,37 @@
+{
+    "id": "1602377583",
+    "title": "Towards the Use of Dynamic Documents in Business Processes",
+    "venue": "conference on current trends in theory and practice of informatics",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Christine Vanoirbeek",
+            "id": "38007387",
+            "org": "Swiss Federal Institute of Technolog"
+        }
+    ],
+    "fields_of_study": [
+        "Electronic document",
+        "Information system",
+        "Customer relationship management",
+        "Business information",
+        "Management science",
+        "Business process",
+        "Computer science",
+        "Multimedia",
+        "Information technology",
+        "Information Processes and Technology",
+        "Distributed computing",
+        "Document engineering"
+    ],
+    "references": [
+        "1520367889",
+        "1602438245",
+        "1754613984",
+        "1965999480",
+        "1984295127",
+        "1990389665",
+        "2052100091",
+        "2128178103"
+    ]
+}

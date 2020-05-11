@@ -1,0 +1,37 @@
+{
+    "id": "1503696912",
+    "title": "3D Discrete Normal Vectors",
+    "venue": "discrete geometry for computer imagery",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Pierre Tellier",
+            "id": "2646742559",
+            "org": "LSIIT UPRES-A ULP-CNRS 7005"
+        },
+        {
+            "name": "Isabelle Debled-Rennesson",
+            "id": "2527000735",
+            "org": "LSIIT UPRES-A ULP-CNRS 7005"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Image segmentation",
+        "Tangent",
+        "Discrete geometry",
+        "Computational geometry",
+        "Discrete system",
+        "Rendering (computer graphics)",
+        "Normal",
+        "Mathematical morphology",
+        "Computer vision",
+        "Mathematics",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1984113314",
+        "2013961249",
+        "2064866285"
+    ]
+}

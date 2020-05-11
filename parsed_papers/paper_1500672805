@@ -1,0 +1,29 @@
+{
+    "id": "1500672805",
+    "title": "Efficient identity based parameter selection for elliptic curve cryptosystems",
+    "venue": "australasian conference on information security and privacy",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Arjen K. Lenstra",
+            "id": "2436602830",
+            "org": "Citibank, N.A."
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Elliptic curve",
+        "Hessian form of an elliptic curve",
+        "Elliptic curve point multiplication",
+        "Jacobian curve",
+        "Montgomery curve",
+        "Cryptosystem",
+        "Elliptic curve cryptography",
+        "Tripling-oriented Doche-Icart-Kohel curve",
+        "Mathematics"
+    ],
+    "references": [
+        "1539482743",
+        "1546865581"
+    ]
+}

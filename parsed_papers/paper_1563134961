@@ -1,0 +1,34 @@
+{
+    "id": "1563134961",
+    "title": "Locally Effective Objects and Artificial Intelligence",
+    "venue": "artificial intelligence and symbolic computation",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Julio Rubio",
+            "id": "2164604087",
+            "org": "Calle Luis de Ulloa s/n. Universidad de La Rioja"
+        }
+    ],
+    "fields_of_study": [
+        "Algebraic specification",
+        "Functional programming",
+        "Implementation",
+        "Computability",
+        "Theoretical computer science",
+        "Data structure",
+        "Computer science",
+        "State space",
+        "Search algorithm",
+        "Machine learning",
+        "Symbolic computation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1501263237",
+        "1544633123",
+        "1889333569",
+        "2033809864",
+        "2294814887"
+    ]
+}

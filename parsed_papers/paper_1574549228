@@ -1,0 +1,48 @@
+{
+    "id": "1574549228",
+    "title": "Application of Neurosymbolic Integration for Environment Modelling in Mobile Robots",
+    "venue": "Hybrid Neural Systems, revised papers from a workshop",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Gerhard K. Kraetzschmar",
+            "id": "678618531",
+            "org": "University of Ulm"
+        },
+        {
+            "name": "Stefan Sablatnog",
+            "id": "307134138",
+            "org": "University of Ulm"
+        },
+        {
+            "name": "Stefan Enderle",
+            "id": "2019613723",
+            "org": "University of Ulm"
+        },
+        {
+            "name": "Gunther Palm",
+            "id": "2137766957",
+            "org": "University of Ulm"
+        }
+    ],
+    "fields_of_study": [
+        "Personal robot",
+        "Simulation",
+        "Mobile robot",
+        "Mobile robot navigation",
+        "Robot learning",
+        "Autonomous robot",
+        "Social robot",
+        "Ubiquitous robot",
+        "Robot control",
+        "Computer science"
+    ],
+    "references": [
+        "852874",
+        "1526396946",
+        "1974380887",
+        "2013896409",
+        "2109749443",
+        "2138754805"
+    ]
+}

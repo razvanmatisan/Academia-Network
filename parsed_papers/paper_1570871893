@@ -1,0 +1,52 @@
+{
+    "id": "1570871893",
+    "title": "Margin Distribution Bounds on Generalization",
+    "venue": "european conference on computational learning theory",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "John Shawe-Taylor",
+            "id": "2215287472",
+            "org": "University of London"
+        },
+        {
+            "name": "John Shawe-Taylor",
+            "id": "2215287472",
+            "org": "University of London"
+        },
+        {
+            "name": "Nello Cristianini",
+            "id": "156417696",
+            "org": "University of London"
+        },
+        {
+            "name": "Nello Cristianini",
+            "id": "156417696",
+            "org": "University of London"
+        }
+    ],
+    "fields_of_study": [
+        "Sample size determination",
+        "Support vector machine",
+        "Perceptron",
+        "Machine learning",
+        "Statistics",
+        "Margin (machine learning)",
+        "Margin classifier",
+        "Kernel (linear algebra)",
+        "Artificial intelligence",
+        "Statistical theory",
+        "Bounded function",
+        "Mathematics"
+    ],
+    "references": [
+        "1500284251",
+        "1975846642",
+        "1979711143",
+        "1998255116",
+        "2040293685",
+        "2098774896",
+        "2106491486",
+        "2119821739"
+    ]
+}

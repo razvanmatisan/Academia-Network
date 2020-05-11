@@ -1,0 +1,42 @@
+{
+    "id": "1508509393",
+    "title": "A Service-Oriented Peer-to-Peer Middleware",
+    "venue": "kommunikation in verteilten systemen",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jan Gerke",
+            "id": "2113640913",
+            "org": "Swiss Federal Institute of Technology"
+        },
+        {
+            "name": "Burkhard Stiller",
+            "id": "2014584298",
+            "org": "University of Zurich"
+        },
+        {
+            "name": "Burkhard Stiller",
+            "id": "2014584298",
+            "org": "University of Zurich"
+        }
+    ],
+    "fields_of_study": [
+        "Software deployment",
+        "Middleware (distributed applications)",
+        "Business process",
+        "Service-orientation",
+        "Distributed computing",
+        "Computer science",
+        "Computer network",
+        "Peer-to-peer",
+        "Wireless",
+        "Modular design",
+        "Middleware"
+    ],
+    "references": [
+        "1489373838",
+        "1982084274",
+        "2009867645",
+        "2099268050"
+    ]
+}

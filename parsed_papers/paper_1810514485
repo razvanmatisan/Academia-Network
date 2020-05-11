@@ -1,0 +1,34 @@
+{
+    "id": "1810514485",
+    "title": "Steganography in a Video Conferencing System",
+    "venue": "information hiding",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Andreas Westfeld",
+            "id": "347367013",
+            "org": "Dresden University of Technology"
+        },
+        {
+            "name": "Gritta Wolf",
+            "id": "2115497899",
+            "org": "Dresden University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Signal processing",
+        "Realisation",
+        "Computer vision",
+        "Computer science",
+        "Steganography",
+        "Theoretical computer science",
+        "Lossy compression",
+        "Image processing",
+        "Videoconferencing",
+        "Distributed computing",
+        "Discrete cosine transform",
+        "Cryptography"
+    ],
+    "references": []
+}

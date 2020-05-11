@@ -1,0 +1,40 @@
+{
+    "id": "1546936894",
+    "title": "Specification and integration of software and reconfigurable hardware using Hardware Join Java",
+    "venue": "field-programmable technology",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "John Hopf",
+            "id": "2191609550",
+            "org": "Adv. Comput. Res. Centre, South Australia Univ., Mawson Lakes, SA, Australia"
+        },
+        {
+            "name": "David Kearney",
+            "id": "2112261093",
+            "org": "Adv. Comput. Res. Centre, South Australia Univ., Mawson Lakes, SA, Australia"
+        }
+    ],
+    "fields_of_study": [
+        "Hardware architecture",
+        "Real-time computing",
+        "Formal methods",
+        "Parallel computing",
+        "Join Java",
+        "Java",
+        "Computer science",
+        "Computer hardware",
+        "Computer architecture",
+        "FpgaC",
+        "Hardware compatibility list",
+        "Hardware register",
+        "Hardware acceleration"
+    ],
+    "references": [
+        "1496439412",
+        "1533135845",
+        "1567080347",
+        "2140321074",
+        "2158583421"
+    ]
+}

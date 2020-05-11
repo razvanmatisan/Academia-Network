@@ -1,0 +1,30 @@
+{
+    "id": "1530165522",
+    "title": "Exporting Prolog source code.",
+    "venue": "arXiv: Software Engineering",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Nicos Angelopoulos",
+            "id": "1981955118",
+            "org": "Department of Computing|Imperial College"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Source code",
+        "Redundant code",
+        "Computer science",
+        "Static program analysis",
+        "KPI-driven code analysis",
+        "Program transformation",
+        "Source lines of code",
+        "Programming language",
+        "Code generation",
+        "Prolog"
+    ],
+    "references": [
+        "1500200795",
+        "2148238464"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1491191983",
+    "title": "Minimum rate guarantee without per-flow information",
+    "venue": "international conference on network protocols",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Yuseok Kim",
+            "id": "2309957932",
+            "org": "Dept. of Electr. & Comput. Eng., California Univ., Irvine, CA, USA"
+        },
+        {
+            "name": "Wei Kang Tsai",
+            "id": "2677580096",
+            "org": "Dept. of Electr. & Comput. Eng., California Univ., Irvine, CA, USA"
+        },
+        {
+            "name": "Mahadevan Iyer",
+            "id": "2288348117",
+            "org": "Dept. of Electr. & Comput. Eng., California Univ., Irvine, CA, USA"
+        },
+        {
+            "name": "Jordi Ros",
+            "id": "2558659863",
+            "org": "Dept. of Electr. & Comput. Eng., California Univ., Irvine, CA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Computation",
+        "Computer network",
+        "Computer science",
+        "Distributed computing",
+        "Asynchronous Transfer Mode",
+        "Node (networking)",
+        "Scalability",
+        "Convergence (routing)",
+        "Generalization",
+        "Real-time computing",
+        "Flow control (data)",
+        "Sorting"
+    ],
+    "references": [
+        "1603273291",
+        "1603274740"
+    ]
+}

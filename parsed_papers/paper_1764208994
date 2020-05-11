@@ -1,0 +1,38 @@
+{
+    "id": "1764208994",
+    "title": "BulQA: Bulgarian-bulgarian question answering at CLEF 2005",
+    "venue": "cross language evaluation forum",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Kiril Simov",
+            "id": "214090688",
+            "org": "Linguistic Modelling Laboratory, Bulgarian Academy of Sciences, Bulgaria#TAB#"
+        },
+        {
+            "name": "Petya Osenova",
+            "id": "2021204868",
+            "org": "Linguistic Modelling Laboratory, Bulgarian Academy of Sciences, Bulgaria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parsing",
+        "Natural language processing",
+        "Document retrieval",
+        "Information retrieval",
+        "Question answering",
+        "Noun phrase",
+        "Architecture",
+        "Artificial intelligence",
+        "Computer science",
+        "Bulgarian",
+        "Grammar",
+        "Rule-based machine translation"
+    ],
+    "references": [
+        "161125123",
+        "1597514088",
+        "2126034021",
+        "2139013049"
+    ]
+}

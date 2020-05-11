@@ -1,0 +1,34 @@
+{
+    "id": "1496466079",
+    "title": "Reasoning by Agents in Computer Bridge Bidding",
+    "venue": "annual conference on computers",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Takahisa Ando",
+            "id": "2573848972",
+            "org": "Tokyo University of Technology"
+        },
+        {
+            "name": "Takao Uehara",
+            "id": "2294118911",
+            "org": "Tokyo University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Profitability index",
+        "Bidding",
+        "Perfect information",
+        "Simulation",
+        "Adversary",
+        "Constraint logic programming",
+        "Computer science",
+        "Computer bridge"
+    ],
+    "references": [
+        "1532584713",
+        "2020279129",
+        "2070465916",
+        "2091849464"
+    ]
+}

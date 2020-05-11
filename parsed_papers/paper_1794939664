@@ -1,0 +1,46 @@
+{
+    "id": "1794939664",
+    "title": "Learning Paired-Associate Images with an Unsupervised Deep Learning Architecture",
+    "venue": "canadian conference on artificial intelligence",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Ti Wang",
+            "id": "2476203442",
+            "org": "Acadia University"
+        },
+        {
+            "name": "Daniel L. Silver",
+            "id": "1986100672",
+            "org": "Acadia University"
+        }
+    ],
+    "fields_of_study": [
+        "Semi-supervised learning",
+        "Machine learning",
+        "Unsupervised learning",
+        "Competitive learning",
+        "Artificial intelligence",
+        "Boltzmann machine",
+        "Deep learning",
+        "Pattern recognition",
+        "MNIST database",
+        "Architecture",
+        "Computer science",
+        "Content-addressable memory"
+    ],
+    "references": [
+        "44815768",
+        "132411187",
+        "154472438",
+        "193851967",
+        "2026738815",
+        "2072128103",
+        "2108665656",
+        "2116064496",
+        "2136922672",
+        "2164587673",
+        "2168013545",
+        "2253807446"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1506874128",
+    "title": "The World of Framsticks: Simulation, Evolution, Interaction",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Maciej Komosinski",
+            "id": "430996443",
+            "org": "Poznan University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial neuron",
+        "Creatures",
+        "Evolutionary algorithm",
+        "Artificial neural network",
+        "Distributed computing",
+        "Artificial life",
+        "Metaverse",
+        "Complex system",
+        "Artificial world",
+        "Computer science"
+    ],
+    "references": [
+        "1497122413",
+        "1566625433",
+        "1639032689",
+        "1999052969",
+        "2058174343",
+        "2091786736",
+        "2106239555",
+        "2142183404",
+        "2150312211"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1755117326",
+    "title": "Ridge Regression Learning Algorithm in Dual Variables",
+    "venue": "international conference on machine learning",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Craig Saunders",
+            "id": "2120617359",
+            "org": "Royal Holloway|University of London"
+        },
+        {
+            "name": "Alexander Gammerman",
+            "id": "1750916444",
+            "org": "Royal Holloway|University of London"
+        },
+        {
+            "name": "Volodya Vovk",
+            "id": "2620156651",
+            "org": "Royal Holloway|University of London"
+        }
+    ],
+    "fields_of_study": [
+        "Principal component regression",
+        "Statistics",
+        "Machine learning",
+        "Multivariate adaptive regression splines",
+        "Linear predictor function",
+        "Artificial intelligence",
+        "Proper linear model",
+        "Polynomial regression",
+        "Elastic net regularization",
+        "k-nearest neighbors algorithm",
+        "Pattern recognition",
+        "Algorithm",
+        "Mathematics",
+        "Nonparametric regression"
+    ],
+    "references": [
+        "2132682120",
+        "2137226992",
+        "2148603752"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1528032811",
+    "title": "Improved decomposition of STGs",
+    "venue": "international conference on application of concurrency to system design",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Walter Vogler",
+            "id": "2120558268",
+            "org": "Inst. fur Informatik, Augsburg Univ., Germany"
+        },
+        {
+            "name": "Ben Kangsah",
+            "id": "2400735494",
+            "org": "FB Elektro- und Informationstechnik#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Concurrent computing",
+        "Asynchronous circuit",
+        "Theoretical computer science",
+        "Correctness",
+        "Formal specification",
+        "Modular design",
+        "Logic synthesis",
+        "Petri net",
+        "Simple extension",
+        "Computer science"
+    ],
+    "references": [
+        "1507224296",
+        "1539546888",
+        "1554812212",
+        "1577703360",
+        "2102665528",
+        "2148142689",
+        "2171100517",
+        "2179661259"
+    ]
+}

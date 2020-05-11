@@ -1,0 +1,23 @@
+{
+    "id": "1584017328",
+    "title": "Using the CDL Compiler-Compiler",
+    "venue": "compiler construction",
+    "year": 1976,
+    "authors": [
+        {
+            "name": "Cornelis H. A. Koster",
+            "id": "2638897001",
+            "org": "Technical University of Berlin, Berlin, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Programming language",
+        "Compiler-compiler",
+        "Computer science",
+        "Line number"
+    ],
+    "references": [
+        "39739796",
+        "2029433868"
+    ]
+}

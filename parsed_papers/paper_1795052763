@@ -1,0 +1,44 @@
+{
+    "id": "1795052763",
+    "title": "CR-MAC: A MULTICHANNEL MAC PROTOCOL FOR COGNITIVE RADIO AD HOC NETWORKS",
+    "venue": "International Journal of Computer Networks & Communications",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "S. M. Kamruzzaman",
+            "id": "2791991242",
+            "org": "Hankuk University of Foreign Studies"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Wireless network",
+        "Computer science",
+        "Computer network",
+        "Throughput",
+        "Physical layer",
+        "Cognitive radio",
+        "Network packet",
+        "Wireless ad hoc network",
+        "Time division multiple access",
+        "Hidden node problem"
+    ],
+    "references": [
+        "1662911496",
+        "2006478220",
+        "2071707134",
+        "2095157403",
+        "2111668044",
+        "2116634053",
+        "2122473665",
+        "2126867611",
+        "2135562732",
+        "2137773246",
+        "2137775453",
+        "2144369278",
+        "2157051496",
+        "2157782694",
+        "2159077447",
+        "2293324877"
+    ]
+}

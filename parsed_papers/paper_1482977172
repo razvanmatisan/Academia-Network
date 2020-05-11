@@ -1,0 +1,37 @@
+{
+    "id": "1482977172",
+    "title": "Towards a Community of Practice Toolkit Based on Semantically Marked Up Artifacts",
+    "venue": "world summit on the knowledge society",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Christine Muller",
+            "id": "2306662882",
+            "org": "Computer Science, Jacobs University Bremen,#TAB#"
+        },
+        {
+            "name": "Michael Kohlhase",
+            "id": "59090315",
+            "org": "Computer Science, Jacobs University Bremen,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Community of practice",
+        "Scientific method",
+        "Computer science",
+        "RDF",
+        "Knowledge management",
+        "Software system",
+        "Data mining",
+        "User modeling"
+    ],
+    "references": [
+        "1494975459",
+        "1512217948",
+        "1548486755",
+        "1594986026",
+        "1770310498",
+        "1888078739",
+        "2166604183"
+    ]
+}

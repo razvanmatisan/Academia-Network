@@ -1,0 +1,35 @@
+{
+    "id": "1605602528",
+    "title": "Implicit Structures to Implement NFA's from Regular Expressions",
+    "venue": "international conference on implementation and application of automata",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Jean-Marc Champarnaud",
+            "id": "2222991013",
+            "org": "Universite de Rouen, LIFAR"
+        }
+    ],
+    "fields_of_study": [
+        "Probabilistic automaton",
+        "Discrete mathematics",
+        "Deterministic finite automaton",
+        "Powerset construction",
+        "o-automaton",
+        "Two-way deterministic finite automaton",
+        "Buchi automaton",
+        "Nondeterministic finite automaton",
+        "Generalized nondeterministic finite automaton",
+        "Combinatorics",
+        "Mathematics"
+    ],
+    "references": [
+        "1559969643",
+        "1603138491",
+        "1884045513",
+        "2039984653",
+        "2072607050",
+        "2081718329",
+        "2129414328"
+    ]
+}

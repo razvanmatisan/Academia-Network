@@ -1,0 +1,36 @@
+{
+    "id": "1504560879",
+    "title": "Tools for secure systems development with UML: security analysis with ATPs",
+    "venue": "fundamental approaches to software engineering",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jan Jurjens",
+            "id": "1897045236",
+            "org": "Software & Systems Engineering, Dep. of Informatics, TU Munich, Germany#TAB#"
+        },
+        {
+            "name": "Pasha Shabalin",
+            "id": "1976163216",
+            "org": "Software & Systems Engineering, Dep. of Informatics, TU Munich, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Programming language",
+        "Theoretical computer science",
+        "Unified Modeling Language",
+        "Software development",
+        "Computer-aided software engineering",
+        "Sequence diagram",
+        "Security analysis",
+        "UMLsec",
+        "Automated theorem proving",
+        "Cryptography",
+        "Computer science"
+    ],
+    "references": [
+        "1570069626",
+        "2011176357",
+        "2020034474"
+    ]
+}

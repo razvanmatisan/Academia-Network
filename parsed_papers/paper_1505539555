@@ -1,0 +1,44 @@
+{
+    "id": "1505539555",
+    "title": "Next generation semantic web applications",
+    "venue": "asian semantic web conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Enrico Motta",
+            "id": "2106913481",
+            "org": "Knowledge Media Institute, The Open University, UK#TAB#"
+        },
+        {
+            "name": "Marta Sabou",
+            "id": "1982971036",
+            "org": "Knowledge Media Institute, The Open University, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Semantic HTML",
+        "Information retrieval",
+        "Semantic Web",
+        "Social Semantic Web",
+        "Semantic analytics",
+        "Semantic grid",
+        "Web modeling",
+        "Semantic computing",
+        "Computer science",
+        "Semantic Web Stack"
+    ],
+    "references": [
+        "1559525484",
+        "1597431254",
+        "1606882635",
+        "1769642085",
+        "1966860954",
+        "1991629007",
+        "2024202917",
+        "2135601097",
+        "2158364734",
+        "2161749250",
+        "2162892665"
+    ]
+}

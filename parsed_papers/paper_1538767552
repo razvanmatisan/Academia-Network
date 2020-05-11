@@ -1,0 +1,29 @@
+{
+    "id": "1538767552",
+    "title": "Maximum k-colorable subgraphs",
+    "venue": "Journal of Graph Theory",
+    "year": 1982,
+    "authors": [
+        {
+            "name": "S. C. Locke",
+            "id": "2575100914",
+            "org": "Waterloo, Ontario, Canada"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Topology",
+        "Induced subgraph isomorphism problem",
+        "Reconstruction conjecture",
+        "Mathematics",
+        "Matching (graph theory)",
+        "Bipartite graph",
+        "Cograph",
+        "Factor-critical graph",
+        "Subgraph isomorphism problem",
+        "Graph factorization"
+    ],
+    "references": [
+        "2053877774"
+    ]
+}

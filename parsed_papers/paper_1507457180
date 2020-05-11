@@ -1,0 +1,31 @@
+{
+    "id": "1507457180",
+    "title": "Exploration on affect sensing from improvisational interaction",
+    "venue": "intelligent virtual agents",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Li Zhang",
+            "id": "2706142721",
+            "org": "School of Computing, Teesside University, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multimedia",
+        "Affective aspects",
+        "Software system",
+        "Human-computer interaction",
+        "Affect (psychology)",
+        "Improvisation",
+        "User interface",
+        "Psychology"
+    ],
+    "references": [
+        "1479815283",
+        "1556674294",
+        "1830530540",
+        "2117789561",
+        "2120973168",
+        "2404480901"
+    ]
+}

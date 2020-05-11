@@ -1,0 +1,35 @@
+{
+    "id": "1484269683",
+    "title": "SWQL - a query language for data integration based on OWL",
+    "venue": "international conference on move to meaningful internet systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Patrick Lehti",
+            "id": "2498153819",
+            "org": "Fraunhofer IPSI, Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Peter Fankhauser",
+            "id": "149446523",
+            "org": "Fraunhofer IPSI, Darmstadt, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Web search query",
+        "RDF",
+        "Semantic Web Rule Language",
+        "OWL-S",
+        "Database",
+        "Query language",
+        "Semantic Web",
+        "Web Ontology Language",
+        "RDF query language",
+        "Computer science"
+    ],
+    "references": [
+        "1564275181",
+        "1731399716",
+        "2084987750"
+    ]
+}

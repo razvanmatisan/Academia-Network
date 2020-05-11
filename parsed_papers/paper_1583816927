@@ -1,0 +1,35 @@
+{
+    "id": "1583816927",
+    "title": "Low Cost Attacks on Tamper Resistant Devices",
+    "venue": "international workshop on security",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Ross J. Anderson",
+            "id": "2120643228",
+            "org": "Computer Laboratory"
+        },
+        {
+            "name": "Markus G. Kuhn",
+            "id": "2106108591",
+            "org": "Purdue University"
+        }
+    ],
+    "fields_of_study": [
+        "Embedded system",
+        "Reverse engineering",
+        "Smart card",
+        "Computer security",
+        "Chip",
+        "Tamper resistance",
+        "Computer science",
+        "Block cipher"
+    ],
+    "references": [
+        "1500356409",
+        "1538657331",
+        "1995841147",
+        "2054546630",
+        "2157276252"
+    ]
+}

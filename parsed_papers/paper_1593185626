@@ -1,0 +1,47 @@
+{
+    "id": "1593185626",
+    "title": "Two algorithms for approxmate string matching in static texts",
+    "venue": "mathematical foundations of computer science",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Petteri Jokinen",
+            "id": "2128830205",
+            "org": "University of Helsinki"
+        },
+        {
+            "name": "Esko Ukkonen",
+            "id": "582562560",
+            "org": "University of Helsinki"
+        }
+    ],
+    "fields_of_study": [
+        "Rabin-Karp algorithm",
+        "Discrete mathematics",
+        "Commentz-Walter algorithm",
+        "Combinatorics",
+        "Edit distance",
+        "String-to-string correction problem",
+        "String searching algorithm",
+        "Approximate string matching",
+        "Wagner-Fischer algorithm",
+        "String metric",
+        "Computer science"
+    ],
+    "references": [
+        "1653707015",
+        "1969173824",
+        "1970707909",
+        "1972418517",
+        "1972770363",
+        "1981320868",
+        "2010392031",
+        "2043481183",
+        "2074064717",
+        "2074707165",
+        "2100451901",
+        "2121252285",
+        "2154104338",
+        "2533248932"
+    ]
+}

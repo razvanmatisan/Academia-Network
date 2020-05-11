@@ -1,0 +1,43 @@
+{
+    "id": "1594854977",
+    "title": "IS Components with Hyperclasses",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Slim Turki",
+            "id": "2320856396",
+            "org": "Centre Universitaire d'Informatique, Universite de Geneve"
+        },
+        {
+            "name": "Michel Leonard",
+            "id": "2134411781",
+            "org": "Centre Universitaire d'Informatique, Universite de Geneve"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Business object",
+        "Completeness (statistics)",
+        "Knowledge representation and reasoning",
+        "Theoretical computer science",
+        "Schema (psychology)",
+        "Modularity",
+        "Distributed computing",
+        "Database schema",
+        "Conceptual schema",
+        "Data mining",
+        "Computer science"
+    ],
+    "references": [
+        "123057052",
+        "1487011636",
+        "1521917099",
+        "1983428002",
+        "2078614833",
+        "2087772597",
+        "2089634871",
+        "2127767383",
+        "2296204726"
+    ]
+}

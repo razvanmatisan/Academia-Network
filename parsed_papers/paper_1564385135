@@ -1,0 +1,28 @@
+{
+    "id": "1564385135",
+    "title": "Enterprise Modelling and Integration",
+    "venue": "ICEIMT '01 Proceedings of the IFIP TC5/WG5.12 International Conference on Enterprise Integration and Modeling Technique: Enterprise Inter- and Intra-Organizational Integration: Building International Consensus",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Francois B. Vernadat",
+            "id": "414662423",
+            "org": "ENIM/University of Metz"
+        }
+    ],
+    "fields_of_study": [
+        "Enterprise integration",
+        "Enterprise interoperability",
+        "Systems engineering",
+        "Enterprise application integration",
+        "Enterprise life cycle",
+        "System integration",
+        "Engineering",
+        "Functional software architecture",
+        "Enterprise modelling",
+        "CIMOSA"
+    ],
+    "references": [
+        "2021674493"
+    ]
+}

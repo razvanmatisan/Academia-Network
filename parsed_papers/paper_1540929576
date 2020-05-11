@@ -1,0 +1,41 @@
+{
+    "id": "1540929576",
+    "title": "Early-split coding of triangle mesh connectivity",
+    "venue": "graphics interface",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Martin Isenburg",
+            "id": "2608527311",
+            "org": "UC Berkeley#TAB#"
+        },
+        {
+            "name": "Jack Snoeyink",
+            "id": "2029765619",
+            "org": "UNC Chapel Hill#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Vertex (geometry)",
+        "Triangle mesh",
+        "Decoding methods",
+        "Discrete mathematics",
+        "Tree traversal",
+        "Degree (graph theory)",
+        "Dictionary coder",
+        "Combinatorics",
+        "Mathematics",
+        "Spanning tree",
+        "Region growing"
+    ],
+    "references": [
+        "1590549688",
+        "1900262919",
+        "2098182067",
+        "2140128975",
+        "2151329844",
+        "2173583877",
+        "2238788188",
+        "2294163059"
+    ]
+}

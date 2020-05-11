@@ -1,0 +1,34 @@
+{
+    "id": "1536918907",
+    "title": "Knowledge Representation for Inductive Learning",
+    "venue": "european conference on symbolic and quantitative approaches to reasoning and uncertainty",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Peter A. Flach",
+            "id": "1814273096",
+            "org": "University of Bristol"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Instance-based learning",
+        "Artificial intelligence",
+        "First-order logic",
+        "Multi-task learning",
+        "Algorithmic learning theory",
+        "Sequence learning",
+        "Computer science",
+        "Inductive transfer",
+        "Inductive logic programming",
+        "Concept learning"
+    ],
+    "references": [
+        "1546703439",
+        "1601368642",
+        "1700914952",
+        "1946621657",
+        "2110119381",
+        "2141288588"
+    ]
+}

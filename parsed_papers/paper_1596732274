@@ -1,0 +1,41 @@
+{
+    "id": "1596732274",
+    "title": "A synthesis of logical and probabilistic reasoning for program understanding and debugging",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Lisa J. Burnell",
+            "id": "719488598",
+            "org": "Computer Science Engineering, The University of Texas at Arlington and American Airlines Knowledge Systems, TX#TAB#"
+        },
+        {
+            "name": "Eric Horvitz",
+            "id": "1970391018",
+            "org": "Decision Theory Group, Microsoft Research Labs, Palo Alto Laboratory, Rockwell International Science Center, Palo Alto, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Software construction",
+        "Computer science",
+        "Machine learning",
+        "Reasoning system",
+        "Data mining",
+        "Debugging",
+        "Software development",
+        "Probabilistic logic",
+        "Software",
+        "Theoretical computer science",
+        "Software verification and validation",
+        "Software walkthrough"
+    ],
+    "references": [
+        "36924071",
+        "1790709155",
+        "2041818234",
+        "2116714638",
+        "2122909186",
+        "2485291067"
+    ]
+}

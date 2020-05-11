@@ -1,0 +1,41 @@
+{
+    "id": "1513216860",
+    "title": "Emergent Organization of Interspecies Communication in Q-Learning Artificial Organisms",
+    "venue": "european conference on artificial life",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Norihiko Ono",
+            "id": "2155786337",
+            "org": "University of Tokushima"
+        },
+        {
+            "name": "T. Ohira",
+            "id": "2568424760",
+            "org": "University of Tokushima"
+        },
+        {
+            "name": "Adel Torkaman Rahmani",
+            "id": "2629086817",
+            "org": "University of Tokushima"
+        }
+    ],
+    "fields_of_study": [
+        "Interspecies communication",
+        "Machine learning",
+        "Communications protocol",
+        "Emergent organization",
+        "Q-learning",
+        "Robot",
+        "Artificial life",
+        "Computer science",
+        "Problem domain",
+        "Robotics",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1491843047",
+        "1641379095",
+        "2089933214"
+    ]
+}

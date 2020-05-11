@@ -1,0 +1,47 @@
+{
+    "id": "1497012418",
+    "title": "Extended Cascade-Correlation for Syntactic and Structural Pattern Recognition",
+    "venue": "SSPR '96 Proceedings of the 6th International Workshop on Advances in Structural and Syntactical Pattern Recognition",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Alessandro Sperduti",
+            "id": "2590341221",
+            "org": "Universita di Pisa"
+        },
+        {
+            "name": "Darya Majidi",
+            "id": "2021614020",
+            "org": "Universita di Pisa"
+        },
+        {
+            "name": "Antonina Starita",
+            "id": "38330306",
+            "org": "Universita di Pisa"
+        }
+    ],
+    "fields_of_study": [
+        "Feature (machine learning)",
+        "Intelligent character recognition",
+        "Time delay neural network",
+        "Inference",
+        "Artificial neural network",
+        "Machine learning",
+        "Neocognitron",
+        "Inductive logic programming",
+        "Syntax",
+        "Computer science",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "31451215",
+        "1538973122",
+        "1987902506",
+        "2052378399",
+        "2102059542",
+        "2109779438",
+        "2127475370",
+        "2129831132"
+    ]
+}

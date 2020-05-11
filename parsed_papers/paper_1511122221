@@ -1,0 +1,41 @@
+{
+    "id": "1511122221",
+    "title": "Parallel coordination made explicit in a functional setting",
+    "venue": "implementation and application of functional languages",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jost Berthold",
+            "id": "2007630652",
+            "org": "Philipps-Universitat Marburg, Fachbereich Mathematik und Informatik, Marburg, Germany#TAB#"
+        },
+        {
+            "name": "Rita Loogen",
+            "id": "67920613",
+            "org": "Philipps-Universitat Marburg, Fachbereich Mathematik und Informatik, Marburg, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Programming language",
+        "Parallel coordinates",
+        "Runtime system",
+        "Thread (computing)",
+        "Functional programming",
+        "Expressivity",
+        "Haskell",
+        "Small set",
+        "Control system",
+        "Computer science"
+    ],
+    "references": [
+        "1525424259",
+        "1542123135",
+        "1548534739",
+        "1983587116",
+        "2108860780",
+        "2110368245",
+        "2127617483",
+        "2160329451",
+        "2296715995"
+    ]
+}

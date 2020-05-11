@@ -1,0 +1,37 @@
+{
+    "id": "1506818061",
+    "title": "Lens model selection for visual tracking",
+    "venue": "dagm conference on pattern recognition",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Birger Streckel",
+            "id": "1975138621",
+            "org": "Institute of Computer Science and Applied Mathematics, Christian-Albrechts-Universitat zu Kiel, Kiel, Germany#TAB#"
+        },
+        {
+            "name": "Reinhard Koch",
+            "id": "2128502969",
+            "org": "Institute of Computer Science and Applied Mathematics, Christian-Albrechts-Universitat zu Kiel, Kiel, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Augmented reality",
+        "Camera auto-calibration",
+        "Fisheye lens",
+        "Lens (optics)",
+        "Structure from motion",
+        "Camera resectioning",
+        "Computer vision",
+        "Pose",
+        "Computer science",
+        "Artificial intelligence",
+        "Field of view"
+    ],
+    "references": [
+        "1605885907",
+        "1968161248",
+        "2043146861",
+        "2130103520"
+    ]
+}

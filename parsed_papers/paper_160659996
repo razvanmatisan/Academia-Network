@@ -1,0 +1,32 @@
+{
+    "id": "160659996",
+    "title": "From application shell to knowledge acquisition system",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Gary S. Kahn",
+            "id": "2274134429",
+            "org": "Carnegie Group Inc., Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Expert system",
+        "Artificial intelligence",
+        "Knowledge base",
+        "Knowledge-based systems",
+        "Rule-based system",
+        "Legal expert system",
+        "Architecture",
+        "Computer science",
+        "Knowledge acquisition",
+        "Open Knowledge Base Connectivity"
+    ],
+    "references": [
+        "129681512",
+        "176648427",
+        "1592089885",
+        "1965407031"
+    ]
+}

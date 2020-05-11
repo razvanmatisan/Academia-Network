@@ -1,0 +1,42 @@
+{
+    "id": "1597734974",
+    "title": "A Combinatoric biclustering algorithm",
+    "venue": "italian workshop on neural nets",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Ekaterina Nosova",
+            "id": "2599503585",
+            "org": "DMI, University of Salerno, Fisciano (Salerno), 84084, Italia#TAB#"
+        },
+        {
+            "name": "Giancarlo Raiconi",
+            "id": "2675630436",
+            "org": "DMI, University of Salerno, Fisciano (Salerno), 84084, Italia#TAB#"
+        },
+        {
+            "name": "Roberto Tagliaferri",
+            "id": "2027979619",
+            "org": "DMI, University of Salerno, Fisciano (Salerno), 84084, Italia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Cluster analysis",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Row",
+        "Experimental data",
+        "Algorithm",
+        "Biclustering",
+        "Partition (number theory)",
+        "Row and column spaces",
+        "Mathematics"
+    ],
+    "references": [
+        "1493217831",
+        "1980503920",
+        "2067583734",
+        "2105883975"
+    ]
+}

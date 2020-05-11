@@ -1,0 +1,39 @@
+{
+    "id": "1513494614",
+    "title": "Unsupervised Rough Set Classification Using GAs",
+    "venue": "intelligent information systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Pawan Lingras",
+            "id": "2078486566",
+            "org": "Saint Mary's University, Halifax, Nova Scotia, B3H 3C3, Canada. Pawan.Lingras@StMarys.CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Upper and lower bounds",
+        "Information system",
+        "Classification scheme",
+        "Machine learning",
+        "Genetic algorithm",
+        "Data mining",
+        "Artificial intelligence",
+        "Unsupervised learning",
+        "Dominance-based rough set approach",
+        "Partition (number theory)",
+        "Computer science",
+        "Pattern recognition",
+        "Rough set"
+    ],
+    "references": [
+        "1492605599",
+        "1536006514",
+        "1980861610",
+        "2039001632",
+        "2079143132",
+        "2142183404",
+        "2161484642",
+        "2163963159",
+        "2340020088"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1570469988",
+    "title": "An agent-environment interaction model",
+    "venue": "AOSE'06 Proceedings of the 7th international conference on Agent-oriented software engineering VII",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Scott A. DeLoach",
+            "id": "345720122",
+            "org": "Department of Computing and Information Sciences, Kansas State University, Manhattan, KS#TAB#"
+        },
+        {
+            "name": "Jorge Valenzuela",
+            "id": "2281447460",
+            "org": "Department of Computing and Information Sciences, Kansas State University, Manhattan, KS#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Recursion",
+        "Object Constraint Language",
+        "Domain model",
+        "Machine learning",
+        "Simulation",
+        "Interaction model",
+        "Physical agents",
+        "Software",
+        "Multi-agent system",
+        "Engineering",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1590701063",
+        "1594197665",
+        "1787758814",
+        "1964839117",
+        "2029831238",
+        "2088472639",
+        "2111877087",
+        "2129899354",
+        "2147916282",
+        "2155612300"
+    ]
+}

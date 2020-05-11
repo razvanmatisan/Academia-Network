@@ -1,0 +1,57 @@
+{
+    "id": "1502857522",
+    "title": "Implementation an Experimental Evaluation of Graph Connectivity Algorithms Using LEDA",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Panagiota Fatourou",
+            "id": "2776529279",
+            "org": "University of Patras, Patras, Greece & Computer Technology Institute"
+        },
+        {
+            "name": "Paul G. Spirakis",
+            "id": "2095693323",
+            "org": "University of Patras, Patras, Greece & Computer Technology Institute"
+        },
+        {
+            "name": "Panagiotis Zarafidis",
+            "id": "100308759",
+            "org": "University of Patras"
+        },
+        {
+            "name": "Anna Zoura",
+            "id": "2228191800",
+            "org": "University of Patras"
+        }
+    ],
+    "fields_of_study": [
+        "Hopcroft-Karp algorithm",
+        "Discrete mathematics",
+        "Suurballe's algorithm",
+        "Tarjan's strongly connected components algorithm",
+        "Graph bandwidth",
+        "Distributed computing",
+        "Connectivity",
+        "Reverse-delete algorithm",
+        "Line graph",
+        "Theoretical computer science",
+        "Voltage graph",
+        "Algorithm",
+        "Computer science"
+    ],
+    "references": [
+        "1485262373",
+        "1580018210",
+        "1632932043",
+        "2009695707",
+        "2009832557",
+        "2022827580",
+        "2028507750",
+        "2080548021",
+        "2097890715",
+        "2102347446",
+        "2121473031",
+        "2156153879"
+    ]
+}

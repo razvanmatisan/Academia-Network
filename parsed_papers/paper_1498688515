@@ -1,0 +1,37 @@
+{
+    "id": "1498688515",
+    "title": "Representation Operators and Computation",
+    "venue": "Minds and Machines",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Brendan Kitts",
+            "id": "2780909507",
+            "org": "Department of Computer Science, Center for Complex System, Brandeis University, Waltham, MA. 02254. USA.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Complete",
+        "Bidirectional search",
+        "Quantum complexity theory",
+        "Artificial intelligence",
+        "Structural complexity theory",
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "PH",
+        "Mathematics",
+        "Asymptotic computational complexity",
+        "Model of computation"
+    ],
+    "references": [
+        "319589436",
+        "1517016597",
+        "1589549454",
+        "1737171839",
+        "1738398458",
+        "2107658650",
+        "2133671888",
+        "2142130292"
+    ]
+}

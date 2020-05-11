@@ -1,0 +1,29 @@
+{
+    "id": "1527517713",
+    "title": "Mathematical Structures Underlying Greedy Algorithms",
+    "venue": "fundamentals of computation theory",
+    "year": 1981,
+    "authors": [
+        {
+            "name": "Bernhard Korte",
+            "id": "2009671547",
+            "org": "Universitat Bonn"
+        },
+        {
+            "name": "Laszlo Lovasz",
+            "id": "2134176519",
+            "org": "Jozsef Attila University"
+        }
+    ],
+    "fields_of_study": [
+        "Greedy randomized adaptive search procedure",
+        "Greedy algorithm",
+        "Combinatorics",
+        "Hamiltonian path",
+        "Greedoid",
+        "Submodular set function",
+        "Computer science",
+        "Mathematical structure"
+    ],
+    "references": []
+}

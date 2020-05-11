@@ -1,0 +1,39 @@
+{
+    "id": "1684222254",
+    "title": "A mapping from conceptual graphs to formal concept analysis",
+    "venue": "international conference on conceptual structures",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Simon Andrews",
+            "id": "2101821140",
+            "org": "Communication and Computing Research Centre, Faculty of Arts, Computing, Engineering and Sciences, Sheffield Hallam University, Sheffield, UK#TAB#"
+        },
+        {
+            "name": "Simon Polovina",
+            "id": "1983164028",
+            "org": "Communication and Computing Research Centre, Faculty of Arts, Computing, Engineering and Sciences, Sheffield Hallam University, Sheffield, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Systems design",
+        "Database transaction",
+        "Theoretical computer science",
+        "Of the form",
+        "Mathematical optimization",
+        "Graph",
+        "Binary relation",
+        "Software",
+        "Computer science",
+        "Algorithm",
+        "Formal concept analysis"
+    ],
+    "references": [
+        "1486545284",
+        "1570806034",
+        "1599431041",
+        "2018696814",
+        "2106051873",
+        "2119295461"
+    ]
+}

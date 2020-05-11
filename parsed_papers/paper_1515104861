@@ -1,0 +1,33 @@
+{
+    "id": "1515104861",
+    "title": "Citizen Participation in Public Affairs",
+    "venue": "electronic government",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Ann Macintosh",
+            "id": "2090530440",
+            "org": "University of Napier"
+        },
+        {
+            "name": "Ella Smith",
+            "id": "2108510001",
+            "org": "University of Napier"
+        }
+    ],
+    "fields_of_study": [
+        "Information system",
+        "Direct democracy",
+        "Public relations",
+        "Civil society",
+        "Sustainable development",
+        "Democracy",
+        "Best practice",
+        "Computer science",
+        "Government",
+        "Social engagement"
+    ],
+    "references": [
+        "2138504130"
+    ]
+}

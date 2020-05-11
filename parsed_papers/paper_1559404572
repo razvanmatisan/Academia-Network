@@ -1,0 +1,44 @@
+{
+    "id": "1559404572",
+    "title": "Object-oriented design of a VPN bandwidth management system",
+    "venue": "integrated network management",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Tuncay Saydam",
+            "id": "986766684",
+            "org": "University of Delaware"
+        },
+        {
+            "name": "Jean-Paul Gaspoz",
+            "id": "2015448043",
+            "org": "Swiss Federal Institute of Technology (EPFL)"
+        },
+        {
+            "name": "Pierre-Alain Etique",
+            "id": "1971853606",
+            "org": "Swiss Federal Institute of Technology (EPFL)"
+        },
+        {
+            "name": "Jean-Pierre Hubaux",
+            "id": "1495879661",
+            "org": "Swiss Federal Institute of Technology (EPFL)"
+        }
+    ],
+    "fields_of_study": [
+        "Telecommunications Management Network",
+        "Information model",
+        "Computer network",
+        "Distributed computing",
+        "Private network",
+        "Engineering design process",
+        "Service management",
+        "Bandwidth management",
+        "Value-added service",
+        "Object-oriented design",
+        "Computer science"
+    ],
+    "references": [
+        "2099293367"
+    ]
+}

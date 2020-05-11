@@ -1,0 +1,44 @@
+{
+    "id": "1483327805",
+    "title": "Verifying Invariants Using theorem Proving",
+    "venue": "computer aided verification",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Susanne Graf",
+            "id": "2139352357",
+            "org": "Universite J. Fourier and Verilog SA associated with IMAG"
+        },
+        {
+            "name": "Hassen Saidi",
+            "id": "2148743472",
+            "org": "Universite J. Fourier and Verilog SA associated with IMAG"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Fixed-point theorem",
+        "Invariant (mathematics)",
+        "Model checking",
+        "Algorithm",
+        "Computer science",
+        "Proofs of Fermat's little theorem",
+        "Automated proof checking",
+        "Fundamental theorem",
+        "Automated theorem proving",
+        "Compactness theorem"
+    ],
+    "references": [
+        "1482366459",
+        "1540180001",
+        "1540998830",
+        "1543208154",
+        "1551406732",
+        "1556247398",
+        "1582986256",
+        "1825148885",
+        "2045112813",
+        "2093916942",
+        "2129664123"
+    ]
+}

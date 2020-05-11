@@ -1,0 +1,48 @@
+{
+    "id": "1552489533",
+    "title": "NPIC: hierarchical synthetic image classification using image search and generic features",
+    "venue": "conference on image and video retrieval",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Fei Wang",
+            "id": "2652762973",
+            "org": "Department of Computer Science, School of Computing, National University of Singapore, Singapore#TAB#"
+        },
+        {
+            "name": "Min-Yen Kan",
+            "id": "2146273806",
+            "org": "Department of Computer Science, School of Computing, National University of Singapore, Singapore#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Color histogram",
+        "Computer vision",
+        "Artificial intelligence",
+        "Content-based image retrieval",
+        "Computer science",
+        "Information retrieval",
+        "Cross-validation",
+        "Contextual image classification",
+        "Image processing",
+        "Image retrieval",
+        "Icon",
+        "Search engine"
+    ],
+    "references": [
+        "1482671066",
+        "1947400014",
+        "1966263721",
+        "1986926502",
+        "2011207057",
+        "2011798344",
+        "2062503914",
+        "2079522319",
+        "2096074037",
+        "2115671691",
+        "2132122100",
+        "2135705692",
+        "2143668817",
+        "2159002694"
+    ]
+}

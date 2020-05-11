@@ -1,0 +1,35 @@
+{
+    "id": "1517859589",
+    "title": "Parallel Computation of Reducts",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Robert Susmaga",
+            "id": "2050316178",
+            "org": "Poznan University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Reduct",
+        "Computation",
+        "Effective method",
+        "Adaptive algorithm",
+        "Parallel algorithm",
+        "Speedup",
+        "Theoretical computer science",
+        "Computer experiment",
+        "Rough set",
+        "Computer science"
+    ],
+    "references": [
+        "1541677875",
+        "1584418501",
+        "1729974778",
+        "2092833733",
+        "2104262124",
+        "2120490947",
+        "2133462743",
+        "2168287352"
+    ]
+}

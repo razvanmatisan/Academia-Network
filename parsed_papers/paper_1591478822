@@ -1,0 +1,53 @@
+{
+    "id": "1591478822",
+    "title": "Biomedical Article Classification Using an Agent-Based Model of T-Cell Cross-Regulation",
+    "venue": "international conference on artificial immune systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Alaa Abi-Haidar",
+            "id": "265381962",
+            "org": "Indiana University"
+        },
+        {
+            "name": "Alaa Abi-Haidar",
+            "id": "265381962",
+            "org": "Indiana University"
+        },
+        {
+            "name": "Luis Mateus Rocha",
+            "id": "2125077856",
+            "org": "Indiana University"
+        },
+        {
+            "name": "Luis Mateus Rocha",
+            "id": "2125077856",
+            "org": "Indiana University"
+        }
+    ],
+    "fields_of_study": [
+        "Bio-inspired computing",
+        "Machine learning",
+        "Complex adaptive system",
+        "Artificial intelligence",
+        "Agent-based model",
+        "Artificial immune system",
+        "Document classification",
+        "Computer science",
+        "Data mining",
+        "Interaction information"
+    ],
+    "references": [
+        "172260869",
+        "1467489902",
+        "1602687898",
+        "1918031619",
+        "1967428069",
+        "2000390755",
+        "2024228866",
+        "2098162425",
+        "2104882228",
+        "2125413176",
+        "2160536005"
+    ]
+}

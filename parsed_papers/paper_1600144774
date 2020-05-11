@@ -1,0 +1,41 @@
+{
+    "id": "1600144774",
+    "title": "Discovering Web Document Associations for Web Site Summarization",
+    "venue": "data warehousing and knowledge discovery",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "K. Selcuk Candan",
+            "id": "674992784",
+            "org": "Arizona State University"
+        },
+        {
+            "name": "Wen Syan Li",
+            "id": "2825037526",
+            "org": "CCRL, NEC USA, Inc."
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Information retrieval",
+        "Web standards",
+        "Web intelligence",
+        "Database",
+        "Computer science",
+        "Data Web",
+        "Web page",
+        "Social Semantic Web",
+        "Web modeling",
+        "Web development",
+        "Semantic Web Stack"
+    ],
+    "references": [
+        "1537460202",
+        "1981202432",
+        "2012516036",
+        "2013123195",
+        "2041500098",
+        "2066636486",
+        "2079672501"
+    ]
+}

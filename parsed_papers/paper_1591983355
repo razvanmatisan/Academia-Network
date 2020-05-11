@@ -1,0 +1,41 @@
+{
+    "id": "1591983355",
+    "title": "Bit-Vector Encoding for Partially Ordered Sets",
+    "venue": "ORDAL '94 Proceedings of the International Workshop on Orders, Algorithms, and Applications",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Michel Habib",
+            "id": "2114783528",
+            "org": "Universite Montpellier II"
+        },
+        {
+            "name": "Lhouari Nourine",
+            "id": "2779811480",
+            "org": "Universite Montpellier II"
+        }
+    ],
+    "fields_of_study": [
+        "Ordered vector space",
+        "Integer lattice",
+        "Young's lattice",
+        "Congruence lattice problem",
+        "Join and meet",
+        "Map of lattices",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Filter (mathematics)",
+        "Mathematics",
+        "Total order"
+    ],
+    "references": [
+        "1525065868",
+        "1556732419",
+        "1592955998",
+        "1999978255",
+        "2051113106",
+        "2080428438",
+        "2082567911",
+        "2087412834"
+    ]
+}

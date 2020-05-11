@@ -1,0 +1,30 @@
+{
+    "id": "1501611753",
+    "title": "Substitution Expressions: Extracting Solutions of Non-Horn Clause Proofs",
+    "venue": "european conference on computer algebra",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "K. Aspetsberger",
+            "id": "2072782383",
+            "org": "Joh. Kepler Universitat Linz"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Mathematical proof",
+        "Horn clause",
+        "Connectivity",
+        "Connected component",
+        "Proof procedure",
+        "Graph",
+        "Expression (mathematics)",
+        "Mathematics",
+        "Null graph"
+    ],
+    "references": [
+        "1495222715",
+        "2016740555",
+        "2071915991"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1575202919",
+    "title": "Integrating XML schema language with databases for b2b collaborations",
+    "venue": "asia-pacific web conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Taesoo Lim",
+            "id": "2629028413",
+            "org": "Dept. of Computer, Sungkyul University, Anyang-city, Kyunggi-Do, South Korea#TAB#"
+        },
+        {
+            "name": "Wookey Lee",
+            "id": "2171804794",
+            "org": "Dept. of Computer, Sungkyul University, Anyang-city, Kyunggi-Do, South Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Streaming XML",
+        "RELAX NG",
+        "Database",
+        "XML schema",
+        "XML Schema Editor",
+        "XML Schema (W3C)",
+        "Computer science",
+        "Document Structure Description",
+        "XML validation",
+        "Efficient XML Interchange"
+    ],
+    "references": [
+        "106013027",
+        "172876525",
+        "1508266757",
+        "1978087280",
+        "2022128352",
+        "2023695725",
+        "2139242647",
+        "2150678426",
+        "2167902508",
+        "2168945543",
+        "2170111093"
+    ]
+}

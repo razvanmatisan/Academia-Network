@@ -1,0 +1,38 @@
+{
+    "id": "1549978238",
+    "title": "First-Order Logic on Finite Trees",
+    "venue": "colloquium on trees in algebra and programming",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Andreas Potthoff",
+            "id": "2893864798",
+            "org": "IRISA, Campus de Beaulieu"
+        }
+    ],
+    "fields_of_study": [
+        "Probabilistic CTL",
+        "Tree traversal",
+        "Discrete mathematics",
+        "Tree structure",
+        "Dynamic logic (modal logic)",
+        "Combinatorics",
+        "Description logic",
+        "Regular tree grammar",
+        "Tree automaton",
+        "Fair computational tree logic",
+        "Mathematics"
+    ],
+    "references": [
+        "57066809",
+        "118337677",
+        "163873943",
+        "1884776593",
+        "1987027130",
+        "2035020702",
+        "2073663206",
+        "2096562833",
+        "2116250539",
+        "2150256214"
+    ]
+}

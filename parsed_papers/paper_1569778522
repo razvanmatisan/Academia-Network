@@ -1,0 +1,41 @@
+{
+    "id": "1569778522",
+    "title": "An axiomatization of arrays for kleene algebra with tests",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Kamal Aboul-Hosn",
+            "id": "1397231964",
+            "org": "Department of Computer Science, Cornell University, Ithaca, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Boolean algebra",
+        "Formal methods",
+        "Discrete mathematics",
+        "Soundness",
+        "Proof theory",
+        "Correctness",
+        "Kleene algebra",
+        "Schematic",
+        "Algorithm",
+        "Technical report",
+        "Mathematics"
+    ],
+    "references": [
+        "1525472576",
+        "1998368317",
+        "2010626618",
+        "2026597794",
+        "2049178644",
+        "2058926819",
+        "2091590322",
+        "2095224573",
+        "2117065635",
+        "2120897738",
+        "2124141583",
+        "2163152086",
+        "2170145744"
+    ]
+}

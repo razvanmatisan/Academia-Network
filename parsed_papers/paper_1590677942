@@ -1,0 +1,29 @@
+{
+    "id": "1590677942",
+    "title": "Towards a Taxonomy for Software Product Lines",
+    "venue": "International Workshop on Software Product-Family Engineering",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Charles W. Krueger",
+            "id": "2701272955",
+            "org": "BigLever Software, Inc."
+        }
+    ],
+    "fields_of_study": [
+        "Software construction",
+        "Software framework",
+        "Software design description",
+        "Software development",
+        "Software",
+        "Software engineering",
+        "Software product line",
+        "Computer science",
+        "Systems engineering"
+    ],
+    "references": [
+        "1513956993",
+        "1784687733",
+        "1797299833"
+    ]
+}

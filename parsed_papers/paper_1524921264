@@ -1,0 +1,35 @@
+{
+    "id": "1524921264",
+    "title": "Predictive Pricing and Revenue Sharing",
+    "venue": "workshop on internet and network economics",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Bobji Mungamuru",
+            "id": "1991524418",
+            "org": "Stanford University, Stanford, USA 94305#TAB#"
+        },
+        {
+            "name": "Hector Garcia-Molina",
+            "id": "237419955",
+            "org": "Stanford University, Stanford, USA 94305#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Best response",
+        "Online advertising",
+        "Revenue model",
+        "E-commerce",
+        "Competitor analysis",
+        "Revenue sharing",
+        "Marketing",
+        "Computer science",
+        "Share of voice",
+        "Microeconomics"
+    ],
+    "references": [
+        "123401891",
+        "2127347613",
+        "2171613954"
+    ]
+}

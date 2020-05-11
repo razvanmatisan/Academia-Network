@@ -1,0 +1,25 @@
+{
+    "id": "1577743421",
+    "title": "Structuring for the VDM Specification Language",
+    "venue": "formal methods",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Stephen Bear",
+            "id": "2288323150",
+            "org": "Central Electricity Generating Board"
+        }
+    ],
+    "fields_of_study": [
+        "Language Of Temporal Ordering Specification",
+        "Denotational semantics",
+        "Specification language",
+        "Vienna Development Method",
+        "Abstract syntax",
+        "Programming language",
+        "Programming language specification",
+        "Computer science",
+        "Structuring"
+    ],
+    "references": []
+}

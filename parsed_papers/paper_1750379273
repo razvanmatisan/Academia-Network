@@ -1,0 +1,50 @@
+{
+    "id": "1750379273",
+    "title": "Deciding Properties for Message Sequence Charts",
+    "venue": "foundations of software science and computation structure",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Anca Muscholl",
+            "id": "2776612098",
+            "org": "Universitat Stuttgart"
+        },
+        {
+            "name": "Doron A. Peled",
+            "id": "127429266",
+            "org": "Lucent Technologies"
+        },
+        {
+            "name": "Doron A. Peled",
+            "id": "127429266",
+            "org": "Lucent Technologies"
+        },
+        {
+            "name": "Zhendong Su",
+            "id": "2102704429",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Notation",
+        "Decision problem",
+        "Regular language",
+        "Communications system",
+        "Undecidable problem",
+        "Path (graph theory)",
+        "Concurrency",
+        "Programming language",
+        "Message sequence chart"
+    ],
+    "references": [
+        "201628453",
+        "1505482284",
+        "1561576781",
+        "1952030784",
+        "1991052229",
+        "2010303126",
+        "2061936609",
+        "2150320481"
+    ]
+}

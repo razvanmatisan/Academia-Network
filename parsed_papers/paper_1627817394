@@ -1,0 +1,34 @@
+{
+    "id": "1627817394",
+    "title": "Graph Grammars, a new Paradigm for Implementing Visual Languages",
+    "venue": "european software engineering conference",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Herbert Gottler",
+            "id": "1125768916",
+            "org": "Universitat Erlangen-Nurnberg"
+        }
+    ],
+    "fields_of_study": [
+        "Tree-adjoining grammar",
+        "Theoretical computer science",
+        "Indexed language",
+        "Arrow",
+        "Computer science",
+        "L-attributed grammar",
+        "Context-sensitive grammar",
+        "Natural language processing",
+        "Diagram",
+        "Rule-based machine translation",
+        "Artificial intelligence",
+        "Programming language",
+        "Context-free grammar"
+    ],
+    "references": [
+        "1603358947",
+        "1820366040",
+        "2070383530",
+        "2115937516"
+    ]
+}

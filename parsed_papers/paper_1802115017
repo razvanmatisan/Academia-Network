@@ -1,0 +1,40 @@
+{
+    "id": "1802115017",
+    "title": "Rotated Coin Recognition Using Neural Networks",
+    "venue": "soft computing",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Adnan Khashman",
+            "id": "1772566612",
+            "org": "Electrical and Electronic Engineering Department"
+        },
+        {
+            "name": "Boran Sekeroglu",
+            "id": "2159953814",
+            "org": "Computer Engineering Department Near East University, Lefkosa, Mersin 10"
+        },
+        {
+            "name": "Kamil Dimililer",
+            "id": "2281744993",
+            "org": "Electrical and Electronic Engineering Department"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Rotational invariance",
+        "Feature (machine learning)",
+        "Time delay neural network",
+        "Meaningful learning",
+        "Fuzzy logic",
+        "Computer science",
+        "Artificial neural network",
+        "Pattern recognition",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "140156139",
+        "2100655102",
+        "2103574070"
+    ]
+}

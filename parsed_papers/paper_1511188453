@@ -1,0 +1,33 @@
+{
+    "id": "1511188453",
+    "title": "Finding Common Subsequences with Arcs and Pseudoknots",
+    "venue": "combinatorial pattern matching",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Patricia A. Evans",
+            "id": "2108500808",
+            "org": "University of New Brunswick"
+        }
+    ],
+    "fields_of_study": [
+        "NP-complete",
+        "Subsequence",
+        "Discrete mathematics",
+        "Time complexity",
+        "Pairwise comparison",
+        "Combinatorics",
+        "Parameterized complexity",
+        "Sequence alignment",
+        "Longest common subsequence problem",
+        "Mathematics",
+        "Arc (geometry)"
+    ],
+    "references": [
+        "1513047926",
+        "1918504188",
+        "2053197884",
+        "2166991525",
+        "2610552050"
+    ]
+}

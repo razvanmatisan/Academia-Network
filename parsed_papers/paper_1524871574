@@ -1,0 +1,32 @@
+{
+    "id": "1524871574",
+    "title": "Remote User Authentication Using Public Information",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Chris J. Mitchell",
+            "id": "2132562382",
+            "org": "Royal Holloway, University of London"
+        }
+    ],
+    "fields_of_study": [
+        "Generic Bootstrapping Architecture",
+        "Multi-factor authentication",
+        "Symmetric-key algorithm",
+        "Lightweight Extensible Authentication Protocol",
+        "Computer security",
+        "Cryptography",
+        "Data Authentication Algorithm",
+        "Authentication",
+        "Authentication protocol",
+        "Computer science"
+    ],
+    "references": [
+        "1660562555",
+        "2088097115",
+        "2110832606",
+        "2113446256",
+        "2774071578"
+    ]
+}

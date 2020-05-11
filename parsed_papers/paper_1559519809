@@ -1,0 +1,50 @@
+{
+    "id": "1559519809",
+    "title": "On the Algebraic Specification of Domains",
+    "venue": "Annales Des Telecommunications",
+    "year": 1984,
+    "authors": [
+        {
+            "name": "Bernhard Moller",
+            "id": "2168367594",
+            "org": "Technische Universitat Munchen"
+        },
+        {
+            "name": "Walter Dosch",
+            "id": "2537616557",
+            "org": "Technische Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Algebraic closure",
+        "Algebraic specification",
+        "Algebraic extension",
+        "Discrete mathematics",
+        "Algebraic cycle",
+        "Mathematics",
+        "Power domains",
+        "Finite element method",
+        "Dimension of an algebraic variety",
+        "Algebraic function"
+    ],
+    "references": [
+        "170360595",
+        "1490777320",
+        "1490861245",
+        "1499583684",
+        "1525238445",
+        "1539804543",
+        "1544564247",
+        "1964838474",
+        "1966675670",
+        "1975103985",
+        "1991448647",
+        "2007975299",
+        "2024873396",
+        "2037729105",
+        "2061786858",
+        "2062024564",
+        "2075052434",
+        "2131733202"
+    ]
+}

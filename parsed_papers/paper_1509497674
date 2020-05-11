@@ -1,0 +1,47 @@
+{
+    "id": "1509497674",
+    "title": "The Sile Model -- A Semantic File System Infrastructure for the Desktop",
+    "venue": "european semantic web conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Bernhard Schandl",
+            "id": "1535780584",
+            "org": "Department of Distributed and Multimedia Systems"
+        },
+        {
+            "name": "Bernhard Haslhofer",
+            "id": "75567840",
+            "org": "Department of Distributed and Multimedia Systems"
+        }
+    ],
+    "fields_of_study": [
+        "Semantic technology",
+        "Virtual file system",
+        "Data mining",
+        "Semantic Web",
+        "Data model",
+        "Database",
+        "World Wide Web",
+        "Computer file",
+        "Self-certifying File System",
+        "Semantic Web Stack",
+        "Semantic desktop",
+        "Computer science"
+    ],
+    "references": [
+        "21057806",
+        "103801725",
+        "198064750",
+        "1497368632",
+        "1533055416",
+        "1965563707",
+        "1978799369",
+        "1992604308",
+        "2028290231",
+        "2034912561",
+        "2059339027",
+        "2139813577",
+        "2139921445"
+    ]
+}

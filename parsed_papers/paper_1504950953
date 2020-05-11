@@ -1,0 +1,32 @@
+{
+    "id": "1504950953",
+    "title": "Embedding static analysis into tableaux and sequent based frameworks",
+    "venue": "theorem proving with analytic tableaux and related methods",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Tobias Gedell",
+            "id": "31848650",
+            "org": "Chalmers University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Proof theory",
+        "Information flow (information theory)",
+        "Discrete mathematics",
+        "Algorithm",
+        "Static program analysis",
+        "Free variables and bound variables",
+        "Embedding",
+        "Static analysis",
+        "Sequent calculus",
+        "Mathematics",
+        "Sequent"
+    ],
+    "references": [
+        "1499168760",
+        "1554618854",
+        "1573154295",
+        "1841089713"
+    ]
+}

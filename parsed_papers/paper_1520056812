@@ -1,0 +1,34 @@
+{
+    "id": "1520056812",
+    "title": "Real-Time Mode-Machines",
+    "venue": "FTRTFT '96 Proceedings of the 4th International Symposium on Formal Techniques in Real-Time and Fault-Tolerant Systems",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Stephen Paynter",
+            "id": "2671766393",
+            "org": "British Aerospace Dynamics Ltd."
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Notation",
+        "Asynchronous communication",
+        "Critical system",
+        "Abstract state machines",
+        "Complex system",
+        "Concurrent engineering",
+        "Complex system",
+        "Real-time computing",
+        "Computer science"
+    ],
+    "references": [
+        "206821364",
+        "1778175466",
+        "1873531917",
+        "2042979415",
+        "2093916942",
+        "2099529102",
+        "2141321742"
+    ]
+}

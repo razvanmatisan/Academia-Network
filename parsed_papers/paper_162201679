@@ -1,0 +1,36 @@
+{
+    "id": "162201679",
+    "title": "Divide and conquer in multi-agent planning",
+    "venue": "national conference on artificial intelligence",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Eithan Ephrati",
+            "id": "618457025",
+            "org": "Computer Science Department, University of Pittsburgh, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Jeffrey S. Rosenschein",
+            "id": "345909134",
+            "org": "Institute of Computer Science, The Hebrew University, Jerusalem, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Multi-agent planning",
+        "Heuristic",
+        "Machine learning",
+        "Computer science",
+        "Divide and conquer algorithms",
+        "Planner"
+    ],
+    "references": [
+        "4789806",
+        "24783311",
+        "25642012",
+        "1491690797",
+        "1577254100",
+        "2084335986",
+        "2166996723"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1559401894",
+    "title": "Instantaneous Actions vs. Full Asynchronicity: Controlling and Coordinating a Set of Autonomous Mobile Robots",
+    "venue": "italian conference on theoretical computer science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Giuseppe Prencipe",
+            "id": "727272413",
+            "org": "Universita di Pisa"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile robot",
+        "Computability",
+        "Correctness",
+        "Computer science",
+        "Distributed computing",
+        "Autonomous system (mathematics)",
+        "Artificial life",
+        "Artificial intelligence",
+        "Heuristics",
+        "Robotics"
+    ],
+    "references": [
+        "1504506037",
+        "1635699204",
+        "1909393615",
+        "1961973183",
+        "2027728087",
+        "2030557405",
+        "2097569568",
+        "2106126693",
+        "2119120935",
+        "2119476348",
+        "2171837904"
+    ]
+}

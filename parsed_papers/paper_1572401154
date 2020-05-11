@@ -1,0 +1,46 @@
+{
+    "id": "1572401154",
+    "title": "Research on a Queue Scheduling Algorithm in Wireless Communications Network",
+    "venue": "web information systems modeling",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Wenchuan Yang",
+            "id": "2630129017",
+            "org": "Beijing University of Posts and Telecommunications#TAB#"
+        },
+        {
+            "name": "Yuanmei Hu",
+            "id": "2109119799",
+            "org": "Beijing University of Posts and Telecommunications#TAB#"
+        },
+        {
+            "name": "Qiancai Zhou",
+            "id": "2424054545",
+            "org": ", Beijing#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multilevel feedback queue",
+        "Round-robin scheduling",
+        "Fair-share scheduling",
+        "Scheduling (computing)",
+        "Queue management system",
+        "Computer science",
+        "Earliest deadline first scheduling",
+        "Real-time computing",
+        "Dynamic priority scheduling",
+        "Rate-monotonic scheduling",
+        "Computer network"
+    ],
+    "references": [
+        "1552339598",
+        "1582131784",
+        "1591335953",
+        "1900076412",
+        "1993157751",
+        "1994969566",
+        "1999183681",
+        "2151580670"
+    ]
+}

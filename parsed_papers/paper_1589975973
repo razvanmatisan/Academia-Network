@@ -1,0 +1,42 @@
+{
+    "id": "1589975973",
+    "title": "Parallel systems specitications with coloured Petri nets and algebraic specifications",
+    "venue": "applications and theory of petri nets",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Jacques Vautherin",
+            "id": "2008361723",
+            "org": "Universite Paris-Sud, Centre d'Orsay"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Coloured Petri net",
+        "Process architecture",
+        "Algebraic specification",
+        "Computer science",
+        "Discrete mathematics",
+        "Stochastic Petri net",
+        "Parallel computing",
+        "Algebraic number",
+        "Petri net",
+        "Petri dish",
+        "Data structure",
+        "Theoretical computer science"
+    ],
+    "references": [
+        "77084653",
+        "1536746804",
+        "1559822473",
+        "1903679624",
+        "1970640201",
+        "1997422892",
+        "2028977613",
+        "2068740810",
+        "2085791625",
+        "2110425399",
+        "2134338128",
+        "2179713184"
+    ]
+}

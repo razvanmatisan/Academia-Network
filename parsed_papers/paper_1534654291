@@ -1,0 +1,34 @@
+{
+    "id": "1534654291",
+    "title": "Static and Completion Analysis for Planning Knowledge Base Development and Verification.",
+    "venue": "AIPS",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Steve Chien",
+            "id": "2124655877",
+            "org": "Jet Propulsion Laboratory|California Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge base",
+        "Expert system",
+        "Legal expert system",
+        "Systems analysis",
+        "Software verification",
+        "Software development process",
+        "Automated planning and scheduling",
+        "Knowledge-based systems",
+        "Systems engineering",
+        "Computer science"
+    ],
+    "references": [
+        "4789806",
+        "190838671",
+        "1494688554",
+        "1975767562",
+        "2021337406",
+        "2041289621",
+        "2054680307"
+    ]
+}

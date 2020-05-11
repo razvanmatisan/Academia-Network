@@ -1,0 +1,39 @@
+{
+    "id": "1545411279",
+    "title": "Speech coding employing intelligent signal processing techniques",
+    "venue": "Transactions on Rough Sets",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Andrzej Czyzewski",
+            "id": "2130441415",
+            "org": "Multimedia Systems Department, Gdansk University of Technology, Gdansk, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern recognition",
+        "PSQM",
+        "Artificial intelligence",
+        "Codec2",
+        "Speech recognition",
+        "Speech processing",
+        "Vector sum excited linear prediction",
+        "Computer science",
+        "Speech coding",
+        "Voice activity detection",
+        "Harmonic Vector Excitation Coding",
+        "Adaptive Multi-Rate audio codec"
+    ],
+    "references": [
+        "1509680449",
+        "1516597666",
+        "1551950699",
+        "1598638678",
+        "2074746114",
+        "2103783707",
+        "2109526297",
+        "2126548261",
+        "2139134115",
+        "2222888818"
+    ]
+}

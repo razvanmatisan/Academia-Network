@@ -1,0 +1,45 @@
+{
+    "id": "1538787357",
+    "title": "Bridging the contextual distance: the e-CASE learning environment for supporting students' context awareness",
+    "venue": "panhellenic conference on informatics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Stavros N. Demetriadis",
+            "id": "379441549",
+            "org": "Informatics Department, Aristotle University of Thessaloniki, Thessaloniki, Greece#TAB#"
+        },
+        {
+            "name": "Pantelis M. Papadopoulos",
+            "id": "2056392939",
+            "org": "Informatics Department, Aristotle University of Thessaloniki, Thessaloniki, Greece#TAB#"
+        },
+        {
+            "name": "Ioannis A. Tsoukalas",
+            "id": "1026700288",
+            "org": "Informatics Department, Aristotle University of Thessaloniki, Thessaloniki, Greece#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multimedia",
+        "Data mining",
+        "Knowledge management",
+        "Learning community",
+        "Software development",
+        "Metadata",
+        "Spatial contextual awareness",
+        "Computer science",
+        "Context awareness",
+        "Learning environment",
+        "Case-based reasoning",
+        "The Internet"
+    ],
+    "references": [
+        "1551089536",
+        "2013464051",
+        "2036962960",
+        "2114858854",
+        "2125397823",
+        "2151690963"
+    ]
+}

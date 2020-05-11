@@ -1,0 +1,28 @@
+{
+    "id": "1748028793",
+    "title": "Marcus Contextual Languages and their Cut-and-Paste Properties",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Rodica Ceterchi",
+            "id": "114011729",
+            "org": "Bucharest University"
+        }
+    ],
+    "fields_of_study": [
+        "Choice function",
+        "Formal language",
+        "Context-sensitive language",
+        "Philosophy of language",
+        "Natural language processing",
+        "Computational linguistics",
+        "Context-sensitive grammar",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "53788046",
+        "1483228215"
+    ]
+}

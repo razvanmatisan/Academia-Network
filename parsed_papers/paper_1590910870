@@ -1,0 +1,45 @@
+{
+    "id": "1590910870",
+    "title": "Balancing Learning And Evolution",
+    "venue": "genetic and evolutionary computation conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Michael Husken",
+            "id": "175013595",
+            "org": "Institut fur Neuroinformatik, Ruhr-Universitat, Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Christian Igel",
+            "id": "2010648985",
+            "org": "Institut fur Neuroinformatik, Ruhr-Universitat, Bochum, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Leabra",
+        "Active learning (machine learning)",
+        "Wake-sleep algorithm",
+        "Instance-based learning",
+        "Mathematical optimization",
+        "Competitive learning",
+        "Population-based incremental learning",
+        "Online machine learning",
+        "Computer science",
+        "Proactive learning"
+    ],
+    "references": [
+        "48885561",
+        "1507439377",
+        "1566803874",
+        "1978970913",
+        "1986477256",
+        "2014239346",
+        "2081808304",
+        "2112036188",
+        "2138784882",
+        "2145737320",
+        "2146879413"
+    ]
+}

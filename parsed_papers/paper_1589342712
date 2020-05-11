@@ -1,0 +1,32 @@
+{
+    "id": "1589342712",
+    "title": "Polynomial Time Termination and Constraint Satisfaction Tests",
+    "venue": "rewriting techniques and applications",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "David A. Plaisted",
+            "id": "174197633",
+            "org": "University of North Carolina at Chapel Hill"
+        }
+    ],
+    "fields_of_study": [
+        "Complexity of constraint satisfaction",
+        "Decidability",
+        "Algorithm",
+        "Constraint satisfaction dual problem",
+        "Discrete mathematics",
+        "Binary constraint",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Local consistency",
+        "Constraint learning",
+        "Constraint logic programming",
+        "Mathematics"
+    ],
+    "references": [
+        "1494888826",
+        "1577485093",
+        "1583506783",
+        "2122595168"
+    ]
+}

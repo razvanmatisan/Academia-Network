@@ -1,0 +1,39 @@
+{
+    "id": "1485127182",
+    "title": "Improving the reliability of decision tree and naive Bayes learners",
+    "venue": "international conference on data mining",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "David George Lindsay",
+            "id": "2166404909",
+            "org": "Comput. Learning Res. Centre, London Univ., Egham, UK"
+        },
+        {
+            "name": "Sian Cox",
+            "id": "2596875373",
+            "org": "University of London, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Reliability theory",
+        "Receiver operating characteristic",
+        "Word error rate",
+        "Data mining",
+        "Machine learning",
+        "Laplace transform",
+        "Naive Bayes classifier",
+        "Decision tree",
+        "Computer science",
+        "Venn diagram",
+        "Pattern recognition"
+    ],
+    "references": [
+        "69407335",
+        "203696055",
+        "1598033630",
+        "1689445748",
+        "2156656573"
+    ]
+}

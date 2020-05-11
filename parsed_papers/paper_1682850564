@@ -1,0 +1,38 @@
+{
+    "id": "1682850564",
+    "title": "Of starships and klingons: Bayesian logic for the 23 rd century",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Kathryn Blackmond Laskey",
+            "id": "2009108647",
+            "org": "George Mason University, Fairfax, VA#TAB#"
+        },
+        {
+            "name": "Paulo C. G. Costa",
+            "id": "2099597308",
+            "org": "George Mason University, Fairfax, VA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Computer science",
+        "Artificial intelligence",
+        "Bayesian programming",
+        "Probabilistic argumentation",
+        "Description logic",
+        "Intelligent control",
+        "Probabilistic logic",
+        "Variable-order Bayesian network",
+        "Probabilistic logic network",
+        "Subjective logic"
+    ],
+    "references": [
+        "1500344951",
+        "1531707364",
+        "1581645897",
+        "1723714545",
+        "1800120888"
+    ]
+}

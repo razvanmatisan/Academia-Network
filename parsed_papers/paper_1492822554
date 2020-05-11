@@ -1,0 +1,39 @@
+{
+    "id": "1492822554",
+    "title": "Single vs. Double Pushout Derivations of Graphs",
+    "venue": "workshop on graph theoretic concepts in computer science",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Francesco Parisi-Presicce",
+            "id": "136759105",
+            "org": "Universita degli Studi L'Aquila"
+        }
+    ],
+    "fields_of_study": [
+        "Algebraic specification",
+        "Rotation formalisms in three dimensions",
+        "Combinatorics",
+        "Pushout",
+        "Discrete mathematics",
+        "Algebraic number",
+        "Graph rewriting",
+        "Derivation",
+        "Software design",
+        "Rule-based machine translation",
+        "Mathematics"
+    ],
+    "references": [
+        "1496662963",
+        "1532639618",
+        "1546418577",
+        "1567847381",
+        "1585801412",
+        "1984413137",
+        "2011809587",
+        "2055102312",
+        "2120995755",
+        "2130238476",
+        "2536118580"
+    ]
+}

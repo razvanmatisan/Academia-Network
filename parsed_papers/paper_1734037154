@@ -1,0 +1,44 @@
+{
+    "id": "1734037154",
+    "title": "Application Scenarios of Ontology-Driven Situation Awareness SystemsExemplified for the Road Traffic Management Domain",
+    "venue": "formal ontologies meet industry",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Norbert Baumgartner",
+            "id": "2012506426",
+            "org": "team Communication Technology Management Ltd., Vienna, Austria#TAB#"
+        },
+        {
+            "name": "Werner Retschitzegger",
+            "id": "319937283",
+            "org": "Johannes Kepler University, Linz, Austria#TAB#"
+        },
+        {
+            "name": "Wieland Schwinger",
+            "id": "713062379",
+            "org": "Johannes Kepler University, Linz, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Management science",
+        "Ontology",
+        "Probabilistic logic",
+        "Conceptual model",
+        "Information overload",
+        "Context awareness",
+        "Situation awareness",
+        "Operator (computer programming)",
+        "Ontology (information science)",
+        "Engineering",
+        "Knowledge management"
+    ],
+    "references": [
+        "207819423",
+        "1481837088",
+        "1705450774",
+        "1963857711",
+        "2034289992",
+        "2091106864"
+    ]
+}

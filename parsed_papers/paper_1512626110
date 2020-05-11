@@ -1,0 +1,31 @@
+{
+    "id": "1512626110",
+    "title": "Graphic Equivalence and Computer Optimization",
+    "venue": "international workshop on graph grammars and their application to computer science",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Tien Chi Chen",
+            "id": "2135616055",
+            "org": "The Chinese University of Hong Kong"
+        }
+    ],
+    "fields_of_study": [
+        "Directed graph",
+        "Equivalence (measure theory)",
+        "Dependency graph",
+        "Discrete mathematics",
+        "Computer optimization",
+        "Graph (abstract data type)",
+        "Wait-for graph",
+        "Graph",
+        "Theoretical computer science",
+        "Computer science",
+        "Arc (geometry)"
+    ],
+    "references": [
+        "200801094",
+        "1539163926",
+        "2144481293"
+    ]
+}

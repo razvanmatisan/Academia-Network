@@ -1,0 +1,37 @@
+{
+    "id": "162398340",
+    "title": "Information systems for eco-effective manufacturing",
+    "venue": "international conference on intelligent systems",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Beom Seok Kim",
+            "id": "2514107611",
+            "org": "Korea Advanced Institute of Science and Technology(KAIST)"
+        },
+        {
+            "name": "Kyung Hye Park",
+            "id": "2440362538",
+            "org": "INSA de Lyon"
+        },
+        {
+            "name": "Byung Chun Kim",
+            "id": "2107417389",
+            "org": "Department of Industrial Management, KAIST, Taejon, Korea"
+        }
+    ],
+    "fields_of_study": [
+        "Engineering management",
+        "Information system",
+        "Design for the Environment",
+        "Life cycle thinking",
+        "Manufacturing engineering",
+        "Engineering",
+        "Product planning"
+    ],
+    "references": [
+        "1686466287",
+        "1992932249",
+        "2043837795"
+    ]
+}

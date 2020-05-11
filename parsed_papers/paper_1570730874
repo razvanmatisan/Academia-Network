@@ -1,0 +1,32 @@
+{
+    "id": "1570730874",
+    "title": "Systems engineering for software engineers",
+    "venue": "Annals of Software Engineering",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Ian Sommerville",
+            "id": "2093398104",
+            "org": "Computing Department, Lancaster University, Lancaster LA1 4YR, UK E-mail: is@comp.lancs.ac.uk#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Civil engineering software",
+        "System of systems engineering",
+        "System of systems",
+        "Software Engineering Process Group",
+        "Systems engineering",
+        "Ultra-large-scale systems",
+        "Computer engineering",
+        "Social software engineering",
+        "Information engineering",
+        "Software system",
+        "Computer science"
+    ],
+    "references": [
+        "1596249124",
+        "2016310411",
+        "2114537692",
+        "2158810061"
+    ]
+}

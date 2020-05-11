@@ -1,0 +1,37 @@
+{
+    "id": "123972137",
+    "title": "Intermediate decision trees",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Lawrence B. Holder",
+            "id": "639663078",
+            "org": "Department of Computer Science and Engineering, University of Texas at Arlington, Arlington, TX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Information Fuzzy Networks",
+        "Alternating decision tree",
+        "Decision stump",
+        "Grafting (decision trees)",
+        "Pruning (decision trees)",
+        "Incremental decision tree",
+        "Decision tree learning",
+        "ID3 algorithm",
+        "Computer science",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "199452637",
+        "1510399134",
+        "1543415913",
+        "1572409563",
+        "1604329830",
+        "1995023359",
+        "2089967664",
+        "2132166479"
+    ]
+}

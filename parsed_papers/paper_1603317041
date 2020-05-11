@@ -1,0 +1,42 @@
+{
+    "id": "1603317041",
+    "title": "Adaptive Application-Centric Management in Meta-computing Environments",
+    "venue": "conference information and communication technology",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Yoonhee Kim",
+            "id": "2103307028",
+            "org": "Sookmyung Women's University"
+        },
+        {
+            "name": "Sungyong Park",
+            "id": "2138795375",
+            "org": "Sogang University"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Network management",
+        "Adaptive management",
+        "Management system",
+        "Distributed computing",
+        "Adaptability",
+        "Resource management",
+        "Technology management",
+        "Simulation",
+        "Systems management",
+        "Application lifecycle management",
+        "Computer science"
+    ],
+    "references": [
+        "1598118453",
+        "2049019146",
+        "2103038289",
+        "2110297394",
+        "2110537422",
+        "2132098696",
+        "2152907961",
+        "2159002326"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "1482341641",
+    "title": "Physical protection of cryptographic devices",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Andrew J. Clark",
+            "id": "2323809778",
+            "org": "Computer Security Limited, Brighton, East Sussex, United Kingdom#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Quality assurance",
+        "Smart card",
+        "NSA cryptography",
+        "Tamper resistance",
+        "Data",
+        "Key (lock)",
+        "Computer security",
+        "Computer science",
+        "Cryptography",
+        "Computer data storage"
+    ],
+    "references": [
+        "1964987454"
+    ]
+}

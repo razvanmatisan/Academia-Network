@@ -1,0 +1,32 @@
+{
+    "id": "1597226818",
+    "title": "Blurring the boundaries between our physical and electronic libraries: Location aware technologies; QR codes and RFID tags.",
+    "venue": "The Electronic Library",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Andrew Walsh",
+            "id": "2145029400",
+            "org": "(University of Huddersfield, Huddersfield, UK)"
+        }
+    ],
+    "fields_of_study": [
+        "Smart card",
+        "Global Positioning System",
+        "Information and Communications Technology",
+        "World Wide Web",
+        "Multimedia",
+        "Computer science",
+        "Location awareness",
+        "Design methods",
+        "Mobile technology",
+        "Internet privacy",
+        "Learning environment"
+    ],
+    "references": [
+        "1557874622",
+        "1595311737",
+        "2029699283",
+        "2078495631"
+    ]
+}

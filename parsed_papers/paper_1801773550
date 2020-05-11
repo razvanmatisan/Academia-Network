@@ -1,0 +1,40 @@
+{
+    "id": "1801773550",
+    "title": "Belief propagation and loop calculus for the permanent of a non-negative matrix",
+    "venue": "Journal of Physics A",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Yusuke Watanabe",
+            "id": "2302903674",
+            "org": "Institute of Statistical Mathematics, 10-3 Midori-cho, Tachikawa, Tokyo 190-8562 Japan"
+        },
+        {
+            "name": "Michael Chertkov",
+            "id": "2021268131",
+            "org": "Center for Nonlinear Studies and Theoretical Division, LANL, NM 87545, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Stochastic matrix",
+        "Calculus",
+        "Multiplicative function",
+        "Mathematical analysis",
+        "Combinatorics",
+        "Upper and lower bounds",
+        "Doubly stochastic matrix",
+        "Matrix (mathematics)",
+        "Belief propagation",
+        "Partition function (mathematics)",
+        "Fixed point",
+        "Mathematics"
+    ],
+    "references": [
+        "1484743436",
+        "1512303236",
+        "1628027163",
+        "1970851820",
+        "2117371776",
+        "2159080219"
+    ]
+}

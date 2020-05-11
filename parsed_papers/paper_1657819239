@@ -1,0 +1,52 @@
+{
+    "id": "1657819239",
+    "title": "Conflict Analysis of Programs with Procedures, Dynamic Thread Creation, and Monitors",
+    "venue": "static analysis symposium",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Peter Lammich",
+            "id": "1978029323",
+            "org": "Institut fur Informatik, Fachbereich Mathematik und Informatik, Westfalische Wilhelms-Universitat Munster,#TAB#"
+        },
+        {
+            "name": "Markus Muller-Olm",
+            "id": "79147545",
+            "org": "Institut fur Informatik, Fachbereich Mathematik und Informatik, Westfalische Wilhelms-Universitat Munster,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Program analysis",
+        "Computer science",
+        "Reentrancy",
+        "Thread (computing)",
+        "Theoretical computer science",
+        "Real-time computing",
+        "Conflict analysis",
+        "Closure (mathematics)",
+        "Fixed point",
+        "Nondeterministic algorithm",
+        "Finite set"
+    ],
+    "references": [
+        "70320512",
+        "1587449012",
+        "1667182944",
+        "1965462925",
+        "1966571454",
+        "2007541742",
+        "2014552079",
+        "2038216124",
+        "2046160987",
+        "2060345611",
+        "2073475094",
+        "2098410450",
+        "2117842469",
+        "2120926795",
+        "2124535049",
+        "2147248565",
+        "2170151971",
+        "2404500179",
+        "2803561572"
+    ]
+}

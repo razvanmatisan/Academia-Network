@@ -1,0 +1,37 @@
+{
+    "id": "1604865818",
+    "title": "Making Collaborative Group Recommendations Based on Modal Symbolic Data",
+    "venue": "brazilian symposium on artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Sergio R. de M. Queiroz",
+            "id": "2024891952",
+            "org": "Centro de Informatica (CIn/UFPE)"
+        },
+        {
+            "name": "Francisco de A. T. de Carvalho",
+            "id": "2558482274",
+            "org": "Centro de Informatica (CIn/UFPE)"
+        }
+    ],
+    "fields_of_study": [
+        "Homogeneity (statistics)",
+        "Machine learning",
+        "Social group",
+        "Model-based reasoning",
+        "Artificial intelligence",
+        "Symbolic data analysis",
+        "Recommender system",
+        "Computer science",
+        "Data mining",
+        "Social choice theory"
+    ],
+    "references": [
+        "1527499847",
+        "1614880019",
+        "2030144199",
+        "2051834357",
+        "2145699321"
+    ]
+}

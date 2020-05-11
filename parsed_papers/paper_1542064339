@@ -1,0 +1,37 @@
+{
+    "id": "1542064339",
+    "title": "PROCESS ORIENTED DISCOVERY OF BUSINESS PARTNERS",
+    "venue": "international conference on enterprise information systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Axel Martens",
+            "id": "2138666784",
+            "org": "IBM"
+        }
+    ],
+    "fields_of_study": [
+        "Process management",
+        "Knowledge management",
+        "Business process discovery",
+        "Business Process Model and Notation",
+        "Business Process Execution Language",
+        "Business process modeling",
+        "Database",
+        "Process modeling",
+        "Web service",
+        "Artifact-centric business process model",
+        "Computer science",
+        "Petri net"
+    ],
+    "references": [
+        "1537297192",
+        "1556490356",
+        "1962632332",
+        "2098981343",
+        "2111367199",
+        "2129466958",
+        "2143811838",
+        "2170767967"
+    ]
+}

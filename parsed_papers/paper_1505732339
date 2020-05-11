@@ -1,0 +1,37 @@
+{
+    "id": "1505732339",
+    "title": "A Distributed Partial Order Reduction Algorithm",
+    "venue": "formal techniques for networked and distributed systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Robert Palmer",
+            "id": "2154325642",
+            "org": "University of Utah"
+        },
+        {
+            "name": "Ganesh Gopalakrishnan",
+            "id": "2129100051",
+            "org": "University of Utah"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Model checking",
+        "Computer science",
+        "Distributed computing",
+        "Distributed element model",
+        "Distributed algorithm",
+        "Partially ordered set",
+        "Partial order reduction",
+        "Algorithm",
+        "Formal verification"
+    ],
+    "references": [
+        "224698694",
+        "1481204670",
+        "1996242413",
+        "2072062729",
+        "2139808952"
+    ]
+}

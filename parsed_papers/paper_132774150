@@ -1,0 +1,36 @@
+{
+    "id": "132774150",
+    "title": "Placing structuring elements in a word sequence for generating new statistical language models.",
+    "venue": "conference of the international speech communication association",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Karl Weilhammer",
+            "id": "2017362664",
+            "org": "Ludwig Maximilian University of Munich"
+        },
+        {
+            "name": "Gunther Ruske",
+            "id": "2295206077",
+            "org": "Technical University of Munich"
+        }
+    ],
+    "fields_of_study": [
+        "Cache language model",
+        "Artificial intelligence",
+        "Universal Networking Language",
+        "Object language",
+        "Specification language",
+        "Language identification",
+        "Pattern recognition",
+        "Data manipulation language",
+        "Language model",
+        "Computer science",
+        "Language primitive"
+    ],
+    "references": [
+        "61566120",
+        "1504308419",
+        "1577006985"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1566031803",
+    "title": "Using Fewer Qubits in Shor's Factorization Algorithm Via Simultaneous Diophantine Approximation",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Jean-Pierre Seifert",
+            "id": "2228949119",
+            "org": "Security & ChipCard ICs"
+        }
+    ],
+    "fields_of_study": [
+        "Quantum error correction",
+        "Discrete mathematics",
+        "Shor's algorithm",
+        "Quantum capacity",
+        "Quantum algorithm",
+        "Quantum phase estimation algorithm",
+        "Quantum Fourier transform",
+        "Algorithm",
+        "Distributed computing",
+        "Quantum sort",
+        "Mathematics",
+        "Quantum computer"
+    ],
+    "references": [
+        "1583069712",
+        "1659329695",
+        "1969694673",
+        "1996360405",
+        "2052169397",
+        "2137147061",
+        "2143677375"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1567860153",
+    "title": "Comparison of edge-driven algorithms for model-based motion estimation",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Hendrik Dahlkamp",
+            "id": "1327754117",
+            "org": "Institut fur Algorithmen und Kognitive Systeme (IAKS), Universitat Karlsruhe (TH), Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Artur Ottlik",
+            "id": "1840058518",
+            "org": "Institut fur Algorithmen und Kognitive Systeme (IAKS), Universitat Karlsruhe (TH), Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Hans-Hellmut Nagel",
+            "id": "2813171203",
+            "org": "Institut fur Algorithmen und Kognitive Systeme (IAKS), Universitat Karlsruhe (TH), Karlsruhe, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Probability distribution",
+        "Mathematical optimization",
+        "Discrete mathematics",
+        "Classification of discontinuities",
+        "Motion estimation",
+        "Image plane",
+        "Computer vision",
+        "Coherence (physics)",
+        "Artificial intelligence",
+        "Edge detection",
+        "Computer science",
+        "Optical flow",
+        "State vector"
+    ],
+    "references": [
+        "1485534091",
+        "1537462230",
+        "1590496484"
+    ]
+}

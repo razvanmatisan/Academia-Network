@@ -1,0 +1,34 @@
+{
+    "id": "1819436941",
+    "title": "Collaboration of Metaheuristic Algorithms through a Multi-Agent System",
+    "venue": "international conference on industrial applications of holonic and multi agent systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Richard Malek",
+            "id": "2381268074",
+            "org": "Department of Cybernetics, Faculty of Electrical Engineering, Czech Technical University in Prague, Czech Republic#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Metaheuristic",
+        "Parallel metaheuristic",
+        "Hyper-heuristic",
+        "Combinatorial optimization",
+        "Tabu search",
+        "Machine learning",
+        "Multi-agent system",
+        "Algorithm",
+        "Search-based software engineering",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1977392117",
+        "2073550815",
+        "2150834164",
+        "2151554678",
+        "2161420356",
+        "2165061252"
+    ]
+}

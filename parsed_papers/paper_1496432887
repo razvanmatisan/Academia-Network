@@ -1,0 +1,35 @@
+{
+    "id": "1496432887",
+    "title": "On finding small solutions of modular multivariate polynomial equations",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Charanjit S. Jutla",
+            "id": "2084288858",
+            "org": "IBM T. J. Watson Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Monic polynomial",
+        "Matrix polynomial",
+        "Stable polynomial",
+        "Reciprocal polynomial",
+        "Combinatorics",
+        "Minimal polynomial (linear algebra)",
+        "Distributed computing",
+        "Polynomial",
+        "Alternating polynomial",
+        "Polynomial long division",
+        "Mathematics"
+    ],
+    "references": [
+        "1494684815",
+        "1550863203",
+        "1557014463",
+        "1749471906",
+        "1996360405",
+        "2168581558"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "125271895",
+    "title": "Constrained decision revision",
+    "venue": "national conference on artificial intelligence",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Charles J. Petrie",
+            "id": "2238440389",
+            "org": "MCC AI Lab, Austin, TX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Automated planning and scheduling",
+        "Computer science",
+        "Architecture",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "50425026",
+        "1484780672",
+        "1519213771",
+        "2164699103"
+    ]
+}

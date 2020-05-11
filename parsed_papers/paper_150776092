@@ -1,0 +1,33 @@
+{
+    "id": "150776092",
+    "title": "Generalized K -Harmonic Means - Dynamic Weighting of Data in Unsupervised Learning.",
+    "venue": "siam international conference on data mining",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Bin Zhang",
+            "id": "2479547581",
+            "org": "Hewlett-Packard"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Cluster analysis",
+        "Initialization",
+        "Pattern recognition",
+        "Data point",
+        "Unsupervised learning",
+        "Weight function",
+        "k-means clustering",
+        "Harmonic mean",
+        "Weighting",
+        "Mathematics"
+    ],
+    "references": [
+        "1973264045",
+        "1999668761",
+        "2073849744",
+        "2138754805"
+    ]
+}

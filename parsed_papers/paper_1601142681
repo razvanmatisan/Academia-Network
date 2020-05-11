@@ -1,0 +1,30 @@
+{
+    "id": "1601142681",
+    "title": "Finite Group Topology and p-Adic Topology for Free Monoids",
+    "venue": "international colloquium on automata, languages and programming",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Jean-Eric Pin",
+            "id": "2375531652",
+            "org": "Universite Paris VI et CNRS, LITP Tour 55-65"
+        }
+    ],
+    "fields_of_study": [
+        "Weak topology",
+        "Initial topology",
+        "Discrete mathematics",
+        "Computer science",
+        "Extension topology",
+        "Discrete group",
+        "Comparison of topologies",
+        "Topological group",
+        "General topology",
+        "Monoid",
+        "Topology"
+    ],
+    "references": [
+        "1484637247",
+        "2167954650"
+    ]
+}

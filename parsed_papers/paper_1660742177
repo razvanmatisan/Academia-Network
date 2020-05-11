@@ -1,0 +1,35 @@
+{
+    "id": "1660742177",
+    "title": "From projective to Euclidean space under any practical situation, a criticism of self-calibration",
+    "venue": "international conference on computer vision",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Sylvain Bougnoux",
+            "id": "2576728160",
+            "org": "INRIA, Sophia-Antipolis, France"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "3D reconstruction",
+        "Computer vision",
+        "Computational geometry",
+        "Euclidean geometry",
+        "Euclidean space",
+        "Iterative reconstruction",
+        "Mathematical optimization",
+        "Projective test",
+        "Focal length",
+        "Homothetic transformation",
+        "Mathematics"
+    ],
+    "references": [
+        "1593692296",
+        "1845536648",
+        "1960801737",
+        "2065592949",
+        "2124906943",
+        "2168691347"
+    ]
+}

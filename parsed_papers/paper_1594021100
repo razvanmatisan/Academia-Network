@@ -1,0 +1,45 @@
+{
+    "id": "1594021100",
+    "title": "A Novel Hybrid Particle Swarm Optimization for Multi-Objective Problems",
+    "venue": "artificial intelligence and computational intelligence",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Siwei Jiang",
+            "id": "2807608156",
+            "org": "School of Computer Science, China University of Geosciences, Wuhan, China 430074#TAB#"
+        },
+        {
+            "name": "Zhihua Cai",
+            "id": "2806039698",
+            "org": "School of Computer Science, China University of Geosciences, Wuhan, China 430074#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Meta-optimization",
+        "Metaheuristic",
+        "Multi-swarm optimization",
+        "Machine learning",
+        "Derivative-free optimization",
+        "Hybrid algorithm",
+        "Mathematical optimization",
+        "Artificial intelligence",
+        "Multi-objective optimization",
+        "Imperialist competitive algorithm",
+        "Computer science",
+        "Particle swarm optimization"
+    ],
+    "references": [
+        "1544309315",
+        "1573296548",
+        "1587294773",
+        "1972894197",
+        "2100170252",
+        "2109116383",
+        "2126105956",
+        "2140882991",
+        "2165171393",
+        "2210195496",
+        "2312095103"
+    ]
+}

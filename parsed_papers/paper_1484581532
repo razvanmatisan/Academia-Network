@@ -1,0 +1,31 @@
+{
+    "id": "1484581532",
+    "title": "ND: A Comprehensive Network Administration and Analysis Tool",
+    "venue": "usenix large installation systems administration conference",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Ellen L. Mitchell",
+            "id": "2114996115",
+            "org": "Eric Nelson, and David Hess, Texas A&M University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Simple Network Management Protocol",
+        "Python (programming language)",
+        "World Wide Web",
+        "Information system",
+        "Networking hardware",
+        "Campus network",
+        "Software",
+        "SQL"
+    ],
+    "references": [
+        "95133743",
+        "1547662183",
+        "1771315362",
+        "1952098864",
+        "2123274874"
+    ]
+}

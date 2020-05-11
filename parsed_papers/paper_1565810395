@@ -1,0 +1,35 @@
+{
+    "id": "1565810395",
+    "title": "Decision Trees Learning System",
+    "venue": "intelligent information systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Maciej Paliwoda",
+            "id": "2417497635",
+            "org": "Warsaw University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Information Fuzzy Networks",
+        "Data mining",
+        "Artificial intelligence",
+        "Decision tree",
+        "Alternating decision tree",
+        "Decision stump",
+        "Incremental decision tree",
+        "SQL",
+        "Decision tree learning",
+        "Computer science",
+        "ID3 algorithm"
+    ],
+    "references": [
+        "1513366687",
+        "1585743408",
+        "1597910678",
+        "1678889691",
+        "2125055259",
+        "2142334564"
+    ]
+}

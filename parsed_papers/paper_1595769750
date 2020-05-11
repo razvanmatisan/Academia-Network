@@ -1,0 +1,37 @@
+{
+    "id": "1595769750",
+    "title": "Typed Operational Semantics",
+    "venue": "international conference on typed lambda calculi and applications",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Healfdene Goguen",
+            "id": "2134883527",
+            "org": "INRIA Sophia-Antipolis"
+        },
+        {
+            "name": "Healfdene Goguen",
+            "id": "2134883527",
+            "org": "INRIA Sophia-Antipolis"
+        }
+    ],
+    "fields_of_study": [
+        "Curry-Howard correspondence",
+        "Type constructor",
+        "Discrete mathematics",
+        "Lambda cube",
+        "Simply typed lambda calculus",
+        "Typed lambda calculus",
+        "System F",
+        "Mathematics",
+        "Normalisation by evaluation",
+        "Pure type system"
+    ],
+    "references": [
+        "1487166760",
+        "1547527421",
+        "1573802872",
+        "1594315934",
+        "2124729849"
+    ]
+}

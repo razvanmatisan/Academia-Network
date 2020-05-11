@@ -1,0 +1,38 @@
+{
+    "id": "1549352442",
+    "title": "How to Split Recursive Automata",
+    "venue": "international colloquium on grammatical inference",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Isabelle Tellier",
+            "id": "61851480",
+            "org": "LIFL - Inria Lille Nord Europe, university of Lille,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Combinatory categorial grammar",
+        "Machine learning",
+        "Artificial intelligence",
+        "Computer science",
+        "Context-free language",
+        "Finite-state machine",
+        "Nested word",
+        "Quantum finite automata",
+        "Combinatorial explosion",
+        "Categorial grammar",
+        "Automata theory"
+    ],
+    "references": [
+        "1519265043",
+        "1551398652",
+        "1573512697",
+        "1701438870",
+        "1999359581",
+        "2035032881",
+        "2092386826",
+        "2151082452",
+        "2884643709"
+    ]
+}

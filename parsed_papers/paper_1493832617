@@ -1,0 +1,35 @@
+{
+    "id": "1493832617",
+    "title": "A generalized negative binomial smoothing model for sample disclosure risk estimation",
+    "venue": "privacy in statistical databases",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Yosef Rinott",
+            "id": "2057157870",
+            "org": "The Hebrew University of Jerusalem, Israel#TAB#"
+        },
+        {
+            "name": "Natalie Shlomo",
+            "id": "1239809425",
+            "org": "Israel and Southampton Statistical Sciences Research Institute, University of Southampton, The Hebrew University of Jerusalem, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Econometrics",
+        "Contingency table",
+        "Statistics",
+        "Data mining",
+        "Poisson distribution",
+        "Regression analysis",
+        "Hierarchical database model",
+        "Negative binomial distribution",
+        "Smoothing",
+        "Population",
+        "Statistical model",
+        "Mathematics"
+    ],
+    "references": [
+        "1492029671"
+    ]
+}

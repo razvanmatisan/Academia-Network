@@ -1,0 +1,63 @@
+{
+    "id": "1544007523",
+    "title": "Positive Semidefinite Metric Learning with Boosting",
+    "venue": "neural information processing systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Chunhua Shen",
+            "id": "2139473605",
+            "org": "NICTA Canberra Research Lab, Canberra, ACT, Australia and Australian National University, Canberra, ACT, Australia#TAB#"
+        },
+        {
+            "name": "Junae Kim",
+            "id": "2121385928",
+            "org": "NICTA Canberra Research Lab, Canberra, ACT, Australia and Australian National University, Canberra, ACT, Australia#TAB#"
+        },
+        {
+            "name": "Lei Wang",
+            "id": "2441765901",
+            "org": "Australian National University, Canberra, ACT, Australia#TAB#"
+        },
+        {
+            "name": "Anton van den Hengel",
+            "id": "2152283363",
+            "org": "The University of Adelaide, Adelaide, SA, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern recognition",
+        "Boosting (machine learning)",
+        "Mathematical optimization",
+        "Machine learning",
+        "Metric (mathematics)",
+        "Semidefinite embedding",
+        "Artificial intelligence",
+        "Matrix (mathematics)",
+        "Contextual image classification",
+        "Mahalanobis distance",
+        "Large margin nearest neighbor",
+        "Semidefinite programming",
+        "Mathematics"
+    ],
+    "references": [
+        "1525410796",
+        "1578080815",
+        "2005126631",
+        "2091632079",
+        "2104752854",
+        "2106053110",
+        "2115733720",
+        "2116442676",
+        "2117154949",
+        "2119073761",
+        "2130556178",
+        "2133126147",
+        "2138477898",
+        "2151103935",
+        "2152010828",
+        "2153325973",
+        "2164370641",
+        "2172188317"
+    ]
+}

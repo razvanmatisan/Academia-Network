@@ -1,0 +1,40 @@
+{
+    "id": "1515383272",
+    "title": "Statistical Inference and Probabilistic Modelling for Constraint-Based NLP",
+    "venue": "arXiv: Computation and Language",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Stefan Riezler",
+            "id": "1993280370",
+            "org": "IMS, University of Stuttgart"
+        }
+    ],
+    "fields_of_study": [
+        "Estimation of distribution algorithm",
+        "Machine learning",
+        "Probabilistic CTL",
+        "Natural language processing",
+        "Probabilistic argumentation",
+        "Artificial intelligence",
+        "Probabilistic relevance model",
+        "Divergence-from-randomness model",
+        "Stochastic context-free grammar",
+        "Probabilistic analysis of algorithms",
+        "Probabilistic database",
+        "Pattern recognition",
+        "Computer science"
+    ],
+    "references": [
+        "1576269293",
+        "1734853756",
+        "1796802210",
+        "1924403233",
+        "1991133427",
+        "2089951031",
+        "2130747650",
+        "2160842254",
+        "2161021345",
+        "2439178139"
+    ]
+}

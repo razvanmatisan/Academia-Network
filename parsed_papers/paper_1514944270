@@ -1,0 +1,54 @@
+{
+    "id": "1514944270",
+    "title": "An improved genetic clustering algorithm for categorical data",
+    "venue": "knowledge discovery and data mining",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Hongwu Qin",
+            "id": "2144708694",
+            "org": "Faculty of Computer Systems and Software Engineering, Universiti Malaysia Pahang, Gambang, Kuantan, Malaysia#TAB#"
+        },
+        {
+            "name": "Xiuqin Ma",
+            "id": "2133330932",
+            "org": "Faculty of Computer Systems and Software Engineering, Universiti Malaysia Pahang, Gambang, Kuantan, Malaysia#TAB#"
+        },
+        {
+            "name": "Tutut Herawan",
+            "id": "2506363818",
+            "org": "Faculty of Computer Systems and Software Engineering, Universiti Malaysia Pahang, Gambang, Kuantan, Malaysia#TAB#"
+        },
+        {
+            "name": "Jasni Mohamad Zain",
+            "id": "2147701941",
+            "org": "Faculty of Computer Systems and Software Engineering, Universiti Malaysia Pahang, Gambang, Kuantan, Malaysia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Computer science",
+        "Fuzzy clustering",
+        "Data mining",
+        "Cluster analysis",
+        "k-medians clustering",
+        "CURE data clustering algorithm",
+        "FLAME clustering",
+        "Correlation clustering",
+        "Data stream clustering",
+        "Canopy clustering algorithm",
+        "Pattern recognition",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1544920748",
+        "1978348710",
+        "1999400784",
+        "2057712948",
+        "2096285766",
+        "2109592225",
+        "2122943553",
+        "2147544689",
+        "2149230623"
+    ]
+}

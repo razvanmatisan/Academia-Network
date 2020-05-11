@@ -1,0 +1,39 @@
+{
+    "id": "1819767597",
+    "title": "Knowledge Extraction from Databases: Design Princiles of the INLEN System",
+    "venue": "international syposium on methodologies for intelligent systems",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Kenneth A. Kaufmann",
+            "id": "2277860185",
+            "org": "George Mason University"
+        },
+        {
+            "name": "Ryszard S. Michalski",
+            "id": "2617907882",
+            "org": "George Mason University"
+        },
+        {
+            "name": "Larry Kerschberg",
+            "id": "332443050",
+            "org": "George Mason University"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge extraction",
+        "Data mining",
+        "Knowledge base",
+        "Artificial intelligence",
+        "Machine learning",
+        "Architecture",
+        "Database",
+        "Hierarchy",
+        "Macro",
+        "Database design",
+        "Operator (computer programming)",
+        "Computer science",
+        "Open Knowledge Base Connectivity"
+    ],
+    "references": []
+}

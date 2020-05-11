@@ -1,0 +1,36 @@
+{
+    "id": "1550767494",
+    "title": "Completion and Invariant Theory in Symbolic Computation and Artificial Intelligence",
+    "venue": "international conference on artificial intelligence",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Eugen E. Ardeleanu",
+            "id": "2399251669",
+            "org": "Johannes Kepler University"
+        }
+    ],
+    "fields_of_study": [
+        "Invariant theory",
+        "Symbolic-numeric computation",
+        "Symbolic trajectory evaluation",
+        "Ideal theory",
+        "Invariant (mathematics)",
+        "Mathematics",
+        "Theoretical computer science",
+        "Abstraction",
+        "Artificial intelligence",
+        "Polynomial",
+        "Symbolic computation"
+    ],
+    "references": [
+        "1480480032",
+        "1995340375",
+        "1999922965",
+        "2005306309",
+        "2018615018",
+        "2099786686",
+        "2160645305",
+        "2427552274"
+    ]
+}

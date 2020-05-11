@@ -1,0 +1,44 @@
+{
+    "id": "1545454905",
+    "title": "Data preparation of web log files for marketing aspects analyses",
+    "venue": "international conference on data mining",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Meike Reichle",
+            "id": "2114273136",
+            "org": "Institute of Computer Vision and Applied Computer Sciences, IBaI, Leipzig#TAB#"
+        },
+        {
+            "name": "Petra Perner",
+            "id": "2084635933",
+            "org": "Institute of Computer Vision and Applied Computer Sciences, IBaI, Leipzig#TAB#"
+        },
+        {
+            "name": "Klaus-Dieter Althoff",
+            "id": "2155073115",
+            "org": "University of Hildesheim#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data preparation",
+        "Customer relationship management",
+        "Data mining",
+        "Database",
+        "Raw data",
+        "Web modeling",
+        "Preprocessor",
+        "Web log analysis software",
+        "Aspect-oriented programming",
+        "Computer science",
+        "The Internet"
+    ],
+    "references": [
+        "187974210",
+        "1483156870",
+        "1517535410",
+        "1537474192",
+        "1552411608",
+        "2490250287"
+    ]
+}

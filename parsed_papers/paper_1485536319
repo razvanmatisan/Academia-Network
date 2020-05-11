@@ -1,0 +1,31 @@
+{
+    "id": "1485536319",
+    "title": "Action planning for virtual human performances",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Markus Lockelt",
+            "id": "2681553914",
+            "org": "DFKI GmbH, Saarbrucken, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Storytelling",
+        "Computer animation",
+        "Theory of planned behavior",
+        "Action plan",
+        "Simulation",
+        "Virtual reality",
+        "Autonomous system (mathematics)",
+        "Narrative",
+        "User interface",
+        "Computer science"
+    ],
+    "references": [
+        "340532547",
+        "1481627800",
+        "1564139012",
+        "1806933321"
+    ]
+}

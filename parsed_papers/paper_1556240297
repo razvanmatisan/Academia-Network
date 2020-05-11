@@ -1,0 +1,36 @@
+{
+    "id": "1556240297",
+    "title": "AOM: An Agent Oriented Middleware Based on Java",
+    "venue": "international conference on semantic computing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Kwang-Jin Paek",
+            "id": "2638178949",
+            "org": "Korea University"
+        },
+        {
+            "name": "Tai-Yun Kim",
+            "id": "2798698906",
+            "org": "Korea University"
+        }
+    ],
+    "fields_of_study": [
+        "Middleware (distributed applications)",
+        "Mobile agent",
+        "Remote procedure call",
+        "Java",
+        "Distributed computing",
+        "Client-server model",
+        "Real-time computing",
+        "Load balancing (computing)",
+        "Computer science",
+        "Distributed Computing Environment",
+        "Middleware"
+    ],
+    "references": [
+        "82776284",
+        "1510940979",
+        "1833356332"
+    ]
+}

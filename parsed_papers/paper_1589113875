@@ -1,0 +1,43 @@
+{
+    "id": "1589113875",
+    "title": "Distributed time slot assignment in wireless ad hoc networks for STDMA",
+    "venue": "international conference on distributed computing and internet technology",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Subhasis Bhattacharjee",
+            "id": "2111362791",
+            "org": "Advanced Computing and Microelectronics Unit, Indian Statistical Institute, Kolkata, India#TAB#"
+        },
+        {
+            "name": "Nabanita Das",
+            "id": "2138886977",
+            "org": "Advanced Computing and Microelectronics Unit, Indian Statistical Institute, Kolkata, India#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Wireless ad hoc network",
+        "Distributed computing",
+        "Computer network",
+        "Access time",
+        "Computer science",
+        "Wireless network",
+        "Upper and lower bounds",
+        "Time division multiple access",
+        "Mobile ad hoc network",
+        "The Internet"
+    ],
+    "references": [
+        "1523448599",
+        "1579264168",
+        "1601770119",
+        "1905972793",
+        "1986530072",
+        "2054943617",
+        "2063078918",
+        "2103182676",
+        "2106643974",
+        "2154189866",
+        "2156052217"
+    ]
+}

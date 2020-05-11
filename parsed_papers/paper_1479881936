@@ -1,0 +1,36 @@
+{
+    "id": "1479881936",
+    "title": "An Algorithm for Business Process Compliance",
+    "venue": "Knowledge and Information Systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Guido Governatori",
+            "id": "2108494256",
+            "org": "Queensland Research Laboratory"
+        },
+        {
+            "name": "Antonino Rotolo",
+            "id": "2024031949",
+            "org": "University of Bologna"
+        }
+    ],
+    "fields_of_study": [
+        "Business process",
+        "Business activity monitoring",
+        "Business process discovery",
+        "Business Process Model and Notation",
+        "Business process modeling",
+        "Artifact-centric business process model",
+        "Process management",
+        "Business process management",
+        "Computer science",
+        "Business rule"
+    ],
+    "references": [
+        "1500477099",
+        "1963594138",
+        "2094758254",
+        "2161558926"
+    ]
+}

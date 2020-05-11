@@ -1,0 +1,32 @@
+{
+    "id": "1775587472",
+    "title": "Sparse approximate solutions to semidefinite programs",
+    "venue": "latin american symposium on theoretical informatics",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Elad Hazan",
+            "id": "2139423477",
+            "org": "IBM Almaden Research Center, San Jose, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Sparse PCA",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Quantum tomography",
+        "Lanczos algorithm",
+        "Mathematical optimization",
+        "Matrix (mathematics)",
+        "Sparse approximation",
+        "Interior point method",
+        "Bounded function",
+        "Mathematics"
+    ],
+    "references": [
+        "1963753244",
+        "2126746199",
+        "2621075174"
+    ]
+}

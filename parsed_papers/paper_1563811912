@@ -1,0 +1,33 @@
+{
+    "id": "1563811912",
+    "title": "Software Tools for Partitioning Block-Structured Applications",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Jarmo Rantakokko",
+            "id": "1979419653",
+            "org": "Uppsala University"
+        }
+    ],
+    "fields_of_study": [
+        "Grid",
+        "Block (data storage)",
+        "Computational mathematics",
+        "Computational fluid dynamics",
+        "Theoretical computer science",
+        "Computational science",
+        "Software",
+        "Object-oriented programming",
+        "Object-oriented design",
+        "Fortran",
+        "Computer science"
+    ],
+    "references": [
+        "1527449967",
+        "1553159521",
+        "1816956843",
+        "1990059212",
+        "2118953734"
+    ]
+}

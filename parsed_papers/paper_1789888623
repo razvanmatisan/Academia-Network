@@ -1,0 +1,25 @@
+{
+    "id": "1789888623",
+    "title": "When ants play chess (Or can strategies emerge from tactical behaviours",
+    "venue": "European Workshop on Modelling Autonomous Agents in a Multi-Agent World",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Alexis Drogoul",
+            "id": "628156322",
+            "org": "Universite Paris VI"
+        }
+    ],
+    "fields_of_study": [
+        "Implementation",
+        "Ant colony",
+        "Management science",
+        "Underline",
+        "Global strategy",
+        "Artificial intelligence",
+        "Engineering"
+    ],
+    "references": [
+        "1535065744"
+    ]
+}

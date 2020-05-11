@@ -1,0 +1,33 @@
+{
+    "id": "1517450285",
+    "title": "Default Logic: Orderings and Extensions",
+    "venue": "european conference on symbolic and quantitative approaches to reasoning and uncertainty",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Mike Hopkins",
+            "id": "2556631360",
+            "org": "University of London"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Default rule",
+        "Artificial intelligence",
+        "Machine learning",
+        "Network theory",
+        "Substructural logic",
+        "Computer science",
+        "Multimodal logic",
+        "Default logic",
+        "Intermediate logic"
+    ],
+    "references": [
+        "157785659",
+        "1508780780",
+        "2020153579",
+        "2078926321",
+        "2155322595",
+        "2172835203"
+    ]
+}

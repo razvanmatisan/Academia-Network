@@ -1,0 +1,26 @@
+{
+    "id": "1502664810",
+    "title": "The Shrinking Generator: Some Practical Considerations",
+    "venue": "fast software encryption",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Hugo Krawczyk",
+            "id": "2025616804",
+            "org": "IBM T.J. Watson Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Pseudorandom generator",
+        "Shrinking generator",
+        "Real-time computing",
+        "Software",
+        "Linear feedback shift register",
+        "Stream cipher",
+        "Computer science"
+    ],
+    "references": [
+        "1531434127",
+        "2007643787"
+    ]
+}

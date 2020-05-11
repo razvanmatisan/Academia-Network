@@ -1,0 +1,43 @@
+{
+    "id": "105601597",
+    "title": "Security Considerations for Peer-to-Peer Distributed Hash Tables",
+    "venue": "international workshop on peer to peer systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Emil Sit",
+            "id": "2005445772",
+            "org": "MIT"
+        },
+        {
+            "name": "Robert Tappan Morris",
+            "id": "2112752255",
+            "org": "MIT"
+        }
+    ],
+    "fields_of_study": [
+        "Peer-to-peer",
+        "Hash table",
+        "Distributed computing",
+        "Design elements and principles",
+        "Complex system",
+        "Computer science",
+        "Complex system",
+        "Theoretical computer science",
+        "Hash function",
+        "Distributed hash table"
+    ],
+    "references": [
+        "1829786294",
+        "2110158792",
+        "2118428193",
+        "2123820820",
+        "2129437800",
+        "2143351500",
+        "2150676586",
+        "2158049821",
+        "2163059190",
+        "2163674653",
+        "2167898414"
+    ]
+}

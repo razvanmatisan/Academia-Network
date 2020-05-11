@@ -1,0 +1,40 @@
+{
+    "id": "1533496465",
+    "title": "Meeting Arbitrary QoS Constraints Using Dynamic Rate Shaping of Coded Digital Video",
+    "venue": "network and operating system support for digital audio and video",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Alexandros Eleftheriadis",
+            "id": "2174524918",
+            "org": "Columbia University"
+        },
+        {
+            "name": "Dimitris Anastassiou",
+            "id": "5434700",
+            "org": "Columbia University"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "Real-time computing",
+        "Video processing",
+        "Video compression picture types",
+        "Smacker video",
+        "Encoder",
+        "Video tracking",
+        "Video post-processing",
+        "Motion compensation",
+        "Computer science",
+        "Scalable Video Coding"
+    ],
+    "references": [
+        "1922106268",
+        "1980870627",
+        "1992091448",
+        "2090261415",
+        "2112501902",
+        "2115907784",
+        "2165308660"
+    ]
+}

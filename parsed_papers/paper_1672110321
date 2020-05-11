@@ -1,0 +1,41 @@
+{
+    "id": "1672110321",
+    "title": "Switchlets and dynamic virtual ATM networks",
+    "venue": "integrated network management",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "J.E. van der Merwe",
+            "id": "2167802397",
+            "org": "University of Cambridge"
+        },
+        {
+            "name": "Ian M. Leslie",
+            "id": "669272406",
+            "org": "University of Cambridge"
+        }
+    ],
+    "fields_of_study": [
+        "Change management",
+        "Computer network",
+        "Distributed computing",
+        "Asynchronous Transfer Mode",
+        "Proof of concept",
+        "Virtual network",
+        "ATM adaptation layer",
+        "Architecture",
+        "Computer science"
+    ],
+    "references": [
+        "1538922252",
+        "1541232524",
+        "1957448688",
+        "1992303730",
+        "2040393967",
+        "2073023151",
+        "2100792372",
+        "2104587741",
+        "2105555193",
+        "2110700336"
+    ]
+}

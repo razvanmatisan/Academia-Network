@@ -1,0 +1,32 @@
+{
+    "id": "1537895043",
+    "title": "A Compiler Generator for Attributive Evaluation During LR Parsing",
+    "venue": "compiler construction",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Jorma Tarhio",
+            "id": "1992248001",
+            "org": "University of Helsinki"
+        }
+    ],
+    "fields_of_study": [
+        "Programming language",
+        "Parsing",
+        "S-attributed grammar",
+        "Compiler correctness",
+        "LR parser",
+        "Computer science",
+        "Top-down parsing",
+        "Attribute grammar",
+        "Compiler",
+        "Top-down parsing language"
+    ],
+    "references": [
+        "45315167",
+        "1491178396",
+        "1594895836",
+        "1978887554",
+        "2096189014"
+    ]
+}

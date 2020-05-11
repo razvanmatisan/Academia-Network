@@ -1,0 +1,42 @@
+{
+    "id": "1609188174",
+    "title": "Optimizing working sets for training support vector regressors by Newton's method",
+    "venue": "international symposium on neural networks",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Shigeo Abe",
+            "id": "2130438778",
+            "org": "Kobe University, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Support vector machine",
+        "Mathematical optimization",
+        "Machine learning",
+        "Newton's method",
+        "Data set",
+        "Sequential minimal optimization",
+        "Pattern recognition",
+        "Working set size",
+        "Partial derivative",
+        "Artificial intelligence",
+        "Working set",
+        "Mathematics"
+    ],
+    "references": [
+        "12057658",
+        "139029958",
+        "1482684349",
+        "1503196035",
+        "1599252588",
+        "1971681701",
+        "2111380230",
+        "2113365487",
+        "2115694019",
+        "2128548806",
+        "2140586694",
+        "2151040995",
+        "2163584947"
+    ]
+}

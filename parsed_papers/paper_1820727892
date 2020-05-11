@@ -1,0 +1,47 @@
+{
+    "id": "1820727892",
+    "title": "Towards developing probabilistic generative models for reasoning with natural language representations",
+    "venue": "international conference on computational linguistics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Daniel Marcu",
+            "id": "1853234685",
+            "org": "Information Sciences Institute and Department of Computer Science, Marina del Rey, CA#TAB#"
+        },
+        {
+            "name": "Ana-Maria Popescu",
+            "id": "2617447355",
+            "org": "Department of Computer Science, University of Washington, Seattle, Washington#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Inference",
+        "Natural language",
+        "Generative grammar",
+        "Artificial intelligence",
+        "Machine translation",
+        "Probabilistic logic",
+        "First-order logic",
+        "Machine learning",
+        "Computer science",
+        "Semantic interpretation",
+        "Generative Design"
+    ],
+    "references": [
+        "1479669738",
+        "1520377376",
+        "2006969979",
+        "2028339364",
+        "2061271742",
+        "2062270497",
+        "2099247782",
+        "2116316001",
+        "2118686841",
+        "2119788759",
+        "2133182690",
+        "2161792612",
+        "2166210475"
+    ]
+}

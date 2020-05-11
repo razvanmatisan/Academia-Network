@@ -1,0 +1,32 @@
+{
+    "id": "1715833410",
+    "title": "Knowledge Acquisition from Text in a Complex Domain",
+    "venue": "industrial and engineering applications of artificial intelligence and expert systems",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Gabriele Schmidt",
+            "id": "2619602328",
+            "org": "German Research Center for Artificial Intelligence"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "IDEF3",
+        "Knowledge extraction",
+        "Domain knowledge",
+        "Knowledge engineering",
+        "Computer science",
+        "Body of knowledge",
+        "Knowledge-based systems",
+        "Knowledge acquisition",
+        "Open Knowledge Base Connectivity"
+    ],
+    "references": [
+        "1599068762",
+        "2022335546",
+        "2060254461",
+        "2070664878",
+        "2153136292"
+    ]
+}

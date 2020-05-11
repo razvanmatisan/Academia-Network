@@ -1,0 +1,38 @@
+{
+    "id": "1597031259",
+    "title": "An Experimental Study of the Ant Colony System for the Period Vehicle Routing Problem",
+    "venue": "ant colony optimization and swarm intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ana Matos",
+            "id": "2277846558",
+            "org": "Instituto Politecnico de Viseu"
+        },
+        {
+            "name": "Rui Carvalho Oliveira",
+            "id": "2149670745",
+            "org": "Instituto Superior Tecnico"
+        }
+    ],
+    "fields_of_study": [
+        "Ant colony",
+        "Waste collection",
+        "Swarm intelligence",
+        "Operations research",
+        "Vehicle routing problem",
+        "Formicoidea",
+        "Computer science"
+    ],
+    "references": [
+        "1498176410",
+        "1511952638",
+        "1975828823",
+        "1983945124",
+        "2003890550",
+        "2058569171",
+        "2107941094",
+        "2154929945",
+        "2164939228"
+    ]
+}

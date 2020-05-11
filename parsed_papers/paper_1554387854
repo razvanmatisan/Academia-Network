@@ -1,0 +1,33 @@
+{
+    "id": "1554387854",
+    "title": "The Grotzsch Theorem for the Hypergraph of Maximal Cliques",
+    "venue": "Electronic Journal of Combinatorics",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Bojan Mohar",
+            "id": "2110954754",
+            "org": "University of Ljubljana"
+        },
+        {
+            "name": "Riste Skrekovski",
+            "id": "2077449882",
+            "org": "University of Ljubljana"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Combinatorics",
+        "List coloring",
+        "Grotzsch's theorem",
+        "Clique",
+        "Planar graph",
+        "Hypergraph",
+        "Mathematics",
+        "Topology"
+    ],
+    "references": [
+        "2022408132",
+        "2083560794"
+    ]
+}

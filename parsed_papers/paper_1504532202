@@ -1,0 +1,37 @@
+{
+    "id": "1504532202",
+    "title": "High-Level Synthesis for Dynamically Reconfigurable Hardware/Software Systems",
+    "venue": "field programmable logic and applications",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Rainer Kress",
+            "id": "2166368917",
+            "org": "Siemens AG"
+        },
+        {
+            "name": "Andreas Pyttel",
+            "id": "2305992519",
+            "org": "Siemens AG"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Circuit design",
+        "Field-programmable gate array",
+        "Reconfigurable computing",
+        "Register-transfer level",
+        "Software system",
+        "Finite-state machine",
+        "High-level synthesis",
+        "Computer science",
+        "Computer Aided Design"
+    ],
+    "references": [
+        "1520243124",
+        "1725586073",
+        "2113729567",
+        "2131701041",
+        "2134963129"
+    ]
+}

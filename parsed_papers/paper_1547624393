@@ -1,0 +1,48 @@
+{
+    "id": "1547624393",
+    "title": "Local map design and task function planning for mobile robots",
+    "venue": "intelligent robots and systems",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "I. Collin",
+            "id": "2581277914",
+            "org": "CNRS, Compiegne, France"
+        },
+        {
+            "name": "D. Meizel",
+            "id": "2648291620",
+            "org": "CNRS, Compiegne, France"
+        },
+        {
+            "name": "N. Le Fort",
+            "id": "2097852624",
+            "org": "CNRS, Compiegne, France"
+        },
+        {
+            "name": "G. Govaert",
+            "id": "2627901152",
+            "org": "CNRS, Compiegne, France"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Mobile robot",
+        "Computer vision",
+        "Control engineering",
+        "Solid modeling",
+        "Motion planning",
+        "Robustness (computer science)",
+        "Robot",
+        "Compromise",
+        "Data analysis",
+        "Computer science",
+        "Robotics"
+    ],
+    "references": [
+        "2144619114",
+        "2151612500",
+        "2163295544",
+        "2167866139"
+    ]
+}

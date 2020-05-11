@@ -1,0 +1,39 @@
+{
+    "id": "1511620306",
+    "title": "Some properties of ciliate bio-operations",
+    "venue": "developments in language theory",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Mark Daley",
+            "id": "2332499972",
+            "org": "Department of Computer Science, University of Western Ontario, London, ON, Canada#TAB#"
+        },
+        {
+            "name": "Lila Kari",
+            "id": "2035724114",
+            "org": "Department of Computer Science, University of Western Ontario, London, ON, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Of the form",
+        "Combinatorics",
+        "Decidability",
+        "Regular language",
+        "A-DNA",
+        "Closure (mathematics)",
+        "Closure operator",
+        "Formal grammar",
+        "Mathematics",
+        "Language equation"
+    ],
+    "references": [
+        "1537087449",
+        "1598893221",
+        "2056385879",
+        "2066725205",
+        "2068060515",
+        "2075622371"
+    ]
+}

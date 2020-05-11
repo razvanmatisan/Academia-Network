@@ -1,0 +1,28 @@
+{
+    "id": "1719999602",
+    "title": "Ontology based standardization of Petri net modeling for signaling pathways.",
+    "venue": "in Silico Biology",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Takako Takai-Igarashi",
+            "id": "2134475196",
+            "org": "University of Tokyo"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge representation and reasoning",
+        "Process architecture",
+        "Petri net",
+        "Standardization",
+        "Semantics",
+        "Ontology",
+        "Reusability",
+        "Theoretical computer science",
+        "Computer science"
+    ],
+    "references": [
+        "1497682552",
+        "1573621493"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1559983422",
+    "title": "AN ECONOMIC ANALYSIS OF THE SOFTWARE MARKET WITH A RISK-SHARING CONTRACT",
+    "venue": "international conference on information systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Byungcho Kim",
+            "id": "2797378001",
+            "org": "Carnegie Mellon University"
+        },
+        {
+            "name": "Pei-Yu Sharon Chen",
+            "id": "2628567627",
+            "org": "Carnegie Mellon University"
+        },
+        {
+            "name": "Tridas Mukhopadhyay",
+            "id": "2105501499",
+            "org": "Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Software deployment",
+        "Marketing",
+        "Software quality control",
+        "Software development",
+        "Software quality",
+        "Software quality analyst",
+        "Software quality management",
+        "Social software engineering",
+        "Software security assurance",
+        "Economics"
+    ],
+    "references": [
+        "1501321335"
+    ]
+}

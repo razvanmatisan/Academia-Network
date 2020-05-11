@@ -1,0 +1,35 @@
+{
+    "id": "1500852505",
+    "title": "New concepts for earth observation data catalogues",
+    "venue": "european signal processing conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Mihai Datcu",
+            "id": "2283139614",
+            "org": "German Aerospace Center-DLR Oberpfaffenhofen Germany"
+        },
+        {
+            "name": "Alain Giros",
+            "id": "2031399940",
+            "org": "CNES Toulouse France"
+        }
+    ],
+    "fields_of_study": [
+        "Earth observation",
+        "Information retrieval",
+        "Semantics",
+        "Information access",
+        "Data acquisition",
+        "Interactive Learning",
+        "restrict",
+        "Data mining",
+        "Architecture",
+        "Dissemination",
+        "Computer science"
+    ],
+    "references": [
+        "1561522521",
+        "1714215692"
+    ]
+}

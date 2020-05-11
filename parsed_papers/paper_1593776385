@@ -1,0 +1,33 @@
+{
+    "id": "1593776385",
+    "title": "PERA and GERAM - Enterprise Reference Architectures in Enterprise Integration",
+    "venue": "DIISM '98 Proceedings of the IFIP TC5 WG5.3/5.7 Third International Working Conference on the Design of Information Infrastructure Systems for Manufacturing II",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Theodore J. Williams",
+            "id": "2117696855",
+            "org": "Purdue University"
+        },
+        {
+            "name": "Hong Li",
+            "id": "2710261731",
+            "org": "Senior Consultant, Claremont Technology Group, Inc."
+        }
+    ],
+    "fields_of_study": [
+        "NIST Enterprise Architecture Model",
+        "Reference architecture",
+        "Enterprise integration",
+        "Enterprise architecture framework",
+        "Purdue Enterprise Reference Architecture",
+        "Solution architecture",
+        "Software engineering",
+        "Functional software architecture",
+        "View model",
+        "Computer science"
+    ],
+    "references": [
+        "2010277039"
+    ]
+}

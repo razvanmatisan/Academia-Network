@@ -1,0 +1,39 @@
+{
+    "id": "1608193680",
+    "title": "Optimal Support Vector Machine Based Short-Term Load Forecasting Model with Input Variables and Samples Selection",
+    "venue": "international conference on intelligent computing",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Wei Sun",
+            "id": "2712833282",
+            "org": "Department of Economics & Management, North China Electric Power University, Baoding, Hebei, 071003"
+        },
+        {
+            "name": "Yujun He",
+            "id": "2669434337",
+            "org": "Department of Electronic and Communication Engineering, North China Electric Power University, Baoding, Hebei, 071003"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Support vector machine",
+        "Artificial intelligence",
+        "Effective method",
+        "Convergence (routing)",
+        "Pattern recognition",
+        "Quadratic programming",
+        "Preprocessor",
+        "Particle swarm optimization",
+        "Euclidean distance",
+        "Computer science",
+        "Rough set"
+    ],
+    "references": [
+        "162191601",
+        "1663792126",
+        "2034998024",
+        "2059328003",
+        "2123737232"
+    ]
+}

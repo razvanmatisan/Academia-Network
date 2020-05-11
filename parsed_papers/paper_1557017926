@@ -1,0 +1,34 @@
+{
+    "id": "1557017926",
+    "title": "Automated Testing of XML/SOAP Based Web Services",
+    "venue": "kommunikation in verteilten systemen",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Ina Schieferdecker",
+            "id": "2711608929",
+            "org": "University of Ottawa"
+        },
+        {
+            "name": "Bernard Stepien",
+            "id": "1869091077",
+            "org": "FOKUS"
+        }
+    ],
+    "fields_of_study": [
+        "XML Protocol",
+        "Streaming XML",
+        "SOAP",
+        "Computer science",
+        "World Wide Web",
+        "Database",
+        "XML validation",
+        "XML Schema Editor",
+        "XML framework",
+        "XML Base",
+        "Efficient XML Interchange"
+    ],
+    "references": [
+        "1778668034"
+    ]
+}

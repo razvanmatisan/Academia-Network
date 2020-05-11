@@ -1,0 +1,35 @@
+{
+    "id": "1604329830",
+    "title": "An Empirical Comparison of Pruning Methods for Decision Tree Induction",
+    "venue": "Machine Learning",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "John Mingers",
+            "id": "1991719720",
+            "org": "School of Industrial and Business Studies, University of Warwick, Coventry CV4 7AL, England. BSRCD@CU.WARWICK.AC.UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern recognition",
+        "Mathematics",
+        "Decision tree model",
+        "Machine learning",
+        "Principal variation search",
+        "Alternating decision tree",
+        "Artificial intelligence",
+        "Binary tree",
+        "ID3 algorithm",
+        "Decision tree learning",
+        "Incremental decision tree",
+        "Pruning (decision trees)"
+    ],
+    "references": [
+        "78121749",
+        "177590838",
+        "1999011285",
+        "2006864328",
+        "2128420091",
+        "2149706766"
+    ]
+}

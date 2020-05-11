@@ -1,0 +1,42 @@
+{
+    "id": "1522446070",
+    "title": "Memory based meta-level reasoning for interactive knowledge capture",
+    "venue": "national conference on artificial intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jihie Kim",
+            "id": "2177100643",
+            "org": "University of Southern California|Information Sciences Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Knowledge engineering",
+        "Domain knowledge",
+        "Procedural knowledge",
+        "Management science",
+        "Artificial intelligence",
+        "Body of knowledge",
+        "Knowledge-based systems",
+        "Knowledge acquisition",
+        "Personal knowledge management",
+        "Computer science",
+        "Knowledge management",
+        "Open Knowledge Base Connectivity"
+    ],
+    "references": [
+        "1526930247",
+        "1529937736",
+        "1552124635",
+        "1702886609",
+        "2041289621",
+        "2067948212",
+        "2070053377",
+        "2133999127",
+        "2140138473",
+        "2140595326",
+        "2149333125",
+        "2151932680"
+    ]
+}

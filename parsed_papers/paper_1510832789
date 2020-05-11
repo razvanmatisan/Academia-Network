@@ -1,0 +1,38 @@
+{
+    "id": "1510832789",
+    "title": "A Soft Real Time Scheduling Server in UNIX Operating System",
+    "venue": "distributed multimedia systems",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Hao-Hua Chu",
+            "id": "2117167842",
+            "org": "University of Illinois at Urbana Champaign"
+        },
+        {
+            "name": "Klara Nahrstedt",
+            "id": "159144305",
+            "org": "University of Illinois at Urbana Champaign"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Distributed computing",
+        "Client-server model",
+        "Scheduling (computing)",
+        "Server farm",
+        "Application server",
+        "Unix security",
+        "Daemon",
+        "AppleShare",
+        "Real-time computing",
+        "Unix architecture",
+        "Operating system"
+    ],
+    "references": [
+        "1657203581",
+        "2108335747",
+        "2109943812",
+        "2146398836"
+    ]
+}

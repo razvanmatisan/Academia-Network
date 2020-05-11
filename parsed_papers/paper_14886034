@@ -1,0 +1,43 @@
+{
+    "id": "14886034",
+    "title": "Multi-unit auctions with a stochastic number of asymmetric bidders",
+    "venue": "european conference on artificial intelligence",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Ioannis A. Vetsikas",
+            "id": "2267641573",
+            "org": "IIT, NCSR Demokritos, Greece#TAB#"
+        },
+        {
+            "name": "Sebastian Stein",
+            "id": "2100829044",
+            "org": "ECS, University of Southampton, UK#TAB#"
+        },
+        {
+            "name": "Nicholas R. Jennings",
+            "id": "2112978975",
+            "org": "ECS, University of Southampton, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Common value auction",
+        "Mathematical optimization",
+        "Computer science",
+        "Grid",
+        "Valuation (finance)",
+        "Mechanism design",
+        "Bidding",
+        "Intelligent agent",
+        "Cloud computing"
+    ],
+    "references": [
+        "1588863163",
+        "1977367431",
+        "2096205894",
+        "2103238699",
+        "2104140093",
+        "2104269165",
+        "2133848151"
+    ]
+}

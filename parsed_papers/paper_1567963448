@@ -1,0 +1,35 @@
+{
+    "id": "1567963448",
+    "title": "Semantic Models for Total Correctness and Fairness",
+    "venue": "international conference on mathematical foundations of programming semantics",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Michael G. Main",
+            "id": "2080741611",
+            "org": "University of Colorado"
+        },
+        {
+            "name": "David L. Black",
+            "id": "2574093908",
+            "org": "University of Colorado"
+        }
+    ],
+    "fields_of_study": [
+        "Correctness",
+        "Semantic data model",
+        "Boolean algebra",
+        "Nondeterministic algorithm",
+        "Algebraic number",
+        "Theoretical computer science",
+        "Godel's completeness theorem",
+        "Mathematics"
+    ],
+    "references": [
+        "1490966766",
+        "2014552079",
+        "2023733203",
+        "2066210260",
+        "2090925938"
+    ]
+}

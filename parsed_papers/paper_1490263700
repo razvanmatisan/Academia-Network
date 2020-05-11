@@ -1,0 +1,36 @@
+{
+    "id": "1490263700",
+    "title": "Enterprise Mobile Services: Framework and Industry-Specific Analysis",
+    "venue": "americas conference on information systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Radhika Jain",
+            "id": "2137523822",
+            "org": "Association for Information Systems"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Management science",
+        "Mobile QoS",
+        "Mobile business development",
+        "Public land mobile network",
+        "Mobile Web",
+        "Mobile payment",
+        "Intelligent Network",
+        "Mobile service",
+        "Mobile computing"
+    ],
+    "references": [
+        "1507412227",
+        "1561863044",
+        "1566248475",
+        "1890529398",
+        "1979081527",
+        "2143157063",
+        "2154016593",
+        "2167436969",
+        "2546199650"
+    ]
+}

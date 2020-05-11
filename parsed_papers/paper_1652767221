@@ -1,0 +1,36 @@
+{
+    "id": "1652767221",
+    "title": "Language Support for Optional Functionality",
+    "venue": "arXiv: Programming Languages",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Joy Mukherjee",
+            "id": "1968603993",
+            "org": "Dept . of Computer Science|Virginia Tech"
+        },
+        {
+            "name": "Srinidhi Varadarajan",
+            "id": "2128824765",
+            "org": "Dept . of Computer Science|Virginia Tech"
+        }
+    ],
+    "fields_of_study": [
+        "Usability",
+        "Programming language",
+        "Subroutine",
+        "Computer science",
+        "Personalization",
+        "Source lines of code",
+        "Syntax",
+        "Procedural programming",
+        "Unix"
+    ],
+    "references": [
+        "1541093386",
+        "1950123153",
+        "2040015657",
+        "2047401676",
+        "2083803628"
+    ]
+}

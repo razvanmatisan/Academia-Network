@@ -1,0 +1,38 @@
+{
+    "id": "111442320",
+    "title": "Reasoning over 2d and 3d directional relations in OWL: a rule-based approach",
+    "venue": "rules and rule markup languages for the semantic web",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Sotiris Batsakis",
+            "id": "1732287367",
+            "org": "Department of Electronic and Computer Engineering, Technical University of Crete (TUC), Chania, Greece#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Horn clause",
+        "Data mining",
+        "Computer science",
+        "Semantics",
+        "Semantic Web",
+        "Knowledge representation and reasoning",
+        "Spatial analysis",
+        "Rule-based system",
+        "Machine learning",
+        "Spatial relation",
+        "Theoretical computer science",
+        "Ontology (information science)",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "57650934",
+        "117280303",
+        "158439594",
+        "1585469764",
+        "1591758264",
+        "1597095978",
+        "2005560459",
+        "2399166258"
+    ]
+}

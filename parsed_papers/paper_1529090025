@@ -1,0 +1,44 @@
+{
+    "id": "1529090025",
+    "title": "Query-Driven Horizontal Class Partitioning for Object-Oriented Databases",
+    "venue": "database and expert systems applications",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Ladjel Bellatreche",
+            "id": "158375695",
+            "org": "University of Science and Technology Clear Water Bay Kowloon"
+        },
+        {
+            "name": "Kamalakar Karlapalem",
+            "id": "2780599573",
+            "org": "University of Science and Technology Clear Water Bay Kowloon"
+        },
+        {
+            "name": "Gopal K. Basak",
+            "id": "2554508009",
+            "org": "University of Science and Technology Clear Water Bay Kowloon"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Data mining",
+        "Distributed database",
+        "Brute-force search",
+        "Computer science",
+        "Data access",
+        "Distributed computing",
+        "Theoretical computer science",
+        "Fragmentation (computing)",
+        "Object-oriented programming",
+        "Database design",
+        "Heuristics"
+    ],
+    "references": [
+        "1497281417",
+        "1534954334",
+        "1982525351",
+        "2067279580",
+        "2155166680"
+    ]
+}

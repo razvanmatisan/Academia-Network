@@ -1,0 +1,48 @@
+{
+    "id": "111439420",
+    "title": "Key Message Approach to Optimize Communication of Parallel Applications on Clusters",
+    "venue": "Cluster Computing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Ming Zhu",
+            "id": "2111641730",
+            "org": "Parallel and Distributed Computing Center, School of Computer Engineering, Nanyang Technological University, Singapore 639798#TAB#"
+        },
+        {
+            "name": "Wentong Cai",
+            "id": "2660550282",
+            "org": "Parallel and Distributed Computing Center, School of Computer Engineering, Nanyang Technological University, Singapore 639798#TAB#"
+        },
+        {
+            "name": "Bu-Sung Lee",
+            "id": "2799126673",
+            "org": "Parallel and Distributed Computing Center, School of Computer Engineering, Nanyang Technological University, Singapore 639798#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithmic skeleton",
+        "Embarrassingly parallel",
+        "Distributed computing",
+        "Parallel computing",
+        "Parallel algorithm",
+        "Data-intensive computing",
+        "Massively parallel",
+        "Computer science",
+        "Parallel programming model",
+        "Cost efficiency",
+        "Computer cluster"
+    ],
+    "references": [
+        "1489252188",
+        "1841377105",
+        "1902579526",
+        "1980099188",
+        "2025348113",
+        "2050817148",
+        "2065101252",
+        "2079632848",
+        "2095793442",
+        "2130716520"
+    ]
+}

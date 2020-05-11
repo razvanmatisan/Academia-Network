@@ -1,0 +1,42 @@
+{
+    "id": "1491873702",
+    "title": "Describing and Generating Web-Based Affective Human-Agent Interaction",
+    "venue": "international conference on knowledge based and intelligent information and engineering systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Xia Mao",
+            "id": "2633409009",
+            "org": "Beihang University, Beijing, P.R. China 100083#TAB#"
+        },
+        {
+            "name": "Zheng Li",
+            "id": "2702905702",
+            "org": "Beihang University, Beijing, P.R. China 100083#TAB#"
+        },
+        {
+            "name": "Haiyan Bao",
+            "id": "2233834285",
+            "org": "Beihang University, Beijing, P.R. China 100083#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Emotion recognition",
+        "Markup language",
+        "Web intelligence",
+        "Natural language processing",
+        "Facial expression",
+        "Control theory",
+        "Web application",
+        "Affect (psychology)",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "14473696",
+        "177343695",
+        "2065320640",
+        "2114486541",
+        "2156897926"
+    ]
+}

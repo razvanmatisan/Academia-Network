@@ -1,0 +1,36 @@
+{
+    "id": "1562456807",
+    "title": "Lexical categorization: fitting template grammars by incremental MDL optimization",
+    "venue": "international colloquium on grammatical inference",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Michael R. Brent",
+            "id": "2707101928",
+            "org": "Department of Cognitive Science, Johns Hopkins University, Baltimore, USA"
+        },
+        {
+            "name": "Timothy A. Cartwright",
+            "id": "2101566135",
+            "org": "Department of Cognitive Science, Johns Hopkins University, Baltimore, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Computer science",
+        "Natural language processing",
+        "Categorization",
+        "Minimum description length",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Lexical item",
+        "Rule-based machine translation"
+    ],
+    "references": [
+        "1533169541",
+        "1575798196",
+        "1638203394",
+        "1983661866",
+        "2110485445"
+    ]
+}

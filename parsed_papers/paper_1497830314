@@ -1,0 +1,31 @@
+{
+    "id": "1497830314",
+    "title": "The Semantics of Priority and Fairness in occam",
+    "venue": "international conference on mathematical foundations of programming semantics",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Geoff Barrett",
+            "id": "2311389942",
+            "org": "Oxford University Computing Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Transputer",
+        "Communicating sequential processes",
+        "Semantics of logic",
+        "occam",
+        "Denotational semantics",
+        "Programming language",
+        "Theoretical computer science",
+        "Programmer",
+        "Operational semantics",
+        "Computer science"
+    ],
+    "references": [
+        "2058530699",
+        "2098083416",
+        "2107100996"
+    ]
+}

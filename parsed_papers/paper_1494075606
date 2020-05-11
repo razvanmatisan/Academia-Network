@@ -1,0 +1,32 @@
+{
+    "id": "1494075606",
+    "title": "On bicontinuous bisimulation and the preservation of stability",
+    "venue": "international conference on hybrid systems computation and control",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Pieter J. L. Cuijpers",
+            "id": "1972212382",
+            "org": "Technische Universiteit Eindhoven, Department of Mathematics and Computer, Eindhoven, Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Robustness (computer science)",
+        "Hybrid system",
+        "Dynamical system",
+        "Operator (computer programming)",
+        "Reachability",
+        "Distributed computing",
+        "Bisimulation",
+        "Computer science",
+        "Temporal logic"
+    ],
+    "references": [
+        "1506101803",
+        "1518554370",
+        "1533439550",
+        "2044667269",
+        "2091316349"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "1769071748",
+    "title": "Precision and Recall in Interactive Case-Based Reasoning",
+    "venue": "international conference on case based reasoning",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "David McSherry",
+            "id": "2169867232",
+            "org": "University of Ulster"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Precision and recall",
+        "Data mining",
+        "Computer science",
+        "Tree (data structure)",
+        "Upper and lower bounds",
+        "Average path length",
+        "Case-based reasoning"
+    ],
+    "references": [
+        "140290188",
+        "1533087746",
+        "1576822872",
+        "1582615449",
+        "1824113332",
+        "2149706766"
+    ]
+}

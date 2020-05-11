@@ -1,0 +1,44 @@
+{
+    "id": "1026484556",
+    "title": "A View Based Approach for Enhancing Web Services Availability",
+    "venue": "Soft Computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Hela Limam",
+            "id": "1974440310",
+            "org": "Institut Superieur de Gestion"
+        },
+        {
+            "name": "Jalel Akaichi",
+            "id": "2250443446",
+            "org": "Institut Superieur de Gestion"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Management science",
+        "Web service",
+        "Theoretical computer science",
+        "Services computing",
+        "Information space",
+        "Health care",
+        "World Wide Web",
+        "Government",
+        "The Internet",
+        "WS-Policy"
+    ],
+    "references": [
+        "1488556964",
+        "1518754760",
+        "1702405295",
+        "2018957348",
+        "2037064850",
+        "2073824505",
+        "2096996519",
+        "2104970573",
+        "2116476518",
+        "2129481640",
+        "2138879728"
+    ]
+}

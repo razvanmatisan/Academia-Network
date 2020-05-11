@@ -1,0 +1,38 @@
+{
+    "id": "1513082872",
+    "title": "A Framework for Ontology Evaluation.",
+    "venue": "international conference on conceptual structures",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Muhammad Fahad",
+            "id": "1907688285",
+            "org": "Center|Jinnah University"
+        },
+        {
+            "name": "Muhammad Abdul Qadir",
+            "id": "2427813070",
+            "org": "Center|Jinnah University"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Ontology-based data integration",
+        "Mathematical optimization",
+        "Process ontology",
+        "Suggested Upper Merged Ontology",
+        "Ontology merging",
+        "Ontology (information science)",
+        "Ontology components",
+        "Upper ontology",
+        "Computer science",
+        "Ontology Inference Layer"
+    ],
+    "references": [
+        "1543184285",
+        "1563421732",
+        "1606238867",
+        "2049326357",
+        "2100652804"
+    ]
+}

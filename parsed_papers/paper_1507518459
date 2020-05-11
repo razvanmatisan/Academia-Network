@@ -1,0 +1,53 @@
+{
+    "id": "1507518459",
+    "title": "M + -tree: a new dynamical multidimensional index for metric spaces",
+    "venue": "australasian database conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Xiangmin Zhou",
+            "id": "2776522888",
+            "org": "Northeastern University, Shenyang, China#TAB#"
+        },
+        {
+            "name": "Guoren Wang",
+            "id": "2166985210",
+            "org": "Northeastern University, Shenyang, China#TAB#"
+        },
+        {
+            "name": "Jeffrey Xu Yu",
+            "id": "2119358208",
+            "org": "The Chinese University of Hong Kong, Hong Kong, China#TAB#"
+        },
+        {
+            "name": "Ge Yu",
+            "id": "2168806630",
+            "org": "Northeastern University, Shenyang, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ball tree",
+        "Data mining",
+        "Metric space",
+        "Cover tree",
+        "Database",
+        "Nearest neighbor search",
+        "M-tree",
+        "Metric tree",
+        "BK tree",
+        "Computer science",
+        "Vantage-point tree"
+    ],
+    "references": [
+        "1579895739",
+        "1971927246",
+        "2000830496",
+        "2049644877",
+        "2142200612",
+        "2145725688",
+        "2151135734",
+        "2155776210",
+        "2157092487",
+        "2238624099"
+    ]
+}

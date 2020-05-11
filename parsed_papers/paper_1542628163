@@ -1,0 +1,33 @@
+{
+    "id": "1542628163",
+    "title": "Evaluating multiagent systems: a record/replay approach",
+    "venue": "ieee wic acm international conference on intelligent agent technology",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Marc-Philippe Huget",
+            "id": "2777044853",
+            "org": "Leibniz-IMAG/MAGMA, Grenoble, France"
+        },
+        {
+            "name": "Yves Demazeau",
+            "id": "1997051684",
+            "org": "Leibniz-IMAG/MAGMA, Grenoble, France"
+        }
+    ],
+    "fields_of_study": [
+        "Model checking",
+        "Multi-agent system",
+        "Combinatorial explosion",
+        "Distributed computing",
+        "Computer science",
+        "User requirements document"
+    ],
+    "references": [
+        "1772172785",
+        "1825341937",
+        "1988152355",
+        "2046135868",
+        "2340735175"
+    ]
+}

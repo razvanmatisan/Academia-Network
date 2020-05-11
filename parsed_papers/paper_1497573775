@@ -1,0 +1,36 @@
+{
+    "id": "1497573775",
+    "title": "A Semantics and Proof System for Communicating Processes",
+    "venue": "Proceedings of the Carnegie Mellon Workshop on Logic of Programs",
+    "year": 1983,
+    "authors": [
+        {
+            "name": "Stephen D. Brookes",
+            "id": "2115786145",
+            "org": "Carnegie-Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Denotational semantics",
+        "Communicating sequential processes",
+        "Formal semantics (linguistics)",
+        "Action semantics",
+        "Operational semantics",
+        "Computational semantics",
+        "Type erasure",
+        "Theoretical computer science",
+        "Well-founded semantics",
+        "Computer science"
+    ],
+    "references": [
+        "1547409410",
+        "1547500728",
+        "1975586790",
+        "1984831616",
+        "2035688359",
+        "2102097307",
+        "2110425399",
+        "2137865376",
+        "2140919105"
+    ]
+}

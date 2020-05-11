@@ -1,0 +1,31 @@
+{
+    "id": "1543033881",
+    "title": "An Application of a Fast Data Encryption Standard Implementation",
+    "venue": "Computing Systems",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Matt Bishop",
+            "id": "2195620147",
+            "org": "Dartmouth College|NASA Ames Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "S/KEY",
+        "Real-time computing",
+        "Distributed computing",
+        "Client-side encryption",
+        "Microsoft Office password protection",
+        "56-bit encryption",
+        "Disk encryption hardware",
+        "On-the-fly encryption",
+        "Theoretical computer science",
+        "40-bit encryption",
+        "Password strength",
+        "Computer science"
+    ],
+    "references": [
+        "1811643413",
+        "2149929743"
+    ]
+}

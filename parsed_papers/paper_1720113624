@@ -1,0 +1,38 @@
+{
+    "id": "1720113624",
+    "title": "Rank-based quality assessment of nonlinear dimensionality reduction",
+    "venue": "the european symposium on artificial neural networks",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "John Aldo Lee",
+            "id": "2152966300",
+            "org": "Universite catholique de Louvain"
+        },
+        {
+            "name": "Michel Verleysen",
+            "id": "2275403261",
+            "org": "Universite catholique de Louvain"
+        }
+    ],
+    "fields_of_study": [
+        "Clustering high-dimensional data",
+        "Artificial intelligence",
+        "Nonlinear dimensionality reduction",
+        "Pattern recognition",
+        "Machine learning",
+        "Data set",
+        "Diagram",
+        "Computer science",
+        "Matrix (mathematics)",
+        "Analogy",
+        "Ranking"
+    ],
+    "references": [
+        "1483072991",
+        "2102664288",
+        "2125134203",
+        "2140095548",
+        "2169507824"
+    ]
+}

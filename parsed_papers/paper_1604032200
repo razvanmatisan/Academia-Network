@@ -1,0 +1,43 @@
+{
+    "id": "1604032200",
+    "title": "Proof Pattern Search in Coq/SSReflect.",
+    "venue": "arXiv: Logic in Computer Science",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Jonathan Heras",
+            "id": "2100168158",
+            "org": "University of Dundee"
+        },
+        {
+            "name": "Ekaterina Komendantskaya",
+            "id": "2281681444",
+            "org": "University of Dundee"
+        }
+    ],
+    "fields_of_study": [
+        "Proof complexity",
+        "Cluster analysis",
+        "Discrete mathematics",
+        "Mathematical proof",
+        "Algorithm",
+        "Pattern search",
+        "Mathematics",
+        "Lemma (mathematics)",
+        "Direct proof",
+        "Proof assistant"
+    ],
+    "references": [
+        "62264973",
+        "1486558830",
+        "1517818229",
+        "1549265610",
+        "1556128154",
+        "1581378641",
+        "1663973292",
+        "1986402635",
+        "2071091648",
+        "2133889836",
+        "2133990480"
+    ]
+}

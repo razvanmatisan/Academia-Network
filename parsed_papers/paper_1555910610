@@ -1,0 +1,40 @@
+{
+    "id": "1555910610",
+    "title": "On the Semantics of Inheritance in Logic Programming: Compositionality and Full Abstraction",
+    "venue": "international workshop on extensions of logic programming",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Michele Bugliesi",
+            "id": "305749578",
+            "org": "University of Padova"
+        }
+    ],
+    "fields_of_study": [
+        "Horn clause",
+        "Principle of compositionality",
+        "Dynamic logic (modal logic)",
+        "Multimodal logic",
+        "Axiomatic semantics",
+        "Programming language",
+        "Predicate functor logic",
+        "Higher-order logic",
+        "Well-founded semantics",
+        "Computer science"
+    ],
+    "references": [
+        "14675395",
+        "39560635",
+        "134413179",
+        "178958631",
+        "192170012",
+        "1479815973",
+        "1512016031",
+        "1533846661",
+        "1652042804",
+        "1992497607",
+        "2006574118",
+        "2052436826",
+        "2092054572"
+    ]
+}

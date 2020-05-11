@@ -1,0 +1,38 @@
+{
+    "id": "1799904660",
+    "title": "The Extended Linear Complementary Problem and the Modeling and Analysis of Hybrid Systems",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Bart De Schutter",
+            "id": "2311181789",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Bart De Moor",
+            "id": "2128935492",
+            "org": "K.U.Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "Numerical linear algebra",
+        "Linear complementarity problem",
+        "Discrete mathematics",
+        "Hybrid system",
+        "Artificial neural network",
+        "Sequential quadratic programming",
+        "Mathematical optimization",
+        "Nonlinear system",
+        "Queue",
+        "Mathematics",
+        "Control system"
+    ],
+    "references": [
+        "1972814321",
+        "2000151369",
+        "2063320018",
+        "2166837757",
+        "2521066730"
+    ]
+}

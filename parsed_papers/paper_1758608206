@@ -1,0 +1,39 @@
+{
+    "id": "1758608206",
+    "title": "A nonlinear normalization method for handprinted kanji character recognition-line density equalization",
+    "venue": "international conference on pattern recognition",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Hiromitsu Yamada",
+            "id": "2151432858",
+            "org": "Div. of Inf. Sci., Electrotech. Lab., Ibaraki, Japan"
+        },
+        {
+            "name": "Kazuhiko Yamamoto",
+            "id": "2581879581",
+            "org": "Div. of Inf. Sci., Electrotech. Lab., Ibaraki, Japan"
+        },
+        {
+            "name": "Taiichi Saito",
+            "id": "2683153039",
+            "org": "Div. of Inf. Sci., Electrotech. Lab., Ibaraki, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Normalization (statistics)",
+        "Artificial intelligence",
+        "Sampling (statistics)",
+        "Equalization (audio)",
+        "Kanji",
+        "Pattern recognition",
+        "Nonlinear system",
+        "Resampling",
+        "Mathematics"
+    ],
+    "references": [
+        "2010966430",
+        "2038658268",
+        "2072405256"
+    ]
+}

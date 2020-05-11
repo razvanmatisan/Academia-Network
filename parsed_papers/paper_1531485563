@@ -1,0 +1,45 @@
+{
+    "id": "1531485563",
+    "title": "Probing Based Topology Inference for Large Scale Community Networks",
+    "venue": "asia pacific network operations and management symposium",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Marat Zhanikeev",
+            "id": "2595401",
+            "org": "School of International Liberal Studies, Waseda University, Tokyo, Japan 169-0051#TAB#"
+        },
+        {
+            "name": "Yoshiaki Tanaka",
+            "id": "2108536933",
+            "org": "Global Information and Telecommunication Institute, Waseda University, Tokyo, Japan 169-0051 and Research Institute for Science and Engineering, Waseda University, Tokyo, Japan 162-0044#TAB#"
+        },
+        {
+            "name": "Tomohiko Ogishi",
+            "id": "2764102803",
+            "org": "KDDI R&D Laboratories, Saitama, Japan 356-8502#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Inference",
+        "Computer network",
+        "End-to-end delay",
+        "Initial topology",
+        "Wireless ad hoc network",
+        "Overlay network",
+        "Hierarchical network model",
+        "Logical topology",
+        "Computer science",
+        "Theoretical computer science",
+        "Network topology",
+        "Topology"
+    ],
+    "references": [
+        "1504690035",
+        "2106047794",
+        "2132051999",
+        "2141934596",
+        "2168596445"
+    ]
+}

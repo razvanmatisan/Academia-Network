@@ -1,0 +1,40 @@
+{
+    "id": "1590625845",
+    "title": "Instruction-Level Parallelism for Reconfigurable Computing",
+    "venue": "field programmable logic and applications",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Timothy J. Callahan",
+            "id": "2096591487",
+            "org": "University of California at Berkeley"
+        },
+        {
+            "name": "John Wawrzynek",
+            "id": "212858106",
+            "org": "University of California at Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Exploit",
+        "Parallel computing",
+        "Real-time computing",
+        "Field-programmable gate array",
+        "Very long instruction word",
+        "Basic block",
+        "Reconfigurable computing",
+        "Instruction-level parallelism",
+        "Computer science",
+        "Compiler",
+        "Computer architecture",
+        "Coprocessor"
+    ],
+    "references": [
+        "2046741069",
+        "2116299797",
+        "2137081678",
+        "2152537396",
+        "2163488221",
+        "2165099691"
+    ]
+}

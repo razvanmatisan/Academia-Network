@@ -1,0 +1,46 @@
+{
+    "id": "1597823028",
+    "title": "Multiple User Interfaces: Towards a Task-Driven and Patterns-Oriented Design Model",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Ahmed Seffah",
+            "id": "1993444766",
+            "org": "Concordia University"
+        },
+        {
+            "name": "Peter Forbrig",
+            "id": "100654205",
+            "org": "University of Rostock"
+        }
+    ],
+    "fields_of_study": [
+        "User interface design",
+        "Mobile phone",
+        "User experience design",
+        "Usability",
+        "User Interface Toolkit",
+        "Distributed computing",
+        "Human-computer interaction",
+        "Interactive systems engineering",
+        "The Internet",
+        "Computer science",
+        "User interface"
+    ],
+    "references": [
+        "152196738",
+        "185383034",
+        "1501596615",
+        "1552980463",
+        "1555126336",
+        "1882088395",
+        "2103397022",
+        "2113570205",
+        "2121984483",
+        "2134816385",
+        "2140274017",
+        "2150094524",
+        "2170699450"
+    ]
+}

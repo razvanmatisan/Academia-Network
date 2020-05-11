@@ -1,0 +1,44 @@
+{
+    "id": "1802961089",
+    "title": "A theory of specular surface geometry",
+    "venue": "international conference on computer vision",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Michael Oren",
+            "id": "2306260897",
+            "org": "Dept. of Comput. Sci., Columbia Univ., New York, NY, USA"
+        },
+        {
+            "name": "Shree K. Nayar",
+            "id": "2036349267",
+            "org": "Dept. of Comput. Sci., Columbia Univ., New York, NY, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Geometry",
+        "Specular reflection",
+        "Computer vision",
+        "Artificial intelligence",
+        "Computational geometry",
+        "Support function",
+        "Feature extraction",
+        "Motion estimation",
+        "Trajectory",
+        "Three-dimensional space",
+        "Caustic (optics)",
+        "Mathematics"
+    ],
+    "references": [
+        "1565212980",
+        "1578510995",
+        "1984472840",
+        "1990180334",
+        "2016704491",
+        "2042623992",
+        "2106805947",
+        "2136955756",
+        "2162440529",
+        "2169052116"
+    ]
+}

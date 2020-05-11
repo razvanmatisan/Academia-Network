@@ -1,0 +1,44 @@
+{
+    "id": "1575734328",
+    "title": "Graph Partitioning and Traffic Grooming with Bounded Degree Request Graph",
+    "venue": "workshop on graph-theoretic concepts in computer science",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Zhentao Li",
+            "id": "2810914841",
+            "org": "School of Computer Science, McGill University, Montreal, Canada#TAB#"
+        },
+        {
+            "name": "Ignasi Sau",
+            "id": "1880181623",
+            "org": "Mascotte project - INRIA/CNRS/UNS - Sophia Antipolis, France and Graph Theory and Combinatorics group of UPC, Barcelona, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Quartic graph",
+        "Loop (graph theory)",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Degree (graph theory)",
+        "Factor-critical graph",
+        "Voltage graph",
+        "Strength of a graph",
+        "Graph factorization",
+        "Mathematics",
+        "Butterfly graph"
+    ],
+    "references": [
+        "1506994020",
+        "1533738262",
+        "1977535087",
+        "1999464013",
+        "2007087349",
+        "2039274034",
+        "2076639460",
+        "2082285579",
+        "2090014838",
+        "2100937099",
+        "2139721783"
+    ]
+}

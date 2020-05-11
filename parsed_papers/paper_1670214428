@@ -1,0 +1,33 @@
+{
+    "id": "1670214428",
+    "title": "Verbal and non-verbal cues in the communication of emotions",
+    "venue": "international conference on acoustics, speech, and signal processing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Thomas Polzin",
+            "id": "2072325563",
+            "org": "Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Speech processing",
+        "Behavioral pattern",
+        "Speech segmentation",
+        "Nonverbal communication",
+        "Specification language",
+        "Computer science",
+        "Natural language processing",
+        "Interpersonal communication",
+        "User interface",
+        "Artificial intelligence",
+        "Expression (mathematics)"
+    ],
+    "references": [
+        "67701990",
+        "1550982044",
+        "2008208299",
+        "2131911005",
+        "2134237567"
+    ]
+}

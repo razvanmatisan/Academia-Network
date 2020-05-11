@@ -1,0 +1,38 @@
+{
+    "id": "1532457870",
+    "title": "Cybertext redux: using interactive fiction to teach german vocabulary, reading, and culture",
+    "venue": "international conference of learning sciences",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Brett E. Shelton",
+            "id": "2186161060",
+            "org": "Utah State University, Logan, UT#TAB#"
+        },
+        {
+            "name": "David O. Neville",
+            "id": "2477674097",
+            "org": "Utah State University, Logan, UT#TAB#"
+        },
+        {
+            "name": "Brian McInnis",
+            "id": "2479397391",
+            "org": "Utah State University, Logan, UT#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Second-language acquisition",
+        "Cybertext",
+        "Language acquisition",
+        "Natural language processing",
+        "Vocabulary",
+        "Multimedia",
+        "Immersion (virtual reality)",
+        "Computer science",
+        "German",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1701865079"
+    ]
+}

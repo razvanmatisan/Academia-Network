@@ -1,0 +1,52 @@
+{
+    "id": "1514211201",
+    "title": "Vertical and Horizontal Disparities from Phase",
+    "venue": "european conference on computer vision",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Keith Langley",
+            "id": "2404045008",
+            "org": "University of Oxford"
+        },
+        {
+            "name": "Tim J. Atherton",
+            "id": "2796845589",
+            "org": "University of Oxford"
+        },
+        {
+            "name": "Roland G. Wilson",
+            "id": "2798040094",
+            "org": "University of Oxford"
+        },
+        {
+            "name": "M. H. E. Larcombe",
+            "id": "2797088050",
+            "org": "University of Oxford"
+        },
+        {
+            "name": "M. H. E. Larcombe",
+            "id": "2797088050",
+            "org": "University of Oxford"
+        }
+    ],
+    "fields_of_study": [
+        "Aliasing",
+        "Newton's method",
+        "Computer science",
+        "Horizontal and vertical",
+        "Mathematical optimization",
+        "Instantaneous phase",
+        "Linear phase",
+        "All-pass filter",
+        "Root-finding algorithm",
+        "Control theory",
+        "Filter (signal processing)"
+    ],
+    "references": [
+        "1582566662",
+        "1988437943",
+        "2127697131",
+        "2138603643"
+    ]
+}

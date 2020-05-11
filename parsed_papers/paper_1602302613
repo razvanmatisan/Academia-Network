@@ -1,0 +1,40 @@
+{
+    "id": "1602302613",
+    "title": "A trust model for supply chain management",
+    "venue": "national conference on artificial intelligence",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Yasaman Haghpanah",
+            "id": "276858330",
+            "org": "Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County#TAB#"
+        },
+        {
+            "name": "Marie desJardins",
+            "id": "2126990796",
+            "org": "Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Game theory",
+        "Supply chain management",
+        "Artificial intelligence",
+        "Management science",
+        "Machine learning",
+        "Reputation",
+        "Probabilistic logic",
+        "Supply chain network",
+        "Multi-agent system",
+        "Supply chain",
+        "Computer science",
+        "Decision theory"
+    ],
+    "references": [
+        "12189634",
+        "1564955632",
+        "2049161109",
+        "2080076678",
+        "2132683224",
+        "2143884144"
+    ]
+}

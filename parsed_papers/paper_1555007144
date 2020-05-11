@@ -1,0 +1,30 @@
+{
+    "id": "1555007144",
+    "title": "The OO jDREW engine of rule responder: Naf Hornlog RuleML query answering",
+    "venue": "rules and rule markup languages for the semantic web",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Benjamin Larry Craig",
+            "id": "2306675710",
+            "org": "Faculty of Computer Science, University of New Brunswick, Frederiction, New Brunswick, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "RDF",
+        "Computer science",
+        "Database",
+        "Data mining",
+        "Production Rule Representation",
+        "RuleML",
+        "Rule-based system",
+        "Rule Interchange Format",
+        "Semantic Web",
+        "Inference engine",
+        "Prova"
+    ],
+    "references": [
+        "1534503730",
+        "1570239125"
+    ]
+}

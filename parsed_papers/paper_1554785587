@@ -1,0 +1,56 @@
+{
+    "id": "1554785587",
+    "title": "Rule-based active domain brokering for the semantic web",
+    "venue": "web reasoning and rule systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Erik Behrends",
+            "id": "1989240997",
+            "org": "Institut fur Informatik, Universitat Gottingen#TAB#"
+        },
+        {
+            "name": "Oliver Fritzen",
+            "id": "1901144513",
+            "org": "Institut fur Informatik, Universitat Gottingen#TAB#"
+        },
+        {
+            "name": "Tobias Knabke",
+            "id": "2655844122",
+            "org": "Institut fur Informatik, Universitat Gottingen#TAB#"
+        },
+        {
+            "name": "Wolfgang May",
+            "id": "2118015496",
+            "org": "Institut fur Informatik, Universitat Gottingen#TAB#"
+        },
+        {
+            "name": "Franz Schenk",
+            "id": "2310280598",
+            "org": "Institut fur Informatik, Universitat Gottingen#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Process ontology",
+        "OWL-S",
+        "Ontology-based data integration",
+        "Data mining",
+        "Social Semantic Web",
+        "Semantic analytics",
+        "World Wide Web",
+        "Computer science",
+        "Upper ontology",
+        "Ontology (information science)",
+        "Semantic Web Stack"
+    ],
+    "references": [
+        "1535104338",
+        "1539789790",
+        "1579145134",
+        "1634223101",
+        "1735593126",
+        "1997987019",
+        "2001748564",
+        "2092207224"
+    ]
+}

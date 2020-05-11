@@ -1,0 +1,37 @@
+{
+    "id": "150888925",
+    "title": "ADAPTIVE BUSINESS OBJECTS - A New Component Model for Business Integration",
+    "venue": "international conference on enterprise information systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Prabir Nandi",
+            "id": "2676329379",
+            "org": "IBM T J Watson Research Center"
+        },
+        {
+            "name": "Santhosh Kumaran",
+            "id": "2204397459",
+            "org": "IBM T J Watson Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Business domain",
+        "Knowledge management",
+        "Business activity monitoring",
+        "Business architecture",
+        "Business process modeling",
+        "Computer science",
+        "Business Process Model and Notation",
+        "Component business model",
+        "Process management",
+        "Business rule",
+        "Artifact-centric business process model"
+    ],
+    "references": [
+        "155237547",
+        "2099395415",
+        "2099972990",
+        "2140667972"
+    ]
+}

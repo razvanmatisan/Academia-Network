@@ -1,0 +1,48 @@
+{
+    "id": "1536933575",
+    "title": "Group based routing in disconnected ad hoc networks",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Markose Thomas",
+            "id": "2236139024",
+            "org": "Google, Inc., Bangalore, India#TAB#"
+        },
+        {
+            "name": "Arobinda Gupta",
+            "id": "2167681543",
+            "org": "Dept. of Computer Science & Engineering, Indian Institute of Technology, Kharagpur#TAB#"
+        },
+        {
+            "name": "Srinivasan Keshav",
+            "id": "2283071955",
+            "org": "School of Computer Science, University of Waterloo#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Enhanced Interior Gateway Routing Protocol",
+        "Link-state routing protocol",
+        "Optimized Link State Routing Protocol",
+        "Ad hoc wireless distribution service",
+        "Distributed computing",
+        "Wireless Routing Protocol",
+        "Hazy Sighted Link State Routing Protocol",
+        "Computer science",
+        "Zone Routing Protocol",
+        "Dynamic Source Routing",
+        "Computer network"
+    ],
+    "references": [
+        "1923680614",
+        "1978231807",
+        "2010634640",
+        "2099574482",
+        "2123825896",
+        "2124651399",
+        "2137475084",
+        "2148135143",
+        "2149959815",
+        "2162076967"
+    ]
+}

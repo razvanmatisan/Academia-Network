@@ -1,0 +1,31 @@
+{
+    "id": "1482012210",
+    "title": "Programmed Graph Grammars",
+    "venue": "international workshop on graph grammars and their application to computer science",
+    "year": 1978,
+    "authors": [
+        {
+            "name": "Horst Bunke",
+            "id": "1948338481",
+            "org": "Universitat Erlangen-Nurnberg"
+        }
+    ],
+    "fields_of_study": [
+        "Hierarchy",
+        "Discrete mathematics",
+        "Tree-adjoining grammar",
+        "Graph (abstract data type)",
+        "Clique-width",
+        "Machine learning",
+        "Null graph",
+        "Voltage graph",
+        "Rule-based machine translation",
+        "Artificial intelligence",
+        "Recursively enumerable language",
+        "Mathematics"
+    ],
+    "references": [
+        "2099683082",
+        "2163091968"
+    ]
+}

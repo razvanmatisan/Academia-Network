@@ -1,0 +1,28 @@
+{
+    "id": "1560007750",
+    "title": "The Heart Pacemaker by Cellular Automata on Complex Networks",
+    "venue": "cellular automata for research and industry",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Danuta Makowiec",
+            "id": "2892943303",
+            "org": "Institute of Theoretical Physics and Astrophysics, Gdansk University, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Mobile automaton",
+        "Complex network",
+        "Stochastic cellular automaton",
+        "Cellular automaton",
+        "Continuous spatial automaton",
+        "Cardiac pacemaker",
+        "Network topology",
+        "Mathematics"
+    ],
+    "references": [
+        "2294874609",
+        "2402266315"
+    ]
+}

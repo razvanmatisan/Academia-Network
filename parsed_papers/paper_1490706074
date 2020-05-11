@@ -1,0 +1,32 @@
+{
+    "id": "1490706074",
+    "title": "A flexible report architecture based on association rules mining",
+    "venue": "advanced data mining and applications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Qiping Hu",
+            "id": "2690444761",
+            "org": "International School of Software, Wuhan University, P. R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Online analytical processing",
+        "Data mining",
+        "Knowledge base",
+        "Database",
+        "Multitier architecture",
+        "Data warehouse",
+        "Data architecture",
+        "Association rule learning",
+        "Computer science",
+        "Architecture",
+        "Management information systems"
+    ],
+    "references": [
+        "1512034865",
+        "1665556569",
+        "1693535793",
+        "2074697037"
+    ]
+}

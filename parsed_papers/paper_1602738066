@@ -1,0 +1,28 @@
+{
+    "id": "1602738066",
+    "title": "A Qualitative Coordinate Language of Location of Figures within the Ground",
+    "venue": "conference on spatial information theory",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Thomas Bittner",
+            "id": "2108133792",
+            "org": "Technical University of Vienna"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Formal language",
+        "Qualitative reasoning",
+        "Information theory",
+        "Spatial configuration",
+        "Geographic information system",
+        "Partition (number theory)",
+        "Figure-ground",
+        "Mathematics"
+    ],
+    "references": [
+        "852874",
+        "1483417608"
+    ]
+}

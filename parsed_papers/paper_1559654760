@@ -1,0 +1,28 @@
+{
+    "id": "1559654760",
+    "title": "Constraint Based Incremental Learning of Classification Rules",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Arkadiusz Wojna",
+            "id": "1979663374",
+            "org": "Warsaw University"
+        }
+    ],
+    "fields_of_study": [
+        "Reduct",
+        "Monotonic function",
+        "Incremental learning",
+        "Decision rule",
+        "Machine learning",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Rough set",
+        "Computer science"
+    ],
+    "references": [
+        "1555244713",
+        "2092833733"
+    ]
+}

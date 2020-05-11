@@ -1,0 +1,26 @@
+{
+    "id": "1595513981",
+    "title": "Single Sign-On Architectures",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jan De Clercq",
+            "id": "2275148208",
+            "org": "HP"
+        }
+    ],
+    "fields_of_study": [
+        "Authentication server",
+        "Chip Authentication Program",
+        "Multi-factor authentication",
+        "Distributed computing",
+        "Scalability",
+        "Lightweight Extensible Authentication Protocol",
+        "Computer access control",
+        "Access control",
+        "Authentication protocol",
+        "Computer science"
+    ],
+    "references": []
+}

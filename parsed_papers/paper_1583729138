@@ -1,0 +1,29 @@
+{
+    "id": "1583729138",
+    "title": "The Small World Web",
+    "venue": "european conference on research and advanced technology for digital libraries",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Lada A. Adamic",
+            "id": "2345687710",
+            "org": "Xerox Palo Alto Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Web search query",
+        "Social connectedness",
+        "Computer science",
+        "World Wide Web",
+        "Small-world network",
+        "String searching algorithm",
+        "Search engine",
+        "Web query classification",
+        "Distributed computing",
+        "Rewrite engine",
+        "The Internet"
+    ],
+    "references": [
+        "2066636486"
+    ]
+}

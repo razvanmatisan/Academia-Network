@@ -1,0 +1,50 @@
+{
+    "id": "101333827",
+    "title": "Introducing the mallows model on estimation of distribution algorithms",
+    "venue": "international conference on neural information processing",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Josu Ceberio",
+            "id": "2114454079",
+            "org": "Intelligent Systems Group, Faculty of Computer Science, The University of The Basque Country, Donostia - San Sebastian, Spain#TAB#"
+        },
+        {
+            "name": "Alexander Mendiburu",
+            "id": "2114536351",
+            "org": "Intelligent Systems Group, Faculty of Computer Science, The University of The Basque Country, Donostia - San Sebastian, Spain#TAB#"
+        },
+        {
+            "name": "Jose Antonio Lozano",
+            "id": "2223079850",
+            "org": "Intelligent Systems Group, Faculty of Computer Science, The University of The Basque Country, Donostia - San Sebastian, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Estimation of distribution algorithm",
+        "Evolutionary computation",
+        "Probability distribution",
+        "Permutation",
+        "Artificial intelligence",
+        "Machine learning",
+        "Job shop scheduling",
+        "EDAS",
+        "Probabilistic logic",
+        "Mathematical optimization",
+        "Mathematics",
+        "Optimization problem"
+    ],
+    "references": [
+        "1506014956",
+        "1532282540",
+        "1597531876",
+        "1692958259",
+        "2062259169",
+        "2063916705",
+        "2113604942",
+        "2113815377",
+        "2135036692",
+        "2162816476",
+        "2168079536"
+    ]
+}

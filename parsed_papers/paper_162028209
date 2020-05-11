@@ -1,0 +1,35 @@
+{
+    "id": "162028209",
+    "title": "Fast-Track Session Establishment for TLS.",
+    "venue": "network and distributed system security symposium",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Hovav Shacham",
+            "id": "242611019",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Dan Boneh",
+            "id": "201828038",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Wireless network",
+        "Network management station",
+        "Computer science",
+        "Wireless WAN",
+        "Network traffic control",
+        "Rollback",
+        "Latency (engineering)",
+        "Computer network",
+        "TRIPS architecture",
+        "Server"
+    ],
+    "references": [
+        "310700731",
+        "2049224403",
+        "2130741436"
+    ]
+}

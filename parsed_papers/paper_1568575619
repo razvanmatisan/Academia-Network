@@ -1,0 +1,41 @@
+{
+    "id": "1568575619",
+    "title": "Clustering large datasets with kernel methods",
+    "venue": "international conference on pattern recognition",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Stefan Fausser",
+            "id": "1981737602",
+            "org": "Institute of Neural Information Processing, University of Ulm, 89069 Ulm, Germany"
+        },
+        {
+            "name": "Friedhelm Schwenker",
+            "id": "2039497161",
+            "org": "Institute of Neural Information Processing, University of Ulm, 89069 Ulm, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Fuzzy clustering",
+        "Cluster analysis",
+        "Kernel embedding of distributions",
+        "FLAME clustering",
+        "k-medians clustering",
+        "CURE data clustering algorithm",
+        "Pattern recognition",
+        "Variable kernel density estimation",
+        "Canopy clustering algorithm",
+        "Machine learning",
+        "Artificial intelligence",
+        "Mathematics"
+    ],
+    "references": [
+        "1487307575",
+        "1575476631",
+        "1592775125",
+        "1673310716",
+        "2047244756",
+        "2123297508",
+        "2151531457"
+    ]
+}

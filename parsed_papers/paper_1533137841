@@ -1,0 +1,47 @@
+{
+    "id": "1533137841",
+    "title": "Merging test and verification for rule base debugging",
+    "venue": "international conference on tools with artificial intelligence",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Fatma Bouali",
+            "id": "2094965602",
+            "org": "CNRS, Orsay, France"
+        },
+        {
+            "name": "Stephane Loiseau",
+            "id": "2797744917",
+            "org": "CNRS, Orsay, France"
+        },
+        {
+            "name": "Marie-Christine Rousset",
+            "id": "2778826906",
+            "org": "CNRS, Orsay, France"
+        }
+    ],
+    "fields_of_study": [
+        "Debugging",
+        "Theoretical computer science",
+        "Knowledge base",
+        "Merge (version control)",
+        "Machine learning",
+        "Correctness",
+        "Algorithmic program debugging",
+        "Test case",
+        "Artificial intelligence",
+        "Rule-based system",
+        "Knowledge-based systems",
+        "Computer science"
+    ],
+    "references": [
+        "60168242",
+        "133803608",
+        "186957026",
+        "229019754",
+        "1482651513",
+        "2025271293",
+        "2039832885",
+        "2407022376"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "136918138",
+    "title": "Topology Optimization of Trusses--Random Cost Method Versus Evolutionary Algorithms",
+    "venue": "Computational Optimization and Applications",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Bernd Baumann",
+            "id": "2163069678",
+            "org": "Fachhochschule Hamburg, Fachbereich Maschinenbau und Produktion, Berliner Tor 21, D-20099 Hamburg, Germany. baumann@rzbt.fh-hamburg.de#TAB#"
+        },
+        {
+            "name": "Bernd Kost",
+            "id": "2160168498",
+            "org": "Fachhochschule Hamburg, Fachbereich Maschinenbau und Produktion, Berliner Tor 21, D-20099 Hamburg, Germany. kost@rzbt.fh-hamburg.de#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Meta-optimization",
+        "Mathematics",
+        "Mathematical optimization",
+        "Evolutionary computation",
+        "Multi-swarm optimization",
+        "Imperialist competitive algorithm",
+        "Stochastic optimization",
+        "Machine learning",
+        "Random optimization",
+        "Artificial intelligence",
+        "Evolution strategy",
+        "Topology optimization"
+    ],
+    "references": [
+        "1560130085",
+        "1639032689",
+        "1979682513"
+    ]
+}

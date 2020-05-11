@@ -1,0 +1,46 @@
+{
+    "id": "1770529858",
+    "title": "Formal methods and testing: hypotheses, and correctness approximations",
+    "venue": "formal methods",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Marie-Claude Gaudel",
+            "id": "2087114574",
+            "org": "LRI, Paris-Sud University & CNRS, Orsay, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "System under test",
+        "Statistical hypothesis testing",
+        "Correctness",
+        "Formal methods",
+        "Theoretical computer science",
+        "Reliability engineering",
+        "Formal specification",
+        "Test case",
+        "Algorithm",
+        "Software development",
+        "Computer science",
+        "Software"
+    ],
+    "references": [
+        "1482663303",
+        "1783413852",
+        "1787074469",
+        "1787500456",
+        "1828540440",
+        "2011762419",
+        "2034874525",
+        "2061819729",
+        "2096536569",
+        "2101361140",
+        "2114822090",
+        "2125831829",
+        "2132840411",
+        "2145071552",
+        "2156176134",
+        "2162120832",
+        "2166258512"
+    ]
+}

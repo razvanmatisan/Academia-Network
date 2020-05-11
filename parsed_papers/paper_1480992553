@@ -1,0 +1,39 @@
+{
+    "id": "1480992553",
+    "title": "Algorithms for Efficient Simultaneous Elliptic Scalar Multiplication with Reduced Joint Hamming Weight Representation of Scalars",
+    "venue": "international conference on information security",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Yasuyuki Sakai",
+            "id": "2134686839",
+            "org": "Mitsubishi Electric Corporation"
+        },
+        {
+            "name": "Kouichi Sakurai",
+            "id": "2138196911",
+            "org": "Kyushu University"
+        }
+    ],
+    "fields_of_study": [
+        "Scalar (physics)",
+        "Elliptic curve",
+        "Discrete mathematics",
+        "Elliptic curve point multiplication",
+        "Scalar multiplication",
+        "Elliptic curve cryptography",
+        "Algorithm",
+        "Scalar (mathematics)",
+        "Tripling-oriented Doche-Icart-Kohel curve",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Mathematics"
+    ],
+    "references": [
+        "1515496055",
+        "1565378600",
+        "1575893707",
+        "1660562555",
+        "2003736153",
+        "2108834246"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1591675293",
+    "title": "Bayesian inverse reinforcement learning",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Eyal Amir",
+            "id": "2097512048",
+            "org": "Computer Science Dept., University of Illinois at Urbana-Champaign, Urbana, IL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semi-supervised learning",
+        "Artificial intelligence",
+        "Active learning (machine learning)",
+        "Machine learning",
+        "Learning classifier system",
+        "Reinforcement learning",
+        "Unsupervised learning",
+        "Temporal difference learning",
+        "Preference learning",
+        "Computer science",
+        "Apprenticeship learning",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1512208174",
+        "1521332421",
+        "1540685400",
+        "1999874108",
+        "2031571562",
+        "2061562262",
+        "2069691149",
+        "2146628995"
+    ]
+}

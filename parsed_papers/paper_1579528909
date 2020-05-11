@@ -1,0 +1,30 @@
+{
+    "id": "1579528909",
+    "title": "A concept for hierarchical, decentralized management of the physical configuration in the Internet",
+    "venue": "kommunikation in verteilten systemen",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "H. Nikolaus Schaller",
+            "id": "1979094990",
+            "org": "Technische Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Management information base",
+        "Simple Network Management Protocol",
+        "Interoperability",
+        "Distributed computing",
+        "Computer science",
+        "Configuration management",
+        "Management information systems",
+        "The Internet",
+        "Master data",
+        "Orthogonality"
+    ],
+    "references": [
+        "1771315362",
+        "1828150029",
+        "2111427271"
+    ]
+}

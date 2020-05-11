@@ -1,0 +1,34 @@
+{
+    "id": "1538725615",
+    "title": "Face detection using convolutional neural networks and gabor filters",
+    "venue": "international conference on artificial neural networks",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Bogdan Kwolek",
+            "id": "252074314",
+            "org": "Rzeszow University of Technology, Rzeszow, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Pattern recognition",
+        "Face detection",
+        "Gabor wavelet",
+        "Gabor filter",
+        "Artificial neural network",
+        "Artificial intelligence",
+        "Convolutional neural network",
+        "Facial recognition system",
+        "Computer science"
+    ],
+    "references": [
+        "1563640825",
+        "2121601095",
+        "2125653371",
+        "2144143728",
+        "2144354855",
+        "2159686933",
+        "2217896605"
+    ]
+}

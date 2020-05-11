@@ -1,0 +1,32 @@
+{
+    "id": "1510397660",
+    "title": "Cognitive Computer Tutors: Solving the Two-Sigma Problem",
+    "venue": "international conference on user modeling, adaptation, and personalization",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Albert T. Corbett",
+            "id": "1985938362",
+            "org": "Human-Computer Interaction Institute Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Mastery learning",
+        "Pedagogy",
+        "Cognitive tutor",
+        "Mathematics education",
+        "Cognitive computer",
+        "Teaching machine",
+        "Cognitive model",
+        "Distributed computing",
+        "Intelligent tutoring system",
+        "TUTOR",
+        "Computer science",
+        "Cognition"
+    ],
+    "references": [
+        "1572428930",
+        "2105543722",
+        "2117479559"
+    ]
+}

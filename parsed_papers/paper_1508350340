@@ -1,0 +1,34 @@
+{
+    "id": "1508350340",
+    "title": "A Fixed-Point Semantics for Plausible Logic",
+    "venue": "australasian joint conference on artificial intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "David Billington",
+            "id": "2109342391",
+            "org": "Griffith University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Formal semantics (linguistics)",
+        "Predicate functor logic",
+        "Algorithm",
+        "Multimodal logic",
+        "Axiomatic semantics",
+        "Game semantics",
+        "Proof-theoretic semantics",
+        "Mathematics",
+        "Well-founded semantics",
+        "Higher-order logic"
+    ],
+    "references": [
+        "1496040440",
+        "1502834793",
+        "1510121260",
+        "1556982841",
+        "2105505307",
+        "2155322595"
+    ]
+}

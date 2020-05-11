@@ -1,0 +1,40 @@
+{
+    "id": "1480739000",
+    "title": "Modeling Process Diagnostic Knowledge Through Causal Networks",
+    "venue": "congress of the italian association for artificial intelligence",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Paolo Pogliano",
+            "id": "2660462887",
+            "org": "CISE-Tecnologie Innovative"
+        },
+        {
+            "name": "Luisella Riccardi",
+            "id": "2505007685",
+            "org": "CISE-Tecnologie Innovative"
+        }
+    ],
+    "fields_of_study": [
+        "Expert system",
+        "Heuristic",
+        "Implementation",
+        "Knowledge representation and reasoning",
+        "Legal expert system",
+        "Knowledge-based systems",
+        "Causal model",
+        "Rule-based system",
+        "Machine learning",
+        "Data mining",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1484786551",
+        "1788630091",
+        "1878249060",
+        "2032511848",
+        "2035346816",
+        "2117497888"
+    ]
+}

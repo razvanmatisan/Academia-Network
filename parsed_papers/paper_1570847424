@@ -1,0 +1,35 @@
+{
+    "id": "1570847424",
+    "title": "Approximate Bayesian Network Classifiers",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Dominik Slezak",
+            "id": "2344059743",
+            "org": "Polish-Japanese Institute of Information Technology"
+        },
+        {
+            "name": "Jakub Wroblewski",
+            "id": "2097903886",
+            "org": "Polish-Japanese Institute of Information Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Directed graph",
+        "Directed acyclic graph",
+        "Decision table",
+        "Probabilistic logic",
+        "Bayesian network",
+        "Conditional probability",
+        "Naive Bayes classifier",
+        "Machine learning",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Mathematics"
+    ],
+    "references": [
+        "2126151607",
+        "2159080219"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1493034779",
+    "title": "Learning dependencies between case frame slots",
+    "venue": "Computational Linguistics",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Hang Li",
+            "id": "2778428576",
+            "org": "Real World Computing Partnership#TAB#"
+        },
+        {
+            "name": "Naoki Abe",
+            "id": "1996852325",
+            "org": "Real World Computing Partnership#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Independence (probability theory)",
+        "Probability distribution",
+        "Natural language processing",
+        "Dependency graph",
+        "Artificial intelligence",
+        "Computational linguistics",
+        "Applied linguistics",
+        "Statistical model",
+        "Computer science"
+    ],
+    "references": [
+        "1533169541",
+        "1601728146",
+        "1754931551",
+        "1767574678",
+        "1859173823",
+        "1983647975",
+        "2076800308",
+        "2114886551"
+    ]
+}

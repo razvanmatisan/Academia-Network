@@ -1,0 +1,47 @@
+{
+    "id": "1535201778",
+    "title": "Multimodal corpora annotation: validation methods to assess coding scheme reliability",
+    "venue": "Multimodal corpora",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Federica Cavicchio",
+            "id": "1206751453",
+            "org": "CIMeC, Universita di Trento, Rovereto, TN, Italy#TAB#"
+        },
+        {
+            "name": "Massimo Poesio",
+            "id": "314690538",
+            "org": "CIMeC, Universita di Trento, Rovereto, TN, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Validation methods",
+        "Natural language processing",
+        "Annotation",
+        "Statistic",
+        "Cohen's kappa",
+        "Coding (social sciences)",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "129316862",
+        "191826727",
+        "1510825158",
+        "1513014825",
+        "1529237998",
+        "1563169740",
+        "1835654028",
+        "1974292493",
+        "2011009685",
+        "2035366352",
+        "2057488541",
+        "2083751884",
+        "2091950237",
+        "2137462286",
+        "2141766660",
+        "2153804780",
+        "2157814873"
+    ]
+}

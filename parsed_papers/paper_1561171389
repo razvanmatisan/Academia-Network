@@ -1,0 +1,38 @@
+{
+    "id": "1561171389",
+    "title": "Some minimality results on biresidual and biseparable automata",
+    "venue": "language and automata theory and applications",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Hellis Tamm",
+            "id": "2169097449",
+            "org": "Institute of Cybernetics, Tallinn University of Technology, Tallinn, Estonia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nondeterministic finite automaton with e-moves",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Subclass",
+        "o-automaton",
+        "Finite-state machine",
+        "Residual",
+        "Upper and lower bounds",
+        "Quantum finite automata",
+        "Nondeterministic finite automaton",
+        "Mathematics"
+    ],
+    "references": [
+        "1586668623",
+        "1591416905",
+        "2008342226",
+        "2057427285",
+        "2066160009",
+        "2080108335",
+        "2083004473",
+        "2108280515",
+        "2109787457",
+        "2169734852"
+    ]
+}

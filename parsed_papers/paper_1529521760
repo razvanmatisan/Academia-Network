@@ -1,0 +1,38 @@
+{
+    "id": "1529521760",
+    "title": "Distributed Information System Design Based on Integrity Constraints Optimization: The FKDO Algorithm",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Snene Mehdi",
+            "id": "2578310536",
+            "org": "Geneva University"
+        },
+        {
+            "name": "Pardellas Jorge",
+            "id": "2574684185",
+            "org": "Geneva University"
+        }
+    ],
+    "fields_of_study": [
+        "Information system",
+        "Constrained optimization",
+        "Distributed computing",
+        "Conjunctive query",
+        "Distributed database",
+        "Schema (psychology)",
+        "Verification and validation",
+        "Data integrity",
+        "Algorithm",
+        "Computer science"
+    ],
+    "references": [
+        "1531263763",
+        "1594854977",
+        "1967608956",
+        "1968210840",
+        "2071053104",
+        "2117234761"
+    ]
+}

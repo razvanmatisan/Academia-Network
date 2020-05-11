@@ -1,0 +1,44 @@
+{
+    "id": "1592451322",
+    "title": "A multi-relational learning approach for knowledge extraction in in vitro fertilization domain",
+    "venue": "international symposium on visual computing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Teresa Maria Altomare Basile",
+            "id": "1989179004",
+            "org": "Universita degli Studi di Bari, Dipartimento di Informatica, Bari, Italy#TAB#"
+        },
+        {
+            "name": "Floriana Esposito",
+            "id": "2122401555",
+            "org": "Universita degli Studi di Bari, Dipartimento di Informatica, Bari, Italy#TAB#"
+        },
+        {
+            "name": "Laura Caponetti",
+            "id": "1245975828",
+            "org": "Universita degli Studi di Bari, Dipartimento di Informatica, Bari, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge extraction",
+        "Oocyte",
+        "Computer science",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Concept drift",
+        "Human fertilization",
+        "Machine learning",
+        "Statistical relational learning",
+        "Inductive logic programming",
+        "In vitro fertilisation"
+    ],
+    "references": [
+        "28726174",
+        "1537152954",
+        "1600139703",
+        "1610146193",
+        "1987902506",
+        "2063419844"
+    ]
+}

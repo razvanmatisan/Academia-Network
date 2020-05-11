@@ -1,0 +1,56 @@
+{
+    "id": "1588888345",
+    "title": "Using Types as Approximations for Type Checking Prolog Programs",
+    "venue": "international symposium on functional and logic programming",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Christoph Beierle",
+            "id": "216933923",
+            "org": "FernUniversitat Hagen"
+        },
+        {
+            "name": "Gregor Meyer",
+            "id": "2168891689",
+            "org": "IBM Germany, SWSD"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Data type",
+        "Theoretical computer science",
+        "Type class",
+        "Discrete mathematics",
+        "Void type",
+        "Principal type",
+        "Unit type",
+        "Type inference",
+        "Hindley-Milner type system",
+        "Recursive data type",
+        "Mathematics"
+    ],
+    "references": [
+        "14971117",
+        "68738721",
+        "117044614",
+        "130711549",
+        "136042709",
+        "150931359",
+        "152230367",
+        "167307437",
+        "171682210",
+        "180456421",
+        "1504949952",
+        "1516418361",
+        "1525585019",
+        "1556018967",
+        "1579672261",
+        "1606504862",
+        "1980166798",
+        "2027657506",
+        "2031532267",
+        "2038037493",
+        "2143645692",
+        "2157874580"
+    ]
+}

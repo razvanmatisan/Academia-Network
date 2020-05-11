@@ -1,0 +1,45 @@
+{
+    "id": "1495740530",
+    "title": "Extending the ODMG Architecture with a Deductive Object Query Language",
+    "venue": "british national conference on databases",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Norman W. Paton",
+            "id": "2070167002",
+            "org": "University of Manchester"
+        },
+        {
+            "name": "Pedro Sampaio",
+            "id": "2118903617",
+            "org": "University of Manchester"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Data mining",
+        "Path expression",
+        "Query language",
+        "Deductive database",
+        "Architecture",
+        "Object-oriented programming",
+        "Declarative programming",
+        "Object Query Language",
+        "Object Definition Language",
+        "Computer science"
+    ],
+    "references": [
+        "1482764989",
+        "1496304139",
+        "1509428113",
+        "1556545571",
+        "1582478753",
+        "1599421760",
+        "1877424087",
+        "2007165794",
+        "2030868491",
+        "2104468493",
+        "2123975697",
+        "2751199251"
+    ]
+}

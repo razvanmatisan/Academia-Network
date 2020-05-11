@@ -1,0 +1,33 @@
+{
+    "id": "1562982076",
+    "title": "Organising the Knowledge Space for Software Components",
+    "venue": "GfKl",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Claus Pahl",
+            "id": "2034630422",
+            "org": "Dublin City University"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Resource-oriented architecture",
+        "Software Engineering Process Group",
+        "Software construction",
+        "Goal-Driven Software Development Process",
+        "Component-based software engineering",
+        "Social software engineering",
+        "Software design description",
+        "Software framework",
+        "Computer science",
+        "Knowledge management"
+    ],
+    "references": [
+        "80737574",
+        "1511330882",
+        "1516346799",
+        "1532192247",
+        "2136374467"
+    ]
+}

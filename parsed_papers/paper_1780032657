@@ -1,0 +1,38 @@
+{
+    "id": "1780032657",
+    "title": "The need of a semantic layer between UMLS and biomedical information systems",
+    "venue": "metadata and semantics research",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Birsen G. Ozdemir",
+            "id": "2229585073",
+            "org": "Dogus University"
+        },
+        {
+            "name": "Nazife Baykal",
+            "id": "2149402937",
+            "org": "Middle East Technical University"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Data mining",
+        "Information exchange",
+        "Information system",
+        "Unified Medical Language System",
+        "Natural language processing",
+        "Ontology (information science)",
+        "Computer science",
+        "Web Ontology Language",
+        "Vocabulary",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "153781075",
+        "1992808356",
+        "2005763238",
+        "2026227080",
+        "2159379580"
+    ]
+}

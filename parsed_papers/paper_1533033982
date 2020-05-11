@@ -1,0 +1,51 @@
+{
+    "id": "1533033982",
+    "title": "Incorporating tables into proofs",
+    "venue": "computer science logic",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Dale Miller",
+            "id": "2144406363",
+            "org": "INRIA & LIX/Ecole Polytechnique, Palaiseau, France#TAB#"
+        },
+        {
+            "name": "Vivek Nigam",
+            "id": "2115137804",
+            "org": "INRIA & LIX/Ecole Polytechnique, Palaiseau, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Proof complexity",
+        "Proof theory",
+        "Direct proof",
+        "Structural proof theory",
+        "Proofs of Fermat's little theorem",
+        "Automated proof checking",
+        "Algorithm",
+        "Cut-elimination theorem",
+        "Proof assistant",
+        "Mathematics"
+    ],
+    "references": [
+        "1483534185",
+        "1499101893",
+        "1524332517",
+        "1527857956",
+        "1564069522",
+        "1590828018",
+        "1606555018",
+        "1643700551",
+        "1727609483",
+        "1977686334",
+        "1988449272",
+        "2034711041",
+        "2048991961",
+        "2052436826",
+        "2070324762",
+        "2076892721",
+        "2114925693",
+        "2519527069"
+    ]
+}

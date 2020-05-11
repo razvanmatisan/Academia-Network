@@ -1,0 +1,38 @@
+{
+    "id": "1600689686",
+    "title": "Algebraic Operational Semantics and Occam",
+    "venue": "computer science logic",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Yuri Gurevich",
+            "id": "2154094381",
+            "org": "University of Michigan"
+        },
+        {
+            "name": "Lawrence S. Moss",
+            "id": "2120107391",
+            "org": "IBM T. J. Watson Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "occam",
+        "Formal semantics (linguistics)",
+        "Communicating sequential processes",
+        "Denotational semantics",
+        "Action semantics",
+        "Computational semantics",
+        "Computer science",
+        "Operational semantics",
+        "Programming language",
+        "Theoretical computer science",
+        "Well-founded semantics"
+    ],
+    "references": [
+        "1487966966",
+        "2107100996",
+        "2110425399",
+        "2131377110",
+        "2137865376"
+    ]
+}

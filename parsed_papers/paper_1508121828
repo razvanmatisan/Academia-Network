@@ -1,0 +1,40 @@
+{
+    "id": "1508121828",
+    "title": "Song-Level Features and Support Vector Machines for Music Classification",
+    "venue": "international symposium/conference on music information retrieval",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Michael I. Mandel",
+            "id": "2778121718",
+            "org": "Dept . of Elec|Columbia University"
+        },
+        {
+            "name": "Daniel P. W. Ellis",
+            "id": "2120009620",
+            "org": "Dept . of Elec|Columbia University"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Speech recognition",
+        "Support vector machine",
+        "Kullback-Leibler divergence",
+        "Classifier (linguistics)",
+        "Artificial intelligence",
+        "Digital audio",
+        "Mel-frequency cepstrum",
+        "Computer science",
+        "Mahalanobis distance"
+    ],
+    "references": [
+        "1797428404",
+        "2090879738",
+        "2097807493",
+        "2098770944",
+        "2126410803",
+        "2133824856",
+        "2157239837",
+        "2165320163"
+    ]
+}

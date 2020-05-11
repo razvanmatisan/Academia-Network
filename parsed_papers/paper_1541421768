@@ -1,0 +1,31 @@
+{
+    "id": "1541421768",
+    "title": "Producing a One-Way Hash Function from DES",
+    "venue": "international cryptology conference",
+    "year": 1984,
+    "authors": [
+        {
+            "name": "Robert S. Winternitz",
+            "id": "612001748",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Double hashing",
+        "Theoretical computer science",
+        "Rolling hash",
+        "Hash chain",
+        "Primary clustering",
+        "Hash function",
+        "Hash buster",
+        "MDC-2",
+        "Computer science",
+        "Hash filter"
+    ],
+    "references": [
+        "206148862",
+        "1555587809",
+        "1996360405",
+        "2156186849"
+    ]
+}

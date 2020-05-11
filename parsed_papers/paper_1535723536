@@ -1,0 +1,43 @@
+{
+    "id": "1535723536",
+    "title": "Fireworks algorithm for optimization",
+    "venue": "international conference on swarm intelligence",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Ying Tan",
+            "id": "2153504728",
+            "org": "Key Laboratory of Machine Perception (MOE), Peking University Department of Machine Intelligence, School of Electronics Engineering and Computer Science, Peking University, Beijing, China#TAB#"
+        },
+        {
+            "name": "Yuanchun Zhu",
+            "id": "2171810448",
+            "org": "Key Laboratory of Machine Perception (MOE), Peking University Department of Machine Intelligence, School of Electronics Engineering and Computer Science, Peking University, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Natural computing",
+        "Machine learning",
+        "Multi-swarm optimization",
+        "Swarm intelligence",
+        "Mathematical optimization",
+        "Metaheuristic",
+        "Convergence (routing)",
+        "Artificial intelligence",
+        "Global optimization",
+        "Fireworks",
+        "Computer science",
+        "Algorithm",
+        "Particle swarm optimization"
+    ],
+    "references": [
+        "2008107235",
+        "2106640246",
+        "2107941094",
+        "2108063263",
+        "2131643806",
+        "2139386984",
+        "2144157402",
+        "2164934768"
+    ]
+}

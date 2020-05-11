@@ -1,0 +1,33 @@
+{
+    "id": "1594476086",
+    "title": "The electric sheep screen-saver: a case study in aesthetic evolution",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Scott Draves",
+            "id": "2689287341",
+            "org": "Spotworks, San Francisco, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Gene pool",
+        "Render farm",
+        "Genetic algorithm",
+        "Evolutionary algorithm",
+        "Artificial life",
+        "Machine learning",
+        "Idle",
+        "Fitness function",
+        "Distributed computing",
+        "Computer science",
+        "Genetic operator",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1542667763",
+        "2050462717",
+        "2103363198",
+        "2339378878"
+    ]
+}

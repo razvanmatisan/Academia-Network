@@ -1,0 +1,65 @@
+{
+    "id": "1578607594",
+    "title": "Discovering New Knowledge from Graph Data Using Inductive Logic Programming",
+    "venue": "inductive logic programming",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Tetsuhiro Miyahara",
+            "id": "2167270571",
+            "org": "Hiroshima City University"
+        },
+        {
+            "name": "Takayoshi Shoudai",
+            "id": "35272218",
+            "org": "Kyushu University 39"
+        },
+        {
+            "name": "Tomoyuki Uchida",
+            "id": "2777311899",
+            "org": "Hiroshima City University"
+        },
+        {
+            "name": "Tetsuji Kuboyama",
+            "id": "2022906189",
+            "org": "University of Tokyo"
+        },
+        {
+            "name": "Kenichi Takahashi",
+            "id": "2752244086",
+            "org": "Hiroshima City University"
+        },
+        {
+            "name": "Hiroaki Ueda",
+            "id": "2894171355",
+            "org": "Hiroshima City University"
+        }
+    ],
+    "fields_of_study": [
+        "Moral graph",
+        "Machine learning",
+        "Artificial intelligence",
+        "Null model",
+        "Theoretical computer science",
+        "Graph rewriting",
+        "Graph (abstract data type)",
+        "SPQR tree",
+        "Computer science",
+        "Tree decomposition",
+        "Inductive logic programming",
+        "Abstract semantic graph"
+    ],
+    "references": [
+        "1483584217",
+        "1585892032",
+        "1600820878",
+        "1977535549",
+        "2006513683",
+        "2020556510",
+        "2044220326",
+        "2064065290",
+        "2071941848",
+        "2145805921",
+        "2173084551"
+    ]
+}

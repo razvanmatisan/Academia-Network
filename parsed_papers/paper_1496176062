@@ -1,0 +1,28 @@
+{
+    "id": "1496176062",
+    "title": "Swarms in dynamic environments",
+    "venue": "genetic and evolutionary computation conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Tim Blackwell",
+            "id": "2129969538",
+            "org": "Department of Computer Science, University College London, London, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parabola",
+        "Swarm behaviour",
+        "Mathematical optimization",
+        "Computer science",
+        "Dynamic problem",
+        "Population",
+        "Charged particle",
+        "Search problem",
+        "SIMPLE algorithm"
+    ],
+    "references": [
+        "1536206336",
+        "1581435576"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "1486445976",
+    "title": "Bringing Together Semantic Web and Web Services",
+    "venue": "international semantic web conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Joachim Peer",
+            "id": "2130127388",
+            "org": "University of St. Gallen"
+        }
+    ],
+    "fields_of_study": [
+        "Web intelligence",
+        "Data Web",
+        "Database",
+        "Web standards",
+        "Social Semantic Web",
+        "Web modeling",
+        "World Wide Web",
+        "Semantic Web",
+        "Semantic Web Stack",
+        "Computer science",
+        "WS-Policy"
+    ],
+    "references": [
+        "1578007245",
+        "2018113587",
+        "2104806676",
+        "2161536823",
+        "2770613891"
+    ]
+}

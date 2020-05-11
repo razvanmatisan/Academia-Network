@@ -1,0 +1,30 @@
+{
+    "id": "165093451",
+    "title": "Controlling state-space abstraction in Bayesian networks",
+    "venue": "national conference on artificial intelligence",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Chao-Lin Liu",
+            "id": "2099360670",
+            "org": "Artificial Intelligence Laboratory, University of Michigan, Ann Arbor, Michigan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Variable-order Bayesian network",
+        "Machine learning",
+        "Artificial intelligence",
+        "Systems design",
+        "Anytime algorithm",
+        "State space",
+        "Computer science",
+        "Dynamic Bayesian network",
+        "Theoretical computer science",
+        "Bayesian network",
+        "Abstraction"
+    ],
+    "references": [
+        "1520268336",
+        "2020246567"
+    ]
+}

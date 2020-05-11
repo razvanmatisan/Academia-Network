@@ -1,0 +1,38 @@
+{
+    "id": "111344453",
+    "title": "An adaptive neural controller for a tendon driven robotic hand.",
+    "venue": "intelligent autonomous systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Gabriel Gomez",
+            "id": "2610273158",
+            "org": "University of Zurich"
+        },
+        {
+            "name": "Alejandro Hernandez",
+            "id": "2328386599",
+            "org": "Developmental Cognitive Machines Lab|University of Tokyo"
+        },
+        {
+            "name": "Peter Eggenberger Hotz",
+            "id": "2295732332",
+            "org": "Artificial Intelligence Laboratory|Department of Informatics|University of Zurich"
+        }
+    ],
+    "fields_of_study": [
+        "Evolutionary algorithm",
+        "Adaptive learning",
+        "Artificial neural network",
+        "Time delay neural network",
+        "GRASP",
+        "Value system",
+        "Control theory",
+        "Machine learning",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1974164763"
+    ]
+}

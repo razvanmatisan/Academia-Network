@@ -1,0 +1,30 @@
+{
+    "id": "1496076969",
+    "title": "The Hollowman: an innovative ATM control architecture",
+    "venue": "integrated network management",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Sean Rooney",
+            "id": "2779630068",
+            "org": "University of Cambridge"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "Confusion",
+        "Distributed computing",
+        "Signalling",
+        "Out-of-band management",
+        "Architecture",
+        "Computer science"
+    ],
+    "references": [
+        "1507693023",
+        "1672110321",
+        "2007261757",
+        "2040393967",
+        "2100792372",
+        "2135748259"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "103865120",
+    "title": "Uncertain temporal observations in diagnosis",
+    "venue": "european conference on artificial intelligence",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Gianfranco Lamperti",
+            "id": "1254727205",
+            "org": "Dipartimento di Elettronica per l'Automazione, Universita di Brescia, Brescia, Italy#TAB#"
+        },
+        {
+            "name": "Marina Zanella",
+            "id": "2122551352",
+            "org": "Dipartimento di Elettronica per l'Automazione, Universita di Brescia, Brescia, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Timestamp",
+        "Temporal observations",
+        "Finite set",
+        "Ranging",
+        "Algorithm",
+        "Graph",
+        "Observable"
+    ],
+    "references": [
+        "46479877",
+        "107859326",
+        "192320951",
+        "2051993457",
+        "2056888327",
+        "2099395647",
+        "2161586357"
+    ]
+}

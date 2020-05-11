@@ -1,0 +1,50 @@
+{
+    "id": "1777495445",
+    "title": "Adaptive notification system guaranteeing message reachability",
+    "venue": "international conference on pervasive services",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Hiroyuki Kasai",
+            "id": "2776468904",
+            "org": "NTT DoCoMo Inc., Japan"
+        },
+        {
+            "name": "Kenichi Yamazaki",
+            "id": "2195060144",
+            "org": "NTT DoCoMo Inc., Japan"
+        },
+        {
+            "name": "Shoji Kurakake",
+            "id": "1213785561",
+            "org": "NTT DoCoMo Inc., Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "Control engineering",
+        "Notification system",
+        "Computer user satisfaction",
+        "Notice",
+        "Message passing",
+        "Computer security",
+        "Message control",
+        "User modeling",
+        "Reachability",
+        "Computer science"
+    ],
+    "references": [
+        "1484678121",
+        "1566248475",
+        "1778770750",
+        "1964077143",
+        "1977432432",
+        "2008906462",
+        "2038869722",
+        "2043719707",
+        "2128090239",
+        "2130259926",
+        "2338806261",
+        "2549144280"
+    ]
+}

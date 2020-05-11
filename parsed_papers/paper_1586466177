@@ -1,0 +1,38 @@
+{
+    "id": "1586466177",
+    "title": "Policy management for network-based intrusion detection and prevention",
+    "venue": "network operations and management symposium",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Yao-Min Chen",
+            "id": "2664138208",
+            "org": "WatchGuard Technologies , INC"
+        },
+        {
+            "name": "Yanyan Yang",
+            "id": "2579680008",
+            "org": "WatchGuard Technologies , INC"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Computer network",
+        "Passive monitoring",
+        "Intrusion detection system",
+        "Enforcement",
+        "Computer security",
+        "Business communication",
+        "Denial-of-service attack",
+        "Network security",
+        "Policy-based management",
+        "The Internet"
+    ],
+    "references": [
+        "1674877186",
+        "1994212840",
+        "2108867737",
+        "2117593668",
+        "2158390457"
+    ]
+}

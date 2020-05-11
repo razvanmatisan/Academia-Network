@@ -1,0 +1,38 @@
+{
+    "id": "1518885648",
+    "title": "Model Finding Strategies in Semantically Guided Instance-based Theorem Proving",
+    "venue": "international syposium on methodologies for intelligent systems",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Heng Chu",
+            "id": "2140664243",
+            "org": "University of North Carolina"
+        },
+        {
+            "name": "David A. Plaisted",
+            "id": "174197633",
+            "org": "University of North Carolina"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical proof",
+        "Discrete mathematics",
+        "Full employment theorem",
+        "Fixed-point theorem",
+        "Machine learning",
+        "Artificial intelligence",
+        "Proofs of Fermat's little theorem",
+        "Gap theorem",
+        "Automated theorem proving",
+        "Fundamental theorem",
+        "Computer science",
+        "Compactness theorem"
+    ],
+    "references": [
+        "1924552249",
+        "2062897452",
+        "2067716734",
+        "2069224897"
+    ]
+}

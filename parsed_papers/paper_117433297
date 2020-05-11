@@ -1,0 +1,42 @@
+{
+    "id": "117433297",
+    "title": "Finding Implicit Features in Consumer Reviews for Sentiment Analysis",
+    "venue": "international conference on web engineering",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Kim Schouten",
+            "id": "2142051406",
+            "org": "Erasmus University Rotterdam"
+        },
+        {
+            "name": "Flavius Frasincar",
+            "id": "2224625144",
+            "org": "Erasmus University Rotterdam"
+        }
+    ],
+    "fields_of_study": [
+        "Decision-making",
+        "Data mining",
+        "Latent Dirichlet allocation",
+        "Feature extraction",
+        "Filter (signal processing)",
+        "Association rule learning",
+        "Sentiment analysis",
+        "Computer science",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Sentence"
+    ],
+    "references": [
+        "82110502",
+        "1544805753",
+        "1573035800",
+        "1880262756",
+        "2070694721",
+        "2114581066",
+        "2149167588",
+        "2159457224",
+        "2160660844"
+    ]
+}

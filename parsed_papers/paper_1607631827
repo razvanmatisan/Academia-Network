@@ -1,0 +1,37 @@
+{
+    "id": "1607631827",
+    "title": "Is Participation in the Semantic Web Too Difficult",
+    "venue": "international semantic web conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Stefan Haustein",
+            "id": "2122087099",
+            "org": "University of Dortmund"
+        },
+        {
+            "name": "Jorg Pleumann",
+            "id": "195953371",
+            "org": "University of Dortmund"
+        }
+    ],
+    "fields_of_study": [
+        "Data Web",
+        "Web standards",
+        "Database",
+        "Web modeling",
+        "Computer science",
+        "Semantic Web",
+        "World Wide Web",
+        "Semantic grid",
+        "Semantic analytics",
+        "Semantic Web Stack",
+        "Social Semantic Web"
+    ],
+    "references": [
+        "46723978",
+        "1522224264",
+        "2123975697",
+        "2139528831"
+    ]
+}

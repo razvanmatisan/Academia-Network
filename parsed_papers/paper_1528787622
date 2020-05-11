@@ -1,0 +1,45 @@
+{
+    "id": "1528787622",
+    "title": "A Response to ''Can We Eliminate Certificate Revocation Lists?''",
+    "venue": "financial cryptography",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Patrick D. McDaniel",
+            "id": "2056207806",
+            "org": "University of Michigan"
+        },
+        {
+            "name": "Aviel D. Rubin",
+            "id": "2573974268",
+            "org": "AT&T Labs"
+        }
+    ],
+    "fields_of_study": [
+        "Computer security",
+        "Computer science",
+        "Certificate",
+        "Internet privacy",
+        "Online Certificate Status Protocol",
+        "Scalability",
+        "Revocation list",
+        "Public-key cryptography",
+        "Revocation",
+        "Public key infrastructure",
+        "X.509",
+        "Distributed computing"
+    ],
+    "references": [
+        "190693689",
+        "1502896015",
+        "1504393564",
+        "1570504403",
+        "1994219740",
+        "2008524185",
+        "2046245985",
+        "2089934546",
+        "2101838603",
+        "2143980364",
+        "2160878415"
+    ]
+}

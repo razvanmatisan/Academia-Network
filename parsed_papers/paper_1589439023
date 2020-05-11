@@ -1,0 +1,46 @@
+{
+    "id": "1589439023",
+    "title": "System Description: Proof Planning in Higher-Order Logic with Lambda-Clam",
+    "venue": "conference on automated deduction",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Julian Richardson",
+            "id": "2564930466",
+            "org": "Edinburgh University"
+        },
+        {
+            "name": "Alan Smaill",
+            "id": "392909561",
+            "org": "Edinburgh University"
+        },
+        {
+            "name": "Ian Green",
+            "id": "2147183499",
+            "org": "Edinburgh University"
+        }
+    ],
+    "fields_of_study": [
+        "Computability",
+        "Metatheory",
+        "Computer science",
+        "Mathematical logic",
+        "Curry-Howard correspondence",
+        "Discrete mathematics",
+        "Algorithm",
+        "Natural deduction",
+        "Lambda calculus",
+        "lProlog",
+        "Higher-order logic"
+    ],
+    "references": [
+        "1532420827",
+        "1555093324",
+        "1581769579",
+        "1590056785",
+        "1590963539",
+        "1597159378",
+        "2067540169",
+        "2087028873"
+    ]
+}

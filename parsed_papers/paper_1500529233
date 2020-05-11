@@ -1,0 +1,29 @@
+{
+    "id": "1500529233",
+    "title": "On the Completeness of Connection Graph Resolution",
+    "venue": "german workshop on artificial intelligence",
+    "year": 1981,
+    "authors": [
+        {
+            "name": "Wolfgang Bibel",
+            "id": "2285403287",
+            "org": "Technische Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Graph power",
+        "Biconnected graph",
+        "String graph",
+        "Voltage graph",
+        "Butterfly graph",
+        "Strength of a graph",
+        "Mathematics",
+        "Windmill graph",
+        "Simplex graph"
+    ],
+    "references": [
+        "1970045008",
+        "2010939537"
+    ]
+}

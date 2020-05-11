@@ -1,0 +1,47 @@
+{
+    "id": "117584267",
+    "title": "A New Approach to Heuristic Estimations for Cost-Based Planning",
+    "venue": "the florida ai research society",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Raquel Fuentetaja",
+            "id": "2155860187",
+            "org": "Charles III University of Madrid"
+        },
+        {
+            "name": "Daniel Borrajo",
+            "id": "12888615",
+            "org": "Charles III University of Madrid"
+        },
+        {
+            "name": "Carlos Linares Lopez",
+            "id": "2134074618",
+            "org": "Charles III University of Madrid"
+        }
+    ],
+    "fields_of_study": [
+        "Heuristic",
+        "Consistent heuristic",
+        "Genetic algorithm",
+        "Incremental heuristic search",
+        "Machine learning",
+        "Null-move heuristic",
+        "Beam search",
+        "Artificial intelligence",
+        "Mathematical optimization",
+        "Computer science",
+        "Search algorithm",
+        "Heuristics"
+    ],
+    "references": [
+        "167480546",
+        "1731763842",
+        "1768347220",
+        "1872009089",
+        "2025460523",
+        "2122054842",
+        "2130160035",
+        "2150952649"
+    ]
+}

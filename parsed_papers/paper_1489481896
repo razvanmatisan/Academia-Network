@@ -1,0 +1,39 @@
+{
+    "id": "1489481896",
+    "title": "Tunable Parallel Experiments in a GridRPC Framework: Application to Linear Solvers",
+    "venue": "high performance computing for computational science (vector and parallel processing)",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Yves Caniou",
+            "id": "2079382287",
+            "org": "Lip-ENS de Lyon, Universite Claude Bernard de Lyon,#TAB#"
+        },
+        {
+            "name": "Pierre Ramet",
+            "id": "169387109",
+            "org": "LaBRI, Universite Bordeaux 1,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Grid computing",
+        "Thread (computing)",
+        "Theoretical computer science",
+        "Parametric statistics",
+        "Grid",
+        "Distributed computing",
+        "Syntax",
+        "Computer science",
+        "Performance prediction",
+        "Middleware",
+        "GridRPC"
+    ],
+    "references": [
+        "1569109055",
+        "1968017169",
+        "1978002393",
+        "2002988981",
+        "2043427509",
+        "2101670410"
+    ]
+}

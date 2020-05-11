@@ -1,0 +1,46 @@
+{
+    "id": "1489437681",
+    "title": "Numerical Constraint Satisfaction Problems with Non-isolated Solutions",
+    "venue": "Cocos",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Xuan-Ha Vu",
+            "id": "2007914778",
+            "org": "Swiss Federal Institute of Technology Lausanne (EPFL)"
+        },
+        {
+            "name": "Djamila Sam-Haroud",
+            "id": "179156758",
+            "org": "Swiss Federal Institute of Technology Lausanne (EPFL)"
+        },
+        {
+            "name": "Marius-Calin Silaghi",
+            "id": "2644132607",
+            "org": "Swiss Federal Institute of Technology Lausanne (EPFL)"
+        }
+    ],
+    "fields_of_study": [
+        "Complexity of constraint satisfaction",
+        "Constraint (mathematics)",
+        "Agronomy",
+        "Mathematical optimization",
+        "Constraint satisfaction dual problem",
+        "Local consistency",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Computational geometry",
+        "Biology",
+        "Constraint satisfaction problem",
+        "Solution set"
+    ],
+    "references": [
+        "1504317179",
+        "1505781174",
+        "1548650523",
+        "1557280638",
+        "1598511880",
+        "1999163452",
+        "2067456686",
+        "2611367645"
+    ]
+}

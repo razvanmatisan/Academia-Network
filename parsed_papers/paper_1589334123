@@ -1,0 +1,32 @@
+{
+    "id": "1589334123",
+    "title": "Weighted Majority Decision among Region Rules for a Categorical Dataset",
+    "venue": "discovery science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Akihiro Nakaya",
+            "id": "2010799022",
+            "org": "University of Tokyo"
+        },
+        {
+            "name": "Shinichi Morishita",
+            "id": "1972520240",
+            "org": "University of Tokyo"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Categorical variable",
+        "Parallel processing",
+        "Data mining",
+        "Decision tree",
+        "Computer science",
+        "Tuple",
+        "Shared memory"
+    ],
+    "references": [
+        "1496995440",
+        "1531508514"
+    ]
+}

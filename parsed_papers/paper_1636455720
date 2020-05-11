@@ -1,0 +1,47 @@
+{
+    "id": "1636455720",
+    "title": "Point-based POMDP algorithms: improved analysis and implementation",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Trey Smith",
+            "id": "2171707840",
+            "org": "Robotics Institute, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Reid G. Simmons",
+            "id": "2130920929",
+            "org": "Robotics Institute, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm design",
+        "Order of magnitude",
+        "Mathematical optimization",
+        "Computer science",
+        "Machine learning",
+        "Artificial intelligence",
+        "Algorithm",
+        "Markov decision process",
+        "Heuristic",
+        "Curse of dimensionality",
+        "Partially observable Markov decision process",
+        "Curse",
+        "Reachability"
+    ],
+    "references": [
+        "91039700",
+        "114364418",
+        "1491973539",
+        "1532688806",
+        "1549519846",
+        "2038469228",
+        "2101984404",
+        "2134802714",
+        "2144283793",
+        "2154727088",
+        "2158907787",
+        "2169294731"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "140565527",
+    "title": "Orthogonal Distance Least Squares Fitting: A Novel Approach",
+    "venue": "international conference on computer vision",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Sudanthi N. R. Wijewickrema",
+            "id": "2803366244",
+            "org": "Colour Vision Systems"
+        },
+        {
+            "name": "Charles E. Esson",
+            "id": "2000399279",
+            "org": "Colour Vision Systems"
+        },
+        {
+            "name": "Andrew P. Paplinski",
+            "id": "673045912",
+            "org": "Monash University"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Total least squares",
+        "Conic section",
+        "Iteratively reweighted least squares",
+        "Artificial intelligence",
+        "Linear least squares",
+        "Quadric",
+        "Computer science",
+        "Pattern recognition",
+        "Recursive least squares filter",
+        "Non-linear least squares",
+        "Least squares"
+    ],
+    "references": [
+        "1566651525",
+        "1576040362",
+        "2001902860",
+        "2023752928",
+        "2066153944",
+        "2071085038",
+        "2071794696",
+        "2149659501"
+    ]
+}

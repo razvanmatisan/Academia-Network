@@ -1,0 +1,44 @@
+{
+    "id": "1489534967",
+    "title": "Approximate inference algorithms for Hybrid Bayesian Networks with discrete constraints",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Vibhav Gogate",
+            "id": "2122272077",
+            "org": "Donald Bren School of Information and Computer Science, University of California, Irvine, CA#TAB#"
+        },
+        {
+            "name": "Rina Dechter",
+            "id": "294129211",
+            "org": "Donald Bren School of Information and Computer Science, University of California, Irvine, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Importance sampling",
+        "Computer science",
+        "Mathematical optimization",
+        "Machine learning",
+        "Mix network",
+        "Artificial intelligence",
+        "Local consistency",
+        "Belief propagation",
+        "Bayesian network",
+        "Algorithm",
+        "Approximate inference",
+        "Dynamic Bayesian network",
+        "Expectation propagation"
+    ],
+    "references": [
+        "1505268972",
+        "1507288254",
+        "1529072446",
+        "1565521807",
+        "1846676416",
+        "1923998589",
+        "2048511921",
+        "2149020252",
+        "2337098149"
+    ]
+}

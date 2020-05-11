@@ -1,0 +1,39 @@
+{
+    "id": "1725202765",
+    "title": "Using Trust in Recommender Systems: An Experimental Analysis",
+    "venue": "international conference on trust management",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Paolo Massa",
+            "id": "2662893049",
+            "org": "University of Trento"
+        },
+        {
+            "name": "Bobby Bhattacharjee",
+            "id": "2152523866",
+            "org": "University of Maryland"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Information system",
+        "Collaborative filtering",
+        "World Wide Web",
+        "Recommender system",
+        "Computer science",
+        "Distributed computing",
+        "RSS",
+        "Web of trust",
+        "Vulnerability",
+        "The Internet"
+    ],
+    "references": [
+        "1499011913",
+        "1966553486",
+        "2013594690",
+        "2042281163",
+        "2085937320",
+        "2134584261"
+    ]
+}

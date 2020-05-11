@@ -1,0 +1,43 @@
+{
+    "id": "1557445129",
+    "title": "Performance Analysis of a Load Balancing Hash-Join Algorithm for a Shared Memory Multiprocessor",
+    "venue": "very large data bases",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Edward Omiecinski",
+            "id": "2174003361",
+            "org": "College of Corn|Georgia Institute of Technology Atlanta"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Hash join",
+        "Distributed shared memory",
+        "Relational database",
+        "Data diffusion machine",
+        "Computer science",
+        "Parallel algorithm",
+        "Parallel computing",
+        "Distributed memory",
+        "Distributed computing",
+        "Load balancing (computing)",
+        "Shared memory"
+    ],
+    "references": [
+        "1551935098",
+        "1554451661",
+        "1561190664",
+        "1585614323",
+        "1959308489",
+        "2003758875",
+        "2031138923",
+        "2051244613",
+        "2078528123",
+        "2115919907",
+        "2123865995",
+        "2165123433",
+        "2169486917",
+        "2200275386"
+    ]
+}

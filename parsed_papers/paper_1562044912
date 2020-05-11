@@ -1,0 +1,47 @@
+{
+    "id": "1562044912",
+    "title": "Lookahead And Latent Learning In ZCS",
+    "venue": "genetic and evolutionary computation conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Larry Bull",
+            "id": "2114202197",
+            "org": "Faculty of Computing, Engineering & Mathematical Sciences, University of the West of England, Bristol#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Active learning (machine learning)",
+        "Semi-supervised learning",
+        "Machine learning",
+        "Learning classifier system",
+        "Multi-task learning",
+        "Robot learning",
+        "Wake-sleep algorithm",
+        "Computer science",
+        "Unsupervised learning",
+        "Stability (learning theory)",
+        "Pattern recognition",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "297555161",
+        "1488667512",
+        "1491843047",
+        "1505421860",
+        "1526482272",
+        "1543543863",
+        "1639032689",
+        "1814110487",
+        "1840702012",
+        "1878040096",
+        "1999128321",
+        "2013067314",
+        "2018642704",
+        "2051925582",
+        "2058653357",
+        "2103006758",
+        "2138178898",
+        "2157838568"
+    ]
+}

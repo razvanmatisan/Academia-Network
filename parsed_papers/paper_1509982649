@@ -1,0 +1,33 @@
+{
+    "id": "1509982649",
+    "title": "Formalization of the Integral Calculus in the PVS Theorem Prover",
+    "venue": "Journal of Formalized Reasoning",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Ricky W. Butler",
+            "id": "2071236911",
+            "org": "NASA Langley Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Calculus",
+        "Mathematical proof",
+        "Algorithm",
+        "Fundamental theorem of calculus",
+        "Mathematics",
+        "Hybrid system",
+        "Gas meter prover",
+        "Automated theorem proving",
+        "Fundamental theorem",
+        "Real analysis",
+        "Formal verification"
+    ],
+    "references": [
+        "1534850143",
+        "1566038112",
+        "1591577758",
+        "1606338671"
+    ]
+}

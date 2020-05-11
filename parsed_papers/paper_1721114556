@@ -1,0 +1,39 @@
+{
+    "id": "1721114556",
+    "title": "A Web Services security policy assistant",
+    "venue": "international conference for internet technology and secured transactions",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Tristan Lavarack",
+            "id": "230375500",
+            "org": "Academy for Information Technology, University of Johannesburg, South Africa"
+        },
+        {
+            "name": "Marijke Coetzee",
+            "id": "2116380470",
+            "org": "Academy for Information Technology, University of Johannesburg, South Africa"
+        }
+    ],
+    "fields_of_study": [
+        "Security through obscurity",
+        "Web application security",
+        "Computer security",
+        "Network security policy",
+        "Security service",
+        "Security policy",
+        "Security information and event management",
+        "Computer science",
+        "WS-Policy",
+        "Computer security model"
+    ],
+    "references": [
+        "1482612702",
+        "2044291365",
+        "2095224843",
+        "2111233268",
+        "2115819559",
+        "2121697735",
+        "2127025275"
+    ]
+}

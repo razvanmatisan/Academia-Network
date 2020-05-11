@@ -1,0 +1,32 @@
+{
+    "id": "1540915928",
+    "title": "The Relationship Between Gossiping in Vertex-Disjoint Paths Mode and Bisection Width",
+    "venue": "mathematical foundations of computer science",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Ralf Klasing",
+            "id": "92905432",
+            "org": "University of Paderborn"
+        }
+    ],
+    "fields_of_study": [
+        "Vertex (geometry)",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Graph",
+        "Upper and lower bounds",
+        "Gossip",
+        "Bisection",
+        "Planar graph",
+        "Computer science",
+        "Disjoint sets"
+    ],
+    "references": [
+        "1889867397",
+        "1965479829",
+        "1967162979",
+        "2069843743",
+        "2157066436"
+    ]
+}

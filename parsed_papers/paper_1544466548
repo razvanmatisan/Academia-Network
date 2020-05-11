@@ -1,0 +1,30 @@
+{
+    "id": "1544466548",
+    "title": "Rainbow Rummy : a Web-based game for vocabulary acquisition using computer-directed speech",
+    "venue": "symposium on languages, applications and technologies",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Brandon Yoshimoto",
+            "id": "2700632411",
+            "org": "Massachusetts Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Natural language processing",
+        "Rainbow",
+        "Speech recognition",
+        "Computer science",
+        "Vocabulary",
+        "Web application"
+    ],
+    "references": [
+        "70605514",
+        "187378260",
+        "2111399143",
+        "2111732304",
+        "2148122154",
+        "2398913168"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "1594974701",
+    "title": "An advanced multimodal platform for educational social networks",
+    "venue": "international conference on move to meaningful internet systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Maria Chiara Caschera",
+            "id": "1296536237",
+            "org": "Institute of Research on Population and Social Policies, National Research Council, Rome, Italy#TAB#"
+        },
+        {
+            "name": "Arianna D'Ulizia",
+            "id": "339519355",
+            "org": "Institute of Research on Population and Social Policies, National Research Council, Rome, Italy#TAB#"
+        },
+        {
+            "name": "Fernando Ferri",
+            "id": "2148534148",
+            "org": "Institute of Research on Population and Social Policies, National Research Council, Rome, Italy#TAB#"
+        },
+        {
+            "name": "Patrizia Grifoni",
+            "id": "2009886518",
+            "org": "Institute of Research on Population and Social Policies, National Research Council, Rome, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Collaborative learning",
+        "Multimedia",
+        "Input/output",
+        "Modalities",
+        "Human-computer interaction",
+        "Learning environment",
+        "Social network",
+        "Multimodal interaction",
+        "Multimodality",
+        "Computer science"
+    ],
+    "references": [
+        "107294284",
+        "115872985",
+        "1485488899",
+        "1496537760",
+        "1583240857",
+        "2007465845",
+        "2009803366",
+        "2041016355",
+        "2106753110",
+        "2138607541",
+        "2163529501"
+    ]
+}

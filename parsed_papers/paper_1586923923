@@ -1,0 +1,29 @@
+{
+    "id": "1586923923",
+    "title": "The Set Query Benchmark.",
+    "venue": "The Benchmark Handbook",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Patrick E. O'Neil",
+            "id": "2136822424",
+            "org": "Department of Mathematics|Computer Science|University of Massachusetts at Boston"
+        }
+    ],
+    "fields_of_study": [
+        "Web search query",
+        "Information retrieval",
+        "Decision support system",
+        "Query optimization",
+        "Database transaction",
+        "Query expansion",
+        "IBM",
+        "Sargable",
+        "Direct marketing",
+        "Computer science"
+    ],
+    "references": [
+        "1501548698",
+        "1552081212"
+    ]
+}

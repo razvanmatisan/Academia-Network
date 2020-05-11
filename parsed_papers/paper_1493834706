@@ -1,0 +1,32 @@
+{
+    "id": "1493834706",
+    "title": "Monitoring Temporal Rules Combined with Time Series",
+    "venue": "computer aided verification",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Doron Drusinsky",
+            "id": "104298892",
+            "org": "Naval Postgraduate School"
+        }
+    ],
+    "fields_of_study": [
+        "Interval temporal logic",
+        "Computation tree logic",
+        "Model-based reasoning",
+        "Monotonic function",
+        "Algorithm",
+        "Theoretical computer science",
+        "Time complexity",
+        "Model checking",
+        "Computer science",
+        "Linear logic",
+        "Temporal logic"
+    ],
+    "references": [
+        "2023808162",
+        "2064311651",
+        "2119965246",
+        "2122286070"
+    ]
+}

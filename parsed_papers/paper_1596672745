@@ -1,0 +1,32 @@
+{
+    "id": "1596672745",
+    "title": "Last-branch and speculative pruning algorithms for max",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Nathan R. Sturtevant",
+            "id": "302998071",
+            "org": "UCLA, Computer Science Department, Los Angeles, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pruning",
+        "Artificial intelligence",
+        "Branch and bound",
+        "Machine learning",
+        "Branching factor",
+        "Game tree",
+        "Algorithm",
+        "Computer science"
+    ],
+    "references": [
+        "194059906",
+        "1504092304",
+        "1599784826",
+        "2017359019",
+        "2120858222",
+        "2145224651",
+        "2157803532"
+    ]
+}

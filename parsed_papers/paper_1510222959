@@ -1,0 +1,45 @@
+{
+    "id": "1510222959",
+    "title": "Computing minimal conflicts for rich constraint languages",
+    "venue": "european conference on artificial intelligence",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jakob Mauss",
+            "id": "1992802307",
+            "org": "DaimlerChrysler AG, Research and Technology, RIC/EK, Berlin, Germany#TAB#"
+        },
+        {
+            "name": "Mugur Tatar",
+            "id": "2156037884",
+            "org": "DaimlerChrysler AG, Research and Technology, RIC/EK, Berlin, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Minification",
+        "Recursion",
+        "Machine learning",
+        "Of the form",
+        "Artificial intelligence",
+        "Computation",
+        "Propositional calculus",
+        "Systems analysis",
+        "Computer science",
+        "Theoretical computer science",
+        "Constraint logic programming",
+        "Constraint learning"
+    ],
+    "references": [
+        "92851101",
+        "1515447869",
+        "1607817027",
+        "1889333569",
+        "1982333717",
+        "1986660301",
+        "2034674470",
+        "2049934619",
+        "2100613802",
+        "2127845326",
+        "2144386448"
+    ]
+}

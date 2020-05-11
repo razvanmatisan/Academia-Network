@@ -1,0 +1,39 @@
+{
+    "id": "1572984194",
+    "title": "Branching Transactions: A Transaction Model for Parallel Database Systems",
+    "venue": "british national conference on databases",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Albert Burger",
+            "id": "2565728162",
+            "org": "University of Edinburgh"
+        },
+        {
+            "name": "Peter Thanisch",
+            "id": "2051875535",
+            "org": "University of Edinburgh"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Database tuning",
+        "Parallel computing",
+        "Parallel database",
+        "Database transaction",
+        "Distributed database",
+        "Multiversion concurrency control",
+        "Distributed transaction",
+        "Concurrency control",
+        "Distributed concurrency control",
+        "Distributed computing",
+        "Computer science"
+    ],
+    "references": [
+        "1517035156",
+        "1545155892",
+        "1997020216",
+        "2006239620",
+        "2168262674"
+    ]
+}

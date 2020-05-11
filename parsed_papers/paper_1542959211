@@ -1,0 +1,51 @@
+{
+    "id": "1542959211",
+    "title": "Learning k -nearest neighbor naive bayes for ranking",
+    "venue": "advanced data mining and applications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Liangxiao Jiang",
+            "id": "2150766703",
+            "org": "Faculty of Computer Science, China University of Geosciences, Wuhan, P.R.China#TAB#"
+        },
+        {
+            "name": "Harry Zhang",
+            "id": "2123363778",
+            "org": "Faculty of Computer Science, University of New Brunswick, Fredericton, NB, Canada#TAB#"
+        },
+        {
+            "name": "Jiang Su",
+            "id": "2120691019",
+            "org": "Faculty of Computer Science, University of New Brunswick, Fredericton, NB, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Data mining",
+        "Artificial intelligence",
+        "Training set",
+        "Receiver operating characteristic",
+        "Decision tree",
+        "Sampling (statistics)",
+        "k-nearest neighbors algorithm",
+        "Ranking",
+        "Computer science",
+        "Naive Bayes classifier",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1509515766",
+        "1527842677",
+        "1551066950",
+        "1554784324",
+        "1559060276",
+        "1912982817",
+        "2101499181",
+        "2125055259",
+        "2137539029",
+        "2147169507",
+        "2170913656",
+        "2171665309"
+    ]
+}

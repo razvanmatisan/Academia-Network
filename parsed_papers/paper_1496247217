@@ -1,0 +1,34 @@
+{
+    "id": "1496247217",
+    "title": "Linear Concurrent Constraint Programming over Reals",
+    "venue": "principles and practice of constraint programming",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Vincent Schachter",
+            "id": "2558189758",
+            "org": "L.I.E.N.S., Ecole Normale Superieure"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Concurrent constraint logic programming",
+        "Discrete mathematics",
+        "Constraint programming",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Binary constraint",
+        "Constraint logic programming",
+        "Constraint satisfaction problem",
+        "Mathematics",
+        "Simplex algorithm",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "1483111029",
+        "1536327987",
+        "1554378316",
+        "1577421310",
+        "2079522633",
+        "2159475935"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1571775398",
+    "title": "Systolic optimization on GPU platforms",
+    "venue": "computer aided systems theory",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Enrique Alba",
+            "id": "2207318694",
+            "org": "Universidad de Malaga"
+        },
+        {
+            "name": "Pablo Vidal",
+            "id": "2107883314",
+            "org": "Universidad de Malaga"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Genetic algorithm",
+        "Subset sum problem",
+        "Random search",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Systolic array",
+        "CUDA",
+        "Architecture",
+        "Disposition"
+    ],
+    "references": [
+        "1496375326",
+        "2084011265",
+        "2542756046"
+    ]
+}

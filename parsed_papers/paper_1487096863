@@ -1,0 +1,46 @@
+{
+    "id": "1487096863",
+    "title": "Particle Swarm Optimization for Digital Image Watermarking",
+    "venue": "bio science and bio technology",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Hai Tao",
+            "id": "2235115980",
+            "org": "University Malaysia Pahang"
+        },
+        {
+            "name": "Jasni Mohamad Zain",
+            "id": "2147701941",
+            "org": "University Malaysia Pahang"
+        },
+        {
+            "name": "Ahmed N. Abd Alla",
+            "id": "2170972152",
+            "org": "University Malaysia Pahang"
+        },
+        {
+            "name": "Qin Hongwu",
+            "id": "922645218",
+            "org": "University Malaysia Pahang"
+        }
+    ],
+    "fields_of_study": [
+        "Watermark",
+        "Digital image",
+        "Wavelet packet decomposition",
+        "Robustness (computer science)",
+        "Digital watermarking",
+        "Quantization (signal processing)",
+        "Discrete wavelet transform",
+        "Computer vision",
+        "Theoretical computer science",
+        "Particle swarm optimization",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "2113589451",
+        "2169846423"
+    ]
+}

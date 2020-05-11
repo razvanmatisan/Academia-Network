@@ -1,0 +1,39 @@
+{
+    "id": "1763495974",
+    "title": "Using Tolerance Calculus for Reasoning in Relative Order of Magnitude Models",
+    "venue": "industrial and engineering applications of artificial intelligence and expert systems",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Robert Dollinger",
+            "id": "2712778773",
+            "org": "Technical University of Cluj Department of Computer Science Gh.Baritiu 26 3400 Cluj Romania Gh.Baritiu 26 3400 Cluj Romania"
+        },
+        {
+            "name": "Ioan Alfred Letia",
+            "id": "110811574",
+            "org": "Department of Computer Science|Technical University of Cluj"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Order of magnitude",
+        "Qualitative reasoning",
+        "Calculus",
+        "Discrete mathematics",
+        "Artificial intelligence",
+        "Rotation formalisms in three dimensions",
+        "Numerical analysis",
+        "Knowledge-based systems",
+        "Rule of inference",
+        "Abstraction layer",
+        "Knowledge acquisition",
+        "Mathematics"
+    ],
+    "references": [
+        "88765238",
+        "181192058",
+        "187688107",
+        "2239763827"
+    ]
+}

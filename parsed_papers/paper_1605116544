@@ -1,0 +1,31 @@
+{
+    "id": "1605116544",
+    "title": "A proposal for a new block encryption standard",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Xuejia Lai",
+            "id": "2674942668",
+            "org": "Swiss Federal Institute of Technology"
+        },
+        {
+            "name": "James L. Massey",
+            "id": "1513199363",
+            "org": "Swiss Federal Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Ciphertext stealing",
+        "Transposition cipher",
+        "Ciphertext",
+        "Running key cipher",
+        "Two-square cipher",
+        "Cipher",
+        "Block cipher mode of operation",
+        "Computer science",
+        "Stream cipher"
+    ],
+    "references": []
+}

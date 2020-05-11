@@ -1,0 +1,43 @@
+{
+    "id": "1567539097",
+    "title": "An RSA Family of Trap-Door Permutations with a Common Domain and Its Applications",
+    "venue": "public key cryptography",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ryotaro Hayashi",
+            "id": "2102281387",
+            "org": "Tokyo Institute of Technology"
+        },
+        {
+            "name": "Tatsuaki Okamoto",
+            "id": "2142935726",
+            "org": "NTT Labs"
+        },
+        {
+            "name": "Keisuke Tanaka",
+            "id": "2165706190",
+            "org": "Tokyo Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Information privacy",
+        "Theoretical computer science",
+        "Permutation",
+        "Distributed computing",
+        "Ring signature",
+        "Public-key cryptography",
+        "Encryption",
+        "56-bit encryption",
+        "40-bit encryption",
+        "Cryptography",
+        "Computer science"
+    ],
+    "references": [
+        "1495266644",
+        "1552695147",
+        "1561907855",
+        "2110740499",
+        "2129483619"
+    ]
+}

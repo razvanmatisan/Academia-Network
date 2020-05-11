@@ -1,0 +1,52 @@
+{
+    "id": "1497664140",
+    "title": "Experiences in program understanding",
+    "venue": "conference of the centre for advanced studies on collaborative research",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Erich B. Buss",
+            "id": "2153209180",
+            "org": "IBM Development Laboratories, Toronto, Canada#TAB#"
+        },
+        {
+            "name": "John Henshaw",
+            "id": "2596817344",
+            "org": "IBM Development Laboratories, Toronto, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Personal software process",
+        "Real-time computing",
+        "Software Engineering Process Group",
+        "Systems engineering",
+        "Software archaeology",
+        "Management science",
+        "Social software engineering",
+        "Software development",
+        "Software peer review",
+        "Software project management",
+        "Software walkthrough"
+    ],
+    "references": [
+        "1491178396",
+        "1551821592",
+        "1953996914",
+        "1964962870",
+        "2000189655",
+        "2002662724",
+        "2006267758",
+        "2006382685",
+        "2021107363",
+        "2025043404",
+        "2038175876",
+        "2070402135",
+        "2080354164",
+        "2106229085",
+        "2116436709",
+        "2129466151",
+        "2170629373",
+        "2173469511"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": "1535772400",
+    "title": "A general clause theorem prover",
+    "venue": "conference on automated deduction",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Geoff Sutcliffe",
+            "id": "2152598606",
+            "org": "The University of Western Australia"
+        }
+    ],
+    "fields_of_study": [
+        "Semantic search",
+        "Discrete mathematics",
+        "Computer science",
+        "Completeness (statistics)",
+        "Rule of inference",
+        "Axiom",
+        "Embedding",
+        "Graph",
+        "Automated theorem proving",
+        "Unification"
+    ],
+    "references": [
+        "2088072422",
+        "2126583599"
+    ]
+}

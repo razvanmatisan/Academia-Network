@@ -1,0 +1,39 @@
+{
+    "id": "1559958463",
+    "title": "Communicating B Machines",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Steve Schneider",
+            "id": "2136932367",
+            "org": "Royal Holloway, University of London"
+        },
+        {
+            "name": "Helen Treharne",
+            "id": "2777669406",
+            "org": "Royal Holloway, University of London"
+        }
+    ],
+    "fields_of_study": [
+        "Correctness",
+        "Process calculus",
+        "Concurrency",
+        "Distributed computing",
+        "B-Method",
+        "Iterative and incremental development",
+        "Formal specification",
+        "Control theory",
+        "Theoretical computer science",
+        "Computer science"
+    ],
+    "references": [
+        "80370608",
+        "1572811214",
+        "1585758771",
+        "1832857872",
+        "1907309577",
+        "2105162671",
+        "2110425399"
+    ]
+}

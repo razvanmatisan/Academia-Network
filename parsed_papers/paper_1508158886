@@ -1,0 +1,37 @@
+{
+    "id": "1508158886",
+    "title": "Implementing Haskell Type Classes",
+    "venue": "glasgow workshop on functional programming",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Kevin Hammond",
+            "id": "2133455440",
+            "org": "Glasgow University"
+        },
+        {
+            "name": "Stephen Blott",
+            "id": "2306761397",
+            "org": "Glasgow University"
+        }
+    ],
+    "fields_of_study": [
+        "Type class",
+        "Functional programming",
+        "Haskell",
+        "Type variable",
+        "Programming language",
+        "Compiler",
+        "Operator (computer programming)",
+        "Algorithm",
+        "Generalized algebraic data type",
+        "Computer science"
+    ],
+    "references": [
+        "2059895047",
+        "2115847338",
+        "2133472914",
+        "2163976959",
+        "2166822586"
+    ]
+}

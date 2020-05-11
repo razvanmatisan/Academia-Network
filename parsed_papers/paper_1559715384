@@ -1,0 +1,29 @@
+{
+    "id": "1559715384",
+    "title": "Adding abstract datatypes to Meta-IV",
+    "venue": "formal methods",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Jorgen Steensgaard-Madsen",
+            "id": "2331335713",
+            "org": "Technical University of Denmark"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern matching",
+        "Theoretical computer science",
+        "Reuse",
+        "Meta-IV",
+        "Existential quantification",
+        "Program Design Language",
+        "Priority queue",
+        "Computer science"
+    ],
+    "references": [
+        "1511621732",
+        "1595372275",
+        "1984807151",
+        "2045531281"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": "1567604700",
+    "title": "Program inference from traces using multiple knowledge sources",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1977,
+    "authors": [
+        {
+            "name": "Jorge V. Phillips",
+            "id": "2104935495",
+            "org": "Artificial Intelligence Laboratory, Stanford University, Stanford, California#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Inference",
+        "Machine learning",
+        "Program analysis",
+        "Artificial intelligence",
+        "Data structure",
+        "Rule-based system",
+        "Automatic programming",
+        "Computer science"
+    ],
+    "references": [
+        "2088129973"
+    ]
+}

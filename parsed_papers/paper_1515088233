@@ -1,0 +1,43 @@
+{
+    "id": "1515088233",
+    "title": "PROWL: An Efficient Frequent Continuity Mining Algorithm on Event Sequences",
+    "venue": "data warehousing and knowledge discovery",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Kuo-Yu Huang",
+            "id": "2117788244",
+            "org": "National Central University"
+        },
+        {
+            "name": "Chia-Hui Chang",
+            "id": "2144182650",
+            "org": "National Central University"
+        },
+        {
+            "name": "Kuo-Zui Lin",
+            "id": "2160398486",
+            "org": "National Central University"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Computer science",
+        "Data mining",
+        "Knowledge extraction",
+        "Database transaction",
+        "Enumeration",
+        "Transaction processing",
+        "Data warehouse",
+        "Association rule learning",
+        "Algorithm",
+        "Depth-first search",
+        "Information extraction"
+    ],
+    "references": [
+        "20722260",
+        "171788814",
+        "2039242902",
+        "2138050692"
+    ]
+}

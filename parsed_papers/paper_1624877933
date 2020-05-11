@@ -1,0 +1,41 @@
+{
+    "id": "1624877933",
+    "title": "Energy-Saving Topology Control for Heterogeneous Ad Hoc Networks",
+    "venue": "advanced parallel programming technologies",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Lei Zhang",
+            "id": "2639558275",
+            "org": "School of Computer, National University of Defense Technology, Changsha, China 410073#TAB#"
+        },
+        {
+            "name": "Xuehui Wang",
+            "id": "2677328278",
+            "org": "School of Computer, National University of Defense Technology, Changsha, China 410073#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Optimized Link State Routing Protocol",
+        "Topology control",
+        "Dynamic circuit network",
+        "Wireless ad hoc network",
+        "Ad hoc wireless distribution service",
+        "Distributed computing",
+        "Network topology",
+        "Mobile ad hoc network",
+        "Computer network",
+        "Vehicular ad hoc network"
+    ],
+    "references": [
+        "168942614",
+        "1562115776",
+        "1780992783",
+        "2091408482",
+        "2127225994",
+        "2142928312",
+        "2148144638",
+        "2155471413"
+    ]
+}

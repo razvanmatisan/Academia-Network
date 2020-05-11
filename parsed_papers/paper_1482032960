@@ -1,0 +1,31 @@
+{
+    "id": "1482032960",
+    "title": "Applications of Digital Straight Segments to Economical Image Encoding",
+    "venue": "discrete geometry for computer imagery",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Vladimir Kovalevsky",
+            "id": "1990399755",
+            "org": "Technische Fachhochschule Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Encoding (memory)",
+        "Digital image",
+        "Homogeneous",
+        "Computer science",
+        "Image processing",
+        "Line (geometry)",
+        "Computational geometry",
+        "Computer vision",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1521330299",
+        "2003938193",
+        "2035584611",
+        "2082496770",
+        "2170633497"
+    ]
+}

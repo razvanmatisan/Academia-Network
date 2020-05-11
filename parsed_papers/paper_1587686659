@@ -1,0 +1,41 @@
+{
+    "id": "1587686659",
+    "title": "Sequential Strategy for Learning Multi-stage Multi-agent Collaborative Games",
+    "venue": "international conference on artificial neural networks",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "W. Andy Wright",
+            "id": "2112100370",
+            "org": "BAE SYSTEMS (ATC Sowerby)"
+        },
+        {
+            "name": "W. Andy Wright",
+            "id": "2112100370",
+            "org": "BAE SYSTEMS (ATC Sowerby)"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Best response",
+        "Sequential game",
+        "Distributed computing",
+        "Repeated game",
+        "Artificial intelligence",
+        "Strategy",
+        "Extensive-form game",
+        "Normal-form game",
+        "Coordination game",
+        "Nash equilibrium",
+        "Computer science"
+    ],
+    "references": [
+        "1484740474",
+        "1511309222",
+        "1513468570",
+        "1557517019",
+        "1641379095",
+        "2104602264",
+        "2165131254"
+    ]
+}

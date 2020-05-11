@@ -1,0 +1,40 @@
+{
+    "id": "137316345",
+    "title": "Towards optimizing hadoop provisioning in the cloud",
+    "venue": "ieee international conference on cloud computing technology and science",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Karthik Kambatla",
+            "id": "910584019",
+            "org": "Purdue University#TAB#"
+        },
+        {
+            "name": "Abhinav Pathak",
+            "id": "2106192829",
+            "org": "Purdue University#TAB#"
+        },
+        {
+            "name": "Himabindu Pucha",
+            "id": "2777733666",
+            "org": "IBM Research Almaden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Leverage (finance)",
+        "Programming paradigm",
+        "Analytics",
+        "Business intelligence",
+        "Distributed computing",
+        "Data mining",
+        "Cloud computing",
+        "Computer science",
+        "Ranging",
+        "Provisioning",
+        "Data analysis"
+    ],
+    "references": [
+        "2122465391",
+        "2173213060"
+    ]
+}

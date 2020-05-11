@@ -1,0 +1,39 @@
+{
+    "id": "1526654727",
+    "title": "Model-based reinforcement learning with nearly tight exploration complexity bounds",
+    "venue": "international conference on machine learning",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Istvan Szita",
+            "id": "2720660359",
+            "org": "University of Alberta, Athabasca Hall, Edmonton, AB T6G 2E8 Canada"
+        },
+        {
+            "name": "Csaba Szepesv ri",
+            "id": "2586477811",
+            "org": "University of Alberta, Athabasca Hall, Edmonton, AB T6G 2E8 Canada"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Logarithm",
+        "Time complexity",
+        "Artificial intelligence",
+        "Mathematical optimization",
+        "Markov decision process",
+        "Reinforcement learning",
+        "Upper and lower bounds",
+        "Binary logarithm",
+        "Mathematics"
+    ],
+    "references": [
+        "1505937442",
+        "1850488217",
+        "2082691056",
+        "2122701159",
+        "2129670787",
+        "2144744117",
+        "2489939061"
+    ]
+}

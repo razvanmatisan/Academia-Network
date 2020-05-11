@@ -1,0 +1,48 @@
+{
+    "id": "1591068862",
+    "title": "Machine Learning for Semi-structured Multimedia Documents: Application to Pornographic Filtering and Thematic Categorization",
+    "venue": "Machine Learning Techniques for Multimedia",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Ludovic Denoyer",
+            "id": "2080627981",
+            "org": "LIP6, UPMC"
+        },
+        {
+            "name": "Patrick Gallinari",
+            "id": "2235456028",
+            "org": "LIP6, UPMC"
+        }
+    ],
+    "fields_of_study": [
+        "Originality",
+        "Generative grammar",
+        "Thematic map",
+        "Natural language processing",
+        "Multimedia",
+        "Filter (signal processing)",
+        "Categorization",
+        "Data mining",
+        "Statistical model",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1482260847",
+        "1583423436",
+        "1779160031",
+        "1924689489",
+        "1934863104",
+        "2045117606",
+        "2048580947",
+        "2063862666",
+        "2097614116",
+        "2113858169",
+        "2118020653",
+        "2134222424",
+        "2149056056",
+        "2149684865",
+        "2160533754"
+    ]
+}

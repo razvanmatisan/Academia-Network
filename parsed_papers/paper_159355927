@@ -1,0 +1,41 @@
+{
+    "id": "159355927",
+    "title": "Spectra of the spike-flow graphs in geometrically embedded neural networks",
+    "venue": "international conference on artificial intelligence and soft computing",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Jaroslaw Piersa",
+            "id": "98935390",
+            "org": "Faculty of Mathematics and Computer Science, Nicolaus Copernicus University, Poland#TAB#"
+        },
+        {
+            "name": "Tomasz Schreiber",
+            "id": "2469665919",
+            "org": "Faculty of Mathematics and Computer Science, Nicolaus Copernicus University, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Adjacency matrix",
+        "Machine learning",
+        "Artificial intelligence",
+        "Lattice (order)",
+        "Eigenvalues and eigenvectors",
+        "Embedding",
+        "Complex network",
+        "Combinatorics",
+        "Spectral line",
+        "Artificial neural network",
+        "Discrete mathematics",
+        "Graph energy",
+        "Mathematics"
+    ],
+    "references": [
+        "1450746098",
+        "1481967218",
+        "1582813132",
+        "2042492924",
+        "2116192505",
+        "2124637492"
+    ]
+}

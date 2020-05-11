@@ -1,0 +1,35 @@
+{
+    "id": "1483984167",
+    "title": "Software Requirement Definition And Data Models",
+    "venue": "very large data bases",
+    "year": 1979,
+    "authors": [
+        {
+            "name": "Arne Solvberg",
+            "id": "2292081463",
+            "org": "The Norwegian Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Database",
+        "Equivalence (measure theory)",
+        "Computer science",
+        "Terminology",
+        "Data model",
+        "IDEF5",
+        "Software requirements",
+        "Conceptual schema",
+        "Ontology (information science)",
+        "Data modeling"
+    ],
+    "references": [
+        "59497836",
+        "180866423",
+        "1542099225",
+        "1544191625",
+        "1550638611",
+        "1967003875",
+        "2111869173"
+    ]
+}

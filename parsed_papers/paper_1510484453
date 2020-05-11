@@ -1,0 +1,40 @@
+{
+    "id": "1510484453",
+    "title": "Models and Symmetry Breaking for 'Peaceable Armies of Queens'",
+    "venue": "integration of ai and or techniques in constraint programming",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Barbara M. Smith",
+            "id": "2119362285",
+            "org": "University of Huddersfield"
+        },
+        {
+            "name": "Karen E. Petrie",
+            "id": "2778094930",
+            "org": "University of Huddersfield"
+        },
+        {
+            "name": "Ian P. Gent",
+            "id": "2192614943",
+            "org": "University of St. Andrews"
+        }
+    ],
+    "fields_of_study": [
+        "Heuristic",
+        "Mathematical optimization",
+        "Constraint programming",
+        "Discrete mathematics",
+        "Symmetry breaking",
+        "Eight queens puzzle",
+        "Binary constraint",
+        "Heuristics",
+        "Optimization problem",
+        "Constraint satisfaction",
+        "Mathematics"
+    ],
+    "references": [
+        "1512988629",
+        "1600394779"
+    ]
+}

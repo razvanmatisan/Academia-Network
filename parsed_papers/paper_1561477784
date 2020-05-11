@@ -1,0 +1,33 @@
+{
+    "id": "1561477784",
+    "title": "Partial Learning Using Link Grammars Data",
+    "venue": "international colloquium on grammatical inference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Erwan Moreau",
+            "id": "2135491403",
+            "org": "Universite de Nantes"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Phrase structure grammar",
+        "Computer science",
+        "Artificial intelligence",
+        "Tree-adjoining grammar",
+        "Machine learning",
+        "Combinatory categorial grammar",
+        "Link grammar",
+        "Indexed grammar",
+        "Embedded pushdown automaton",
+        "L-attributed grammar",
+        "Context-sensitive grammar"
+    ],
+    "references": [
+        "1551398652",
+        "1583244717",
+        "2012920920",
+        "2123796147"
+    ]
+}

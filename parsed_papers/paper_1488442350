@@ -1,0 +1,45 @@
+{
+    "id": "1488442350",
+    "title": "A Fast Cryptographic Checksum Algorithm Based on Stream Ciphers",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Xuejia Lai",
+            "id": "2714693634",
+            "org": "Swiss Federal Institute of Technology Zurich"
+        },
+        {
+            "name": "Rainer A. Rueppel",
+            "id": "2607627488",
+            "org": "R3 Security Engineering"
+        },
+        {
+            "name": "Jack Woollven",
+            "id": "2688800884",
+            "org": "Steg, Switzerland"
+        }
+    ],
+    "fields_of_study": [
+        "Message authentication code",
+        "Hash-based message authentication code",
+        "Theoretical computer science",
+        "Stream cipher attack",
+        "Checksum",
+        "Data Authentication Algorithm",
+        "Block cipher mode of operation",
+        "Computer science",
+        "Sponge function",
+        "Distributed computing",
+        "Algorithm",
+        "CBC-MAC"
+    ],
+    "references": [
+        "1549228503",
+        "1813564308",
+        "1872315398",
+        "1926480282",
+        "1996360405",
+        "2108834246"
+    ]
+}

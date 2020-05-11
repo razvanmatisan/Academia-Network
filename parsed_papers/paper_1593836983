@@ -1,0 +1,38 @@
+{
+    "id": "1593836983",
+    "title": "Face identification performance using facial expressions as perturbation",
+    "venue": "international conference on artificial neural networks",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Minoru Nakayama",
+            "id": "2781187550",
+            "org": "CRADLE, Tokyo Institute of Technology, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Takashi Kumakura",
+            "id": "2324335504",
+            "org": "Human System Science, Tokyo Institute of Technology, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Biometrics",
+        "Machine learning",
+        "Support vector machine",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Eigenvalues and eigenvectors",
+        "Perturbation (astronomy)",
+        "Facial expression",
+        "System identification",
+        "Facial recognition system",
+        "Computer science"
+    ],
+    "references": [
+        "1486089539",
+        "1620899341",
+        "1959724152",
+        "2112335400",
+        "2159737176"
+    ]
+}

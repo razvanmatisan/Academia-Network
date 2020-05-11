@@ -1,0 +1,36 @@
+{
+    "id": "1482517179",
+    "title": "Towards an Analytical Framework to Enhance Teaching Support in Digital Systems Design Course",
+    "venue": "complex, intelligent and software intensive systems",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "David Baneres",
+            "id": "1043128496",
+            "org": "IT, Multimedia & Telecommun. Dept., Open Univ. of Catalonia, Barcelona, Spain"
+        }
+    ],
+    "fields_of_study": [
+        "Systems design",
+        "Distributed computing",
+        "Computer engineering",
+        "Digital electronics",
+        "Virtual machine",
+        "Computer science",
+        "Server",
+        "Intelligent tutoring system",
+        "Simulation",
+        "Graphical user interface"
+    ],
+    "references": [
+        "1536696051",
+        "2008064904",
+        "2011607672",
+        "2086473544",
+        "2112342242",
+        "2117817374",
+        "2130061034",
+        "2130625835",
+        "2132724442"
+    ]
+}

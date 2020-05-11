@@ -1,0 +1,31 @@
+{
+    "id": "1574458952",
+    "title": "Abstracting Query Building for Multi-entity Faceted Browsing",
+    "venue": "flexible query answering systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Fredrik Palm",
+            "id": "2224948749",
+            "org": "HUMlab, Umea University,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Digital humanities",
+        "Relational database",
+        "Information retrieval",
+        "Data mining",
+        "Spatial analysis",
+        "Graph (abstract data type)",
+        "Data model",
+        "Database",
+        "User requirements document",
+        "Computer science",
+        "Multidisciplinary approach",
+        "Data modeling"
+    ],
+    "references": [
+        "1576860613",
+        "2127456844"
+    ]
+}

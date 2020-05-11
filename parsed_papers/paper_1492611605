@@ -1,0 +1,27 @@
+{
+    "id": "1492611605",
+    "title": "Reverse-Fit: A 2-Optimal Algorithm for Packing Rectangles",
+    "venue": "european symposium on algorithms",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Ingo Schiermeyer",
+            "id": "2775910501",
+            "org": "Technische Hochschule Aachen"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Discrete mathematics",
+        "Bin",
+        "Set packing",
+        "Computer science",
+        "Bin packing problem",
+        "Algorithm"
+    ],
+    "references": [
+        "1997959089",
+        "2019318803",
+        "2071027833"
+    ]
+}

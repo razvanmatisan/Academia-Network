@@ -1,0 +1,42 @@
+{
+    "id": "1538906616",
+    "title": "Facets of the Directed Acyclic Graph Layering Polytope",
+    "venue": "workshop on graph theoretic concepts in computer science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Patrick Healy",
+            "id": "2136167289",
+            "org": "University of Limerick"
+        },
+        {
+            "name": "Nikola S. Nikolov",
+            "id": "2150185657",
+            "org": "University of Limerick"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Combinatorics",
+        "Moral graph",
+        "Directed acyclic graph",
+        "Directed graph",
+        "Graph (abstract data type)",
+        "Modular decomposition",
+        "Voltage graph",
+        "Line graph",
+        "Feedback arc set",
+        "Mathematics"
+    ],
+    "references": [
+        "1485323191",
+        "1569122551",
+        "1602198681",
+        "1968143987",
+        "1974418688",
+        "2071353749",
+        "2092333800",
+        "2126536832",
+        "2129825531"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "109402995",
+    "title": "Relational representation theorems for general lattices with negations",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Wojciech Dzik",
+            "id": "2307882900",
+            "org": "Institute of Mathematics, Silesian University, Katowice, Poland#TAB#"
+        },
+        {
+            "name": "Ewa Orlowska",
+            "id": "2001527509",
+            "org": "National Institute of Telecommunications, Warsaw, Poland#TAB#"
+        },
+        {
+            "name": "Clint J. van Alten",
+            "id": "2264394098",
+            "org": "School of Mathematics, University of the Witwatersrand, Johannesburg, South Africa#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Lattice (order)",
+        "Negation",
+        "Representation theorem",
+        "Relational calculus",
+        "Relational algebra",
+        "Combinatorics",
+        "Binary relation",
+        "Distributive lattice",
+        "Distributive property",
+        "Mathematics"
+    ],
+    "references": [
+        "1490736403",
+        "1505062653",
+        "1964754311",
+        "2112576833"
+    ]
+}

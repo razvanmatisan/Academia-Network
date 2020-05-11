@@ -1,0 +1,37 @@
+{
+    "id": "1592089885",
+    "title": "Personal construct theory and the transfer of human expertise",
+    "venue": "national conference on artificial intelligence",
+    "year": 1984,
+    "authors": [
+        {
+            "name": "John H. Boose",
+            "id": "2100873511",
+            "org": "Boeing Computer Services, Seattle, Washington#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge engineering",
+        "Artificial intelligence",
+        "Knowledge base",
+        "Expert system",
+        "Machine learning",
+        "Management science",
+        "Subject-matter expert",
+        "Legal expert system",
+        "Computer science",
+        "Knowledge acquisition",
+        "Knowledge-based systems",
+        "Expert elicitation",
+        "Knowledge management"
+    ],
+    "references": [
+        "125914802",
+        "1994806832",
+        "2030987260",
+        "2062320350",
+        "2067642555",
+        "2118888533",
+        "2158270697"
+    ]
+}

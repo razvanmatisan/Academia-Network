@@ -1,0 +1,41 @@
+{
+    "id": "1554394958",
+    "title": "Strict deterministic aspects of minimalist grammars",
+    "venue": "logical aspects of computational linguistics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "John Hale",
+            "id": "2143953440",
+            "org": "Michigan State University, East Lansing, MI#TAB#"
+        },
+        {
+            "name": "Edward P. Stabler",
+            "id": "2134559496",
+            "org": "University of California, Los Angeles, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Artificial intelligence",
+        "Natural language processing",
+        "Discrete mathematics",
+        "Minimalist grammar",
+        "Parsing",
+        "String (computer science)",
+        "Ambiguous grammar",
+        "Context-free language",
+        "Categorial grammar",
+        "Rule-based machine translation",
+        "Lexical item",
+        "Mathematics"
+    ],
+    "references": [
+        "1496999945",
+        "1544416128",
+        "1968127341",
+        "2013792237",
+        "2064490449",
+        "2105505307"
+    ]
+}

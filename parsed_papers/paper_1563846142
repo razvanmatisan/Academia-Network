@@ -1,0 +1,40 @@
+{
+    "id": "1563846142",
+    "title": "A flexible location-context representation",
+    "venue": "personal, indoor and mobile radio communications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Filipe Meneses",
+            "id": "2173556141",
+            "org": "Dept. of Information Syst., Minho Univ., Portugal"
+        },
+        {
+            "name": "Adriano Moreira",
+            "id": "2128184677",
+            "org": "Dept. of Information Syst., Minho Univ., Portugal"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Location-based service",
+        "Data structure",
+        "Ubiquitous computing",
+        "Ubiquitous robot",
+        "Context management",
+        "Distributed computing",
+        "Context-aware pervasive systems",
+        "Computer science"
+    ],
+    "references": [
+        "305258241",
+        "1540676857",
+        "1606320148",
+        "1933135861",
+        "2077722596",
+        "2079676608",
+        "2102317836",
+        "2107300377",
+        "2131415946"
+    ]
+}

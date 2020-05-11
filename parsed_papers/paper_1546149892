@@ -1,0 +1,46 @@
+{
+    "id": "1546149892",
+    "title": "Transparent run-time defense against stack smashing attacks",
+    "venue": "usenix annual technical conference",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Arash Baratloo",
+            "id": "2558393145",
+            "org": "Bell Labs Research, Lucent Technologies, Murray Hill, NJ#TAB#"
+        },
+        {
+            "name": "Navjot Singh",
+            "id": "2128327979",
+            "org": "Bell Labs Research, Lucent Technologies, Murray Hill, NJ#TAB#"
+        },
+        {
+            "name": "Timothy Tsai",
+            "id": "2602401293",
+            "org": "Bell Labs Research, Lucent Technologies, Murray Hill, NJ and Reliable Software Technologies, Dulles, VA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Binary number",
+        "Stack buffer overflow",
+        "Address space layout randomization",
+        "Call stack",
+        "Work in process",
+        "Real-time computing",
+        "Stack (abstract data type)",
+        "Embedded system",
+        "Operating system",
+        "Buffer overflow",
+        "Executable",
+        "Computer science"
+    ],
+    "references": [
+        "1579850852",
+        "1655226010",
+        "2007181618",
+        "2103228939",
+        "2133239972",
+        "2150606482",
+        "2176702635"
+    ]
+}

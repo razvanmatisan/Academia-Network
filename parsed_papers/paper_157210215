@@ -1,0 +1,37 @@
+{
+    "id": "157210215",
+    "title": "Treelets | A Tool for Dimensionality Reduction and Multi-Scale Analysis of Unstructured Data",
+    "venue": "international conference on artificial intelligence and statistics",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Ann B. Lee",
+            "id": "2142124632",
+            "org": "Carnegie Mellon University"
+        },
+        {
+            "name": "Boaz Nadler",
+            "id": "2056783373",
+            "org": "Weizmann Institute of Science"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Scale analysis (statistics)",
+        "Cluster analysis",
+        "Feature selection",
+        "Mixture model",
+        "Principal component analysis",
+        "Computer science",
+        "Curse of dimensionality",
+        "Dimensionality reduction",
+        "Unstructured data",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "167115076",
+        "2056526893",
+        "2124436456"
+    ]
+}

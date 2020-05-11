@@ -1,0 +1,41 @@
+{
+    "id": "1516172206",
+    "title": "Factorization with Uncertainty",
+    "venue": "european conference on computer vision",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Michal Irani",
+            "id": "2287919390",
+            "org": "The Weizmann Institute of Science"
+        },
+        {
+            "name": "P. Anandan",
+            "id": "2464474250",
+            "org": "Microsoft Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Minification",
+        "Computer vision",
+        "Computer science",
+        "Mahalanobis distance",
+        "Motion estimation",
+        "Iterative reconstruction",
+        "Singular value decomposition",
+        "Independent and identically distributed random variables",
+        "Mathematical optimization",
+        "Algorithm",
+        "Factorization",
+        "Directionality"
+    ],
+    "references": [
+        "2088871573",
+        "2096330980",
+        "2102735788",
+        "2138835141",
+        "2146201632",
+        "2151812852"
+    ]
+}

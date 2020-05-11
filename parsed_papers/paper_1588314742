@@ -1,0 +1,33 @@
+{
+    "id": "1588314742",
+    "title": "Dense model theorems and their applications",
+    "venue": "theory of cryptography conference",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Luca Trevisan",
+            "id": "2115996045",
+            "org": "Department of Computer Science, Stanford University, Stanford CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Number theory",
+        "Prime factor",
+        "Multiplicative number theory",
+        "Prime number",
+        "Primes in arithmetic progression",
+        "Algebra",
+        "Logarithmic integral function",
+        "Arithmetic progression",
+        "Mathematics"
+    ],
+    "references": [
+        "1493407996",
+        "1496806208",
+        "1976183756",
+        "2133701468",
+        "2135481450",
+        "2160403361"
+    ]
+}

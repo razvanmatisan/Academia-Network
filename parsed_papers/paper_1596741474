@@ -1,0 +1,42 @@
+{
+    "id": "1596741474",
+    "title": "An Optimal-time Recursive Evaluator for Attribute Grammars",
+    "venue": "Proceedings of the 6th Colloquium on International Symposium on Programming",
+    "year": 1984,
+    "authors": [
+        {
+            "name": "Martin Jourdan",
+            "id": "2098566749",
+            "org": "INRIA Domaine de Voluceau -- Rocquencourt"
+        }
+    ],
+    "fields_of_study": [
+        "Tree-adjoining grammar",
+        "S-attributed grammar",
+        "Attribute domain",
+        "Adaptive grammar",
+        "Attribute grammar",
+        "L-attributed grammar",
+        "Parsing expression grammar",
+        "Mathematics",
+        "Context-free grammar",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1595211998",
+        "1777902499",
+        "1964071625",
+        "1968022708",
+        "1977220114",
+        "1981992674",
+        "1991022454",
+        "2003451210",
+        "2004155726",
+        "2022802764",
+        "2073788202",
+        "2087852575",
+        "2103411350",
+        "2148246401"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": "1533308299",
+    "title": "Assembly of Conceptual Graphs from Natural Language by Means of Multiple Knowledge Specialists",
+    "venue": "international conference on conceptual structures",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Graham Mann",
+            "id": "2607893004",
+            "org": "University of New South Wales"
+        }
+    ],
+    "fields_of_study": [
+        "Conceptual graph",
+        "Parsing",
+        "Recursion",
+        "Natural language",
+        "Natural language processing",
+        "Phrase structure rules",
+        "Natural language programming",
+        "Parse tree",
+        "Computer science",
+        "Syntax",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "109330393",
+        "1994645638",
+        "2063205466"
+    ]
+}

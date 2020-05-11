@@ -1,0 +1,47 @@
+{
+    "id": "1574442253",
+    "title": "Analysis and Experimental Evaluation of an Innovative and Efficient Routing Protocol for Ad-hoc Mobile Networks",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Ioannis Chatzigiannakis",
+            "id": "193825520",
+            "org": "Computer Technology Institute"
+        },
+        {
+            "name": "Sotiris E. Nikoletseas",
+            "id": "410953431",
+            "org": "Computer Technology Institute"
+        },
+        {
+            "name": "Paul G. Spirakis",
+            "id": "2095693323",
+            "org": "Computer Technology Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Routing protocol",
+        "Random graph",
+        "Grid",
+        "Mobile station",
+        "Tunneling protocol",
+        "Distributed computing",
+        "Message passing",
+        "Wireless Routing Protocol",
+        "Computer network",
+        "Cellular network",
+        "Computer science"
+    ],
+    "references": [
+        "2030713218",
+        "2045637260",
+        "2050711994",
+        "2066347632",
+        "2095206774",
+        "2102258543",
+        "2119710605",
+        "2133794215",
+        "2156153879"
+    ]
+}

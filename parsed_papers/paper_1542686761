@@ -1,0 +1,45 @@
+{
+    "id": "1542686761",
+    "title": "Linear Time Planarity Testing and Embedding of Strongly Connected Cyclic Level Graphs",
+    "venue": "european symposium on algorithms",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Christian Bachmaier",
+            "id": "1529347257",
+            "org": "University of Passau, Germany#TAB#"
+        },
+        {
+            "name": "Wolfgang Brunner",
+            "id": "2161336414",
+            "org": "University of Passau, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pathwidth",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Pancyclic graph",
+        "Indifference graph",
+        "Modular decomposition",
+        "Chordal graph",
+        "Forbidden graph characterization",
+        "1-planar graph",
+        "Partial k-tree",
+        "Mathematics"
+    ],
+    "references": [
+        "1505458664",
+        "1592553431",
+        "1968583064",
+        "1981217929",
+        "1987374783",
+        "2001558269",
+        "2047088053",
+        "2071353749",
+        "2089449364",
+        "2121655825",
+        "2140230255",
+        "2167892345"
+    ]
+}

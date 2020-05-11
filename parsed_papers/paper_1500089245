@@ -1,0 +1,33 @@
+{
+    "id": "1500089245",
+    "title": "An Effective Implementation of a Direct Spanning Tree Representation in GAs",
+    "venue": "evoworkshops on applications of evolutionary computing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Yu Li",
+            "id": "2437722358",
+            "org": "LaRIA, Univ. de Picardie Jules Verne"
+        }
+    ],
+    "fields_of_study": [
+        "Initialization",
+        "Discrete mathematics",
+        "Tree (graph theory)",
+        "Euclidean minimum spanning tree",
+        "Distributed minimum spanning tree",
+        "Tree structure",
+        "Minimum spanning tree",
+        "Operator (computer programming)",
+        "Mathematics",
+        "Spanning tree"
+    ],
+    "references": [
+        "1520068163",
+        "1639032689",
+        "2004711524",
+        "2037703285",
+        "2142183404",
+        "2161880126"
+    ]
+}

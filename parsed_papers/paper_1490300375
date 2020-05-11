@@ -1,0 +1,32 @@
+{
+    "id": "1490300375",
+    "title": "Studying Interchangeability in Constraint Satisfaction Problems",
+    "venue": "principles and practice of constraint programming",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Nicoleta Neagu",
+            "id": "1578515316",
+            "org": "Swiss Federal Institute of Technology (EPFL)"
+        }
+    ],
+    "fields_of_study": [
+        "Complexity of constraint satisfaction",
+        "Mathematical optimization",
+        "Computer science",
+        "Interchangeability",
+        "Constraint (mathematics)",
+        "Constraint satisfaction dual problem",
+        "Local consistency",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Constraint learning",
+        "Constraint satisfaction problem"
+    ],
+    "references": [
+        "153965054",
+        "1525343891",
+        "1559463877",
+        "2156525231",
+        "2611523566"
+    ]
+}

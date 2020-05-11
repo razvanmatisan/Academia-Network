@@ -1,0 +1,46 @@
+{
+    "id": "1523035547",
+    "title": "Experiences with an Emotional Sales Agent",
+    "venue": "agent-directed simulation",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Stefan Fischer",
+            "id": "2318274992",
+            "org": "University of Augsburg"
+        },
+        {
+            "name": "Sven Doring",
+            "id": "1923672840",
+            "org": "University of Augsburg"
+        },
+        {
+            "name": "Matthias Wimmer",
+            "id": "2399480828",
+            "org": "Technical University of Munich"
+        },
+        {
+            "name": "Antonia Lina Krummheuer",
+            "id": "1925280017",
+            "org": "University of Bielefeld"
+        }
+    ],
+    "fields_of_study": [
+        "Marketing",
+        "Emotion recognition",
+        "Management science",
+        "Embodied cognition",
+        "Expressed emotion",
+        "Manufacturers' representative",
+        "Gesture",
+        "Speech synthesis",
+        "Computer science",
+        "Artificial intelligence",
+        "User interface"
+    ],
+    "references": [
+        "1501488077",
+        "2021436820",
+        "2126500482"
+    ]
+}

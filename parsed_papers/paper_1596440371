@@ -1,0 +1,41 @@
+{
+    "id": "1596440371",
+    "title": "A Prolog Based System That Assists Experts to Construct and Simulate Fuzzy Cognitive Maps",
+    "venue": "hellenic conference on artificial intelligence",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Athanasios K. Tsadiras",
+            "id": "2308329295",
+            "org": "Department of Information Technology, Alexander Technological Educational Institute of Thessaloniki, Thessaloniki, Greece 57400#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Strategic planning",
+        "Machine learning",
+        "Artificial intelligence",
+        "Fuzzy cognitive map",
+        "Data mining",
+        "Neuro-fuzzy",
+        "Fuzzy logic",
+        "Artificial neural network",
+        "Adaptive neuro fuzzy inference system",
+        "Fuzzy set operations",
+        "Computer science",
+        "Prolog"
+    ],
+    "references": [
+        "1489140035",
+        "1491178396",
+        "1867332446",
+        "1986969415",
+        "2024056684",
+        "2029116981",
+        "2066031679",
+        "2073595101",
+        "2095224843",
+        "2112966019",
+        "2129725726",
+        "2169665448"
+    ]
+}

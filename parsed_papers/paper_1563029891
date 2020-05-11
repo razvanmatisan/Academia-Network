@@ -1,0 +1,26 @@
+{
+    "id": "1563029891",
+    "title": "Traveler: the apiary observatory",
+    "venue": "european conference on object-oriented programming",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Carl R. Manning",
+            "id": "2142810284",
+            "org": "Massachusetts Institute of Technology, Cambridge#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Database transaction",
+        "Computation",
+        "Debugging",
+        "User control",
+        "Actor model",
+        "Programmer",
+        "Real-time computing",
+        "Distributed computing",
+        "Apiary",
+        "Computer science"
+    ],
+    "references": []
+}

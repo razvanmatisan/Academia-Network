@@ -1,0 +1,48 @@
+{
+    "id": "1607716168",
+    "title": "AN-Aided Secrecy Precoding for SWIPT in Cognitive MIMO Broadcast Channels",
+    "venue": "IEEE Communications Letters",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Bing Fang",
+            "id": "2237168034",
+            "org": "Coll. of Commun. Eng., PLA Univ. of Sci. & Technol., Nanjing, China"
+        },
+        {
+            "name": "Zuping Qian",
+            "id": "2644745151",
+            "org": "Coll. of Commun. Eng., PLA Univ. of Sci. & Technol., Nanjing, China"
+        },
+        {
+            "name": "Wei Zhong",
+            "id": "2244539929",
+            "org": "Coll. of Commun. Eng., PLA Univ. of Sci. & Technol., Nanjing, China"
+        },
+        {
+            "name": "Wei Shao",
+            "id": "2303488756",
+            "org": "Coll. of Commun. Eng., PLA Univ. of Sci. & Technol., Nanjing, China"
+        }
+    ],
+    "fields_of_study": [
+        "Precoding",
+        "Maximum power transfer theorem",
+        "Convergence (routing)",
+        "MIMO",
+        "Mathematical optimization",
+        "Cognitive radio",
+        "Zero-forcing precoding",
+        "Computer science",
+        "Communication channel",
+        "Optimization problem"
+    ],
+    "references": [
+        "1484024531",
+        "2031747437",
+        "2032372805",
+        "2060695112",
+        "2113160737",
+        "2133108373"
+    ]
+}

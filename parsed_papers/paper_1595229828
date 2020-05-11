@@ -1,0 +1,41 @@
+{
+    "id": "1595229828",
+    "title": "Variable Elimination and Chaining in a Resolution-based Prover for Inequalities",
+    "venue": "conference on automated deduction",
+    "year": 1980,
+    "authors": [
+        {
+            "name": "W. W. Bledsoe",
+            "id": "744079781",
+            "org": "The University of Texas"
+        },
+        {
+            "name": "Larry M. Hines",
+            "id": "2141188536",
+            "org": "The University of Texas"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical proof",
+        "Algorithm",
+        "Conjunctive normal form",
+        "Continuous function",
+        "Discrete mathematics",
+        "Linear inequality",
+        "Mathematical optimization",
+        "Interpolation",
+        "Variable elimination",
+        "Axiom",
+        "Chaining",
+        "Mathematics"
+    ],
+    "references": [
+        "1520253054",
+        "1572470107",
+        "1988192943",
+        "1996158986",
+        "2039744511",
+        "2052377886",
+        "2100738443"
+    ]
+}

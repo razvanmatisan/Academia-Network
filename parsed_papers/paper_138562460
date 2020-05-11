@@ -1,0 +1,33 @@
+{
+    "id": "138562460",
+    "title": "Hierarchical genetic algorithms operating on populations of computer programs",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "John R. Koza",
+            "id": "2141641810",
+            "org": "Computer Science Department|Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic algorithm",
+        "Artificial intelligence",
+        "Genetic representation",
+        "Machine learning",
+        "Recursion",
+        "Computer experiment",
+        "Genetic programming",
+        "Artificial neural network",
+        "Theoretical computer science",
+        "Computer network programming",
+        "Computer science",
+        "Automatic programming"
+    ],
+    "references": [
+        "112580561",
+        "1482827835",
+        "1639032689",
+        "2018642704"
+    ]
+}

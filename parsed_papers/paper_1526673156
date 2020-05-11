@@ -1,0 +1,47 @@
+{
+    "id": "1526673156",
+    "title": "Performance bounds for l policy iteration and application to the game of Tetris",
+    "venue": "Journal of Machine Learning Research",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Bruno Scherrer",
+            "id": "1735999048",
+            "org": "INRIA Lorraine, Villers-l'es-Nancy, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical economics",
+        "Machine learning",
+        "Stochastic control",
+        "Rate of convergence",
+        "Standard algorithms",
+        "Reinforcement learning",
+        "Mathematical optimization",
+        "Optimal control",
+        "Artificial intelligence",
+        "Temporal difference learning",
+        "Markov decision process",
+        "Mathematics",
+        "Analysis of algorithms"
+    ],
+    "references": [
+        "145490631",
+        "1485020964",
+        "1507222174",
+        "1547105496",
+        "1579026795",
+        "1716849269",
+        "1730555343",
+        "2072931156",
+        "2104753538",
+        "2117355432",
+        "2121863487",
+        "2122689259",
+        "2123917165",
+        "2128812357",
+        "2130005627",
+        "2134932665",
+        "2165060096"
+    ]
+}

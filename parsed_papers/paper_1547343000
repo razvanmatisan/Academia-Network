@@ -1,0 +1,30 @@
+{
+    "id": "1547343000",
+    "title": "Synchronization and Caching Issues in the Andrew File System.",
+    "venue": "USENIX Winter",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Michael L. Kazar",
+            "id": "2659236331",
+            "org": "Information Technology Center"
+        }
+    ],
+    "fields_of_study": [
+        "Unix file types",
+        "File synchronization",
+        "Computer network",
+        "Stub file",
+        "Andrew File System",
+        "File system fragmentation",
+        "File Control Block",
+        "Versioning file system",
+        "Self-certifying File System",
+        "Computer science",
+        "Distributed computing"
+    ],
+    "references": [
+        "35638016",
+        "2091416827"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "1599103017",
+    "title": "Automated RTL Verification Based on Predicate Calculus",
+    "venue": "computer aided verification",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Michel Langevin",
+            "id": "2239607420",
+            "org": "Universite de Montreal"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Boolean function",
+        "Directed acyclic graph",
+        "Algorithm",
+        "Intelligent verification",
+        "First-order logic",
+        "Register-transfer level",
+        "High-level verification",
+        "Computer science",
+        "Formal verification",
+        "Abstraction"
+    ],
+    "references": [
+        "1977298531",
+        "2014393101",
+        "2057956383",
+        "2080267935"
+    ]
+}

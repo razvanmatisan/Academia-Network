@@ -1,0 +1,40 @@
+{
+    "id": "1564364339",
+    "title": "A-GWL: Abstract Grid Workflow Language",
+    "venue": "international conference on computational science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Thomas Fahringer",
+            "id": "1991808295",
+            "org": "University of Innsbruck"
+        },
+        {
+            "name": "Sabri Pllana",
+            "id": "437038843",
+            "org": "University of Vienna"
+        },
+        {
+            "name": "Alex Villazon",
+            "id": "2167170432",
+            "org": "University of Innsbruck"
+        }
+    ],
+    "fields_of_study": [
+        "Grid",
+        "Synchronization",
+        "XML",
+        "Workflow",
+        "Input/output",
+        "Workflow management system",
+        "Real-time computing",
+        "Distributed computing",
+        "Port (computer networking)",
+        "Computer science",
+        "Abstraction"
+    ],
+    "references": [
+        "1553178263",
+        "2166610867"
+    ]
+}

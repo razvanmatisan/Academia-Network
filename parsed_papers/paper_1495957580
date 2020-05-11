@@ -1,0 +1,29 @@
+{
+    "id": "1495957580",
+    "title": "Decision Support Systems with Adaptive Reasoning Strategies",
+    "venue": "foundations of computer science",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Kerstin Schill",
+            "id": "2166916621",
+            "org": "Ludwig-Maximilians-Universitat"
+        }
+    ],
+    "fields_of_study": [
+        "Hierarchy",
+        "Dempster-Shafer theory",
+        "Data collection",
+        "Decision support system",
+        "Intelligent decision support system",
+        "Computer science",
+        "Evidential reasoning approach",
+        "Adaptive reasoning",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "2092539663",
+        "2159080219"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1608387614",
+    "title": "Faceted Semantic Search for Personalized Social Search",
+    "venue": "arXiv: Information Retrieval",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Massimiliano Dal Mas",
+            "id": "2714532458",
+            "org": "Polytechnic University of Milan"
+        }
+    ],
+    "fields_of_study": [
+        "Personalized search",
+        "Information retrieval",
+        "Semantic search",
+        "Computer science",
+        "Ontology",
+        "Social search",
+        "Construal level theory",
+        "Semantic Web",
+        "Semantic similarity",
+        "Social network"
+    ],
+    "references": [
+        "29998783",
+        "129956923",
+        "1539966151",
+        "1770838230",
+        "1973315129",
+        "2037627986",
+        "2059276128",
+        "2100749152",
+        "2127978399",
+        "2135866194",
+        "2157365237"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1563951013",
+    "title": "A Data Model for Flexible Querying",
+    "venue": "advances in databases and information systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Jaroslav Pokorny",
+            "id": "2113647503",
+            "org": "Charles University Prague"
+        },
+        {
+            "name": "Peter Vojtas",
+            "id": "387084222",
+            "org": "P.J. Safarik University Kosice"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Computer science",
+        "Data mining",
+        "Type-2 fuzzy sets and systems",
+        "Neuro-fuzzy",
+        "Fuzzy associative matrix",
+        "Fuzzy logic",
+        "Fuzzy set operations",
+        "Machine learning",
+        "Defuzzification",
+        "Fuzzy number",
+        "Fuzzy classification",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "25806747",
+        "1491912291",
+        "1555957219",
+        "1605891132",
+        "1660390307",
+        "1992609556",
+        "1992810975",
+        "2014214819",
+        "2085988990"
+    ]
+}

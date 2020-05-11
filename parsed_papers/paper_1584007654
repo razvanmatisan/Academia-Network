@@ -1,0 +1,40 @@
+{
+    "id": "1584007654",
+    "title": "Branching Time Temporal Logic and Amorphous Tree Automata",
+    "venue": "international conference on concurrency theory",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Orna Bernholtz",
+            "id": "1974724047",
+            "org": "The Technion"
+        },
+        {
+            "name": "Orna Grumberg",
+            "id": "1993734283",
+            "org": "AT&T Bell Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "CTL*",
+        "Computation tree logic",
+        "Nested word",
+        "Combinatorics",
+        "o-automaton",
+        "GrowCut algorithm",
+        "Quantum finite automata",
+        "Tree automaton",
+        "Continuous spatial automaton",
+        "Mathematics"
+    ],
+    "references": [
+        "1501731334",
+        "1590315663",
+        "2022228153",
+        "2023808162",
+        "2033071128",
+        "2072887965",
+        "2085533703"
+    ]
+}

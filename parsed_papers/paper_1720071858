@@ -1,0 +1,45 @@
+{
+    "id": "1720071858",
+    "title": "Well-structured graph transformation systems with negative application conditions",
+    "venue": "international conference on graph transformation",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Barbara Konig",
+            "id": "1894983083",
+            "org": "Abteilung fur Informatik und Angewandte Kognitionswissenschaft, Universitat Duisburg-Essen, Germany#TAB#"
+        },
+        {
+            "name": "Jan Stuckrath",
+            "id": "2295993084",
+            "org": "Abteilung fur Informatik und Angewandte Kognitionswissenschaft, Universitat Duisburg-Essen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Graph product",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Transition system",
+        "Pathwidth",
+        "1-planar graph",
+        "Partial k-tree",
+        "Comparability graph",
+        "Forbidden graph characterization",
+        "Voltage graph",
+        "Mathematics"
+    ],
+    "references": [
+        "117152269",
+        "1523742478",
+        "1552190776",
+        "1553996844",
+        "1595979400",
+        "1967174286",
+        "2063554572",
+        "2067016370",
+        "2123910665",
+        "2127455123",
+        "2131637630",
+        "2275786693"
+    ]
+}

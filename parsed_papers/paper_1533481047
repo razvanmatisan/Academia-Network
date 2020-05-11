@@ -1,0 +1,34 @@
+{
+    "id": "1533481047",
+    "title": "Applying the c.DnS Design Pattern to Obtain an Ontology for Investigation Management System",
+    "venue": "international conference on computational collective intelligence",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jolanta Cybulka",
+            "id": "1247590922",
+            "org": "Institute of Conrol and Information Engineering, Poznan University of Technology, Poznan, Poland 60-965#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Process ontology",
+        "State of affairs",
+        "Machine learning",
+        "Ontology-based data integration",
+        "Data mining",
+        "Knowledge base",
+        "Conceptual model",
+        "Computer science",
+        "Suggested Upper Merged Ontology",
+        "Upper ontology",
+        "Ontology (information science)"
+    ],
+    "references": [
+        "310899332",
+        "1487309309",
+        "1640242006",
+        "2128334086",
+        "2140647031"
+    ]
+}

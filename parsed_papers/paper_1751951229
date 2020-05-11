@@ -1,0 +1,47 @@
+{
+    "id": "1751951229",
+    "title": "Aspect-oriented programming beyond dependency injection",
+    "venue": "european conference on object oriented programming",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Shigeru Chiba",
+            "id": "2776281921",
+            "org": "Dept. of Mathematical and Computing Sciences, Tokyo Institute of Technology#TAB#"
+        },
+        {
+            "name": "Rei Ishikawa",
+            "id": "2319271826",
+            "org": "Dept. of Mathematical and Computing Sciences, Tokyo Institute of Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Dependency injection",
+        "Programming language",
+        "Implementation",
+        "AspectJ",
+        "Goal programming",
+        "Aspect-oriented programming",
+        "Object-oriented programming",
+        "Software development",
+        "Computer science",
+        "Inversion of control"
+    ],
+    "references": [
+        "1501424197",
+        "1502821974",
+        "1526385399",
+        "1593718819",
+        "1610570299",
+        "1657706103",
+        "1861063983",
+        "1970462831",
+        "2061180491",
+        "2078434561",
+        "2097964082",
+        "2139576973",
+        "2139897701",
+        "2293227920"
+    ]
+}

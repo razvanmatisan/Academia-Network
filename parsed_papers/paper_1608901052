@@ -1,0 +1,35 @@
+{
+    "id": "1608901052",
+    "title": "Deciding equivalence of finite tree automata",
+    "venue": "symposium on theoretical aspects of computer science",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Helmut Seidl",
+            "id": "2043679408",
+            "org": "Universitat des Saarlandes"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Time complexity",
+        "Combinatorics",
+        "Matrix polynomial",
+        "Square-free polynomial",
+        "Reciprocal polynomial",
+        "Quantum finite automata",
+        "Factorization of polynomials",
+        "Alternating polynomial",
+        "k-minimum spanning tree",
+        "Mathematics"
+    ],
+    "references": [
+        "118337677",
+        "1655990431",
+        "2007464118",
+        "2035020702",
+        "2059200976",
+        "2073663206",
+        "2167954650"
+    ]
+}

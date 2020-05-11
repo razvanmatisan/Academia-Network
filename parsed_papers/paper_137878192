@@ -1,0 +1,47 @@
+{
+    "id": "137878192",
+    "title": "Model checking based on occurrence net graph",
+    "venue": "formal techniques for (networked and) distributed systems",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Jean-Michel Couvreur",
+            "id": "2295389040",
+            "org": "Institut d'Informatique d'Entreprise"
+        },
+        {
+            "name": "Denis Poitrenaud",
+            "id": "189436650",
+            "org": "Universite Paris"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Stochastic Petri net",
+        "Graph (abstract data type)",
+        "Model checking",
+        "State space",
+        "Computer science",
+        "Invariant (mathematics)",
+        "Petri net",
+        "Abstraction model checking",
+        "Reachability"
+    ],
+    "references": [
+        "80787065",
+        "1481415856",
+        "1503973138",
+        "1534926211",
+        "1552488915",
+        "1560484442",
+        "1562633768",
+        "1585333046",
+        "1937565299",
+        "2016300863",
+        "2055558998",
+        "2087409327",
+        "2099620341",
+        "2129335898",
+        "2892875242"
+    ]
+}

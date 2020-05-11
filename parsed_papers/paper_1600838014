@@ -1,0 +1,29 @@
+{
+    "id": "1600838014",
+    "title": "A Dialectica-like Model of Linear Logic",
+    "venue": "Category Theory and Computer Science",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Valeria de Paiva",
+            "id": "2290934080",
+            "org": "Dept. Informatica PUC-RJ"
+        }
+    ],
+    "fields_of_study": [
+        "Pure mathematics",
+        "Intuitionistic logic",
+        "Negation",
+        "Dialectica interpretation",
+        "Monoidal category",
+        "Substructural logic",
+        "Functor",
+        "Linear logic",
+        "Mathematics",
+        "Intermediate logic"
+    ],
+    "references": [
+        "9785351",
+        "1502726770"
+    ]
+}

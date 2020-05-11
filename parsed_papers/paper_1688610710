@@ -1,0 +1,49 @@
+{
+    "id": "1688610710",
+    "title": "The use of wavelet transforms in phoneme recognition",
+    "venue": "international conference on spoken language processing",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Beng T. Tan",
+            "id": "2652128872",
+            "org": "Dept. of Electr. & Comput. Eng., Newcastle Univ., NSW, Australia"
+        },
+        {
+            "name": "Minyue Fu",
+            "id": "1966739410",
+            "org": "Dept . of Electrical and Computer Engineering|University of Newcastle"
+        },
+        {
+            "name": "Andrew Spray",
+            "id": "1998373736",
+            "org": "Dept . of Electrical and Computer Engineering|University of Newcastle"
+        },
+        {
+            "name": "Phillip Dermody",
+            "id": "2618601558",
+            "org": "Dept . of Electrical and Computer Engineering|University of Newcastle"
+        }
+    ],
+    "fields_of_study": [
+        "Speech recognition",
+        "Wavelet transform",
+        "Continuous wavelet transform",
+        "Feature vector",
+        "Mel-frequency cepstrum",
+        "Feature extraction",
+        "Wavelet",
+        "Continuous wavelet",
+        "Discrete wavelet transform",
+        "Computer science",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "2039942287",
+        "2077804127",
+        "2108753079",
+        "2122068629",
+        "2584852661"
+    ]
+}

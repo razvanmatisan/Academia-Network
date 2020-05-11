@@ -1,0 +1,35 @@
+{
+    "id": "1584688787",
+    "title": "Semantics and Transformations for UML Models",
+    "venue": "<<UML>> '98 Selected papers from the First International Workshop on The Unified Modeling Language <<UML>>'98: Beyond the Notation",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Kevin Lano",
+            "id": "426991758",
+            "org": "Imperial College"
+        },
+        {
+            "name": "Juan Bicarregui",
+            "id": "2010803165",
+            "org": "Imperial College"
+        }
+    ],
+    "fields_of_study": [
+        "Object Constraint Language",
+        "Semantics",
+        "Natural language processing",
+        "UML tool",
+        "Unified Modeling Language",
+        "Applications of UML",
+        "Programming language",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1496647850",
+        "1574837706",
+        "2005819264",
+        "2121932668"
+    ]
+}

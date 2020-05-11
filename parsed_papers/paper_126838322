@@ -1,0 +1,38 @@
+{
+    "id": "126838322",
+    "title": "Patterns and metamodel for a natural-language-based requirements specification language EUR",
+    "venue": "conference on advanced information systems engineering",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Carlos Videira",
+            "id": "2092847221",
+            "org": "Association for Computing Machinery"
+        },
+        {
+            "name": "Alberto Rodrigues da Silva",
+            "id": "2133553942",
+            "org": "Association for Computing Machinery"
+        }
+    ],
+    "fields_of_study": [
+        "Functional specification",
+        "Language Of Temporal Ordering Specification",
+        "Non-functional testing",
+        "Software requirements specification",
+        "Systems engineering",
+        "Requirement",
+        "System requirements specification",
+        "Specification language",
+        "Requirements analysis",
+        "Computer science"
+    ],
+    "references": [
+        "139524057",
+        "1489626362",
+        "1593904304",
+        "2050629843",
+        "2096016522",
+        "2102932899"
+    ]
+}

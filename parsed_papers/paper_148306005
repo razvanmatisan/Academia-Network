@@ -1,0 +1,42 @@
+{
+    "id": "148306005",
+    "title": "Enabling Non-Linguists to Author Advanced Conversational Interfaces Easily.",
+    "venue": "the florida ai research society",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Carolyn Penstein Rose",
+            "id": "2152131012",
+            "org": "Carnegie Mellon University"
+        },
+        {
+            "name": "Carol Pai",
+            "id": "2134392277",
+            "org": "Carnegie Mellon University"
+        },
+        {
+            "name": "Jaime Arguello",
+            "id": "2128535409",
+            "org": "Information and Library Science"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Natural language processing",
+        "Language technology",
+        "Natural language user interface",
+        "Interface description language",
+        "Computer science",
+        "Computational linguistics",
+        "Human-computer interaction",
+        "User interface"
+    ],
+    "references": [
+        "170457780",
+        "1563859139",
+        "2046319108",
+        "2118426465",
+        "2152748760",
+        "2169315475"
+    ]
+}

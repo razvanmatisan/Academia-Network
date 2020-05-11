@@ -1,0 +1,43 @@
+{
+    "id": "1582567207",
+    "title": "Composing Symbolic Trajectory Evaluation Results",
+    "venue": "computer aided verification",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Scott Hazelhurst",
+            "id": "2697964888",
+            "org": "University of British Columbia"
+        },
+        {
+            "name": "Carl-Johan H. Seger",
+            "id": "1833467962",
+            "org": "University of British Columbia"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Theoretical computer science",
+        "Gas meter prover",
+        "Symbolic trajectory evaluation",
+        "Rule of inference",
+        "Trajectory",
+        "Abstract data type",
+        "Automated theorem proving",
+        "Computer science",
+        "Boolean expression",
+        "User interface"
+    ],
+    "references": [
+        "1498414460",
+        "1503973138",
+        "1543208154",
+        "1986558678",
+        "2030224590",
+        "2090098281",
+        "2099873480",
+        "2108016168",
+        "2130308292",
+        "2137467159"
+    ]
+}

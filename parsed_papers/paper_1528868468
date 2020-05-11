@@ -1,0 +1,47 @@
+{
+    "id": "1528868468",
+    "title": "On the Practical Value of Different Definitional Translations to Normal Form",
+    "venue": "conference on automated deduction",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Uwe Egly",
+            "id": "151509711",
+            "org": "TU Wien"
+        },
+        {
+            "name": "Thomas Rath",
+            "id": "2579108107",
+            "org": "TH Darmstadt"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical proof",
+        "Algorithm",
+        "Negation normal form",
+        "Discrete mathematics",
+        "Disjunctive normal form",
+        "Natural deduction",
+        "Exponential function",
+        "Worst-case complexity",
+        "Automated theorem proving",
+        "Mathematics",
+        "Halting problem"
+    ],
+    "references": [
+        "17889614",
+        "1498865500",
+        "1533632780",
+        "1556875958",
+        "1592709139",
+        "1768790486",
+        "1972410746",
+        "1999997889",
+        "2018221833",
+        "2025252200",
+        "2054628190",
+        "2070717151",
+        "2090172107",
+        "2112446538"
+    ]
+}

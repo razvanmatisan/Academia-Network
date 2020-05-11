@@ -1,0 +1,39 @@
+{
+    "id": "1552301762",
+    "title": "Computer-Supported Reuse of Project Management Experience with an Experience Base",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "M. Brandt",
+            "id": "2188659653",
+            "org": "Universitat Leipzig Wirtschaftswissenschaftliche Fakultat"
+        },
+        {
+            "name": "Markus Nick",
+            "id": "2343382633",
+            "org": "Fraunhofer IESE"
+        }
+    ],
+    "fields_of_study": [
+        "OPM3",
+        "Reuse",
+        "Body of knowledge",
+        "Project management",
+        "Knowledge acquisition",
+        "Project manager",
+        "Organizational learning",
+        "Project management triangle",
+        "Knowledge management",
+        "Computer science"
+    ],
+    "references": [
+        "625347381",
+        "1559128549",
+        "1943856215",
+        "1986893394",
+        "2047352286",
+        "2120665489",
+        "2126385963"
+    ]
+}

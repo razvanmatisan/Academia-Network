@@ -1,0 +1,40 @@
+{
+    "id": "1529033735",
+    "title": "Compositionality Criteria for Defining Mixed-Styles Synchronous Languages",
+    "venue": "international symposium on compositionality significant difference",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Florence Maraninchi",
+            "id": "2790591678",
+            "org": "VERIMAG"
+        },
+        {
+            "name": "Yann Remond",
+            "id": "2436113542",
+            "org": "VERIMAG"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Dataflow",
+        "Mathematical proof",
+        "Principle of compositionality",
+        "Semantics of logic",
+        "Mealy machine",
+        "Existential quantification",
+        "Programming language",
+        "Object code",
+        "Computer science"
+    ],
+    "references": [
+        "60209820",
+        "1499880330",
+        "1503053695",
+        "1503767920",
+        "1591643794",
+        "1908456226",
+        "2081938726",
+        "2137013740"
+    ]
+}

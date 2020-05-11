@@ -1,0 +1,48 @@
+{
+    "id": "1560073188",
+    "title": "AND/OR Multi-Valued Decision Diagrams (AOMDDs) for weighted graphical models",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Robert Mateescu",
+            "id": "2143299742",
+            "org": "Donald Bren School of Information and Computer Science, University of California, Irvine, CA#TAB#"
+        },
+        {
+            "name": "Rina Dechter",
+            "id": "294129211",
+            "org": "Donald Bren School of Information and Computer Science, University of California, Irvine, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Influence diagram",
+        "Artificial intelligence",
+        "Machine learning",
+        "Pathwidth",
+        "Canonical form",
+        "Variable elimination",
+        "Probabilistic logic",
+        "Discrete mathematics",
+        "Treewidth",
+        "Binary decision diagram",
+        "Mathematics",
+        "Graphical model"
+    ],
+    "references": [
+        "173955544",
+        "1525028888",
+        "1537309404",
+        "1605242707",
+        "1796344988",
+        "1972748205",
+        "1982333717",
+        "2044058055",
+        "2080267935",
+        "2105197197",
+        "2121273320",
+        "2154055561",
+        "2340735175",
+        "2610893738"
+    ]
+}

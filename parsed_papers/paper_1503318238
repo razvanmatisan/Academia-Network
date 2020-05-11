@@ -1,0 +1,41 @@
+{
+    "id": "1503318238",
+    "title": "On axiomatization of probabilistic conditional independencies",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "S. K. M. Wong",
+            "id": "2147688047",
+            "org": "Department of Computer Science, University of Regina, Regina, Saskatchewan, Canada#TAB#"
+        },
+        {
+            "name": "Z. W. Wang",
+            "id": "2631455997",
+            "org": "Department of Computer Science, University of Regina, Regina, Saskatchewan, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Qualitative reasoning",
+        "Machine learning",
+        "Artificial intelligence",
+        "Relational database",
+        "Conditional independence",
+        "Probabilistic logic",
+        "Bayesian network",
+        "Discrete mathematics",
+        "Data dependency",
+        "Probabilistic relevance model",
+        "Relational model",
+        "Mathematics",
+        "Pattern recognition"
+    ],
+    "references": [
+        "2994960",
+        "1971247055",
+        "2111392287",
+        "2115822498",
+        "2148417962",
+        "2159080219"
+    ]
+}

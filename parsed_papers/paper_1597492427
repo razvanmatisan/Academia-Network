@@ -1,0 +1,37 @@
+{
+    "id": "1597492427",
+    "title": "Adaptive finite automaton: a new algebraic approach",
+    "venue": "international conference on adaptive and natural computing algorithms",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Reginaldo Inojosa da Silva Filho",
+            "id": "2717492509",
+            "org": "Computing Engineering Department, Engineering School of the University of Sao Paulo, Sao Paulo - SP, Brazil#TAB#"
+        },
+        {
+            "name": "Ricardo Luis de Azevedo da Rocha",
+            "id": "2620341301",
+            "org": "Computing Engineering Department, Engineering School of the University of Sao Paulo, Sao Paulo - SP, Brazil#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cellular automaton",
+        "Two-way deterministic finite automaton",
+        "Deterministic finite automaton",
+        "Probabilistic automaton",
+        "Combinatorics",
+        "Discrete mathematics",
+        "o-automaton",
+        "Buchi automaton",
+        "Deterministic automaton",
+        "Continuous automaton",
+        "Mathematics"
+    ],
+    "references": [
+        "98836413",
+        "1563075125",
+        "1586668623",
+        "2030487482"
+    ]
+}

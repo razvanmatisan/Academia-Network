@@ -1,0 +1,31 @@
+{
+    "id": "1535474573",
+    "title": "Kernel Matrix Completion by Semidefinite Programming",
+    "venue": "international conference on artificial neural networks",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Thore Graepel",
+            "id": "2032008572",
+            "org": "Institute of Computational Science"
+        }
+    ],
+    "fields_of_study": [
+        "Kernel embedding of distributions",
+        "Machine learning",
+        "Semidefinite embedding",
+        "Kernel method",
+        "Artificial intelligence",
+        "Large margin nearest neighbor",
+        "Mathematical optimization",
+        "Polynomial kernel",
+        "Tree kernel",
+        "Variable kernel density estimation",
+        "Radial basis function kernel",
+        "Mathematics"
+    ],
+    "references": [
+        "1488876970",
+        "2144414190"
+    ]
+}

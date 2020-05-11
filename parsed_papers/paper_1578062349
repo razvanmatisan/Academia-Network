@@ -1,0 +1,38 @@
+{
+    "id": "1578062349",
+    "title": "Exploiting security holes in lattice data hiding",
+    "venue": "information hiding",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Luis Perez-Freire",
+            "id": "2648417588",
+            "org": "Signal Theory and Communications Department, University of Vigo, Vigo, Spain#TAB#"
+        },
+        {
+            "name": "Fernando Perez-Gonzalez",
+            "id": "620829404",
+            "org": "Signal Theory and Communications Department, University of Vigo, Vigo, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Information-theoretic security",
+        "Lattice (order)",
+        "Theoretical computer science",
+        "Computer science",
+        "Information hiding",
+        "Embedding",
+        "Information leakage",
+        "Feasible region",
+        "Information extraction",
+        "Security analysis"
+    ],
+    "references": [
+        "1492963300",
+        "1512015702",
+        "1605802148",
+        "2111233756",
+        "2147015321",
+        "2172109950"
+    ]
+}

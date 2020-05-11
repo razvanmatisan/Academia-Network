@@ -1,0 +1,44 @@
+{
+    "id": "1527666520",
+    "title": "HCOME: a tool-supported methodology for engineering living ontologies",
+    "venue": "international semantic web conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Konstantinos Kotis",
+            "id": "2075035682",
+            "org": "Dept. of Information & Communications Systems Engineering, University of the Aegean, Karlovassi, Samos, Greece#TAB#"
+        },
+        {
+            "name": "George A. Vouros",
+            "id": "80530004",
+            "org": "Dept. of Information & Communications Systems Engineering, University of the Aegean, Karlovassi, Samos, Greece#TAB#"
+        },
+        {
+            "name": "Jeronimo Padilla Alonso",
+            "id": "2483577747",
+            "org": "Dept. of Information & Communications Systems Engineering, University of the Aegean, Karlovassi, Samos, Greece#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Ontology-based data integration",
+        "Database",
+        "Process ontology",
+        "Suggested Upper Merged Ontology",
+        "Open Biomedical Ontologies",
+        "Ontology components",
+        "Ontology engineering",
+        "Upper ontology",
+        "Computer science",
+        "Ontology (information science)",
+        "Knowledge management"
+    ],
+    "references": [
+        "106139956",
+        "2020455553",
+        "2129451985",
+        "2155981456",
+        "2620874205"
+    ]
+}

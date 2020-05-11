@@ -1,0 +1,41 @@
+{
+    "id": "1580028092",
+    "title": "Efficient algorithms on sets of permutations, dominance, and real-weighted APSP",
+    "venue": "symposium on discrete algorithms",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Raphael Yuster",
+            "id": "437246287",
+            "org": "University of Haifa, Haifa, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Polynomial identity testing",
+        "Directed graph",
+        "Discrete mathematics",
+        "Permutation",
+        "Combinatorics",
+        "Matrix multiplication",
+        "Special case",
+        "Matrix (mathematics)",
+        "Freivalds' algorithm",
+        "Algorithm",
+        "Randomized algorithm",
+        "Mathematics"
+    ],
+    "references": [
+        "1599026900",
+        "1965216219",
+        "1979740015",
+        "2028341270",
+        "2033961328",
+        "2049500052",
+        "2051531384",
+        "2056800373",
+        "2066097866",
+        "2080132708",
+        "2089311600",
+        "2152290683"
+    ]
+}

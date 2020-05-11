@@ -1,0 +1,40 @@
+{
+    "id": "1480404193",
+    "title": "Equilibrium analysis of the possibilities of unenforced exchange in multiagent systems",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Tuomas Sandholm",
+            "id": "2070867630",
+            "org": "University of Massachusetts at Amherst, Computer Science Department, Amherst, MA#TAB#"
+        },
+        {
+            "name": "Victor R. Lesser",
+            "id": "2136177121",
+            "org": "University of Massachusetts at Amherst, Computer Science Department, Amherst, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Time complexity",
+        "Interaction protocol",
+        "Enforcement",
+        "Law enforcement",
+        "Interdependence",
+        "Multi-agent system",
+        "Computer security",
+        "Distributed computing",
+        "Payment",
+        "Computer science"
+    ],
+    "references": [
+        "26053727",
+        "164532933",
+        "188850785",
+        "1823691459",
+        "1826888317",
+        "2097713162",
+        "2146980819"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1632732363",
+    "title": "Issues in multi-level cache designs",
+    "venue": "international conference on computer design",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Lishing Liu",
+            "id": "2163557277",
+            "org": "IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Cache coloring",
+        "Cache-oblivious algorithm",
+        "Real-time computing",
+        "Parallel computing",
+        "Cache invalidation",
+        "Bus sniffing",
+        "Computer science",
+        "Smart Cache",
+        "Cache",
+        "Cache algorithms",
+        "Cache pollution"
+    ],
+    "references": [
+        "198927866",
+        "1769402780",
+        "2073168585",
+        "2097621668",
+        "2146296339",
+        "2153287020",
+        "2294693415"
+    ]
+}

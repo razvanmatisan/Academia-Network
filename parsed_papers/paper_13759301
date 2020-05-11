@@ -1,0 +1,36 @@
+{
+    "id": "13759301",
+    "title": "A Multifaceted Approach to Music Similarity",
+    "venue": "international symposium/conference on music information retrieval",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Kurt Jacobson",
+            "id": "2338397184",
+            "org": "University of Miami"
+        }
+    ],
+    "fields_of_study": [
+        "Speech recognition",
+        "Audio signal",
+        "Similarity measure",
+        "Artificial intelligence",
+        "Computer science",
+        "Visualization",
+        "Machine learning",
+        "Small set",
+        "Multidimensional scaling",
+        "Popular music",
+        "Timbre",
+        "Rhythm"
+    ],
+    "references": [
+        "44499633",
+        "134184673",
+        "1562529351",
+        "1835965142",
+        "2071913706",
+        "2148748626",
+        "2165320163"
+    ]
+}

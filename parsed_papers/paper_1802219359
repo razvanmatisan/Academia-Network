@@ -1,0 +1,37 @@
+{
+    "id": "1802219359",
+    "title": "Propagation of Delays in the National Airspace System.",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Kathryn Blackmond Laskey",
+            "id": "2009108647",
+            "org": "George Mason University"
+        },
+        {
+            "name": "Ning Xu",
+            "id": "2423901311",
+            "org": "Center for Air Transportation Research|SEOR Department|George Mason University"
+        },
+        {
+            "name": "Chun-Hung Chen",
+            "id": "2644217760",
+            "org": "Center for Air Transportation Research|SEOR Department|George Mason University"
+        }
+    ],
+    "fields_of_study": [
+        "Air traffic management",
+        "Ground delay program",
+        "Computer science",
+        "Data mining",
+        "National Airspace System",
+        "Real-time computing",
+        "International airport",
+        "Simulation",
+        "Stochastic modelling",
+        "Complex system",
+        "Phenomenon"
+    ],
+    "references": []
+}

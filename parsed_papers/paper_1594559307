@@ -1,0 +1,41 @@
+{
+    "id": "1594559307",
+    "title": "Multi-dimensional sequential pattern mining based on concept lattice",
+    "venue": "advanced data mining and applications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Yang Jin",
+            "id": "2634364881",
+            "org": "College of Computer Science & Technology, JiLin University, ChangChun, P.R. China#TAB#"
+        },
+        {
+            "name": "Wanli Zuo",
+            "id": "2656231930",
+            "org": "College of Computer Science & Technology, JiLin University, ChangChun, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Sequential Pattern Mining",
+        "Artificial intelligence",
+        "Lattice (order)",
+        "Multidimensional analysis",
+        "Machine learning",
+        "K-optimal pattern discovery",
+        "Data structure",
+        "Data model",
+        "Computer science",
+        "Association rule learning",
+        "Information extraction",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1532192443",
+        "1641039719",
+        "1851672339",
+        "2064853889",
+        "2120934516",
+        "2158454296"
+    ]
+}

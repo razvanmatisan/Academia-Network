@@ -1,0 +1,29 @@
+{
+    "id": "1563353090",
+    "title": "REFORMULATION FROM STATE SPACE TO REDUCTION SPACE",
+    "venue": "international conference on machine learning",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Patricia J. Riddle",
+            "id": "2506238977",
+            "org": "Department of Computer Science, Rutgers University, New Brunswick, N.J. 08903"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Mathematics",
+        "Function problem",
+        "Computational problem",
+        "Artificial intelligence",
+        "Toy problem",
+        "State-space representation",
+        "Generalized assignment problem",
+        "Dilemma",
+        "Bounded function",
+        "State space"
+    ],
+    "references": [
+        "2064845711"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "1512229420",
+    "title": "Plug and Play Encryption",
+    "venue": "international cryptology conference",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Donald Beaver",
+            "id": "2124380882",
+            "org": "Transarc Corp."
+        }
+    ],
+    "fields_of_study": [
+        "Key distribution",
+        "Secure channel",
+        "Encryption",
+        "Secure multi-party computation",
+        "Distributed computing",
+        "Cryptographic protocol",
+        "Cryptography",
+        "Adversary",
+        "Computer science",
+        "Diffie-Hellman key exchange"
+    ],
+    "references": [
+        "1540442590",
+        "1584560347",
+        "1970606468",
+        "1996360405",
+        "2156186849",
+        "2293144562"
+    ]
+}

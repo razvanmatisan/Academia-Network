@@ -1,0 +1,48 @@
+{
+    "id": "164739078",
+    "title": "A BPMO Based Semantic Business Process Modelling Environment.",
+    "venue": "SBPM",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Marin Dimitrov",
+            "id": "2174731169",
+            "org": "Ontotext Lab | Sirma Group"
+        },
+        {
+            "name": "Alex Simov",
+            "id": "1987333438",
+            "org": "Ontotext Lab | Sirma Group"
+        },
+        {
+            "name": "Sebastian Stein",
+            "id": "2396500954",
+            "org": "Ontotext Lab | Sirma Group"
+        },
+        {
+            "name": "Mihail Konstantinov",
+            "id": "2038028776",
+            "org": "Ontotext Lab | Sirma Group"
+        }
+    ],
+    "fields_of_study": [
+        "Semantic interoperability",
+        "Semantic search",
+        "Data mining",
+        "Semantic technology",
+        "Social Semantic Web",
+        "Semantic grid",
+        "Semantic analytics",
+        "Semantic computing",
+        "Semantic Web Stack",
+        "Computer science",
+        "Knowledge management"
+    ],
+    "references": [
+        "151678664",
+        "187803698",
+        "1537736871",
+        "1714132059",
+        "2112979142"
+    ]
+}

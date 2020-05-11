@@ -1,0 +1,38 @@
+{
+    "id": "1494668116",
+    "title": "Ensuring a Relevant Visiting Order of the Leaf Nodes during a Tree Search",
+    "venue": "principles and practice of constraint programming",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Nicolas Prcovic",
+            "id": "1853049023",
+            "org": "CERMICS"
+        },
+        {
+            "name": "Bertrand Neveu",
+            "id": "2147035274",
+            "org": "CERMICS"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Iterative deepening depth-first search",
+        "Search tree",
+        "Incremental heuristic search",
+        "Computer science",
+        "Heuristic",
+        "Constraint logic programming",
+        "Constraint satisfaction problem",
+        "Breadth-first search",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "91781137",
+        "103322287",
+        "1516312268",
+        "1589190585",
+        "2154930146",
+        "2406596832"
+    ]
+}

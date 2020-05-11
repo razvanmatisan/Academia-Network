@@ -1,0 +1,49 @@
+{
+    "id": "1541383950",
+    "title": "Multi-perspective requirements engineering for networked business systems: a framework for pattern composition",
+    "venue": "Anais do WER05",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Zlatko Zlatev",
+            "id": "2576946140",
+            "org": "University of Twente"
+        },
+        {
+            "name": "Maya Daneva",
+            "id": "1920960964",
+            "org": "University of Twente"
+        },
+        {
+            "name": "Roel Wieringa",
+            "id": "1987029555",
+            "org": "University of Twente"
+        }
+    ],
+    "fields_of_study": [
+        "Business activity monitoring",
+        "Business requirements",
+        "Business process modeling",
+        "Business architecture",
+        "Function model",
+        "Artifact-centric business process model",
+        "Business rule",
+        "Systems engineering",
+        "Engineering",
+        "New business development"
+    ],
+    "references": [
+        "56865474",
+        "150893303",
+        "176372149",
+        "1559179949",
+        "2054097655",
+        "2079413298",
+        "2105603754",
+        "2135920852",
+        "2138782822",
+        "2156218005",
+        "2157437711",
+        "2161849440"
+    ]
+}

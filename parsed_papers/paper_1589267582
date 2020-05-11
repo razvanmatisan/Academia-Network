@@ -1,0 +1,31 @@
+{
+    "id": "1589267582",
+    "title": "Automatic utterance type detection using suprasegmental features",
+    "venue": "conference of the international speech communication association",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Helen Wright",
+            "id": "2430913023",
+            "org": "School of Mathematical & Computer Sciences, Computer Science, Scottish Informatics & Computer Science Alliance (SICSA),"
+        }
+    ],
+    "fields_of_study": [
+        "Word error rate",
+        "Speech recognition",
+        "Artificial intelligence",
+        "Conversation",
+        "Probabilistic logic",
+        "Utterance",
+        "Artificial neural network",
+        "Pattern recognition",
+        "Acknowledgement",
+        "Hidden Markov model",
+        "Computer science"
+    ],
+    "references": [
+        "1784630400",
+        "2109730238",
+        "2112078429"
+    ]
+}

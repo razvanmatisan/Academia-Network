@@ -1,0 +1,35 @@
+{
+    "id": "1501544048",
+    "title": "On the Weak Generative Capacity of Weighted Context-free Grammars",
+    "venue": "international conference on computational linguistics",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Anders Sogaard",
+            "id": "2311158851",
+            "org": "University of Potsdam"
+        }
+    ],
+    "fields_of_study": [
+        "Tree-adjoining grammar",
+        "Artificial intelligence",
+        "Natural language processing",
+        "Phrase structure grammar",
+        "Embedded pushdown automaton",
+        "Context-sensitive grammar",
+        "Indexed grammar",
+        "Pattern recognition",
+        "Computer science",
+        "Extended Affix Grammar",
+        "Machine learning",
+        "L-attributed grammar",
+        "Context-free grammar"
+    ],
+    "references": [
+        "1494975368",
+        "1570802506",
+        "2010423034",
+        "2089385274",
+        "2147480010"
+    ]
+}

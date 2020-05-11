@@ -1,0 +1,37 @@
+{
+    "id": "1542524953",
+    "title": "Using imagery to simplify perceptual abstraction in reinforcement learning agents",
+    "venue": "national conference on artificial intelligence",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Samuel Wintermute",
+            "id": "2004928496",
+            "org": "University of Michigan, Ann Arbor, MI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Spatial intelligence",
+        "Artificial intelligence",
+        "Machine learning",
+        "Cognitive architecture",
+        "Reinforcement learning",
+        "Soar",
+        "Error-driven learning",
+        "Perception",
+        "Spatial memory",
+        "Computer science",
+        "Abstraction"
+    ],
+    "references": [
+        "199176224",
+        "1534331386",
+        "1539848741",
+        "1989436473",
+        "2058735307",
+        "2101355568",
+        "2121863487",
+        "2122200305",
+        "2397240726"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "146220408",
+    "title": "Improving Semantic Clustering of EWID Reports by Using Heterogeneous Data Types",
+    "venue": "granular computing",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Andrzej Janusz",
+            "id": "2051551846",
+            "org": "Institute of Mathematics, The University of Warsaw, Warsaw, Poland#TAB#"
+        },
+        {
+            "name": "Adam Krasuski",
+            "id": "2598640366",
+            "org": "Computer Science, The Main School of Fire Service, Warsaw, Poland#TAB#"
+        },
+        {
+            "name": "Marcin S. Szczuka",
+            "id": "717668676",
+            "org": "Institute of Mathematics, The University of Warsaw, Warsaw, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Cluster analysis",
+        "Machine learning",
+        "Homogeneity (statistics)",
+        "Data type",
+        "Natural language",
+        "Interactive Learning",
+        "Data mining",
+        "Computer science"
+    ],
+    "references": [
+        "89242458",
+        "154151543",
+        "1516154272",
+        "2059844909",
+        "2141574787",
+        "2144118087"
+    ]
+}

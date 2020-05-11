@@ -1,0 +1,36 @@
+{
+    "id": "1590485859",
+    "title": "Swarming distributed pattern detection and classification",
+    "venue": "E4MAS'04 Proceedings of the First international conference on Environments for Multi-Agent Systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Sven Brueckner",
+            "id": "58694708",
+            "org": "Altarum, Ann Arbor, MI#TAB#"
+        },
+        {
+            "name": "H. Van Dyke Parunak",
+            "id": "2311769173",
+            "org": "Altarum, Ann Arbor, MI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Swarm intelligence",
+        "Real-time data",
+        "Data acquisition",
+        "Sensor fusion",
+        "Scalability",
+        "Data mining",
+        "Data stream",
+        "Population",
+        "System requirements",
+        "Computer science"
+    ],
+    "references": [
+        "1523176412",
+        "1555099079",
+        "2126554879",
+        "2150312211"
+    ]
+}

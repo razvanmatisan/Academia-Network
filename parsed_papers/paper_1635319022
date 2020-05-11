@@ -1,0 +1,38 @@
+{
+    "id": "1635319022",
+    "title": "Approaching the Gaussian Channel Capacity With APSK Constellations",
+    "venue": "IEEE Communications Letters",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Hugo Meric",
+            "id": "2660221225",
+            "org": "NIC Chile Res. Labs., Santiago, Chile"
+        }
+    ],
+    "fields_of_study": [
+        "Keying",
+        "Quadrature amplitude modulation",
+        "Constellation diagram",
+        "Amplitude-shift keying",
+        "Real-time computing",
+        "Amplitude and phase-shift keying",
+        "Mathematical optimization",
+        "Channel capacity",
+        "Telecommunications",
+        "Communication channel",
+        "Phase-shift keying",
+        "Mathematics"
+    ],
+    "references": [
+        "1512015702",
+        "2031724611",
+        "2039465699",
+        "2075298077",
+        "2111865117",
+        "2112544308",
+        "2115001548",
+        "2130718424",
+        "2154750699"
+    ]
+}

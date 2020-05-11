@@ -1,0 +1,50 @@
+{
+    "id": "1541325510",
+    "title": "A methodology for mapping live sequence chart to coloured Petri net",
+    "venue": "systems, man and cybernetics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Leonardo Amorim",
+            "id": "2080560388",
+            "org": "Pernambuco Fed. Univ., Recife, Brazil"
+        },
+        {
+            "name": "Paulo Romero Martins Maciel",
+            "id": "2188586265",
+            "org": "Pernambuco Fed. Univ., Recife, Brazil"
+        },
+        {
+            "name": "Meuse N. Nogueira",
+            "id": "2895685035",
+            "org": "Pernambuco Fed. Univ., Recife, Brazil"
+        },
+        {
+            "name": "Raimundo S. Barreto",
+            "id": "2289764680",
+            "org": "Pernambuco Fed. Univ., Recife, Brazil"
+        },
+        {
+            "name": "Eduardo Tavares",
+            "id": "2151406531",
+            "org": "Pernambuco Fed. Univ., Recife, Brazil"
+        }
+    ],
+    "fields_of_study": [
+        "Process architecture",
+        "Coloured Petri net",
+        "System requirements specification",
+        "Systems analysis",
+        "Proposition",
+        "Petri net",
+        "Real-time computing",
+        "Computer science",
+        "Chart",
+        "Formal verification"
+    ],
+    "references": [
+        "1508831365",
+        "1592055490",
+        "2897840903"
+    ]
+}

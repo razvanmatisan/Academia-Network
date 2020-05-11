@@ -1,0 +1,39 @@
+{
+    "id": "1661767353",
+    "title": "The Cogito Repository Manager",
+    "venue": "asia-pacific software engineering conference",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Owen Traynor",
+            "id": "1974030263",
+            "org": "Software Verification Res. Centre, Queensland Univ., Brisbane, Qld., Australia"
+        },
+        {
+            "name": "Anthony C. Bloesch",
+            "id": "1564476231",
+            "org": "Software Verification Res. Centre, Queensland Univ., Brisbane, Qld., Australia"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Cogito ergo sum",
+        "Integrable system",
+        "Configuration management",
+        "Computer science",
+        "Formal specification",
+        "Configuration Management (ITSM)",
+        "Process modeling",
+        "Development environment",
+        "Population"
+    ],
+    "references": [
+        "1594564946",
+        "1945696410",
+        "1990244497",
+        "2061432057",
+        "2070579793",
+        "2143891599",
+        "2153760322"
+    ]
+}

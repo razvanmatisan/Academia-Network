@@ -1,0 +1,51 @@
+{
+    "id": "1545641654",
+    "title": "Face Recognition with Local Binary Patterns",
+    "venue": "european conference on computer vision",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Timo Ahonen",
+            "id": "2136475958",
+            "org": "Machine Vision Group,Infotech Oulu, University of Oulu, Finland"
+        },
+        {
+            "name": "Abdenour Hadid",
+            "id": "2150554866",
+            "org": "Machine Vision Group,Infotech Oulu, University of Oulu, Finland"
+        },
+        {
+            "name": "Matti Pietikainen",
+            "id": "2007797616",
+            "org": "Machine Vision Group,Infotech Oulu, University of Oulu, Finland"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Computer science",
+        "Local ternary patterns",
+        "Computer vision",
+        "Histogram",
+        "Feature vector",
+        "Linear discriminant analysis",
+        "Classifier (linguistics)",
+        "Feature extraction",
+        "Local binary patterns",
+        "Facial recognition system",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1552250555",
+        "1598106187",
+        "1989702938",
+        "1997011019",
+        "2032239755",
+        "2033419168",
+        "2039051707",
+        "2103560185",
+        "2120954940",
+        "2139085189",
+        "2163352848"
+    ]
+}

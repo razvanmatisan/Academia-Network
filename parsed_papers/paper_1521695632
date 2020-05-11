@@ -1,0 +1,30 @@
+{
+    "id": "1521695632",
+    "title": "Interconnected automata and linear systems: a theoretical framework in discrete-time",
+    "venue": "Proceedings of the DIMACS/SYCON workshop on Hybrid systems III : verification and control: verification and control",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Eduardo D. Sontag",
+            "id": "2092577353",
+            "org": "Rutgers University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete modelling",
+        "Discrete time and continuous time",
+        "Linear system",
+        "Discrete system",
+        "Finite-state machine",
+        "Hybrid system",
+        "Discrete mathematics",
+        "Recurrent neural network",
+        "Turing machine",
+        "Mathematics"
+    ],
+    "references": [
+        "2035496804",
+        "2050778826",
+        "2067619114"
+    ]
+}

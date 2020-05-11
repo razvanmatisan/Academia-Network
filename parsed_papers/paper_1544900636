@@ -1,0 +1,48 @@
+{
+    "id": "1544900636",
+    "title": "Heuristics for Improving the Non-oblivious Local Search for MaxSAT",
+    "venue": "ibero american conference on ai",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "G. De Ita",
+            "id": "2480382426",
+            "org": "B.U.A.P"
+        },
+        {
+            "name": "David Pinto",
+            "id": "2422879239",
+            "org": "Universidad Popular Autonoma del Estado de Puebla U.P.A.E.P"
+        },
+        {
+            "name": "M. Nuno",
+            "id": "2620750459",
+            "org": "B.U.A.P"
+        }
+    ],
+    "fields_of_study": [
+        "Iterated local search",
+        "Local optimum",
+        "Guided Local Search",
+        "Mathematical optimization",
+        "Tabu search",
+        "Local search (optimization)",
+        "Search algorithm",
+        "Maximum satisfiability problem",
+        "Mathematics",
+        "Heuristics"
+    ],
+    "references": [
+        "1482954786",
+        "1513769081",
+        "1620410031",
+        "1977287297",
+        "2001564241",
+        "2083642130",
+        "2100308637",
+        "2109039359",
+        "2153143225",
+        "2202947145",
+        "2396166977"
+    ]
+}

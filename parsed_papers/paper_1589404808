@@ -1,0 +1,38 @@
+{
+    "id": "1589404808",
+    "title": "Manage people, not Userids",
+    "venue": "usenix large installation systems administration conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jon Finke",
+            "id": "2103477186",
+            "org": "Rensselaer Polytechnic Institute#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Physical security",
+        "Computer security",
+        "Physical access",
+        "Authentication",
+        "Computer access control",
+        "Single sign-on",
+        "Identity management",
+        "Access control",
+        "Business rule"
+    ],
+    "references": [
+        "27363403",
+        "50018512",
+        "52684641",
+        "109395115",
+        "117869007",
+        "143623075",
+        "149513515",
+        "163091795",
+        "1890597149",
+        "2128970535",
+        "2147039826"
+    ]
+}

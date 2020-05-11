@@ -1,0 +1,33 @@
+{
+    "id": "1563108033",
+    "title": "OFFICETECH: a new paradigm in office services?",
+    "venue": "international conference on information systems",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Susan J. Winter",
+            "id": "2786661230",
+            "org": "University of North Carolina at Charlotte#TAB#"
+        },
+        {
+            "name": "T. Grandon Gill",
+            "id": "2165178307",
+            "org": "Florida Atlantic University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Marketing",
+        "Knowledge management",
+        "Public relations",
+        "Telecommuting",
+        "Information management",
+        "Information system",
+        "Strategic information system",
+        "Business model",
+        "Information security",
+        "Management information systems",
+        "The Internet",
+        "Engineering"
+    ],
+    "references": []
+}

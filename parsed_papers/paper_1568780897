@@ -1,0 +1,35 @@
+{
+    "id": "1568780897",
+    "title": "True Random Number Generator Embedded in Reconfigurable Hardware",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Viktor Fischer",
+            "id": "2870355012",
+            "org": "Universite Jean Monnet"
+        },
+        {
+            "name": "Milos Drutarovsky",
+            "id": "2085255016",
+            "org": "Technical University of Kosice"
+        }
+    ],
+    "fields_of_study": [
+        "Random number generation",
+        "Phase-locked loop",
+        "Distributed computing",
+        "Programmable logic device",
+        "Randomness",
+        "Reconfigurable computing",
+        "Throughput",
+        "Real-time computing",
+        "Computer science",
+        "Clock signal",
+        "Jitter"
+    ],
+    "references": [
+        "1660562555",
+        "1793054443"
+    ]
+}

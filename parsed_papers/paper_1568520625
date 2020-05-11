@@ -1,0 +1,31 @@
+{
+    "id": "1568520625",
+    "title": "Induction machine rotor diagnosis using support vector machines and rough set",
+    "venue": "international conference on intelligent computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ruiming Fang",
+            "id": "2344523858",
+            "org": "Colleage of Information Science and Engineering, National Huaqiao University, Quanzhou City, Fujian Province, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Support vector machine",
+        "Machine learning",
+        "Three-phase",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Rotor (electric)",
+        "Stator",
+        "Structured support vector machine",
+        "Test data",
+        "Fault detection and isolation",
+        "Computer science",
+        "Rough set"
+    ],
+    "references": [
+        "1579572292",
+        "2148603752"
+    ]
+}

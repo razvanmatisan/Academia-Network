@@ -1,0 +1,29 @@
+{
+    "id": "1549103420",
+    "title": "Jena: implementing the RDF model and syntax specification",
+    "venue": "international semantic web conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Brian Wright Mcbride",
+            "id": "2597381940",
+            "org": "Hewlett Packard Laboratories, Bristol, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "RDF",
+        "Database",
+        "Java",
+        "RDF Schema",
+        "XML",
+        "RDF/XML",
+        "RDF query language",
+        "Computer science",
+        "SPARQL",
+        "Programming language",
+        "Cwm"
+    ],
+    "references": [
+        "2046166587"
+    ]
+}

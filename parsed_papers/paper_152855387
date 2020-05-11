@@ -1,0 +1,41 @@
+{
+    "id": "152855387",
+    "title": "Using modified Lasso regression to learn large undirected graphs in a probabilistic framework",
+    "venue": "national conference on artificial intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Fan Li",
+            "id": "2633268875",
+            "org": "LTI, SCS, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Yiming Yang",
+            "id": "2159253281",
+            "org": "LTI, SCS, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Cluster analysis",
+        "Machine learning",
+        "Probabilistic logic",
+        "Matrix (mathematics)",
+        "Computer science",
+        "Wishart distribution",
+        "Lasso (statistics)",
+        "Bayesian network",
+        "Pattern recognition",
+        "Microarray analysis techniques",
+        "Graphical model"
+    ],
+    "references": [
+        "1680014149",
+        "1989371635",
+        "2061280979",
+        "2086345724",
+        "2108420379",
+        "2117994680",
+        "2125781844"
+    ]
+}

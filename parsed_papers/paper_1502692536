@@ -1,0 +1,47 @@
+{
+    "id": "1502692536",
+    "title": "An approach to mixed-initiative management of heterogeneous software agent teams",
+    "venue": "hawaii international conference on system sciences",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "M.H. Burstein",
+            "id": "2573995771",
+            "org": "BBN Syst. & Technol. Corp., Cambridge, MA, USA"
+        },
+        {
+            "name": "A.M. Muivehill",
+            "id": "2229703327",
+            "org": "BBN Technologies"
+        },
+        {
+            "name": "S. Deutsch",
+            "id": "2437836401",
+            "org": "BBN Technologies"
+        }
+    ],
+    "fields_of_study": [
+        "Team software process",
+        "Management science",
+        "Agent architecture",
+        "Knowledge management",
+        "Software development",
+        "Intelligent agent",
+        "Software agent",
+        "Multi-agent system",
+        "Software as a service",
+        "Team management",
+        "Computer science"
+    ],
+    "references": [
+        "56933075",
+        "1556941181",
+        "1608796453",
+        "1984500184",
+        "2080402044",
+        "2107611133",
+        "2128671069",
+        "2164655811",
+        "2168795751"
+    ]
+}

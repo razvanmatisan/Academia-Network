@@ -1,0 +1,54 @@
+{
+    "id": "1541639583",
+    "title": "Combining the semantic web with the web as background knowledge for ontology mapping",
+    "venue": "international conference on move to meaningful internet systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Ruben Vazquez",
+            "id": "2488804202",
+            "org": "Facultad de Informatica, Universidad Politecnica de Madrid, Boadilla del Monte, Madrid, Spain#TAB#"
+        },
+        {
+            "name": "Nik Swoboda",
+            "id": "1968013776",
+            "org": "Facultad de Informatica, Universidad Politecnica de Madrid, Boadilla del Monte, Madrid, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Web intelligence",
+        "Information retrieval",
+        "OWL-S",
+        "Data Web",
+        "Social Semantic Web",
+        "Web modeling",
+        "World Wide Web",
+        "Semantic Web Stack",
+        "Semantic Web",
+        "Computer science",
+        "Web mapping"
+    ],
+    "references": [
+        "1481690646",
+        "1528218792",
+        "1558045115",
+        "1620530708",
+        "1639126800",
+        "1820684307",
+        "1995521835",
+        "2008896880",
+        "2032117162",
+        "2036373663",
+        "2036469985",
+        "2067926721",
+        "2068737686",
+        "2122840128",
+        "2128608507",
+        "2139135093",
+        "2148572968",
+        "2152830192",
+        "2156510574",
+        "2157060173",
+        "2161549461"
+    ]
+}

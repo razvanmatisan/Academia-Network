@@ -1,0 +1,34 @@
+{
+    "id": "1527549550",
+    "title": "Some integer factorization algorithms using elliptic curves",
+    "venue": "arXiv: Number Theory",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Richard P. Brent",
+            "id": "2136191845",
+            "org": "Australian National University"
+        }
+    ],
+    "fields_of_study": [
+        "Dixon's factorization method",
+        "Congruence of squares",
+        "Prime factor",
+        "Lenstra elliptic curve factorization",
+        "Speedup",
+        "Mathematical optimization",
+        "Mathematics",
+        "Discrete mathematics",
+        "Pollard's rho algorithm for logarithms",
+        "Integer factorization",
+        "Algorithm",
+        "Quadratic sieve"
+    ],
+    "references": [
+        "1655990431",
+        "1996360405",
+        "2055580199",
+        "2058026380",
+        "2079631449"
+    ]
+}

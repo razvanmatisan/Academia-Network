@@ -1,0 +1,41 @@
+{
+    "id": "106306009",
+    "title": "Computational aspects of covering in dominance graphs",
+    "venue": "national conference on artificial intelligence",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Felix Brandt",
+            "id": "2097406414",
+            "org": "Computer Science Department, University of Munich, Munich, Germany#TAB#"
+        },
+        {
+            "name": "Felix A. Fischer",
+            "id": "2106088298",
+            "org": "Computer Science Department, University of Munich, Munich, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Solution concept",
+        "Independent set",
+        "Transitive relation",
+        "Discrete mathematics",
+        "Covering set",
+        "Covering relation",
+        "Binary relation",
+        "Computer science",
+        "Open problem",
+        "Solution set"
+    ],
+    "references": [
+        "154567452",
+        "170447349",
+        "1511735024",
+        "1991733990",
+        "2017461072",
+        "2057573268",
+        "2074016826",
+        "2104126268"
+    ]
+}

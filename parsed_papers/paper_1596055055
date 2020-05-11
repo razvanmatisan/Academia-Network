@@ -1,0 +1,39 @@
+{
+    "id": "1596055055",
+    "title": "Query coordination for distributed data sharing in P2P networks",
+    "venue": "databases information systems and peer to peer computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Maybin K. Muyeba",
+            "id": "419399927",
+            "org": "School of Computing, Liverpool Hope University, UK#TAB#"
+        },
+        {
+            "name": "M. Sulaiman Khan",
+            "id": "2122223505",
+            "org": "School of Computing, Liverpool Hope University, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Distributed computing",
+        "Computer science",
+        "Information schema",
+        "Database",
+        "Query optimization",
+        "Query language",
+        "Query expansion",
+        "View",
+        "Conceptual schema",
+        "Schema migration",
+        "Database schema"
+    ],
+    "references": [
+        "1485570549",
+        "1575097497",
+        "2028165476",
+        "2089634871",
+        "2132741574"
+    ]
+}

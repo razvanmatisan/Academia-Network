@@ -1,0 +1,28 @@
+{
+    "id": "1511943692",
+    "title": "A Chosen Ciphertext Attack on RSA Optimal Asymmetric Encryption Padding (OAEP) as Standardized in PKCS #1 v2.0",
+    "venue": "international cryptology conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "James Manger",
+            "id": "2278726875",
+            "org": "Telstra Research Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext indistinguishability",
+        "Semantic security",
+        "Padding",
+        "Cramer-Shoup cryptosystem",
+        "Theoretical computer science",
+        "Plaintext-aware encryption",
+        "Chosen-ciphertext attack",
+        "Malleability",
+        "Computer science",
+        "Optimal asymmetric encryption padding"
+    ],
+    "references": [
+        "1809974132"
+    ]
+}

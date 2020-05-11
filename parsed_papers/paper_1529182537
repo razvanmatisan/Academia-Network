@@ -1,0 +1,38 @@
+{
+    "id": "1529182537",
+    "title": "Ontology-Based Capability Management for Distributed Problem Solving in the Manufacturing Domain",
+    "venue": "multiagent system technologies",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Ingo J. Timm",
+            "id": "2089886474",
+            "org": "Technische Universitaet Ilmenau"
+        },
+        {
+            "name": "Peer-Oliver Woelk",
+            "id": "2103883377",
+            "org": "University of Hannover"
+        }
+    ],
+    "fields_of_study": [
+        "Ontology",
+        "Distributed computing",
+        "Production engineering",
+        "Scheduling (production processes)",
+        "Computer science",
+        "Ontology (information science)",
+        "Multi-agent system",
+        "Negotiation"
+    ],
+    "references": [
+        "59994498",
+        "75776639",
+        "1271259649",
+        "1598660716",
+        "2028817969",
+        "2130766754",
+        "2151408086",
+        "2160375412"
+    ]
+}

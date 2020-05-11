@@ -1,0 +1,42 @@
+{
+    "id": "1534500549",
+    "title": "Parametric Structure of Probabilities in Bayesian Networks",
+    "venue": "european conference on symbolic and quantitative approaches to reasoning and uncertainty",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Enrique Castillo",
+            "id": "2104368531",
+            "org": "University of Cantabria"
+        },
+        {
+            "name": "Jose Manuel Gutierrez",
+            "id": "2303082645",
+            "org": "University of Cantabria"
+        },
+        {
+            "name": "Ali S. Hadi",
+            "id": "2099496326",
+            "org": "Cornell University"
+        }
+    ],
+    "fields_of_study": [
+        "Parametric statistics",
+        "Artificial intelligence",
+        "Machine learning",
+        "Rational function",
+        "Bayesian statistics",
+        "Discrete mathematics",
+        "Bayesian network",
+        "Variable-order Bayesian network",
+        "Propagation of uncertainty",
+        "Polynomial",
+        "Symbolic computation",
+        "Mathematics"
+    ],
+    "references": [
+        "2093976733",
+        "2112798704",
+        "2143075689"
+    ]
+}

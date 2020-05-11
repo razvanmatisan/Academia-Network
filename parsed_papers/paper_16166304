@@ -1,0 +1,41 @@
+{
+    "id": "16166304",
+    "title": "Implementation of New CTI Service Platform Using Voice XML",
+    "venue": "international conference on computational science and its applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jeong-Hoon Shin",
+            "id": "2107181177",
+            "org": "Sungkyunkwan University and SITRC"
+        },
+        {
+            "name": "Kwang-Seok Hong",
+            "id": "2117279524",
+            "org": "Sungkyunkwan University and SITRC"
+        },
+        {
+            "name": "Sung-Kyun Eom",
+            "id": "2151188951",
+            "org": "DACOM R&D Center"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "Service level requirement",
+        "Service design",
+        "Computer science",
+        "Service assurance",
+        "Service delivery framework",
+        "Service provider",
+        "Database",
+        "Application service provider",
+        "Business service provider",
+        "Data as a service"
+    ],
+    "references": [
+        "2080837806",
+        "2111975119",
+        "2171946483"
+    ]
+}

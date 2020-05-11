@@ -1,0 +1,35 @@
+{
+    "id": "1513065235",
+    "title": "Design of Luenberger Observers for a Class of Hybrid Linear Systems",
+    "venue": "international workshop on hybrid systems computation and control",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Angelo Alessandri",
+            "id": "2694389662",
+            "org": "Naval Automation Institute"
+        },
+        {
+            "name": "Paolo Coletta",
+            "id": "2203515682",
+            "org": "Naval Automation Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete time and continuous time",
+        "Linear system",
+        "Observer (quantum physics)",
+        "Linear matrix inequality",
+        "Hybrid system",
+        "Matrix (mathematics)",
+        "Discrete system",
+        "State observer",
+        "Control theory",
+        "Mathematics"
+    ],
+    "references": [
+        "2115981198",
+        "2132899440",
+        "2135095882"
+    ]
+}

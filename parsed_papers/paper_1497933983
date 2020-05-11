@@ -1,0 +1,30 @@
+{
+    "id": "1497933983",
+    "title": "Distributed Self Management for Distributed Security Systems",
+    "venue": "arXiv: Multiagent Systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Michael Hilker",
+            "id": "2580967110",
+            "org": "University of Luxembourg|Faculty of Science"
+        }
+    ],
+    "fields_of_study": [
+        "Complex adaptive system",
+        "Simulation",
+        "Self-management",
+        "Adaptive system",
+        "Artificial immune system",
+        "Computer science",
+        "Network security",
+        "Multi-agent system",
+        "Distributed computing"
+    ],
+    "references": [
+        "1674877186",
+        "2107941094",
+        "2132159317",
+        "2240455598"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1493455195",
+    "title": "A semantics for abstraction",
+    "venue": "european conference on artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Chiara Ghidini",
+            "id": "2109028387",
+            "org": "ITC-Irst, Trento, Italy#TAB#"
+        },
+        {
+            "name": "Fausto Giunchiglia",
+            "id": "164943294",
+            "org": "Department of Information and Communication Technology, University of Trento, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Compatibility (mechanics)",
+        "Machine learning",
+        "Level of detail",
+        "Abstraction inversion",
+        "Semantics",
+        "Computer science",
+        "Theoretical computer science",
+        "Abstraction model checking",
+        "Abstraction",
+        "Phenomenon"
+    ],
+    "references": [
+        "12601726",
+        "50425026",
+        "188673230",
+        "2078727257",
+        "2151160748",
+        "2319216046"
+    ]
+}

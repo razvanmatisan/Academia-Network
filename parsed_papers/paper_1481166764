@@ -1,0 +1,36 @@
+{
+    "id": "1481166764",
+    "title": "Complexity of Pseudoknot Prediction in Simple Models",
+    "venue": "international colloquium on automata, languages and programming",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Rune B. Lyngso",
+            "id": "734034904",
+            "org": "Oxford University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Computer science",
+        "String (computer science)",
+        "Time complexity",
+        "Model-based reasoning",
+        "Combinatorics",
+        "Binary number",
+        "Automaton",
+        "Algorithm",
+        "Pseudoknot",
+        "Polynomial-time approximation scheme",
+        "Exact algorithm"
+    ],
+    "references": [
+        "1993968482",
+        "2025763720",
+        "2076756368",
+        "2086509077",
+        "2109297587",
+        "2146922921",
+        "2165654401"
+    ]
+}

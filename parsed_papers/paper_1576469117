@@ -1,0 +1,40 @@
+{
+    "id": "1576469117",
+    "title": "A framework for cluster management",
+    "venue": "extending database technology",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Barbara Catania",
+            "id": "2087930920",
+            "org": "Dipartimento di Informatica e Scienze dell'Informazione, Universita degli Studi di Genova, Italy#TAB#"
+        },
+        {
+            "name": "Anna Maddalena",
+            "id": "2128836253",
+            "org": "Dipartimento di Informatica e Scienze dell'Informazione, Universita degli Studi di Genova, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Homogeneous",
+        "Database",
+        "Cluster analysis",
+        "Data mining",
+        "Decision tree",
+        "Machine learning",
+        "Association rule learning",
+        "Decision rule",
+        "Information extraction",
+        "Cluster (physics)",
+        "Artificial intelligence",
+        "Computer science",
+        "Data extraction"
+    ],
+    "references": [
+        "193934876",
+        "1515560342",
+        "1573373104",
+        "1592400801",
+        "1992419399"
+    ]
+}

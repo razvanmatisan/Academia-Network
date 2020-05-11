@@ -1,0 +1,49 @@
+{
+    "id": "1492644044",
+    "title": "A Comparison of Association Rule Discovery and Bayesian Network Causal Inference Algorithms to Discover Relationships in Discrete Data",
+    "venue": "canadian conference on artificial intelligence",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Jeff Bowes",
+            "id": "2303748327",
+            "org": "University of Saskatchewan"
+        },
+        {
+            "name": "Eric Neufeld",
+            "id": "689898238",
+            "org": "University of Saskatchewan"
+        },
+        {
+            "name": "Jim E. Greer",
+            "id": "2130840322",
+            "org": "University of Saskatchewan"
+        },
+        {
+            "name": "John Cooke",
+            "id": "2168332778",
+            "org": "University of Saskatchewan"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Causal inference",
+        "Structural equation modeling",
+        "Pattern recognition",
+        "Bayes' theorem",
+        "Probabilistic logic",
+        "Artificial intelligence",
+        "Bayesian network",
+        "Algorithm",
+        "Knowledge acquisition",
+        "Association rule learning",
+        "Causal Markov condition",
+        "Mathematics"
+    ],
+    "references": [
+        "175821084",
+        "1498033538",
+        "1601800672",
+        "2033626294"
+    ]
+}

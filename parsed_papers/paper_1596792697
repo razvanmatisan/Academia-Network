@@ -1,0 +1,33 @@
+{
+    "id": "1596792697",
+    "title": "Project-oriented business process performance optimization",
+    "venue": "systems, man and cybernetics",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Yonghua Zhou",
+            "id": "2307875219",
+            "org": "Dept. of Autom., Tsinghua Univ., Beijing, China"
+        },
+        {
+            "name": "Yuliu Chen",
+            "id": "2223871271",
+            "org": "Dept. of Autom., Tsinghua Univ., Beijing, China"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Business process",
+        "Business process modeling",
+        "Management science",
+        "Process modeling",
+        "Business process management",
+        "Artifact-centric business process model",
+        "Business communication",
+        "Resource allocation",
+        "Optimization problem"
+    ],
+    "references": [
+        "2106334424"
+    ]
+}

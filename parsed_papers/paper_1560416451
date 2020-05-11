@@ -1,0 +1,47 @@
+{
+    "id": "1560416451",
+    "title": "Interacting Learning-Goals: Treating Learning as a Planning Task",
+    "venue": "EWCBR '94 Selected papers from the Second European Workshop on Advances in Case-Based Reasoning",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Michael T. Cox",
+            "id": "2122026223",
+            "org": "Georgia Institute of Technology"
+        },
+        {
+            "name": "Ashwin Ram",
+            "id": "2109056120",
+            "org": "Georgia Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Instance-based learning",
+        "Action learning",
+        "Experiential learning",
+        "Robot learning",
+        "Case-based reasoning",
+        "Machine learning",
+        "Interactive Learning",
+        "Learning environment",
+        "Artificial intelligence",
+        "Computer science",
+        "Proactive learning"
+    ],
+    "references": [
+        "1494134362",
+        "1496355506",
+        "1525136198",
+        "1553039381",
+        "1562384295",
+        "1574625458",
+        "1583660783",
+        "1998523455",
+        "2024868117",
+        "2066171689",
+        "2070664878",
+        "2101602574",
+        "2158317956",
+        "2165008406"
+    ]
+}

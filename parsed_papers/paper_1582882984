@@ -1,0 +1,31 @@
+{
+    "id": "1582882984",
+    "title": "Hybrid Systems in TLA",
+    "venue": "Hybrid Systems",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Leslie Lamport",
+            "id": "2096750770",
+            "org": "Digital Equipment Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Correctness",
+        "Mathematical proof",
+        "Discrete mathematics",
+        "Duration calculus",
+        "Formal specification",
+        "Hybrid system",
+        "Temporal logic of actions",
+        "Theoretical computer science",
+        "Operator (computer programming)",
+        "Mathematics",
+        "Temporal logic"
+    ],
+    "references": [
+        "2015688007",
+        "2076513239",
+        "2133939589"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1526291109",
+    "title": "Hierarchical behavior knowledge space",
+    "venue": "international conference on multiple classifier systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Hubert Cecotti",
+            "id": "2668009413",
+            "org": "READ Group , LORIA, CNRS, Vandoeuvre-les-Nancy cedex, France#TAB#"
+        },
+        {
+            "name": "Abdel Belaid",
+            "id": "2779958384",
+            "org": "READ Group , LORIA, CNRS, Vandoeuvre-les-Nancy cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Random subspace method",
+        "Convolutional neural network",
+        "Machine learning",
+        "Ranking",
+        "Computer science",
+        "Knowledge space",
+        "Pattern recognition",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1690427404",
+        "2014056170",
+        "2014986661",
+        "2126297944",
+        "2156163116"
+    ]
+}

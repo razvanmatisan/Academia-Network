@@ -1,0 +1,58 @@
+{
+    "id": "1564783277",
+    "title": "The rules of constraint modelling",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Alan M. Frisch",
+            "id": "2111729368",
+            "org": "Artificial Intelligence Group, Dept. of Computer Science, Univ. of York, UK#TAB#"
+        },
+        {
+            "name": "Christopher Jefferson",
+            "id": "2118814867",
+            "org": "Artificial Intelligence Group, Dept. of Computer Science, Univ. of York, UK#TAB#"
+        },
+        {
+            "name": "Bernadette Martinez Hernandez",
+            "id": "2273644759",
+            "org": "Artificial Intelligence Group, Dept. of Computer Science, Univ. of York, UK#TAB#"
+        },
+        {
+            "name": "Ian Miguel",
+            "id": "2161544986",
+            "org": "School of Computer Science, Univ. of St Andrews, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Constraint satisfaction dual problem",
+        "Constraint programming",
+        "Complexity of constraint satisfaction",
+        "Discrete mathematics",
+        "Machine learning",
+        "Artificial intelligence",
+        "Concurrent constraint logic programming",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Constraint logic programming",
+        "Constraint learning",
+        "Computer science",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "27508457",
+        "129080167",
+        "1500096329",
+        "1512988629",
+        "1542066319",
+        "1568906217",
+        "1593604690",
+        "1773554800",
+        "1946570941",
+        "2051790368",
+        "2116613055",
+        "2123885721",
+        "2131673997"
+    ]
+}

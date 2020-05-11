@@ -1,0 +1,35 @@
+{
+    "id": "1574381461",
+    "title": "Representing and Reasoning with Context",
+    "venue": "artificial intelligence and symbolic computation",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Richmond H. Thomason",
+            "id": "2151142429",
+            "org": "Philosophy"
+        }
+    ],
+    "fields_of_study": [
+        "Intensional logic",
+        "Computational logic",
+        "Montague grammar",
+        "Dynamic logic (modal logic)",
+        "Philosophy of logic",
+        "Multimodal logic",
+        "Computer science",
+        "Term logic",
+        "Context model",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "12601726",
+        "1520331889",
+        "1537967719",
+        "1555476679",
+        "1561988463",
+        "1979639590",
+        "2146819619",
+        "2162549908"
+    ]
+}

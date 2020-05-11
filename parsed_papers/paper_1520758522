@@ -1,0 +1,39 @@
+{
+    "id": "1520758522",
+    "title": "Image-Schemata-Based Spatial Inferences: The Container-Surface Algebra",
+    "venue": "conference on spatial information theory",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "M. Andrea Rodriguez",
+            "id": "2161985520",
+            "org": "University of Maine"
+        },
+        {
+            "name": "Max J. Egenhofer",
+            "id": "66103918",
+            "org": "University of Maine"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Discrete mathematics",
+        "Machine learning",
+        "Spatial intelligence",
+        "Spatial analysis",
+        "Spatial relation",
+        "Query language",
+        "Knowledge representation and reasoning",
+        "Schema (psychology)",
+        "Operator (computer programming)",
+        "Spatial query",
+        "Mathematics"
+    ],
+    "references": [
+        "1531373288",
+        "1588853612",
+        "1763523588",
+        "1987033997",
+        "2073529986"
+    ]
+}

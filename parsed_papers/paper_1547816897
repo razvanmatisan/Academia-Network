@@ -1,0 +1,39 @@
+{
+    "id": "1547816897",
+    "title": "XMine: a methodology for mining XML structure",
+    "venue": "asia pacific web conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Richi Nayak",
+            "id": "2144864747",
+            "org": "School of Information Systems, Queensland University of Technology, Brisbane, Australia#TAB#"
+        },
+        {
+            "name": "Wina Iryadi",
+            "id": "289777520",
+            "org": "School of Information Systems, Queensland University of Technology, Brisbane, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Database",
+        "Binary XML",
+        "XML validation",
+        "Document Structure Description",
+        "Computer science",
+        "XML Schema Editor",
+        "XML schema",
+        "XML framework",
+        "XML Catalog",
+        "Efficient XML Interchange"
+    ],
+    "references": [
+        "1641039719",
+        "1971318281",
+        "2046104015",
+        "2087613132",
+        "2108083852",
+        "2160873337"
+    ]
+}

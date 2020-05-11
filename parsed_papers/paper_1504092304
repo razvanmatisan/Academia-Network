@@ -1,0 +1,37 @@
+{
+    "id": "1504092304",
+    "title": "On Pruning Techniques for Multi-Player Games",
+    "venue": "national conference on artificial intelligence",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Nathan R. Sturtevant",
+            "id": "302998071",
+            "org": "Computer Science Department|University of California , Los Angeles"
+        },
+        {
+            "name": "Richard E. Korf",
+            "id": "22603248",
+            "org": "Computer Science Department|University of California , Los Angeles"
+        }
+    ],
+    "fields_of_study": [
+        "Search tree",
+        "Pruning",
+        "Mathematical optimization",
+        "Null-move heuristic",
+        "Machine learning",
+        "Heuristic",
+        "Artificial intelligence",
+        "Principal variation search",
+        "Computer science",
+        "Killer heuristic",
+        "Minimax",
+        "Algorithm",
+        "Pruning (decision trees)"
+    ],
+    "references": [
+        "2033161995",
+        "2157803532"
+    ]
+}

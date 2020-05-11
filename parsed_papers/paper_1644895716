@@ -1,0 +1,51 @@
+{
+    "id": "1644895716",
+    "title": "\"Are You with Me?\" - Using Accelerometers to Determine If Two Devices Are Carried by the Same Person",
+    "venue": "international conference on pervasive computing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jonathan Lester",
+            "id": "2220451975",
+            "org": "University of Washington"
+        },
+        {
+            "name": "Blake Hannaford",
+            "id": "2189290658",
+            "org": "University of Washington"
+        },
+        {
+            "name": "Gaetano Borriello",
+            "id": "141796421",
+            "org": "University of Washington"
+        },
+        {
+            "name": "Gaetano Borriello",
+            "id": "141796421",
+            "org": "University of Washington"
+        }
+    ],
+    "fields_of_study": [
+        "Ubiquitous computing",
+        "Real-time computing",
+        "Frequency domain",
+        "Distributed computing",
+        "Robustness (computer science)",
+        "Sliding window protocol",
+        "Bluetooth",
+        "Mobile computing",
+        "Coherence (signal processing)",
+        "Computer science",
+        "Accelerometer",
+        "Simulation"
+    ],
+    "references": [
+        "1537509622",
+        "1969665019",
+        "1984575025",
+        "2011543459",
+        "2019952623",
+        "2158272724",
+        "2169500698"
+    ]
+}

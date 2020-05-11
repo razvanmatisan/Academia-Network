@@ -1,0 +1,38 @@
+{
+    "id": "1563707431",
+    "title": "Bounded rationality, strategy simplification, and equilibrium",
+    "venue": "International Journal of Game Theory",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Hubie Chen",
+            "id": "2641865675",
+            "org": "Universitat Pompeu Fabra"
+        }
+    ],
+    "fields_of_study": [
+        "Welfare economics",
+        "Mathematics",
+        "Mathematical economics",
+        "Outcome (game theory)",
+        "Best response",
+        "Mathematical optimization",
+        "Epsilon-equilibrium",
+        "Repeated game",
+        "Traveler's dilemma",
+        "Equilibrium selection",
+        "Risk dominance",
+        "Nash equilibrium"
+    ],
+    "references": [
+        "33541622",
+        "1606176430",
+        "1804460891",
+        "1845169462",
+        "1963883220",
+        "2007887317",
+        "2092183701",
+        "2105894162",
+        "2133755883"
+    ]
+}

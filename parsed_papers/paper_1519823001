@@ -1,0 +1,38 @@
+{
+    "id": "1519823001",
+    "title": "Automated Classification Tree Evolution Through Hybrid Metaheuristics",
+    "venue": "hybrid intelligent systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Miroslav Bursa",
+            "id": "2075084877",
+            "org": "Czech Technical University in Prague"
+        },
+        {
+            "name": "Lenka Lhotska",
+            "id": "195441492",
+            "org": "Czech Technical University in Prague"
+        }
+    ],
+    "fields_of_study": [
+        "Evolutionary algorithm",
+        "Cluster analysis",
+        "Artificial intelligence",
+        "Parallel metaheuristic",
+        "Metaheuristic",
+        "Machine learning",
+        "Ant colony optimization algorithms",
+        "Pattern recognition",
+        "Computer science",
+        "Population",
+        "Decision tree learning",
+        "Evolution strategy"
+    ],
+    "references": [
+        "1573676079",
+        "1801849579",
+        "2034986427",
+        "2051224630"
+    ]
+}

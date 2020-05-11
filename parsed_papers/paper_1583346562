@@ -1,0 +1,55 @@
+{
+    "id": "1583346562",
+    "title": "High-performance navigation and rendering of very-large scale landscape and seascape",
+    "venue": "computer-aided design and computer graphics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Pi Xuexian",
+            "id": "1991389798",
+            "org": "Sch. of Comput., National Univ. of Defense Technol., Changsha, China"
+        },
+        {
+            "name": "Yang Xudong",
+            "id": "2110951608",
+            "org": "Sch. of Comput., National Univ. of Defense Technol., Changsha, China"
+        },
+        {
+            "name": "Li Sikun",
+            "id": "2196155783",
+            "org": "Sch. of Comput., National Univ. of Defense Technol., Changsha, China"
+        },
+        {
+            "name": "Song Jun-qiang",
+            "id": "2007895166",
+            "org": "Sch. of Comput., National Univ. of Defense Technol., Changsha, China"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Level of detail",
+        "Image-based modeling and rendering",
+        "Rendering (computer graphics)",
+        "Software rendering",
+        "Artificial intelligence",
+        "Tiled rendering",
+        "Terrain rendering",
+        "Alternate frame rendering",
+        "Computer science",
+        "Perlin noise"
+    ],
+    "references": [
+        "1486818671",
+        "1966832848",
+        "1992851154",
+        "2000322307",
+        "2099404391",
+        "2105079573",
+        "2112829430",
+        "2127193713",
+        "2142527436",
+        "2147591526",
+        "2153706058",
+        "2170877531"
+    ]
+}

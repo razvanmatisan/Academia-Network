@@ -1,0 +1,42 @@
+{
+    "id": "1534530104",
+    "title": "Flip-pushdown automata: k + 1 pushdown reversals are better than k",
+    "venue": "international colloquium on automata languages and programming",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Markus Holzer",
+            "id": "2090051865",
+            "org": "Institut fur Informatik, Technische Universitat Munchen, Munchen, Germany#TAB#"
+        },
+        {
+            "name": "Martin Kutrib",
+            "id": "74796834",
+            "org": "Institut fur Informatik, Universitat Giessen, Giessen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Two-way deterministic finite automaton",
+        "Discrete mathematics",
+        "Context-free language",
+        "Embedded pushdown automaton",
+        "Nested word",
+        "Pushdown automaton",
+        "Deterministic context-free grammar",
+        "Deterministic context-free language",
+        "Algorithm",
+        "Deterministic pushdown automaton",
+        "Mathematics"
+    ],
+    "references": [
+        "137526742",
+        "1505482284",
+        "1979328074",
+        "1982449618",
+        "1999647826",
+        "2014170700",
+        "2064577184",
+        "2079275582"
+    ]
+}

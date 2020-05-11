@@ -1,0 +1,35 @@
+{
+    "id": "1654359947",
+    "title": "Scalable formal machine models",
+    "venue": "certified programs and proofs",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Greg Morrisett",
+            "id": "683339272",
+            "org": "Harvard University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Mathematical proof",
+        "Theoretical computer science",
+        "Algorithm",
+        "Computer science",
+        "Software",
+        "Semantic data model",
+        "Software system",
+        "Compiler",
+        "Scalability"
+    ],
+    "references": [
+        "1639923106",
+        "1992244261",
+        "2009248821",
+        "2023035194",
+        "2024347417",
+        "2079029390",
+        "2109219878",
+        "2136310957"
+    ]
+}

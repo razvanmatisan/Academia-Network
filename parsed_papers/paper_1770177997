@@ -1,0 +1,45 @@
+{
+    "id": "1770177997",
+    "title": "Towards tractable Boolean games",
+    "venue": "adaptive agents and multi-agents systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Paul E. Dunne",
+            "id": "2087778684",
+            "org": "Uinversity of Liverpool, Liverpool, UK#TAB#"
+        },
+        {
+            "name": "Michael Wooldridge",
+            "id": "2345025092",
+            "org": "Uinversity of Liverpool, Liverpool, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Best response",
+        "Artificial intelligence",
+        "Price of stability",
+        "Discrete mathematics",
+        "Machine learning",
+        "Boolean function",
+        "Computer science",
+        "Epsilon-equilibrium",
+        "Coordination game",
+        "Maximum satisfiability problem",
+        "Equilibrium selection",
+        "Folk theorem"
+    ],
+    "references": [
+        "1526611557",
+        "1528676759",
+        "1652638766",
+        "1807884544",
+        "2017619848",
+        "2107761114",
+        "2108113998",
+        "2140790422",
+        "2163593844",
+        "2167073044",
+        "2264401487"
+    ]
+}

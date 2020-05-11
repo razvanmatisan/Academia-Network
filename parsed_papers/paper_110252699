@@ -1,0 +1,33 @@
+{
+    "id": "110252699",
+    "title": "Measuring the Quality of Descriptive Languages for Products and Services",
+    "venue": "multikonferenz wirtschaftsinformatik",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Martin Hepp",
+            "id": "2121886309",
+            "org": "Florida Gulf Coast University - College of Business"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Product classification",
+        "Domain knowledge",
+        "Semantic Web",
+        "Architecture",
+        "Data integration",
+        "Data mining",
+        "Ontology (information science)",
+        "Coding (social sciences)"
+    ],
+    "references": [
+        "147954397",
+        "2018113587",
+        "2027780767",
+        "2051655244",
+        "2098561412",
+        "2101047917",
+        "2167024438"
+    ]
+}

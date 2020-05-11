@@ -1,0 +1,39 @@
+{
+    "id": "1556481352",
+    "title": "Computation of discontinuous optical flow by domain decomposition and shape optimization",
+    "venue": "International Journal of Computer Vision",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Christoph Schnorr",
+            "id": "2155100735",
+            "org": "AB Kognitive Systeme, Universitat Hamburg, FB Informatik, Hamburg 50, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Domain of a function",
+        "Classification of discontinuities",
+        "Artificial intelligence",
+        "Image plane",
+        "Motion field",
+        "Shape optimization",
+        "Domain decomposition methods",
+        "Mathematics",
+        "Optical flow",
+        "Disjoint sets"
+    ],
+    "references": [
+        "1488600637",
+        "1535698277",
+        "1578285471",
+        "1978387116",
+        "1997866406",
+        "2020999234",
+        "2104151905",
+        "2133852432",
+        "2134781380",
+        "2139828242",
+        "2165810248"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1494731059",
+    "title": "Breaking Accessibility Barriers: Computational Intelligence in Music Processing for Blind People",
+    "venue": "international conference on informatics in control, automation and robotics",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Wladyslaw Homenda",
+            "id": "282658983",
+            "org": "Warsaw University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Multimedia",
+        "Knowledge base",
+        "Control engineering",
+        "Natural language processing",
+        "Knowledge representation and reasoning",
+        "Screen reader",
+        "Computational intelligence",
+        "Computer program",
+        "Musical notation",
+        "Open Knowledge Base Connectivity",
+        "Computer science",
+        "Artificial intelligence",
+        "Commonsense knowledge"
+    ],
+    "references": [
+        "166419126",
+        "1486322354",
+        "1486496584",
+        "1945655269",
+        "2294778980"
+    ]
+}

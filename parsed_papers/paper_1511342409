@@ -1,0 +1,29 @@
+{
+    "id": "1511342409",
+    "title": "Disambiguation of SGML Content Models",
+    "venue": "PODP '96 Proceedings of the Third International Workshop on Principles of Document Processing",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Helena Ahonen",
+            "id": "1981915651",
+            "org": "University of Helsinki"
+        }
+    ],
+    "fields_of_study": [
+        "Regular language",
+        "String (computer science)",
+        "Finite-state machine",
+        "Theoretical computer science",
+        "Generalization",
+        "Regular expression",
+        "Content Model",
+        "Document type definition",
+        "SGML",
+        "Computer science"
+    ],
+    "references": [
+        "1582705003",
+        "2057841333"
+    ]
+}

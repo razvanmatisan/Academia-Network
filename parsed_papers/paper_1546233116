@@ -1,0 +1,45 @@
+{
+    "id": "1546233116",
+    "title": "Homography Tensors: On Algebraic Entities that Represent Three Views of Static or Moving Planar Points",
+    "venue": "european conference on computer vision",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Amnon Shashua",
+            "id": "130468041",
+            "org": "The Hebrew University"
+        },
+        {
+            "name": "Lior Wolf",
+            "id": "2059111593",
+            "org": "The Hebrew University"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Projective representation",
+        "Discrete mathematics",
+        "Computer vision",
+        "Motion estimation",
+        "Matrix (mathematics)",
+        "Algebraic number",
+        "Tensor",
+        "Homography",
+        "Topology",
+        "Mathematics",
+        "Collineation",
+        "Covariance and contravariance of vectors"
+    ],
+    "references": [
+        "1485855073",
+        "1540761374",
+        "1541582421",
+        "1607409212",
+        "1795816312",
+        "2131092941",
+        "2143191604",
+        "2150344414",
+        "2156744050",
+        "2157725552"
+    ]
+}

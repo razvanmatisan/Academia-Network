@@ -1,0 +1,38 @@
+{
+    "id": "1532950927",
+    "title": "Full Information Game with Gains and Losses",
+    "venue": "algorithmic learning theory",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Chamy Allenberg-Neeman",
+            "id": "2290307098",
+            "org": "Tel Aviv University"
+        },
+        {
+            "name": "Benny Neeman",
+            "id": "2289754141",
+            "org": "The Interdisciplinary Center"
+        }
+    ],
+    "fields_of_study": [
+        "Zero-sum game",
+        "Machine learning",
+        "Artificial intelligence",
+        "Upper and lower bounds",
+        "Minimax",
+        "Stochastic game",
+        "Symmetric game",
+        "Example of a game without a value",
+        "Mathematics",
+        "Bondareva-Shapley theorem"
+    ],
+    "references": [
+        "1979675141",
+        "1988790447",
+        "2050660892",
+        "2093825590",
+        "2112204502",
+        "2116067849"
+    ]
+}

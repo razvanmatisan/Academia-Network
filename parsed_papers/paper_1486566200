@@ -1,0 +1,39 @@
+{
+    "id": "1486566200",
+    "title": "Feedforward Neural Networks in Reinforcement Learning Applied to High-Dimensional Motor Control",
+    "venue": "algorithmic learning theory",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Remi Coulom",
+            "id": "2660695044",
+            "org": "Laboratoire Leibniz-IMAG"
+        }
+    ],
+    "fields_of_study": [
+        "Types of artificial neural networks",
+        "Learning classifier system",
+        "Machine learning",
+        "Feedforward neural network",
+        "Artificial intelligence",
+        "Reinforcement learning",
+        "Artificial neural network",
+        "Computer science",
+        "Deep learning",
+        "Recurrent neural network",
+        "Backpropagation"
+    ],
+    "references": [
+        "167037002",
+        "1584535387",
+        "2100677568",
+        "2107726111",
+        "2113501460",
+        "2121863487",
+        "2123462950",
+        "2124175081",
+        "2131600418",
+        "2141382056",
+        "2166116275"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1512706510",
+    "title": "Bottom-Up Evaluation of DataHiLog",
+    "venue": "Rules in Database Systems",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Peter T. Wood",
+            "id": "2301950271",
+            "org": "University of Cape Town"
+        },
+        {
+            "name": "Peter T. Wood",
+            "id": "2301950271",
+            "org": "University of Cape Town"
+        }
+    ],
+    "fields_of_study": [
+        "Datalog",
+        "Predicate variable",
+        "Relational algebra",
+        "Database",
+        "Query language",
+        "HiLog",
+        "Logic programming",
+        "SQL",
+        "Programming language",
+        "Knowledge acquisition",
+        "Computer science"
+    ],
+    "references": [
+        "30202435",
+        "69266277",
+        "1501535985",
+        "1527137462",
+        "1569301450",
+        "1570025952",
+        "1602194401",
+        "1970195369",
+        "1977583107",
+        "1993806252",
+        "1994301353",
+        "2005835473",
+        "2007165718",
+        "2039601877",
+        "2070553391",
+        "2113809903"
+    ]
+}

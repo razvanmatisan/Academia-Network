@@ -1,0 +1,42 @@
+{
+    "id": "1757237710",
+    "title": "On-line Distributed Debugging on Scaleable Multicomputer Architectures",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Thomas Bemmerl",
+            "id": "139949015",
+            "org": "Intel Corp."
+        },
+        {
+            "name": "Thomas Bemmerl",
+            "id": "139949015",
+            "org": "Intel Corp."
+        },
+        {
+            "name": "Roland Wismuller",
+            "id": "710658356",
+            "org": "Technische Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Transputer",
+        "Deterministic finite automaton",
+        "Parallel computing",
+        "Debugging",
+        "Debugger",
+        "Scalability",
+        "Computer science",
+        "Architecture",
+        "Distributed computing",
+        "Light-weight process",
+        "Multiprocessing"
+    ],
+    "references": [
+        "1507290593",
+        "1877496576",
+        "2020250000",
+        "2132773226"
+    ]
+}

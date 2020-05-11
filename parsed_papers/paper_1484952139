@@ -1,0 +1,42 @@
+{
+    "id": "1484952139",
+    "title": "Security Typings by Abstract Interpretation",
+    "venue": "static analysis symposium",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Mirko Zanotti",
+            "id": "2285409043",
+            "org": "Universita di Verona"
+        },
+        {
+            "name": "Mirko Zanotti",
+            "id": "2285409043",
+            "org": "Universita di Verona"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Abstract machine",
+        "Theoretical computer science",
+        "Semantics",
+        "Abstract interpretation",
+        "Denotational semantics",
+        "Distributed computing",
+        "Control flow analysis",
+        "Operational semantics",
+        "Action semantics",
+        "Security policy",
+        "Mathematics"
+    ],
+    "references": [
+        "1511668635",
+        "1559130486",
+        "1963705166",
+        "2014764321",
+        "2043100293",
+        "2094873755",
+        "2129278597",
+        "2150174204"
+    ]
+}

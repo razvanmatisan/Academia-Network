@@ -1,0 +1,44 @@
+{
+    "id": "1501979881",
+    "title": "FCA-MERGE: bottom-up merging of ontologies",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Gerd Stumme",
+            "id": "2079929980",
+            "org": "Institute for Applied Computer Science and Formal Description Methods (AIFB), University of Karlsruhe, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Alexander Maedche",
+            "id": "268444295",
+            "org": "FZI Research Center for Information Technologies, Karlsruhe, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ontology",
+        "Artificial intelligence",
+        "Information retrieval",
+        "Ontology merging",
+        "Machine learning",
+        "IDEF5",
+        "Natural language processing",
+        "Ontology (information science)",
+        "Formal concept analysis",
+        "Knowledge sharing",
+        "Web Ontology Language",
+        "Computer science",
+        "Structuring"
+    ],
+    "references": [
+        "173527909",
+        "1503729935",
+        "1528996003",
+        "1532012722",
+        "1600475986",
+        "1851672339",
+        "1986659531",
+        "2084130127",
+        "2116184909"
+    ]
+}

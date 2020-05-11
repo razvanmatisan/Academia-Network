@@ -1,0 +1,40 @@
+{
+    "id": "1501409973",
+    "title": "Metamodeling the Requirements of Web Systems",
+    "venue": "international conference on web information systems and technologies",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "M. J. Escalona",
+            "id": "2112459111",
+            "org": "Universidad de Sevilla"
+        },
+        {
+            "name": "Nora Koch",
+            "id": "2128327921",
+            "org": "Ludwig-Maximilians-Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Web standards",
+        "Systems engineering",
+        "Requirements elicitation",
+        "Software requirements specification",
+        "Data mining",
+        "System requirements specification",
+        "Computer science",
+        "Web modeling",
+        "Requirements analysis",
+        "WS-Policy",
+        "Web design"
+    ],
+    "references": [
+        "1595103560",
+        "1604381843",
+        "2048976958",
+        "2103860438",
+        "2112748741",
+        "2123041916",
+        "2160143212"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1766647772",
+    "title": "Isar - A Generic Interpretative Approach to Readable Formal Proof Documents",
+    "venue": "theorem proving in higher order logics",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Markus Wenzel",
+            "id": "2169917450",
+            "org": "Technische Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical proof",
+        "Algorithm",
+        "Proof complexity",
+        "Proof theory",
+        "Theoretical computer science",
+        "Semantic gap",
+        "Automated reasoning",
+        "Formal proof",
+        "Computer science",
+        "Automated theorem proving",
+        "Proof assistant"
+    ],
+    "references": [
+        "1488189293",
+        "1491353074",
+        "1511774588",
+        "1567579959",
+        "1576046038",
+        "1627776297",
+        "1659048632",
+        "1817375554",
+        "1819951499",
+        "1996404651",
+        "2095761199",
+        "2098780004",
+        "2098856123",
+        "2154105994"
+    ]
+}

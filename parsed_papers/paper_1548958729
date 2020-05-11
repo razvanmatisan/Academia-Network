@@ -1,0 +1,34 @@
+{
+    "id": "1548958729",
+    "title": "Component Composition with Sharing",
+    "venue": "european conference on object-oriented programming",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Geoffrey H. Outhred",
+            "id": "2562093013",
+            "org": "Macquarie University"
+        },
+        {
+            "name": "John Potter",
+            "id": "1965051166",
+            "org": "Macquarie University"
+        }
+    ],
+    "fields_of_study": [
+        "Software deployment",
+        "Common Object Request Broker Architecture",
+        "Programming paradigm",
+        "Architecture",
+        "Distributed computing",
+        "Component (UML)",
+        "Common Component Architecture",
+        "Identifier",
+        "Distributed Computing Environment",
+        "Computer science"
+    ],
+    "references": [
+        "1489800325",
+        "1509514020"
+    ]
+}

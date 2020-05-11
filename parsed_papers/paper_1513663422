@@ -1,0 +1,30 @@
+{
+    "id": "1513663422",
+    "title": "Generalization of Campbell's theorem to nonstationary noise",
+    "venue": "european signal processing conference",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Leon Cohen",
+            "id": "2159008391",
+            "org": "City University of New York, Hunter College, 695 Park Ave, 10056, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Spacetime",
+        "Mathematical analysis",
+        "Acoustics",
+        "Pulse wave",
+        "Standard deviation",
+        "Time-frequency analysis",
+        "Reverberation",
+        "Stochastic process",
+        "Campbell's theorem",
+        "Mathematics"
+    ],
+    "references": [
+        "1669762919",
+        "2126684640",
+        "2169525829"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1606147224",
+    "title": "The factored frontier algorithm for approximate inference in DBNs",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Kevin P. Murphy",
+            "id": "2167731548",
+            "org": "Computer Science Department, University of California, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "Yair Weiss",
+            "id": "2097273326",
+            "org": "Computer Science Department, University of California, Berkeley, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Mathematical optimization",
+        "Artificial intelligence",
+        "Algorithm",
+        "Belief propagation",
+        "Dynamic Bayesian network",
+        "Hidden Markov model",
+        "Pattern recognition",
+        "Approximate inference",
+        "Mathematics"
+    ],
+    "references": [
+        "1515272691",
+        "1526875812",
+        "1528056001",
+        "1560512119",
+        "1565763124",
+        "1575388622",
+        "2086238730",
+        "2098678088",
+        "2129031807",
+        "2132588110",
+        "2147496287",
+        "2158122241",
+        "2159080219",
+        "2175160295"
+    ]
+}

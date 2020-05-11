@@ -1,0 +1,51 @@
+{
+    "id": "1590458783",
+    "title": "CE: The Classifier-Estimator Framework for Data Mining",
+    "venue": "discovery science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Mehmet M. Dalkilic",
+            "id": "1716278348",
+            "org": "Indiana University"
+        },
+        {
+            "name": "E. L. Roberston",
+            "id": "2209327347",
+            "org": "Indiana University"
+        },
+        {
+            "name": "D. Van Gucht",
+            "id": "2704711039",
+            "org": "Indiana University"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Machine learning",
+        "Artificial intelligence",
+        "Estimator",
+        "Oracle",
+        "Multivalued dependency",
+        "Computer science",
+        "Association rule learning",
+        "Relational model",
+        "Functional dependency",
+        "Rough set",
+        "Text mining"
+    ],
+    "references": [
+        "43035074",
+        "1506285740",
+        "1524668325",
+        "1593054802",
+        "1839867872",
+        "1971475250",
+        "2052629503",
+        "2082046852",
+        "2110810394",
+        "2120943950",
+        "2138697398",
+        "2340020088"
+    ]
+}

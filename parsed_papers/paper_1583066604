@@ -1,0 +1,32 @@
+{
+    "id": "1583066604",
+    "title": "Systematic generation of stochastic diversity as an intrusion barrier in survivable systems software",
+    "venue": "hawaii international conference on system sciences",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Richard C. Linger",
+            "id": "696362100",
+            "org": "Software Eng. Inst., Carnegie Mellon Univ., Pittsburgh, PA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Source code",
+        "Exploit",
+        "Software construction",
+        "Software development",
+        "Programming complexity",
+        "Theoretical computer science",
+        "Software sizing",
+        "Distributed computing",
+        "Software",
+        "Computer science",
+        "Software security assurance"
+    ],
+    "references": [
+        "1525811688",
+        "2090278452",
+        "2121794002",
+        "2144956041"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "17490269",
+    "title": "Temporalizing Modal Epistemic Logic",
+    "venue": "foundations of computer science",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Ren-June Wang",
+            "id": "2096756613",
+            "org": "National Chung-Cheng University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Epistemic possibility",
+        "Normal modal logic",
+        "Second-order logic",
+        "Dynamic logic (modal logic)",
+        "S5",
+        "Godel's completeness theorem",
+        "Multimodal logic",
+        "Algorithm",
+        "Mathematics",
+        "Epistemic modal logic"
+    ],
+    "references": [
+        "1582512544",
+        "1620944542",
+        "1755487133",
+        "1973154161",
+        "1979593694",
+        "1994227541",
+        "1999987460",
+        "2043468053",
+        "2045237008",
+        "2099143991",
+        "2104288836",
+        "2148717074",
+        "2162575076",
+        "2431139695",
+        "2496298154"
+    ]
+}

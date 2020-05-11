@@ -1,0 +1,56 @@
+{
+    "id": "1565530534",
+    "title": "Anonymous Authentication of Membership in Dynamic Groups",
+    "venue": "financial cryptography",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Stuart E. Schechter",
+            "id": "2779484019",
+            "org": "Harvard University"
+        },
+        {
+            "name": "Todd C. Parnell",
+            "id": "2578945132",
+            "org": "Massachusetts Institute of Technology"
+        },
+        {
+            "name": "Alexander J. Hartemink",
+            "id": "1959501195",
+            "org": "Massachusetts Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Anonymity",
+        "Computer security",
+        "Internet privacy",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Trusted third party",
+        "Cryptography",
+        "Cryptosystem",
+        "Public-key cryptography",
+        "Plaintext",
+        "Authentication"
+    ],
+    "references": [
+        "1481492327",
+        "1497351799",
+        "1501707359",
+        "1535861450",
+        "1569930334",
+        "1807072749",
+        "1978884755",
+        "2005708967",
+        "2031618446",
+        "2083416818",
+        "2085856764",
+        "2101040389",
+        "2102632861",
+        "2103647628",
+        "2123735079",
+        "2144820675",
+        "2155326273"
+    ]
+}

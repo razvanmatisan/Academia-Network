@@ -1,0 +1,51 @@
+{
+    "id": "1816257748",
+    "title": "On Graph Kernels: Hardness Results and Efficient Alternatives",
+    "venue": "conference on learning theory",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Thomas Gartner",
+            "id": "1891115510",
+            "org": "Fraunhofer Institut Autonome Intelligente Systeme"
+        },
+        {
+            "name": "Thomas Gartner",
+            "id": "1891115510",
+            "org": "Fraunhofer Institut Autonome Intelligente Systeme"
+        },
+        {
+            "name": "Peter A. Flach",
+            "id": "1814273096",
+            "org": "University of Bristol"
+        },
+        {
+            "name": "Stefan Wrobel",
+            "id": "2113978936",
+            "org": "Fraunhofer Institut Autonome Intelligente Systeme"
+        }
+    ],
+    "fields_of_study": [
+        "Graph isomorphism",
+        "Pathwidth",
+        "Graph product",
+        "Discrete mathematics",
+        "Machine learning",
+        "Indifference graph",
+        "Graph kernel",
+        "Cograph",
+        "Artificial intelligence",
+        "Chordal graph",
+        "Modular decomposition",
+        "Computer science"
+    ],
+    "references": [
+        "1480643256",
+        "1511160855",
+        "1835509607",
+        "2087347434",
+        "2109722166",
+        "2127713198",
+        "2161420356"
+    ]
+}

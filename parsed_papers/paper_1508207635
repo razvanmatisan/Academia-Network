@@ -1,0 +1,31 @@
+{
+    "id": "1508207635",
+    "title": "On the Distribution of a Key Distribution Center",
+    "venue": "italian conference on theoretical computer science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Paolo D'Arco",
+            "id": "2050903499",
+            "org": "Universita di Salerno Dipartimento di Informatica ed Applicazioni 84081 Baronissi (SA) Italy"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "Key distribution",
+        "Key distribution center",
+        "Computer science",
+        "Distributed computing",
+        "Key (lock)",
+        "Randomness",
+        "Communication complexity",
+        "Server",
+        "Secret sharing",
+        "Secure communication"
+    ],
+    "references": [
+        "1583834646",
+        "2141420453",
+        "2146973388"
+    ]
+}

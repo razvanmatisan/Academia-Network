@@ -1,0 +1,35 @@
+{
+    "id": "1566762067",
+    "title": "Optimization of a neural network applied to pulsed radar detection",
+    "venue": "european signal processing conference",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Diego Andina",
+            "id": "2134605752",
+            "org": "Departamento de Senales, Sistemas y Radiocomunicaciones, ETSI de Telecomunicacion, Universidad Politecnica de Madrid, Ciudad Universitaria s/n 28040 Madrid, Spain"
+        },
+        {
+            "name": "Jose L. S anz-Gonzalez",
+            "id": "2228694043",
+            "org": "Departamento de Senales, Sistemas y Radiocomunicaciones, ETSI de Telecomunicacion, Universidad Politecnica de Madrid, Ciudad Universitaria s/n 28040 Madrid, Spain"
+        }
+    ],
+    "fields_of_study": [
+        "Detector",
+        "Radar",
+        "Artificial neural network",
+        "Signal-to-noise ratio",
+        "Time delay neural network",
+        "Backpropagation",
+        "Machine learning",
+        "Pulse (signal processing)",
+        "Probabilistic neural network",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1995583909",
+        "2100819007"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "106879437",
+    "title": "A new multi-camera based facial expression analysis concept",
+    "venue": "international conference on image analysis and recognition",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Robert Niese",
+            "id": "1987729406",
+            "org": "Institute for Electronics, Signal Processing, and Communications, Otto-von-Guericke University, Magdeburg, Germany#TAB#"
+        },
+        {
+            "name": "Ayoub Al-Hamadi",
+            "id": "2030990617",
+            "org": "Institute for Electronics, Signal Processing, and Communications, Otto-von-Guericke University, Magdeburg, Germany#TAB#"
+        },
+        {
+            "name": "Bernd Michaelis",
+            "id": "2013892650",
+            "org": "Institute for Electronics, Signal Processing, and Communications, Otto-von-Guericke University, Magdeburg, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Degrees of freedom (statistics)",
+        "Computer vision",
+        "Artificial intelligence",
+        "Patient state",
+        "Three-dimensional face recognition",
+        "Pattern recognition",
+        "Computer science",
+        "Observable",
+        "Facial expression",
+        "Pose",
+        "Field of view",
+        "Face hallucination"
+    ],
+    "references": [
+        "1494234915",
+        "1591430458",
+        "2034295967",
+        "2066642295",
+        "2075369193",
+        "2119851068",
+        "2131189471",
+        "2237250383",
+        "2542323081",
+        "2671620828"
+    ]
+}

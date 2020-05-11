@@ -1,0 +1,32 @@
+{
+    "id": "1539924679",
+    "title": "Case Study and Maturity Model for Business Process Management Implementation",
+    "venue": "business process management",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Michael Rohloff",
+            "id": "2717294985",
+            "org": "University of Potsdam, Potsdam, Germany 14482#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Business process",
+        "Process management",
+        "Business activity monitoring",
+        "Systems engineering",
+        "Service Integration Maturity Model",
+        "Process modeling",
+        "Business process modeling",
+        "Artifact-centric business process model",
+        "Business relationship management",
+        "Business process management"
+    ],
+    "references": [
+        "1563003115",
+        "1603767029",
+        "1715762515",
+        "2017759784"
+    ]
+}

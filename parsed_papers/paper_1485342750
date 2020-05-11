@@ -1,0 +1,42 @@
+{
+    "id": "1485342750",
+    "title": "Analysing a Contingency Table with Kohonen Maps: A Factorial Correspondence Analysis",
+    "venue": "international work-conference on artificial and natural neural networks",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Marie Cottrell",
+            "id": "1986764035",
+            "org": "SAMOS - Universite Paris 1 - 90"
+        },
+        {
+            "name": "Patrick Letremy",
+            "id": "339306475",
+            "org": "SAMOS - Universite Paris 1 - 90"
+        },
+        {
+            "name": "Elisabeth Roy",
+            "id": "2415821370",
+            "org": "SAMOS - Universite Paris 1 - 90"
+        }
+    ],
+    "fields_of_study": [
+        "Stochastic gradient descent",
+        "Self-organizing map",
+        "Machine learning",
+        "Contingency table",
+        "Artificial intelligence",
+        "Correspondence analysis",
+        "Principal component analysis",
+        "Pattern recognition",
+        "Data analysis",
+        "Categorization",
+        "Mathematics",
+        "Multiple correspondence analysis"
+    ],
+    "references": [
+        "13354875",
+        "1967121925",
+        "2133671888"
+    ]
+}

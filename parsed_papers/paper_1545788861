@@ -1,0 +1,45 @@
+{
+    "id": "1545788861",
+    "title": "Geo-located image grouping using latent descriptions",
+    "venue": "international conference on computer vision systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Marco Cristani",
+            "id": "1991389521",
+            "org": "Computer Science Department, Universita degli studi di Verona, Verona, Italy#TAB#"
+        },
+        {
+            "name": "Alessandro Perina",
+            "id": "1972696923",
+            "org": "Computer Science Department, Universita degli studi di Verona, Verona, Italy#TAB#"
+        },
+        {
+            "name": "Vittorio Murino",
+            "id": "5273470",
+            "org": "Computer Science Department, Universita degli studi di Verona, Verona, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Visualization",
+        "Latent variable",
+        "Information retrieval",
+        "Automatic image annotation",
+        "Computer vision",
+        "Machine learning",
+        "Artificial intelligence",
+        "Image retrieval",
+        "Categorization",
+        "Probabilistic latent semantic analysis",
+        "Computer science",
+        "Semantic interpretation"
+    ],
+    "references": [
+        "1546715894",
+        "1589362500",
+        "1676552347",
+        "2124386111",
+        "2130660124",
+        "2134731454"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1489237398",
+    "title": "Using Mediated Identity-Based Cryptography to Support Role-Based Access Control",
+    "venue": "international conference on information security",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Deholo Nali",
+            "id": "2093810931",
+            "org": "University of Ottawa"
+        },
+        {
+            "name": "Carlisle Adams",
+            "id": "2122389175",
+            "org": "University of Ottawa"
+        },
+        {
+            "name": "Ali Miri",
+            "id": "2132197357",
+            "org": "University of Ottawa"
+        }
+    ],
+    "fields_of_study": [
+        "Possession (law)",
+        "Architecture",
+        "Enforcement",
+        "Computer security",
+        "Distributed computing",
+        "Access control",
+        "Cryptography",
+        "Pairing",
+        "Delegation",
+        "Role-based access control",
+        "Computer science"
+    ],
+    "references": [
+        "1540267373",
+        "1585096027",
+        "2146149890",
+        "2154765153"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1490804352",
+    "title": "Engineering self-protection for autonomous systems",
+    "venue": "fundamental approaches to software engineering",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Manuel Koch",
+            "id": "2107774731",
+            "org": "Institut fur Informatik, Freie Universitat Berlin, Berlin, Germany#TAB#"
+        },
+        {
+            "name": "Karl Pauls",
+            "id": "2142787462",
+            "org": "Institut fur Informatik, Freie Universitat Berlin, Berlin, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Security testing",
+        "Theoretical computer science",
+        "Unexpected events",
+        "Security through obscurity",
+        "Systems engineering",
+        "Security engineering",
+        "Computer science",
+        "Secure coding",
+        "Computer security",
+        "Software development",
+        "Software security assurance",
+        "Computer security model"
+    ],
+    "references": [
+        "154427171",
+        "1561057365",
+        "2011604665",
+        "2012403472",
+        "2021079739",
+        "2122325692",
+        "2146863076"
+    ]
+}

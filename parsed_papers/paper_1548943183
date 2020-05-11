@@ -1,0 +1,32 @@
+{
+    "id": "1548943183",
+    "title": "Agents, Distributed Algorithms, and Stabilization",
+    "venue": "computing and combinatorics conference",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Sukumar Ghosh",
+            "id": "2151982869",
+            "org": "The University of Iowa"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed algorithm",
+        "Parallel algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Distributed File System",
+        "Mutual exclusion",
+        "The Internet",
+        "Spanning tree"
+    ],
+    "references": [
+        "1990757766",
+        "2005130403",
+        "2063615214",
+        "2075357683",
+        "2095425626",
+        "2111132249",
+        "2131053137"
+    ]
+}

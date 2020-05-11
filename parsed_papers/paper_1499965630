@@ -1,0 +1,31 @@
+{
+    "id": "1499965630",
+    "title": "A Formal Theory of Undirected Graphs in Higher-Order Logic",
+    "venue": "theorem proving in higher order logics",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Ching-Tsun Chou",
+            "id": "2685603980",
+            "org": "University of California at Los Angeles"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Discrete mathematics",
+        "Signature (logic)",
+        "Zeroth-order logic",
+        "Adjacency list",
+        "Dynamic logic (modal logic)",
+        "First-order logic",
+        "Graph theory",
+        "Computer science",
+        "Null graph",
+        "Computability logic"
+    ],
+    "references": [
+        "2052504823",
+        "2077371116",
+        "2542095453"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1582028890",
+    "title": "Using KCPM for Defining and Integrating Domain Ontologies",
+    "venue": "web information systems engineering",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Christian Kop",
+            "id": "2077646361",
+            "org": "IWAS University of Klagenfurt"
+        },
+        {
+            "name": "Heinrich C. Mayr",
+            "id": "692207516",
+            "org": "IWAS University of Klagenfurt"
+        },
+        {
+            "name": "Tatjana Zavinska",
+            "id": "2481874636",
+            "org": "IWAS University of Klagenfurt"
+        }
+    ],
+    "fields_of_study": [
+        "Application domain",
+        "Domain model",
+        "Natural language processing",
+        "Conceptual model",
+        "Conceptual model (computer science)",
+        "Computer science",
+        "Object-relational impedance mismatch",
+        "Software development",
+        "Specification language",
+        "Ontology (information science)",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "185511748",
+        "1505294616",
+        "1569077191",
+        "1588547455",
+        "1593902710",
+        "1807537763",
+        "2018113587",
+        "2140037779"
+    ]
+}

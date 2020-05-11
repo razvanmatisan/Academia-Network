@@ -1,0 +1,30 @@
+{
+    "id": "1515455346",
+    "title": "MEDIEVAL: A Navigation Tool Through Medieval Documents",
+    "venue": "applications of natural language to data bases",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Afzal Ballim",
+            "id": "160179272",
+            "org": "Swiss Federal Institute of Technology, Lausanne, Switzerland"
+        },
+        {
+            "name": "Hatem Ghorbel",
+            "id": "2284406536",
+            "org": "Swiss Federal Institute of Technology, Lausanne, Switzerland"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language",
+        "Computer science",
+        "Information retrieval",
+        "Natural language processing",
+        "Artificial intelligence",
+        "Information extraction",
+        "restrict"
+    ],
+    "references": [
+        "1754613984"
+    ]
+}

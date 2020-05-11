@@ -1,0 +1,46 @@
+{
+    "id": "1498306861",
+    "title": "ICMP Traceback with Cumulative Path, an Efficient Solution for IP Traceback",
+    "venue": "international conference on information and communication security",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Henry C. J. Lee",
+            "id": "2494594970",
+            "org": "Institute for Infocomm Research"
+        },
+        {
+            "name": "Vrizlynn L. L. Thing",
+            "id": "2893459838",
+            "org": "Institute for Infocomm Research"
+        },
+        {
+            "name": "Yi Xu",
+            "id": "2306542250",
+            "org": "Institute for Infocomm Research"
+        },
+        {
+            "name": "Miao Ma",
+            "id": "2658554277",
+            "org": "Institute for Infocomm Research"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Computer network",
+        "IP traceback",
+        "Internet Control Message Protocol",
+        "Internet Protocol",
+        "Network packet",
+        "Graph",
+        "IP address spoofing",
+        "Denial-of-service attack",
+        "Computer science",
+        "The Internet"
+    ],
+    "references": [
+        "1867219652",
+        "1967949770",
+        "2119030343"
+    ]
+}

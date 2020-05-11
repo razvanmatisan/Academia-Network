@@ -1,0 +1,42 @@
+{
+    "id": "1511429225",
+    "title": "Generating Concept Hierarchies/Networks: Mining Additional Semantics in Relational Data",
+    "venue": "pacific-asia conference on knowledge discovery and data mining",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Tsau Young Lin",
+            "id": "2145162833",
+            "org": "San Jose State University"
+        },
+        {
+            "name": "Tsau Young Lin",
+            "id": "2145162833",
+            "org": "San Jose State University"
+        }
+    ],
+    "fields_of_study": [
+        "Hierarchy",
+        "Data mining",
+        "Relational database",
+        "Relational calculus",
+        "Artificial intelligence",
+        "Relational Model/Tasmania",
+        "Machine learning",
+        "Relational theory",
+        "Data model",
+        "First-order logic",
+        "Relational model",
+        "Mathematics"
+    ],
+    "references": [
+        "1484833499",
+        "1505152370",
+        "1527854642",
+        "1601529450",
+        "1997362234",
+        "2115822498",
+        "2138709157",
+        "2157429819"
+    ]
+}

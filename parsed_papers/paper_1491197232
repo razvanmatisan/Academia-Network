@@ -1,0 +1,38 @@
+{
+    "id": "1491197232",
+    "title": "Integration of Metric Place Relations in a Landmark Graph",
+    "venue": "international conference on artificial neural networks",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Wolfgang Hubner",
+            "id": "2896728070",
+            "org": "Eberhard-Karls University"
+        },
+        {
+            "name": "Hanspeter A. Mallot",
+            "id": "2050105349",
+            "org": "Eberhard-Karls University"
+        }
+    ],
+    "fields_of_study": [
+        "Graph property",
+        "Directed graph",
+        "Lattice graph",
+        "Theoretical computer science",
+        "Pattern recognition",
+        "Graph (abstract data type)",
+        "Graph embedding",
+        "Computer vision",
+        "Strength of a graph",
+        "Voltage graph",
+        "Null graph",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1489258026",
+        "2077321821",
+        "2161808137"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1518655948",
+    "title": "Generic Model Management: A Database Infrastructure for Schema Manipulation",
+    "venue": "cooperative information systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Philip A. Bernstein",
+            "id": "2304774990",
+            "org": "Microsoft Corporation, One Microsoft Way"
+        }
+    ],
+    "fields_of_study": [
+        "Metadata management",
+        "Data mining",
+        "Information system",
+        "Systems engineering",
+        "Data manipulation language",
+        "Schema (psychology)",
+        "Natural language processing",
+        "Database schema",
+        "Data integrity",
+        "Design tool",
+        "Computer science",
+        "Conceptual schema",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "256551661",
+        "1563798137",
+        "2036469985",
+        "2092833514",
+        "2139135093",
+        "2585116078"
+    ]
+}

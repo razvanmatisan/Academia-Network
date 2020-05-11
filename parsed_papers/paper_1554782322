@@ -1,0 +1,41 @@
+{
+    "id": "1554782322",
+    "title": "A novel secure routing system in overlay environment",
+    "venue": "grid and cooperative computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Han Su",
+            "id": "2642443836",
+            "org": "Department of Computer Science & Engineering, Southeast University, Lab of Computer Network and Information Integration, MOE, Nanjing, P.R. China#TAB#"
+        },
+        {
+            "name": "Yun Wang",
+            "id": "2649804206",
+            "org": "Department of Computer Science & Engineering, Southeast University, Lab of Computer Network and Information Integration, MOE, Nanjing, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Enhanced Interior Gateway Routing Protocol",
+        "Computer network",
+        "Routing protocol",
+        "Static routing",
+        "Policy-based routing",
+        "Equal-cost multi-path routing",
+        "Routing domain",
+        "Wireless Routing Protocol",
+        "Distributed computing",
+        "Dynamic Source Routing",
+        "Computer science"
+    ],
+    "references": [
+        "1480484566",
+        "1973190970",
+        "2069387689",
+        "2115947911",
+        "2138640602",
+        "2144553078",
+        "2145721479",
+        "2887596176"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1568512526",
+    "title": "Integrating Retrieval Functionality in Web Sites Based on Storyboard Design and Word Fields",
+    "venue": "applications of natural language to data bases",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Antje Dusterhoft",
+            "id": "2200168372",
+            "org": "University of Applied ScienceWismar"
+        },
+        {
+            "name": "Bernhard Thalheim",
+            "id": "347927369",
+            "org": "Computer Science Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Data mining",
+        "Human-computer information retrieval",
+        "Semantics",
+        "Computer science",
+        "Artificial intelligence",
+        "Engineering design process",
+        "Site map",
+        "Storyboard",
+        "Search engine",
+        "Content analysis",
+        "Design process"
+    ],
+    "references": [
+        "147997453",
+        "169758276",
+        "1499512708",
+        "1518806988",
+        "2083583325",
+        "2143469843",
+        "2166408162"
+    ]
+}

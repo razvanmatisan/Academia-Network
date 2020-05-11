@@ -1,0 +1,46 @@
+{
+    "id": "1498668372",
+    "title": "Efficient mapping through exploitation of spatial dependencies",
+    "venue": "intelligent robots and systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Yaron Rachlin",
+            "id": "313087990",
+            "org": "Dept. of Electr. & Comput. Eng., Carnegie Mellon Univ., Pittsburgh, PA, USA"
+        },
+        {
+            "name": "John M. Dolan",
+            "id": "2073870999",
+            "org": "Department of Electrical and Computer Engineering|Robotics Institute|Carnegie Mellon University"
+        },
+        {
+            "name": "Pradeep K. Khosla",
+            "id": "2082373558",
+            "org": "Department of Electrical and Computer Engineering|Robotics Institute|Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Spatial dependence",
+        "Markov random field",
+        "Computer vision",
+        "Grid",
+        "Occupancy grid mapping",
+        "Artificial intelligence",
+        "Common spatial pattern",
+        "Belief propagation",
+        "Markov process",
+        "Machine learning",
+        "Spatial ecology",
+        "Computer science"
+    ],
+    "references": [
+        "1507028917",
+        "1991752086",
+        "2066713014",
+        "2134822252",
+        "2151886472",
+        "2159080219",
+        "2165363188"
+    ]
+}

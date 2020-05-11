@@ -1,0 +1,41 @@
+{
+    "id": "1526303693",
+    "title": "Incremental and semi-incremental construction of pseudo-minimal automata",
+    "venue": "international conference on implementation and application of automata",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jan Daciuk",
+            "id": "2570107797",
+            "org": "Gdansk University of Technology, Poland#TAB#"
+        },
+        {
+            "name": "Denis Maurel",
+            "id": "2045247288",
+            "org": "Universite Francois Rabelais, Tours, France#TAB#"
+        },
+        {
+            "name": "Agata Savary",
+            "id": "2039672116",
+            "org": "Universite Francois Rabelais, Tours, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nested stack automaton",
+        "Two-way deterministic finite automaton",
+        "Nested word",
+        "o-automaton",
+        "Mobile automaton",
+        "Discrete mathematics",
+        "Timed automaton",
+        "Continuous spatial automaton",
+        "Continuous automaton",
+        "Mathematics"
+    ],
+    "references": [
+        "1494055011",
+        "1603015470",
+        "1975406218",
+        "2154478838"
+    ]
+}

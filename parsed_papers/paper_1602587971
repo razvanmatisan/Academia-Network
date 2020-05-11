@@ -1,0 +1,41 @@
+{
+    "id": "1602587971",
+    "title": "An improved primal-dual genetic algorithm for optimization in dynamic environments",
+    "venue": "international conference on neural information processing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Hongfeng Wang",
+            "id": "2660225191",
+            "org": "Institute of Systems Engineering, Northeastern University, P.R. China#TAB#"
+        },
+        {
+            "name": "Dingwei Wang",
+            "id": "2667200639",
+            "org": "Institute of Systems Engineering, Northeastern University, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic algorithm",
+        "Fitness landscape",
+        "Robustness (computer science)",
+        "Machine learning",
+        "Mathematical optimization",
+        "Artificial intelligence",
+        "Artificial neural network",
+        "Adaptability",
+        "Operator (computer programming)",
+        "Dynamic programming",
+        "Computer science",
+        "Optimization problem"
+    ],
+    "references": [
+        "1555154718",
+        "1564289389",
+        "1570270745",
+        "1598065796",
+        "1766318984",
+        "1971772700",
+        "2726121458"
+    ]
+}

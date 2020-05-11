@@ -1,0 +1,35 @@
+{
+    "id": "167495145",
+    "title": "IMAGE PREPROCESSING FOR CBIR SYSTEM",
+    "venue": "international conference on informatics in control, automation and robotics",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Tatiana Jaworska",
+            "id": "2070832539",
+            "org": "Systems Research Institute|Polish Academy of Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Automatic image annotation",
+        "Image segmentation",
+        "Content-based image retrieval",
+        "Engineering",
+        "Image texture",
+        "Curvelet",
+        "Top-hat transform",
+        "Segmentation-based object categorization",
+        "Computer vision",
+        "Image retrieval",
+        "Pattern recognition",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1553695983",
+        "1567873089",
+        "1980578353",
+        "2012515212",
+        "2102475035",
+        "2144679084"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1764674968",
+    "title": "Towards XML oriented internet management",
+    "venue": "integrated network management",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "F. Strauss",
+            "id": "2779593538",
+            "org": "Technische Univ. Braunschweig, Germany"
+        },
+        {
+            "name": "Torsten Klie",
+            "id": "2035255724",
+            "org": "Technical University Braunschweig"
+        }
+    ],
+    "fields_of_study": [
+        "Streaming XML",
+        "Computer network",
+        "XML Encryption",
+        "XML Protocol",
+        "Database",
+        "World Wide Web",
+        "XML validation",
+        "Document Structure Description",
+        "XML framework",
+        "Computer science",
+        "XML Schema Editor",
+        "Efficient XML Interchange"
+    ],
+    "references": [
+        "1106904",
+        "1619814362",
+        "1749636751",
+        "1771315362",
+        "1775663022",
+        "1821407727",
+        "2046166587",
+        "2117820211",
+        "2239387119",
+        "2269060408"
+    ]
+}

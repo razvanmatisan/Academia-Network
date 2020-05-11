@@ -1,0 +1,33 @@
+{
+    "id": "1606594487",
+    "title": "Fast and Robust Smallest Enclosing Balls",
+    "venue": "european symposium on algorithms",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Bernd Gartner",
+            "id": "2132002753",
+            "org": "ETH Zurich, ETH-Zentrum"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Ball (bearing)",
+        "Discrete mathematics",
+        "Documentation",
+        "Computational geometry",
+        "Programming paradigm",
+        "Singular value decomposition",
+        "Mathematical optimization",
+        "Linear programming",
+        "Source lines of code",
+        "Mathematics",
+        "Simplex algorithm"
+    ],
+    "references": [
+        "2107423006",
+        "2139594840",
+        "2261561465",
+        "2293846827"
+    ]
+}

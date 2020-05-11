@@ -1,0 +1,40 @@
+{
+    "id": "1549505562",
+    "title": "LeCS: A Collaborative Case Study System",
+    "venue": "intelligent tutoring systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Marta Costa Rosatelli",
+            "id": "1989978864",
+            "org": "Federal University of Santa Catarina"
+        },
+        {
+            "name": "John A. Self",
+            "id": "2004344529",
+            "org": "University of Leeds"
+        },
+        {
+            "name": "Marcello Thiry",
+            "id": "2694250551",
+            "org": "University of Vale do Itajai"
+        }
+    ],
+    "fields_of_study": [
+        "Distance education",
+        "Collaborative learning",
+        "Synchronous learning",
+        "Multimedia",
+        "Information technology",
+        "Intelligent tutoring system",
+        "Case-based reasoning",
+        "Computer science",
+        "Systems architecture",
+        "The Internet"
+    ],
+    "references": [
+        "1564939167",
+        "2147357134",
+        "2336741951"
+    ]
+}

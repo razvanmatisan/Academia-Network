@@ -1,0 +1,42 @@
+{
+    "id": "1499266120",
+    "title": "A study of an iterated local search on the reliable communication networks design problem",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Dirk Reichelt",
+            "id": "2164637385",
+            "org": "Institute of Information Systems, Ilmenau Technical University, Ilmenau, Germany#TAB#"
+        },
+        {
+            "name": "Peter Gmilkowsky",
+            "id": "2649873215",
+            "org": "Institute of Information Systems, Ilmenau Technical University, Ilmenau, Germany#TAB#"
+        },
+        {
+            "name": "Sebastian Linser",
+            "id": "2642064099",
+            "org": "Institute of Information Systems, Ilmenau Technical University, Ilmenau, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic algorithm",
+        "Mathematical optimization",
+        "Evolutionary algorithm",
+        "Iterated local search",
+        "Distributed computing",
+        "Guided Local Search",
+        "Network planning and design",
+        "Local search (optimization)",
+        "Network topology",
+        "Search algorithm",
+        "Simulation",
+        "Computer science"
+    ],
+    "references": [
+        "1600239742",
+        "2119750490",
+        "2158116897"
+    ]
+}

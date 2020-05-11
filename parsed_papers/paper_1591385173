@@ -1,0 +1,36 @@
+{
+    "id": "1591385173",
+    "title": "Evolving non-Trivial Behaviors on Real Robots: an Autonomous Robot that Picks up Objects",
+    "venue": "congress of the italian association for artificial intelligence",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Stefano Nolfi",
+            "id": "1966888570",
+            "org": "National Research Council"
+        },
+        {
+            "name": "Domenico Parisi",
+            "id": "2107865364",
+            "org": "National Research Council"
+        }
+    ],
+    "fields_of_study": [
+        "Personal robot",
+        "Mobile robot",
+        "Autonomous robot",
+        "Mobile robot navigation",
+        "Social robot",
+        "Articulated robot",
+        "Ubiquitous robot",
+        "Robot control",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1592228927",
+        "1979356863",
+        "2049953310",
+        "2142040995"
+    ]
+}

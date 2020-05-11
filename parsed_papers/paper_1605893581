@@ -1,0 +1,31 @@
+{
+    "id": "1605893581",
+    "title": "Effects of different types of new attribute on constructive induction",
+    "venue": "international conference on tools with artificial intelligence",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Zijian Zheng",
+            "id": "2692504457",
+            "org": "Sch. of Comput. & Math., Deakin Univ., Geelong, Vic., Australia"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Supervised learning",
+        "Decision list",
+        "Alternating decision tree",
+        "Decision tree",
+        "Decision stump",
+        "Decision tree learning",
+        "Incremental decision tree",
+        "Pattern recognition",
+        "ID3 algorithm",
+        "Computer science"
+    ],
+    "references": [
+        "89419892",
+        "1597462085"
+    ]
+}

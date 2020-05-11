@@ -1,0 +1,41 @@
+{
+    "id": "1667526060",
+    "title": "Evidential reasoning in a categorical perspective: conjunction and disjunction of belief functions",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Robert Kennes",
+            "id": "2662639675",
+            "org": "IRIDIA, Universite Libre de Bruxelles, Brussels, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Inference",
+        "Categorical variable",
+        "Logical connective",
+        "Coproduct",
+        "Category theory",
+        "Machine learning",
+        "Discrete mathematics",
+        "Subcategory",
+        "Evidential reasoning approach",
+        "Artificial intelligence",
+        "Mathematics"
+    ],
+    "references": [
+        "45665799",
+        "60414347",
+        "1508433384",
+        "1975111148",
+        "1975522125",
+        "2085136410",
+        "2088653591",
+        "2112262428",
+        "2133711301",
+        "2151402914",
+        "2159080219",
+        "2164296059",
+        "2179781957"
+    ]
+}

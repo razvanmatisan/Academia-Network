@@ -1,0 +1,30 @@
+{
+    "id": "1555748873",
+    "title": "Fast Identification of Approximately Matching Substrings",
+    "venue": "combinatorial pattern matching",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Archie L. Cobbs",
+            "id": "2019911820",
+            "org": "University of California Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Time complexity",
+        "Combinatorics",
+        "Alphabet",
+        "Suffix tree",
+        "Substring",
+        "Smith-Waterman algorithm",
+        "Existential quantification",
+        "Bounded function",
+        "Computer science"
+    ],
+    "references": [
+        "2045713755",
+        "2121252285",
+        "2533248932"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1529346362",
+    "title": "TermExtractor: a Web Application to Learn the Shared Terminology of Emergent Web Communities",
+    "venue": "IESA",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "F. Sclano",
+            "id": "1252940000",
+            "org": "Dipartimento di Informatica, Universita di Roma \"La Sapienza\", Italy,"
+        },
+        {
+            "name": "P. Velardi",
+            "id": "2642860815",
+            "org": "Dipartimento di Informatica, Universita di Roma \"La Sapienza\", Italy,"
+        }
+    ],
+    "fields_of_study": [
+        "Web standards",
+        "Web application security",
+        "Data Web",
+        "Web modeling",
+        "Web navigation",
+        "Web development",
+        "Social Semantic Web",
+        "World Wide Web",
+        "Semantic Web Stack",
+        "Knowledge management",
+        "Computer science"
+    ],
+    "references": [
+        "1966512814",
+        "2029153635",
+        "2038466467",
+        "2066066594",
+        "2102143885",
+        "2112652344",
+        "2126336716",
+        "2160326364",
+        "2171681728"
+    ]
+}

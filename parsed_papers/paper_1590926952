@@ -1,0 +1,35 @@
+{
+    "id": "1590926952",
+    "title": "A Proposal for Dealing with Deontic Dilemmas",
+    "venue": "deontic logic in computer science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Lou Goble",
+            "id": "2074726400",
+            "org": "Willamette University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Decidability",
+        "Artificial intelligence",
+        "Inference",
+        "Algorithm",
+        "Monadic predicate calculus",
+        "Modal logic",
+        "Non-monotonic logic",
+        "Deontic logic",
+        "Atomic formula",
+        "Philosophical logic",
+        "Mathematics"
+    ],
+    "references": [
+        "151038448",
+        "1531862228",
+        "2001140847",
+        "2046753842",
+        "2060183682",
+        "2107111956"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": "1668984933",
+    "title": "Environment for I/O performance measurement of distributed and local secondary storage",
+    "venue": "international conference on parallel processing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Michael Krietemeyer",
+            "id": "2462900856",
+            "org": "Dept. of Comput. Sci., Rostock Univ., Germany"
+        },
+        {
+            "name": "Heiko Kopp",
+            "id": "2015334926",
+            "org": "Dept. of Comput. Sci., Rostock Univ., Germany"
+        },
+        {
+            "name": "Daniel Versick",
+            "id": "107901419",
+            "org": "Dept. of Comput. Sci., Rostock Univ., Germany"
+        },
+        {
+            "name": "Djamshid Tavangarian",
+            "id": "278127910",
+            "org": "Dept. of Comput. Sci., Rostock Univ., Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Plug-in",
+        "Computer science",
+        "Auxiliary memory",
+        "Parallel computing",
+        "Distributed computing",
+        "Device file",
+        "Input/output",
+        "Self-certifying File System",
+        "Performance measurement",
+        "File system",
+        "Real-time computing",
+        "Benchmark (computing)"
+    ],
+    "references": [
+        "150529979",
+        "1490611544",
+        "1581762248",
+        "2081612620",
+        "2110298485",
+        "2117339850",
+        "2131610641",
+        "2155463028"
+    ]
+}

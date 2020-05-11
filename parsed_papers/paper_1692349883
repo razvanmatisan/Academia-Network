@@ -1,0 +1,40 @@
+{
+    "id": "1692349883",
+    "title": "Verified Bytecode Verifiers",
+    "venue": "foundations of software science and computation structure",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Tobias Nipkow",
+            "id": "42605653",
+            "org": "Technische Universitot Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Inference",
+        "Correctness",
+        "Computer science",
+        "Bytecode",
+        "Java",
+        "Programming language",
+        "Virtual machine",
+        "Algorithm",
+        "Type inference",
+        "HOL",
+        "Distributed computing",
+        "Executable"
+    ],
+    "references": [
+        "1546449686",
+        "1560655349",
+        "1592189276",
+        "1820096046",
+        "1996469056",
+        "2005119878",
+        "2025672027",
+        "2035069210",
+        "2105360973",
+        "2114067856",
+        "2124153277"
+    ]
+}

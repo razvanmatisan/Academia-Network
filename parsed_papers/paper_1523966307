@@ -1,0 +1,42 @@
+{
+    "id": "1523966307",
+    "title": "An Efficient Cluster-Based Hierarchical Progressive Radiosity Algorithm",
+    "venue": "international conference on semantic computing",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Karol Myszkowski",
+            "id": "291151342",
+            "org": "The University of Aizu"
+        },
+        {
+            "name": "Tosiyasu L. Kunii",
+            "id": "2178444706",
+            "org": "The University of Aizu"
+        }
+    ],
+    "fields_of_study": [
+        "Locality",
+        "Cluster analysis",
+        "Shading",
+        "Data structure",
+        "Computer science",
+        "Form factor (quantum field theory)",
+        "Algorithm",
+        "Cluster (physics)",
+        "Global illumination",
+        "Radiosity (computer graphics)"
+    ],
+    "references": [
+        "2023237845",
+        "2040053317",
+        "2076775185",
+        "2090663078",
+        "2107729237",
+        "2127674791",
+        "2130882821",
+        "2145142534",
+        "2154609172",
+        "2165608046"
+    ]
+}

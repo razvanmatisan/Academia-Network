@@ -1,0 +1,31 @@
+{
+    "id": "1536493828",
+    "title": "A method for finding codewords of small weight",
+    "venue": "Proceedings of the third international colloquium on Coding theory and applications",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Jacques Stern",
+            "id": "2097349350",
+            "org": "Universite Paris 7"
+        },
+        {
+            "name": "Jacques Stern",
+            "id": "2097349350",
+            "org": "Universite Paris 7"
+        }
+    ],
+    "fields_of_study": [
+        "Binary code",
+        "Niederreiter cryptosystem",
+        "Discrete mathematics",
+        "McEliece cryptosystem",
+        "Randomized algorithm",
+        "Code (cryptography)",
+        "Computer science"
+    ],
+    "references": [
+        "1589034595",
+        "2035929826"
+    ]
+}

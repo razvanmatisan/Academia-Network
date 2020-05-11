@@ -1,0 +1,51 @@
+{
+    "id": "1571783718",
+    "title": "A Formalization of Anonymity and Onion Routing",
+    "venue": "european symposium on research in computer security",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Sjouke Mauw",
+            "id": "2178563479",
+            "org": "Technische Universiteit Eindhoven"
+        },
+        {
+            "name": "Jhs Jan Verschuren",
+            "id": "2573791497",
+            "org": "Technische Universiteit Eindhoven"
+        },
+        {
+            "name": "de Ep Erik Vink",
+            "id": "2106331741",
+            "org": "Technische Universiteit Eindhoven"
+        },
+        {
+            "name": "de Ep Erik Vink",
+            "id": "2106331741",
+            "org": "Technische Universiteit Eindhoven"
+        }
+    ],
+    "fields_of_study": [
+        "Onion routing",
+        "Computer security",
+        "Distributed computing",
+        "Secrecy",
+        "Formal methods",
+        "Anonymity",
+        "Computer science",
+        "Formal specification",
+        "Cryptographic protocol",
+        "Authentication",
+        "Message sequence chart"
+    ],
+    "references": [
+        "1484798037",
+        "1606058619",
+        "1812425403",
+        "1978884755",
+        "2005708967",
+        "2123735079",
+        "2171294352",
+        "2482903976"
+    ]
+}

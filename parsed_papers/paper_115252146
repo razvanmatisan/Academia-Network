@@ -1,0 +1,43 @@
+{
+    "id": "115252146",
+    "title": "An adaptive FPGA and its distributed routing.",
+    "venue": "reconfigurable communication-centric systems-on-chip",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Yann Thoma",
+            "id": "1824057035",
+            "org": "Ecole Polytechnique Federale de Lausanne"
+        },
+        {
+            "name": "Eduardo Sanchez",
+            "id": "2105817459",
+            "org": "Ecole Polytechnique Federale de Lausanne|Logic Systems Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Dijkstra's algorithm",
+        "Real-time computing",
+        "Link-state routing protocol",
+        "Parallel computing",
+        "K shortest path routing",
+        "Architecture",
+        "Private Network-to-Network Interface",
+        "Artificial neural network",
+        "Equal-cost multi-path routing",
+        "Computer science",
+        "Distributed computing",
+        "Constrained Shortest Path First"
+    ],
+    "references": [
+        "1495718607",
+        "1530352580",
+        "1554352571",
+        "1904294891",
+        "2132121437",
+        "2144127210",
+        "2153580689",
+        "2154665020",
+        "2159548253"
+    ]
+}

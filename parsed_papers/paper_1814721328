@@ -1,0 +1,50 @@
+{
+    "id": "1814721328",
+    "title": "A Graphical Model Formulation of Collaborative Filtering Neighbourhood Methods with Fast Maximum Entropy Training",
+    "venue": "international conference on machine learning",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Aaron Defazio",
+            "id": "2124552541",
+            "org": "NICTA and Australian National University"
+        },
+        {
+            "name": "Tiberio S. Caetano",
+            "id": "1982686475",
+            "org": "NICTA and Australian National University"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Machine learning",
+        "Gradient descent",
+        "Mathematical optimization",
+        "Artificial intelligence",
+        "Collaborative filtering",
+        "MovieLens",
+        "Data set",
+        "Neighbourhood (mathematics)",
+        "Sufficient statistic",
+        "Pattern recognition",
+        "Principle of maximum entropy",
+        "Graphical model"
+    ],
+    "references": [
+        "1511986666",
+        "1527195815",
+        "1604845941",
+        "1706044825",
+        "2005126631",
+        "2042281163",
+        "2047109571",
+        "2084530774",
+        "2099866409",
+        "2104838326",
+        "2132708887",
+        "2158122241",
+        "2161395960",
+        "2169757306",
+        "2172249709"
+    ]
+}

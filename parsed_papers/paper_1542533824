@@ -1,0 +1,42 @@
+{
+    "id": "1542533824",
+    "title": "Some operations and transductions that preserve rationality",
+    "venue": "Theoretical Computer Science",
+    "year": 1983,
+    "authors": [
+        {
+            "name": "Jean-Eric Pin",
+            "id": "2375531652",
+            "org": "Universite Paris VI et CNRS"
+        },
+        {
+            "name": "Jacques Sakarovitch",
+            "id": "671245860",
+            "org": "Universite Paris VI et CNRS"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Regular language",
+        "Discrete mathematics",
+        "Matrix representation",
+        "Concatenation",
+        "Inverse",
+        "Morphism",
+        "Monoid",
+        "Mathematics",
+        "Quotient",
+        "Wreath product"
+    ],
+    "references": [
+        "1505482284",
+        "1988292889",
+        "2004367544",
+        "2028632802",
+        "2044044594",
+        "2076872551",
+        "2078832663",
+        "2167954650",
+        "2404848023"
+    ]
+}

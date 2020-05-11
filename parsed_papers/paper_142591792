@@ -1,0 +1,43 @@
+{
+    "id": "142591792",
+    "title": "Pumping Lemma and Ogden Lemma for Displacement Context-Free Grammars",
+    "venue": "developments in language theory",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Alexey Sorokin",
+            "id": "2803398051",
+            "org": "Moscow State University"
+        },
+        {
+            "name": "Alexey Sorokin",
+            "id": "2803398051",
+            "org": "Moscow State University"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Pumping lemma for context-free languages",
+        "Discrete mathematics",
+        "Pumping lemma for regular languages",
+        "Mathematics",
+        "Lemma (mathematics)",
+        "Aubin-Lions lemma",
+        "Zorn's lemma",
+        "Language family",
+        "Context-free grammar",
+        "Rule-based machine translation"
+    ],
+    "references": [
+        "3564880",
+        "1479758177",
+        "1499005716",
+        "1633380989",
+        "1964431911",
+        "1997685510",
+        "2026015239",
+        "2043196097",
+        "2089385274",
+        "2143177042"
+    ]
+}

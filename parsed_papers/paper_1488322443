@@ -1,0 +1,42 @@
+{
+    "id": "1488322443",
+    "title": "On the Notion of Components for Intelligent Tutoring Systems",
+    "venue": "intelligent tutoring systems",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Vladan Devedzic",
+            "id": "1998324464",
+            "org": "University of Belgrade"
+        },
+        {
+            "name": "Danijela Radovic",
+            "id": "2020557559",
+            "org": "Technical Faculty Cacak"
+        },
+        {
+            "name": "Ljubomir Jerinic",
+            "id": "189783214",
+            "org": "University of Novi Sad"
+        }
+    ],
+    "fields_of_study": [
+        "Interoperability",
+        "Knowledge management",
+        "Systems engineering",
+        "Knowledge representation and reasoning",
+        "Component-based software engineering",
+        "Reusability",
+        "Knowledge acquisition",
+        "Knowledge-based systems",
+        "Intelligent tutoring system",
+        "Computer science",
+        "Ontology (information science)",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1608686106",
+        "2106632203",
+        "2148868862"
+    ]
+}

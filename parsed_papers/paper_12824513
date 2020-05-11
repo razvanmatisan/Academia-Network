@@ -1,0 +1,32 @@
+{
+    "id": "12824513",
+    "title": "Dynamic pattern selection for faster learning and controlled generalization of neural networks.",
+    "venue": "the european symposium on artificial neural networks",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Axel Robel",
+            "id": "2811125946",
+            "org": "Technical University of Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern recognition",
+        "Machine learning",
+        "Artificial intelligence",
+        "Types of artificial neural networks",
+        "Cross-validation",
+        "Function approximation",
+        "Stochastic neural network",
+        "Computer science",
+        "Deep learning",
+        "Time delay neural network",
+        "Artificial neural network",
+        "Recurrent neural network"
+    ],
+    "references": [
+        "2107725879",
+        "2155677642",
+        "2166856932"
+    ]
+}

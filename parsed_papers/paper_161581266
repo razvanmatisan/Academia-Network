@@ -1,0 +1,41 @@
+{
+    "id": "161581266",
+    "title": "A Modified K-Modes Clustering Algorithm",
+    "venue": "pattern recognition and machine intelligence",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Partha Sarathi Bishnu",
+            "id": "2038539408",
+            "org": "Birla Institute of Technology"
+        },
+        {
+            "name": "Vandana Bhattacherjee",
+            "id": "2055455729",
+            "org": "Birla Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "SUBCLU",
+        "Pattern recognition",
+        "DBSCAN",
+        "Determining the number of clusters in a data set",
+        "Cluster analysis",
+        "Artificial intelligence",
+        "Correlation clustering",
+        "CURE data clustering algorithm",
+        "Computer science",
+        "Canopy clustering algorithm",
+        "Linde-Buzo-Gray algorithm"
+    ],
+    "references": [
+        "1535281683",
+        "2109592225",
+        "2120435692",
+        "2127971792",
+        "2130880600",
+        "2149230623",
+        "2171832470"
+    ]
+}

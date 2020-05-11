@@ -1,0 +1,49 @@
+{
+    "id": "169862422",
+    "title": "Timely and Non-Intrusive Active Document Annotation via Adaptive Information Extraction.",
+    "venue": "SAAKM@ECAI",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Fabio Ciravegna",
+            "id": "165615417",
+            "org": "University of Sheffield"
+        },
+        {
+            "name": "Alexiei Dingli",
+            "id": "3481708",
+            "org": "University of Sheffield"
+        },
+        {
+            "name": "Daniela Petrelli",
+            "id": "2118067019",
+            "org": "University of Sheffield"
+        },
+        {
+            "name": "Yorick Wilks",
+            "id": "2073488377",
+            "org": "University of Sheffield"
+        }
+    ],
+    "fields_of_study": [
+        "Information extraction",
+        "Annotation",
+        "World Wide Web",
+        "Pound (mass)",
+        "Semantic Web",
+        "Engineering and Physical Sciences",
+        "Data science",
+        "Open university",
+        "Computer science"
+    ],
+    "references": [
+        "1499578805",
+        "1522202524",
+        "1553019137",
+        "1570286060",
+        "2100703899",
+        "2114663556",
+        "2162340487",
+        "2758614577"
+    ]
+}

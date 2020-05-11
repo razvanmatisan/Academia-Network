@@ -1,0 +1,39 @@
+{
+    "id": "1578239427",
+    "title": "Structures of the Covariance Matrices in the Classifier Design",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Sarunas Raudys",
+            "id": "1983073900",
+            "org": "Institute of Mathematics and Informatics"
+        },
+        {
+            "name": "Ausra Saudargiene",
+            "id": "2280356958",
+            "org": "Institute of Mathematics and Informatics"
+        }
+    ],
+    "fields_of_study": [
+        "Statistics",
+        "Covariance matrix",
+        "Discrete mathematics",
+        "Estimation of covariance matrices",
+        "Optimal stopping",
+        "Linear discriminant analysis",
+        "Matrix (mathematics)",
+        "Generalization error",
+        "Curse of dimensionality",
+        "Covariance",
+        "Artificial intelligence",
+        "Mathematics",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1551367334",
+        "2002645541",
+        "2051885135",
+        "2149532650"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1096246811",
+    "title": "Bicluster-Network Method and Its Application to Movie Recommendation",
+    "venue": "knowledge and systems engineering",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Tatsuya Saito",
+            "id": "2480117540",
+            "org": "Muroran Institue of Technology"
+        },
+        {
+            "name": "Yoshifumi Okada",
+            "id": "2135268648",
+            "org": "Muroran Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Row",
+        "Computer science",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Data Matrix",
+        "Cluster analysis",
+        "Machine learning",
+        "Recommender system",
+        "Row and column spaces",
+        "Connectivity",
+        "Biclustering"
+    ],
+    "references": [
+        "1549197996",
+        "2042281163",
+        "2100235918",
+        "2153472243"
+    ]
+}

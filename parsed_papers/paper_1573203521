@@ -1,0 +1,32 @@
+{
+    "id": "1573203521",
+    "title": "Digital Algebra and Circuits",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jean Vuillemin",
+            "id": "2250981944",
+            "org": "Ecole Normale Superieure"
+        }
+    ],
+    "fields_of_study": [
+        "Binary number",
+        "Discrete mathematics",
+        "Boolean algebra",
+        "Rational number",
+        "Digital electronics",
+        "Combinatorics",
+        "Algebraic number",
+        "Integer",
+        "Floating point",
+        "Real number",
+        "Distributed computing",
+        "Mathematics"
+    ],
+    "references": [
+        "2003927948",
+        "2080267935",
+        "2128477287"
+    ]
+}

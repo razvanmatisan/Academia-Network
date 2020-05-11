@@ -1,0 +1,31 @@
+{
+    "id": "1489114003",
+    "title": "Random Search versus Genetic Programming as Engines for Collective Adaptation",
+    "venue": "Evolutionary Programming",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Thomas Haynes",
+            "id": "2129503100",
+            "org": "Wichita State University"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Iterative deepening depth-first search",
+        "Incremental heuristic search",
+        "Mathematical optimization",
+        "Guided Local Search",
+        "Machine learning",
+        "Combinatorial search",
+        "Search algorithm",
+        "Search engine",
+        "Best-first search",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1551044642",
+        "2019905452"
+    ]
+}

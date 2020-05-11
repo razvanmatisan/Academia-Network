@@ -1,0 +1,31 @@
+{
+    "id": "1514283508",
+    "title": "Graph grammars and diagram editing",
+    "venue": "international workshop on graph grammars and their application to computer science",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Herbert Gottler",
+            "id": "1125768916",
+            "org": "Lehrstuhl fur Programmiersprachen Friedrich-Alexander-Universitat Erlangen-Nurnberg"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Graph property",
+        "Tree-adjoining grammar",
+        "Graph (abstract data type)",
+        "Diagram",
+        "Mathematics",
+        "Voltage graph",
+        "Null graph",
+        "Theoretical computer science",
+        "Clique-width",
+        "Rule-based machine translation"
+    ],
+    "references": [
+        "1516486508",
+        "1964071625",
+        "2115937516"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "1507473894",
+    "title": "Experimental investigation of pruning methods for relational pattern discovery",
+    "venue": "inductive logic programming",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Irene Weber",
+            "id": "2343639907",
+            "org": "Institut fur Informatik, Universitat Stuttgart, Stuttgart, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pruning",
+        "Artificial intelligence",
+        "Knowledge extraction",
+        "Machine learning",
+        "Principal variation search",
+        "Computer science",
+        "Search cost",
+        "Killer heuristic",
+        "Search algorithm",
+        "Pattern language",
+        "Pruning (decision trees)"
+    ],
+    "references": [
+        "1484732323",
+        "1516114007",
+        "1553696291",
+        "1748039476",
+        "1806329564"
+    ]
+}

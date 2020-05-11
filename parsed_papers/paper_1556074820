@@ -1,0 +1,35 @@
+{
+    "id": "1556074820",
+    "title": "Face Recognition Using Multi-viewpoint Patterns for Robot Vision",
+    "venue": "ISRR",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Kazuhiro Fukui",
+            "id": "2776312990",
+            "org": "TOSHIBA Corporation"
+        },
+        {
+            "name": "Osamu Yamaguchi",
+            "id": "2115220948",
+            "org": "TOSHIBA Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Face detection",
+        "Robot",
+        "Three-dimensional face recognition",
+        "Computer vision",
+        "Artificial intelligence",
+        "Computer science",
+        "Facial recognition system",
+        "Subspace topology"
+    ],
+    "references": [
+        "1680583314",
+        "1820849028",
+        "2098693229",
+        "2100009494",
+        "2121647436"
+    ]
+}

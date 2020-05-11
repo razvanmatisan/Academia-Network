@@ -1,0 +1,47 @@
+{
+    "id": "1602335774",
+    "title": "Spine routing in ad hoc networks",
+    "venue": "Cluster Computing",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Raghupathy Sivakumar",
+            "id": "2123053077",
+            "org": "Coordinated Sciences Laboratory, University of Illinois at Urbana-Champaign, Urbana, IL 61801, USA#TAB#"
+        },
+        {
+            "name": "Bevan Das",
+            "id": "2146645616",
+            "org": "Coordinated Sciences Laboratory, University of Illinois at Urbana-Champaign, Urbana, IL 61801, USA#TAB#"
+        },
+        {
+            "name": "Vaduvur Bharghavan",
+            "id": "183784429",
+            "org": "Coordinated Sciences Laboratory, University of Illinois at Urbana-Champaign, Urbana, IL 61801, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Optimized Link State Routing Protocol",
+        "Static routing",
+        "Adaptive quality of service multi-hop routing",
+        "Distributed computing",
+        "Link-state routing protocol",
+        "Ad hoc wireless distribution service",
+        "Wireless Routing Protocol",
+        "Computer network",
+        "Dynamic Source Routing",
+        "Computer science",
+        "Destination-Sequenced Distance Vector routing"
+    ],
+    "references": [
+        "1534484868",
+        "2005900781",
+        "2053783303",
+        "2059453880",
+        "2077371116",
+        "2086976228",
+        "2098502330",
+        "2124651399",
+        "2169848785"
+    ]
+}

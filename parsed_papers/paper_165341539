@@ -1,0 +1,33 @@
+{
+    "id": "165341539",
+    "title": "A Learner Model in a Distributed Environment",
+    "venue": "adaptive hypermedia and adaptive web based systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Cristina Carmona",
+            "id": "2117270941",
+            "org": "Universidad de Malaga"
+        },
+        {
+            "name": "Ricardo Conejo",
+            "id": "2119546222",
+            "org": "Universidad de Malaga"
+        }
+    ],
+    "fields_of_study": [
+        "Overlay",
+        "Granularity",
+        "Bayesian network",
+        "Computer science",
+        "Distributed Computing Environment",
+        "Machine learning",
+        "Knowledge modeling",
+        "Bayesian inference",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1518504231",
+        "2117688236"
+    ]
+}

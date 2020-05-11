@@ -1,0 +1,45 @@
+{
+    "id": "1566045017",
+    "title": "The Bayesian structural EM algorithm",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Nir Friedman",
+            "id": "2079978182",
+            "org": "University of California, Berkeley, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Mathematics",
+        "Machine learning",
+        "Model selection",
+        "Variable-order Bayesian network",
+        "Bayesian network",
+        "Wake-sleep algorithm",
+        "Expectation-maximization algorithm",
+        "Missing data",
+        "Bayesian probability",
+        "Bayesian inference",
+        "Pattern recognition"
+    ],
+    "references": [
+        "103273366",
+        "1520448186",
+        "1523680690",
+        "1524704912",
+        "1544444076",
+        "1567331820",
+        "1698663318",
+        "1801737117",
+        "1864566053",
+        "1887916728",
+        "1988814833",
+        "2008906462",
+        "2101782549",
+        "2123306636",
+        "2159080219",
+        "2170112109"
+    ]
+}

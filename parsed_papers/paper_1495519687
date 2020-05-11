@@ -1,0 +1,39 @@
+{
+    "id": "1495519687",
+    "title": "Distributed computing: moving from CGI to CORBA",
+    "venue": "usenix annual technical conference",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "James FitzGibbon",
+            "id": "2696480053",
+            "org": "TargetNet.com Inc.#TAB#"
+        },
+        {
+            "name": "Tim Strike",
+            "id": "2511172645",
+            "org": "TargetNet.com Inc.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Common Object Request Broker Architecture",
+        "System monitoring",
+        "Perl",
+        "Real-time computing",
+        "Common Gateway Interface",
+        "Interoperable Object Reference",
+        "Web server",
+        "CSIv2",
+        "Distributed computing",
+        "Operating system",
+        "Server",
+        "Computer science"
+    ],
+    "references": [
+        "193844968",
+        "1495871904",
+        "1791522999",
+        "1861446823",
+        "2159431338"
+    ]
+}

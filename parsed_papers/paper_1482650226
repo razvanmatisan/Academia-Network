@@ -1,0 +1,38 @@
+{
+    "id": "1482650226",
+    "title": "Hiding Signatures in Graph Coloring Solutions",
+    "venue": "information hiding",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Gang Qu",
+            "id": "2137434199",
+            "org": "University of California"
+        },
+        {
+            "name": "Miodrag Potkonjak",
+            "id": "2133515444",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Graph power",
+        "Theoretical computer science",
+        "Fractional coloring",
+        "Computer science",
+        "Greedy coloring",
+        "Nowhere-zero flow",
+        "Factor-critical graph",
+        "Discrete mathematics",
+        "Complete coloring",
+        "Distance-hereditary graph",
+        "Graph factorization"
+    ],
+    "references": [
+        "1888691442",
+        "1986199670",
+        "2131933325",
+        "2136430465",
+        "2172192859"
+    ]
+}

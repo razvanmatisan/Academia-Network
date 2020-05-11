@@ -1,0 +1,43 @@
+{
+    "id": "1615946300",
+    "title": "Topological Rearrangements and Local Search Method for Tandem Duplication Trees",
+    "venue": "workshop on algorithms in bioinformatics",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Denis Bertrand",
+            "id": "2123077400",
+            "org": "Equipe Methodes et Algorithmes pour la Bioinformatique LIRMM-CNRS"
+        },
+        {
+            "name": "Olivier Gascuel",
+            "id": "247215911",
+            "org": "Equipe Methodes et Algorithmes pour la Bioinformatique LIRMM-CNRS"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Inference",
+        "Phylogenetics",
+        "Tree (data structure)",
+        "Local search (optimization)",
+        "Search algorithm",
+        "Tandem exon duplication",
+        "Gene duplication",
+        "Computer science",
+        "Topology",
+        "Bioinformatics"
+    ],
+    "references": [
+        "1530840055",
+        "1591142990",
+        "1617423665",
+        "1976264393",
+        "1981541922",
+        "2014605064",
+        "2086397813",
+        "2124908487",
+        "2125359798",
+        "2139909337"
+    ]
+}

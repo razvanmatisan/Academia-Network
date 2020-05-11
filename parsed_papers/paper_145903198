@@ -1,0 +1,35 @@
+{
+    "id": "145903198",
+    "title": "Data Replication Methods in Distributed Sale Systems",
+    "venue": "ICMMI",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Piotr Kowalski",
+            "id": "2304318910",
+            "org": "Silesian Technical University"
+        },
+        {
+            "name": "Katarzyna Harezlak",
+            "id": "1242677347",
+            "org": "Silesian Technical University"
+        }
+    ],
+    "fields_of_study": [
+        "Replication (computing)",
+        "Database server",
+        "Data management",
+        "Distributed database",
+        "Database",
+        "Distributed computing",
+        "Commercial software",
+        "Distributed Computing Environment",
+        "Computer science"
+    ],
+    "references": [
+        "46616661",
+        "1741515024",
+        "2131754554",
+        "2161977034"
+    ]
+}

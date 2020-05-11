@@ -1,0 +1,44 @@
+{
+    "id": "1664251738",
+    "title": "Mapping applications to an FPFA tile [field programmable function array]",
+    "venue": "design, automation, and test in europe",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Michel A.J. Rosien",
+            "id": "1599466633",
+            "org": "Dept. of Comput. Sci., Twente Univ., Enschede, Netherlands"
+        },
+        {
+            "name": "Yuanqing Guo",
+            "id": "2154213259",
+            "org": "Dept. of Comput. Sci., Twente Univ., Enschede, Netherlands"
+        },
+        {
+            "name": "Gerard Smit",
+            "id": "2139010492",
+            "org": "Dept. of Comput. Sci., Twente Univ., Enschede, Netherlands"
+        },
+        {
+            "name": "Thijs Krol",
+            "id": "2071917646",
+            "org": "Dept. of Comput. Sci., Twente Univ., Enschede, Netherlands"
+        }
+    ],
+    "fields_of_study": [
+        "Source code",
+        "Computer science",
+        "Parallel computing",
+        "Logic synthesis",
+        "Architecture",
+        "Common subexpression elimination",
+        "Dependence analysis",
+        "Clustering coefficient",
+        "Theoretical computer science",
+        "Flow network",
+        "Data-flow analysis"
+    ],
+    "references": [
+        "1551995088"
+    ]
+}

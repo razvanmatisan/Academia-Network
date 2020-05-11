@@ -1,0 +1,36 @@
+{
+    "id": "110462709",
+    "title": "Logic as a Power Tool to Model Negotiation Mechanisms in the Semantic Web Era.",
+    "venue": "KWEPSY",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Azzurra Ragone",
+            "id": "2166987554",
+            "org": "Polytechnic University of Bari"
+        }
+    ],
+    "fields_of_study": [
+        "Semantic Web Rule Language",
+        "Web standards",
+        "Web modeling",
+        "Semantic grid",
+        "Social Semantic Web",
+        "Description logic",
+        "Semantic analytics",
+        "Semantic Web Stack",
+        "Computer science",
+        "Knowledge management"
+    ],
+    "references": [
+        "81376060",
+        "198805674",
+        "1517480288",
+        "1553139394",
+        "1570500017",
+        "1582116930",
+        "1972520979",
+        "2017179359",
+        "2087907759"
+    ]
+}

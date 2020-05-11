@@ -1,0 +1,32 @@
+{
+    "id": "1605896891",
+    "title": "Standards for Data Security - A Change of Direction",
+    "venue": "international cryptology conference",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Wyn L. Price",
+            "id": "2294001983",
+            "org": "National Physical Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Data security",
+        "Information security standards",
+        "Standards organization",
+        "Theoretical computer science",
+        "Accounting",
+        "Standard of Good Practice",
+        "Security service",
+        "Computer security",
+        "Information security",
+        "International standard",
+        "Computer science",
+        "Certified Information Systems Security Professional"
+    ],
+    "references": [
+        "1567734037",
+        "1660192523",
+        "2122096983"
+    ]
+}

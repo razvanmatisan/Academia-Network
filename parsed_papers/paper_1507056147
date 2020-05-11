@@ -1,0 +1,41 @@
+{
+    "id": "1507056147",
+    "title": "Market equilibrium using auctions for a class of gross-substitute utilities",
+    "venue": "workshop on internet and network economics",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Rahul Garg",
+            "id": "2134757544",
+            "org": "IBM T.J. Watson Research Center#TAB#"
+        },
+        {
+            "name": "Sanjiv Kapoor",
+            "id": "2177891557",
+            "org": "Illinois Institute of Technology, Chicago#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical economics",
+        "Mathematical optimization",
+        "Market clearing",
+        "Common value auction",
+        "Satisfiability",
+        "Excess demand function",
+        "Constant elasticity of substitution",
+        "Auction algorithm",
+        "Auction theory",
+        "Microeconomics",
+        "Revenue equivalence",
+        "Economics"
+    ],
+    "references": [
+        "1494581082",
+        "1511958950",
+        "2020814014",
+        "2036174679",
+        "2102523945",
+        "2117371776",
+        "2168834928"
+    ]
+}

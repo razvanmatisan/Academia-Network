@@ -1,0 +1,41 @@
+{
+    "id": "1545837421",
+    "title": "A fast pattern-matching algorithm for network intrusion detection system",
+    "venue": "international ifip-tc networking conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jung-sik Sung",
+            "id": "2171630699",
+            "org": "ETRI, Daejeon, Korea#TAB#"
+        },
+        {
+            "name": "Seok-Min Kang",
+            "id": "2150915801",
+            "org": "Chungnam National University, Daejeon, Korea#TAB#"
+        },
+        {
+            "name": "Taeck-Geun Kwon",
+            "id": "2111211083",
+            "org": "Chungnam National University, Daejeon, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern matching",
+        "Network packet",
+        "Distributed computing",
+        "Intrusion detection system",
+        "String searching algorithm",
+        "State diagram",
+        "Payload",
+        "Content-addressable memory",
+        "Computer science"
+    ],
+    "references": [
+        "1531610435",
+        "2102269763",
+        "2106160659",
+        "2111595669",
+        "2116967744"
+    ]
+}

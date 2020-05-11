@@ -1,0 +1,42 @@
+{
+    "id": "1586142627",
+    "title": "Exploiting Partially Shared Ontologies for Multi-agent Communication",
+    "venue": "cooperative information agents",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Heiner Stuckenschmidt",
+            "id": "2088858762",
+            "org": "Vrije Universiteit Amsterdam"
+        }
+    ],
+    "fields_of_study": [
+        "Correctness",
+        "Semantics",
+        "Ontology",
+        "Distributed computing",
+        "Information system",
+        "Natural language processing",
+        "Description logic",
+        "Vocabulary",
+        "Ontology language",
+        "Ontology (information science)",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "9950822",
+        "1482102309",
+        "1489525677",
+        "1524799179",
+        "1569816558",
+        "1802447419",
+        "1885454347",
+        "1909828611",
+        "2032117162",
+        "2038897673",
+        "2100144677",
+        "2150451032",
+        "2159977448"
+    ]
+}

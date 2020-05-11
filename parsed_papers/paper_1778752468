@@ -1,0 +1,52 @@
+{
+    "id": "1778752468",
+    "title": "Hierarchical supervisory control of service robot using human-robot-interface",
+    "venue": "intelligent robots and systems",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Christian Fischer",
+            "id": "2101251523",
+            "org": "Dept. of Autom. Control Eng., Tech. Univ. Munchen, Germany"
+        },
+        {
+            "name": "Martin Buss",
+            "id": "2106337712",
+            "org": "Department of Automatic|Technische Universitat Munchen"
+        },
+        {
+            "name": "Gunther Schmidt",
+            "id": "2115436869",
+            "org": "Department of Automatic|Technische Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Personal robot",
+        "Service robot",
+        "Control engineering",
+        "Artificial intelligence",
+        "Computer vision",
+        "Robot learning",
+        "Computer science",
+        "Mobile robot navigation",
+        "Mobile robot",
+        "Supervisory control",
+        "Robot control",
+        "Simulation",
+        "Intelligent decision support system"
+    ],
+    "references": [
+        "164303122",
+        "1505679361",
+        "1554449972",
+        "1794255949",
+        "1800549533",
+        "1900023941",
+        "1910747012",
+        "2068423795",
+        "2097856935",
+        "2140019217",
+        "2146882980",
+        "2174896420"
+    ]
+}

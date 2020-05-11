@@ -1,0 +1,57 @@
+{
+    "id": "1524060910",
+    "title": "News story segmentation in the Fischlar video indexing system",
+    "venue": "international conference on image processing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Noel E. O'Connor",
+            "id": "2132435563",
+            "org": "Centre for Digital Video Process., Dublin City Univ., Ireland"
+        },
+        {
+            "name": "Csaba Czirjek",
+            "id": "1547694112",
+            "org": "Centre for Digital Video Processing Dublin City Univeristy"
+        },
+        {
+            "name": "Sean Deasy",
+            "id": "1978247794",
+            "org": "Centre for Digital Video Processing Dublin|City Univeristy Ireland"
+        },
+        {
+            "name": "Sean Marlow",
+            "id": "2126068467",
+            "org": "Centre for Digital Video Processing Dublin|City Univeristy Ireland"
+        },
+        {
+            "name": "Noel Murphy",
+            "id": "1978924457",
+            "org": "Centre for Digital Video Processing Dublin|City Univeristy Ireland"
+        },
+        {
+            "name": "Alan F. Smeaton",
+            "id": "2326079530",
+            "org": "Centre for Digital Video Processing Dublin|City Univeristy Ireland"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Image segmentation",
+        "Cluster analysis",
+        "Signal processing",
+        "Search engine indexing",
+        "Market segmentation",
+        "Feature extraction",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Image retrieval",
+        "Segmentation",
+        "Computer science"
+    ],
+    "references": [
+        "1545756119",
+        "1591795955",
+        "1993518282"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1596717185",
+    "title": "Least Squares Support Vector Machine Classifiers",
+    "venue": "Neural Processing Letters",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Johan A. K. Suykens",
+            "id": "2173646266",
+            "org": "Katholieke Universiteit Leuven, Department of Electrical Engineering, ESAT-SISTA Kardinaal Mercierlaan 94, B-3001 Leuven (Heverlee), Belgium, e-mail: johan.suykens@esat.kuleuven.ac.be#TAB#"
+        },
+        {
+            "name": "Joos Vandewalle",
+            "id": "1964643177",
+            "org": "Katholieke Universiteit Leuven, Department of Electrical Engineering, ESAT-SISTA Kardinaal Mercierlaan 94, B-3001 Leuven (Heverlee), Belgium, e-mail: johan.suykens@esat.kuleuven.ac.be#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Linear least squares",
+        "Support vector machine",
+        "Machine learning",
+        "Artificial intelligence",
+        "Linear equation",
+        "Mathematics",
+        "Mathematical optimization",
+        "Quadratic programming",
+        "Pattern recognition",
+        "Structured support vector machine",
+        "Least squares support vector machine",
+        "Least squares",
+        "Radial basis function kernel"
+    ],
+    "references": [
+        "1755117326",
+        "2055522016",
+        "2148603752",
+        "2164276496"
+    ]
+}

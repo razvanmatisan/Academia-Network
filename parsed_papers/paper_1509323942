@@ -1,0 +1,28 @@
+{
+    "id": "1509323942",
+    "title": "Adaptation and the Modular Design of Organisms",
+    "venue": "european conference on artificial life",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Giinter P. Wagner",
+            "id": "2597648180",
+            "org": "Yale University"
+        }
+    ],
+    "fields_of_study": [
+        "Complex adaptive system",
+        "Artificial intelligence",
+        "Genetic representation",
+        "Machine learning",
+        "Evolutionary computation",
+        "Adaptability",
+        "Modularity",
+        "Modular design",
+        "Computer science"
+    ],
+    "references": [
+        "1576818901",
+        "2132578019"
+    ]
+}

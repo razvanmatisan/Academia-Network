@@ -1,0 +1,38 @@
+{
+    "id": "15326628",
+    "title": "Explaining Ant-Based Clustering on the basis of Self-Organizing Maps",
+    "venue": "the european symposium on artificial neural networks",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Lutz Herrmann",
+            "id": "2096581846",
+            "org": "University of Marburg|Dept . of Mathematics and Computer Science|Databionics Research Group"
+        },
+        {
+            "name": "Alfred Ultsch",
+            "id": "1959477005",
+            "org": "University of Marburg|Dept . of Mathematics and Computer Science|Databionics Research Group"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern recognition",
+        "Cluster analysis",
+        "Clustering high-dimensional data",
+        "Artificial intelligence",
+        "Machine learning",
+        "Self-organizing map",
+        "ANT",
+        "Fuzzy clustering",
+        "Correlation clustering",
+        "Computer science",
+        "Strengths and weaknesses"
+    ],
+    "references": [
+        "17277982",
+        "242269721",
+        "2139525181",
+        "2150271850",
+        "2166671911"
+    ]
+}

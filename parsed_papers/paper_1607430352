@@ -1,0 +1,31 @@
+{
+    "id": "1607430352",
+    "title": "Top-down modeling methodology for model-driven SOA construction",
+    "venue": "international conference on move to meaningful internet systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Jan Ricken",
+            "id": "2037157130",
+            "org": "University of Namur, Computer Science Department, Namur, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Business architecture",
+        "Service-oriented modeling",
+        "Business process modeling",
+        "Process modeling",
+        "OASIS SOA Reference Model",
+        "Business Process Model and Notation",
+        "Artifact-centric business process model",
+        "Process management",
+        "Business rule",
+        "Computer science"
+    ],
+    "references": [
+        "56202547",
+        "1537736871",
+        "1584180245",
+        "2122824813"
+    ]
+}

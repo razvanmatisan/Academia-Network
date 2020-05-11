@@ -1,0 +1,40 @@
+{
+    "id": "1582677735",
+    "title": "Authorization in CORBA Security",
+    "venue": "european symposium on research in computer security",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Gunter Karjoth",
+            "id": "1494517121",
+            "org": "Zurich Research Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed System Security Architecture",
+        "Computer security",
+        "Mandatory access control",
+        "Common Object Request Broker Architecture",
+        "Computer science",
+        "Distributed computing",
+        "Database",
+        "Security information and event management",
+        "Computer access control",
+        "Security service",
+        "Interoperable Object Reference",
+        "Computer security model"
+    ],
+    "references": [
+        "1554178586",
+        "1567526065",
+        "1573368629",
+        "1573981434",
+        "1931110084",
+        "1964487403",
+        "2000010422",
+        "2053741629",
+        "2068239646",
+        "2111753337",
+        "2119427861"
+    ]
+}

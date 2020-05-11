@@ -1,0 +1,39 @@
+{
+    "id": "1577704897",
+    "title": "Languages and process calculi for network aware programming - short summary -",
+    "venue": "international colloquium on theoretical aspects of computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Rocco De Nicola",
+            "id": "2266521850",
+            "org": "Dipartimento di Sistemi e Informatica, Universita di Firenze#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Fourth-generation programming language",
+        "Programming paradigm",
+        "First-generation programming language",
+        "High-level programming language",
+        "Very high-level programming language",
+        "Fifth-generation programming language",
+        "Programming domain",
+        "Programming language theory",
+        "Computer science"
+    ],
+    "references": [
+        "1493791877",
+        "1500859230",
+        "1554932362",
+        "1868996075",
+        "1939605951",
+        "1977652281",
+        "1992984380",
+        "2012657211",
+        "2084588406",
+        "2118010897",
+        "2154774771",
+        "2161353020"
+    ]
+}

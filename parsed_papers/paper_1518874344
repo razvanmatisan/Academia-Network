@@ -1,0 +1,36 @@
+{
+    "id": "1518874344",
+    "title": "A multi-level organization for problem solving using many, diverse, cooperating sources of knowledge",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1975,
+    "authors": [
+        {
+            "name": "Lee D. Erman",
+            "id": "2134183241",
+            "org": "Computer Science Department, Carnegie-Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Victor R. Lesser",
+            "id": "2136177121",
+            "org": "Computer Science Department, Carnegie-Mellon University, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Hierarchy",
+        "Machine learning",
+        "Scheduling (computing)",
+        "Systems analysis",
+        "Blackboard system",
+        "Computational linguistics",
+        "Computer science",
+        "Abstraction",
+        "Data processing"
+    ],
+    "references": [
+        "1535040038",
+        "1687345816",
+        "1956939025",
+        "2126977453"
+    ]
+}

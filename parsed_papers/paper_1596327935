@@ -1,0 +1,32 @@
+{
+    "id": "1596327935",
+    "title": "An Algorithmic Approach to Recover Inconsistent Knowledge-Bases",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Ofer Arieli",
+            "id": "5097700",
+            "org": "K.U.Leuven Celestijnenlaan 200A"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge base",
+        "Semantics",
+        "Search tree",
+        "Belief revision",
+        "Atomic formula",
+        "Data mining",
+        "Algorithmics",
+        "Computer science"
+    ],
+    "references": [
+        "35390552",
+        "1486938123",
+        "1515061225",
+        "1635116973",
+        "1672891595",
+        "2080142817",
+        "2087490886"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1584516622",
+    "title": "Development and Evolution of Neural Networks in an Artificial Chemistry",
+    "venue": "arXiv: Adaptation and Self-Organizing Systems",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Jens C. Astor",
+            "id": "2052375954",
+            "org": "Caltech"
+        },
+        {
+            "name": "Christoph Adami",
+            "id": "2018850313",
+            "org": "Caltech"
+        }
+    ],
+    "fields_of_study": [
+        "Asynchronous communication",
+        "Machine learning",
+        "Genetic algorithm",
+        "Classical conditioning",
+        "Artificial intelligence",
+        "Artificial development",
+        "Artificial neuron",
+        "Artificial neural network",
+        "Nervous system network models",
+        "Artificial chemistry",
+        "Biology"
+    ],
+    "references": [
+        "1793520216"
+    ]
+}

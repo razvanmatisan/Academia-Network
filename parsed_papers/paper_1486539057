@@ -1,0 +1,30 @@
+{
+    "id": "1486539057",
+    "title": "A Performance Study of Forward Error Correction in ATM Networks",
+    "venue": "network and operating system support for digital audio and video",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Ernst W. Biersack",
+            "id": "266453469",
+            "org": "Bellcore"
+        }
+    ],
+    "fields_of_study": [
+        "Forward error correction",
+        "Real-time computing",
+        "Computer network",
+        "Transmitter",
+        "Asynchronous Transfer Mode",
+        "Telecommunications network",
+        "Bandwidth-delay product",
+        "Computer science",
+        "Bandwidth (signal processing)",
+        "Retransmission",
+        "Multiplexing"
+    ],
+    "references": [
+        "2132091939",
+        "2151913373"
+    ]
+}

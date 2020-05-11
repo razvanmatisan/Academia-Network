@@ -1,0 +1,44 @@
+{
+    "id": "1595657196",
+    "title": "Modular Model Checking of Software",
+    "venue": "tools and algorithms for construction and analysis of systems",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Karen Laster",
+            "id": "2501259279",
+            "org": "The Technion"
+        },
+        {
+            "name": "Orna Grumberg",
+            "id": "1993734283",
+            "org": "The Technion"
+        }
+    ],
+    "fields_of_study": [
+        "Software requirements specification",
+        "Model checking",
+        "Theoretical computer science",
+        "Software construction",
+        "Software system",
+        "Software verification",
+        "Concurrency",
+        "Distributed computing",
+        "Abstraction model checking",
+        "Real-time computing",
+        "Computer science",
+        "Kripke structure"
+    ],
+    "references": [
+        "1490452953",
+        "1491438721",
+        "1514103192",
+        "1593428110",
+        "1660667741",
+        "2004306067",
+        "2009965218",
+        "2065675749",
+        "2090398333",
+        "2117189826"
+    ]
+}

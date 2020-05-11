@@ -1,0 +1,42 @@
+{
+    "id": "1574093235",
+    "title": "Perceptually Motivated Adaptive Quantization Algorithm for Region-of-Interest Coding in H.264",
+    "venue": "pacific rim conference on multimedia",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Qiong Liu",
+            "id": "2519469011",
+            "org": "Computer School, Wuhan University, Wuhan, China#TAB#"
+        },
+        {
+            "name": "Ruimin Hu",
+            "id": "2894118141",
+            "org": "Computer School, Wuhan University, Wuhan, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Grid",
+        "Computer vision",
+        "Artificial intelligence",
+        "Quantization (signal processing)",
+        "Masking (art)",
+        "Computer science",
+        "Algorithm",
+        "Region of interest",
+        "Human visual system model",
+        "Pattern recognition",
+        "Coding (social sciences)",
+        "Quality management",
+        "Video quality"
+    ],
+    "references": [
+        "1633598463",
+        "1707446565",
+        "2097876460",
+        "2105971891",
+        "2122952014",
+        "2158137439",
+        "2172140467"
+    ]
+}

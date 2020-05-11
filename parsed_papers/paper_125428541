@@ -1,0 +1,46 @@
+{
+    "id": "125428541",
+    "title": "Using the leader algorithm with support vector machines for large data sets",
+    "venue": "international conference on artificial neural networks",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Enrique Romero",
+            "id": "2431769431",
+            "org": "Departament de Llenguatges i Sistemes Informatics, Universitat Politecnica de Catalunya#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Support vector machine",
+        "Training set",
+        "Machine learning",
+        "Pattern recognition",
+        "Data set",
+        "Preprocessor",
+        "Computer science",
+        "Granularity",
+        "Algorithm"
+    ],
+    "references": [
+        "91477260",
+        "1514940655",
+        "1529939802",
+        "1555269405",
+        "1621799579",
+        "1965059296",
+        "1986630010",
+        "2048045850",
+        "2068405010",
+        "2069231281",
+        "2099856607",
+        "2104819623",
+        "2108807072",
+        "2114296668",
+        "2137285073",
+        "2148603752",
+        "2152523366",
+        "2153635508",
+        "2426031434"
+    ]
+}

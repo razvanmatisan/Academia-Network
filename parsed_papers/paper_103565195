@@ -1,0 +1,30 @@
+{
+    "id": "103565195",
+    "title": "Directing value: driven artificial characters",
+    "venue": "adaptive agents and multi agents systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Rossana Damiano",
+            "id": "2045054690",
+            "org": "Universita degli Studi di Torino, Torino, Italy#TAB#"
+        },
+        {
+            "name": "Vincenzo Lombardo",
+            "id": "2296057891",
+            "org": "Universita degli Studi di Torino, Torino, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Reference architecture",
+        "Storytelling",
+        "Multimedia",
+        "Interactive storytelling",
+        "Multi-agent system"
+    ],
+    "references": [
+        "1644571149",
+        "2138227137"
+    ]
+}

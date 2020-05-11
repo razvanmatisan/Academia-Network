@@ -1,0 +1,56 @@
+{
+    "id": "1561855448",
+    "title": "Improving the robustness of epidemic communication in scale-free networks",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Takuya Okuyama",
+            "id": "2552460220",
+            "org": "Graduate School of Information Science and Technology, Osaka University, Osaka, Japan#TAB#"
+        },
+        {
+            "name": "Tatsuhiro Tsuchiya",
+            "id": "2170336806",
+            "org": "Graduate School of Information Science and Technology, Osaka University, Osaka, Japan#TAB#"
+        },
+        {
+            "name": "Tohru Kikuno",
+            "id": "73978092",
+            "org": "Graduate School of Information Science and Technology, Osaka University, Osaka, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Peer-to-peer",
+        "Degree distribution",
+        "Message passing",
+        "Overlay network",
+        "Virtual network",
+        "Robustness (computer science)",
+        "Telecommunications network",
+        "Network topology",
+        "Distributed computing",
+        "Computer science"
+    ],
+    "references": [
+        "1527463082",
+        "1602845237",
+        "1654211971",
+        "1707628848",
+        "2014550373",
+        "2018870964",
+        "2065164788",
+        "2069177791",
+        "2116039228",
+        "2118428193",
+        "2119984085",
+        "2146368695",
+        "2155599998",
+        "2158049821",
+        "2162560457",
+        "2163059190",
+        "2164231975",
+        "2167898414",
+        "2296427920"
+    ]
+}

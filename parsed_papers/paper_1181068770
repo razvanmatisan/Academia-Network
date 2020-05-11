@@ -1,0 +1,49 @@
+{
+    "id": "1181068770",
+    "title": "Semantic Views of Homogeneous Unstructured Data",
+    "venue": "web reasoning and rule systems",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Weronika T. Adrian",
+            "id": "2116891452",
+            "org": "University of Calabria"
+        },
+        {
+            "name": "Weronika T. Adrian",
+            "id": "2116891452",
+            "org": "University of Calabria"
+        },
+        {
+            "name": "Nicola Leone",
+            "id": "2434752702",
+            "org": "University of Calabria"
+        },
+        {
+            "name": "Marco Manna",
+            "id": "2101926452",
+            "org": "University of Calabria"
+        }
+    ],
+    "fields_of_study": [
+        "Homogeneous",
+        "Text annotation",
+        "Information retrieval",
+        "Ontology",
+        "Data mining",
+        "Computer science",
+        "Information extraction",
+        "File format",
+        "Ontology (information science)",
+        "Unstructured data"
+    ],
+    "references": [
+        "1589590479",
+        "1971609990",
+        "2117312440",
+        "2120811238",
+        "2126260950",
+        "2134150392",
+        "2169232658"
+    ]
+}

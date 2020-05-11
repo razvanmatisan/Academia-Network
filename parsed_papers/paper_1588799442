@@ -1,0 +1,40 @@
+{
+    "id": "1588799442",
+    "title": "Seamlessly Selecting the Best Copy from Internet-Wide Replicated Web Servers",
+    "venue": "international symposium on distributed computing",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Yair Amir",
+            "id": "2167289893",
+            "org": "Johns Hopkins University"
+        },
+        {
+            "name": "Alec Peterson",
+            "id": "2717447946",
+            "org": "Johns Hopkins University"
+        },
+        {
+            "name": "David Shaw",
+            "id": "2868303875",
+            "org": "Johns Hopkins University"
+        }
+    ],
+    "fields_of_study": [
+        "Web service",
+        "Single point of failure",
+        "World Wide Web",
+        "Web navigation",
+        "Web development",
+        "Web server",
+        "Architecture",
+        "Systems architecture",
+        "Computer science",
+        "The Internet"
+    ],
+    "references": [
+        "1527961683",
+        "1986071441",
+        "2172261928"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1536714983",
+    "title": "An Operational and Secure Mobile-Agent Based System for Business Process Reconstruction",
+    "venue": "working conference on virtual enterprises",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Herve Mathieu",
+            "id": "1996162099",
+            "org": "INSA de Lyon"
+        },
+        {
+            "name": "Frederique Biennier",
+            "id": "58025293",
+            "org": "INSA de Lyon"
+        }
+    ],
+    "fields_of_study": [
+        "Enterprise information system",
+        "Knowledge management",
+        "Systems engineering",
+        "Business architecture",
+        "Business process modeling",
+        "Digital firm",
+        "Business rule management system",
+        "Business process management",
+        "Enterprise modelling",
+        "Artifact-centric business process model",
+        "Process management",
+        "Computer science"
+    ],
+    "references": [
+        "1480395160",
+        "1481643136",
+        "1510940979",
+        "1554390007",
+        "1586765580",
+        "1597363407",
+        "1635413415",
+        "1664011265",
+        "2065136126",
+        "2338717024"
+    ]
+}

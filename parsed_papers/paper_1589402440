@@ -1,0 +1,31 @@
+{
+    "id": "1589402440",
+    "title": "Koala, a Component Model for Consumer Electronics Product Software",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Rob C. van Ommering",
+            "id": "2110109794",
+            "org": "Philips Research Eindhoven"
+        }
+    ],
+    "fields_of_study": [
+        "Computer engineering",
+        "Electronics",
+        "Architecture description language",
+        "Distributed computing",
+        "Simulation",
+        "Systems architecture",
+        "Software development",
+        "Software",
+        "Late binding",
+        "Computer science",
+        "Control system"
+    ],
+    "references": [
+        "1489800325",
+        "2023546887",
+        "2251335145"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1490627662",
+    "title": "A Comparative Study of Query and Document Translation for Cross-Language Information Retrieval",
+    "venue": "conference of the association for machine translation in the americas",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Douglas W. Oard",
+            "id": "7916806",
+            "org": "University of Maryland"
+        }
+    ],
+    "fields_of_study": [
+        "Example-based machine translation",
+        "Cross-language information retrieval",
+        "Speech recognition",
+        "Natural language processing",
+        "Machine translation software usability",
+        "Artificial intelligence",
+        "Machine translation",
+        "Computer science",
+        "ROUGE",
+        "Evaluation of machine translation",
+        "Rule-based machine translation",
+        "Computer-assisted translation"
+    ],
+    "references": [
+        "1484009210",
+        "1524171212",
+        "1589050831",
+        "1987718503",
+        "2008248260",
+        "2021822930",
+        "2035216901",
+        "2044157185"
+    ]
+}

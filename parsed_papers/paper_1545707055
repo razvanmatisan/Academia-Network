@@ -1,0 +1,27 @@
+{
+    "id": "1545707055",
+    "title": "A dynamization of the all pairs least cost path problem",
+    "venue": "symposium on theoretical aspects of computer science",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Hans Rohnert",
+            "id": "2691521963",
+            "org": "Universitat Saarbrucken"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Discrete mathematics",
+        "Dynamization",
+        "Transitive closure",
+        "Quadratic equation",
+        "Time complexity",
+        "Mathematical optimization",
+        "Mathematics"
+    ],
+    "references": [
+        "2022980325",
+        "2085849292"
+    ]
+}

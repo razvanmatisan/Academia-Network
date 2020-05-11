@@ -1,0 +1,42 @@
+{
+    "id": "138404342",
+    "title": "Anonymous Identity-Based Identification Scheme in Ad-Hoc Groups without Pairings",
+    "venue": "Space",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Prateek Barapatre",
+            "id": "2020496845",
+            "org": "IIT Madras"
+        },
+        {
+            "name": "Chandrasekaran Pandu Rangan",
+            "id": "2167432563",
+            "org": "IIT Madras"
+        }
+    ],
+    "fields_of_study": [
+        "Anonymity",
+        "RSA problem",
+        "Bilinear interpolation",
+        "Engineering",
+        "Theoretical computer science",
+        "Overhead (computing)",
+        "Cryptographic primitive",
+        "Remote sensing",
+        "Identification scheme",
+        "Pairing"
+    ],
+    "references": [
+        "1501670540",
+        "1528195422",
+        "1589034595",
+        "1600495091",
+        "1882430379",
+        "1979215153",
+        "2049194551",
+        "2095708839",
+        "2107401406",
+        "2167496998"
+    ]
+}

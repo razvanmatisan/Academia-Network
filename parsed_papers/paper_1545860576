@@ -1,0 +1,29 @@
+{
+    "id": "1545860576",
+    "title": "Requirements and tools for an efficient eParticipation",
+    "venue": "international conference on digital government research",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Cyril Velikanov",
+            "id": "2640367042",
+            "org": "Moscow MEMORIAL Society, Moscow, Russia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Public relations",
+        "Moderation",
+        "Marketing buzz",
+        "Data science",
+        "Deliberation",
+        "Reputation",
+        "Voting",
+        "Valuation (finance)",
+        "Democracy",
+        "Online deliberation",
+        "Computer science"
+    ],
+    "references": [
+        "1607779331"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": "1492302697",
+    "title": "Notes for the conceptual design of interfaces",
+    "venue": "international conference on conceptual modeling",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Simone Santini",
+            "id": "2096221691",
+            "org": "Universidad Autonoma de Madrid, Spain University of California, San Diego#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Conceptual design",
+        "Design education",
+        "User interface design",
+        "Class diagram",
+        "Computer science",
+        "Interaction overview diagram",
+        "Human-computer interaction",
+        "Conversation",
+        "Conversation analysis",
+        "User interface"
+    ],
+    "references": [
+        "1534021457",
+        "1604381843",
+        "2073021358",
+        "2101075635"
+    ]
+}

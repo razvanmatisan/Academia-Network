@@ -1,0 +1,30 @@
+{
+    "id": "1749094167",
+    "title": "Improvements to time bracketed authentication",
+    "venue": "arXiv: Cryptography and Security",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Charles H. Bennett",
+            "id": "2114421234",
+            "org": "IBM Research"
+        }
+    ],
+    "fields_of_study": [
+        "Computer security",
+        "Harassment",
+        "Computer science",
+        "Encryption",
+        "Internet privacy",
+        "Operator (computer programming)",
+        "Private information retrieval",
+        "Secure multi-party computation",
+        "Secret sharing",
+        "Authentication"
+    ],
+    "references": [
+        "1643556013",
+        "1997911919",
+        "2147885303"
+    ]
+}

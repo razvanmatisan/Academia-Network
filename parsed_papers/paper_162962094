@@ -1,0 +1,46 @@
+{
+    "id": "162962094",
+    "title": "An evolutionary algorithm for global induction of regression trees with multivariate linear models",
+    "venue": "international syposium on methodologies for intelligent systems",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Marcin Czajkowski",
+            "id": "2134356244",
+            "org": "Faculty of Computer Science, Bialystok University of Technology, Bialystok, Poland#TAB#"
+        },
+        {
+            "name": "Marek Kretowski",
+            "id": "1955054257",
+            "org": "Faculty of Computer Science, Bialystok University of Technology, Bialystok, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multivariate statistics",
+        "Bayesian multivariate linear regression",
+        "Artificial intelligence",
+        "Machine learning",
+        "Evolutionary algorithm",
+        "Data mining",
+        "Linear model",
+        "Tree structure",
+        "Fitness function",
+        "Gene expression programming",
+        "Bayesian information criterion",
+        "Computer science"
+    ],
+    "references": [
+        "63993499",
+        "1488493328",
+        "1551642208",
+        "1565338878",
+        "1587157779",
+        "1780185704",
+        "2055019958",
+        "2066442872",
+        "2068596668",
+        "2107170260",
+        "2142183404",
+        "2610419677"
+    ]
+}

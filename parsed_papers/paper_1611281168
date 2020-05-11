@@ -1,0 +1,48 @@
+{
+    "id": "1611281168",
+    "title": "Interpreting the object constraint language",
+    "venue": "asia pacific software engineering conference",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Ali Hamie",
+            "id": "2778070687",
+            "org": "Dept. of Comput., Brighton Polytech., UK"
+        },
+        {
+            "name": "John Howse",
+            "id": "2012038289",
+            "org": "Division of Computing|University of Brighton"
+        },
+        {
+            "name": "Stuart Kent",
+            "id": "2700825362",
+            "org": "Division of Computing|University of Brighton"
+        }
+    ],
+    "fields_of_study": [
+        "Object Constraint Language",
+        "Semantics",
+        "Diagrammatic reasoning",
+        "Computer science",
+        "UML tool",
+        "Object language",
+        "Unified Modeling Language",
+        "Natural language processing",
+        "Object-oriented programming",
+        "Applications of UML",
+        "Programming language",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "96999758",
+        "1486558948",
+        "1566214218",
+        "1583095677",
+        "1769049936",
+        "1879346405",
+        "2005819264",
+        "2065968974",
+        "2160019730"
+    ]
+}

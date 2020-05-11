@@ -1,0 +1,39 @@
+{
+    "id": "1777773944",
+    "title": "On the Composition of Public-Coin Zero-Knowledge Protocols",
+    "venue": "international cryptology conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Rafael Pass",
+            "id": "2091057165",
+            "org": "Cornell University, USA#TAB#"
+        },
+        {
+            "name": "Wei-Lung Dustin Tseng",
+            "id": "2164367013",
+            "org": "Cornell University, USA#TAB#"
+        },
+        {
+            "name": "Douglas Wikstrom",
+            "id": "1662494887",
+            "org": "KTH Royal Institute of Technology, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Gas meter prover",
+        "Discrete mathematics",
+        "Information and Computer Science",
+        "Polynomial",
+        "Public-key cryptography",
+        "Computer science",
+        "Bounded function",
+        "Zero-knowledge proof"
+    ],
+    "references": [
+        "1516787997",
+        "1551611048",
+        "1582240307"
+    ]
+}

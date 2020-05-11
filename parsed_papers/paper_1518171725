@@ -1,0 +1,49 @@
+{
+    "id": "1518171725",
+    "title": "Feature Selection and Dualities in Maximum Entropy Discrimination",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Tony Jebara",
+            "id": "2048157592",
+            "org": "MIT Media Lab, Massachusetts Institute of Technology, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Tommi S. Jaakkola",
+            "id": "340253981",
+            "org": "MIT Media Lab, Massachusetts Institute of Technology, Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Exponential family",
+        "Mathematics",
+        "Support vector machine",
+        "Machine learning",
+        "Discriminative model",
+        "Invariant (mathematics)",
+        "Minimum redundancy feature selection",
+        "Principle of maximum entropy",
+        "Feature selection",
+        "Linear classifier",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "276626106",
+        "1849729440",
+        "1964357740",
+        "1983739894",
+        "1988790447",
+        "2107008379",
+        "2112076978",
+        "2133774033",
+        "2137512539",
+        "2148603752",
+        "2154834035",
+        "2160842254",
+        "2161767008",
+        "2161813919",
+        "2166473218"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1532385653",
+    "title": "Preterm Birth Risk Assessed by a New Method of Classifikation Using Selective Partial Matching",
+    "venue": "international syposium on methodologies for intelligent systems",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Jerzy W. Grzymala-Busse",
+            "id": "244148578",
+            "org": "University of Kansas"
+        },
+        {
+            "name": "Linda K. Goodwin",
+            "id": "2102537359",
+            "org": "Duke University"
+        },
+        {
+            "name": "Xiaohui Zhang",
+            "id": "2582549814",
+            "org": "University of Kansas"
+        }
+    ],
+    "fields_of_study": [
+        "Information processing",
+        "Knowledge extraction",
+        "Artificial intelligence",
+        "Rule induction",
+        "Data mining",
+        "Machine learning",
+        "Risk assessment",
+        "Knowledge acquisition",
+        "Computer science",
+        "Rough set"
+    ],
+    "references": [
+        "1565902562",
+        "2103537992",
+        "2340020088"
+    ]
+}

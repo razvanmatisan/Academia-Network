@@ -1,0 +1,41 @@
+{
+    "id": "1535453048",
+    "title": "Towards an Ontology for Open Source Software Development",
+    "venue": "open source systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Gregory L. Simmons",
+            "id": "2306859221",
+            "org": "Univeristy of Ballarat"
+        },
+        {
+            "name": "Tharam S. Dillon",
+            "id": "2121075939",
+            "org": "University of Technology Sydney"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Semantic network",
+        "Ontology",
+        "Systems engineering",
+        "Computer science",
+        "Suggested Upper Merged Ontology",
+        "Software development",
+        "Open-source software development",
+        "Categorization",
+        "Open platform",
+        "The Internet"
+    ],
+    "references": [
+        "1482031469",
+        "1576860613",
+        "1692244837",
+        "2026531221",
+        "2028561093",
+        "2108777707",
+        "2133109597",
+        "2166838101"
+    ]
+}

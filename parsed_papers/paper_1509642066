@@ -1,0 +1,35 @@
+{
+    "id": "1509642066",
+    "title": "A Modal Logic for Reasoning about Knowledge and Time on Binary Subset Trees",
+    "venue": "conference on automated deduction",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Bernhard Heinemann",
+            "id": "2054326254",
+            "org": "FernUniversitat"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Modal m-calculus",
+        "Algorithm",
+        "Dynamic logic (modal logic)",
+        "Normal modal logic",
+        "Multimodal logic",
+        "S5",
+        "Accessibility relation",
+        "Linear temporal logic",
+        "Mathematics",
+        "Intermediate logic"
+    ],
+    "references": [
+        "46309478",
+        "1619270605",
+        "1822333573",
+        "2006227387",
+        "2073491323",
+        "2146819619",
+        "2805767310"
+    ]
+}

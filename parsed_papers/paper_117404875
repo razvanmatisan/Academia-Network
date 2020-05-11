@@ -1,0 +1,54 @@
+{
+    "id": "117404875",
+    "title": "Lightweight Mobile Credit-Card Payment Protocol",
+    "venue": "international conference on cryptology in india",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Supakorn Kungpisdan",
+            "id": "2485116245",
+            "org": "Monash University"
+        },
+        {
+            "name": "Bala Srinivasan",
+            "id": "2139762218",
+            "org": "Monash University"
+        },
+        {
+            "name": "Phu Dung Le",
+            "id": "2122644592",
+            "org": "Monash University"
+        }
+    ],
+    "fields_of_study": [
+        "Internet protocol suite",
+        "Wireless Transport Layer Security",
+        "Wireless network",
+        "Wireless LAN controller",
+        "Wi-Fi array",
+        "Computer science",
+        "Wireless Routing Protocol",
+        "Link Control Protocol",
+        "Distributed computing",
+        "Computer network",
+        "Computer security",
+        "Internet Protocol Control Protocol"
+    ],
+    "references": [
+        "2110884",
+        "1481289499",
+        "1525750584",
+        "1541067596",
+        "1547228655",
+        "1565796408",
+        "1567919886",
+        "1768880805",
+        "1829701666",
+        "1977559319",
+        "2065448760",
+        "2124432603",
+        "2148848042",
+        "2153778899",
+        "2163793314"
+    ]
+}

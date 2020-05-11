@@ -1,0 +1,34 @@
+{
+    "id": "1508416889",
+    "title": "Proving Correctness wrt Specifications with Hidden Parts",
+    "venue": "Proceedings of the Second International Conference on Algebraic and Logic Programming",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Jordi Farres-Casals",
+            "id": "114350726",
+            "org": "University of Edinburgh, King's Buildings"
+        }
+    ],
+    "fields_of_study": [
+        "Correctness",
+        "Programming language",
+        "Algebraic specification",
+        "Specification language",
+        "Formal specification",
+        "Rule of inference",
+        "Formal verification",
+        "Computer science"
+    ],
+    "references": [
+        "1549434492",
+        "1558874663",
+        "1576273408",
+        "1601937816",
+        "2000825654",
+        "2035625685",
+        "2132371811",
+        "2155763716",
+        "2293815615"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "1575786379",
+    "title": "Hybrid numerical optimization for combinatorial network problems",
+    "venue": "HM'07 Proceedings of the 4th international conference on Hybrid metaheuristics",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Markus Chimani",
+            "id": "196521934",
+            "org": "Dortmund University, Dortmund, Germany#TAB#"
+        },
+        {
+            "name": "Maria Kandyba",
+            "id": "350715486",
+            "org": "Dortmund University, Dortmund, Germany#TAB#"
+        },
+        {
+            "name": "Mike Preuss",
+            "id": "2029975330",
+            "org": "Dortmund University, Dortmund, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multi-swarm optimization",
+        "Extremal optimization",
+        "Metaheuristic",
+        "Combinatorial optimization",
+        "Quadratic assignment problem",
+        "Mathematical optimization",
+        "Weapon target assignment problem",
+        "Lin-Kernighan heuristic",
+        "Machine learning",
+        "Artificial intelligence",
+        "Mathematics",
+        "Optimization problem"
+    ],
+    "references": [
+        "1485111065",
+        "1508569977",
+        "1576660662",
+        "1990317614",
+        "2119396705",
+        "2150834164"
+    ]
+}

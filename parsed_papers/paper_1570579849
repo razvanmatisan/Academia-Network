@@ -1,0 +1,32 @@
+{
+    "id": "1570579849",
+    "title": "Knowledge acquisition in the consul system",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1981,
+    "authors": [
+        {
+            "name": "David Wilczynski",
+            "id": "2682336927",
+            "org": "lnformation Sciences Institute, USC, Marina Del Rey, California#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge base",
+        "Formalism (philosophy)",
+        "Knowledge extraction",
+        "Legal expert system",
+        "Rule of inference",
+        "Knowledge acquisition",
+        "Knowledge-based systems",
+        "Data mining",
+        "Computer science",
+        "Knowledge management"
+    ],
+    "references": [
+        "11551098",
+        "152767428",
+        "1983113859",
+        "1984099573",
+        "2041289621"
+    ]
+}

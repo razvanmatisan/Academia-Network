@@ -1,0 +1,40 @@
+{
+    "id": "1586581523",
+    "title": "A New Linear Algorithm for the Two Path Problem on Chordal Graphs",
+    "venue": "foundations of software technology and theoretical computer science",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "S. V. Krishnan",
+            "id": "2598055255",
+            "org": "Indian Institute of Technology"
+        },
+        {
+            "name": "C. Pandu Rangan",
+            "id": "2304742061",
+            "org": "Indian Institute of Technology"
+        },
+        {
+            "name": "S. Seshadri",
+            "id": "2463055218",
+            "org": "Indian Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Pathwidth",
+        "Moral graph",
+        "Combinatorics",
+        "Indifference graph",
+        "Chordal graph",
+        "K-tree",
+        "Interval graph",
+        "Block graph",
+        "Computer science",
+        "Longest path problem"
+    ],
+    "references": [
+        "1872961854",
+        "1967565181",
+        "1976285925"
+    ]
+}

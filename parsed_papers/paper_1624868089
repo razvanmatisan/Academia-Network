@@ -1,0 +1,44 @@
+{
+    "id": "1624868089",
+    "title": "A systematic approach to classifier selection on combining multiple classifiers for handwritten digit recognition",
+    "venue": "international conference on document analysis and recognition",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Jongryeol Kim",
+            "id": "2223368097",
+            "org": "Dept. of Electron. Eng., Soongsil Univ., Seoul, South Korea"
+        },
+        {
+            "name": "Kukhwan Seo",
+            "id": "2127955744",
+            "org": "Dept . of Electronic En|Soongsil University"
+        },
+        {
+            "name": "Kyu-Sik Chung",
+            "id": "2166631648",
+            "org": "Dept . of Electronic En|Soongsil University"
+        }
+    ],
+    "fields_of_study": [
+        "Borda count",
+        "Computer science",
+        "Classifier (linguistics)",
+        "Random subspace method",
+        "Machine learning",
+        "Similarity measure",
+        "Cascading classifiers",
+        "Pattern recognition",
+        "Artificial neural network",
+        "Artificial intelligence",
+        "Numerical digit",
+        "Handwriting recognition"
+    ],
+    "references": [
+        "2102734279",
+        "2124680419",
+        "2126297944",
+        "2128374258",
+        "2164568552"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1518566442",
+    "title": "A formal approach to collaborations in the unified modeling language",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Gunnar Overgaard",
+            "id": "1265298086",
+            "org": "Royal Institute of Technology, Stockholm, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Modeling language",
+        "Object Constraint Language",
+        "Formal specification",
+        "Distributed computing",
+        "Class diagram",
+        "Systems Modeling Language",
+        "Applications of UML",
+        "UML tool",
+        "Programming language",
+        "Computer science",
+        "Communication diagram"
+    ],
+    "references": [
+        "1574837706",
+        "1582068322",
+        "2018568588",
+        "2111915847",
+        "2121163444",
+        "2127964314",
+        "2139907081",
+        "2149185259",
+        "2594909701",
+        "2802594886"
+    ]
+}

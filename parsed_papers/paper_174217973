@@ -1,0 +1,32 @@
+{
+    "id": "174217973",
+    "title": "Second international workshop on human behavior understanding: inducing behavioral change",
+    "venue": "ambient intelligence",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Albert Ali Salah",
+            "id": "2122728030",
+            "org": "Dept. of Computer Engineering, Bogazici University, Istanbul, Turkey#TAB#"
+        },
+        {
+            "name": "Bruno Lepri",
+            "id": "2087115458",
+            "org": "Fondazione Bruno Kessler, Trento, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Simulation",
+        "Signal processing",
+        "Interaction design",
+        "Human-computer interaction",
+        "Affective computing",
+        "Smart environment",
+        "Software",
+        "Ambient intelligence"
+    ],
+    "references": [
+        "2101498886"
+    ]
+}

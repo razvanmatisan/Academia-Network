@@ -1,0 +1,36 @@
+{
+    "id": "1643536255",
+    "title": "Clusters, Graphs, and Networks for Analysing Internet-Web-Supported Communication within a Virtual Community",
+    "venue": "arXiv: Artificial Intelligence",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Xavier Polanco",
+            "id": "2652221198",
+            "org": "INIST"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Evolving networks",
+        "Organizational network analysis",
+        "Data mining",
+        "Network science",
+        "Artificial intelligence",
+        "Computer science",
+        "Social network",
+        "Social network analysis",
+        "Data science",
+        "Complex network",
+        "The Internet",
+        "Dynamic network analysis"
+    ],
+    "references": [
+        "1500959893",
+        "1977001629",
+        "2005207065",
+        "2007278710",
+        "2008388219",
+        "2114581929"
+    ]
+}

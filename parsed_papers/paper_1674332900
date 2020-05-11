@@ -1,0 +1,30 @@
+{
+    "id": "1674332900",
+    "title": "Motion blur identification based on phase change experienced after trial restorations",
+    "venue": "international conference on image processing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Yao Jianchao",
+            "id": "1956098912",
+            "org": "Signal Process. Lab., DSO Nat. Lab., Singapore"
+        }
+    ],
+    "fields_of_study": [
+        "Noise",
+        "Computer vision",
+        "Image restoration",
+        "Phase change",
+        "Motion blur",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Wiener filter",
+        "Real image",
+        "Image registration",
+        "Computer science",
+        "Pulse (signal processing)"
+    ],
+    "references": [
+        "2120753013"
+    ]
+}

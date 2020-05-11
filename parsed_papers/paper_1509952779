@@ -1,0 +1,38 @@
+{
+    "id": "1509952779",
+    "title": "Covisibility-based map learning method for mobile robots",
+    "venue": "pacific rim international conference on artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Takehisa Yairi",
+            "id": "226036427",
+            "org": "Research Center for Advanced Science and Technology, University of Tokyo, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Mobile robot",
+        "Artificial intelligence",
+        "Computer science",
+        "Mobile robot navigation",
+        "Mobile computing",
+        "Computer vision",
+        "Automatic programming",
+        "Weighting"
+    ],
+    "references": [
+        "17822983",
+        "1550098664",
+        "1644054796",
+        "1912220522",
+        "1985397417",
+        "2030021468",
+        "2059039791",
+        "2095010934",
+        "2148916113",
+        "2154418813",
+        "2161808137",
+        "2168667965"
+    ]
+}

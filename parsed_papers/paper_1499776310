@@ -1,0 +1,41 @@
+{
+    "id": "1499776310",
+    "title": "Online learning for object recognition with a hierarchical visual cortex model",
+    "venue": "international conference on artificial neural networks",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Stephan Kirstein",
+            "id": "2162972755",
+            "org": "Honda Research Institute Europe GmbH, Offenbach am Main, Germany#TAB#"
+        },
+        {
+            "name": "Heiko Wersing",
+            "id": "84405521",
+            "org": "Honda Research Institute Europe GmbH, Offenbach am Main, Germany#TAB#"
+        },
+        {
+            "name": "Edgar Korner",
+            "id": "2138104453",
+            "org": "Honda Research Institute Europe GmbH, Offenbach am Main, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Form perception",
+        "Machine learning",
+        "Pattern recognition",
+        "Vector quantization",
+        "Hierarchy",
+        "Visual memory",
+        "Artificial intelligence",
+        "Visual short-term memory",
+        "Architecture",
+        "Cognitive neuroscience of visual object recognition",
+        "Computer science",
+        "Deep-sky object"
+    ],
+    "references": [
+        "1562083261",
+        "2166676140"
+    ]
+}

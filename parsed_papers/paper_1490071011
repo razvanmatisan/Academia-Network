@@ -1,0 +1,42 @@
+{
+    "id": "1490071011",
+    "title": "Imitation Learning Using Graphical Models",
+    "venue": "european conference on machine learning",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Deepak Verma",
+            "id": "2117727049",
+            "org": "Dept. of Computer Science & Engineering, University of Washington, Seattle, WA, USA#TAB#"
+        },
+        {
+            "name": "Rajesh P. N. Rao",
+            "id": "2142682212",
+            "org": "Dept. of Computer Science & Engineering, University of Washington, Seattle, WA, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Domain knowledge",
+        "Active learning (machine learning)",
+        "Semi-supervised learning",
+        "Expectation-maximization algorithm",
+        "Imitation",
+        "Statistical relational learning",
+        "State space",
+        "Machine learning",
+        "Artificial intelligence",
+        "Computer science",
+        "Graphical model"
+    ],
+    "references": [
+        "1496855202",
+        "1521332421",
+        "1540685400",
+        "1999874108",
+        "2061504687",
+        "2097113539",
+        "2097668489",
+        "2121863487",
+        "2169498096"
+    ]
+}

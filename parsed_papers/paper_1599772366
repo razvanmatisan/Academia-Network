@@ -1,0 +1,42 @@
+{
+    "id": "1599772366",
+    "title": "Indexing Problem Solving Methods for Reuse",
+    "venue": "knowledge acquisition modeling and management",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Joost Breuker",
+            "id": "2584656890",
+            "org": "University of Amsterdam"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Knowledge engineering",
+        "Reuse",
+        "Computer science",
+        "Theoretical computer science",
+        "Search engine indexing",
+        "Knowledge representation and reasoning",
+        "Position paper",
+        "Knowledge acquisition",
+        "Ontology (information science)",
+        "Indexation",
+        "Algorithm"
+    ],
+    "references": [
+        "206363057",
+        "1516940243",
+        "1564733196",
+        "1566799219",
+        "1571496888",
+        "2003116861",
+        "2038541897",
+        "2046490617",
+        "2052116093",
+        "2099452173",
+        "2100071989",
+        "2104627993",
+        "2437494761"
+    ]
+}

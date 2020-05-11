@@ -1,0 +1,30 @@
+{
+    "id": "1557602349",
+    "title": "Structure Prediction and Computation of Sparse Matrix Products",
+    "venue": "Journal of Combinatorial Optimization",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Edith Cohen",
+            "id": "2167811012",
+            "org": "AT&T Labs-Research,"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Time complexity",
+        "Mathematics",
+        "Computation",
+        "Mathematical optimization",
+        "Multiplication",
+        "Random matrix",
+        "Matrix multiplication",
+        "Matrix (mathematics)",
+        "Sparse matrix",
+        "Matrix chain multiplication"
+    ],
+    "references": [
+        "1979740015",
+        "2155508779"
+    ]
+}

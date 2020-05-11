@@ -1,0 +1,35 @@
+{
+    "id": "1598832989",
+    "title": "Beyond purpose-based privacy access control",
+    "venue": "australasian database conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Sabah Al-Fedaghi",
+            "id": "2082783681",
+            "org": "Kuwait University, Safat, Kuwait#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Personally identifiable information",
+        "Privacy software",
+        "Information flow (information theory)",
+        "Database",
+        "Information privacy",
+        "Privacy by Design",
+        "Hierarchy",
+        "Privacy policy",
+        "Access control",
+        "Computer science",
+        "Computer security",
+        "Internet privacy"
+    ],
+    "references": [
+        "82720887",
+        "1600441172",
+        "2060690494",
+        "2065246078",
+        "2081578468",
+        "2471491750"
+    ]
+}

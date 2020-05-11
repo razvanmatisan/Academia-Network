@@ -1,0 +1,33 @@
+{
+    "id": "1771982060",
+    "title": "Alternative Views on Knowledge: Presentation of Open Learner Models",
+    "venue": "intelligent tutoring systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Andrew Mabbott",
+            "id": "2007822030",
+            "org": "University of Birmingham"
+        },
+        {
+            "name": "Susan Bull",
+            "id": "2118966844",
+            "org": "University of Birmingham"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Artificial intelligence",
+        "Machine learning",
+        "Learning styles",
+        "Computer science",
+        "Knowledge representation and reasoning",
+        "Cognitive style"
+    ],
+    "references": [
+        "104561821",
+        "2083045440",
+        "2084602875",
+        "2150225696"
+    ]
+}

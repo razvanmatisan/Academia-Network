@@ -1,0 +1,30 @@
+{
+    "id": "1488856606",
+    "title": "The Measurement Process in Domain Theory",
+    "venue": "international colloquium on automata languages and programming",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Keye Martin",
+            "id": "2280716608",
+            "org": "Tulane University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Kakutani fixed-point theorem",
+        "Pure mathematics",
+        "Domain theory",
+        "Fixed-point theorem",
+        "Calculus",
+        "Fixed point",
+        "Fixed-point property",
+        "Mathematics",
+        "Schauder fixed point theorem",
+        "Least fixed point",
+        "Coincidence point"
+    ],
+    "references": [
+        "1984190214"
+    ]
+}

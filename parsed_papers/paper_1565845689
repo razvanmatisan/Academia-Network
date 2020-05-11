@@ -1,0 +1,32 @@
+{
+    "id": "1565845689",
+    "title": "Reducing Domains for Search in CLP(FD) and Its Application to Job-Shop Scheduling",
+    "venue": "principles and practice of constraint programming",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Hans-Joachim Goltz",
+            "id": "2632396003",
+            "org": "GMD-FIRST"
+        }
+    ],
+    "fields_of_study": [
+        "Fair-share scheduling",
+        "Computer science",
+        "Lottery scheduling",
+        "Two-level scheduling",
+        "Mathematical optimization",
+        "Deadline-monotonic scheduling",
+        "Job shop scheduling",
+        "Flow shop scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Rate-monotonic scheduling"
+    ],
+    "references": [
+        "1555523867",
+        "1624167604",
+        "1988095917",
+        "2063727779",
+        "2085891301"
+    ]
+}

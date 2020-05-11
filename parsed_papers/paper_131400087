@@ -1,0 +1,35 @@
+{
+    "id": "131400087",
+    "title": "IIS: A marriage of computational linguistics, psychology, and educational technologies",
+    "venue": "the florida ai research society",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Danielle S. McNamara",
+            "id": "2220320017",
+            "org": "University of Memphis"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Question answering",
+        "Language and Communication Technologies",
+        "Language technology",
+        "Artificial intelligence",
+        "Quantitative linguistics",
+        "Computational semantics",
+        "Temporal annotation",
+        "Computer science",
+        "Computational linguistics",
+        "Natural language user interface"
+    ],
+    "references": [
+        "26175609",
+        "119864338",
+        "184746663",
+        "1535015163",
+        "2117400858",
+        "2123169053",
+        "2158241055"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "148911248",
+    "title": "Using RDF(S) to provide multiple views into a single ontology",
+    "venue": "international semantic web conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Santtu Toivonen",
+            "id": "2705528946",
+            "org": "Sonera Corp., Research, Sonera, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "RDF",
+        "Data mining",
+        "RDF Schema",
+        "RDF/XML",
+        "Computer science",
+        "Simple Knowledge Organization System",
+        "SPARQL",
+        "Web Ontology Language",
+        "RDF query language",
+        "Cwm"
+    ],
+    "references": [
+        "1497682552",
+        "2062828083",
+        "2114063134",
+        "2133109597"
+    ]
+}

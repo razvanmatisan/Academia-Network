@@ -1,0 +1,44 @@
+{
+    "id": "1519394584",
+    "title": "Improved approximation algorithms for minimum-space advertisement scheduling",
+    "venue": "international colloquium on automata languages and programming",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Brian C. Dean",
+            "id": "2514401041",
+            "org": "M.I.T., Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Michel X. Goemans",
+            "id": "667657047",
+            "org": "M.I.T., Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nurse scheduling problem",
+        "Fair-share scheduling",
+        "Discrete mathematics",
+        "Advertising",
+        "Open-shop scheduling",
+        "Mathematical optimization",
+        "Job shop scheduling",
+        "Distributed computing",
+        "Dynamic priority scheduling",
+        "Multiprocessor scheduling",
+        "Rate-monotonic scheduling",
+        "Mathematics",
+        "Flow shop scheduling"
+    ],
+    "references": [
+        "1603910973",
+        "1992734168",
+        "2007535918",
+        "2008085146",
+        "2014369282",
+        "2046825771",
+        "2102201348",
+        "2104680817",
+        "2162870855"
+    ]
+}

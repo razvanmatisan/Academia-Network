@@ -1,0 +1,44 @@
+{
+    "id": "1608295874",
+    "title": "RDL-SET: An Expressive Constraint Language for OWL",
+    "venue": "database and expert systems applications",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Ming Fang",
+            "id": "2303577303",
+            "org": "Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA, USA"
+        },
+        {
+            "name": "Rajshekhar Sunderraman",
+            "id": "290991845",
+            "org": "Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge representation and reasoning",
+        "Database",
+        "OWL-S",
+        "Semantic Web Rule Language",
+        "F-logic",
+        "Semantic Web",
+        "Computer science",
+        "Natural language processing",
+        "Description logic",
+        "Ontology (information science)",
+        "Web Ontology Language",
+        "Artificial intelligence",
+        "Programming language"
+    ],
+    "references": [
+        "11793264",
+        "135897980",
+        "1488325354",
+        "1587067956",
+        "1599778614",
+        "1842985622",
+        "1913091358",
+        "2075950442",
+        "2175390224"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1558919105",
+    "title": "Multiobjective Optimization Using Evolutionary Algorithms - A Comparative Case Study",
+    "venue": "parallel problem solving from nature",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Eckart Zitzler",
+            "id": "177795906",
+            "org": "Swiss Federal Institute of Technology Zurich"
+        },
+        {
+            "name": "Lothar Thiele",
+            "id": "2156635946",
+            "org": "Swiss Federal Institute of Technology Zurich"
+        }
+    ],
+    "fields_of_study": [
+        "Evolutionary algorithm",
+        "Artificial intelligence",
+        "Machine learning",
+        "Comparative case",
+        "Genetic algorithm",
+        "Mathematical optimization",
+        "Constrained optimization",
+        "Knapsack problem",
+        "Combinatorial optimization",
+        "Computer science",
+        "Search algorithm",
+        "Multi-objective optimization"
+    ],
+    "references": [
+        "1530657679",
+        "1584887696",
+        "1639032689",
+        "1905847227",
+        "2116661285",
+        "2126926002",
+        "2140066605"
+    ]
+}

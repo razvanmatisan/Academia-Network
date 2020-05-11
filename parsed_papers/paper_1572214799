@@ -1,0 +1,33 @@
+{
+    "id": "1572214799",
+    "title": "Hierarchically Performed Hazard Origin and Propagation Studies",
+    "venue": "international conference on computer safety, reliability, and security",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Yiannis Papadopoulos",
+            "id": "2015212095",
+            "org": "University of York"
+        },
+        {
+            "name": "John A. McDermid",
+            "id": "2213027448",
+            "org": "University of York"
+        }
+    ],
+    "fields_of_study": [
+        "Reliability engineering",
+        "Computer science",
+        "Automotive electronics",
+        "Distributed computing",
+        "Fault tree analysis",
+        "Failure mode and effects analysis",
+        "Parse tree",
+        "Complex system",
+        "Functional failure",
+        "Hierarchical control system"
+    ],
+    "references": [
+        "1488202922"
+    ]
+}

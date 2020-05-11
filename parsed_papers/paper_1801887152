@@ -1,0 +1,32 @@
+{
+    "id": "1801887152",
+    "title": "Solving package dependencies: from EDOS to Mancoosi",
+    "venue": "arXiv: Software Engineering",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Ralf Treinen",
+            "id": "1959588479",
+            "org": "PPS"
+        },
+        {
+            "name": "Stefano Zacchiroli",
+            "id": "58786115",
+            "org": "PPS"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Quality assurance",
+        "Computer science",
+        "Component-based software engineering",
+        "Upgrade",
+        "European union",
+        "Interdependence",
+        "Software engineering"
+    ],
+    "references": [
+        "1518705996",
+        "2165094929"
+    ]
+}

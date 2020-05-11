@@ -1,0 +1,46 @@
+{
+    "id": "1605407652",
+    "title": "Resolution and Expressiveness of Subclasses of Quantified Boolean Formulas and Circuits",
+    "venue": "theory and applications of satisfiability testing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Hans Kleine Buning",
+            "id": "709620937",
+            "org": "Universitat Paderborn, Germany#TAB#"
+        },
+        {
+            "name": "Xishun Zhao",
+            "id": "2163756086",
+            "org": "Sun Yat-sen University Guangzhou, PR China#TAB#"
+        },
+        {
+            "name": "Uwe Bubeck",
+            "id": "166185736",
+            "org": "Universitat Paderborn, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Combinatorics",
+        "And-inverter graph",
+        "Standard Boolean model",
+        "True quantified Boolean formula",
+        "Two-element Boolean algebra",
+        "Boolean expression",
+        "Complete Boolean algebra",
+        "Product term",
+        "Karp-Lipton theorem",
+        "Mathematics"
+    ],
+    "references": [
+        "1513754266",
+        "1536944358",
+        "1544998733",
+        "1546929295",
+        "1976876676",
+        "2027576655",
+        "2042029993",
+        "2132638915"
+    ]
+}

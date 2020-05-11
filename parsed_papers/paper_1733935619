@@ -1,0 +1,38 @@
+{
+    "id": "1733935619",
+    "title": "Inverting the Abstraction Mapping: A Methodology for Hardware Verification",
+    "venue": "formal methods in computer aided design",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "David Cyrluk",
+            "id": "2421201338",
+            "org": "Stanford University"
+        },
+        {
+            "name": "David Cyrluk",
+            "id": "2421201338",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Correctness",
+        "Theoretical computer science",
+        "Software verification",
+        "Intelligent verification",
+        "Verification",
+        "High-level verification",
+        "Functional verification",
+        "Abstraction",
+        "Register file"
+    ],
+    "references": [
+        "18320342",
+        "1538310240",
+        "1577772892",
+        "1741528175",
+        "2113486906",
+        "2132107743"
+    ]
+}

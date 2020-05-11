@@ -1,0 +1,48 @@
+{
+    "id": "1564771228",
+    "title": "The hierarchy of LR-attributed grammars",
+    "venue": "WAGA Proceedings of the international conference on Attribute grammars and their applications",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Rieks op den Akker",
+            "id": "1981517855",
+            "org": "University of Twente"
+        },
+        {
+            "name": "Borivoj Melichar",
+            "id": "2051050942",
+            "org": "Czech Technical University"
+        },
+        {
+            "name": "Jorma Tarhio",
+            "id": "1992248001",
+            "org": "University of Helsinki"
+        }
+    ],
+    "fields_of_study": [
+        "Phrase structure grammar",
+        "Tree-adjoining grammar",
+        "Indexed grammar",
+        "Natural language processing",
+        "Definite clause grammar",
+        "Extended Affix Grammar",
+        "L-attributed grammar",
+        "Context-sensitive grammar",
+        "Mathematics",
+        "Context-free grammar",
+        "Pattern recognition",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "45315167",
+        "192208924",
+        "1594895836",
+        "1768003599",
+        "1964071625",
+        "1964805588",
+        "1978887554",
+        "1995211077",
+        "2031824326"
+    ]
+}

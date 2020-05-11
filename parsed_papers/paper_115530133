@@ -1,0 +1,33 @@
+{
+    "id": "115530133",
+    "title": "OCLLib, OCLUnit, OCLDoc: Pragmatic Extensions for the Object Constraint Language",
+    "venue": "model driven engineering languages and systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Joanna Chimiak-Opoka",
+            "id": "2177270416",
+            "org": "Institute of Computer Science, University of Innsbruck, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Object Constraint Language",
+        "Reuse",
+        "Theoretical computer science",
+        "Domain specificity",
+        "Natural language processing",
+        "Unified Modeling Language",
+        "Computer science",
+        "Expression (mathematics)",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1542722155",
+        "1982313944",
+        "2012340625",
+        "2023762547",
+        "2131263787",
+        "2147521717",
+        "2149230051"
+    ]
+}

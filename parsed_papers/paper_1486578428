@@ -1,0 +1,37 @@
+{
+    "id": "1486578428",
+    "title": "A Smoothing Filter for CONDENSATION",
+    "venue": "european conference on computer vision",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Michael Isard",
+            "id": "2004792601",
+            "org": "University of Oxford"
+        },
+        {
+            "name": "Andrew Blake",
+            "id": "2191458383",
+            "org": "University of Oxford"
+        }
+    ],
+    "fields_of_study": [
+        "Probability distribution",
+        "Signal processing",
+        "Artificial intelligence",
+        "Computer vision",
+        "Clutter",
+        "Image processing",
+        "Conditioning",
+        "Smoothing",
+        "Particle filter",
+        "Edge detection",
+        "Mathematics"
+    ],
+    "references": [
+        "1560013842",
+        "1605884429",
+        "2120329636",
+        "2615953416"
+    ]
+}

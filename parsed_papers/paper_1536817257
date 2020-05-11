@@ -1,0 +1,32 @@
+{
+    "id": "1536817257",
+    "title": "Combination of Distributed Search and Multi-search in Peers-mcd.d",
+    "venue": "international joint conference on automated reasoning",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Maria Paola Bonacina",
+            "id": "669130765",
+            "org": "The University of Iowa"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Modulo",
+        "Algorithm",
+        "Commutative property",
+        "Gas meter prover",
+        "Equational logic",
+        "Associative property",
+        "Mathematics"
+    ],
+    "references": [
+        "81256607",
+        "1481693958",
+        "1494270745",
+        "1538336754",
+        "1995619750",
+        "1996282604",
+        "2024973091"
+    ]
+}

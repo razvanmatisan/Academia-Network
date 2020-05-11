@@ -1,0 +1,38 @@
+{
+    "id": "1559164640",
+    "title": "Geospatial semantic Web: architecture of ontologies",
+    "venue": "ieee aerospace conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "D. Kolas",
+            "id": "2885591049",
+            "org": "BBN Technol., Arlington, VA"
+        },
+        {
+            "name": "M. Dean",
+            "id": "2886105367",
+            "org": "BBN Technol., Arlington, VA"
+        },
+        {
+            "name": "J. Hebeler",
+            "id": "2885228430",
+            "org": "BBN Technol., Arlington, VA"
+        }
+    ],
+    "fields_of_study": [
+        "Semantic technology",
+        "Geospatial metadata",
+        "Geospatial analysis",
+        "Geospatial PDF",
+        "Geography Markup Language",
+        "Web Coverage Service",
+        "Data mining",
+        "Semantic Web",
+        "Ontology (information science)",
+        "Computer science"
+    ],
+    "references": [
+        "2161536823"
+    ]
+}

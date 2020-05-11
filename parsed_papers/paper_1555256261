@@ -1,0 +1,41 @@
+{
+    "id": "1555256261",
+    "title": "An OR Parallel Prolog Model for Distributed Memory Systems",
+    "venue": "international symposium on programming language implementation and logic programming",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Vicente Benjumea",
+            "id": "2076883931",
+            "org": "Universidad de Malaga"
+        },
+        {
+            "name": "Jose M. Troya",
+            "id": "2157906994",
+            "org": "Universidad de Malaga"
+        }
+    ],
+    "fields_of_study": [
+        "Flat memory model",
+        "Distributed shared memory",
+        "Parallel computing",
+        "Data diffusion machine",
+        "Distributed concurrency control",
+        "Distributed memory",
+        "Supercomputer architecture",
+        "Uniform memory access",
+        "Shared memory",
+        "Distributed computing",
+        "Computer science"
+    ],
+    "references": [
+        "23752547",
+        "25559139",
+        "35848413",
+        "191670929",
+        "1570280013",
+        "2019566724",
+        "2028543183",
+        "2159919347"
+    ]
+}

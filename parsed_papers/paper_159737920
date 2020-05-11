@@ -1,0 +1,37 @@
+{
+    "id": "159737920",
+    "title": "High Performance Computing Trends and Self Adapting Numerical Software",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jack J. Dongarra",
+            "id": "288512535",
+            "org": "University of Tennessee"
+        },
+        {
+            "name": "Jack J. Dongarra",
+            "id": "288512535",
+            "org": "University of Tennessee"
+        }
+    ],
+    "fields_of_study": [
+        "Square inch",
+        "Parallel computing",
+        "Order of magnitude",
+        "FLOPS",
+        "Computer science",
+        "Floating point",
+        "Integrated circuit",
+        "Message Passing Interface",
+        "Loop nest optimization",
+        "Supercomputer"
+    ],
+    "references": [
+        "1518969538",
+        "1964031104",
+        "1965351873",
+        "2096070062",
+        "2158182626"
+    ]
+}

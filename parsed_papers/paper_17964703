@@ -1,0 +1,31 @@
+{
+    "id": "17964703",
+    "title": "Elaboration tolerance of logical theories",
+    "venue": "national conference on artificial intelligence",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Eyal Amir",
+            "id": "2097512048",
+            "org": "Department of Computer Science|Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Machine learning",
+        "Knowledge base",
+        "Toy problem",
+        "Formal system",
+        "Axiom",
+        "Oracle",
+        "Knowledge representation and reasoning",
+        "Inductive logic programming",
+        "Computer science",
+        "Elaboration",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "84120850",
+        "1525412541"
+    ]
+}

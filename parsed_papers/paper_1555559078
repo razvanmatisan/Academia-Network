@@ -1,0 +1,43 @@
+{
+    "id": "1555559078",
+    "title": "An efficient web page allocation on a server using adaptive neural networks",
+    "venue": "asia-pacific web conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Yuan Youwei",
+            "id": "2311605634",
+            "org": "Department of Computer science and technology, ZhuZhou Institute of technology, ZhuZhou, HuNan, China#TAB#"
+        },
+        {
+            "name": "Yan Lamei",
+            "id": "2352028588",
+            "org": "Department of Computer science and technology, ZhuZhou Institute of technology, ZhuZhou, HuNan, China#TAB#"
+        },
+        {
+            "name": "Guo Qingping",
+            "id": "2060588993",
+            "org": "School of Computer Science and Technology, Wuhan University of Technology, Wuhan, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Data mining",
+        "Database",
+        "Instruction prefetch",
+        "Artificial neural network",
+        "Web page",
+        "Cache",
+        "Web server",
+        "Computer science",
+        "Rewrite engine"
+    ],
+    "references": [
+        "142559593",
+        "1536034783",
+        "1973764493",
+        "1973861090",
+        "2138543759",
+        "2148275477"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1599102033",
+    "title": "Human face detection using skin color context awareness and context-based bayesian classifiers",
+    "venue": "international conference on knowledge based and intelligent information and engineering systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Mi Young Nam",
+            "id": "2102398070",
+            "org": "Dept. of Computer Science & Engineering, Inha University, Incheon, Korea#TAB#"
+        },
+        {
+            "name": "Phill Kyu Rhee",
+            "id": "2075944197",
+            "org": "Dept. of Computer Science & Engineering, Inha University, Incheon, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Object model",
+        "Face detection",
+        "Object-class detection",
+        "Scaling",
+        "Object detection",
+        "Naive Bayes classifier",
+        "Computer vision",
+        "Context awareness",
+        "Viola-Jones object detection framework",
+        "Artificial intelligence",
+        "Computer science",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1555563476",
+        "1577996138",
+        "1973058695",
+        "1981176352",
+        "2121601095",
+        "2126178892",
+        "2133860751",
+        "2140274257",
+        "2153746365",
+        "2158703378",
+        "2163095562",
+        "2166770390"
+    ]
+}

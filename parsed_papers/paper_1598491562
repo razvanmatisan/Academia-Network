@@ -1,0 +1,32 @@
+{
+    "id": "1598491562",
+    "title": "Game Semantics for Programming Languages (Abstract)",
+    "venue": "mathematical foundations of computer science",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Samson Abramsky",
+            "id": "2147258895",
+            "org": "University of Edinburgh Laboratory for the Foundations of Computer Science UK UK"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Denotational semantics",
+        "Comparison of multi-paradigm programming languages",
+        "Fifth-generation programming language",
+        "Action semantics",
+        "Programming language theory",
+        "Programming language",
+        "Second-generation programming language",
+        "Third-generation programming language",
+        "Well-founded semantics",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1554525902",
+        "1555305123",
+        "2165446401"
+    ]
+}

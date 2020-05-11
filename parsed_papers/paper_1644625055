@@ -1,0 +1,45 @@
+{
+    "id": "1644625055",
+    "title": "Tool-supported method for the extraction of OCL from ORM models",
+    "venue": "business information systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Sergejus Sosunovas",
+            "id": "191970909",
+            "org": "Vilnius Gediminas Technical University, Vilnius, Lithuania#TAB#"
+        },
+        {
+            "name": "Olegas Vasilecas",
+            "id": "202569468",
+            "org": "Vilnius Gediminas Technical University, Vilnius, Lithuania#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Object Constraint Language",
+        "Relational database",
+        "Conceptual model",
+        "Computer science",
+        "Metamodeling",
+        "Unified Modeling Language",
+        "Database",
+        "Applications of UML",
+        "UML tool",
+        "Programming language",
+        "Object-oriented programming"
+    ],
+    "references": [
+        "26720473",
+        "202033911",
+        "287639910",
+        "1516692410",
+        "1539789790",
+        "1574831287",
+        "1604646009",
+        "1606361859",
+        "2114729606",
+        "2127335200",
+        "2169954581",
+        "2583996767"
+    ]
+}

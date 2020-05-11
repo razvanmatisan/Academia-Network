@@ -1,0 +1,45 @@
+{
+    "id": "1595206261",
+    "title": "Hierarchical verification in maude of Lf P software architectures",
+    "venue": "european conference on software architecture",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Chadlia Jerad",
+            "id": "290754112",
+            "org": "LSTS, ENIT, Tunis, Tunisia#TAB#"
+        },
+        {
+            "name": "Kamel Barkaoui",
+            "id": "412984742",
+            "org": "CEDRIC, CNAM, France#TAB#"
+        },
+        {
+            "name": "Amel Grissa Touzi",
+            "id": "2113439754",
+            "org": "LSTS, ENIT, Tunis, Tunisia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Resource-oriented architecture",
+        "Software construction",
+        "Software design description",
+        "Software system",
+        "Component-based software engineering",
+        "Real-time Control System Software",
+        "Theoretical computer science",
+        "Software verification and validation",
+        "Computer science",
+        "Hierarchical control system"
+    ],
+    "references": [
+        "1482234031",
+        "1992353213",
+        "2096743457",
+        "2127595607",
+        "2131777879",
+        "2150380013",
+        "2162366870"
+    ]
+}

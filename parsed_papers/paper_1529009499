@@ -1,0 +1,38 @@
+{
+    "id": "1529009499",
+    "title": "System Description: The MathWeb Software Bus for Distributed Mathematical Reasoning",
+    "venue": "conference on automated deduction",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jurgen Zimmer",
+            "id": "2133635954",
+            "org": "Universitat des Saarlandes"
+        },
+        {
+            "name": "Michael Kohlhase",
+            "id": "59090315",
+            "org": "Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Computer science",
+        "Distributed algorithm",
+        "Reasoning system",
+        "Automated reasoning",
+        "Software bus",
+        "Theoretical computer science",
+        "Software",
+        "Automated theorem proving",
+        "Syntax",
+        "Proof assistant"
+    ],
+    "references": [
+        "1511527545",
+        "1516383020",
+        "1534850143",
+        "1768790486",
+        "2149236366"
+    ]
+}

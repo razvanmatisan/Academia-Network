@@ -1,0 +1,35 @@
+{
+    "id": "1495014783",
+    "title": "RDF Support in the Virtuoso DBMS",
+    "venue": "CSSW",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Orri Erling",
+            "id": "1986356410",
+            "org": "OpenLink Software"
+        },
+        {
+            "name": "Ivan Mikhailov",
+            "id": "2480960764",
+            "org": "OpenLink Software"
+        }
+    ],
+    "fields_of_study": [
+        "RDF",
+        "Relational database",
+        "Linked data",
+        "Database",
+        "RDF/XML",
+        "RDF Schema",
+        "SQL",
+        "RDF query language",
+        "SPARQL",
+        "Computer science"
+    ],
+    "references": [
+        "1586197708",
+        "1603008345",
+        "1989009626"
+    ]
+}

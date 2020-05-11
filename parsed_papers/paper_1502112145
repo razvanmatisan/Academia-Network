@@ -1,0 +1,30 @@
+{
+    "id": "1502112145",
+    "title": "Tiered Tagging and Combined Language Models Classifiers",
+    "venue": "text speech and dialogue",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Dan Tufis",
+            "id": "39990776",
+            "org": "RACAI-Romanian Academy"
+        }
+    ],
+    "fields_of_study": [
+        "Speech recognition",
+        "Computer science",
+        "Artificial intelligence",
+        "Natural language",
+        "Natural language processing",
+        "Classifier (linguistics)",
+        "Specification language",
+        "Language model",
+        "Possessive"
+    ],
+    "references": [
+        "1857972659",
+        "2130636661",
+        "2167277498",
+        "2249186037"
+    ]
+}

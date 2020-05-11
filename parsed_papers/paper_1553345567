@@ -1,0 +1,47 @@
+{
+    "id": "1553345567",
+    "title": "Integration of distributed biological data using modified K-means algorithm",
+    "venue": "international conference on emerging technologies",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Jongil Jeong",
+            "id": "2585200115",
+            "org": "Department of Computer Science and Engineering, Sejong University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Byunggul Ryu",
+            "id": "2488928715",
+            "org": "Department of Computer Science and Engineering, Sejong University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Dongil Shin",
+            "id": "2196796976",
+            "org": "Department of Computer Science and Engineering, Sejong University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Dongkyoo Shin",
+            "id": "2169981458",
+            "org": "Department of Computer Science and Engineering, Sejong University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Cluster analysis",
+        "Constrained clustering",
+        "Distributed algorithm",
+        "Clustering high-dimensional data",
+        "CURE data clustering algorithm",
+        "Biological data",
+        "Machine learning",
+        "Data stream clustering",
+        "Data mining",
+        "Canopy clustering algorithm",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1558665061",
+        "1963820332",
+        "2040288064"
+    ]
+}

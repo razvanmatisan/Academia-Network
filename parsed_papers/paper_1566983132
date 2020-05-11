@@ -1,0 +1,41 @@
+{
+    "id": "1566983132",
+    "title": "Refinement of concurrent systems based on local state transformations",
+    "venue": "rex workshop on stepwise refinement of distributed systems models formalisms correctness",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Lucia Pomello",
+            "id": "1984670930",
+            "org": "Dipartimento di Scienze dell'Informazione"
+        }
+    ],
+    "fields_of_study": [
+        "Equivalence (measure theory)",
+        "Discrete mathematics",
+        "Support function",
+        "Equivalence class",
+        "Subclass",
+        "Observable",
+        "State space",
+        "Petri net",
+        "Computer science",
+        "Preorder"
+    ],
+    "references": [
+        "122760469",
+        "1534926211",
+        "1547562281",
+        "1550595681",
+        "1560779502",
+        "1571377821",
+        "1897234491",
+        "2043801088",
+        "2102097307",
+        "2120488430",
+        "2143971703",
+        "2157144873",
+        "2167004912",
+        "2173042133"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "1577968989",
+    "title": "Using local search for guiding enumeration in constraint solving",
+    "venue": "artificial intelligence methodology systems applications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Eric Monfroy",
+            "id": "2761383087",
+            "org": "Universidad Tecnica Federico Santa Maria, Valparaiso, Chile#TAB#"
+        },
+        {
+            "name": "Carlos Castro",
+            "id": "2172020609",
+            "org": "Universidad Tecnica Federico Santa Maria, Valparaiso, Chile#TAB#"
+        },
+        {
+            "name": "Broderick Crawford",
+            "id": "2799199811",
+            "org": "Universidad Tecnica Federico Santa Maria, Valparaiso, Chile#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint programming",
+        "Machine learning",
+        "Computer science",
+        "Artificial intelligence",
+        "Constrained optimization",
+        "Enumeration",
+        "Mathematical optimization",
+        "Guided Local Search",
+        "Feature selection",
+        "Local search (optimization)",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "186144393",
+        "1495369628",
+        "1547723318",
+        "1552149373",
+        "1555523867",
+        "1591939288",
+        "1603180966",
+        "1733489975",
+        "2095435811",
+        "2161744562"
+    ]
+}

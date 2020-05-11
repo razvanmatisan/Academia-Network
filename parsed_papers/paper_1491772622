@@ -1,0 +1,35 @@
+{
+    "id": "1491772622",
+    "title": "Composition: A Way to Make Proofs Harder",
+    "venue": "international symposium on compositionality significant difference",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Leslie Lamport",
+            "id": "2096750770",
+            "org": "Digital Equipment Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical proof",
+        "Engineering design process",
+        "Reasoning system",
+        "Algorithm",
+        "Predicate logic",
+        "Composition (visual arts)",
+        "Theoretical computer science",
+        "Decomposition theorem",
+        "Computer science",
+        "Temporal logic"
+    ],
+    "references": [
+        "1498414460",
+        "1964727056",
+        "2015688007",
+        "2132107743",
+        "2132334337",
+        "2144738461",
+        "2295903464",
+        "2296232480"
+    ]
+}

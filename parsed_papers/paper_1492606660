@@ -1,0 +1,35 @@
+{
+    "id": "1492606660",
+    "title": "Service Responsibility Tables: A New Tool for Analyzing and Designing Systems",
+    "venue": "americas conference on information systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Steven Alter",
+            "id": "1979115484",
+            "org": "Association for Information Systems"
+        }
+    ],
+    "fields_of_study": [
+        "Management science",
+        "Service level objective",
+        "Service design",
+        "Service level requirement",
+        "Computer science",
+        "Systems analysis",
+        "Application service provider",
+        "Service delivery framework",
+        "Service provider",
+        "Work systems"
+    ],
+    "references": [
+        "1536738883",
+        "1585948735",
+        "1964555080",
+        "1971666718",
+        "1980387530",
+        "1986342936",
+        "2020888456",
+        "2033487759"
+    ]
+}

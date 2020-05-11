@@ -1,0 +1,38 @@
+{
+    "id": "1603273291",
+    "title": "An efficient rate allocation algorithm for ATM networks providing max-min fairness",
+    "venue": "Proceedings of the IFIP Sixth International Conference on High Performance Networking VI",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Lampros Kalampoukas",
+            "id": "2897387613",
+            "org": "University of California"
+        },
+        {
+            "name": "Anujan Varma",
+            "id": "2897848835",
+            "org": "University of California"
+        },
+        {
+            "name": "K. K. Ramakrishnan",
+            "id": "2133259603",
+            "org": "AT&T Bell Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Max-min fairness",
+        "Throughput",
+        "Network congestion",
+        "Virtual circuit",
+        "Computer network",
+        "Algorithm",
+        "Bandwidth (signal processing)",
+        "Real-time computing",
+        "Available bit rate",
+        "Computer science"
+    ],
+    "references": [
+        "2057788092"
+    ]
+}

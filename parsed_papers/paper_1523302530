@@ -1,0 +1,30 @@
+{
+    "id": "1523302530",
+    "title": "Evaluation of ontologies",
+    "venue": "International Journal of Intelligent Systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Asuncion Gomez-Perez",
+            "id": "2247736927",
+            "org": "Facultad de Informatica, Universidad Politecnica de Madrid, Campus de Montegancedo sn., Boadilla del Monte, 28660, Madrid, Spain"
+        }
+    ],
+    "fields_of_study": [
+        "Domain knowledge",
+        "Knowledge base",
+        "Process ontology",
+        "Semantics",
+        "Data mining",
+        "Knowledge representation and reasoning",
+        "IDEF5",
+        "Mathematics",
+        "Ontology (information science)",
+        "Knowledge-based systems"
+    ],
+    "references": [
+        "2020514031",
+        "2124957697",
+        "2133109597"
+    ]
+}

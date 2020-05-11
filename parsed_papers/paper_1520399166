@@ -1,0 +1,38 @@
+{
+    "id": "1520399166",
+    "title": "Lattice Attacks on Digital Signature Schemes",
+    "venue": "Designs, Codes and Cryptography",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Nick Howgrave-Graham",
+            "id": "700721243",
+            "org": "IBM, T. J. Watson Research Center, 30 Saw Mill River Road, Hawthorne, NY 10532 nahg@watson.ibm.com#TAB#"
+        },
+        {
+            "name": "Nigel P. Smart",
+            "id": "2110748698",
+            "org": "Department of Computer Science, Woodland Road, Bristol University, Bristol, BS8 1UB nigel@cs.bris.ac.uk#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Discrete mathematics",
+        "Merkle signature scheme",
+        "Ring signature",
+        "Digital Signature Algorithm",
+        "ElGamal signature scheme",
+        "Schnorr signature",
+        "EdDSA",
+        "Blind signature",
+        "Elliptic Curve Digital Signature Algorithm"
+    ],
+    "references": [
+        "1490144225",
+        "1550863203",
+        "1580599221",
+        "2101040389",
+        "2108834246",
+        "2147906334"
+    ]
+}

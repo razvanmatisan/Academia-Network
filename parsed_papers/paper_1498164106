@@ -1,0 +1,38 @@
+{
+    "id": "1498164106",
+    "title": "Evaluation of bandwidth broker signaling",
+    "venue": "international conference on network protocols",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Manuel Gunter",
+            "id": "2107414648",
+            "org": "Inst. of Comput. Sci. & Appl. Math., Bern Univ., Switzerland"
+        },
+        {
+            "name": "Torsten Braun",
+            "id": "2178118525",
+            "org": "Inst. of Comput. Sci. & Appl. Math., Bern Univ., Switzerland"
+        }
+    ],
+    "fields_of_study": [
+        "Integrated services",
+        "Distributed computing",
+        "Computer science",
+        "Computer network",
+        "Service-level agreement",
+        "Quality of service",
+        "Broker Pattern",
+        "Differentiated services",
+        "Architecture",
+        "Provisioning",
+        "Bandwidth Broker"
+    ],
+    "references": [
+        "1731982387",
+        "1875268620",
+        "1935220226",
+        "2123138012",
+        "2123318721"
+    ]
+}

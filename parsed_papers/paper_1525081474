@@ -1,0 +1,46 @@
+{
+    "id": "1525081474",
+    "title": "Towards Measuring Key Performance Indicators of Semantic Business Processes",
+    "venue": "business information systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Branimir Wetzstein",
+            "id": "1988725613",
+            "org": "University of Stuttgart"
+        },
+        {
+            "name": "Zhilei Ma",
+            "id": "2148000578",
+            "org": "University of Stuttgart"
+        },
+        {
+            "name": "Frank Leymann",
+            "id": "2127483189",
+            "org": "University of Stuttgart"
+        }
+    ],
+    "fields_of_study": [
+        "Business process",
+        "Business activity monitoring",
+        "Performance indicator",
+        "Knowledge management",
+        "Business process discovery",
+        "Performance measurement",
+        "Business process modeling",
+        "Computer science",
+        "Artifact-centric business process model",
+        "Business process management",
+        "Process management"
+    ],
+    "references": [
+        "1561433714",
+        "1591904264",
+        "1939916755",
+        "1967734758",
+        "1978341366",
+        "2105102860",
+        "2106228016",
+        "2136465704"
+    ]
+}

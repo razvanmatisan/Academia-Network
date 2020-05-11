@@ -1,0 +1,52 @@
+{
+    "id": "1573054556",
+    "title": "Keep the decision tree and estimate the class probabilities using its decision boundary",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Isabelle Alvarez",
+            "id": "2778316007",
+            "org": "LIP6, Paris VI University, Paris, France and Cemagref, LISC, Aubiere, France#TAB#"
+        },
+        {
+            "name": "Stephan Bernard",
+            "id": "2233561966",
+            "org": "Cemagref, LISC, Aubiere, France#TAB#"
+        },
+        {
+            "name": "Guillaume Deffuant",
+            "id": "48768655",
+            "org": "Cemagref, LISC, Aubiere, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Statistics",
+        "Machine learning",
+        "Artificial intelligence",
+        "Weighted sum model",
+        "Decision tree",
+        "Order statistic tree",
+        "Incremental decision tree",
+        "ID3 algorithm",
+        "Decision tree learning",
+        "Interval tree",
+        "Vantage-point tree",
+        "Mathematics",
+        "Pattern recognition"
+    ],
+    "references": [
+        "27255796",
+        "203696055",
+        "1509515766",
+        "1538957915",
+        "1549238650",
+        "1559060276",
+        "1598033630",
+        "1602363634",
+        "2089933214",
+        "2101499181",
+        "2125055259",
+        "2155653793"
+    ]
+}

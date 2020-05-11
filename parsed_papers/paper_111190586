@@ -1,0 +1,35 @@
+{
+    "id": "111190586",
+    "title": "All they know: a study in multi-agent autoepistemic reasoning",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Gerhard Lakemeyer",
+            "id": "10380012",
+            "org": "Institute of Computer Science III, University of Bonn, Bonn 1, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Stable model semantics",
+        "Intelligent agent",
+        "Deductive reasoning",
+        "Non-monotonic logic",
+        "Probabilistic logic network",
+        "Finite set",
+        "Possible world",
+        "Artificial intelligence",
+        "Mathematics",
+        "Autoepistemic logic"
+    ],
+    "references": [
+        "169098792",
+        "1966552757",
+        "1991972474",
+        "2016917647",
+        "2076073997",
+        "2108812462",
+        "2128070187"
+    ]
+}

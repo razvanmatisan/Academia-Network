@@ -1,0 +1,43 @@
+{
+    "id": "121484681",
+    "title": "Semidefinite Optimization Approaches for Satisfiability and Maximum-Satisfiability Problems",
+    "venue": "Journal on Satisfiability, Boolean Modeling and Computation",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Miguel F. Anjos",
+            "id": "2157577219",
+            "org": "University of Waterloo"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Discrete mathematics",
+        "Approximation algorithm",
+        "Mathematical optimization",
+        "Quadratically constrained quadratic program",
+        "Semidefinite embedding",
+        "Satisfiability",
+        "Special case",
+        "Semidefinite programming",
+        "Polynomial",
+        "Optimization problem"
+    ],
+    "references": [
+        "1576805635",
+        "1951390451",
+        "1970193303",
+        "1974563688",
+        "1987579904",
+        "1999032440",
+        "2018025029",
+        "2036265926",
+        "2050091725",
+        "2078289947",
+        "2080263450",
+        "2092931458",
+        "2106264302",
+        "2109039359",
+        "2137373403"
+    ]
+}

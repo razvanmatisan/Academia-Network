@@ -1,0 +1,34 @@
+{
+    "id": "1580559590",
+    "title": "A Toolkit for Application Deployment on the Grid",
+    "venue": "networked digital technologies",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jie Tao",
+            "id": "2429299179",
+            "org": "Karlsruhe Institute of Technology"
+        },
+        {
+            "name": "Holger Marten",
+            "id": "1995982134",
+            "org": "Karlsruhe Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Software deployment",
+        "Grid",
+        "Context menu",
+        "Data mining",
+        "Grid computing",
+        "Database",
+        "Graphical user interface",
+        "Computer science"
+    ],
+    "references": [
+        "1555993967",
+        "2037935247",
+        "2126436545",
+        "2154010459"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1576539718",
+    "title": "Internet Traffic Characterization - An Analysis of Traffic Oscillations",
+    "venue": "international conference on communications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Philippe Owezarski",
+            "id": "310176607",
+            "org": "LAAS - CNRS"
+        },
+        {
+            "name": "Nicolas Larrieu",
+            "id": "139322015",
+            "org": "LAAS - CNRS"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "Internet traffic engineering",
+        "Traffic generation model",
+        "Quality of service",
+        "Traffic shaping",
+        "Network traffic control",
+        "Internet Protocol",
+        "Distributed computing",
+        "Internet traffic",
+        "Computer science",
+        "The Internet"
+    ],
+    "references": [
+        "2102616700",
+        "2146320425",
+        "2163093107",
+        "2166082483"
+    ]
+}

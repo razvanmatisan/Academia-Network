@@ -1,0 +1,43 @@
+{
+    "id": "1494280801",
+    "title": "Investigating Neural Network Efficiency and Structure by Weight Investigation",
+    "venue": "Advances in Computational Intelligence and Learning: Methods and Applications",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Martin Lefley",
+            "id": "2071129722",
+            "org": "Bournemouth University"
+        },
+        {
+            "name": "Tom Kinsella",
+            "id": "2510273885",
+            "org": "Bournemouth University"
+        }
+    ],
+    "fields_of_study": [
+        "Fuzzy set",
+        "Artificial neural network",
+        "Salience (neuroscience)",
+        "Architecture",
+        "Solution architecture",
+        "Time delay neural network",
+        "Machine learning",
+        "Theoretical computer science",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "2000344228",
+        "2098693229",
+        "2113341759",
+        "2114766824",
+        "2116165535",
+        "2123687672",
+        "2135463994",
+        "2145085734",
+        "2153827974",
+        "2158277584",
+        "2166915851"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1600308245",
+    "title": "A document image preprocessing system for keyword spotting",
+    "venue": "acm international conference on digital libraries",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Cheol-Won Jeong",
+            "id": "2346904903",
+            "org": "Department of Computer Science, Chonnam National University, Gwangju, Korea#TAB#"
+        },
+        {
+            "name": "Soo-Hyung Kim",
+            "id": "2152015745",
+            "org": "Department of Computer Science, Chonnam National University, Gwangju, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Keyword spotting",
+        "Information retrieval",
+        "Document layout analysis",
+        "Speech recognition",
+        "Document retrieval",
+        "Distributed computing",
+        "Visual Word",
+        "Text segmentation",
+        "Document processing",
+        "Image retrieval",
+        "Computer science",
+        "Information science"
+    ],
+    "references": [
+        "2051260394",
+        "2100687812",
+        "2128119911"
+    ]
+}

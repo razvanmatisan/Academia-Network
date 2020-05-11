@@ -1,0 +1,39 @@
+{
+    "id": "1774715503",
+    "title": "On single and multiple models of protein families for the detection of remote sequence relationships",
+    "venue": "BMC Bioinformatics",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "James A. Casbon",
+            "id": "2741730393",
+            "org": "Bioinformatics Group, Institute of Cell and Molecular Science, The Genome Centre, Queen Mary's School of Medicine and Dentistry, London, UK"
+        },
+        {
+            "name": "Mansoor A. S. Saqi",
+            "id": "674972326",
+            "org": "Bioinformatics Group, Institute of Cell and Molecular Science, The Genome Centre, Queen Mary's School of Medicine and Dentistry, London, UK"
+        }
+    ],
+    "fields_of_study": [
+        "Sequence analysis",
+        "Genetics",
+        "Alignment-free sequence analysis",
+        "Bioinformatics",
+        "Multiple sequence alignment",
+        "Sequence alignment",
+        "Gene expression profiling",
+        "Peptide sequence",
+        "Protein superfamily",
+        "Protein family",
+        "Biology"
+    ],
+    "references": [
+        "1981733881",
+        "2062123785",
+        "2064632458",
+        "2130393164",
+        "2145268834",
+        "2154139219"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": "112881429",
+    "title": "Breaking hitag 2 revisited",
+    "venue": "international workshop on security",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Vincent Immler",
+            "id": "2281070723",
+            "org": "Ruhr University Bochum, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Field-programmable gate array",
+        "Reconfigurable computing",
+        "Parallel computing",
+        "Cryptanalysis",
+        "Scalability",
+        "Real-time computing",
+        "Access control",
+        "Cipher",
+        "Stream cipher",
+        "Brute-force attack"
+    ],
+    "references": [
+        "1548516269",
+        "1654132081",
+        "1992021280"
+    ]
+}

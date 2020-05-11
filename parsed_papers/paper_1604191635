@@ -1,0 +1,45 @@
+{
+    "id": "1604191635",
+    "title": "A blackboard-based learning intrusion detection system: a new approach",
+    "venue": "industrial and engineering applications of artificial intelligence and expert systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Mayukh Dass",
+            "id": "2466270091",
+            "org": "Artificial Intelligence Center, University of Georgia, Athens, Georgia#TAB#"
+        },
+        {
+            "name": "James Cannady",
+            "id": "2762160568",
+            "org": "Artificial Intelligence Center, University of Georgia, Athens, Georgia#TAB#"
+        },
+        {
+            "name": "Walter D. Potter",
+            "id": "2135631992",
+            "org": "Artificial Intelligence Center, University of Georgia, Athens, Georgia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Autonomous agent",
+        "Artificial intelligence",
+        "Machine learning",
+        "Behavioral pattern",
+        "Computer science",
+        "Intrusion detection system",
+        "Distributed computing",
+        "Blackboard system",
+        "Artificial neural network",
+        "Internet traffic",
+        "Network security",
+        "The Internet"
+    ],
+    "references": [
+        "1627728918",
+        "1966454457",
+        "2082600559",
+        "2100903665",
+        "2126332605",
+        "2150847526"
+    ]
+}

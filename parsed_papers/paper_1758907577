@@ -1,0 +1,44 @@
+{
+    "id": "1758907577",
+    "title": "Representational issues in meta-learning",
+    "venue": "international conference on machine learning",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Alexandros Kalousis",
+            "id": "1835498038",
+            "org": "University of Geneva, Computer Science Department, Geneva, Switzerland#TAB#"
+        },
+        {
+            "name": "Melanie Hilario",
+            "id": "2159401048",
+            "org": "University of Geneva, Computer Science Department, Geneva, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Relational calculus",
+        "Machine learning",
+        "Similarity measure",
+        "Artificial intelligence",
+        "Relational theory",
+        "Computer science",
+        "Statistical relational learning",
+        "Algorithm Selection"
+    ],
+    "references": [
+        "96078062",
+        "1505967422",
+        "1506989078",
+        "1519451279",
+        "1542513767",
+        "1589492330",
+        "1604262624",
+        "1638732406",
+        "1670263352",
+        "2038181716",
+        "2121906195",
+        "2126385963",
+        "2142334564"
+    ]
+}

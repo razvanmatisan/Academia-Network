@@ -1,0 +1,37 @@
+{
+    "id": "1591147293",
+    "title": "Cryptographic applications of T-functions",
+    "venue": "selected areas in cryptography",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Alexander Klimov",
+            "id": "2285891762",
+            "org": "The Weizmann Institute of Science"
+        },
+        {
+            "name": "Adi Shamir",
+            "id": "2201755339",
+            "org": "The Weizmann Institute of Science"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Bitwise operation",
+        "Discrete mathematics",
+        "Block size",
+        "Hash function",
+        "Parse tree",
+        "Cryptography",
+        "Stream cipher",
+        "Theoretical computer science",
+        "T-function",
+        "Mathematics"
+    ],
+    "references": [
+        "1486719429",
+        "1531810027",
+        "1548701190",
+        "1588616748"
+    ]
+}

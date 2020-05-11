@@ -1,0 +1,29 @@
+{
+    "id": "167641498",
+    "title": "Ontology-Driven Management of Space Middleware.",
+    "venue": "KWEPSY",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Reto Krummenacher",
+            "id": "43234139",
+            "org": "Digital Enterprise Research Institute|University of Innsbruck"
+        }
+    ],
+    "fields_of_study": [
+        "Middleware (distributed applications)",
+        "Social Semantic Web",
+        "Semantic grid",
+        "Semantic Web",
+        "Database",
+        "Semantic computing",
+        "Semantic analytics",
+        "Semantic Web Stack",
+        "Computer science",
+        "Middleware"
+    ],
+    "references": [
+        "132584522",
+        "2059508983"
+    ]
+}

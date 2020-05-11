@@ -1,0 +1,29 @@
+{
+    "id": "1517587896",
+    "title": "Examples of stabilization with hybrid feedback",
+    "venue": "Proceedings of the DIMACS/SYCON workshop on Hybrid systems III : verification and control: verification and control",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Zvi Artstein",
+            "id": "325041896",
+            "org": "The Weizmann Institute of Science"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete time and continuous time",
+        "Hybrid system",
+        "Harmonic oscillator",
+        "Control theory",
+        "Feedback passivation",
+        "Control theory",
+        "Mathematics",
+        "Minor loop feedback"
+    ],
+    "references": [
+        "1504756454",
+        "1559815321",
+        "1574639858",
+        "1995691455"
+    ]
+}

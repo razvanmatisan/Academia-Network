@@ -1,0 +1,36 @@
+{
+    "id": "1552453116",
+    "title": "Knowledge-Based Approach for Adaptive Recognition of Drawings",
+    "venue": "international conference on pattern recognition",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Shin'ichirou Okazaki",
+            "id": "2290003396",
+            "org": "C&C Information Technology Research Laboratories, NEC Corporation"
+        },
+        {
+            "name": "Yoshitake Tsjuji",
+            "id": "2289015744",
+            "org": "C&C Information Technology Research Laboratories, NEC Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge base",
+        "Distortion",
+        "Machine learning",
+        "Structural formula",
+        "Chemical structure",
+        "Computer vision",
+        "Artificial intelligence",
+        "Syntax",
+        "Data flow diagram",
+        "Computer science"
+    ],
+    "references": [
+        "29404923",
+        "1607206213",
+        "2085540354",
+        "2114532873"
+    ]
+}

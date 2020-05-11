@@ -1,0 +1,40 @@
+{
+    "id": "1507290593",
+    "title": "MMK--a distributed operating system kernel with integrated dynamic loadbalancing",
+    "venue": "joint international conference on vector and parallel processing parallel processing",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Thomas Bemmerl",
+            "id": "2641942967",
+            "org": "Technische Universitat Munchen Institut fur Informatik"
+        },
+        {
+            "name": "Thomas Ludwig",
+            "id": "2246251359",
+            "org": "Technische Universitat Munchen Institut fur Informatik"
+        }
+    ],
+    "fields_of_study": [
+        "Programming paradigm",
+        "Distributed operating system",
+        "Software development process",
+        "Message passing",
+        "Parallel computing",
+        "Parallel algorithm",
+        "Object-oriented programming",
+        "Dynamic programming",
+        "Distributed computing",
+        "Computer science",
+        "Multiprocessing"
+    ],
+    "references": [
+        "126619737",
+        "198022587",
+        "1559362585",
+        "1964602554",
+        "2104573358",
+        "2142164672",
+        "2158468079"
+    ]
+}

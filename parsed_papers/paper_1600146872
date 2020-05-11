@@ -1,0 +1,42 @@
+{
+    "id": "1600146872",
+    "title": "Subsethood measure for intuitionistic fuzzy sets",
+    "venue": "ieee international conference on fuzzy systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Przemyslaw Grzegorzewski",
+            "id": "2777957283",
+            "org": "Syst. Res. Inst., Polish Acad. of Sci., Warsaw, Poland"
+        },
+        {
+            "name": "Edyta Mrowka",
+            "id": "2778263832",
+            "org": "Syst. Res. Inst., Polish Acad. of Sci., Warsaw, Poland"
+        }
+    ],
+    "fields_of_study": [
+        "Intuitionistic logic",
+        "Hamming distance",
+        "Machine learning",
+        "Artificial intelligence",
+        "String searching algorithm",
+        "Fuzzy logic",
+        "Discrete mathematics",
+        "Fuzzy set",
+        "Fuzzy set operations",
+        "Set theory",
+        "Mathematics",
+        "Fuzzy control system"
+    ],
+    "references": [
+        "120700036",
+        "143938179",
+        "1965239040",
+        "1982034525",
+        "1993810822",
+        "2035516703",
+        "2079767857",
+        "2139927426"
+    ]
+}

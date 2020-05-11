@@ -1,0 +1,53 @@
+{
+    "id": "1482564413",
+    "title": "Therapy Planning Using Qualtitative Trend Descriptions",
+    "venue": "artificial intelligence in medicine in europe",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Silvia Miksch",
+            "id": "193994343",
+            "org": "Austrian Research Institute for Artificial Intelligence (OFAI)"
+        },
+        {
+            "name": "Werner Horn",
+            "id": "2148288937",
+            "org": "Austrian Research Institute for Artificial Intelligence (OFAI)"
+        },
+        {
+            "name": "Werner Horn",
+            "id": "2148288937",
+            "org": "Austrian Research Institute for Artificial Intelligence (OFAI)"
+        },
+        {
+            "name": "Christian Popow",
+            "id": "2312374324",
+            "org": "University of Vienna"
+        },
+        {
+            "name": "Franz Paky",
+            "id": "693338728",
+            "org": "Hospital of Modling"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Knowledge base",
+        "Systems modeling",
+        "Artificial intelligence",
+        "Machine learning",
+        "Temporal database",
+        "Knowledge-based systems",
+        "System model",
+        "Data point",
+        "Ranking",
+        "Computer science",
+        "Curve fitting"
+    ],
+    "references": [
+        "48217427",
+        "125312472",
+        "2064770325",
+        "2068965944"
+    ]
+}

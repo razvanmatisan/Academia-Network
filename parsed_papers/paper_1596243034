@@ -1,0 +1,45 @@
+{
+    "id": "1596243034",
+    "title": "Using metaphors in game-based education",
+    "venue": "international conference on e-learning and games",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Pedro Pablo Gomez-Martin",
+            "id": "1154819741",
+            "org": "Dep. Ingenieria del Software e Inteligencia Artificial, Universidad Complutense de Madrid, Spain#TAB#"
+        },
+        {
+            "name": "Marco Antonio Gomez-Martin",
+            "id": "1250363862",
+            "org": "Dep. Ingenieria del Software e Inteligencia Artificial, Universidad Complutense de Madrid, Spain#TAB#"
+        },
+        {
+            "name": "Pablo Palmier Campos",
+            "id": "2422332614",
+            "org": "Dep. Ingenieria del Software e Inteligencia Artificial, Universidad Complutense de Madrid, Spain#TAB#"
+        },
+        {
+            "name": "Pedro A. Gonzalez-Calero",
+            "id": "409234972",
+            "org": "Dep. Ingenieria del Software e Inteligencia Artificial, Universidad Complutense de Madrid, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Level design",
+        "Simulations and games in economics education",
+        "Multimedia",
+        "Simulation",
+        "Game art design",
+        "Game testing",
+        "Computer science",
+        "Video game design",
+        "Game design",
+        "Game Developer",
+        "Game design document"
+    ],
+    "references": [
+        "1537038124",
+        "1601344804"
+    ]
+}

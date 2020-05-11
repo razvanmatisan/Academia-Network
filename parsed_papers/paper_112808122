@@ -1,0 +1,58 @@
+{
+    "id": "112808122",
+    "title": "QUALITY-BASED IMPROVEMENT OF QUANTIZATION FOR LIGHT FIELD COMPRESSION",
+    "venue": "international conference on computer graphics theory and applications",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Raphael Lerbour",
+            "id": "2236248172",
+            "org": "SIC Laboratory|University of Poitiers"
+        },
+        {
+            "name": "Bruno Mercier",
+            "id": "2153593497",
+            "org": "SIC Laboratory|University of Poitiers"
+        },
+        {
+            "name": "Daniel Meneveaux",
+            "id": "2294664853",
+            "org": "SIC Laboratory|University of Poitiers"
+        },
+        {
+            "name": "Chaker Larabi",
+            "id": "2175289655",
+            "org": "SIC Laboratory|University of Poitiers"
+        }
+    ],
+    "fields_of_study": [
+        "Data structure",
+        "Artificial intelligence",
+        "Vector quantization",
+        "Image-based modeling and rendering",
+        "Computer graphics (images)",
+        "Computer vision",
+        "Rendering (computer graphics)",
+        "Computer science",
+        "Light field",
+        "Quantization (signal processing)",
+        "Theoretical computer science",
+        "Random access",
+        "Visual appearance"
+    ],
+    "references": [
+        "1527358810",
+        "1579868199",
+        "1825448573",
+        "1960172964",
+        "2082359263",
+        "2111044596",
+        "2127698735",
+        "2128781563",
+        "2150593711",
+        "2159299163",
+        "2161064779",
+        "2166111053",
+        "2294985758"
+    ]
+}

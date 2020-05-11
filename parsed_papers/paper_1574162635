@@ -1,0 +1,42 @@
+{
+    "id": "1574162635",
+    "title": "Advanced Separation of Concerns",
+    "venue": "european conference on object-oriented programming",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Johan Brichau",
+            "id": "99581611",
+            "org": "Vrije Universiteit Brussel"
+        },
+        {
+            "name": "Maurice Glandrup",
+            "id": "2007674505",
+            "org": "University of Twente"
+        },
+        {
+            "name": "Siobhan Clarke",
+            "id": "2104749128",
+            "org": "Trinity College"
+        },
+        {
+            "name": "Lodewijk Bergmans",
+            "id": "2164694171",
+            "org": "University of Twente"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Theoretical computer science",
+        "Software development",
+        "Separation of concerns",
+        "Simulation",
+        "Design pattern",
+        "Computer science"
+    ],
+    "references": [
+        "1608722977",
+        "1610570299",
+        "2139453480"
+    ]
+}

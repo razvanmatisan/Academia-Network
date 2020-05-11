@@ -1,0 +1,36 @@
+{
+    "id": "1606604604",
+    "title": "Formalizing Hilbert's Grundlagen in Isabelle/Isar",
+    "venue": "theorem proving in higher order logics",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Laura I. Meikle",
+            "id": "2140973943",
+            "org": "University of Edinburgh"
+        },
+        {
+            "name": "Jacques D. Fleuriot",
+            "id": "739540358",
+            "org": "University of Edinburgh"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Mathematical proof",
+        "Pure mathematics",
+        "Proof theory",
+        "Synthetic aperture radar",
+        "Inverse synthetic aperture radar",
+        "Automated theorem proving",
+        "Higher-order logic",
+        "Mathematics",
+        "Proof assistant"
+    ],
+    "references": [
+        "1578866112",
+        "2077378514",
+        "2484609243",
+        "2887162633"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1531381759",
+    "title": "Natural Language Interface Construction Using Semantic Grammars",
+    "venue": "pacific rim international conference on artificial intelligence",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Anh Kim Nguyen",
+            "id": "2274067053",
+            "org": "Faculty of Information Technology, Hanoi University of Technology, Vietnam#TAB#"
+        },
+        {
+            "name": "Huong Thanh Le",
+            "id": "2189752784",
+            "org": "Faculty of Information Technology, Hanoi University of Technology, Vietnam#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Data definition language",
+        "Computer science",
+        "Universal Networking Language",
+        "Semantic computing",
+        "View",
+        "Natural language processing",
+        "Data control language",
+        "Natural language user interface",
+        "Semantic compression",
+        "Query by Example",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "75923511",
+        "131408576",
+        "2119412658",
+        "2145618437",
+        "2159573465"
+    ]
+}

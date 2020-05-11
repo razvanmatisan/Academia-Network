@@ -1,0 +1,37 @@
+{
+    "id": "1583346223",
+    "title": "Load-Balancing for a Block-Based Parallel Adaptive 4D Vlasov Solver",
+    "venue": "european conference on parallel processing",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Olivier Hoenen",
+            "id": "2040690355",
+            "org": "University Louis Pasteur - LSIIT - ICPS, Strasbourg, France#TAB#"
+        },
+        {
+            "name": "Eric Violard",
+            "id": "79719743",
+            "org": "University Louis Pasteur - LSIIT - ICPS, Strasbourg, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Parallel algorithm",
+        "Phase space",
+        "Distributed memory",
+        "Load balancing (computing)",
+        "Distributed computing",
+        "Dynamic load testing",
+        "Vlasov equation",
+        "Computer science",
+        "Solver"
+    ],
+    "references": [
+        "1560946894",
+        "1661091782",
+        "2047242919",
+        "2090899085",
+        "2111516947"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1548560565",
+    "title": "Automatic structure-based code generation from coloured Petri nets: a proof of concept",
+    "venue": "formal methods for industrial critical systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Lars Michael Kristensen",
+            "id": "2159223499",
+            "org": "Department of Computer Engineering, Bergen University College, Norway#TAB#"
+        },
+        {
+            "name": "Michael Westergaard",
+            "id": "2125929092",
+            "org": "Department of Mathematics and Computer Science, Eindhoven University of Technology, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Control flow",
+        "Erlang (programming language)",
+        "Theoretical computer science",
+        "Real-time computing",
+        "Coloured Petri net",
+        "Basic block",
+        "Process control",
+        "Message passing",
+        "Petri net",
+        "Distributed computing",
+        "Code generation"
+    ],
+    "references": [
+        "1522730781",
+        "1527974694",
+        "1546976992",
+        "1549371619",
+        "1549845882",
+        "1568573127",
+        "1951679816",
+        "1973995338",
+        "2023376214"
+    ]
+}

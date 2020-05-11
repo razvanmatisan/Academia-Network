@@ -1,0 +1,41 @@
+{
+    "id": "1551436641",
+    "title": "XML development with plug-ins as a service",
+    "venue": "Software - Practice and Experience",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Siim Karus",
+            "id": "1094911316",
+            "org": "University of Tartu, Estonia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Service Interface for Real Time Information",
+        "Database",
+        "Binary XML",
+        "XML",
+        "cXML",
+        "XML framework",
+        "World Wide Web",
+        "XML Schema (W3C)",
+        "XML Schema Editor",
+        "Efficient XML Interchange",
+        "Computer science"
+    ],
+    "references": [
+        "1603884835",
+        "1787393924",
+        "1934077920",
+        "2008845619",
+        "2025895621",
+        "2028446170",
+        "2037941060",
+        "2054788588",
+        "2076520011",
+        "2108230680",
+        "2119665078",
+        "2131321159",
+        "2148750468"
+    ]
+}

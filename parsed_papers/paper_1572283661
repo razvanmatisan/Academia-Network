@@ -1,0 +1,35 @@
+{
+    "id": "1572283661",
+    "title": "Generalization Guarantees for a Binary Classification Framework for Two-Stage Multiple Kernel Learning",
+    "venue": "arXiv: Learning",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Purushottam Kar",
+            "id": "2136781283",
+            "org": "Indian Institute of Technology Kanpur"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Mathematics",
+        "Mathematical optimization",
+        "Kernel embedding of distributions",
+        "Binary classification",
+        "Machine learning",
+        "Multiple kernel learning",
+        "Kernel method",
+        "Polynomial kernel",
+        "Kernel (linear algebra)",
+        "Tree kernel",
+        "Pattern recognition",
+        "Radial basis function kernel"
+    ],
+    "references": [
+        "1490654344",
+        "1587559562",
+        "1987091651",
+        "2160354932",
+        "2178357350"
+    ]
+}

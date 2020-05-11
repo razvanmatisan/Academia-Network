@@ -1,0 +1,42 @@
+{
+    "id": "1608521382",
+    "title": "Managing URI Synonymity to Enable Consistent Reference on the Semantic Web",
+    "venue": "IRSW",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Afraz Jaffri",
+            "id": "2154263862",
+            "org": "University of Southampton"
+        },
+        {
+            "name": "Hugh Glaser",
+            "id": "2035236489",
+            "org": "University of Southampton"
+        },
+        {
+            "name": "Ian Millard",
+            "id": "2008300023",
+            "org": "University of Southampton"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Coreference",
+        "RDF",
+        "Linked data",
+        "Semantic Web",
+        "Synonym",
+        "Architecture",
+        "Data mining",
+        "Semantic Web Stack",
+        "Computer science"
+    ],
+    "references": [
+        "1607526536",
+        "2000148987",
+        "2113473098",
+        "2143326402",
+        "2169092253"
+    ]
+}

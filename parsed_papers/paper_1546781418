@@ -1,0 +1,44 @@
+{
+    "id": "1546781418",
+    "title": "A Practical Implementation of Elliptic Curve Cryptosystems over GF(p) on a 16-bit Microcomputer",
+    "venue": "public key cryptography",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Toshio Hasegawa",
+            "id": "2018981816",
+            "org": "Mitsubishi Electric Corporation"
+        },
+        {
+            "name": "Junko Nakajima",
+            "id": "1974280691",
+            "org": "Mitsubishi Electric Corporation"
+        },
+        {
+            "name": "Mitsuru Matsui",
+            "id": "2020760526",
+            "org": "Mitsubishi Electric Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Smart card",
+        "16-bit",
+        "Elliptic curve",
+        "Software",
+        "Cryptosystem",
+        "Public-key cryptography",
+        "Computer science",
+        "Cryptography",
+        "Elliptic Curve Digital Signature Algorithm"
+    ],
+    "references": [
+        "1521787982",
+        "1529013801",
+        "1560768562",
+        "1798342512",
+        "2003736153",
+        "2108834246",
+        "2139192386"
+    ]
+}

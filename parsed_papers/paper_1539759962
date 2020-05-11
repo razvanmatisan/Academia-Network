@@ -1,0 +1,32 @@
+{
+    "id": "1539759962",
+    "title": "Making global illumination user-friendly",
+    "venue": "eurographics symposium on rendering techniques",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Gregory J. Ward",
+            "id": "2629890255",
+            "org": "Lawrence Berkeley Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Computer graphics (images)",
+        "Artificial intelligence",
+        "Oracle",
+        "Software rendering",
+        "User Friendly",
+        "Rendering (computer graphics)",
+        "Computer science",
+        "Software",
+        "Global illumination",
+        "Graphical user interface",
+        "User interface"
+    ],
+    "references": [
+        "1482882448",
+        "2063056805",
+        "2134342348"
+    ]
+}

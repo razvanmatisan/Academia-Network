@@ -1,0 +1,39 @@
+{
+    "id": "1481923190",
+    "title": "Massively parallel methods for semiconductor device modelling",
+    "venue": "Computing",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "R. K. Coomer",
+            "id": "2060984234",
+            "org": "Univ. of Bath, Bath, UK#TAB#"
+        },
+        {
+            "name": "Ivan G. Graham",
+            "id": "2508246723",
+            "org": "Univ. of Bath, Bath, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical analysis",
+        "Mathematical optimization",
+        "Linear system",
+        "Mathematics",
+        "Iterative method",
+        "Rate of convergence",
+        "Discretization",
+        "Conjugate gradient method",
+        "Domain decomposition methods",
+        "Nonlinear system",
+        "Finite element method"
+    ],
+    "references": [
+        "1989048979",
+        "2020626918",
+        "2028192944",
+        "2121203997",
+        "2136624487",
+        "2171328320"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1537446635",
+    "title": "MUNCH - automated reasoner for sets and multisets",
+    "venue": "international joint conference on automated reasoning",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Ruzica Piskac",
+            "id": "2700888988",
+            "org": "Swiss Federal Institute of Technology Lausanne (EPFL)#TAB#"
+        },
+        {
+            "name": "Viktor Kuncak",
+            "id": "37798284",
+            "org": "Swiss Federal Institute of Technology Lausanne (EPFL)#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Cardinality",
+        "Discrete mathematics",
+        "Scala",
+        "Algorithm",
+        "Satisfiability modulo theories",
+        "Automated reasoning",
+        "Integer",
+        "Expression (mathematics)",
+        "Operator (computer programming)",
+        "Semantic reasoner"
+    ],
+    "references": [
+        "1480909796",
+        "1493089824",
+        "1524248088",
+        "1532097571",
+        "1556566737",
+        "1767788337",
+        "2012833332",
+        "2102913701",
+        "2132331020"
+    ]
+}

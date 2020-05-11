@@ -1,0 +1,43 @@
+{
+    "id": "1592612112",
+    "title": "In Search of Semantic Compositionality in Vector Spaces",
+    "venue": "international conference on conceptual structures",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Eugenie Giesbrecht",
+            "id": "2279158748",
+            "org": "FZI Research Center for Information Technology, Karlsruhe, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Lexical definition",
+        "Latent semantic analysis",
+        "Vector space model",
+        "Spite",
+        "Natural language processing",
+        "Principle of compositionality",
+        "Computer science",
+        "Machine learning",
+        "Indexation",
+        "Random indexing",
+        "Tensor product",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "153318553",
+        "204849900",
+        "1498763386",
+        "1516346799",
+        "1574901103",
+        "1660390307",
+        "1796264214",
+        "1982114217",
+        "2103464847",
+        "2130337399",
+        "2137607259",
+        "2147152072",
+        "2193700427",
+        "2439228446"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "155276412",
+    "title": "Design and Implementation of a High-Performance Network Intrusion Prevention System",
+    "venue": "information security conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Konstantinos Xinidis",
+            "id": "227590561",
+            "org": "Foundation for Research and Technology Hellas"
+        },
+        {
+            "name": "Kostas G. Anagnostakis",
+            "id": "143871111",
+            "org": "Univ. of Pennsylvania"
+        },
+        {
+            "name": "Evangelos P. Markatos",
+            "id": "1973983982",
+            "org": "Foundation for Research and Technology Hellas"
+        }
+    ],
+    "fields_of_study": [
+        "Network processor",
+        "Wireless intrusion prevention system",
+        "Host-based intrusion detection system",
+        "Intrusion detection system",
+        "Intrusion prevention system",
+        "Load balancing (computing)",
+        "Gigabit Ethernet",
+        "Real-time computing",
+        "Software",
+        "Computer network",
+        "Computer science"
+    ],
+    "references": [
+        "1516506771",
+        "1674877186",
+        "1999427165",
+        "2105340125",
+        "2127586408",
+        "2137559158",
+        "2145791740",
+        "2160615184"
+    ]
+}

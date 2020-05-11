@@ -1,0 +1,52 @@
+{
+    "id": "1635484243",
+    "title": "Estimating mutual information using B-spline functions - an improved similarity measure for analysing gene expression data",
+    "venue": "BMC Bioinformatics",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Carsten O. Daub",
+            "id": "2302842832",
+            "org": "BioinformaticsCRG, Cooperative Research Groups, Max Planck Institute of Molecular Plant Physiology, Max Planck Society"
+        },
+        {
+            "name": "Ralf Steuer",
+            "id": "2031826790",
+            "org": "External Organizations"
+        },
+        {
+            "name": "Joachim Selbig",
+            "id": "319335952",
+            "org": "BioinformaticsCRG, Cooperative Research Groups, Max Planck Institute of Molecular Plant Physiology, Max Planck Society"
+        },
+        {
+            "name": "Sebastian Kloska",
+            "id": "2050283721",
+            "org": "Binf, Department Willmitzer, Max Planck Institute of Molecular Plant Physiology, Max Planck Society"
+        }
+    ],
+    "fields_of_study": [
+        "Pointwise mutual information",
+        "Cluster analysis",
+        "Bioinformatics",
+        "Mutual information",
+        "Variation of information",
+        "Multivariate mutual information",
+        "Similarity measure",
+        "Joint entropy",
+        "Conditional mutual information",
+        "Computer science"
+    ],
+    "references": [
+        "1553693276",
+        "2038929732",
+        "2041404167",
+        "2050921210",
+        "2073431334",
+        "2102471334",
+        "2114771311",
+        "2141104431",
+        "2163296727",
+        "2163813213"
+    ]
+}

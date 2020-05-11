@@ -1,0 +1,32 @@
+{
+    "id": "1522833635",
+    "title": "Visualising Concurrent Z Specifications",
+    "venue": "Z User Workshop",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Andy Evans",
+            "id": "2664681795",
+            "org": "Leeds Metropolitan University"
+        }
+    ],
+    "fields_of_study": [
+        "Coloured Petri net",
+        "Dining philosophers problem",
+        "Safety property",
+        "Petri net",
+        "Algorithm",
+        "Liveness",
+        "Data flow diagram",
+        "Computer science"
+    ],
+    "references": [
+        "1482763816",
+        "1550186809",
+        "1752253386",
+        "1903679624",
+        "1972908970",
+        "1988698742",
+        "2099293367"
+    ]
+}

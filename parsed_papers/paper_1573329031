@@ -1,0 +1,30 @@
+{
+    "id": "1573329031",
+    "title": "Discovery of Generalized Patterns",
+    "venue": "international syposium on methodologies for intelligent systems",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Sinh Hoa Nguyen",
+            "id": "2318626430",
+            "org": "Warsaw University"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Artificial intelligence",
+        "Of the form",
+        "Machine learning",
+        "Table (information)",
+        "Decision table",
+        "Information processing",
+        "Computer science",
+        "Information extraction",
+        "Knowledge acquisition"
+    ],
+    "references": [
+        "1501839181",
+        "1883898636",
+        "2340020088"
+    ]
+}

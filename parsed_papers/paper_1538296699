@@ -1,0 +1,33 @@
+{
+    "id": "1538296699",
+    "title": "Anomaly Detection of Hostile Traffic Based on Network Traffic Distributions",
+    "venue": "international conference on information networking",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Koohong Kang",
+            "id": "2117172383",
+            "org": "Department of Information and Communications Engineering, Seowon University, South Korea 361-742#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "Anomaly detection",
+        "Distributed computing",
+        "Traffic generation model",
+        "Internet Protocol",
+        "Network traffic control",
+        "Header",
+        "Denial-of-service attack",
+        "Router",
+        "Campus network",
+        "Computer science"
+    ],
+    "references": [
+        "1674877186",
+        "2129976399",
+        "2131389289",
+        "2153517517",
+        "2162240407"
+    ]
+}

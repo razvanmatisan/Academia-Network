@@ -1,0 +1,33 @@
+{
+    "id": "132705934",
+    "title": "Conceptualizing Software Life Cycle",
+    "venue": "information systems technology and its applications",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Sabah Al-Fedaghi",
+            "id": "2082783681",
+            "org": "Computer Engineering Department, Kuwait University, Safat, Kuwait"
+        }
+    ],
+    "fields_of_study": [
+        "Software deployment",
+        "Systems engineering",
+        "Software construction",
+        "Social software engineering",
+        "Software development process",
+        "Computer science",
+        "Software verification and validation",
+        "Architecture tradeoff analysis method",
+        "Software development",
+        "Systems development life cycle"
+    ],
+    "references": [
+        "1566987732",
+        "2039485198",
+        "2096360482",
+        "2122707557",
+        "2124405605",
+        "2135201148"
+    ]
+}

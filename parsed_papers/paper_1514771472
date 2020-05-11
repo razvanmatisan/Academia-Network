@@ -1,0 +1,37 @@
+{
+    "id": "1514771472",
+    "title": "Rabin Tree and Its Application to Group Key Distribution",
+    "venue": "automated technology for verification and analysis",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Hiroaki Kikuchi",
+            "id": "2300133930",
+            "org": "Tokai university"
+        }
+    ],
+    "fields_of_study": [
+        "Key distribution",
+        "Rabin fingerprint",
+        "Discrete mathematics",
+        "Broadcast encryption",
+        "Public-key cryptography",
+        "Distributed computing",
+        "Session key",
+        "Binary tree",
+        "Group key",
+        "Encryption",
+        "Mathematics"
+    ],
+    "references": [
+        "1495266644",
+        "1499665530",
+        "1522268755",
+        "2019267322",
+        "2064967060",
+        "2099863231",
+        "2118357205",
+        "2143545186",
+        "2168571148"
+    ]
+}

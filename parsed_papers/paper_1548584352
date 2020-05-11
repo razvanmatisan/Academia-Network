@@ -1,0 +1,42 @@
+{
+    "id": "1548584352",
+    "title": "Knowledge Elicitation through Web-Based Data Mining Services",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Shonali Krishnaswamy",
+            "id": "1998595072",
+            "org": "Monash University Caulfield East"
+        },
+        {
+            "name": "Seng Wai Loke",
+            "id": "2251296880",
+            "org": "RMIT University"
+        },
+        {
+            "name": "Arkady B. Zaslavsky",
+            "id": "2148969126",
+            "org": "Monash University Caulfield East"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge extraction",
+        "Knowledge base",
+        "Service provider",
+        "Application service provider",
+        "Web application",
+        "Information extraction",
+        "Data mining",
+        "The Internet",
+        "Text mining",
+        "Computer science"
+    ],
+    "references": [
+        "78485505",
+        "2062800332",
+        "2104037945",
+        "2109647623",
+        "2114650544"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1530374414",
+    "title": "Cognitive Requirements on Making and Interpreting Maps",
+    "venue": "conference on spatial information theory",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Thomas Barkowsky",
+            "id": "2235947797",
+            "org": "University of Hamburg"
+        },
+        {
+            "name": "Christian Freksa",
+            "id": "2892761768",
+            "org": "University of Hamburg"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Computer science",
+        "Fuzzy cognitive map",
+        "Machine learning",
+        "Data mining",
+        "Cognitive map",
+        "Information theory",
+        "Knowledge representation and reasoning",
+        "Geographic information system",
+        "Spatial configuration",
+        "Cartographic generalization",
+        "Cognition"
+    ],
+    "references": [
+        "1503384602",
+        "1983719085"
+    ]
+}

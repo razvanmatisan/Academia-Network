@@ -1,0 +1,27 @@
+{
+    "id": "1497933618",
+    "title": "Abduction in Labelled Deductive Systems - A Conceptual Abstract",
+    "venue": "european conference on symbolic and quantitative approaches to reasoning and uncertainty",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Dov M. Gabbay",
+            "id": "2623494704",
+            "org": "Imperial College"
+        }
+    ],
+    "fields_of_study": [
+        "Horn clause",
+        "Computation",
+        "Artificial intelligence",
+        "Machine learning",
+        "Data integrity",
+        "Computer science"
+    ],
+    "references": [
+        "176609766",
+        "1518795075",
+        "2083474880",
+        "2084749326"
+    ]
+}

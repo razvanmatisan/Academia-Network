@@ -1,0 +1,36 @@
+{
+    "id": "1738862125",
+    "title": "Guiding Search in QCSP + with Back-Propagation",
+    "venue": "principles and practice of constraint programming",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Guillaume Verger",
+            "id": "2119504590",
+            "org": "LIRMM, CNRS/University of Montpellier, France#TAB#"
+        },
+        {
+            "name": "Christian Bessiere",
+            "id": "2168734674",
+            "org": "LIRMM, CNRS/University of Montpellier, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Heuristic",
+        "Computer science",
+        "Mathematical optimization",
+        "Motion planning",
+        "Local consistency",
+        "Expressivity",
+        "Constraint satisfaction problem",
+        "Backpropagation"
+    ],
+    "references": [
+        "38499500",
+        "94279159",
+        "1533315542",
+        "1595338915",
+        "2046194288",
+        "2501112583"
+    ]
+}

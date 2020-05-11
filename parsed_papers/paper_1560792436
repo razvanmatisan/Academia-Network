@@ -1,0 +1,39 @@
+{
+    "id": "1560792436",
+    "title": "Optimized data-reuse in processor arrays",
+    "venue": "application-specific systems, architectures, and processors",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Sebastian Siegel",
+            "id": "2155379974",
+            "org": "Dept. of Electr. Eng. & Inf. Technol., Dresden Univ. of Technol., Germany"
+        },
+        {
+            "name": "Renate Merker",
+            "id": "1990489013",
+            "org": "Dept. of Electr. Eng. & Inf. Technol., Dresden Univ. of Technol., Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Parallel computing",
+        "Real-time computing",
+        "Parallel algorithm",
+        "Motion estimation",
+        "Architecture",
+        "Processor array",
+        "Affine transformation",
+        "Design flow",
+        "Indexation",
+        "Memory hierarchy"
+    ],
+    "references": [
+        "1550601003",
+        "2100402679",
+        "2102041794",
+        "2107166246",
+        "2122523586",
+        "2149849691"
+    ]
+}

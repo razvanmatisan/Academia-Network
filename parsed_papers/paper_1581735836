@@ -1,0 +1,39 @@
+{
+    "id": "1581735836",
+    "title": "3D object model recovery from 2D images using structured light",
+    "venue": "IEEE Transactions on Instrumentation and Measurement",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Philippe Lavoie",
+            "id": "2130412756",
+            "org": "Univ. of Ottawa, Ont., Canada"
+        },
+        {
+            "name": "Dan Ionescu",
+            "id": "1984837547",
+            "org": "Univ. of Ottawa, Ont., Canada"
+        },
+        {
+            "name": "Emil M. Petriu",
+            "id": "85471179",
+            "org": "Univ. of Ottawa, Ont., Canada"
+        }
+    ],
+    "fields_of_study": [
+        "Object model",
+        "Grid",
+        "Pseudorandom number generator",
+        "Structured light",
+        "Pixel",
+        "Computer vision",
+        "Smoothing",
+        "Computer stereo vision",
+        "Artificial intelligence",
+        "Stereo cameras",
+        "Computer science"
+    ],
+    "references": [
+        "2296589133"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "1589725381",
+    "title": "First-order inquisitive pair logic",
+    "venue": "ICLA'11 Proceedings of the 4th Indian conference on Logic and its applications",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Katsuhiko Sano",
+            "id": "2791932401",
+            "org": "Department of Humanistic Informatics, Graduate School of Letters, Kyoto University, JSPS#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Lambda cube",
+        "Non-standard calculus",
+        "Process calculus",
+        "Church encoding",
+        "Time-scale calculus",
+        "Proof calculus",
+        "Discrete mathematics",
+        "Natural deduction",
+        "Borel functional calculus",
+        "Mathematics"
+    ],
+    "references": [
+        "1524928381",
+        "1526548725",
+        "1538963767",
+        "1606142071",
+        "1620944542",
+        "2115753177"
+    ]
+}

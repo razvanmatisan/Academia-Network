@@ -1,0 +1,41 @@
+{
+    "id": "1792334848",
+    "title": "Proving and Rewriting",
+    "venue": "Proceedings of the Second International Conference on Algebraic and Logic Programming",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Joseph A. Goguen",
+            "id": "2062581780",
+            "org": "Oxford University"
+        }
+    ],
+    "fields_of_study": [
+        "Programming language",
+        "First-order logic",
+        "Dynamic logic (modal logic)",
+        "Equational logic",
+        "Algorithm",
+        "Predicate logic",
+        "Substructural logic",
+        "Multimodal logic",
+        "Mathematics",
+        "Intermediate logic",
+        "Higher-order logic"
+    ],
+    "references": [
+        "193172453",
+        "1590828018",
+        "1974190112",
+        "1980051887",
+        "1992371661",
+        "1995955735",
+        "1998691016",
+        "2019751493",
+        "2029176884",
+        "2040906680",
+        "2051566614",
+        "2077592849",
+        "2224144252"
+    ]
+}

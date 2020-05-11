@@ -1,0 +1,27 @@
+{
+    "id": "123801088",
+    "title": "Coordinating the Interruption of People in Human-Computer Interaction.",
+    "venue": "international conference on human-computer interaction",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Daniel C. McFarlane",
+            "id": "2644851816",
+            "org": "Association for Computing Machinery"
+        }
+    ],
+    "fields_of_study": [
+        "User interface design",
+        "Human-computer interaction",
+        "Computer science",
+        "Delegate",
+        "Delegation",
+        "Interrupt",
+        "Software agent",
+        "User interface",
+        "Cognition"
+    ],
+    "references": [
+        "2108148331"
+    ]
+}

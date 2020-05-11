@@ -1,0 +1,46 @@
+{
+    "id": "1545032493",
+    "title": "From Operational Semantics to Denotational Semantics for Verilog",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Zhu Huibiao",
+            "id": "2557985349",
+            "org": "South Bank University"
+        },
+        {
+            "name": "Jonathan P. Bowen",
+            "id": "2311901225",
+            "org": "South Bank University"
+        },
+        {
+            "name": "He Jifeng",
+            "id": "1400043716",
+            "org": "United Nations University, UNU/IIST"
+        }
+    ],
+    "fields_of_study": [
+        "Verilog",
+        "Hardware description language",
+        "Semantic data model",
+        "Denotational semantics",
+        "Programming language",
+        "Action semantics",
+        "Operational semantics",
+        "Theoretical computer science",
+        "Normalisation by evaluation",
+        "Denotational semantics of the Actor model",
+        "Computer science"
+    ],
+    "references": [
+        "113804017",
+        "198721465",
+        "1829576798",
+        "2000916035",
+        "2107517480",
+        "2134801513",
+        "2160196023",
+        "2167467151"
+    ]
+}

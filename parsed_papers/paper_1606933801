@@ -1,0 +1,45 @@
+{
+    "id": "1606933801",
+    "title": "Characterizing EF over infinite trees and modal logic on transitive graphs",
+    "venue": "mathematical foundations of computer science",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Balder ten Cate",
+            "id": "2780731752",
+            "org": "University of California, Santa Cruz#TAB#"
+        },
+        {
+            "name": "Alessandro Facchini",
+            "id": "2161912011",
+            "org": "Warsaw University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Transitive relation",
+        "Borel set",
+        "Monadic predicate calculus",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Modal logic",
+        "Normal modal logic",
+        "Algebraic number",
+        "Invariant (mathematics)",
+        "Linear temporal logic",
+        "Mathematics"
+    ],
+    "references": [
+        "1549866473",
+        "1602811654",
+        "1879697109",
+        "1971672075",
+        "2012552318",
+        "2029611280",
+        "2067464091",
+        "2099655889",
+        "2105140228",
+        "2105762217",
+        "2113800199",
+        "2132638915"
+    ]
+}

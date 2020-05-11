@@ -1,0 +1,30 @@
+{
+    "id": "154396820",
+    "title": "Path of patches: implementing an evolutionary soundscape art installation",
+    "venue": "european conference on applications of evolutionary computation",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Jose Fornari",
+            "id": "2047920884",
+            "org": "Interdisciplinary Nucleus for Sound Communication, University of Campinas, Campinas, Sao Paulo, Brazil#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Soundscape",
+        "Evolutionary computation",
+        "Machine learning",
+        "Evolutionary algorithm",
+        "Evolutionary music",
+        "The arts",
+        "Complex system",
+        "Complex system",
+        "Installation art",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1763805893",
+        "2063806468"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1544969377",
+    "title": "Application of Genetic Programming to Induction of Linear Classification Trees",
+    "venue": "european conference on genetic programming",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Martijn C. J. Bot",
+            "id": "1984584823",
+            "org": "Vrije Universiteit"
+        },
+        {
+            "name": "William B. Langdon",
+            "id": "2124125742",
+            "org": "CWI"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Tree rearrangement",
+        "Decision tree",
+        "Computer science",
+        "Genetic programming",
+        "Alternating decision tree",
+        "Decision tree learning",
+        "Linear classifier",
+        "Incremental decision tree",
+        "ID3 algorithm",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1500215390",
+        "1546917456",
+        "1562156220",
+        "1576818901",
+        "1598333443",
+        "1780185704",
+        "1966735857",
+        "2027649639",
+        "2125055259"
+    ]
+}

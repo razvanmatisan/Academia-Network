@@ -1,0 +1,41 @@
+{
+    "id": "1501140180",
+    "title": "An operating system for custom computing machines based on the Xputer paradigm",
+    "venue": "field-programmable logic and applications",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Rainer Kress",
+            "id": "2608112972",
+            "org": "Corporate Technology"
+        },
+        {
+            "name": "Reiner W. Hartenstein",
+            "id": "2165039650",
+            "org": "University of Kaiserslautern"
+        },
+        {
+            "name": "Ulrich Nageldinger",
+            "id": "1912079037",
+            "org": "University of Kaiserslautern"
+        }
+    ],
+    "fields_of_study": [
+        "Hardware description language",
+        "Host (network)",
+        "Real-time computing",
+        "Xputer",
+        "Embedded system",
+        "Field-programmable gate array",
+        "Von Neumann architecture",
+        "Computer science",
+        "Software",
+        "Operating system",
+        "Systems architecture"
+    ],
+    "references": [
+        "12118987",
+        "172049653",
+        "1695278210"
+    ]
+}

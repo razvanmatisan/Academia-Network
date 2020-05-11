@@ -1,0 +1,30 @@
+{
+    "id": "1709275931",
+    "title": "Asymptotically Fast Algorithms for the Numerical Multiplication and Division of Polynomials with Complex Coeficients",
+    "venue": "EUROCAM '82 Proceedings of the European Computer Algebra Conference on Computer Algebra",
+    "year": 1982,
+    "authors": [
+        {
+            "name": "Arnold Schonhage",
+            "id": "1486020245",
+            "org": "Mathematisches Institut der Universitat Tubingen"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete Fourier transform",
+        "Time complexity",
+        "Multiplication",
+        "Fast Fourier transform",
+        "Algorithm",
+        "Polynomial",
+        "Division (mathematics)",
+        "Univariate",
+        "Mathematics",
+        "Integer"
+    ],
+    "references": [
+        "1550041751",
+        "2009798194",
+        "2083368929"
+    ]
+}

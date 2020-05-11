@@ -1,0 +1,42 @@
+{
+    "id": "1741580681",
+    "title": "Computation in Recurrent Neural Networks: From Counters to Iterated Function Systems",
+    "venue": "australian joint conference on artificial intelligence",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Yvonne Kalinke",
+            "id": "2618625589",
+            "org": "Queensland University of Technology"
+        },
+        {
+            "name": "Helko Lehmann",
+            "id": "2113703844",
+            "org": "University of Technology Dresden"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Context-free language",
+        "Computation",
+        "Machine learning",
+        "Formal language",
+        "Formal specification",
+        "Distributed computing",
+        "Computer science",
+        "Iterated function system",
+        "Dyck language",
+        "Artificial neural network",
+        "Theoretical computer science",
+        "Recurrent neural network"
+    ],
+    "references": [
+        "1517316505",
+        "1971844566",
+        "1998937898",
+        "2110485445",
+        "2113864751",
+        "2161921398",
+        "2339378878"
+    ]
+}

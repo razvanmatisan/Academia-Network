@@ -1,0 +1,35 @@
+{
+    "id": "1598039526",
+    "title": "Time-Series Segmentation and Symbolic Representation, from Process-Monitoring to Data-Mining",
+    "venue": "international conference on computational intelligence",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Bernard Hugueney",
+            "id": "2531511835",
+            "org": "LOFTI"
+        },
+        {
+            "name": "Bernadette Bouchon-Meunier",
+            "id": "34961017",
+            "org": "LOFTI"
+        }
+    ],
+    "fields_of_study": [
+        "Fold (higher-order function)",
+        "Descriptive statistics",
+        "Piecewise",
+        "Time-series segmentation",
+        "Machine learning",
+        "Data mining",
+        "Computer science",
+        "Computer data storage",
+        "Artificial intelligence",
+        "Data retrieval"
+    ],
+    "references": [
+        "1641039719",
+        "2058148593",
+        "2165094119"
+    ]
+}

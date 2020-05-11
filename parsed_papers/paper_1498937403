@@ -1,0 +1,29 @@
+{
+    "id": "1498937403",
+    "title": "Java Technology in an FPGA",
+    "venue": "field-programmable logic and applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Martin Schoeberl",
+            "id": "2118320911",
+            "org": "JOP.design"
+        }
+    ],
+    "fields_of_study": [
+        "Real time Java",
+        "strictfp",
+        "Parallel computing",
+        "Java Card",
+        "Real-time computing",
+        "Java concurrency",
+        "Java",
+        "Java Optimized Processor",
+        "Embedded Java",
+        "Application server",
+        "Computer science"
+    ],
+    "references": [
+        "1569551987"
+    ]
+}

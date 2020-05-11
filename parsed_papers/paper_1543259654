@@ -1,0 +1,42 @@
+{
+    "id": "1543259654",
+    "title": "Modeling Fuzzy Rules with Description Logics",
+    "venue": "owl: experiences and directions",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Sudhir Agarwal",
+            "id": "2137736192",
+            "org": "Karlsruhe Institute of Technology"
+        },
+        {
+            "name": "Pascal Hitzler",
+            "id": "2343280660",
+            "org": "Karlsruhe Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Computer science",
+        "T-norm fuzzy logics",
+        "Discrete mathematics",
+        "Monoidal t-norm logic",
+        "Type-2 fuzzy sets and systems",
+        "Fuzzy Control Language",
+        "Fuzzy set operations",
+        "Algorithm",
+        "Fuzzy associative matrix",
+        "Fuzzy subalgebra",
+        "Fuzzy classification"
+    ],
+    "references": [
+        "1484349134",
+        "1491520333",
+        "1525984444",
+        "1532449175",
+        "1549726206",
+        "2148962625",
+        "2159436396",
+        "2171279236"
+    ]
+}

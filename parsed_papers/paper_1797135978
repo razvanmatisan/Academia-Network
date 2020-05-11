@@ -1,0 +1,32 @@
+{
+    "id": "1797135978",
+    "title": "Making contextual intensional logic nonmonotonic",
+    "venue": "Contexts",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Richmond H. Thomason",
+            "id": "2151142429",
+            "org": "Philosophy Department, University of Michigan, Ann Arbor, MI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Intensional logic",
+        "Formalism (philosophy)",
+        "Natural language processing",
+        "Domain of a function",
+        "Modal logic",
+        "Circumscription",
+        "Non-monotonic logic",
+        "Computer science"
+    ],
+    "references": [
+        "87493565",
+        "1541866003",
+        "1580325692",
+        "1996404651",
+        "2114858854",
+        "2146819619"
+    ]
+}

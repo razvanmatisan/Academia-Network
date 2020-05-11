@@ -1,0 +1,31 @@
+{
+    "id": "1526738881",
+    "title": "Diagnosis Algorithms for a Symbolically Modeled Manufacturing Process",
+    "venue": "international conference on computational science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Naly Rakoto-Ravalontsalama",
+            "id": "1930245463",
+            "org": "Ecole des Mines de Nantes"
+        }
+    ],
+    "fields_of_study": [
+        "Symbolic trajectory evaluation",
+        "Scheduling (production processes)",
+        "The Symbolic",
+        "Numerical analysis",
+        "Computer science",
+        "Algorithm",
+        "Disjoint sets",
+        "Symbolic computation"
+    ],
+    "references": [
+        "153210647",
+        "181192058",
+        "1603371887",
+        "2082903517",
+        "2144386448",
+        "2504811584"
+    ]
+}

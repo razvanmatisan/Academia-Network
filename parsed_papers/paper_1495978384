@@ -1,0 +1,45 @@
+{
+    "id": "1495978384",
+    "title": "Hilbert Envelope Based Features for Far-Field Speech Recognition",
+    "venue": "international conference on machine learning",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Samuel Thomas",
+            "id": "2137063348",
+            "org": "IDIAP Research Institute, Martigny, Switzerland Ecole Polytechnique Federale de Lausanne (EPFL), Switzerland#TAB#"
+        },
+        {
+            "name": "Sriram Ganapathy",
+            "id": "2099341605",
+            "org": "IDIAP Research Institute, Martigny, Switzerland Ecole Polytechnique Federale de Lausanne (EPFL), Switzerland#TAB#"
+        },
+        {
+            "name": "Hynek Hermansky",
+            "id": "316105680",
+            "org": "IDIAP Research Institute, Martigny, Switzerland Ecole Polytechnique Federale de Lausanne (EPFL), Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Speech processing",
+        "Linear prediction",
+        "Word error rate",
+        "Speech recognition",
+        "Acoustic model",
+        "Artificial intelligence",
+        "Feature extraction",
+        "Pattern recognition",
+        "Speech coding",
+        "Voice activity detection",
+        "Linear predictive coding",
+        "Computer science"
+    ],
+    "references": [
+        "1230632900",
+        "1869334927",
+        "2106314257",
+        "2113932204",
+        "2151484683",
+        "2408660648"
+    ]
+}

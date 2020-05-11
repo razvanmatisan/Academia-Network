@@ -1,0 +1,45 @@
+{
+    "id": "1479780893",
+    "title": "Concurrency in Mobile Object Net Systems",
+    "venue": "Fundamenta Informaticae",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Michael Kohler",
+            "id": "2274058073",
+            "org": "University of Hamburg, Department of Computer Science, Vogt-Kolln-Str. 30, D-22527 Hamburg, Germany#TAB#"
+        },
+        {
+            "name": "Heiko Rolke",
+            "id": "2054789157",
+            "org": "University of Hamburg, Department of Computer Science, Vogt-Kolln-Str. 30, D-22527 Hamburg, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Process architecture",
+        "Formalism (philosophy)",
+        "Algebraic theory",
+        "Petri net",
+        "Concurrency",
+        "Conservative extension",
+        "Mobile computing",
+        "Monoid",
+        "Distributed computing",
+        "Theoretical computer science",
+        "Computer science"
+    ],
+    "references": [
+        "1503918819",
+        "1521367064",
+        "1551938402",
+        "1554183872",
+        "1692205652",
+        "1976195354",
+        "2017662480",
+        "2021257181",
+        "2042363190",
+        "2052906135",
+        "2128932399"
+    ]
+}

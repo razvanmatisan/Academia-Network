@@ -1,0 +1,43 @@
+{
+    "id": "1482551403",
+    "title": "Marked Subgraph Isomorphism of Ordered Graphs",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Xiaoyi Jiang",
+            "id": "2709506286",
+            "org": "University of Bern"
+        },
+        {
+            "name": "Horst Bunke",
+            "id": "1948338481",
+            "org": "University of Bern"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Induced subgraph isomorphism problem",
+        "Graph isomorphism",
+        "Reconstruction conjecture",
+        "Combinatorics",
+        "Maximum common subgraph isomorphism problem",
+        "Universal graph",
+        "Subgraph isomorphism problem",
+        "Graph homomorphism",
+        "Color-coding",
+        "Mathematics"
+    ],
+    "references": [
+        "1529545264",
+        "1964871246",
+        "1974672137",
+        "1994865138",
+        "2011039300",
+        "2015572123",
+        "2048799163",
+        "2053686539",
+        "2117912127",
+        "2134152592"
+    ]
+}

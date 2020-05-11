@@ -1,0 +1,35 @@
+{
+    "id": "1561769550",
+    "title": "Consultants and Enterprise Resource Planning (ERP) Systems",
+    "venue": "european conference on information systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Chris Westrup",
+            "id": "2063750100",
+            "org": "Manchester School of Accounting and Finance|University of Manchester"
+        },
+        {
+            "name": "Frank Knight",
+            "id": "2894637548",
+            "org": "Manchester School of Accounting and Finance|University of Manchester"
+        }
+    ],
+    "fields_of_study": [
+        "Enterprise information system",
+        "Knowledge management",
+        "Enterprise application integration",
+        "Information system",
+        "Computer science",
+        "Human resource management system",
+        "Enterprise software",
+        "Enterprise life cycle",
+        "Enterprise planning system",
+        "Process management",
+        "Enterprise systems engineering"
+    ],
+    "references": [
+        "2061614483",
+        "2083583504"
+    ]
+}

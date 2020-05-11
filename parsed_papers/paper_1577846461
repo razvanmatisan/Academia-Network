@@ -1,0 +1,47 @@
+{
+    "id": "1577846461",
+    "title": "Knowledge formulation for AI planning",
+    "venue": "knowledge acquisition, modeling and management",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Thomas Leo McCluskey",
+            "id": "2004870662",
+            "org": "University of Huddersfield"
+        },
+        {
+            "name": "Ron M. Simpson",
+            "id": "2165417167",
+            "org": "University of Huddersfield"
+        }
+    ],
+    "fields_of_study": [
+        "Domain model",
+        "Systems engineering",
+        "Generic programming",
+        "Computer science",
+        "Knowledge engineering",
+        "Knowledge management",
+        "Simulation",
+        "Semantic Web",
+        "Automated planning and scheduling",
+        "Animation",
+        "Knowledge acquisition",
+        "Operator (computer programming)"
+    ],
+    "references": [
+        "87081358",
+        "1496719043",
+        "1538576764",
+        "1658166031",
+        "1768242476",
+        "2011604219",
+        "2049934619",
+        "2077797310",
+        "2080300383",
+        "2119709400",
+        "2125896116",
+        "2164205643",
+        "2165049295"
+    ]
+}

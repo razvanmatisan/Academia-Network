@@ -1,0 +1,45 @@
+{
+    "id": "1486198992",
+    "title": "Multiple Classifiers System for Reducing Influences of Atypical Observations",
+    "venue": "multiple classifier systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Sarunas Raudys",
+            "id": "2636405468",
+            "org": "Vilnius Gediminas Technical University"
+        },
+        {
+            "name": "Masakazu Iwamura",
+            "id": "2062184520",
+            "org": "Tohoku University"
+        }
+    ],
+    "fields_of_study": [
+        "Perceptron",
+        "Outlier",
+        "Signal processing",
+        "Artificial neural network",
+        "Feature vector",
+        "Sensor fusion",
+        "Gaussian process",
+        "Linear discriminant analysis",
+        "Machine learning",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Mathematics"
+    ],
+    "references": [
+        "372779940",
+        "1758608206",
+        "1984879178",
+        "2002645541",
+        "2014056170",
+        "2112625074",
+        "2114625253",
+        "2126297944",
+        "2140413187",
+        "2153444127",
+        "2162054425"
+    ]
+}

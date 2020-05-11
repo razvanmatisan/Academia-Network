@@ -1,0 +1,35 @@
+{
+    "id": "1492937784",
+    "title": "An Indexing, Browsing, Search and Retrieval System for Audiovisual Libraries",
+    "venue": "european conference on research and advanced technology for digital libraries",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Jane Hunter",
+            "id": "2144420726",
+            "org": "CITEC"
+        },
+        {
+            "name": "Jan Newmarch",
+            "id": "2560836582",
+            "org": "DSTC Pty Ltd Uni. Of Qld"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "RDF",
+        "World Wide Web",
+        "Computer science",
+        "Metadata repository",
+        "Metadata",
+        "Digital library",
+        "Database",
+        "RDF Schema",
+        "Search engine indexing",
+        "Dublin Core",
+        "Video browsing"
+    ],
+    "references": [
+        "1533007579"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1579664576",
+    "title": "BiCom: An Evaluation Framework for COTS Components",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Fadrian Sudaman",
+            "id": "121263477",
+            "org": "Monash University"
+        },
+        {
+            "name": "Christine Mingins",
+            "id": "1987499189",
+            "org": "Monash University"
+        }
+    ],
+    "fields_of_study": [
+        "Documentation",
+        "Vendor",
+        "Software engineering",
+        "Satisfiability",
+        "Intellectual property",
+        "Software development",
+        "Distributed computing",
+        "Database",
+        "Component-based software engineering",
+        "Software vendor",
+        "Software",
+        "Computer science"
+    ],
+    "references": [
+        "1682329338",
+        "2142438987",
+        "2167500728"
+    ]
+}

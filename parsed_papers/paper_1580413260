@@ -1,0 +1,40 @@
+{
+    "id": "1580413260",
+    "title": "EXEMPLARS: A Practical, Extensible Framework For Dynamic Text Generation.",
+    "venue": "international conference on natural language generation",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Michael White",
+            "id": "2144885157",
+            "org": "CoGenTex , Inc"
+        },
+        {
+            "name": "Ted Caldwell",
+            "id": "2681352244",
+            "org": "CoGenTex , Inc"
+        }
+    ],
+    "fields_of_study": [
+        "Template",
+        "Artificial intelligence",
+        "Natural language processing",
+        "Computer science",
+        "Rule-based system",
+        "Java",
+        "Hybrid system",
+        "Subset and superset",
+        "Programming language",
+        "Extensibility",
+        "Object-oriented programming"
+    ],
+    "references": [
+        "103824060",
+        "1509552954",
+        "1579803652",
+        "1636687449",
+        "1970730601",
+        "2085702226",
+        "2151210447"
+    ]
+}

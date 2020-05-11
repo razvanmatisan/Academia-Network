@@ -1,0 +1,50 @@
+{
+    "id": "1552932065",
+    "title": "Low-Overhead Time-Triggered Group Membership",
+    "venue": "international workshop on distributed algorithms",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Shmuel Katz",
+            "id": "2170306587",
+            "org": "SRI International"
+        },
+        {
+            "name": "Shmuel Katz",
+            "id": "2170306587",
+            "org": "SRI International"
+        },
+        {
+            "name": "Patrick Lincoln",
+            "id": "2019942005",
+            "org": "SRI International"
+        },
+        {
+            "name": "John Rushby",
+            "id": "2157944775",
+            "org": "SRI International"
+        }
+    ],
+    "fields_of_study": [
+        "Correctness",
+        "Fault model",
+        "Fault tolerance",
+        "Formal specification",
+        "Distributed algorithm",
+        "Distributed computing",
+        "Real-time computing",
+        "Time-Triggered Protocol",
+        "Model of computation",
+        "Computer science"
+    ],
+    "references": [
+        "1540180001",
+        "2045450417",
+        "2113486906",
+        "2123630423",
+        "2152465173",
+        "2153921496",
+        "2154690088",
+        "2171317417"
+    ]
+}

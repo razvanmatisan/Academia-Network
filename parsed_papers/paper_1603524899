@@ -1,0 +1,49 @@
+{
+    "id": "1603524899",
+    "title": "Distributed and paged suffix trees for large genetic databases",
+    "venue": "combinatorial pattern matching",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Raphael Clifford",
+            "id": "2805540740",
+            "org": "Department of Computing, Imperial College, London#TAB#"
+        },
+        {
+            "name": "Marek J. Sergot",
+            "id": "2077615178",
+            "org": "Department of Computing, Imperial College, London#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Generalized suffix tree",
+        "Compressed suffix array",
+        "Data structure",
+        "Parallel computing",
+        "Suffix",
+        "Suffix tree",
+        "Longest common substring problem",
+        "FM-index",
+        "Distributed memory",
+        "Theoretical computer science",
+        "Computer science"
+    ],
+    "references": [
+        "159319308",
+        "1517600056",
+        "1548907175",
+        "1605040544",
+        "1969173824",
+        "1979282493",
+        "1982026570",
+        "1990061958",
+        "2030962049",
+        "2033740195",
+        "2049652268",
+        "2055417893",
+        "2059513841",
+        "2063556310",
+        "2087721273",
+        "2116628377"
+    ]
+}

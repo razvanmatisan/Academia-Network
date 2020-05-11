@@ -1,0 +1,36 @@
+{
+    "id": "1539367866",
+    "title": "Modeling failure priors and persistence in model-based diagnosis",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Sampath Srinivas",
+            "id": "2214796052",
+            "org": "Computer Science Department, Stanford University, Stanford, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Posterior probability",
+        "Persistence (computer science)",
+        "Statistics",
+        "Econometrics",
+        "Reliability theory",
+        "Empirical measure",
+        "Mean time between failures",
+        "Prior probability",
+        "Mathematics",
+        "Statistical model"
+    ],
+    "references": [
+        "1533476743",
+        "1534384411",
+        "1542746106",
+        "1553198434",
+        "1556353788",
+        "1606295476",
+        "1854255459",
+        "1975438021",
+        "2613998389"
+    ]
+}

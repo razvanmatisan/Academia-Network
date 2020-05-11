@@ -1,0 +1,43 @@
+{
+    "id": "1588574216",
+    "title": "An Experimental Investigation of XML Compression Tools",
+    "venue": "arXiv: Databases",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Sherif Sakr",
+            "id": "2149582598",
+            "org": "NICTA"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Data mining",
+        "Streaming XML",
+        "Binary XML",
+        "cXML",
+        "XML validation",
+        "XML Schema Editor",
+        "XML framework",
+        "Computer science",
+        "Document Structure Description",
+        "Efficient XML Interchange"
+    ],
+    "references": [
+        "58179029",
+        "1566656449",
+        "1887246875",
+        "2047342127",
+        "2074214454",
+        "2090829963",
+        "2090970745",
+        "2096064090",
+        "2130419021",
+        "2130956967",
+        "2139911998",
+        "2148628876",
+        "2155729921",
+        "2161628678",
+        "2202508117"
+    ]
+}

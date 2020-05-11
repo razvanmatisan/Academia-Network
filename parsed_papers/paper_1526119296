@@ -1,0 +1,41 @@
+{
+    "id": "1526119296",
+    "title": "Diagnosing Discrete-Event Systems: Extending the \"Diagnoser Approach\" to Deal with Telecommunication Networks",
+    "venue": "Discrete Event Dynamic Systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Laurence Roze",
+            "id": "2141916805",
+            "org": "IRISA Campus de Beaulieu 35042 Rennes Cedex, France roze@irisa.fr#TAB#"
+        },
+        {
+            "name": "Marie-Odile Cordier",
+            "id": "2778124132",
+            "org": "IRISA Campus de Beaulieu 35042 Rennes Cedex, France cordier@irisa.fr#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Expert system",
+        "Communicating finite-state machine",
+        "Finite-state machine",
+        "Generality",
+        "Real-time computing",
+        "Control reconfiguration",
+        "Packet switching",
+        "Telecommunications",
+        "Port (computer networking)",
+        "Complex system",
+        "Computer science"
+    ],
+    "references": [
+        "59365162",
+        "176276985",
+        "192320951",
+        "1860137378",
+        "2025970201",
+        "2136810764",
+        "2504811584"
+    ]
+}

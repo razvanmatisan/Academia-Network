@@ -1,0 +1,37 @@
+{
+    "id": "1608367582",
+    "title": "Heuristic Model Checking for Java Programs",
+    "venue": "international workshop on model checking software",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Alex Groce",
+            "id": "1965603299",
+            "org": "Carnegie Mellon University"
+        },
+        {
+            "name": "Willem Visser",
+            "id": "2157438562",
+            "org": "RIACS/NASA Ames Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Real time Java",
+        "Java concurrency",
+        "Scala",
+        "Model checking",
+        "strictfp",
+        "Java",
+        "Java bytecode",
+        "Java Modeling Language",
+        "Computer science",
+        "Programming language"
+    ],
+    "references": [
+        "1571819235",
+        "2024958639",
+        "2089139117",
+        "2136199343",
+        "2171480813"
+    ]
+}

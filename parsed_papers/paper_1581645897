@@ -1,0 +1,47 @@
+{
+    "id": "1581645897",
+    "title": "Object-oriented Bayesian networks",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Daphne Koller",
+            "id": "2167404190",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Avi Pfeffer",
+            "id": "2115076569",
+            "org": "Stanford University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Inference",
+        "Artificial intelligence",
+        "Machine learning",
+        "Computer science",
+        "Data mining",
+        "Modeling language",
+        "Variable-order Bayesian network",
+        "Probabilistic logic",
+        "Subclass",
+        "Bayesian network",
+        "Object-oriented programming",
+        "Statistical model"
+    ],
+    "references": [
+        "1492767570",
+        "1495132700",
+        "1510802921",
+        "1521174622",
+        "1553198434",
+        "1574624916",
+        "1770006921",
+        "2019942636",
+        "2026735162",
+        "2039964449",
+        "2090761873",
+        "2159080219",
+        "2169898528"
+    ]
+}

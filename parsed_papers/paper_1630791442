@@ -1,0 +1,34 @@
+{
+    "id": "1630791442",
+    "title": "Commitment-Aware Reputation System for the Digital Marketplace",
+    "venue": "vehicular technology conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Alisdair McDiarmid",
+            "id": "2150222254",
+            "org": "Institute for Communications and Signal Processing, University of Strathclyde. Email: a.mcdiarmid@strath.ac.uk"
+        },
+        {
+            "name": "James Irvine",
+            "id": "2117709603",
+            "org": "Inst. for Commun. & Signal Process., Strathclyde Univ., Glasgow"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile telephony",
+        "Network service",
+        "Computer network",
+        "Computer security",
+        "Network management",
+        "Quality of service",
+        "Computer science",
+        "Reputation",
+        "Reputation system",
+        "Telecommunications service",
+        "Service quality"
+    ],
+    "references": [
+        "1496228708"
+    ]
+}

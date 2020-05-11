@@ -1,0 +1,44 @@
+{
+    "id": "1486302982",
+    "title": "Secure multicast in micro-mobility environments",
+    "venue": "international conference on networking",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Ho Seok Kang",
+            "id": "2269099144",
+            "org": "Dept. of Computer Engineering, Hongik University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Young-Chul Shim",
+            "id": "2104278143",
+            "org": "Dept. of Computer Engineering, Hongik University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "IP multicast",
+        "Computer network",
+        "Protocol Independent Multicast",
+        "Multicast",
+        "Inter-domain",
+        "Xcast",
+        "Pragmatic General Multicast",
+        "Computer science",
+        "Source-specific multicast",
+        "Distance Vector Multicast Routing Protocol"
+    ],
+    "references": [
+        "1490958469",
+        "1504571417",
+        "1513582258",
+        "1757751364",
+        "1985912282",
+        "2019267322",
+        "2114393246",
+        "2120188575",
+        "2143545186",
+        "2159945176",
+        "2160293370"
+    ]
+}

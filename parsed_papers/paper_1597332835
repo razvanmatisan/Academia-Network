@@ -1,0 +1,36 @@
+{
+    "id": "1597332835",
+    "title": "Bringing Digital Storytelling to the Mobile",
+    "venue": "international conference on human computer interaction",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Thomas Reitmaier",
+            "id": "1879228252",
+            "org": "University of Cape Town Centre in ICT4D, Cape Town, South Africa#TAB#"
+        },
+        {
+            "name": "Gary Marsden",
+            "id": "2124313408",
+            "org": "University of Cape Town Centre in ICT4D, Cape Town, South Africa#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile search",
+        "Multimedia",
+        "User interface design",
+        "User-centered design",
+        "Mobile device",
+        "Human-computer interaction",
+        "Mobile Web",
+        "Interaction design",
+        "Mobile computing",
+        "Computer science",
+        "User interface"
+    ],
+    "references": [
+        "59583266",
+        "2040716446",
+        "2131606653"
+    ]
+}

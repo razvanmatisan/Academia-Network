@@ -1,0 +1,35 @@
+{
+    "id": "1490400673",
+    "title": "User Modelling as an Aid for Human Web Assistants",
+    "venue": "international conference on user modeling, adaptation, and personalization",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Johan Aberg",
+            "id": "2092583127",
+            "org": "Linkoping University"
+        },
+        {
+            "name": "Nahid Shahmehri",
+            "id": "72569007",
+            "org": "Linkoping University"
+        }
+    ],
+    "fields_of_study": [
+        "User experience design",
+        "User interface design",
+        "Multimedia",
+        "Human-computer interaction",
+        "User journey",
+        "Computer user satisfaction",
+        "User modeling",
+        "User assistance",
+        "Computer science",
+        "User requirements document",
+        "User interface"
+    ],
+    "references": [
+        "1977502321",
+        "2067634416"
+    ]
+}

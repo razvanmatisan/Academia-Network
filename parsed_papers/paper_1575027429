@@ -1,0 +1,40 @@
+{
+    "id": "1575027429",
+    "title": "Case-Based Problem Solving for Knowledge Management Systems",
+    "venue": "the florida ai research society",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Irma Becerra-Fernandez",
+            "id": "91848949",
+            "org": "Florida International University"
+        },
+        {
+            "name": "David W. Aha",
+            "id": "2011763083",
+            "org": "United States Navy"
+        }
+    ],
+    "fields_of_study": [
+        "Documentation",
+        "Machine learning",
+        "Knowledge base",
+        "Artificial intelligence",
+        "Knowledge value chain",
+        "Management science",
+        "Explicit knowledge",
+        "Procedural knowledge",
+        "Personal knowledge management",
+        "Knowledge-based systems",
+        "Computer science",
+        "Knowledge management",
+        "Disposition"
+    ],
+    "references": [
+        "1485003917",
+        "1536612688",
+        "2099495526",
+        "2118639955",
+        "2126385963"
+    ]
+}

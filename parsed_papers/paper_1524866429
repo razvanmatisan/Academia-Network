@@ -1,0 +1,39 @@
+{
+    "id": "1524866429",
+    "title": "An Optimal Randomized Routing Algorithm for the Mesh and A Class of Efficient Mesh-like Routing Networks",
+    "venue": "foundations of software technology and theoretical computer science",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Sanguthevar Rajasekaran",
+            "id": "2171202298",
+            "org": "Harvard Univ., Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Thanasis Tsantilas",
+            "id": "2232238301",
+            "org": "Harvard Univ., Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Static routing",
+        "Link-state routing protocol",
+        "Wireless Routing Protocol",
+        "MIMD",
+        "Hazy Sighted Link State Routing Protocol",
+        "Equal-cost multi-path routing",
+        "Computer science",
+        "Dynamic Source Routing",
+        "Algorithm",
+        "Destination-Sequenced Distance Vector routing"
+    ],
+    "references": [
+        "1971869874",
+        "1988294273",
+        "2012216209",
+        "2036564095",
+        "2063599114",
+        "2064687921",
+        "2066104460"
+    ]
+}

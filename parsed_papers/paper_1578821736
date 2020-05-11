@@ -1,0 +1,38 @@
+{
+    "id": "1578821736",
+    "title": "Recognizing Bundles in Time Table Graphs - A Structural Approach",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Annegret Liebers",
+            "id": "2009502068",
+            "org": "University of Konstanz"
+        },
+        {
+            "name": "Karsten Weihe",
+            "id": "1909071326",
+            "org": "Forschungsinstitut fur Diskrete Mathematik"
+        }
+    ],
+    "fields_of_study": [
+        "Vertex (geometry)",
+        "Heuristic",
+        "Hamiltonian path",
+        "Discrete mathematics",
+        "Directed graph",
+        "Preprint",
+        "Distributed computing",
+        "Bundle",
+        "Edge cover",
+        "Mathematics",
+        "Optimization problem"
+    ],
+    "references": [
+        "1784125533",
+        "2098613931",
+        "2101923813",
+        "2157930862",
+        "2174383934"
+    ]
+}

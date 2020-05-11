@@ -1,0 +1,36 @@
+{
+    "id": "1510506644",
+    "title": "A design structure for higher order quotients",
+    "venue": "theorem proving in higher order logics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Peter V. Homeier",
+            "id": "2780041467",
+            "org": "U.S. Department of Defense#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Equivalence (measure theory)",
+        "Quotient space (topology)",
+        "Equivalence relation",
+        "Equivalence class",
+        "Discrete mathematics",
+        "Congruence relation",
+        "Higher-order logic",
+        "Set theory",
+        "Quotient",
+        "Mathematics"
+    ],
+    "references": [
+        "1496188934",
+        "1532131367",
+        "1566578760",
+        "2011825885",
+        "2013140497",
+        "2093058647",
+        "2097327552",
+        "2129113936"
+    ]
+}

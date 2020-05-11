@@ -1,0 +1,36 @@
+{
+    "id": "1503315522",
+    "title": "Simulating Supercomputer Workload with Hpcwld Package for R",
+    "venue": "parallel and distributed computing: applications and technologies",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Alexander S. Rumyantsev",
+            "id": "2644692602",
+            "org": "Karelian Res. Centre, Inst. of Appl. Math. Res., Petrozavodsk, Russia"
+        }
+    ],
+    "fields_of_study": [
+        "Computation",
+        "Real-time computing",
+        "Recursion",
+        "Input/output",
+        "Workload",
+        "Parallel computing",
+        "Stochastic modelling",
+        "Theoretical computer science",
+        "Supercomputer",
+        "Computer science",
+        "Evaluation function"
+    ],
+    "references": [
+        "1585314083",
+        "1649204835",
+        "1944778298",
+        "1982651397",
+        "2071161381",
+        "2079904488",
+        "2103011872",
+        "2107959373"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "1581486313",
+    "title": "Boolean Formalism and Explanations",
+    "venue": "algebraic methodology and software technology",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Eric C. R. Hehner",
+            "id": "10265848",
+            "org": "University of Toronto"
+        }
+    ],
+    "fields_of_study": [
+        "Stone's representation theorem for Boolean algebras",
+        "Calculus",
+        "Programming language",
+        "Boolean algebra",
+        "Two-element Boolean algebra",
+        "Boolean algebras canonically defined",
+        "Complete Boolean algebra",
+        "Computer science",
+        "Free Boolean algebra",
+        "Allen's interval algebra",
+        "Relation algebra"
+    ],
+    "references": []
+}

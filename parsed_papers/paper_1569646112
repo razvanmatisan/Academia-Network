@@ -1,0 +1,39 @@
+{
+    "id": "1569646112",
+    "title": "New evolutionary algorithm for dynamic multiobjective optimization problems",
+    "venue": "international conference on natural computation",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Chun-an Liu",
+            "id": "2408840659",
+            "org": "School of Computer Science and Engineering, Xidian University, Xi'an, China#TAB#"
+        },
+        {
+            "name": "Yuping Wang",
+            "id": "2292456443",
+            "org": "School of Computer Science and Engineering, Xidian University, Xi'an, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Mathematical optimization",
+        "Evolutionary algorithm",
+        "Artificial intelligence",
+        "Population",
+        "Dynamic programming",
+        "Multi-objective optimization",
+        "Operator (computer programming)",
+        "Algorithm",
+        "New mutation",
+        "Optimization problem",
+        "Computer science"
+    ],
+    "references": [
+        "9691476",
+        "180765065",
+        "1499946327",
+        "1565075560",
+        "2099517271"
+    ]
+}

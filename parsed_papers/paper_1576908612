@@ -1,0 +1,38 @@
+{
+    "id": "1576908612",
+    "title": "Trajectory Clustering via Effective Partitioning",
+    "venue": "flexible query answering systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Elio Masciari",
+            "id": "238197960",
+            "org": "ICAR-CNR, Institute for the High Performance Computing of Italian National Research Council,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Supply chain management",
+        "Data mining",
+        "Global Positioning System",
+        "Discrete Fourier transform",
+        "Cluster analysis",
+        "Spatial analysis",
+        "GSM",
+        "Data stream clustering",
+        "Cellular network",
+        "Computer science"
+    ],
+    "references": [
+        "1673310716",
+        "1981398125",
+        "2012580531",
+        "2046466133",
+        "2093038664",
+        "2095897464",
+        "2096070062",
+        "2099594331",
+        "2110707662",
+        "2141136363",
+        "2150593711"
+    ]
+}

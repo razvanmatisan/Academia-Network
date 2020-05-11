@@ -1,0 +1,37 @@
+{
+    "id": "1588156777",
+    "title": "Dendritic Cell Trafficking: From Immunology to Engineering",
+    "venue": "international conference on artificial immune systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Emma Hart",
+            "id": "2103849064",
+            "org": "Edinburgh Napier University, Edinburgh, UK#TAB#"
+        },
+        {
+            "name": "Despina Davoudani",
+            "id": "343199859",
+            "org": "Edinburgh Napier University, Edinburgh, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Wireless sensor network",
+        "Computational model",
+        "Immune system",
+        "Artificial immune system",
+        "Biological data",
+        "Dendritic cell",
+        "Immunology",
+        "Computer science",
+        "Systems immunology"
+    ],
+    "references": [
+        "1500240005",
+        "1984246341",
+        "2165139042",
+        "2338717024"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "1817900002",
+    "title": "XAL: an algebra for XML query optimization",
+    "venue": "australasian database conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Flavius Frasincar",
+            "id": "2224625144",
+            "org": "Eindhoven University of Technology, Eindhoven, the Netherlands#TAB#"
+        },
+        {
+            "name": "Gjpm Geert-Jan Houben",
+            "id": "2396825720",
+            "org": "Eindhoven University of Technology, Eindhoven, the Netherlands#TAB#"
+        },
+        {
+            "name": "Cd Pau",
+            "id": "2151249465",
+            "org": "Eindhoven University of Technology, Eindhoven, the Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "XML Encryption",
+        "Streaming XML",
+        "Algebra",
+        "Theoretical computer science",
+        "XML Schema Editor",
+        "XML framework",
+        "Computer science",
+        "XML Catalog",
+        "XML validation",
+        "Simple API for XML",
+        "Efficient XML Interchange"
+    ],
+    "references": [
+        "76022819",
+        "174407363",
+        "1481805023",
+        "1508914815",
+        "1512698516",
+        "1550189516",
+        "1987552238",
+        "1992810975",
+        "1994725824",
+        "2078015341",
+        "2113397233",
+        "2156876717",
+        "2157087390",
+        "2295914203"
+    ]
+}

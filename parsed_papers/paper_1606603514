@@ -1,0 +1,28 @@
+{
+    "id": "1606603514",
+    "title": "RANVEC and the Arc Segmentation Contest",
+    "venue": "graphics recognition",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Xavier Hilaire",
+            "id": "324268231",
+            "org": "LORIA"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "CONTEST",
+        "Computer vision",
+        "Vectorization (mathematics)",
+        "Machine learning",
+        "Segmentation",
+        "Arc (geometry)",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1509130113",
+        "2115712375",
+        "2167771098"
+    ]
+}

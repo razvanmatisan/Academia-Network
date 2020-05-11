@@ -1,0 +1,37 @@
+{
+    "id": "1503204116",
+    "title": "Sorted Unification Using Set Constraints",
+    "venue": "conference on automated deduction",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Tomas E. Uribe",
+            "id": "1998231181",
+            "org": "University of Illinois"
+        }
+    ],
+    "fields_of_study": [
+        "sort",
+        "Algorithm",
+        "Discrete mathematics",
+        "Decidability",
+        "Tree sort",
+        "Horn clause",
+        "Combinatorics",
+        "Disjunctive normal form",
+        "Sortal",
+        "Regular tree grammar",
+        "Unification",
+        "Mathematics"
+    ],
+    "references": [
+        "160847359",
+        "1532420827",
+        "1571591500",
+        "1601086057",
+        "1604517337",
+        "1970861542",
+        "2035346801",
+        "2076696436"
+    ]
+}

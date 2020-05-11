@@ -1,0 +1,49 @@
+{
+    "id": "1604677730",
+    "title": "Domain Knowledge Extracting in a Chinese Natural Language Interface to Databases: NChiql",
+    "venue": "knowledge discovery and data mining",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Xiaofeng Meng",
+            "id": "2798428426",
+            "org": "Renmin University of China"
+        },
+        {
+            "name": "Xiaofeng Meng",
+            "id": "2798428426",
+            "org": "Renmin University of China"
+        },
+        {
+            "name": "Yong Zhou",
+            "id": "2434870787",
+            "org": "Renmin University of China"
+        },
+        {
+            "name": "Shan Wang",
+            "id": "2131088066",
+            "org": "Renmin University of China"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Conceptual graph",
+        "Domain knowledge",
+        "Knowledge base",
+        "Semantics",
+        "Natural language",
+        "Entity-relationship model",
+        "Document processing",
+        "Database",
+        "Natural language processing",
+        "Computer science",
+        "Natural language user interface",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1498996471",
+        "2057670927",
+        "2096619464",
+        "2121974041"
+    ]
+}

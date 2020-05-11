@@ -1,0 +1,52 @@
+{
+    "id": "1538601305",
+    "title": "Integrating Grasp Planning and Visual Servoing for Automatic Grasping",
+    "venue": "international symposium on experimental robotics",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Radu Horaud",
+            "id": "2032841768",
+            "org": "GRAVIR-IMAG & INRIA Rhone-Alpes"
+        },
+        {
+            "name": "Fadi Dornaika",
+            "id": "2182042274",
+            "org": "GRAVIR-IMAG & INRIA Rhone-Alpes"
+        },
+        {
+            "name": "Christian Bard",
+            "id": "1988672314",
+            "org": "GRAVIR-IMAG & INRIA Rhone-Alpes"
+        },
+        {
+            "name": "Christian Laugier",
+            "id": "1685714047",
+            "org": "GRAVIR-IMAG & INRIA Rhone-Alpes"
+        }
+    ],
+    "fields_of_study": [
+        "Invariant (mathematics)",
+        "Simulation",
+        "Engineering",
+        "GRASP",
+        "Vector field",
+        "Jacobian matrix and determinant",
+        "Control theory",
+        "Visual servoing",
+        "Robot end effector",
+        "Computer vision",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1830786326",
+        "1923448853",
+        "2088969313",
+        "2100116355",
+        "2143597104",
+        "2146922385",
+        "2160156624",
+        "2161505441",
+        "2164106576"
+    ]
+}

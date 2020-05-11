@@ -1,0 +1,42 @@
+{
+    "id": "1552969166",
+    "title": "The Performance of Concurrent Red-Black Tree Algorithms",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Sabine Hanke",
+            "id": "2112188093",
+            "org": "Universitat Freiburg"
+        }
+    ],
+    "fields_of_study": [
+        "Red-black tree",
+        "Discrete geometry",
+        "Search tree",
+        "Response time",
+        "Mathematical optimization",
+        "Speedup",
+        "Concurrency",
+        "AVL tree",
+        "Search algorithm",
+        "Algorithm",
+        "Distributed computing",
+        "Computer science"
+    ],
+    "references": [
+        "126128094",
+        "1514971587",
+        "1885915074",
+        "1971289999",
+        "1974269564",
+        "1986878949",
+        "2011297770",
+        "2021615496",
+        "2055947636",
+        "2072393890",
+        "2082993995",
+        "2113764458",
+        "2125197786"
+    ]
+}

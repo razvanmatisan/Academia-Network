@@ -1,0 +1,32 @@
+{
+    "id": "1591099339",
+    "title": "Faster Modular Multiplication by Operand Scaling",
+    "venue": "international cryptology conference",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Colin D. Walter",
+            "id": "2170406325",
+            "org": "U.M.I.S.T."
+        }
+    ],
+    "fields_of_study": [
+        "Arbitrary-precision arithmetic",
+        "Theoretical computer science",
+        "Kochanski multiplication",
+        "Operand",
+        "Saturation arithmetic",
+        "Modular arithmetic",
+        "Scaling",
+        "Speedup",
+        "Parallel computing",
+        "Cryptography",
+        "Computer science"
+    ],
+    "references": [
+        "1540582803",
+        "1996360405",
+        "2036085017",
+        "2044915798"
+    ]
+}

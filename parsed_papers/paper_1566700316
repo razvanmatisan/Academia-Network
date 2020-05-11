@@ -1,0 +1,46 @@
+{
+    "id": "1566700316",
+    "title": "An improved immune genetic algorithm for multiobjective optimization",
+    "venue": "international conference on swarm intelligence",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Guixia He",
+            "id": "2666595465",
+            "org": "Zhijiang College, Zhejiang University of Technology, Hangzhou, China#TAB#"
+        },
+        {
+            "name": "Jiaquan Gao",
+            "id": "2628655548",
+            "org": "Zhijiang College, Zhejiang University of Technology, Hangzhou, China#TAB#"
+        },
+        {
+            "name": "Luoke Hu",
+            "id": "2228665566",
+            "org": "College of Mechanical Engineering, Zhejiang University of Technology, Hangzhou, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Truncation selection",
+        "Selection (genetic algorithm)",
+        "Artificial intelligence",
+        "Genetic algorithm",
+        "Fitness proportionate selection",
+        "Mathematical optimization",
+        "Meta-optimization",
+        "Machine learning",
+        "Cultural algorithm",
+        "Tournament selection",
+        "Population-based incremental learning",
+        "Computer science"
+    ],
+    "references": [
+        "268706133",
+        "1569153844",
+        "2106334424",
+        "2109865546",
+        "2116661285",
+        "2126105956",
+        "2140066605"
+    ]
+}

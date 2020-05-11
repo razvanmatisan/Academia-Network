@@ -1,0 +1,29 @@
+{
+    "id": "1530816677",
+    "title": "Implementing Global Constraints with Index-Sets and Constraint Templates",
+    "venue": "principles and practice of constraint programming",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Yves Colombani",
+            "id": "2702426329",
+            "org": "Quinton Lodge"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint programming",
+        "Computer science",
+        "Discrete mathematics",
+        "Constraint (mathematics)",
+        "Constraint satisfaction dual problem",
+        "Mathematical optimization",
+        "Binary constraint",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Constraint logic programming",
+        "Constraint learning",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "1547956499"
+    ]
+}

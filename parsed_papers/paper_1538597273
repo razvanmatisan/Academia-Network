@@ -1,0 +1,37 @@
+{
+    "id": "1538597273",
+    "title": "On the Power of Communication in Alternating Machines",
+    "venue": "mathematical foundations of computer science",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Anna Slobodova",
+            "id": "2894238810",
+            "org": "Comenius University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Two-way deterministic finite automaton",
+        "NSPACE",
+        "Turing completeness",
+        "Time hierarchy theorem",
+        "Quantum finite automata",
+        "Nondeterministic finite automaton",
+        "Alternating Turing machine",
+        "Computer science",
+        "Super-recursive algorithm"
+    ],
+    "references": [
+        "1817451992",
+        "1971842919",
+        "2034524526",
+        "2040655280",
+        "2061631274",
+        "2067825920",
+        "2077819737",
+        "2088973818",
+        "2106778549",
+        "2112208288"
+    ]
+}

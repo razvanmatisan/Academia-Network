@@ -1,0 +1,31 @@
+{
+    "id": "1493328794",
+    "title": "The Mechanization of Existence Proofs of Recursive Predicates",
+    "venue": "conference on automated deduction",
+    "year": 1984,
+    "authors": [
+        {
+            "name": "Ketan Mulmuley",
+            "id": "2306337701",
+            "org": "Carnegie-Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Fixed-point theorem",
+        "Domain theory",
+        "Recursion",
+        "Kakutani fixed-point theorem",
+        "Discrete mathematics",
+        "Mathematical proof",
+        "Fixed point",
+        "Brouwer fixed-point theorem",
+        "Picard-Lindelof theorem",
+        "Mathematics"
+    ],
+    "references": [
+        "1523016082",
+        "1580627069",
+        "1976711789",
+        "2011001069"
+    ]
+}

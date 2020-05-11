@@ -1,0 +1,30 @@
+{
+    "id": "107556815",
+    "title": "Additive and linear structures of cryptographic functions",
+    "venue": "fast software encryption",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Xuejia Lai",
+            "id": "2697549623",
+            "org": "R3 Security Engineering AG"
+        }
+    ],
+    "fields_of_study": [
+        "Security of cryptographic hash functions",
+        "Linear independence",
+        "Linear map",
+        "Prime (order theory)",
+        "Linear complex structure",
+        "Mathematical analysis",
+        "Inverse function",
+        "Invariant (mathematics)",
+        "Linear function",
+        "Mathematics"
+    ],
+    "references": [
+        "1587697857",
+        "1889623446",
+        "1979802565"
+    ]
+}

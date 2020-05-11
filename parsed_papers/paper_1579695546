@@ -1,0 +1,40 @@
+{
+    "id": "1579695546",
+    "title": "Inefficiency of Variant Characteristics for Substitution-Permutation Networks with Position Permutations",
+    "venue": "australasian conference on information security and privacy",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Albert Sadowski",
+            "id": "2277549819",
+            "org": "Warsaw University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Higher-order differential cryptanalysis",
+        "Mod n cryptanalysis",
+        "Differential cryptanalysis",
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "Impossible differential cryptanalysis",
+        "Neural cryptography",
+        "Piling-up lemma",
+        "Block cipher",
+        "Linear cryptanalysis",
+        "Mathematics"
+    ],
+    "references": [
+        "1527545029",
+        "1543271574",
+        "1575149347",
+        "1591035421",
+        "1599653461",
+        "1629301835",
+        "1803612032",
+        "1974104427",
+        "2060798286",
+        "2069489561",
+        "2081451319",
+        "2142154169"
+    ]
+}

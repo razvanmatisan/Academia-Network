@@ -1,0 +1,59 @@
+{
+    "id": "1591697531",
+    "title": "Preventing Misleading Presentations of XML Documents: Some Initial Proposals",
+    "venue": "adaptive hypermedia and adaptive web based systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Alison Cawsey",
+            "id": "2012133725",
+            "org": "Heriot-Watt University"
+        },
+        {
+            "name": "Euan W. Dempster",
+            "id": "2079198873",
+            "org": "Heriot-Watt University"
+        },
+        {
+            "name": "Diana Bental",
+            "id": "675648573",
+            "org": "Heriot-Watt University"
+        },
+        {
+            "name": "D Pacey",
+            "id": "1966941734",
+            "org": "Heriot-Watt University"
+        },
+        {
+            "name": "Howard Williams",
+            "id": "2574268168",
+            "org": "Heriot-Watt University"
+        },
+        {
+            "name": "Lachlan Mhor MacKinnon",
+            "id": "2159155501",
+            "org": "Heriot-Watt University"
+        },
+        {
+            "name": "David Howie Marwick",
+            "id": "2005645385",
+            "org": "Heriot-Watt University"
+        }
+    ],
+    "fields_of_study": [
+        "Processing Instruction",
+        "Electronic document",
+        "Well-formed document",
+        "Information retrieval",
+        "XML",
+        "World Wide Web",
+        "XSLT",
+        "XML validation",
+        "Document type definition",
+        "Computer science",
+        "Added value"
+    ],
+    "references": [
+        "1571386843"
+    ]
+}

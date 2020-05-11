@@ -1,0 +1,29 @@
+{
+    "id": "1552932911",
+    "title": "A General Model of Dialogue Interpretation for Concept Tutoring Systems",
+    "venue": "brazilian symposium on artificial intelligence",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Alexandre I. Direne",
+            "id": "2558926713",
+            "org": "Centro Politecnico, Jardim das Americas"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Natural language processing",
+        "Implementation",
+        "Artificial intelligence",
+        "Feature (computer vision)",
+        "Domain specificity",
+        "Computer science",
+        "Experiential knowledge",
+        "General knowledge",
+        "Intelligent tutoring system"
+    ],
+    "references": [
+        "153710428",
+        "1975757445"
+    ]
+}

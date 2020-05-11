@@ -1,0 +1,30 @@
+{
+    "id": "1523652918",
+    "title": "Compositional Term Rewriting: An Algebraic Proof of Toyama's Theorem",
+    "venue": "rewriting techniques and applications",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Christoph Liith",
+            "id": "1966932469",
+            "org": "Universit"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Discrete mathematics",
+        "Monad (functional programming)",
+        "Universal algebra",
+        "Category theory",
+        "Principle of compositionality",
+        "Knuth-Bendix completion algorithm",
+        "Confluence",
+        "Disjoint union",
+        "Rewriting",
+        "Mathematics"
+    ],
+    "references": [
+        "2010883554",
+        "2132371811"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "181662476",
+    "title": "Scalable parallel interval propagation for sparse constraint satisfaction problems",
+    "venue": "international andrei ershov memorial conference on perspectives of system informatics",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Evgueni Petrov",
+            "id": "2465392269",
+            "org": "Intel, Russia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Complexity of constraint satisfaction",
+        "Constraint satisfaction dual problem",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Parallel computing",
+        "Local consistency",
+        "Backtracking",
+        "AC-3 algorithm",
+        "Constraint learning",
+        "Distributed computing",
+        "Computer science",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "158822462",
+        "185404516",
+        "1516093536",
+        "1823909182",
+        "2019302423",
+        "2025974163",
+        "2031889887",
+        "2042619750",
+        "2067633747",
+        "2104861744"
+    ]
+}

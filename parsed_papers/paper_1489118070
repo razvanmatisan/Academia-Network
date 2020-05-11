@@ -1,0 +1,35 @@
+{
+    "id": "1489118070",
+    "title": "A Classification System for Credit Card Transactions",
+    "venue": "EWCBR '94 Selected papers from the Second European Workshop on Advances in Case-Based Reasoning",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Eliseo Berni Reategui",
+            "id": "2109510128",
+            "org": "University College London"
+        },
+        {
+            "name": "John A. Campbell",
+            "id": "2107953860",
+            "org": "University College London"
+        }
+    ],
+    "fields_of_study": [
+        "Database transaction",
+        "Computer security",
+        "Artificial neural network",
+        "Transaction processing",
+        "Real-time computing",
+        "Case-based reasoning",
+        "Standing Order",
+        "Transaction processing system",
+        "Card security code",
+        "ATM card",
+        "Computer science"
+    ],
+    "references": [
+        "1883163132",
+        "2060849841"
+    ]
+}

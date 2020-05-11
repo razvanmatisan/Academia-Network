@@ -1,0 +1,42 @@
+{
+    "id": "1554633344",
+    "title": "Characterizations of Multivalued Dependencies and Related Expressions",
+    "venue": "discovery science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jose L. Balcazar",
+            "id": "2115119778",
+            "org": "Universitat Politecnica de Catalunya"
+        },
+        {
+            "name": "Jaume Baixeries",
+            "id": "93054333",
+            "org": "Universitat Politecnica de Catalunya"
+        }
+    ],
+    "fields_of_study": [
+        "Horn clause",
+        "Discrete mathematics",
+        "Machine learning",
+        "Artificial intelligence",
+        "Multivalued dependency",
+        "Expression (mathematics)",
+        "Functional dependency",
+        "Computer science"
+    ],
+    "references": [
+        "1503729935",
+        "1553696291",
+        "1881756506",
+        "1918349060",
+        "1994962776",
+        "2036758891",
+        "2038897673",
+        "2058269520",
+        "2110810394",
+        "2125223317",
+        "2166549982",
+        "2168578744"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1504834410",
+    "title": "Proxy Cache Replacement Algorithms: A History-Based Approach",
+    "venue": "international world wide web conferences",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Athena Vakali",
+            "id": "2045559396",
+            "org": "Department of Informatics, Aristotle University, Thessaloniki 54006, Greece avakali@csd.auth.gr#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Web cache",
+        "Snoopy cache",
+        "World Wide Web",
+        "Adaptive replacement cache",
+        "Cache coloring",
+        "Cache",
+        "Smart Cache",
+        "Cache invalidation",
+        "Real-time computing",
+        "Cache algorithms",
+        "Computer science",
+        "Algorithm"
+    ],
+    "references": [
+        "142559593",
+        "1527961683",
+        "1533813939",
+        "1555809485",
+        "1984448545",
+        "2026396150",
+        "2034559629",
+        "2040794102",
+        "2054308357",
+        "2100135702",
+        "2133369126",
+        "2138350977",
+        "2155979007",
+        "2156384678",
+        "2714193396"
+    ]
+}

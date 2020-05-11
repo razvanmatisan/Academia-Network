@@ -1,0 +1,51 @@
+{
+    "id": "1492571724",
+    "title": "Putting Time into Proof Outlines",
+    "venue": "real time theory in practice rex workshop",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Fred B. Schneider",
+            "id": "2106636992",
+            "org": "Cornell University"
+        },
+        {
+            "name": "Bard Bloom",
+            "id": "2158463219",
+            "org": "Cornell University"
+        },
+        {
+            "name": "Keith Marzullo",
+            "id": "2781422055",
+            "org": "Cornell University"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical logic",
+        "Correctness",
+        "Software quality",
+        "Mutual exclusion",
+        "Algorithm",
+        "Logic programming",
+        "Automated theorem proving",
+        "Computer science",
+        "Technical report",
+        "Computer programming"
+    ],
+    "references": [
+        "1542297244",
+        "1964727056",
+        "1981930797",
+        "2014552079",
+        "2066210260",
+        "2084291524",
+        "2102951280",
+        "2111706174",
+        "2113535112",
+        "2118229393",
+        "2123464354",
+        "2132334337",
+        "2166071597",
+        "2166656159"
+    ]
+}

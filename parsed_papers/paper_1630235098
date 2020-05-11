@@ -1,0 +1,37 @@
+{
+    "id": "1630235098",
+    "title": "Euclidean Reconstruction from Uncalibrated Views",
+    "venue": "Proceedings of the Second Joint European - US Workshop on Applications of Invariance in Computer Vision",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Richard I. Hartley",
+            "id": "2138371963",
+            "org": "G.E. CRD"
+        }
+    ],
+    "fields_of_study": [
+        "Linear least squares",
+        "Projective geometry",
+        "Plane at infinity",
+        "Iterative method",
+        "Euclidean geometry",
+        "Synthetic data",
+        "Artificial intelligence",
+        "Levenberg-Marquardt algorithm",
+        "Computer vision",
+        "Structure from motion",
+        "Mathematics"
+    ],
+    "references": [
+        "1482517735",
+        "1943823759",
+        "1981198419",
+        "2028283171",
+        "2065592949",
+        "2105565426",
+        "2143846727",
+        "2150623853",
+        "2156995127"
+    ]
+}

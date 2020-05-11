@@ -1,0 +1,42 @@
+{
+    "id": "1553695279",
+    "title": "Computing Minimal Probabilistic Rules from Probabilistic Decision Tables: Decision Matrix Approach",
+    "venue": "atlantic web intelligence conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Wojciech Ziarko",
+            "id": "2065594098",
+            "org": "University of Regina"
+        },
+        {
+            "name": "Xiang Xiao",
+            "id": "2492789745",
+            "org": "University of Regina"
+        }
+    ],
+    "fields_of_study": [
+        "Influence diagram",
+        "Weighted sum model",
+        "Discrete mathematics",
+        "Probabilistic CTL",
+        "Scoring rule",
+        "Machine learning",
+        "Probabilistic relevance model",
+        "Computer science",
+        "Algorithm",
+        "Decision rule",
+        "Probabilistic analysis of algorithms",
+        "Artificial intelligence",
+        "Divergence-from-randomness model"
+    ],
+    "references": [
+        "1519441199",
+        "1539013671",
+        "1822488028",
+        "1967930559",
+        "1969463949",
+        "2100364829",
+        "2125055259"
+    ]
+}

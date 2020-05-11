@@ -1,0 +1,37 @@
+{
+    "id": "1577315970",
+    "title": "Using Formal Concept Analysis towards Cooperative E-Learning",
+    "venue": "pacific rim knowledge acquisition workshop",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Ghassan Beydoun",
+            "id": "1239481227",
+            "org": "School of Information Systems and Technology, University of Wollongong, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Learning community",
+        "Exploit",
+        "Machine learning",
+        "Artificial intelligence",
+        "Web page",
+        "Semantic Web",
+        "Knowledge acquisition",
+        "Formal concept analysis",
+        "Data science",
+        "Software",
+        "Computer science"
+    ],
+    "references": [
+        "1503729935",
+        "1555830825",
+        "1573731755",
+        "1574321183",
+        "1584391277",
+        "2011063197",
+        "2062376668",
+        "2128632752",
+        "2131567213"
+    ]
+}

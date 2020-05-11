@@ -1,0 +1,27 @@
+{
+    "id": "1544732094",
+    "title": "An Informational Network for a Natural Talking System",
+    "venue": "Proceedings of the The First Great Lakes Computer Science Conference on Computing in the 90's",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Paul Buchheit",
+            "id": "2294324716",
+            "org": "University of Illinois at Chicago"
+        }
+    ],
+    "fields_of_study": [
+        "Question answering",
+        "Natural language processing",
+        "Predicate (grammar)",
+        "Knowledge representation and reasoning",
+        "Matrix (mathematics)",
+        "Forward chaining",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "135363680",
+        "2104359565"
+    ]
+}

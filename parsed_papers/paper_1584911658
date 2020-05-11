@@ -1,0 +1,45 @@
+{
+    "id": "1584911658",
+    "title": "Taking advantage of LOM semantics for supporting lesson authoring",
+    "venue": "international conference on move to meaningful internet systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Olivier Motelet",
+            "id": "2311770367",
+            "org": "Universidad de Chile, Santiago, Chile#TAB#"
+        },
+        {
+            "name": "Nelson Baloian",
+            "id": "402691554",
+            "org": "Universidad de Chile, Santiago, Chile#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Interoperability",
+        "Reuse",
+        "Information retrieval",
+        "Semantics",
+        "Learning object",
+        "Document retrieval",
+        "Data mining",
+        "Distributed computing",
+        "Metadata",
+        "Recommender system",
+        "Learning object metadata",
+        "Computer science"
+    ],
+    "references": [
+        "88671989",
+        "142669638",
+        "1484919570",
+        "1520096050",
+        "1528072184",
+        "2046940298",
+        "2122642227",
+        "2128010704",
+        "2133634413",
+        "2143503002",
+        "2169007882"
+    ]
+}

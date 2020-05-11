@@ -1,0 +1,39 @@
+{
+    "id": "1500751270",
+    "title": "Graph Rewriting and Automatic, Machine-Independent Program Optimization",
+    "venue": "workshop on graph theoretic concepts in computer science",
+    "year": 1980,
+    "authors": [
+        {
+            "name": "Manfred Nagl",
+            "id": "2251328658",
+            "org": "Seminar fur Informatik EWH Koblenz"
+        }
+    ],
+    "fields_of_study": [
+        "Source code",
+        "Discrete mathematics",
+        "Control flow graph",
+        "Graph rewriting",
+        "Induction variable",
+        "Common subexpression elimination",
+        "Computer science",
+        "Partial redundancy elimination",
+        "Theoretical computer science",
+        "Data-flow analysis",
+        "Abstract semantic graph"
+    ],
+    "references": [
+        "1479944778",
+        "1603358947",
+        "1970357395",
+        "1991133357",
+        "1993907917",
+        "2044838697",
+        "2072592376",
+        "2077265102",
+        "2087493276",
+        "2163091968",
+        "2177002043"
+    ]
+}

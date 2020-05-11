@@ -1,0 +1,51 @@
+{
+    "id": "1599609972",
+    "title": "Automated service composition using heuristic search",
+    "venue": "business process management",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Harald Meyer",
+            "id": "2239985005",
+            "org": "Hasso-Plattner-Institute for IT-Systems-Engineering at the University of Potsdam, Potsdam, Germany#TAB#"
+        },
+        {
+            "name": "Mathias Weske",
+            "id": "2185344053",
+            "org": "Hasso-Plattner-Institute for IT-Systems-Engineering at the University of Potsdam, Potsdam, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Incremental heuristic search",
+        "Business process",
+        "Computer science",
+        "Heuristic",
+        "Control flow",
+        "Beam search",
+        "Database",
+        "Quality of service",
+        "Distributed computing",
+        "Search algorithm",
+        "Service quality"
+    ],
+    "references": [
+        "164068750",
+        "1545688112",
+        "1569285997",
+        "1579367316",
+        "1772822243",
+        "1827139443",
+        "1963833910",
+        "2022090818",
+        "2025460523",
+        "2052989324",
+        "2102553526",
+        "2115670157",
+        "2130160035",
+        "2133723816",
+        "2150952649",
+        "2171798962",
+        "2611722166"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1490418062",
+    "title": "Trees as contexts in formal language generation",
+    "venue": "international conference natural language processing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Adrian Horia Dediu",
+            "id": "252998477",
+            "org": "Research Group on Mathematical Linguistics, Rovira i Virgili University, Tarragona, Spain#TAB#"
+        },
+        {
+            "name": "Gabriela Martin",
+            "id": "2115700645",
+            "org": "Research Group on Mathematical Linguistics, Rovira i Virgili University, Tarragona, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Tree-adjoining grammar",
+        "Formal language",
+        "Abstract family of languages",
+        "Cone (formal languages)",
+        "Indexed language",
+        "Natural language processing",
+        "L-attributed grammar",
+        "Second-generation programming language",
+        "Extended Affix Grammar",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1479758177",
+        "1493423606",
+        "1530843863",
+        "1532481617",
+        "1768003599"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "1573806080",
+    "title": "Equality for prolog",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1983,
+    "authors": [
+        {
+            "name": "William A. Kornfeld",
+            "id": "264189975",
+            "org": "MIT Artificial Intelligence Laboratory, Cambridge, Massachusetts#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Overhead (computing)",
+        "Object-oriented programming",
+        "Algorithm",
+        "Logic programming",
+        "Mathematics",
+        "Unification",
+        "Abstraction",
+        "Prolog"
+    ],
+    "references": [
+        "72412611",
+        "1748872274"
+    ]
+}

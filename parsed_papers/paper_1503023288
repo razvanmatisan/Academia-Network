@@ -1,0 +1,39 @@
+{
+    "id": "1503023288",
+    "title": "Reverse engineering of relational databases to ontologies",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Irina Astrova",
+            "id": "15409930",
+            "org": "Tallinn University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Relational database",
+        "Reverse engineering",
+        "Annotation",
+        "Semantic Web",
+        "Entity-relationship model",
+        "Web page",
+        "Data mining",
+        "Ontology (information science)",
+        "Computer science"
+    ],
+    "references": [
+        "170546238",
+        "1509605682",
+        "1554917839",
+        "1659541576",
+        "1692244837",
+        "2003444513",
+        "2012325011",
+        "2020490061",
+        "2067812505",
+        "2084130127",
+        "2086677639",
+        "2108683925"
+    ]
+}

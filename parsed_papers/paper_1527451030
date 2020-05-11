@@ -1,0 +1,32 @@
+{
+    "id": "1527451030",
+    "title": "Moby/plc -- A design tool for hierarchical real-time automata",
+    "venue": "fundamental approaches to software engineering",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Josef Tapken",
+            "id": "7064341",
+            "org": "University of Oldenburg, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Rotation formalisms in three dimensions",
+        "Theoretical computer science",
+        "Programming language",
+        "Modular design",
+        "Real-time operating system",
+        "Software development",
+        "Automaton",
+        "Computer science",
+        "Code generation",
+        "Design tool",
+        "Programmable logic controller"
+    ],
+    "references": [
+        "1561505194",
+        "2118877810",
+        "2140769622",
+        "2167467151"
+    ]
+}

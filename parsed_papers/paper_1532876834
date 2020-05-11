@@ -1,0 +1,35 @@
+{
+    "id": "1532876834",
+    "title": "Label Ranking with Abstention: Predicting Partial Orders by Thresholding Probability Distributions (Extended Abstract)",
+    "venue": "arXiv: Artificial Intelligence",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Weiwei Cheng",
+            "id": "2116283648",
+            "org": "University of Marburg"
+        },
+        {
+            "name": "Eyke Hullermeier",
+            "id": "323026139",
+            "org": "University of Marburg"
+        }
+    ],
+    "fields_of_study": [
+        "Probability distribution",
+        "Data mining",
+        "Machine learning",
+        "Artificial intelligence",
+        "Pairwise comparison",
+        "Statistics",
+        "Ranking",
+        "Thresholding",
+        "Parameterized complexity",
+        "Mathematics"
+    ],
+    "references": [
+        "1507048016",
+        "1526445072",
+        "2107853397"
+    ]
+}

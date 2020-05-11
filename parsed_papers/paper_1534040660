@@ -1,0 +1,49 @@
+{
+    "id": "1534040660",
+    "title": "A framework for agent-based simulations of hybrid energy infrastructures",
+    "venue": "federated conference on computer science and information systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Christian Derksen",
+            "id": "1985994092",
+            "org": "DAWIS, University of Duisburg-Essen, Essen, Germany"
+        },
+        {
+            "name": "Cherif Branki",
+            "id": "728452404",
+            "org": "DAWIS, University of Duisburg-Essen, Essen, Germany"
+        },
+        {
+            "name": "Rainer Unland",
+            "id": "664262605",
+            "org": "DAWIS, University of Duisburg-Essen, Essen, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Energy engineering",
+        "Distributed generation",
+        "Artificial intelligence",
+        "Energy supply",
+        "Smart grid",
+        "Simulation",
+        "Grid energy storage",
+        "Computer science",
+        "Small number",
+        "Distributed computing",
+        "Multi-agent system",
+        "Power system simulation"
+    ],
+    "references": [
+        "1498303508",
+        "1520358457",
+        "1571811746",
+        "1595255054",
+        "1680779453",
+        "1970927355",
+        "2058773721",
+        "2084724629",
+        "2124344619"
+    ]
+}

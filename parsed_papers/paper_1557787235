@@ -1,0 +1,39 @@
+{
+    "id": "1557787235",
+    "title": "Evolving Approximate Image Filters",
+    "venue": "evoworkshops on applications of evolutionary computing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Simon Colton",
+            "id": "2107862633",
+            "org": "Computational Creativity Group Department of Computing, Imperial College London,#TAB#"
+        },
+        {
+            "name": "Pedro Torres",
+            "id": "2568606476",
+            "org": "Computational Creativity Group Department of Computing, Imperial College London,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Digital image processing",
+        "Automatic image annotation",
+        "Layers",
+        "Feature detection (computer vision)",
+        "Composite image filter",
+        "Image processing",
+        "Image warping",
+        "Computer vision",
+        "Theoretical computer science",
+        "Artificial intelligence",
+        "Binary image",
+        "Computer science"
+    ],
+    "references": [
+        "1592181655",
+        "2050462717",
+        "2094954730",
+        "2120723178",
+        "2135950684"
+    ]
+}

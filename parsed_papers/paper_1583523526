@@ -1,0 +1,39 @@
+{
+    "id": "1583523526",
+    "title": "An emotional particle swarm optimization algorithm",
+    "venue": "international conference on natural computation",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Yang Ge",
+            "id": "2480134505",
+            "org": "College of Computer Science and Technology, Harbin Engineering University, Harbin, Heilongjiang Province#TAB#"
+        },
+        {
+            "name": "Zhang Rubo",
+            "id": "155417150",
+            "org": "College of Computer Science and Technology, Harbin Engineering University, Harbin, Heilongjiang Province#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Evolutionary algorithm",
+        "Multi-swarm optimization",
+        "Swarm intelligence",
+        "Mathematical optimization",
+        "Machine learning",
+        "Convergence (routing)",
+        "Artificial intelligence",
+        "Artificial neural network",
+        "Algorithm",
+        "Computer science",
+        "Optimization problem",
+        "Premature convergence",
+        "Particle swarm optimization"
+    ],
+    "references": [
+        "1560921017",
+        "1577668191",
+        "2020088087",
+        "2081749411"
+    ]
+}

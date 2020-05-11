@@ -1,0 +1,41 @@
+{
+    "id": "1520697883",
+    "title": "Transformation Rules for UML Class Diagrams",
+    "venue": "<<UML>> '98 Selected papers from the First International Workshop on The Unified Modeling Language <<UML>>'98: Beyond the Notation",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Martin Gogolla",
+            "id": "2162885025",
+            "org": "University of Bremen"
+        },
+        {
+            "name": "Mark Richters",
+            "id": "1736775477",
+            "org": "University of Bremen"
+        }
+    ],
+    "fields_of_study": [
+        "UML state machine",
+        "Object Constraint Language",
+        "Story-driven modeling",
+        "Discrete mathematics",
+        "Class diagram",
+        "Applications of UML",
+        "Programming language",
+        "UML tool",
+        "Systems Modeling Language",
+        "Computer science",
+        "Communication diagram"
+    ],
+    "references": [
+        "118084495",
+        "1486558948",
+        "1495380017",
+        "1574837706",
+        "1786024619",
+        "1969250262",
+        "2157585155",
+        "2160019730"
+    ]
+}

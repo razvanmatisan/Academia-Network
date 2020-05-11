@@ -1,0 +1,28 @@
+{
+    "id": "1570421228",
+    "title": "Software Development Graphs. A Unifying Concept for Software Development",
+    "venue": "foundations of software technology and theoretical computer science",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Dines Bjorner",
+            "id": "54991345",
+            "org": "Technical University of Denmark"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Resource-oriented architecture",
+        "Software design description",
+        "Software peer review",
+        "Social software engineering",
+        "Goal-Driven Software Development Process",
+        "Backporting",
+        "Software development",
+        "Theoretical computer science",
+        "Computer science",
+        "Package development process",
+        "Programming language"
+    ],
+    "references": []
+}

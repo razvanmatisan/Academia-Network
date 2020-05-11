@@ -1,0 +1,45 @@
+{
+    "id": "1498757329",
+    "title": "Applying Extended Finite State Machines in Software Testing of Interactive Systems",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Marcelo Fantinato",
+            "id": "2023298080",
+            "org": "State University of Campinas"
+        },
+        {
+            "name": "Mario Jino",
+            "id": "121693904",
+            "org": "State University of Campinas"
+        }
+    ],
+    "fields_of_study": [
+        "Non-functional testing",
+        "Reliability engineering",
+        "Keyword-driven testing",
+        "Distributed computing",
+        "System integration testing",
+        "Functional testing",
+        "White-box testing",
+        "Simulation",
+        "Non-regression testing",
+        "Orthogonal array testing",
+        "Software reliability testing",
+        "Computer science"
+    ],
+    "references": [
+        "1481565438",
+        "1965028135",
+        "1990467226",
+        "2023451387",
+        "2054409309",
+        "2103095043",
+        "2105394284",
+        "2130732685",
+        "2140047593",
+        "2157361709",
+        "2570187370"
+    ]
+}

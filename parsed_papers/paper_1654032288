@@ -1,0 +1,42 @@
+{
+    "id": "1654032288",
+    "title": "The 'domain model concealer' and 'application moderator' patterns: addressing architectural uncertainty in interactive systems",
+    "venue": "technology of object oriented languages and systems",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Klaus Marius Hansen",
+            "id": "2106253807",
+            "org": "Dept. of Comput. Sci., Aarhus Univ., Denmark"
+        },
+        {
+            "name": "Michael Thomsen",
+            "id": "2113303640",
+            "org": "Department of Computer Science|University of Aarhus"
+        }
+    ],
+    "fields_of_study": [
+        "Domain model",
+        "Application software",
+        "Systems engineering",
+        "Software architecture",
+        "Conceptual model",
+        "Architectural pattern",
+        "Human-computer interaction",
+        "Software design",
+        "Project management",
+        "User interface",
+        "Computer science"
+    ],
+    "references": [
+        "1495852970",
+        "1538647619",
+        "1584175560",
+        "1665875313",
+        "2028170355",
+        "2030124949",
+        "2052100091",
+        "2102630435",
+        "2134062730"
+    ]
+}

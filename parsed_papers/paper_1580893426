@@ -1,0 +1,38 @@
+{
+    "id": "1580893426",
+    "title": "Knowledge-Conscious data clustering",
+    "venue": "european conference on principles of data mining and knowledge discovery",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Amol Ghoting",
+            "id": "2102101334",
+            "org": "The Ohio State University, Columbus, OH#TAB#"
+        },
+        {
+            "name": "Srinivasan Parthasarathy",
+            "id": "2106796124",
+            "org": "The Ohio State University, Columbus, OH#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computation",
+        "Artificial intelligence",
+        "Data mining",
+        "Knowledge extraction",
+        "Machine learning",
+        "Cluster analysis",
+        "Computer science",
+        "CPU cache",
+        "Client-server model",
+        "Extant taxon",
+        "k-means clustering"
+    ],
+    "references": [
+        "1513664534",
+        "1972873066",
+        "1985139833",
+        "1999668761",
+        "2170936641"
+    ]
+}

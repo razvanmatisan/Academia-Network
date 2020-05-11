@@ -1,0 +1,39 @@
+{
+    "id": "1498612285",
+    "title": "Revising Domain Theories in Model-Based Reasoning Systems",
+    "venue": "german workshop on artificial intelligence",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Wolfgang Nejdl",
+            "id": "2594922197",
+            "org": "Technical University of Vienna"
+        },
+        {
+            "name": "Johannes Kroupa",
+            "id": "2502512591",
+            "org": "Technical University of Vienna"
+        }
+    ],
+    "fields_of_study": [
+        "Domain model",
+        "Reasoning system",
+        "Qualitative reasoning",
+        "Deductive reasoning",
+        "Model-based reasoning",
+        "Psychology of reasoning",
+        "Machine learning",
+        "Adaptive reasoning",
+        "Analytic reasoning",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "78724527",
+        "1532963764",
+        "1684304711",
+        "1691379155",
+        "2108309071",
+        "2144386448"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1593078387",
+    "title": "Functional Logic Programming with Failure: A Set-Oriented View",
+    "venue": "international conference on logic programming",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Francisco Javier Lopez-Fraguas",
+            "id": "1968401464",
+            "org": "Univ. Complutense de Madrid"
+        },
+        {
+            "name": "Jaime Sanchez-Hernandez",
+            "id": "2117432811",
+            "org": "Univ. Complutense de Madrid"
+        }
+    ],
+    "fields_of_study": [
+        "Inductive programming",
+        "Theoretical computer science",
+        "Programming paradigm",
+        "Horn clause",
+        "Functional logic programming",
+        "Algorithm",
+        "Functional programming",
+        "Knowledge representation and reasoning",
+        "Computer science",
+        "Reactive programming",
+        "Logic programming"
+    ],
+    "references": [
+        "1521843416",
+        "1522154830",
+        "1567437654",
+        "1586206029",
+        "1603716093",
+        "2059799630",
+        "2063521547",
+        "2097366413",
+        "2138706506",
+        "2168144301",
+        "2169402190"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1579739398",
+    "title": "Online Stochastic Bin Packing",
+    "venue": "arXiv: Data Structures and Algorithms",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Varun Gupta",
+            "id": "2195679574",
+            "org": "Booth School of Business"
+        },
+        {
+            "name": "Ana Radovanovic",
+            "id": "2061777134",
+            "org": "Google"
+        }
+    ],
+    "fields_of_study": [
+        "Heuristic",
+        "Fold (higher-order function)",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Gradient descent",
+        "Mathematical optimization",
+        "Mathematics",
+        "Explained sum of squares",
+        "Bin packing problem",
+        "Lagrangian relaxation",
+        "Linear programming",
+        "Heuristics"
+    ],
+    "references": [
+        "1496647032",
+        "1504056704",
+        "1969730801",
+        "1992365301",
+        "1996632379",
+        "2009931551",
+        "2057505938",
+        "2068863978",
+        "2076655037",
+        "2089883169",
+        "2092378921",
+        "2121279879",
+        "2134422938",
+        "2142135559",
+        "2163634514"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1501407109",
+    "title": "Peircean graphs for the modal logic S5",
+    "venue": "international conference on conceptual structures",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Torben Brauner",
+            "id": "2104889130",
+            "org": "Aalborg University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Natural deduction",
+        "Modal logic",
+        "Normal modal logic",
+        "Propositional calculus",
+        "Dynamic logic (modal logic)",
+        "S5",
+        "Algorithm",
+        "Accessibility relation",
+        "Predicate logic",
+        "Mathematics"
+    ],
+    "references": [
+        "395410030",
+        "1493596129",
+        "1516346799",
+        "1518594532",
+        "1978260344",
+        "2886576398"
+    ]
+}

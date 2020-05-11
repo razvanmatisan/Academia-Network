@@ -1,0 +1,32 @@
+{
+    "id": "1567441644",
+    "title": "A Compositional Approach to the Design of Hybrid Systems",
+    "venue": "Hybrid Systems",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Jjm Jozef Hooman",
+            "id": "2194305585",
+            "org": "Eindhoven University of. Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Error detection and correction",
+        "Time domain",
+        "Correctness",
+        "Modular design",
+        "Hybrid system",
+        "Control unit",
+        "Process control",
+        "Control engineering",
+        "Program derivation",
+        "Computer science"
+    ],
+    "references": [
+        "2026629052",
+        "2111706174",
+        "2153439859",
+        "2167467151",
+        "2167668895"
+    ]
+}

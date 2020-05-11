@@ -1,0 +1,69 @@
+{
+    "id": "1556262481",
+    "title": "The Blast Query Language for Software Verification",
+    "venue": "static analysis symposium",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Dirk Beyer",
+            "id": "2078780617",
+            "org": "EPFL"
+        },
+        {
+            "name": "Adam Chlipala",
+            "id": "2778429553",
+            "org": "University of California"
+        },
+        {
+            "name": "Thomas A. Henzinger",
+            "id": "2707196735",
+            "org": "EPFL"
+        },
+        {
+            "name": "Thomas A. Henzinger",
+            "id": "2707196735",
+            "org": "EPFL"
+        },
+        {
+            "name": "Ranjit Jhala",
+            "id": "2068611990",
+            "org": "University of California"
+        },
+        {
+            "name": "Rupak Majumdar",
+            "id": "2156286033",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Language Of Temporal Ordering Specification",
+        "Relational database",
+        "Computer science",
+        "Real-time computing",
+        "Model checking",
+        "Software verification",
+        "Specification language",
+        "Query language",
+        "Predicate abstraction",
+        "Programming language",
+        "Boolean expression"
+    ],
+    "references": [
+        "1533082687",
+        "1541969962",
+        "1556462035",
+        "1585020894",
+        "2044590882",
+        "2054198444",
+        "2082000355",
+        "2106972913",
+        "2107089133",
+        "2108824981",
+        "2119736157",
+        "2126922738",
+        "2138363365",
+        "2151463894",
+        "2295903414",
+        "2466269612"
+    ]
+}

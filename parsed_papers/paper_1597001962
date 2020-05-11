@@ -1,0 +1,32 @@
+{
+    "id": "1597001962",
+    "title": "Identity-based decryption",
+    "venue": "IACR Cryptology ePrint Archive",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Daniel R. L. Brown",
+            "id": "2251884570",
+            "org": "Certicom Corp. (Mississauga, Ontario, CA)"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext",
+        "Encryption",
+        "Service provider",
+        "Public-key cryptography",
+        "Alice and Bob",
+        "Digital content",
+        "Communication source",
+        "Internet privacy",
+        "Authentication",
+        "Computer science"
+    ],
+    "references": [
+        "1569083856",
+        "1585096027",
+        "2086042811",
+        "2130708931",
+        "2151349068"
+    ]
+}

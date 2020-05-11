@@ -1,0 +1,37 @@
+{
+    "id": "1490484011",
+    "title": "Orthogonal and Straight-Line Drawings of Graphs with Succinct Representations",
+    "venue": "graph drawing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Ho-Lin Chen",
+            "id": "2797858932",
+            "org": "National Taiwan University"
+        },
+        {
+            "name": "Hsu-Chun Yen",
+            "id": "2051059669",
+            "org": "National Taiwan University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Combinatorics",
+        "Graph",
+        "Graph theory",
+        "Computer Science and Engineering",
+        "Exponential function",
+        "Line graph",
+        "Line (geometry)",
+        "Graph drawing",
+        "Mathematics"
+    ],
+    "references": [
+        "1598892764",
+        "1988625381",
+        "2019834939",
+        "2102664288",
+        "2103540189"
+    ]
+}

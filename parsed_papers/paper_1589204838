@@ -1,0 +1,38 @@
+{
+    "id": "1589204838",
+    "title": "Case-Based Classification of Ultrasonic B-Scans: Case-Base Organisation and Case Retrieval",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Jacek Jarmulak",
+            "id": "132348740",
+            "org": "Delft University of Technology"
+        },
+        {
+            "name": "Jacek Jarmulak",
+            "id": "132348740",
+            "org": "Delft University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Applied physics",
+        "Simulation",
+        "Decision tree",
+        "Rule-based system",
+        "Machine learning",
+        "Ultrasonic testing",
+        "Distributed computing",
+        "Fuzzy logic",
+        "Membership function",
+        "Case-based reasoning",
+        "Ultrasonic sensor",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1598418641",
+        "1989264455",
+        "2125055259"
+    ]
+}

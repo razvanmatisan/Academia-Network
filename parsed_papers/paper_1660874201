@@ -1,0 +1,60 @@
+{
+    "id": "1660874201",
+    "title": "Probabilistic declarative process mining",
+    "venue": "knowledge science, engineering and management",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Elena Bellodi",
+            "id": "2036277265",
+            "org": "ENDIF, Universita di Ferrara, Ferrara, Italy#TAB#"
+        },
+        {
+            "name": "Fabrizio Riguzzi",
+            "id": "179935869",
+            "org": "ENDIF, Universita di Ferrara, Ferrara, Italy#TAB#"
+        },
+        {
+            "name": "Evelina Lamma",
+            "id": "2310186662",
+            "org": "ENDIF, Universita di Ferrara, Ferrara, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Machine learning",
+        "Probabilistic classification",
+        "Business process",
+        "Business process discovery",
+        "Artificial intelligence",
+        "Computer science",
+        "Process modeling",
+        "Probabilistic logic",
+        "Process mining",
+        "Business process management",
+        "Statistical relational learning"
+    ],
+    "references": [
+        "174979378",
+        "1480053192",
+        "1499599031",
+        "1508806467",
+        "1555544970",
+        "1562593161",
+        "1688777878",
+        "1977970897",
+        "1999189212",
+        "2015234709",
+        "2065961934",
+        "2096942889",
+        "2098250644",
+        "2103226467",
+        "2106821978",
+        "2130273205",
+        "2134937538",
+        "2162176451",
+        "2166741250",
+        "2293120625",
+        "2583189786"
+    ]
+}

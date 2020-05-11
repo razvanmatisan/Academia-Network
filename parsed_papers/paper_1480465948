@@ -1,0 +1,33 @@
+{
+    "id": "1480465948",
+    "title": "Combination of unification algorithms",
+    "venue": "conference on automated deduction",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Alexander Herold",
+            "id": "2631636572",
+            "org": "Universitat Kaiserslautern"
+        }
+    ],
+    "fields_of_study": [
+        "Recursion",
+        "Correctness",
+        "Discrete mathematics",
+        "Algorithm",
+        "Equation solving",
+        "Automated theorem proving",
+        "Unification",
+        "Abstraction",
+        "Disjoint sets",
+        "Mathematics",
+        "Finitary"
+    ],
+    "references": [
+        "1521061310",
+        "2012270428",
+        "2033288425",
+        "2053895806",
+        "2100738443"
+    ]
+}

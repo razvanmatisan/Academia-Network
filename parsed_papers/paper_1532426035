@@ -1,0 +1,39 @@
+{
+    "id": "1532426035",
+    "title": "Independence-friendly modal logic and true concurrency",
+    "venue": "Nordic Journal of Computing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Julian C. Bradfield",
+            "id": "2130777246",
+            "org": "Laboratory for Foundations of Computer Science, Division of Informatics King's Buildings, University of Edinburgh Edinburgh EH9 3JZ United Kingdom#TAB#"
+        },
+        {
+            "name": "Sibylle B. Froschle",
+            "id": "1758478847",
+            "org": "Laboratory for Foundations of Computer Science, Division of Informatics King's Buildings, University of Edinburgh Edinburgh EH9 3JZ United Kingdom#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Discrete mathematics",
+        "Modal m-calculus",
+        "Dynamic logic (modal logic)",
+        "Normal modal logic",
+        "Strict conditional",
+        "Multimodal logic",
+        "S5",
+        "Algorithm",
+        "Accessibility relation",
+        "Higher-order logic"
+    ],
+    "references": [
+        "1570780024",
+        "1586537374",
+        "1593010335",
+        "1990514682",
+        "2039290601",
+        "2070509093"
+    ]
+}

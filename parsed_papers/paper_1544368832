@@ -1,0 +1,46 @@
+{
+    "id": "1544368832",
+    "title": "Random Geometric Problems on [0, 1]2",
+    "venue": "randomization and approximation techniques in computer science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Josep Diaz",
+            "id": "2153490957",
+            "org": "Universitat Politecnica de Catalunya"
+        },
+        {
+            "name": "Jordi Petit",
+            "id": "2230237357",
+            "org": "Universitat Politecnica de Catalunya"
+        },
+        {
+            "name": "Maria J. Serna",
+            "id": "2167603141",
+            "org": "Universitat Politecnica de Catalunya"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Random graph",
+        "Discrete mathematics",
+        "Spatial network",
+        "Graph theory",
+        "Search algorithm",
+        "Computational complexity theory",
+        "Geometric modeling",
+        "Mathematics",
+        "Statistical model",
+        "Heuristics"
+    ],
+    "references": [
+        "2007610503",
+        "2037366109",
+        "2040888766",
+        "2055038236",
+        "2068871408",
+        "2108986762",
+        "2141839154",
+        "2143037347"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "1582280888",
+    "title": "Dactl: An Experimental Graph Rewriting Language",
+    "venue": "international workshop on graph grammars and their application to computer science",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "John R. W. Glauert",
+            "id": "2054352611",
+            "org": "University of East Anglia Declarative Systems Project, School of Information Systems NR4 7TJ Norwich U.K. NR4 7TJ Norwich U.K."
+        },
+        {
+            "name": "Richard Kennaway",
+            "id": "2162620390",
+            "org": "University of East Anglia Declarative Systems Project, School of Information Systems NR4 7TJ Norwich U.K. NR4 7TJ Norwich U.K."
+        },
+        {
+            "name": "M. Ronan Sleep",
+            "id": "2145975436",
+            "org": "University of East Anglia Declarative Systems Project, School of Information Systems NR4 7TJ Norwich U.K. NR4 7TJ Norwich U.K."
+        }
+    ],
+    "fields_of_study": [
+        "First-generation programming language",
+        "Low-level programming language",
+        "High-level programming language",
+        "Very high-level programming language",
+        "Theoretical computer science",
+        "Object language",
+        "Programming language",
+        "Data control language",
+        "Language primitive",
+        "Programming language implementation",
+        "Computer science"
+    ],
+    "references": [
+        "91718635",
+        "1520700348",
+        "1539163926",
+        "1539198551",
+        "1541122795",
+        "1543641760",
+        "1546995906",
+        "1557619244",
+        "1580664042",
+        "1858571084",
+        "1974010254",
+        "1978718408",
+        "2010642618",
+        "2022014483",
+        "2022572034",
+        "2036748304",
+        "2053384008",
+        "2063068243",
+        "2130238476",
+        "2160815344",
+        "2171572532",
+        "2179386815",
+        "2294530123"
+    ]
+}

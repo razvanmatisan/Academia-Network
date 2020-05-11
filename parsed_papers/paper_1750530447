@@ -1,0 +1,34 @@
+{
+    "id": "1750530447",
+    "title": "An easily computable eight times overcomplete ICA method for image data",
+    "venue": "international conference on independent component analysis and signal separation",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Mika Inki",
+            "id": "308740101",
+            "org": "Neural Networks Research Centre, Helsinki University of Technology, HUT, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Blind signal separation",
+        "Signal processing",
+        "Decoding methods",
+        "Principal component analysis",
+        "Independent component analysis",
+        "External Data Representation",
+        "Machine learning",
+        "Pattern recognition",
+        "Congruence (geometry)",
+        "Mathematics",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "141673549",
+        "1486547850",
+        "1551509424",
+        "2099741732",
+        "2102024628",
+        "2124731682"
+    ]
+}

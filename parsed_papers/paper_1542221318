@@ -1,0 +1,32 @@
+{
+    "id": "1542221318",
+    "title": "Intelligent Motion Tracking by Combining Specialized Algorithms",
+    "venue": "international conference on digital human modeling",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Matthias Weber",
+            "id": "2308782610",
+            "org": "FGAN e.V., FKIE, Wachtberg-Werthhoven, Germany 53343#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computation",
+        "Match moving",
+        "Artificial neural network",
+        "Machine learning",
+        "Computer vision",
+        "Skeleton (computer programming)",
+        "Identification (information)",
+        "Computer science",
+        "Motion capture",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1629462384",
+        "1803418553",
+        "2091315809",
+        "2114883187",
+        "2116422660"
+    ]
+}

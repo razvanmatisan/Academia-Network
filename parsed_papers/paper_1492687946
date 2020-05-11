@@ -1,0 +1,38 @@
+{
+    "id": "1492687946",
+    "title": "Transmission network expansion planning with simulation optimization",
+    "venue": "national conference on artificial intelligence",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Russell Bent",
+            "id": "2645522210",
+            "org": "Alan Berscheid#TAB#"
+        },
+        {
+            "name": "G. Loren Toole",
+            "id": "2107832737",
+            "org": "Los Alamos National Laboratory, Los Alamos, NM#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Machine learning",
+        "Black box (phreaking)",
+        "Electric power",
+        "Grid",
+        "Local search (optimization)",
+        "Artificial intelligence",
+        "Renewable energy",
+        "Upgrade",
+        "Computer science",
+        "Transmission (mechanics)",
+        "Optimization problem"
+    ],
+    "references": [
+        "91781137",
+        "1554727768",
+        "1589190585",
+        "2122203560"
+    ]
+}

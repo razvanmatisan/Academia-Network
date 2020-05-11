@@ -1,0 +1,37 @@
+{
+    "id": "1508859644",
+    "title": "Free form deformation with scattered data interpolation methods",
+    "venue": "Geometric modelling",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Detlef Ruprecht",
+            "id": "2796540657",
+            "org": "Universitat Freiburg"
+        },
+        {
+            "name": "Heinrich Muller",
+            "id": "2144023652",
+            "org": "Universitat Freiburg"
+        }
+    ],
+    "fields_of_study": [
+        "Computer animation",
+        "Computer vision",
+        "Deformation (mechanics)",
+        "Interpolation",
+        "Geometry",
+        "Bicubic interpolation",
+        "Weight function",
+        "Geometric design",
+        "Mathematics",
+        "Artificial intelligence",
+        "Trilinear interpolation",
+        "Free-form deformation"
+    ],
+    "references": [
+        "2089787380",
+        "2096619076",
+        "2109324451"
+    ]
+}

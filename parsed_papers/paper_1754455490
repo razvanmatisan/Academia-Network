@@ -1,0 +1,29 @@
+{
+    "id": "1754455490",
+    "title": "Certifying high assurance software",
+    "venue": "computer software and applications conference",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Jeffrey M. Voas",
+            "id": "2573010619",
+            "org": "Reliable Software Technol. Corp., USA"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Software construction",
+        "Systems engineering",
+        "Software quality control",
+        "Software verification and validation",
+        "Social software engineering",
+        "Software peer review",
+        "Software quality analyst",
+        "Software sizing",
+        "Package development process"
+    ],
+    "references": [
+        "2103876344",
+        "2113004249"
+    ]
+}

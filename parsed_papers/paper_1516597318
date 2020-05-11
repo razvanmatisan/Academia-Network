@@ -1,0 +1,41 @@
+{
+    "id": "1516597318",
+    "title": "Computing an approximate jam/fold equilibrium for 3-player no-limit Texas Hold'em tournaments",
+    "venue": "adaptive agents and multi agents systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Sam Ganzfried",
+            "id": "2153142498",
+            "org": "Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Tuomas Sandholm",
+            "id": "2070867630",
+            "org": "Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Fictitious play",
+        "Initialization",
+        "Texas hold 'em",
+        "Game theory",
+        "Heuristic",
+        "Computer science",
+        "Mathematical optimization",
+        "Markov decision process",
+        "Search engine indexing",
+        "Perfect information"
+    ],
+    "references": [
+        "106510103",
+        "1510092789",
+        "1528107507",
+        "1664963465",
+        "1882484441",
+        "1968334793",
+        "2026177035",
+        "2086312499",
+        "2091358801"
+    ]
+}

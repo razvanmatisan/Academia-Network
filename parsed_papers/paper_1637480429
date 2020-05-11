@@ -1,0 +1,31 @@
+{
+    "id": "1637480429",
+    "title": "Analyzing the structure of argumentative discourse",
+    "venue": "Computational Linguistics",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Robin Cohen",
+            "id": "2121929483",
+            "org": "University of Waterloo, Waterloo, Ontario, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Artificial intelligence",
+        "Lagrangian coherent structures",
+        "Computer science",
+        "Argumentative",
+        "Limit analysis",
+        "Credibility"
+    ],
+    "references": [
+        "1567925158",
+        "2015240128",
+        "2125809125",
+        "2146336621",
+        "2164280641",
+        "2167702024",
+        "2208685668"
+    ]
+}

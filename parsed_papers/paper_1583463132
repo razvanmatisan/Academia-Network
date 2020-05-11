@@ -1,0 +1,31 @@
+{
+    "id": "1583463132",
+    "title": "A Rule-Extension of the Non-Associative Lambek Calculus",
+    "venue": "Studia Logica",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Heinrich Wansing",
+            "id": "251803516",
+            "org": "Institute of Philosophy, Dresden University of Technology, Dresden, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Mathematics",
+        "Calculus",
+        "Pure mathematics",
+        "Algorithm",
+        "Frame semantics",
+        "System L",
+        "Ternary operation",
+        "Noncommutative logic",
+        "Associative property",
+        "Categorial grammar"
+    ],
+    "references": [
+        "1602312920",
+        "1608789752",
+        "1995638481"
+    ]
+}

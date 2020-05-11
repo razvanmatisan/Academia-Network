@@ -1,0 +1,38 @@
+{
+    "id": "1658156241",
+    "title": "A Map for Big Data Research in Digital Humanities",
+    "venue": "Frontiers in Digital Humanities",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "FrA(c)dA(c)ric Kaplan",
+            "id": "2704235699",
+            "org": "Digital Humanities Laboratory (DHLAB), Ecole Polytechnique Federale de Lausanne, Switzerland"
+        }
+    ],
+    "fields_of_study": [
+        "Digital humanities",
+        "Multimedia",
+        "Computer science",
+        "Data science",
+        "Software",
+        "Abstraction",
+        "Immersion (virtual reality)",
+        "Big data",
+        "Small data",
+        "Data processing"
+    ],
+    "references": [
+        "1591983297",
+        "1602744378",
+        "1869993023",
+        "2002629090",
+        "2041651443",
+        "2045086083",
+        "2086044694",
+        "2119528150",
+        "2130660124",
+        "2135916267",
+        "2141099517"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "119525975",
+    "title": "Model Checking for Nonmonotonic Logics: Algorithms and Complexity",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Riccardo Rosati",
+            "id": "2035660923",
+            "org": "Dipartimento di Informatica e Sisteinistica, Universita di Roma \"La Sapienza\", Roma, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "T-norm fuzzy logics",
+        "Model checking",
+        "Classical logic",
+        "Discrete mathematics",
+        "Algorithm",
+        "Accessibility relation",
+        "Non-monotonic logic",
+        "Default logic",
+        "Abstraction model checking",
+        "Mathematics",
+        "Intermediate logic"
+    ],
+    "references": [
+        "28460116",
+        "134813623",
+        "313521069",
+        "1527743161",
+        "1545164166",
+        "1966552757",
+        "2018459570",
+        "2018830344",
+        "2088631785",
+        "2108812462",
+        "2155322595",
+        "2340735175"
+    ]
+}

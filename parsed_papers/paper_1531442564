@@ -1,0 +1,44 @@
+{
+    "id": "1531442564",
+    "title": "DBMSs Should Talk Back Too",
+    "venue": "conference on innovative data systems research",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Alkis Simitsis",
+            "id": "24841185",
+            "org": "HP Labs"
+        },
+        {
+            "name": "Yannis E. Ioannidis",
+            "id": "435837623",
+            "org": "National and Kapodistrian University of Athens"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Data mining",
+        "Natural language",
+        "Data definition language",
+        "Database",
+        "View",
+        "Natural language processing",
+        "Information extraction",
+        "Natural language user interface",
+        "SQL",
+        "Data control language",
+        "Query by Example",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1495234861",
+        "1543128418",
+        "1584261088",
+        "1602452024",
+        "1813062533",
+        "2057161664",
+        "2081539067",
+        "2145618437",
+        "2471875024"
+    ]
+}

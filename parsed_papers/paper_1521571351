@@ -1,0 +1,39 @@
+{
+    "id": "1521571351",
+    "title": "Polynomially bounded algorithms for locatingp-centers on a tree",
+    "venue": "Mathematical Programming",
+    "year": 1982,
+    "authors": [
+        {
+            "name": "R. Chandrasekaran",
+            "id": "2425111403",
+            "org": "The University of Texas at Dallas, Richardson, USA#TAB#"
+        },
+        {
+            "name": "Arie Tamir",
+            "id": "2161326728",
+            "org": "Tel-Aviv University, Tel-Aviv, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Tree-depth",
+        "Mathematical optimization",
+        "Mathematics",
+        "Gomory-Hu tree",
+        "Duality (mathematics)",
+        "Discrete mathematics",
+        "Tree network",
+        "K-ary tree",
+        "Perfect graph",
+        "Chordal graph",
+        "Algorithm",
+        "k-minimum spanning tree"
+    ],
+    "references": [
+        "1973310391",
+        "1996641400",
+        "2056260683",
+        "2086119402",
+        "2097374444"
+    ]
+}

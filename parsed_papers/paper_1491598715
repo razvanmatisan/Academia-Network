@@ -1,0 +1,38 @@
+{
+    "id": "1491598715",
+    "title": "An Analysis of Sentence Boundary Detection Systems for English and Portuguese Documents",
+    "venue": "conference on intelligent text processing and computational linguistics",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Carlos Nascimento Silla",
+            "id": "2157703898",
+            "org": "Pontifical Catholic University of Parana Rua Imaculada Conceicao"
+        },
+        {
+            "name": "Celso A. A. Kaestner",
+            "id": "2306697098",
+            "org": "Pontifical Catholic University of Parana Rua Imaculada Conceicao"
+        }
+    ],
+    "fields_of_study": [
+        "Part of speech",
+        "Natural language processing",
+        "Artificial intelligence",
+        "Information retrieval",
+        "Text segmentation",
+        "Computer science",
+        "Satz",
+        "Regular expression",
+        "Computational linguistics",
+        "Computer programming",
+        "Text mining",
+        "Sentence"
+    ],
+    "references": [
+        "1490831147",
+        "1491024934",
+        "2018560257",
+        "2125055259"
+    ]
+}

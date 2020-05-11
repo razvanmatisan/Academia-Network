@@ -1,0 +1,36 @@
+{
+    "id": "1527822636",
+    "title": "Collaborative Development Environments",
+    "venue": "Advances in Computers",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Grady Booch",
+            "id": "64567716",
+            "org": "IBM Rational Software USA"
+        },
+        {
+            "name": "Alan W. Brown",
+            "id": "2112093470",
+            "org": "IBM Rational Software USA"
+        }
+    ],
+    "fields_of_study": [
+        "Personal software process",
+        "Theoretical computer science",
+        "Computer science",
+        "Systems engineering",
+        "Goal-Driven Software Development Process",
+        "Software development process",
+        "Deliverable",
+        "Software development",
+        "Human-computer interaction",
+        "Package development process",
+        "Software",
+        "Executable"
+    ],
+    "references": [
+        "1496600106",
+        "2128852263"
+    ]
+}

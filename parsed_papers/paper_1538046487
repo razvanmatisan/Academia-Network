@@ -1,0 +1,40 @@
+{
+    "id": "1538046487",
+    "title": "Toward Scalability in ASL Recognition: Breaking Down Signs into Phonemes",
+    "venue": "GW '99 Proceedings of the International Gesture Workshop on Gesture-Based Communication in Human-Computer Interaction",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Christian Vogler",
+            "id": "2098752197",
+            "org": "University of Pennsylvania"
+        },
+        {
+            "name": "Dimitris N. Metaxas",
+            "id": "2894035902",
+            "org": "University of Pennsylvania"
+        }
+    ],
+    "fields_of_study": [
+        "Speech recognition",
+        "Epenthesis",
+        "Chinese Sign Language",
+        "American Sign Language",
+        "Sign language",
+        "Vocabulary",
+        "Natural language processing",
+        "Computational complexity theory",
+        "Gesture recognition",
+        "Computer science",
+        "Artificial intelligence",
+        "Hidden Markov model"
+    ],
+    "references": [
+        "1747251355",
+        "2097501508",
+        "2118244636",
+        "2125834953",
+        "2131472500",
+        "2152239535"
+    ]
+}

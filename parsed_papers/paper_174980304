@@ -1,0 +1,39 @@
+{
+    "id": "174980304",
+    "title": "Classification of Transition sounds with application to Automatic Speech Recognition",
+    "venue": "conference of the international speech communication association",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Zeev Litichever",
+            "id": "2405027797",
+            "org": "Technion - Israel Institute of Technology"
+        },
+        {
+            "name": "Dan Chazan",
+            "id": "2007558405",
+            "org": "IBM"
+        }
+    ],
+    "fields_of_study": [
+        "Speech recognition",
+        "TIMIT",
+        "Artificial intelligence",
+        "Nonparametric statistics",
+        "Word error rate",
+        "Support vector machine",
+        "Stop consonant",
+        "Pattern recognition",
+        "Machine learning",
+        "Computer science",
+        "Random subspace method",
+        "Hidden Markov model"
+    ],
+    "references": [
+        "77825629",
+        "1540007258",
+        "1588401315",
+        "1923362235",
+        "2139212933"
+    ]
+}

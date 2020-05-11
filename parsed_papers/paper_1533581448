@@ -1,0 +1,37 @@
+{
+    "id": "1533581448",
+    "title": "Automata-Based Multi-agent Model as a Tool for Constructing Real-Time Intelligent Control Systems",
+    "venue": "CEEMAS '01 Revised Papers from the Second International Workshop of Central and Eastern Europe on Multi-Agent Systems: From Theory to Practice in Multi-Agent Systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Mariusz Flasinski",
+            "id": "2094184159",
+            "org": "Jagiellonian University"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Syntactic pattern recognition",
+        "Parsing",
+        "DPLL algorithm",
+        "Grammar induction",
+        "Theoretical computer science",
+        "Machine learning",
+        "Automaton",
+        "Intelligent control",
+        "Intelligent decision support system",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1571420815",
+        "2031589703",
+        "2036190613",
+        "2049561324",
+        "2059122711",
+        "2071571869",
+        "2098241131",
+        "2128672031"
+    ]
+}

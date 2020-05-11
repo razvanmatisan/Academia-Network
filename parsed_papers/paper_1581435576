@@ -1,0 +1,30 @@
+{
+    "id": "1581435576",
+    "title": "Dynamic Search With Charged Swarms",
+    "venue": "genetic and evolutionary computation conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Tim Blackwell",
+            "id": "2129969538",
+            "org": "Department of Computer Science, University College London, London, UK#TAB#"
+        },
+        {
+            "name": "Peter J. Bentley",
+            "id": "1449125062",
+            "org": "Department of Computer Science, University College London, London, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Parabola",
+        "Electric potential energy",
+        "Computer science",
+        "Charged particle",
+        "Analogy",
+        "Particle swarm optimization"
+    ],
+    "references": [
+        "1536206336"
+    ]
+}

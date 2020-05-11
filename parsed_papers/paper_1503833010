@@ -1,0 +1,53 @@
+{
+    "id": "1503833010",
+    "title": "Image Annotation Refinement Using Web-Based Keyword Correlation",
+    "venue": "semantics and digital media technologies",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Ainhoa Llorente",
+            "id": "2103724128",
+            "org": "Knowledge Media Institute, The Open University, Milton Keynes, U.K. MK7 6AA#TAB#"
+        },
+        {
+            "name": "Enrico Motta",
+            "id": "2106913481",
+            "org": "Knowledge Media Institute, The Open University, Milton Keynes, U.K. MK7 6AA#TAB#"
+        },
+        {
+            "name": "Stefan M. Ruger",
+            "id": "1385431002",
+            "org": "Knowledge Media Institute, The Open University, Milton Keynes, U.K. MK7 6AA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Automatic image annotation",
+        "Density estimation",
+        "Heuristic (computer science)",
+        "Data mining",
+        "Information retrieval",
+        "WordNet",
+        "Web application",
+        "Image retrieval",
+        "Semantic similarity",
+        "Normalized Google distance",
+        "Artificial intelligence",
+        "Computer science",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1495177430",
+        "1511869572",
+        "1575423643",
+        "1593195594",
+        "1995282358",
+        "2029295509",
+        "2043196868",
+        "2104252248",
+        "2129758682",
+        "2129811804",
+        "2138454757",
+        "2165897980",
+        "2482856787"
+    ]
+}

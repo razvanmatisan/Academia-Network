@@ -1,0 +1,42 @@
+{
+    "id": "1819459305",
+    "title": "Learning a Vector-Based Model of American Sign Language Inflecting Verbs from Motion-Capture Data",
+    "venue": "north american chapter of the association for computational linguistics",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Pengfei Lu",
+            "id": "2152437324",
+            "org": "City University of New York (CUNY), New York, NY#TAB#"
+        },
+        {
+            "name": "Matt Huenerfauth",
+            "id": "85427644",
+            "org": "City University of New York (CUNY), Flushing, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "American Sign Language",
+        "Speech recognition",
+        "Verb",
+        "Scripting language",
+        "Literacy",
+        "Artificial intelligence",
+        "Animation",
+        "Motion capture",
+        "Computer science",
+        "Software",
+        "Lexicon"
+    ],
+    "references": [
+        "1490721004",
+        "1968208109",
+        "1979013937",
+        "2076215218",
+        "2080378008",
+        "2106288858",
+        "2137368085",
+        "2171280940"
+    ]
+}

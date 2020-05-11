@@ -1,0 +1,28 @@
+{
+    "id": "1562694524",
+    "title": "Verbmobil - Translation of Face-To-Face Dialogs",
+    "venue": "Grundlagen und Anwendungen der Kunstlichen Intelligenz, 17. Fachtagung fur Kunstliche Intelligenz, Humboldt-Universitat zu",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Wolfgang Wahlster",
+            "id": "565358538",
+            "org": "German Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Speech translation",
+        "Speech recognition",
+        "Foreign language",
+        "Machine translation",
+        "Natural language processing",
+        "Dialog box",
+        "Schedule (project management)",
+        "Face-to-face",
+        "Negotiation",
+        "Artificial intelligence",
+        "Computer-assisted translation",
+        "Computer science"
+    ],
+    "references": []
+}

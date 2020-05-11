@@ -1,0 +1,40 @@
+{
+    "id": "1495234861",
+    "title": "A phrasal approach to natural language interfaces over databases",
+    "venue": "international conference natural language processing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Michael Minock",
+            "id": "312313042",
+            "org": "Department of Computing Science, Umea University, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language",
+        "Parsing",
+        "Domain relational calculus",
+        "Relational calculus",
+        "Relational database",
+        "Natural language processing",
+        "Database",
+        "Query language",
+        "Programming language",
+        "Tuple relational calculus",
+        "Natural language user interface",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "63493895",
+        "106663520",
+        "1498152140",
+        "1500819078",
+        "1551412593",
+        "1555403723",
+        "1607750259",
+        "2057670927",
+        "2096619464",
+        "2154268919"
+    ]
+}

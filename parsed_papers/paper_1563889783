@@ -1,0 +1,53 @@
+{
+    "id": "1563889783",
+    "title": "A simulation-based treatment of authenticated message exchange",
+    "venue": "ASIAN'09 Proceedings of the 13th Asian conference on Advances in Computer Science: information Security and Privacy",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Klaas Ole Kurtz",
+            "id": "2055670468",
+            "org": "Christian-Albrechts-Universitat zu Kiel, Kiel, Germany#TAB#"
+        },
+        {
+            "name": "Henning Schnoor",
+            "id": "2003681373",
+            "org": "Christian-Albrechts-Universitat zu Kiel, Kiel, Germany#TAB#"
+        },
+        {
+            "name": "Thomas Wilke",
+            "id": "2303552625",
+            "org": "Christian-Albrechts-Universitat zu Kiel, Kiel, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Replay attack",
+        "Security testing",
+        "Composability",
+        "Security association",
+        "Public key infrastructure",
+        "Computer network",
+        "Distributed computing",
+        "Cryptographic protocol",
+        "Computer security model",
+        "Computer science"
+    ],
+    "references": [
+        "81189796",
+        "1499934958",
+        "1531644305",
+        "1542059364",
+        "1561441787",
+        "1578158220",
+        "1603759597",
+        "1604454960",
+        "1659340666",
+        "1965502027",
+        "2119708968",
+        "2147976767",
+        "2155222571",
+        "2160838772",
+        "2168537649"
+    ]
+}

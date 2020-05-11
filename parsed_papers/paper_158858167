@@ -1,0 +1,42 @@
+{
+    "id": "158858167",
+    "title": "A Unified Foundational Ontology and some Applications of it in Business Modeling.",
+    "venue": "conference on advanced information systems engineering",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Giancarlo Guizzardi",
+            "id": "1971991369",
+            "org": "University of Twente"
+        },
+        {
+            "name": "Gerd Wagner",
+            "id": "2141172227",
+            "org": "Eindhoven University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "OntoClean",
+        "Process modeling",
+        "Business Process Model and Notation",
+        "Business process modeling",
+        "Artifact-centric business process model",
+        "Function model",
+        "Computer science",
+        "Ontology (information science)",
+        "Data modeling",
+        "Knowledge management"
+    ],
+    "references": [
+        "1593181307",
+        "1940888119",
+        "1980243955",
+        "2022543176",
+        "2056420273",
+        "2130485792",
+        "2157688345",
+        "2164452416",
+        "2167039673"
+    ]
+}

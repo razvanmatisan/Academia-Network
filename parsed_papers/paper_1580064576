@@ -1,0 +1,36 @@
+{
+    "id": "1580064576",
+    "title": "Human-mediated visual ontology alignment",
+    "venue": "conference on human interface",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Monika Lanzenberger",
+            "id": "2047570960",
+            "org": "Institute of Software Technology & Interactive Systems, Vienna Univ. of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Jennifer Sampson",
+            "id": "2010929296",
+            "org": "Norwegian University of Science and Technology, Trondheim, Norway#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ontology-based data integration",
+        "Usability",
+        "Process ontology",
+        "Software development",
+        "Suggested Upper Merged Ontology",
+        "Ontology alignment",
+        "Information visualization",
+        "Data mining",
+        "Ontology (information science)",
+        "Computer science",
+        "Knowledge management"
+    ],
+    "references": [
+        "1547224514",
+        "1639126800",
+        "2123893585"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1490635821",
+    "title": "Eyelid Localization in Iris Images Captured in Less Constrained Environment",
+    "venue": "international conference on biometrics",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Xiaomin Liu",
+            "id": "2276350630",
+            "org": "College of Computer Science and Technology, Heilongjiang University, Harbin, Hei Long Jiang Province, China 150080#TAB#"
+        },
+        {
+            "name": "Peihua Li",
+            "id": "2776860821",
+            "org": "College of Computer Science and Technology, Heilongjiang University, Harbin, Hei Long Jiang Province, China 150080#TAB#"
+        },
+        {
+            "name": "Qi Song",
+            "id": "2164062885",
+            "org": "College of Computer Science and Technology, Heilongjiang University, Harbin, Hei Long Jiang Province, China 150080#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Detector",
+        "Differential operator",
+        "Artificial intelligence",
+        "Iris recognition",
+        "Pattern recognition",
+        "Parabola",
+        "Operator (computer programming)",
+        "Eyelid",
+        "RANSAC",
+        "Arc (geometry)",
+        "Mathematics"
+    ],
+    "references": [
+        "1539013634",
+        "2025546194",
+        "2085261163",
+        "2092988036",
+        "2102796633",
+        "2154640523",
+        "2167075312"
+    ]
+}

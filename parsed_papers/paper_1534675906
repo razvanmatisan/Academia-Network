@@ -1,0 +1,36 @@
+{
+    "id": "1534675906",
+    "title": "Robust LTS backpropagation learning algorithm",
+    "venue": "international work-conference on artificial and natural neural networks",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Andrzej Rusiecki",
+            "id": "2662613751",
+            "org": "Institute of Computer Engineering, Control and Robotics, Wroclaw, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Least trimmed squares",
+        "Pattern recognition",
+        "Robustness (computer science)",
+        "Artificial neural network",
+        "Wake-sleep algorithm",
+        "Artificial intelligence",
+        "Population-based incremental learning",
+        "Stability (learning theory)",
+        "Algorithm",
+        "Computer science",
+        "Backpropagation",
+        "Rprop"
+    ],
+    "references": [
+        "2020647418",
+        "2043698172",
+        "2137983211",
+        "2141547648",
+        "2153845355",
+        "2160208155"
+    ]
+}

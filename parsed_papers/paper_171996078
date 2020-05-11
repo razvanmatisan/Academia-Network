@@ -1,0 +1,35 @@
+{
+    "id": "171996078",
+    "title": "A revocable backup system",
+    "venue": "usenix security symposium",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Dan Boneh",
+            "id": "201828038",
+            "org": "Department of Computer Science, Princeton University, Princeton, NJ#TAB#"
+        },
+        {
+            "name": "Richard J. Lipton",
+            "id": "2668464570",
+            "org": "Department of Computer Science, Princeton University, Princeton, NJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Internet privacy",
+        "Computer security",
+        "Virtual tape library",
+        "Backup software",
+        "Incremental backup",
+        "Archive bit",
+        "End user",
+        "Computer science",
+        "File system",
+        "Cryptography",
+        "Backup"
+    ],
+    "references": [
+        "2141420453",
+        "2159339961"
+    ]
+}

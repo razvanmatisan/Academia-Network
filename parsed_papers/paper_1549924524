@@ -1,0 +1,43 @@
+{
+    "id": "1549924524",
+    "title": "Conflict-directed relaxation of constraints in content-based recommender systems",
+    "venue": "industrial and engineering applications of artificial intelligence and expert systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Dietmar Jannach",
+            "id": "208543431",
+            "org": "Institute for Business Informatics & Application Systems, University Klagenfurt, Klagenfurt, Austria#TAB#"
+        },
+        {
+            "name": "Johannes Liegl",
+            "id": "2629927328",
+            "org": "Institute for Business Informatics & Application Systems, University Klagenfurt, Klagenfurt, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Knowledge base",
+        "Branch and bound",
+        "Exploit",
+        "Data mining",
+        "Machine learning",
+        "Artificial intelligence",
+        "Model-based reasoning",
+        "Recommender system",
+        "Knowledge-based systems",
+        "Search algorithm",
+        "Content analysis"
+    ],
+    "references": [
+        "111170679",
+        "153230822",
+        "1510768945",
+        "1558184472",
+        "1737602619",
+        "1763513967",
+        "1985769033",
+        "2108309071",
+        "2165030071"
+    ]
+}

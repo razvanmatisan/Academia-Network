@@ -1,0 +1,43 @@
+{
+    "id": "1804794630",
+    "title": "Uncertainty Reasoning in Rough Knowledge Discovery",
+    "venue": "Interval / Probabilistic Uncertainty and Non-Classical Logics",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Yaxin Bi",
+            "id": "2131402247",
+            "org": "University of Ulster"
+        },
+        {
+            "name": "Xuhui Shen",
+            "id": "2156280246",
+            "org": "China Earthquake Administration"
+        },
+        {
+            "name": "Shengli Wu",
+            "id": "2146845906",
+            "org": "University of Ulster"
+        }
+    ],
+    "fields_of_study": [
+        "Rule induction",
+        "Knowledge extraction",
+        "Exploit",
+        "Evidential reasoning approach",
+        "Decision rule",
+        "Dominance-based rough set approach",
+        "Machine learning",
+        "Pattern recognition",
+        "Rough set",
+        "Artificial intelligence",
+        "Mathematics"
+    ],
+    "references": [
+        "179133882",
+        "1486893322",
+        "1586678372",
+        "2027260346",
+        "2086876270"
+    ]
+}

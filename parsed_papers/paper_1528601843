@@ -1,0 +1,53 @@
+{
+    "id": "1528601843",
+    "title": "Full body motion tracking in monocular images using particle swarm optimization",
+    "venue": "international conference on artificial intelligence and soft computing",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Boguslaw Rymut",
+            "id": "1994255812",
+            "org": "Polish-Japanese Institute of Information Technology, Warszawa, Poland#TAB#"
+        },
+        {
+            "name": "Tomasz Krzeszowski",
+            "id": "1986517452",
+            "org": "Polish-Japanese Institute of Information Technology, Warszawa, Poland#TAB#"
+        },
+        {
+            "name": "Bogdan Kwolek",
+            "id": "252074314",
+            "org": "Polish-Japanese Institute of Information Technology, Warszawa, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Degrees of freedom (statistics)",
+        "Pattern recognition",
+        "Match moving",
+        "Distance transform",
+        "Color image",
+        "Monocular",
+        "Ground truth",
+        "Computer vision",
+        "Curse of dimensionality",
+        "Artificial intelligence",
+        "Mathematics",
+        "Particle swarm optimization"
+    ],
+    "references": [
+        "1528501484",
+        "1855562905",
+        "1974800119",
+        "2096196978",
+        "2101498886",
+        "2104020497",
+        "2119350939",
+        "2121005842",
+        "2123503110",
+        "2125343636",
+        "2126736494",
+        "2152926413",
+        "2162253476",
+        "2397807156"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "1580470356",
+    "title": "The use of a logic programming language in the animation of Z specifications",
+    "venue": "international conference on logic programming",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Margaret Mary West",
+            "id": "2107749185",
+            "org": "University of Huddersfield, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Formal methods",
+        "Signature (logic)",
+        "Algorithm",
+        "Theoretical computer science",
+        "Z notation",
+        "Computer science",
+        "Formal specification",
+        "Specification language",
+        "Animation",
+        "Object language",
+        "Programming language",
+        "Programming language specification"
+    ],
+    "references": [
+        "1486130945",
+        "1504949952",
+        "1533914339"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1605439873",
+    "title": "New Design Concepts for the FLINS-Fuzzy Lingual System: Text-based and Fuzzy-centered Architectures",
+    "venue": "international syposium on methodologies for intelligent systems",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Shun'ichi Tano",
+            "id": "1967060789",
+            "org": "Laboratory for International Fuzzy Engineering Research"
+        },
+        {
+            "name": "Wataru Okamoto",
+            "id": "2115275086",
+            "org": "Laboratory for International Fuzzy Engineering Research"
+        },
+        {
+            "name": "Toshiharu Iwatani",
+            "id": "2032186036",
+            "org": "Laboratory for International Fuzzy Engineering Research"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Data mining",
+        "Expert system",
+        "Natural language understanding",
+        "Neuro-fuzzy",
+        "Fuzzy logic",
+        "Fuzzy Control Language",
+        "Natural language processing",
+        "Architecture",
+        "Computer science",
+        "Adaptive neuro fuzzy inference system",
+        "Artificial intelligence",
+        "Fuzzy control system"
+    ],
+    "references": [
+        "1554986982",
+        "2030949032",
+        "2172033369"
+    ]
+}

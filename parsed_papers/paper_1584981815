@@ -1,0 +1,31 @@
+{
+    "id": "1584981815",
+    "title": "Parsing Contextual Grammars with Linear, Regular and Context-Free Selectors.",
+    "venue": "Grammars and Automata for String Processing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Karin Harbusch",
+            "id": "2260005694",
+            "org": "University of Koblenz|Computer Science|Department Rheinau"
+        }
+    ],
+    "fields_of_study": [
+        "Tree-adjoining grammar",
+        "S-attributed grammar",
+        "Natural language processing",
+        "Indexed grammar",
+        "Parsing expression grammar",
+        "Regular tree grammar",
+        "L-attributed grammar",
+        "Extended Affix Grammar",
+        "Context-free grammar",
+        "Pattern recognition",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "53788046",
+        "1493423606"
+    ]
+}

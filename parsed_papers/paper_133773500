@@ -1,0 +1,46 @@
+{
+    "id": "133773500",
+    "title": "Securing Web Services Using Semantic Web Technologies",
+    "venue": "IFIP Working Conference on Industrial Applications of Semantic Web",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Brian Shields",
+            "id": "2161127203",
+            "org": "National University of Ireland"
+        },
+        {
+            "name": "Owen Molloy",
+            "id": "1248513901",
+            "org": "National University of Ireland"
+        },
+        {
+            "name": "Gerard J. Lyons",
+            "id": "2167416105",
+            "org": "National University of Ireland"
+        },
+        {
+            "name": "Jim Duggan",
+            "id": "2049899051",
+            "org": "National University of Ireland"
+        }
+    ],
+    "fields_of_study": [
+        "Web standards",
+        "XACML",
+        "World Wide Web",
+        "Social Semantic Web",
+        "Semantic Web",
+        "Web modeling",
+        "Semantic Web Stack",
+        "Semantic analytics",
+        "Computer science",
+        "WS-Policy"
+    ],
+    "references": [
+        "130640788",
+        "1513149398",
+        "1546306355",
+        "2005352735"
+    ]
+}

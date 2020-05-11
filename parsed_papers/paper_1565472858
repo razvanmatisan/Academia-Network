@@ -1,0 +1,43 @@
+{
+    "id": "1565472858",
+    "title": "An evolutionary approach to schema partitioning selection in a data warehouse",
+    "venue": "data warehousing and knowledge discovery",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Ladjel Bellatreche",
+            "id": "158375695",
+            "org": "LISI/ENSMA - Poitiers University, France#TAB#"
+        },
+        {
+            "name": "Kamel Boukhalfa",
+            "id": "2892659451",
+            "org": "Universite de Laghouat, Algeria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic algorithm",
+        "Database",
+        "Data mining",
+        "Evolutionary algorithm",
+        "Computer science",
+        "Star schema",
+        "Knowledge extraction",
+        "Online analytical processing",
+        "Fact table",
+        "Schema (psychology)",
+        "Data warehouse"
+    ],
+    "references": [
+        "304606221",
+        "1505401439",
+        "1528326260",
+        "1565760524",
+        "1775738142",
+        "1997375126",
+        "2094034456",
+        "2116148227",
+        "2167445883",
+        "2170141172"
+    ]
+}

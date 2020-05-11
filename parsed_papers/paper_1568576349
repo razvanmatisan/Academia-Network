@@ -1,0 +1,39 @@
+{
+    "id": "1568576349",
+    "title": "Reflective Community Information Systems",
+    "venue": "international conference on enterprise information systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Matthias Jarke",
+            "id": "251194211",
+            "org": "Information Systems, RWTH Aachen"
+        },
+        {
+            "name": "Ralf Klamma",
+            "id": "292844567",
+            "org": "Information Systems, RWTH Aachen"
+        }
+    ],
+    "fields_of_study": [
+        "Executive information system",
+        "Information architecture",
+        "Information access",
+        "Knowledge management",
+        "Information mapping",
+        "Information system",
+        "Personal information management",
+        "Information quality",
+        "Computer science",
+        "Management information systems"
+    ],
+    "references": [
+        "166861388",
+        "1895273801",
+        "1992331235",
+        "2008505195",
+        "2099163044",
+        "2118401400",
+        "2165367618"
+    ]
+}

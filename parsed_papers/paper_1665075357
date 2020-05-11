@@ -1,0 +1,44 @@
+{
+    "id": "1665075357",
+    "title": "Balancing redundancy and query costs in distributed data warehouses",
+    "venue": "asia pacific conference on conceptual modelling",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Klaus-Dieter Schewe",
+            "id": "2194111320",
+            "org": "Massey University, Palmerston North, New Zealand#TAB#"
+        },
+        {
+            "name": "Jane Zhao",
+            "id": "2156824418",
+            "org": "Massey University, Palmerston North, New Zealand#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Formal methods",
+        "Data mining",
+        "Online analytical processing",
+        "Forcing (mathematics)",
+        "Redundancy (engineering)",
+        "Abstract state machines",
+        "Computer science",
+        "Theoretical computer science",
+        "Data warehouse"
+    ],
+    "references": [
+        "1491356097",
+        "1497642450",
+        "1527613567",
+        "1537287344",
+        "1597760789",
+        "1606507025",
+        "1606751452",
+        "1842983266",
+        "1995999642",
+        "1998333922",
+        "2040112678",
+        "2125522861",
+        "2134217480"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1518725080",
+    "title": "The logic of public announcements, common knowledge, and private suspicions",
+    "venue": "theoretical aspects of rationality and knowledge",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Alexandru Baltag",
+            "id": "27033215",
+            "org": "Indiana University, Bloomington IN#TAB#"
+        },
+        {
+            "name": "Lawrence S. Moss",
+            "id": "2120107391",
+            "org": "Indiana University, Bloomington IN#TAB#"
+        },
+        {
+            "name": "Slawomir Solecki",
+            "id": "2293175472",
+            "org": "Indiana University, Bloomington IN#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Dynamic epistemic logic",
+        "Modalities",
+        "Expressive power",
+        "Artificial intelligence",
+        "Operator (computer programming)",
+        "Computer science",
+        "Object language",
+        "Common knowledge",
+        "Epistemic modal logic",
+        "General semantics"
+    ],
+    "references": [
+        "1533142698",
+        "1968714331",
+        "1988903622",
+        "2055092188",
+        "2086747974",
+        "2096959337",
+        "2146819619"
+    ]
+}

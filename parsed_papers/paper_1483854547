@@ -1,0 +1,37 @@
+{
+    "id": "1483854547",
+    "title": "Evolving reversible circuits for the even-parity problem",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Mihai Oltean",
+            "id": "2133170878",
+            "org": "Department of Computer Science, Faculty of Mathematics and Computer Science, Babes-Bolyai University, Cluj-Napoca, Romania#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Electronic circuit",
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "Genetic programming",
+        "Digital electronics",
+        "Parity (mathematics)",
+        "Reversible computing",
+        "Parity bit",
+        "Fredkin gate",
+        "Algorithm",
+        "Linear programming",
+        "Computer science"
+    ],
+    "references": [
+        "1486894692",
+        "1517016597",
+        "1557290355",
+        "1576818901",
+        "1588233806",
+        "2068967633",
+        "2156728410",
+        "2167948802"
+    ]
+}

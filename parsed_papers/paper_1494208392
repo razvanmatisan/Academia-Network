@@ -1,0 +1,32 @@
+{
+    "id": "1494208392",
+    "title": "Finding minimally weighted subgraphs",
+    "venue": "workshop on graph theoretic concepts in computer science",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Jurgen Plehn",
+            "id": "2328520354",
+            "org": "Universitat Bonn"
+        },
+        {
+            "name": "Bernd Voigt",
+            "id": "2493723147",
+            "org": "Universitat Bonn"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Combinatorics",
+        "Time complexity",
+        "Graph minor",
+        "Chordal graph",
+        "Graph",
+        "Computer science",
+        "Bounded function",
+        "Induced subgraph"
+    ],
+    "references": [
+        "2029448190"
+    ]
+}

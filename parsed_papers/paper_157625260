@@ -1,0 +1,49 @@
+{
+    "id": "157625260",
+    "title": "Fuzzy rule based system ensemble for music genre classification",
+    "venue": "EvoMUSART'12 Proceedings of the First international conference on Evolutionary and Biologically Inspired Music, Sound, Art and Design",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Francisco Fernandez",
+            "id": "2560356933",
+            "org": "Department of Computer Science, University of Extremadura, Merida, Spain#TAB#"
+        },
+        {
+            "name": "Francisco Chavez",
+            "id": "2500082788",
+            "org": "Department of Computer Science, University of Extremadura, Merida, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic algorithm",
+        "Fuzzy rule",
+        "Neuro-fuzzy",
+        "Fuzzy logic",
+        "Machine learning",
+        "Harmonic",
+        "Fuzzy set operations",
+        "Fuzzy classification",
+        "Artificial intelligence",
+        "Mathematics",
+        "Fuzzy control system",
+        "Pattern recognition"
+    ],
+    "references": [
+        "54476653",
+        "1495093786",
+        "1954587310",
+        "2050288270",
+        "2093620744",
+        "2097460058",
+        "2100753110",
+        "2105114356",
+        "2107601442",
+        "2115942849",
+        "2119240702",
+        "2122558540",
+        "2131683518",
+        "2133824856",
+        "2144894928"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "114330150",
+    "title": "Generating Meta-Model-Based Freehand Editors",
+    "venue": "Electronic Communication of The European Association of Software Science and Technology",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Mark Minas",
+            "id": "2118657015",
+            "org": "Bundeswehr University Munich"
+        }
+    ],
+    "fields_of_study": [
+        "Parsing",
+        "Graph (abstract data type)",
+        "Theoretical computer science",
+        "Visual language",
+        "Diagram",
+        "Unified Modeling Language",
+        "Metamodeling",
+        "Programming language",
+        "Computer science",
+        "Constraint satisfaction problem"
+    ],
+    "references": [
+        "1568744820",
+        "1631043763",
+        "1839232938",
+        "1967473444",
+        "2006372175",
+        "2047565009",
+        "2054784217",
+        "2116599600"
+    ]
+}

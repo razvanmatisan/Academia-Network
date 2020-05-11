@@ -1,0 +1,37 @@
+{
+    "id": "1527280740",
+    "title": "Some Synchronization Issues When Designing Embedded Systems from Components",
+    "venue": "embedded software",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Albert Benveniste",
+            "id": "2295575204",
+            "org": "Inria / Irisa"
+        }
+    ],
+    "fields_of_study": [
+        "Embedded system",
+        "Real-time computing",
+        "Synchronization",
+        "Hardware architecture",
+        "Real-time operating system",
+        "Computer science",
+        "Systems design",
+        "Software",
+        "Distributed computing",
+        "Real-time Control System",
+        "Software development",
+        "Control system"
+    ],
+    "references": [
+        "1480597667",
+        "1511390137",
+        "1649056824",
+        "1785583892",
+        "2040789302",
+        "2106861521",
+        "2160566592",
+        "2168287017"
+    ]
+}

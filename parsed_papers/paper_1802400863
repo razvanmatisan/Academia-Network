@@ -1,0 +1,40 @@
+{
+    "id": "1802400863",
+    "title": "A STEP towards realizing Codd's vision of rendezvous with the casual user",
+    "venue": "very large data bases",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Michael Minock",
+            "id": "312313042",
+            "org": "Umea University, Umea, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parsing",
+        "Codd's theorem",
+        "Database",
+        "Relational calculus",
+        "Domain relational calculus",
+        "Relational database",
+        "Natural language processing",
+        "Computer science",
+        "SQL",
+        "Tuple relational calculus",
+        "Programming language",
+        "Relational model",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "63493895",
+        "1495234861",
+        "1604950190",
+        "1980830073",
+        "2057670927",
+        "2061141062",
+        "2096619464",
+        "2103721161",
+        "2154268919",
+        "2585914697"
+    ]
+}

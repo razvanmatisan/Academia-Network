@@ -1,0 +1,39 @@
+{
+    "id": "154722466",
+    "title": "DERIVING USE CASES FROM BUSINESS PROCESSES The advantages of DEMO",
+    "venue": "international conference on enterprise information systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Boris Shishkov",
+            "id": "2569158756",
+            "org": "Delft University of Technology"
+        },
+        {
+            "name": "Jan L. G. Dietz",
+            "id": "2128625188",
+            "org": "Delft University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Data mining",
+        "Business requirements",
+        "Computer science",
+        "Business Process Model and Notation",
+        "Process Driven Development",
+        "Process modeling",
+        "Management science",
+        "Business process modeling",
+        "Artifact-centric business process model",
+        "Function model",
+        "Business rule"
+    ],
+    "references": [
+        "2338572",
+        "291898711",
+        "1940429100",
+        "2100735146",
+        "2139907081"
+    ]
+}

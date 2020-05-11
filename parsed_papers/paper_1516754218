@@ -1,0 +1,50 @@
+{
+    "id": "1516754218",
+    "title": "Mobile Agent Based Distributed EM Algorithm For Data Clustering In Sensor Networks",
+    "venue": "Intelligent Automation and Soft Computing",
+    "year": 2016,
+    "authors": [
+        {
+            "name": "Behrouz Safarinejadian",
+            "id": "1722965110",
+            "org": "Electrical Engineering Department, Shiraz University of Technology, Shiraz 71555-313, Iran"
+        },
+        {
+            "name": "Mohiyeddin Mozaffari",
+            "id": "2118201667",
+            "org": "Electrical Engineering Department, Shiraz University of Technology, Shiraz 71555-313, Iran"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Artificial intelligence",
+        "Density estimation",
+        "Machine learning",
+        "Mathematical optimization",
+        "CURE data clustering algorithm",
+        "Expectation-maximization algorithm",
+        "Mixture model",
+        "Data stream clustering",
+        "Brooks-Iyengar algorithm",
+        "Computer science",
+        "Canopy clustering algorithm"
+    ],
+    "references": [
+        "1479971791",
+        "1551938402",
+        "2011598071",
+        "2026450968",
+        "2039726896",
+        "2052456085",
+        "2081986091",
+        "2087595259",
+        "2103139809",
+        "2110048879",
+        "2114871659",
+        "2141298166",
+        "2146840522",
+        "2150910590",
+        "2158307424",
+        "2167256102"
+    ]
+}

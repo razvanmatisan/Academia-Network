@@ -1,0 +1,38 @@
+{
+    "id": "1506677211",
+    "title": "Should MT systems be used as black boxes in CLIR",
+    "venue": "european conference on information retrieval",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Walid Magdy",
+            "id": "1990912753",
+            "org": "Centre for Next Generation Localisation, School of Computing, Dublin City University, Dublin, Ireland#TAB#"
+        },
+        {
+            "name": "Gareth J. F. Jones",
+            "id": "2253680186",
+            "org": "Centre for Next Generation Localisation, School of Computing, Dublin City University, Dublin, Ireland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Language barrier",
+        "Machine translation",
+        "Transfer-based machine translation",
+        "Information retrieval",
+        "Cross-language information retrieval",
+        "Speedup",
+        "Natural language processing",
+        "Computer science",
+        "Stop words",
+        "Sentence",
+        "Artificial intelligence",
+        "Black box"
+    ],
+    "references": [
+        "1589741057",
+        "2011548984",
+        "2140501129",
+        "2595715041"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "159470101",
+    "title": "Magic Factoring of Closure Programs.",
+    "venue": "symposium on principles of database systems",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Peter T. Wood",
+            "id": "2301950271",
+            "org": "Department of Computer Science|University of Cape"
+        }
+    ],
+    "fields_of_study": [
+        "Nondeterministic finite automaton with e-moves",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Factoring",
+        "Magic (paranormal)",
+        "Computer science",
+        "Algorithm"
+    ],
+    "references": [
+        "1501535985",
+        "1569301450",
+        "1863745163",
+        "2066334374",
+        "2070553391",
+        "2079851782"
+    ]
+}

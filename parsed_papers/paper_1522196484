@@ -1,0 +1,46 @@
+{
+    "id": "1522196484",
+    "title": "A Complete and Explicit Security Reduction Algorithm for RSA-Based Cryptosystems",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Kaoru Kurosawa",
+            "id": "1646480596",
+            "org": "Ibaraki University"
+        },
+        {
+            "name": "Katja Schmidt-Samoa",
+            "id": "2227799396",
+            "org": "Technische Universitat Darmstadt"
+        },
+        {
+            "name": "Tsuyoshi Takagi",
+            "id": "2051837146",
+            "org": "Technische Universitat Darmstadt"
+        }
+    ],
+    "fields_of_study": [
+        "Provable security",
+        "Lattice (order)",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Binary GCD algorithm",
+        "Euclidean algorithm",
+        "Public-key cryptography",
+        "Binary logarithm",
+        "Algorithm",
+        "Cryptography",
+        "Mathematics",
+        "Lattice reduction"
+    ],
+    "references": [
+        "1540276440",
+        "1552695147",
+        "1561907855",
+        "1574176200",
+        "1600085302",
+        "1679474142",
+        "2042226948"
+    ]
+}

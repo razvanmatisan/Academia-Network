@@ -1,0 +1,36 @@
+{
+    "id": "1485076451",
+    "title": "Evolving Scientific Knowledge",
+    "venue": "Fuzzy Days",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jurgen Paetz",
+            "id": "2024915363",
+            "org": "J.W. Goethe-Universitat Frankfurt am Main"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge extraction",
+        "Natural language processing",
+        "Discovery science",
+        "Concept mining",
+        "Genetic programming",
+        "Automated theorem proving",
+        "Computational intelligence",
+        "Data mining",
+        "Biomedical text mining",
+        "Artificial intelligence",
+        "Computer science",
+        "Text mining"
+    ],
+    "references": [
+        "1538688579",
+        "1556569240",
+        "1576660662",
+        "1576818901",
+        "1763200058",
+        "2097460058",
+        "2126554879"
+    ]
+}

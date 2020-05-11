@@ -1,0 +1,47 @@
+{
+    "id": "1563070512",
+    "title": "Facial feature extraction using a cascade of model-based algorithms",
+    "venue": "advanced video and signal based surveillance",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Fei Zuo",
+            "id": "2702844172",
+            "org": "Fac. of Electr. Eng., Eindhoven Univ. of Technol., Netherlands"
+        }
+    ],
+    "fields_of_study": [
+        "Convergence (routing)",
+        "Image texture",
+        "Computer vision",
+        "Robustness (computer science)",
+        "Deformation (mechanics)",
+        "Pattern recognition",
+        "Feature extraction",
+        "Cascade",
+        "Algorithm",
+        "Estimation theory",
+        "Machine learning",
+        "Artificial intelligence",
+        "Facial recognition system",
+        "Computer science"
+    ],
+    "references": [
+        "1532550917",
+        "1535137548",
+        "1589579606",
+        "1997011019",
+        "2024091300",
+        "2033419168",
+        "2106309274",
+        "2118774738",
+        "2123116174",
+        "2125848778",
+        "2134053173",
+        "2140291188",
+        "2152826865",
+        "2153635508",
+        "2163179221",
+        "2168835473"
+    ]
+}

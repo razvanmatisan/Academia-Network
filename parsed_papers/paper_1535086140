@@ -1,0 +1,59 @@
+{
+    "id": "1535086140",
+    "title": "Polynomial Time Matching Algorithms for Tree-Like Structured Patterns in Knowledge Discovery",
+    "venue": "pacific asia conference on knowledge discovery and data mining",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Tetsuhiro Miyahara",
+            "id": "2167270571",
+            "org": "Hiroshima City University"
+        },
+        {
+            "name": "Takayoshi Shoudai",
+            "id": "35272218",
+            "org": "Kyushu University 39"
+        },
+        {
+            "name": "Tomoyuki Uchida",
+            "id": "2777311899",
+            "org": "Hiroshima City University"
+        },
+        {
+            "name": "Kenichi Takahashi",
+            "id": "2752244086",
+            "org": "Hiroshima City University"
+        },
+        {
+            "name": "Hiroaki Ueda",
+            "id": "2894171355",
+            "org": "Hiroshima City University"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Discrete mathematics",
+        "Gomory-Hu tree",
+        "Fractal tree index",
+        "K-ary tree",
+        "Combinatorics",
+        "Incremental decision tree",
+        "AVL tree",
+        "Tree rotation",
+        "Algorithm",
+        "Vantage-point tree",
+        "Mathematics",
+        "k-minimum spanning tree"
+    ],
+    "references": [
+        "1483584217",
+        "1578607594",
+        "1585892032",
+        "2071941848",
+        "2103554351",
+        "2113243831",
+        "2165234371",
+        "2522853541"
+    ]
+}

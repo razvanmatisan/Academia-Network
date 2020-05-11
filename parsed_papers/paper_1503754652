@@ -1,0 +1,39 @@
+{
+    "id": "1503754652",
+    "title": "Communicating Evolving Algebras",
+    "venue": "computer science logic",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Paola Glavan",
+            "id": "1410614454",
+            "org": "University of Zagreb, FSB"
+        },
+        {
+            "name": "Dean Rosenzweig",
+            "id": "2101772180",
+            "org": "University of Zagreb, FSB"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Modal m-calculus",
+        "Normal modal logic",
+        "Dynamic logic (modal logic)",
+        "Concurrency",
+        "First-order logic",
+        "Interior algebra",
+        "Linear temporal logic",
+        "Multimodal logic",
+        "Mathematics"
+    ],
+    "references": [
+        "1487966966",
+        "1503973138",
+        "1600689686",
+        "2012968289",
+        "2055378322",
+        "2128932399",
+        "2153411278"
+    ]
+}

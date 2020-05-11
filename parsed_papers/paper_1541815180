@@ -1,0 +1,38 @@
+{
+    "id": "1541815180",
+    "title": "Minimum Matrix Representation of Some Key System",
+    "venue": "foundations of information and knowledge systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Krisztian Tichler",
+            "id": "2778152601",
+            "org": "Eotvos Lorand University (ELTE)"
+        },
+        {
+            "name": "Krisztian Tichler",
+            "id": "2778152601",
+            "org": "Eotvos Lorand University (ELTE)"
+        }
+    ],
+    "fields_of_study": [
+        "Block matrix",
+        "Relational database",
+        "Row",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Lemma (mathematics)",
+        "Matrix (mathematics)",
+        "Matrix representation",
+        "Magnitude (mathematics)",
+        "Single-entry matrix",
+        "Computer science"
+    ],
+    "references": [
+        "105112013",
+        "1542981073",
+        "2053929761",
+        "2088679936",
+        "2129841647"
+    ]
+}

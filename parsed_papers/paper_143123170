@@ -1,0 +1,48 @@
+{
+    "id": "143123170",
+    "title": "A lookahead strategy for heuristic search planning",
+    "venue": "international conference on automated planning and scheduling",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Vincent Vidal",
+            "id": "2670256223",
+            "org": "CRIL-Universite d'Artois, Lens, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Consistent heuristic",
+        "Mathematical optimization",
+        "Machine learning",
+        "Incremental heuristic search",
+        "Artificial intelligence",
+        "Beam search",
+        "Computer science",
+        "Heuristic",
+        "Local search (optimization)",
+        "Search algorithm",
+        "Best-first search"
+    ],
+    "references": [
+        "78693535",
+        "146503032",
+        "146911184",
+        "1481195904",
+        "1498154961",
+        "1545688112",
+        "1558620469",
+        "1572277334",
+        "1600919542",
+        "1656881631",
+        "1781384914",
+        "2003890836",
+        "2009833344",
+        "2025460523",
+        "2070878381",
+        "2122054842",
+        "2155206435",
+        "2164322797",
+        "2167963482",
+        "2169964236"
+    ]
+}

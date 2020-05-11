@@ -1,0 +1,39 @@
+{
+    "id": "1535203525",
+    "title": "Iris recognition with support vector machines",
+    "venue": "international conference on biometrics",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Kaushik Roy",
+            "id": "2176367178",
+            "org": "Concordia Institute for Information System Engineering, Concordia University, Montreal, Quebec, Canada#TAB#"
+        },
+        {
+            "name": "Prabir Bhattacharya",
+            "id": "2440111960",
+            "org": "Concordia Institute for Information System Engineering, Concordia University, Montreal, Quebec, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Support vector machine",
+        "Artificial intelligence",
+        "Iris recognition",
+        "Computer vision",
+        "Hough transform",
+        "Pattern recognition",
+        "Computer science",
+        "Gabor wavelet",
+        "Gabor filter",
+        "Margin classifier",
+        "Edge detection",
+        "Radial basis function kernel"
+    ],
+    "references": [
+        "1508260139",
+        "1977657217",
+        "2102796633",
+        "2103384342",
+        "2151148935"
+    ]
+}

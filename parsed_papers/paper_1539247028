@@ -1,0 +1,36 @@
+{
+    "id": "1539247028",
+    "title": "Provence: A Process Visualisation and Enactment Environment",
+    "venue": "european software engineering conference",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Balachander Krishnamurthy",
+            "id": "2781443216",
+            "org": "AT&T Bell Laboratories"
+        },
+        {
+            "name": "Naser S. Barghouti",
+            "id": "2639682507",
+            "org": "AT&T Bell Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Visualization",
+        "Systems engineering",
+        "Software development process",
+        "Component-based software engineering",
+        "Software development",
+        "Software engineering",
+        "Architecture",
+        "Openness to experience",
+        "Computer science",
+        "Extensibility",
+        "File system"
+    ],
+    "references": [
+        "1995206801",
+        "2045267305",
+        "2121284774"
+    ]
+}

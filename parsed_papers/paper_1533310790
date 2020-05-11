@@ -1,0 +1,38 @@
+{
+    "id": "1533310790",
+    "title": "Towards a Toolkit for the Analysis and Design of Systems with Self-Management Capabilities",
+    "venue": "autonomous infrastructure, management and security",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Ralf Koenig",
+            "id": "2147115199",
+            "org": "Munich Network Management Team, Ludwig-Maximilians-Universitat Munchen, 80638 Munich, Germany#TAB#"
+        },
+        {
+            "name": "Heinz-Gerd Hegering",
+            "id": "1995425693",
+            "org": "Munich Network Management Team, Ludwig-Maximilians-Universitat Munchen, 80638 Munich, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Systems modeling",
+        "System of systems",
+        "Systems design",
+        "Design knowledge",
+        "System model",
+        "Application domain",
+        "Management science",
+        "Reference model",
+        "Computer science",
+        "Systems management"
+    ],
+    "references": [
+        "1533889658",
+        "2027638895",
+        "2129754568",
+        "2130121696",
+        "2134240943",
+        "2150459152"
+    ]
+}

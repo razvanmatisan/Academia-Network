@@ -1,0 +1,41 @@
+{
+    "id": "1576028867",
+    "title": "Intelligent network-based early warning systems",
+    "venue": "critical information infrastructures security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Karsten Bsufka",
+            "id": "164758484",
+            "org": "Technische Universitat Berlin, DAI-Labor#TAB#"
+        },
+        {
+            "name": "Olaf Kroll-Peters",
+            "id": "275112790",
+            "org": "Technische Universitat Berlin, DAI-Labor#TAB#"
+        },
+        {
+            "name": "Sahin Albayrak",
+            "id": "1919884716",
+            "org": "Technische Universitat Berlin, DAI-Labor#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Computer security",
+        "Information system",
+        "Firewall (construction)",
+        "Intrusion detection system",
+        "Intelligent Network",
+        "Computer science",
+        "Multi-agent system",
+        "Critical infrastructure",
+        "Warning system",
+        "Early warning system"
+    ],
+    "references": [
+        "1980149973",
+        "1994340575",
+        "2118600187"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "14012608",
+    "title": "Translating XBRL Into Description Logic. An Approach Using Protege, Sesame & OWL.",
+    "venue": "business information systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Thierry Declerck",
+            "id": "2320904631",
+            "org": "German Research Centre for Artificial Intelligence"
+        },
+        {
+            "name": "Hans-Ulrich Krieger",
+            "id": "2121387287",
+            "org": "German Research Centre for Artificial Intelligence"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "XBRL",
+        "Business reporting",
+        "Decision support system",
+        "Information extraction",
+        "Information system",
+        "Web service",
+        "Business intelligence",
+        "Management information systems",
+        "Data mining",
+        "Computer science"
+    ],
+    "references": [
+        "104985611",
+        "1812636409",
+        "1966302589"
+    ]
+}

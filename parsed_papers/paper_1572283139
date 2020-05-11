@@ -1,0 +1,38 @@
+{
+    "id": "1572283139",
+    "title": "A cloze test authoring system and its automation",
+    "venue": "international conference on web based learning",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Ayako Hoshino",
+            "id": "2580392472",
+            "org": "University of Tokyo#TAB#"
+        },
+        {
+            "name": "Hiroshi Nakagawa",
+            "id": "2094248864",
+            "org": "University of Tokyo#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "English grammar",
+        "Multimedia",
+        "Language assessment",
+        "Authoring system",
+        "Cloze test",
+        "Vocabulary",
+        "Natural language processing",
+        "Computer science",
+        "Automation",
+        "Computerized adaptive testing",
+        "Grammar",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1500165719",
+        "2103861553",
+        "2129496160",
+        "2161325192"
+    ]
+}

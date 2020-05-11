@@ -1,0 +1,40 @@
+{
+    "id": "1498367736",
+    "title": "Preemptive Scheduling with Rejection",
+    "venue": "european symposium on algorithms",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Han Hoogeveen",
+            "id": "2108827927",
+            "org": "Utrecht University"
+        },
+        {
+            "name": "Martin Skutella",
+            "id": "52419412",
+            "org": "Technische Universitat Berlin"
+        },
+        {
+            "name": "Gerhard J. Woeginger",
+            "id": "694944117",
+            "org": "Institut fur Mathematik"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Approximation algorithm",
+        "Distributed computing",
+        "Mathematical optimization",
+        "Scheduling (computing)",
+        "Computer science",
+        "Job shop scheduling",
+        "Preemption",
+        "Computational complexity theory",
+        "Fixed-priority pre-emptive scheduling"
+    ],
+    "references": [
+        "1543365144",
+        "1941111399",
+        "2039775944"
+    ]
+}

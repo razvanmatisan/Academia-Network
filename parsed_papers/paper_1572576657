@@ -1,0 +1,36 @@
+{
+    "id": "1572576657",
+    "title": "On the Complexity of Decision Problems for Classes of Simple Programs on Strings",
+    "venue": "GI Jahrestagung",
+    "year": 1976,
+    "authors": [
+        {
+            "name": "Giorgio Ausiello",
+            "id": "2110397711",
+            "org": "Centro di Studio dei Sistemi di Controllo e Calcolo Automatici del C.N.R."
+        },
+        {
+            "name": "Marina Moscarini",
+            "id": "2250612301",
+            "org": "Centro di Studio dei Sistemi di Controllo e Calcolo Automatici del C.N.R."
+        }
+    ],
+    "fields_of_study": [
+        "Decision problem",
+        "Influence diagram",
+        "Decision tree model",
+        "NL-complete",
+        "Function problem",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Decision engineering",
+        "Decision tree",
+        "Computational problem",
+        "Mathematics"
+    ],
+    "references": [
+        "1980967952",
+        "1988826480",
+        "2007464118"
+    ]
+}

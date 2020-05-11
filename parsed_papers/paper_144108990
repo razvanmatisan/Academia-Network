@@ -1,0 +1,57 @@
+{
+    "id": "144108990",
+    "title": "A Boolean Model for Enumerating Minimal Siphons and Traps in Petri Nets",
+    "venue": "principles and practice of constraint programming",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Faten Nabli",
+            "id": "1498373429",
+            "org": "EPI Contraintes, Inria Paris-Rocquencourt, France#TAB#"
+        },
+        {
+            "name": "Francois Fages",
+            "id": "2068800805",
+            "org": "EPI Contraintes, Inria Paris-Rocquencourt, France#TAB#"
+        },
+        {
+            "name": "Thierry Martinez",
+            "id": "2137541565",
+            "org": "EPI Contraintes, Inria Paris-Rocquencourt, France#TAB#"
+        },
+        {
+            "name": "Sylvain Soliman",
+            "id": "2229500488",
+            "org": "EPI Contraintes, Inria Paris-Rocquencourt, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Persistence (computer science)",
+        "Computation",
+        "Computer science",
+        "Process architecture",
+        "Discrete mathematics",
+        "BioModels Database",
+        "Stochastic Petri net",
+        "Petri net",
+        "Biological network",
+        "Theoretical computer science",
+        "Boolean satisfiability problem"
+    ],
+    "references": [
+        "4983232",
+        "1507239866",
+        "1517590008",
+        "1544529442",
+        "1561608403",
+        "2066322491",
+        "2066987852",
+        "2090699732",
+        "2107062718",
+        "2108678912",
+        "2144525166",
+        "2146367686",
+        "2148895036",
+        "2169804422"
+    ]
+}

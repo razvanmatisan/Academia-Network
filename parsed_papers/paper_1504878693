@@ -1,0 +1,59 @@
+{
+    "id": "1504878693",
+    "title": "Working Towards Strong Wireless Group Communications: The Janus Architecture",
+    "venue": "international conference on computational science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "James S. Pascoe",
+            "id": "2190496397",
+            "org": "The University of Reading"
+        },
+        {
+            "name": "James S. Pascoe",
+            "id": "2190496397",
+            "org": "The University of Reading"
+        },
+        {
+            "name": "Vaidy S. Sunderam",
+            "id": "1976270982",
+            "org": "Emory University"
+        },
+        {
+            "name": "Roger J. Loader",
+            "id": "2426762944",
+            "org": "The University of Reading"
+        },
+        {
+            "name": "Roger J. Loader",
+            "id": "2426762944",
+            "org": "The University of Reading"
+        }
+    ],
+    "fields_of_study": [
+        "Wireless network",
+        "Wi-Fi array",
+        "Quality of service",
+        "Wireless",
+        "Application sharing",
+        "Wired communication",
+        "Distributed computing",
+        "Computer network",
+        "Key distribution in wireless sensor networks",
+        "Architecture",
+        "Computer science"
+    ],
+    "references": [
+        "1554994893",
+        "1589122423",
+        "1997904677",
+        "2005216655",
+        "2045362872",
+        "2057081379",
+        "2077982907",
+        "2123709958",
+        "2134330814",
+        "2145417574",
+        "2148383895"
+    ]
+}

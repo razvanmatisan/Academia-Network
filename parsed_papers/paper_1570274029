@@ -1,0 +1,37 @@
+{
+    "id": "1570274029",
+    "title": "Associating Metrics to Certification Paths",
+    "venue": "european symposium on research in computer security",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Anas Tarah",
+            "id": "2001049973",
+            "org": "CERICS"
+        },
+        {
+            "name": "Christian Huitema",
+            "id": "2633507234",
+            "org": "Projet Rodeo Sophia-Antipolis, INRIA, Valbonne, Cedex, France"
+        }
+    ],
+    "fields_of_study": [
+        "Root certificate",
+        "Computer security",
+        "Computer science",
+        "Certification Practice Statement",
+        "Certification path validation algorithm",
+        "Certificate authority",
+        "Certification",
+        "X.509",
+        "Self-signed certificate",
+        "Certificate policy"
+    ],
+    "references": [
+        "106830201",
+        "1569083856",
+        "1996360405",
+        "2135780448",
+        "2146749986"
+    ]
+}

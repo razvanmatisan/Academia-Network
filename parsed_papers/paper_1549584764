@@ -1,0 +1,32 @@
+{
+    "id": "1549584764",
+    "title": "Pumping Lemmas for Timed Automata",
+    "venue": "foundations of software science and computation structure",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Daniele Beauquier",
+            "id": "2580943561",
+            "org": "University Paris-12"
+        }
+    ],
+    "fields_of_study": [
+        "Regular language",
+        "Pumping lemma for context-free languages",
+        "Discrete mathematics",
+        "Finite-state machine",
+        "Lemma (mathematics)",
+        "Timed automaton",
+        "Pumping lemma for regular languages",
+        "Algorithm",
+        "Regular expression",
+        "Mathematics",
+        "Automata theory"
+    ],
+    "references": [
+        "1551070491",
+        "1552159734",
+        "2034124289",
+        "2101508170"
+    ]
+}

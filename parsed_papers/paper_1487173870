@@ -1,0 +1,43 @@
+{
+    "id": "1487173870",
+    "title": "Blind feature extraction for time-series classification using haar wavelet transform",
+    "venue": "international symposium on neural networks",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Hui Zhang",
+            "id": "2630228401",
+            "org": "School of Knowledge Science, Japan Advanced Institute of Science and Technology, Tatsunokuchi, Ishikawa, Japan#TAB#"
+        },
+        {
+            "name": "Tu Bao Ho",
+            "id": "2135463138",
+            "org": "School of Knowledge Science, Japan Advanced Institute of Science and Technology, Tatsunokuchi, Ishikawa, Japan#TAB#"
+        },
+        {
+            "name": "Wei Huang",
+            "id": "2683275644",
+            "org": "School of Knowledge Science, Japan Advanced Institute of Science and Technology, Tatsunokuchi, Ishikawa, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Discrete Fourier transform",
+        "Machine learning",
+        "Pattern recognition",
+        "Feature extraction",
+        "Singular value decomposition",
+        "Artificial intelligence",
+        "Discrete wavelet transform",
+        "Computer science",
+        "Haar wavelet",
+        "Curse of dimensionality",
+        "Dimensionality reduction"
+    ],
+    "references": [
+        "1499049447",
+        "2107856142",
+        "2113236250",
+        "2148039410"
+    ]
+}

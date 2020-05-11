@@ -1,0 +1,30 @@
+{
+    "id": "1544242085",
+    "title": "Modelling the Federation of Process Sensitive Engineering Environments: Basic Concepts and Perspectives",
+    "venue": "european workshop on software process technology",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Pierre Fernand Tiako",
+            "id": "2764509189",
+            "org": "LORIA-INPL UNIR 7503, B.P 239"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Common Object Request Broker Architecture",
+        "Project management",
+        "Software development process",
+        "Abstraction layer",
+        "Simulation",
+        "Social software engineering",
+        "Software development",
+        "Object request broker",
+        "Distributed computing",
+        "Computer science"
+    ],
+    "references": [
+        "36497423",
+        "2086970510"
+    ]
+}

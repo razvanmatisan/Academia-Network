@@ -1,0 +1,34 @@
+{
+    "id": "1450746098",
+    "title": "Diameter of the spike-flow graphs of geometrical neural networks",
+    "venue": "parallel processing and applied mathematics",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Jaroslaw Piersa",
+            "id": "98935390",
+            "org": "Faculty of Mathematics and Computer Science, Nicolaus Copernicus University, Torun, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Clustering coefficient",
+        "Combinatorics",
+        "Average path length",
+        "Complex network",
+        "Graph bandwidth",
+        "Distance-hereditary graph",
+        "Voltage graph",
+        "Distributed computing",
+        "Longest path problem",
+        "Butterfly graph",
+        "Mathematics"
+    ],
+    "references": [
+        "1481967218",
+        "1582813132",
+        "2035324081",
+        "2116192505",
+        "2124637492"
+    ]
+}

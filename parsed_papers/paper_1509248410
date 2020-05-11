@@ -1,0 +1,37 @@
+{
+    "id": "1509248410",
+    "title": "A fuzzy genetic algorithm for real-world job shop scheduling",
+    "venue": "industrial and engineering applications of artificial intelligence and expert systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Carole Fayad",
+            "id": "2171167289",
+            "org": "School of Computer Science and Information Technology, University of Nottingham, Nottingham, UK#TAB#"
+        },
+        {
+            "name": "Sanja Petrovic",
+            "id": "2145654635",
+            "org": "School of Computer Science and Information Technology, University of Nottingham, Nottingham, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Genetic algorithm",
+        "Artificial intelligence",
+        "Machine learning",
+        "Fuzzy logic",
+        "Fuzzy set",
+        "Job shop scheduling",
+        "Fuzzy set operations",
+        "Search algorithm",
+        "Flow shop scheduling",
+        "Job shop"
+    ],
+    "references": [
+        "1570082825",
+        "1973405796",
+        "2120602102",
+        "2138028598"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1635548624",
+    "title": "Ontology-based authoring of intelligent model-tracing math tutors",
+    "venue": "artificial intelligence methodology systems applications",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Dimitrios Sklavakis",
+            "id": "177192346",
+            "org": "University of Macedonia, Department of Applied Informatics, Thessaloniki, Greece#TAB#"
+        },
+        {
+            "name": "Ioannis Refanidis",
+            "id": "565133514",
+            "org": "University of Macedonia, Department of Applied Informatics, Thessaloniki, Greece#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "OWL-S",
+        "Computer science",
+        "Artificial intelligence",
+        "Authoring system",
+        "Cognitive tutor",
+        "Natural language processing",
+        "Procedural knowledge",
+        "Intelligent tutoring system",
+        "Knowledge management",
+        "Web Ontology Language",
+        "Ontology (information science)",
+        "TUTOR"
+    ],
+    "references": [
+        "1517725046",
+        "1530888811",
+        "1556177080"
+    ]
+}

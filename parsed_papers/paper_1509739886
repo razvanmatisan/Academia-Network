@@ -1,0 +1,42 @@
+{
+    "id": "1509739886",
+    "title": "The Complexity of Computing Hard Core Predicates",
+    "venue": "international cryptology conference",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Mikael Goldmann",
+            "id": "2077090978",
+            "org": "Royal Institute of Technology"
+        },
+        {
+            "name": "Mats Naslund",
+            "id": "1879334623",
+            "org": "Royal Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "One-way function",
+        "First-order logic",
+        "Combinatorics",
+        "Upper and lower bounds",
+        "Exponential function",
+        "Log-log plot",
+        "Almost surely",
+        "Computational complexity theory",
+        "Binary logarithm",
+        "Mathematics"
+    ],
+    "references": [
+        "1608929692",
+        "1969694673",
+        "2014850486",
+        "2027528470",
+        "2031934066",
+        "2042194938",
+        "2074196013",
+        "2108104892",
+        "2164284862"
+    ]
+}

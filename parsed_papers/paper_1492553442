@@ -1,0 +1,30 @@
+{
+    "id": "1492553442",
+    "title": "The Resolution for Ruogh Propositional Logic with Lower (L) and Upper (h) Approximate Operators",
+    "venue": "soft computing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Qing Liu",
+            "id": "2668121192",
+            "org": "NanChang University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Completeness (statistics)",
+        "Propositional variable",
+        "Soundness",
+        "Propositional calculus",
+        "First-order logic",
+        "Modal logic",
+        "Resolution (logic)",
+        "Algorithm",
+        "Operator (computer programming)",
+        "Mathematics"
+    ],
+    "references": [
+        "1480293502",
+        "1483074167"
+    ]
+}

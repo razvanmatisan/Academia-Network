@@ -1,0 +1,37 @@
+{
+    "id": "1514234240",
+    "title": "The complexity of embedding graphs into binary trees",
+    "venue": "fundamentals of computation theory",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Burkhard Monien",
+            "id": "2145586035",
+            "org": "Universitat Paderborn"
+        }
+    ],
+    "fields_of_study": [
+        "Graph product",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Scapegoat tree",
+        "Weight-balanced tree",
+        "Tremaux tree",
+        "Binary search tree",
+        "Computer science",
+        "Threaded binary tree",
+        "Ternary search tree",
+        "Random binary tree"
+    ],
+    "references": [
+        "1967247432",
+        "1967958850",
+        "1984478519",
+        "1994496314",
+        "2036795391",
+        "2044643854",
+        "2073107529",
+        "2093107107",
+        "2153017573"
+    ]
+}

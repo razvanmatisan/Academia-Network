@@ -1,0 +1,61 @@
+{
+    "id": "1599154571",
+    "title": "Attribute Interactions in Medical Data Analysis",
+    "venue": "artificial intelligence in medicine in europe",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Aleks Jakulin",
+            "id": "120349348",
+            "org": "University of Ljubljana"
+        },
+        {
+            "name": "Ivan Bratko",
+            "id": "689465770",
+            "org": "University of Ljubljana"
+        },
+        {
+            "name": "Dragica Smrke",
+            "id": "2803032236",
+            "org": "University Clinical Center"
+        },
+        {
+            "name": "Janez Demsar",
+            "id": "1965088163",
+            "org": "University of Ljubljana"
+        },
+        {
+            "name": "Blaz Zupan",
+            "id": "1975997033",
+            "org": "University of Ljubljana"
+        },
+        {
+            "name": "Blaz Zupan",
+            "id": "1975997033",
+            "org": "University of Ljubljana"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Data mining",
+        "Conditional independence",
+        "Artificial intelligence",
+        "Information and Computer Science",
+        "Subject-matter expert",
+        "Classifier (linguistics)",
+        "Voting",
+        "Naive Bayes classifier",
+        "Pattern recognition",
+        "Computer science",
+        "Empirical evidence"
+    ],
+    "references": [
+        "1533491278",
+        "1576290412",
+        "1605844890",
+        "1817561967",
+        "2043879770",
+        "2097508937",
+        "2140785063"
+    ]
+}

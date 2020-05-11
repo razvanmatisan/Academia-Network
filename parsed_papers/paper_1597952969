@@ -1,0 +1,42 @@
+{
+    "id": "1597952969",
+    "title": "External Connected Components",
+    "venue": "scandinavian workshop on algorithm theory",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jop F. Sibeyn",
+            "id": "136624136",
+            "org": "Universitat Halle"
+        }
+    ],
+    "fields_of_study": [
+        "Random graph",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Connected component",
+        "Graph",
+        "Special case",
+        "Distributed computing",
+        "Randomization",
+        "Bounded function",
+        "List ranking",
+        "Mathematics",
+        "Algorithmics"
+    ],
+    "references": [
+        "358088974",
+        "1485508724",
+        "1543611576",
+        "1586466644",
+        "1986843945",
+        "2038176627",
+        "2057839002",
+        "2069446854",
+        "2086825382",
+        "2103656237",
+        "2136354771",
+        "2138304862",
+        "2164772916"
+    ]
+}

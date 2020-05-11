@@ -1,0 +1,53 @@
+{
+    "id": "1578194245",
+    "title": "Specific Filtering Algorithms for Over-Constrained Problems",
+    "venue": "principles and practice of constraint programming",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Thierry Petit",
+            "id": "2781040232",
+            "org": "ILOG"
+        },
+        {
+            "name": "Thierry Petit",
+            "id": "2781040232",
+            "org": "ILOG"
+        },
+        {
+            "name": "Jean-Charles Regin",
+            "id": "2239919637",
+            "org": "ILOG"
+        },
+        {
+            "name": "Christian Bessiere",
+            "id": "2168734674",
+            "org": "LIRMM (UMR 5506 CNRS)"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Complexity of constraint satisfaction",
+        "Constraint satisfaction dual problem",
+        "Mathematical optimization",
+        "Constraint programming",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Algorithm",
+        "Constraint learning",
+        "Constraint logic programming",
+        "Constraint satisfaction",
+        "AC-3 algorithm"
+    ],
+    "references": [
+        "95643803",
+        "1534774510",
+        "1567384271",
+        "1625396064",
+        "1977545325",
+        "2022088719",
+        "2076921757",
+        "2109992583",
+        "2164279585",
+        "2334220296"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1644893532",
+    "title": "Robust classification and semi-supervised object localization with Gaussian processes",
+    "venue": "international conference on pattern recognition",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Alexander Lutz",
+            "id": "2650312889",
+            "org": "Computer Vision, Friedrich Schiller University of Jena#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Computation",
+        "Computer vision",
+        "Clutter",
+        "Gaussian process",
+        "Kernel (linear algebra)",
+        "Machine learning",
+        "Computer science",
+        "Hyperparameter optimization",
+        "Kriging",
+        "Quadratic growth",
+        "Pattern recognition",
+        "Cognitive neuroscience of visual object recognition"
+    ],
+    "references": [
+        "1551592259",
+        "1746819321",
+        "2027248184",
+        "2031489346",
+        "2120369594",
+        "2128715914",
+        "2148596671",
+        "2154683974",
+        "2155904486",
+        "2161969291",
+        "2162915993",
+        "2168356304"
+    ]
+}

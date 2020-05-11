@@ -1,0 +1,40 @@
+{
+    "id": "1556732419",
+    "title": "Exploiting the Induced Order on Type-Labeled Graphs for Fast Knowledge Retrieval",
+    "venue": "international conference on conceptual structures",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Gerard Ellis",
+            "id": "2429793897",
+            "org": "Royal Melbourne Institute of Technology"
+        },
+        {
+            "name": "Fritz Lehmann",
+            "id": "2505672619",
+            "org": "GRANDAI Software"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Discrete mathematics",
+        "Graph property",
+        "Graph operations",
+        "Graph (abstract data type)",
+        "Graph rewriting",
+        "Clique-width",
+        "Null graph",
+        "Graph database",
+        "Voltage graph",
+        "Theoretical computer science",
+        "Computer science"
+    ],
+    "references": [
+        "1483108372",
+        "1525065868",
+        "1536830218",
+        "1999978255",
+        "2013054747",
+        "2080428438"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1499502826",
+    "title": "Camshift-based tracking in joint color-spatial spaces",
+    "venue": "computer analysis of images and patterns",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Bogdan Kwolek",
+            "id": "252074314",
+            "org": "Rzeszow University of Technology, Rzeszow, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Color image",
+        "Artificial intelligence",
+        "Computer vision",
+        "Pattern recognition",
+        "Image processing",
+        "Eye tracking",
+        "Mode (statistics)",
+        "Computer science",
+        "Tracking system",
+        "Color space"
+    ],
+    "references": [
+        "1499877760",
+        "1513768190",
+        "1563640825",
+        "2121836097",
+        "2159128898",
+        "2163945819",
+        "2168682262"
+    ]
+}

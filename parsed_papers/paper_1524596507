@@ -1,0 +1,32 @@
+{
+    "id": "1524596507",
+    "title": "Improved scalable hash chain traversal",
+    "venue": "applied cryptography and network security",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Sung-Ryul Kim",
+            "id": "2265170406",
+            "org": "Konkuk University"
+        }
+    ],
+    "fields_of_study": [
+        "Rolling hash",
+        "Double hashing",
+        "Cryptographic hash function",
+        "Theoretical computer science",
+        "Collision resistance",
+        "Hash chain",
+        "Hash function",
+        "Distributed computing",
+        "Merkle tree",
+        "Computer science",
+        "Hash tree"
+    ],
+    "references": [
+        "2130459259",
+        "2131994112",
+        "2138644571",
+        "2774071578"
+    ]
+}

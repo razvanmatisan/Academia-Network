@@ -1,0 +1,47 @@
+{
+    "id": "1547425928",
+    "title": "Sensor fusion-based event detection in Wireless Sensor Networks",
+    "venue": "international conference on mobile and ubiquitous systems: networking and services",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Majid Bahrepour",
+            "id": "170375932",
+            "org": "Pervasive Systems Group, Twente University, the Netherlands"
+        },
+        {
+            "name": "Nirvana Meratnia",
+            "id": "244313694",
+            "org": "Pervasive Systems Group, Twente University, the Netherlands"
+        },
+        {
+            "name": "Paul J.M. Havinga",
+            "id": "2022759594",
+            "org": "Pervasive Systems Group, Twente University, the Netherlands"
+        }
+    ],
+    "fields_of_study": [
+        "Wireless sensor network",
+        "Distributed computing",
+        "Mobile wireless sensor network",
+        "Sensor fusion",
+        "Soft sensor",
+        "Real-time computing",
+        "Constant false alarm rate",
+        "Key distribution in wireless sensor networks",
+        "Default gateway",
+        "Computer science",
+        "Visual sensor network"
+    ],
+    "references": [
+        "349770100",
+        "2015465802",
+        "2027145102",
+        "2050544369",
+        "2108135277",
+        "2111609524",
+        "2113697534",
+        "2125572812",
+        "2125801599"
+    ]
+}

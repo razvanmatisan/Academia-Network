@@ -1,0 +1,40 @@
+{
+    "id": "1534898005",
+    "title": "eLearning in the Web 2.0 Era - Lessons from the Development of the Lingro.com Language Learning Environment",
+    "venue": "business information systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Artur Janc",
+            "id": "2645441839",
+            "org": "Lingro Inc"
+        },
+        {
+            "name": "Lukasz Olejnik",
+            "id": "2685172092",
+            "org": "Adam Mickiewicz University"
+        },
+        {
+            "name": "Paul Kastner",
+            "id": "2480177761",
+            "org": "Lingro Inc"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Synchronous learning",
+        "Software development process",
+        "Experiential learning",
+        "Blended learning",
+        "Educational technology",
+        "Computer science",
+        "Learning sciences",
+        "Web 2.0",
+        "Informal learning"
+    ],
+    "references": [
+        "1485488899",
+        "1516126462",
+        "1550602550"
+    ]
+}

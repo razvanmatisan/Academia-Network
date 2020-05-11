@@ -1,0 +1,27 @@
+{
+    "id": "1538995403",
+    "title": "The Industrial Success of Verification Tools Based on Stalmarck's Method",
+    "venue": "computer aided verification",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Arne Boralv",
+            "id": "2681962248",
+            "org": "Logikkonsult NP AB"
+        }
+    ],
+    "fields_of_study": [
+        "Software analysis pattern",
+        "Theoretical computer science",
+        "Mathematical proof",
+        "Algorithm",
+        "Natural deduction",
+        "Software verification",
+        "Gas meter prover",
+        "Automated proof checking",
+        "Formal verification",
+        "Software",
+        "Computer science"
+    ],
+    "references": []
+}

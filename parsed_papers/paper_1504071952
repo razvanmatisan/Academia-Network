@@ -1,0 +1,44 @@
+{
+    "id": "1504071952",
+    "title": "Global Multiobjective Optimization Using Evolutionary Algorithms",
+    "venue": "Journal of Heuristics",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Thomas Hanne",
+            "id": "2781211646",
+            "org": "Institute for Techno- and Economathematics (ITWM), Dept. of Optimization, Gottlieb-Daimler-Str. 49, 67663 Kaiserslantern, Germany. hanne@itwm.uni-kl.de#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic representation",
+        "Evolutionary algorithm",
+        "Genetic algorithm",
+        "Artificial intelligence",
+        "Machine learning",
+        "Evolutionary computation",
+        "Mathematical optimization",
+        "Mathematics",
+        "Java Evolutionary Computation Toolkit",
+        "Interactive evolutionary computation",
+        "Genetic programming",
+        "Evolutionary programming"
+    ],
+    "references": [
+        "123765585",
+        "1532399581",
+        "1558500582",
+        "1560130085",
+        "1576818901",
+        "1584887696",
+        "1612556207",
+        "1639032689",
+        "1886419841",
+        "1980272771",
+        "2020009149",
+        "2057357578",
+        "2086723718",
+        "2142183404",
+        "2161142631"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1485505212",
+    "title": "The Autotutor 3 Architecture",
+    "venue": "international conference on web information systems and technologies",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Patrick Chipman",
+            "id": "2072206486",
+            "org": "University of Memphis"
+        },
+        {
+            "name": "Andrew Olney",
+            "id": "2006547004",
+            "org": "University of Memphis"
+        },
+        {
+            "name": "Arthur C. Graesser",
+            "id": "197912803",
+            "org": "University of Memphis"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language",
+        "Human-computer interaction",
+        "World Wide Web",
+        "Agent architecture",
+        "Computer science",
+        "Quality of service",
+        "Embedded system",
+        "Architecture",
+        "Extensibility",
+        "Software architecture",
+        "Intelligent tutoring system",
+        "The Internet"
+    ],
+    "references": [
+        "1510397660",
+        "1540372287",
+        "1575332991",
+        "1576466941",
+        "1986262965",
+        "2104882621",
+        "2106886287",
+        "2126022651"
+    ]
+}

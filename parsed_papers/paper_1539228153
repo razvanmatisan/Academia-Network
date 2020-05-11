@@ -1,0 +1,52 @@
+{
+    "id": "1539228153",
+    "title": "Exploiting inference rules to compute lower bounds for MAX-SAT solving",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Han Lin",
+            "id": "2363236549",
+            "org": "Department of Computer Science, Sun Yat-sen University, Guangzhou, P. R. China#TAB#"
+        },
+        {
+            "name": "Kaile Su",
+            "id": "2163947655",
+            "org": "Department of Computer Science, Sun Yat-sen University, Guangzhou, P. R. China and IIIS, Griffith University, Brisbane, QLD, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Branch and bound",
+        "Machine learning",
+        "Artificial intelligence",
+        "Exploit",
+        "Discrete mathematics",
+        "Logical framework",
+        "Rule of inference",
+        "Upper and lower bounds",
+        "Maximum satisfiability problem",
+        "Boolean satisfiability problem",
+        "Computer science",
+        "Solver"
+    ],
+    "references": [
+        "203133358",
+        "1506775176",
+        "1530962882",
+        "1538224303",
+        "1568318479",
+        "1581661059",
+        "1793843726",
+        "1896404939",
+        "2029688740",
+        "2036185701",
+        "2057361103",
+        "2081692349",
+        "2085301456",
+        "2085826829",
+        "2107356010",
+        "2123757087",
+        "2126446661",
+        "2154593562"
+    ]
+}

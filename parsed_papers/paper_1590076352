@@ -1,0 +1,35 @@
+{
+    "id": "1590076352",
+    "title": "Solving Dynamic CSPs",
+    "venue": "canadian conference on artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Malek Mouhoub",
+            "id": "2060215349",
+            "org": "University of Regina"
+        }
+    ],
+    "fields_of_study": [
+        "Conceptual design",
+        "Scheduling (computing)",
+        "Mathematical optimization",
+        "Local consistency",
+        "Constraint satisfaction problem",
+        "Frequency assignment",
+        "Compromise",
+        "Computer science",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "29451325",
+        "1490489754",
+        "1541781200",
+        "2068852367",
+        "2091984336",
+        "2131152181",
+        "2135432705",
+        "2148546044",
+        "2264413202"
+    ]
+}

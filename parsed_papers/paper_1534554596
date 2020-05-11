@@ -1,0 +1,40 @@
+{
+    "id": "1534554596",
+    "title": "A Natural Proof System Based on rewriting Techniques",
+    "venue": "conference on automated deduction",
+    "year": 1984,
+    "authors": [
+        {
+            "name": "Deepak Kapur",
+            "id": "2011146398",
+            "org": "General Electric Research and Development Center, Schenectady, NY#TAB#"
+        },
+        {
+            "name": "Balakrishnan Krishnamurthy",
+            "id": "1987473140",
+            "org": "General Electric Research and Development Center, Schenectady, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Proof complexity",
+        "Algorithm",
+        "Mathematical proof",
+        "Analytic proof",
+        "Formal proof",
+        "Automated theorem proving",
+        "Fundamental theorem",
+        "Proofs of Fermat's little theorem",
+        "Computer-assisted proof",
+        "Mathematics"
+    ],
+    "references": [
+        "1512556106",
+        "1530765221",
+        "1988083342",
+        "1999522767",
+        "2015463688",
+        "2028359267",
+        "2100738443"
+    ]
+}

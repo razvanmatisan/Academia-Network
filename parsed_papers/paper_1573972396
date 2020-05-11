@@ -1,0 +1,40 @@
+{
+    "id": "1573972396",
+    "title": "On the Equivalence of XML Patterns",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Peter T. Wood",
+            "id": "2301950271",
+            "org": "King's College London"
+        }
+    ],
+    "fields_of_study": [
+        "Well-formed document",
+        "Streaming XML",
+        "XML schema",
+        "Database",
+        "XML validation",
+        "Programming language",
+        "Document type definition",
+        "XSLT",
+        "Document Structure Description",
+        "Computer science",
+        "Simple API for XML"
+    ],
+    "references": [
+        "22830412",
+        "76022819",
+        "1486993902",
+        "1941844167",
+        "1975714036",
+        "1985581502",
+        "2013409229",
+        "2028222220",
+        "2056865152",
+        "2091309049",
+        "2112647999",
+        "2161525442"
+    ]
+}

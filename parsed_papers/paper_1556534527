@@ -1,0 +1,45 @@
+{
+    "id": "1556534527",
+    "title": "A practical agent programming language",
+    "venue": "programming multi agent systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Mehdi Dastani",
+            "id": "1976980088",
+            "org": "Utrecht University, The Netherlands#TAB#"
+        },
+        {
+            "name": "John-Jules Ch. Meyer",
+            "id": "2124845496",
+            "org": "Utrecht University, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "First-generation programming language",
+        "Functional logic programming",
+        "Inductive programming",
+        "Fifth-generation programming language",
+        "Very high-level programming language",
+        "Natural language processing",
+        "Programming paradigm",
+        "Computer science",
+        "Programming language",
+        "Programming domain",
+        "Programming language theory",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "198400421",
+        "1523868966",
+        "1536565715",
+        "1552797176",
+        "1574918374",
+        "1581665037",
+        "1608796453",
+        "1625904081",
+        "2106723420",
+        "2150382432",
+        "2250403590"
+    ]
+}

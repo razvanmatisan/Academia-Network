@@ -1,0 +1,30 @@
+{
+    "id": "1497344495",
+    "title": "Programming the PTQ Grammar in XSB",
+    "venue": "logic in databases",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "David Scott Warren",
+            "id": "2163362677",
+            "org": "University at Stony Brook"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computation",
+        "Deductive database",
+        "Infinite loop",
+        "Computer science",
+        "Programmer",
+        "Prolog",
+        "Grammar"
+    ],
+    "references": [
+        "1522225310",
+        "2019968021",
+        "2091349965",
+        "2134495021",
+        "2161160885"
+    ]
+}

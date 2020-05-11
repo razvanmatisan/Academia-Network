@@ -1,0 +1,34 @@
+{
+    "id": "1766205061",
+    "title": "Integrated design of product families and assembly systems",
+    "venue": "international conference on robotics and automation",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "P. C. Stadzisz",
+            "id": "2630473807",
+            "org": "Lab. d'Autom., ENSMM/Univ. de Franche-Comte, Besancon, France"
+        },
+        {
+            "name": "Jean-Michel Henrioud",
+            "id": "2308642502",
+            "org": "Lab. d'Autom., ENSMM/Univ. de Franche-Comte, Besancon, France"
+        }
+    ],
+    "fields_of_study": [
+        "Product engineering",
+        "Production control",
+        "Integrated design",
+        "Product design specification",
+        "Activity-based costing",
+        "Engineering",
+        "Manufacturing engineering",
+        "Product design",
+        "Systems engineering"
+    ],
+    "references": [
+        "2015122198",
+        "2103136295",
+        "2141363240"
+    ]
+}

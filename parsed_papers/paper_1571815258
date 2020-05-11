@@ -1,0 +1,33 @@
+{
+    "id": "1571815258",
+    "title": "Rule-Injection Hints as a Means of Improving Network Performance and Learning Time",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "S. C. Suddarth",
+            "id": "2643998515",
+            "org": "ONERA/DES"
+        },
+        {
+            "name": "Y. L. Kergosien",
+            "id": "2077575437",
+            "org": "Universite de Paris Sud"
+        }
+    ],
+    "fields_of_study": [
+        "Maxima and minima",
+        "Artificial neural network",
+        "Vector field",
+        "Stochastic neural network",
+        "Backpropagation",
+        "Theoretical computer science",
+        "Network performance",
+        "Machine learning",
+        "Content-addressable memory",
+        "Computer science",
+        "Set theory",
+        "Artificial intelligence"
+    ],
+    "references": []
+}

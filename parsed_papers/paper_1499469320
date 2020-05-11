@@ -1,0 +1,41 @@
+{
+    "id": "1499469320",
+    "title": "Ensembles of multi-instance neural networks",
+    "venue": "international conference on intelligent information processing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Min-Ling Zhang",
+            "id": "2310402581",
+            "org": "National Laboratory for Novel Software Technology, Nanjing University, Nanjing, China#TAB#"
+        },
+        {
+            "name": "Zhi-Hua Zhou",
+            "id": "2286237009",
+            "org": "National Laboratory for Novel Software Technology, Nanjing University, Nanjing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Types of artificial neural networks",
+        "Time delay neural network",
+        "Deep learning",
+        "Ensemble learning",
+        "Nervous system network models",
+        "Cellular neural network",
+        "Stochastic neural network",
+        "Machine learning",
+        "Neural modeling fields",
+        "Pattern recognition",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1524926518",
+        "1550821944",
+        "1556251288",
+        "1581034630",
+        "2110119381",
+        "2149648623",
+        "2154318594"
+    ]
+}

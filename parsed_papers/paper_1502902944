@@ -1,0 +1,43 @@
+{
+    "id": "1502902944",
+    "title": "Describing Ontology Applications",
+    "venue": "european semantic web conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Thomas Albertsen",
+            "id": "2157156888",
+            "org": "Jonkoping University, Jonkoping, Sweden#TAB#"
+        },
+        {
+            "name": "Eva Blomqvist",
+            "id": "2128612109",
+            "org": "Jonkoping University, Jonkoping, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Data mining",
+        "Resource-oriented architecture",
+        "Reference architecture",
+        "Software analysis pattern",
+        "Software design description",
+        "Service-oriented modeling",
+        "Architectural pattern",
+        "Software architecture description",
+        "Computer science",
+        "Functional software architecture",
+        "Knowledge management"
+    ],
+    "references": [
+        "113066230",
+        "1505539555",
+        "1602395689",
+        "1919395891",
+        "2044608935",
+        "2077318760",
+        "2155814345",
+        "2156510574",
+        "2162366870"
+    ]
+}

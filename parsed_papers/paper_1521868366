@@ -1,0 +1,42 @@
+{
+    "id": "1521868366",
+    "title": "Extended Functional Dependencies as a Basis for Linguistic Summaries",
+    "venue": "european conference on principles of data mining and knowledge discovery",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Patrick Bosc",
+            "id": "1859776836",
+            "org": "IRISA/ENSSAT Technopole ANTICIPA"
+        },
+        {
+            "name": "Ludovic Lietard",
+            "id": "81591390",
+            "org": "IRISA/IUT"
+        },
+        {
+            "name": "Olivier Pivert",
+            "id": "299056886",
+            "org": "IRISA/ENSSAT Technopole ANTICIPA"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Machine learning",
+        "Computer science",
+        "Information processing",
+        "Knowledge extraction",
+        "Artificial intelligence",
+        "Probabilistic logic",
+        "Situated",
+        "Linguistics",
+        "Knowledge acquisition",
+        "Relational model",
+        "Tuple",
+        "Functional dependency"
+    ],
+    "references": [
+        "2048288497",
+        "2405339329"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "1580732511",
+    "title": "Unifying Stereo, Motion and Object Recognition via Epipolar Geometry",
+    "venue": "asian conference on computer vision",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Gang Xu",
+            "id": "2798444017",
+            "org": "Osaka University"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Maximally stable extremal regions",
+        "Computer vision",
+        "Fundamental matrix (computer vision)",
+        "Epipolar geometry",
+        "Pattern recognition",
+        "One-dimensional space",
+        "Search problem",
+        "Computer science",
+        "Cognitive neuroscience of visual object recognition"
+    ],
+    "references": [
+        "112287601",
+        "1540376690",
+        "1578285471",
+        "1602748186",
+        "2053197265",
+        "2131874588"
+    ]
+}

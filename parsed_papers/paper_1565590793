@@ -1,0 +1,47 @@
+{
+    "id": "1565590793",
+    "title": "A TRIPLE-Oriented Approach for Integrating Higher-Order Rules and External Contexts",
+    "venue": "web reasoning and rule systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Andreas Billig",
+            "id": "2434046794",
+            "org": "Jonkoping University, Jonkoping, Sweden and Fraunhofer ISST, Berlin, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "RDF",
+        "Theoretical computer science",
+        "Semantic Web Rule Language",
+        "Semantics",
+        "Datalog",
+        "Description logic",
+        "Deductive database",
+        "Natural language processing",
+        "Semantic Web",
+        "Ontology language",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "99255033",
+        "1481181327",
+        "1529522905",
+        "1551253182",
+        "1558832481",
+        "1587067956",
+        "1872506843",
+        "1911479129",
+        "1939833195",
+        "1979966822",
+        "1994302059",
+        "2034589153",
+        "2056319051",
+        "2084130127",
+        "2118699275",
+        "2128589657",
+        "2139298964"
+    ]
+}

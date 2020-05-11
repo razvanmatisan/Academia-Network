@@ -1,0 +1,32 @@
+{
+    "id": "1575601195",
+    "title": "Cooperating Diagnostic Expert Systems to Solve Complex Diagnosis Tasks",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Stefan K. Bamberger",
+            "id": "2684754729",
+            "org": "Wurzburg University"
+        }
+    ],
+    "fields_of_study": [
+        "Teamwork",
+        "Expert system",
+        "Management science",
+        "Knowledge base",
+        "Spite",
+        "Simulation",
+        "Distributed knowledge",
+        "Legal expert system",
+        "Subject-matter expert",
+        "Knowledge acquisition",
+        "Distributed computing",
+        "Computer science"
+    ],
+    "references": [
+        "1524870477",
+        "1768149473",
+        "1825507529"
+    ]
+}

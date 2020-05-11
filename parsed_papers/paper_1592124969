@@ -1,0 +1,38 @@
+{
+    "id": "1592124969",
+    "title": "Efficient Support for Multiparty Communication",
+    "venue": "Proceedings of the International COST 237 Workshop on Multimedia Transport and Teleservices",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Clemens A. Szyperski",
+            "id": "2675876867",
+            "org": "International Computer Science Institute"
+        },
+        {
+            "name": "Giorgio Ventre",
+            "id": "2033735999",
+            "org": "Universita di Napoli Federico II"
+        }
+    ],
+    "fields_of_study": [
+        "Service Interface for Real Time Information",
+        "Resource (disambiguation)",
+        "Quality of service",
+        "Mutual exclusion",
+        "Distributed computing",
+        "Computer network",
+        "Computer science",
+        "Communication channel",
+        "Abstraction"
+    ],
+    "references": [
+        "1506105064",
+        "1790544354",
+        "1972591225",
+        "2020073674",
+        "2116142303",
+        "2150544025",
+        "2161608283"
+    ]
+}

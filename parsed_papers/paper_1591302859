@@ -1,0 +1,42 @@
+{
+    "id": "1591302859",
+    "title": "A future-adaptive password scheme",
+    "venue": "usenix annual technical conference",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Niels Provos",
+            "id": "2274458662",
+            "org": "The OpenBSD Project#TAB#"
+        },
+        {
+            "name": "David Mazieres",
+            "id": "292459508",
+            "org": "The OpenBSD Project#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "S/KEY",
+        "Real-time computing",
+        "Zero-knowledge password proof",
+        "Salt (cryptography)",
+        "Password policy",
+        "Key stretching",
+        "Password strength",
+        "Distributed computing",
+        "One-time password",
+        "Computer science",
+        "Cognitive password"
+    ],
+    "references": [
+        "1519080809",
+        "1548516269",
+        "1595293097",
+        "2074861055",
+        "2091020476",
+        "2111443676",
+        "2149929743",
+        "2157604883",
+        "2167006959"
+    ]
+}

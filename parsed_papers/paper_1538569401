@@ -1,0 +1,39 @@
+{
+    "id": "1538569401",
+    "title": "Underdetermined source separation with structured source priors",
+    "venue": "international conference on independent component analysis and signal separation",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Emmanuel Vincent",
+            "id": "2186238986",
+            "org": "Analysis-Synthesis Group"
+        },
+        {
+            "name": "Xavier Rodet",
+            "id": "2031420067",
+            "org": "Analysis-Synthesis Group"
+        }
+    ],
+    "fields_of_study": [
+        "Markov model",
+        "Discrete mathematics",
+        "Statistics",
+        "Independent component analysis",
+        "Source separation",
+        "Underdetermined system",
+        "Prior probability",
+        "Artificial intelligence",
+        "Antenna diversity",
+        "Mathematics",
+        "Hidden Markov model",
+        "Subspace topology",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1819207621",
+        "1822807512",
+        "1987906574",
+        "2161219071"
+    ]
+}

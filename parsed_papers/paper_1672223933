@@ -1,0 +1,39 @@
+{
+    "id": "1672223933",
+    "title": "On the use of self-organizing maps for clustering and visualization",
+    "venue": "european conference on principles of data mining and knowledge discovery",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Arthur Flexer",
+            "id": "2108214723",
+            "org": "The Austrian Research Institute for Artificial Intelligence, Schottengasse 3, A-1010 Vienna, Austria. E-mail: arthur@ai.univie.ac.at#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Clustering high-dimensional data",
+        "Machine learning",
+        "Computer science",
+        "Consensus clustering",
+        "Artificial intelligence",
+        "Cluster analysis",
+        "Visualization",
+        "Self-organizing map",
+        "Fuzzy clustering",
+        "Multidimensional scaling",
+        "Correlation clustering"
+    ],
+    "references": [
+        "1995706540",
+        "2088709281",
+        "2089844711",
+        "2107636931",
+        "2109950258",
+        "2110802877",
+        "2115665694",
+        "2117812871",
+        "2140130790",
+        "2156985538"
+    ]
+}

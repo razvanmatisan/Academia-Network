@@ -1,0 +1,29 @@
+{
+    "id": "1500691897",
+    "title": "Interconnection Networks for Massively Parallel Computer Systems",
+    "venue": "Advances in Computers",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Wolfgang K. Giloi",
+            "id": "2695479868",
+            "org": "GMD-TUB Research Center for Innovative Computer Systems, Berlin, W. Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "SIMD",
+        "Computer science",
+        "Parallel computing",
+        "MIMD",
+        "Massively parallel",
+        "Packet switching",
+        "Distributed computing",
+        "Interconnection",
+        "Technical feasibility",
+        "Supercomputer"
+    ],
+    "references": [
+        "652317869",
+        "2085319748"
+    ]
+}

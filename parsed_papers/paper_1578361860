@@ -1,0 +1,48 @@
+{
+    "id": "1578361860",
+    "title": "Creation and evaluation of formal specifications for system-of-systems development",
+    "venue": "systems, man and cybernetics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Doron Drusinksy",
+            "id": "1566106930",
+            "org": "Dept. of Comput. Sci., Naval Postgraduate Sch., Monterey, CA, USA"
+        },
+        {
+            "name": "Man-Tak Shing",
+            "id": "2100901955",
+            "org": "Dept. of Comput. Sci., Naval Postgraduate Sch., Monterey, CA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Machine learning",
+        "Software requirements specification",
+        "Systems engineering",
+        "Formal methods",
+        "Language Of Temporal Ordering Specification",
+        "Artificial intelligence",
+        "Runtime verification",
+        "Refinement",
+        "System requirements specification",
+        "Formal specification",
+        "Formal verification",
+        "Programming language"
+    ],
+    "references": [
+        "1493834706",
+        "1547304883",
+        "1600408058",
+        "1780742619",
+        "2007712588",
+        "2023808162",
+        "2034717157",
+        "2038877132",
+        "2104717300",
+        "2122286070",
+        "2122453902",
+        "2125853559",
+        "2133057922"
+    ]
+}

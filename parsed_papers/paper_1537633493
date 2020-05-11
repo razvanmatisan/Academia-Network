@@ -1,0 +1,31 @@
+{
+    "id": "1537633493",
+    "title": "Tracking Design Changes with Formal Verification",
+    "venue": "theorem proving in higher order logics",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Paul Curzon",
+            "id": "2065212764",
+            "org": "University of Cambridge Computer Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Formal methods",
+        "Real-time computing",
+        "Formal equivalence checking",
+        "Intelligent verification",
+        "Formal specification",
+        "Functional verification",
+        "Verification",
+        "High-level verification",
+        "Runtime verification",
+        "Computer science"
+    ],
+    "references": [
+        "1531350193",
+        "2074882899",
+        "2171143347"
+    ]
+}

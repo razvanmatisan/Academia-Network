@@ -1,0 +1,39 @@
+{
+    "id": "1662815240",
+    "title": "Extending Software Defined Networking to End User Devices",
+    "venue": "international conference on computer communications and networks",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Marvin Moser",
+            "id": "2544570364",
+            "org": "CTO Security, Alcatel-Lucent, Kensington, CA, USA"
+        },
+        {
+            "name": "Fabio Jaramillo",
+            "id": "2545235569",
+            "org": "CTO Security, Alcatel-Lucent, Murray Hill, NJ, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile Web",
+        "Computer network",
+        "Public land mobile network",
+        "Mobile business development",
+        "Mobile station",
+        "Mobile QoS",
+        "Computer science",
+        "Mobile search",
+        "Mobile technology",
+        "Computer security",
+        "Mobile computing"
+    ],
+    "references": [
+        "1583113493",
+        "1723171507",
+        "2031418724",
+        "2103972037",
+        "2122711168",
+        "2137845741"
+    ]
+}

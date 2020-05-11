@@ -1,0 +1,41 @@
+{
+    "id": "1678562712",
+    "title": "A prototyping environment for fuzzy controllers",
+    "venue": "field programmable logic and applications",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Thomas Hollstein",
+            "id": "2309206501",
+            "org": "Institute of Microelectronic Systems"
+        },
+        {
+            "name": "Andreas Kirschbaum",
+            "id": "2138546602",
+            "org": "Institute of Microelectronic Systems"
+        },
+        {
+            "name": "Manfred Glesner",
+            "id": "2106105596",
+            "org": "Institute of Microelectronic Systems"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Documentation",
+        "System requirements specification",
+        "Memory bank",
+        "Field-programmable gate array",
+        "Systems architecture",
+        "Control theory",
+        "Computer science",
+        "VHDL",
+        "Fuzzy control system"
+    ],
+    "references": [
+        "2104760252",
+        "2118440768",
+        "2128401479",
+        "2167346087"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1581609908",
+    "title": "Goal-aligned requirements generation",
+    "venue": "international conference on conceptual modeling",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Kousik Sankar Ramasubramaniam",
+            "id": "2147443271",
+            "org": "Philips Electronics India Limited, Bangalore, India#TAB#"
+        },
+        {
+            "name": "Raman Venkatachar",
+            "id": "2012266255",
+            "org": "Philips Electronics India Limited, Salarpuria Infinity, Bangalore, India#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Business requirements",
+        "Data mining",
+        "Process management",
+        "Requirements management",
+        "Vision document",
+        "Requirements elicitation",
+        "New product development",
+        "Computer science",
+        "Requirements analysis",
+        "Requirement",
+        "Requirement prioritization",
+        "Knowledge management"
+    ],
+    "references": [
+        "1503079926",
+        "1624143779",
+        "1625345750",
+        "2034227487",
+        "2117818414",
+        "2129580698",
+        "2151451947",
+        "2164022737"
+    ]
+}

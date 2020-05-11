@@ -1,0 +1,48 @@
+{
+    "id": "1527076558",
+    "title": "Simultaneous Segmentation-Recognition-Vectorization of Meaningful Geographical Objects in Geo-Images",
+    "venue": "iberoamerican congress on pattern recognition",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Serguei Levachkine",
+            "id": "3570824",
+            "org": "National Polytechnic Institute (IPN)"
+        },
+        {
+            "name": "Miguel Torres",
+            "id": "2109336123",
+            "org": "National Polytechnic Institute (IPN)"
+        },
+        {
+            "name": "Marco Moreno",
+            "id": "2058563450",
+            "org": "National Polytechnic Institute (IPN)"
+        },
+        {
+            "name": "Rolando Quintero",
+            "id": "2204848369",
+            "org": "National Polytechnic Institute (IPN)"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Artificial intelligence",
+        "Alphanumeric",
+        "Feature (computer vision)",
+        "Color image",
+        "Image segmentation",
+        "Vectorization (mathematics)",
+        "Composite image filter",
+        "Pattern recognition",
+        "Object detection",
+        "Image processing",
+        "Computer science"
+    ],
+    "references": [
+        "1570550890",
+        "1587230741",
+        "1998223136",
+        "2136704614"
+    ]
+}

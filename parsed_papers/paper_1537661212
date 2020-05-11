@@ -1,0 +1,40 @@
+{
+    "id": "1537661212",
+    "title": "Knowledge Discovery with Clustering Based on Rules. Interpreting Results",
+    "venue": "european conference on principles of data mining and knowledge discovery",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Karina Gibert",
+            "id": "199435517",
+            "org": "Universitat Politecnica de Catalunya"
+        },
+        {
+            "name": "Tomas Aluja",
+            "id": "2176882553",
+            "org": "Universitat Politecnica de Catalunya"
+        },
+        {
+            "name": "Ulises Cortes",
+            "id": "2894493756",
+            "org": "Universitat Politecnica de Catalunya"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Computer science",
+        "Cluster analysis",
+        "Knowledge extraction",
+        "Data mining",
+        "Data visualization",
+        "Information system",
+        "Knowledge acquisition",
+        "Data analysis",
+        "Complex system",
+        "Knowledge-based systems"
+    ],
+    "references": [
+        "1523293200"
+    ]
+}

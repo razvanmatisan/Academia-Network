@@ -1,0 +1,35 @@
+{
+    "id": "1494516611",
+    "title": "Proof-theory for Extensions of Logic Programming",
+    "venue": "international workshop on extensions of logic programming",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Catholijn M. Jonker",
+            "id": "2649551083",
+            "org": "Universitat Bern"
+        }
+    ],
+    "fields_of_study": [
+        "Horn clause",
+        "Functional logic programming",
+        "Abstract model theory",
+        "Structural proof theory",
+        "Dynamic logic (modal logic)",
+        "Proof calculus",
+        "Bunched logic",
+        "Algorithm",
+        "Logic programming",
+        "Mathematics"
+    ],
+    "references": [
+        "99071911",
+        "1511711492",
+        "1542916848",
+        "1596105581",
+        "1756530980",
+        "2028245171",
+        "2069972706",
+        "2097366413"
+    ]
+}

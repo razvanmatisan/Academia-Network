@@ -1,0 +1,40 @@
+{
+    "id": "1642097252",
+    "title": "Comparison of Three Objective Functions for Conceptual Clustering",
+    "venue": "european conference on principles of data mining and knowledge discovery",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Celine Robardet",
+            "id": "1976373341",
+            "org": "Universite Lyon 1"
+        },
+        {
+            "name": "Fabien Feschet",
+            "id": "130361519",
+            "org": "Universite Lyon 1"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Data mining",
+        "Constrained clustering",
+        "Cluster analysis",
+        "Fuzzy clustering",
+        "Artificial intelligence",
+        "Conceptual clustering",
+        "Association rule learning",
+        "Correlation clustering",
+        "FLAME clustering",
+        "Mathematics",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1533338755",
+        "1546877403",
+        "1971784203",
+        "2007869575",
+        "2073308541",
+        "2127912639"
+    ]
+}

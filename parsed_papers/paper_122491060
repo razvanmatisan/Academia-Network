@@ -1,0 +1,28 @@
+{
+    "id": "122491060",
+    "title": "Designing sponsored search auctions for federated domain-specific search engines",
+    "venue": "adaptive agents and multi agents systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Sofia Ceppi",
+            "id": "2004950474",
+            "org": "DEI, Politecnico di Milano, Milano, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Common value auction",
+        "Metasearch engine",
+        "Computer science",
+        "Information retrieval",
+        "Search analytics",
+        "Distributed computing",
+        "World Wide Web",
+        "Mechanism design",
+        "Search engine"
+    ],
+    "references": [
+        "1528676759",
+        "1557860566"
+    ]
+}

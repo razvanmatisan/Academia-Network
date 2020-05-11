@@ -1,0 +1,39 @@
+{
+    "id": "1495819973",
+    "title": "Combining SDL with Synchronous Data Flow Modelling for Distributed Control Systems",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Jean-Louis Camus",
+            "id": "2488906480",
+            "org": "Telelogic Technologies Toulouse"
+        },
+        {
+            "name": "Thierry Le Sergent",
+            "id": "2286925304",
+            "org": "Telelogic Technologies Toulouse"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed control system",
+        "Formal methods",
+        "Telecommunications engineering",
+        "Systems engineering",
+        "Formal specification",
+        "Distributed computing",
+        "Simulation",
+        "Asynchronous system",
+        "Synchronous Data Flow",
+        "Control system",
+        "Data flow diagram",
+        "Computer science"
+    ],
+    "references": [
+        "66824710",
+        "1519934584",
+        "1785583892",
+        "2045291808",
+        "2081938726"
+    ]
+}

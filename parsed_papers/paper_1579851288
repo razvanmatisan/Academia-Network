@@ -1,0 +1,37 @@
+{
+    "id": "1579851288",
+    "title": "Extensions of single-term coins",
+    "venue": "international cryptology conference",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Niels Ferguson",
+            "id": "2704663803",
+            "org": "CWI, Amsterdam, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Observer (quantum physics)",
+        "Prime (order theory)",
+        "Smart card",
+        "Traceability",
+        "Framing (construction)",
+        "Computer security",
+        "Cash",
+        "Electronic cash",
+        "Payment",
+        "Computer science"
+    ],
+    "references": [
+        "1493020827",
+        "1521562196",
+        "1535861450",
+        "1570307720",
+        "1594128832",
+        "1608886058",
+        "1882430379",
+        "2141420453",
+        "2153193245"
+    ]
+}

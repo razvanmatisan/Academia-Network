@@ -1,0 +1,40 @@
+{
+    "id": "1645816111",
+    "title": "Adaptive channel allocation methods for distributed MPEG player system over a cellular radio network",
+    "venue": "embedded and real-time computing systems and applications",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Y. F. Leung",
+            "id": "2698476273",
+            "org": "Dept. of Comput. Sci., City Univ. of Hong Kong, Kowloon, Hong Kong"
+        },
+        {
+            "name": "Edward Chan",
+            "id": "2133556926",
+            "org": "Department of Computer S|City University of Hong Kong"
+        },
+        {
+            "name": "Kam-Yiu Lam",
+            "id": "2167150226",
+            "org": "Department of Computer S|City University of Hong Kong"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "GSM",
+        "Distributed computing",
+        "Computer science",
+        "Adaptive system",
+        "Channel allocation schemes",
+        "Cellular network",
+        "Computer network",
+        "Bandwidth (signal processing)"
+    ],
+    "references": [
+        "1501508180",
+        "2067757110",
+        "2122540090",
+        "2123802017"
+    ]
+}

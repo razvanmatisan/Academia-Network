@@ -1,0 +1,34 @@
+{
+    "id": "1531216921",
+    "title": "Different Learning Strategies in a Case-Based Reasoning System for Image Interpretation",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Petra Perner",
+            "id": "2084635933",
+            "org": "Institute of Computer Vision and Applied Computer Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Structural similarity",
+        "Image processing",
+        "Abstraction layer",
+        "Incremental learning",
+        "Reasoning system",
+        "Case-based reasoning",
+        "Machine learning",
+        "Distributed computing",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "142665406",
+        "1548724641",
+        "1751240190",
+        "1942417955",
+        "1971784203",
+        "2050206309",
+        "2073308541"
+    ]
+}

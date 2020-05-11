@@ -1,0 +1,38 @@
+{
+    "id": "1796568083",
+    "title": "A distributed architecture for robust automatic speech recognition",
+    "venue": "international conference on acoustics, speech, and signal processing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Kadri Hacioglu",
+            "id": "2202307745",
+            "org": "Center for Spoken Language Res., Colorado Univ., Boulder, CO, USA"
+        },
+        {
+            "name": "Bryan L. Pellom",
+            "id": "202702011",
+            "org": "Center for Spoken Language Res., Colorado Univ., Boulder, CO, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Interoperability",
+        "Speech recognition",
+        "Architecture",
+        "Open system (systems theory)",
+        "Message passing",
+        "Robustness (computer science)",
+        "Distributed computing",
+        "Real-time computing",
+        "Speech enhancement",
+        "Plug and play",
+        "Server",
+        "Computer science"
+    ],
+    "references": [
+        "1566056932",
+        "2144692002",
+        "2146871184",
+        "2152305730"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1519028982",
+    "title": "A two-level formal verification methodology using HOL and COSMOS",
+    "venue": "computer aided verification",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Carl Seger",
+            "id": "2098245028",
+            "org": "University of British Columbia"
+        },
+        {
+            "name": "Jeffrey J. Joyce",
+            "id": "2139969985",
+            "org": "University of British Columbia"
+        }
+    ],
+    "fields_of_study": [
+        "HOL",
+        "Theoretical computer science",
+        "Algorithm",
+        "Formal methods",
+        "Finite-state machine",
+        "Automated theorem proving",
+        "Boolean expression",
+        "Computer science",
+        "Strengths and weaknesses",
+        "Formal verification",
+        "Symbolic simulation"
+    ],
+    "references": [
+        "1599313551",
+        "2057956383",
+        "2059454390",
+        "2084715426",
+        "2148579499"
+    ]
+}

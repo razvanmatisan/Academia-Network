@@ -1,0 +1,41 @@
+{
+    "id": "1542928981",
+    "title": "An improved exact algorithm for cubic graph TSP",
+    "venue": "computing and combinatorics conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Kazuo Iwama",
+            "id": "2088178804",
+            "org": "School of Informatics, Kyoto University, Kyoto, Japan#TAB#"
+        },
+        {
+            "name": "Takuya Nakashima",
+            "id": "2503536688",
+            "org": "School of Informatics, Kyoto University, Kyoto, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Hamiltonian path",
+        "Vertex (geometry)",
+        "Discrete mathematics",
+        "Cubic graph",
+        "Coxeter graph",
+        "Travelling salesman problem",
+        "Planar graph",
+        "Bottleneck traveling salesman problem",
+        "Exact algorithm",
+        "Mathematics"
+    ],
+    "references": [
+        "1574082713",
+        "1593916827",
+        "1850475437",
+        "1982180670",
+        "1988434420",
+        "2011039300",
+        "2043841752",
+        "2106183852"
+    ]
+}

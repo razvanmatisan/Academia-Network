@@ -1,0 +1,31 @@
+{
+    "id": "1507111136",
+    "title": "On the Selection of Verbs for Natural Language Description of Traffic Scenes",
+    "venue": "german workshop on artificial intelligence",
+    "year": 1982,
+    "authors": [
+        {
+            "name": "Hans-Joachim Novak",
+            "id": "2153979249",
+            "org": "Universitat Hamburg"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language",
+        "Universal Networking Language",
+        "Verb",
+        "Language identification",
+        "Natural language processing",
+        "Natural language programming",
+        "Vocabulary",
+        "Temporal annotation",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "113069429",
+        "152786858",
+        "2037732452",
+        "2100174099"
+    ]
+}

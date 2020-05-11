@@ -1,0 +1,33 @@
+{
+    "id": "1560713183",
+    "title": "A Comparative Fuzzy Modal Logic",
+    "venue": "FLAI '93 Proceedings of the 8th Austrian Artificial Intelligence Conference on Fuzzy Logic in Artificial Intelligence",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Petr Hajek",
+            "id": "2140840629",
+            "org": "Institute of Computer Science, Academy of Sciences, Prague, Czech Republic"
+        },
+        {
+            "name": "Dagmar Harmancova",
+            "id": "1139027797",
+            "org": "Institute of Computer Science, Academy of Sciences, Prague, Czech Republic"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Modal m-calculus",
+        "Dynamic logic (modal logic)",
+        "Normal modal logic",
+        "Modal logic",
+        "Multimodal logic",
+        "Mathematics",
+        "Linear temporal logic",
+        "Accessibility relation",
+        "Intermediate logic"
+    ],
+    "references": [
+        "130537534"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1540434171",
+    "title": "jmle: a tool for executing JML specifications via constraint programming",
+    "venue": "formal methods for industrial critical systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ben Krause",
+            "id": "2475953560",
+            "org": "Department of Mathematics and Computer Science, Dickinson College, Carlisle, PA#TAB#"
+        },
+        {
+            "name": "Tim Wahls",
+            "id": "2032696913",
+            "org": "Department of Mathematics and Computer Science, Dickinson College, Carlisle, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Real time Java",
+        "Java concurrency",
+        "Real-time computing",
+        "Constraint programming",
+        "Computer science",
+        "strictfp",
+        "Generics in Java",
+        "Java",
+        "Programming language",
+        "Computer architecture",
+        "Java Modeling Language",
+        "Java annotation"
+    ],
+    "references": [
+        "1491366424",
+        "1518466123",
+        "1544621933",
+        "1544972275",
+        "1577002526",
+        "1964830323",
+        "2096762856",
+        "2120926795",
+        "2166985644"
+    ]
+}

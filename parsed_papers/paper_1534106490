@@ -1,0 +1,35 @@
+{
+    "id": "1534106490",
+    "title": "A Framework for ASP-Marketplaces",
+    "venue": "cooperative information systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Gerrit Tamm",
+            "id": "1928167168",
+            "org": "Humboldt University"
+        },
+        {
+            "name": "Oliver Gunther",
+            "id": "2119886675",
+            "org": "Humboldt University"
+        }
+    ],
+    "fields_of_study": [
+        "Business process",
+        "Data mining",
+        "Process management",
+        "Information management",
+        "Application service provider",
+        "Service-level agreement",
+        "Outsourcing",
+        "Enterprise resource planning",
+        "Computer science",
+        "Business model",
+        "The Internet"
+    ],
+    "references": [
+        "205702547",
+        "1535383867"
+    ]
+}

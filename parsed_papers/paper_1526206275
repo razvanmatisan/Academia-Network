@@ -1,0 +1,35 @@
+{
+    "id": "1526206275",
+    "title": "Adaptive Model Selection for Digital Linear Classifiers",
+    "venue": "international conference on artificial neural networks",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Andrea Boni",
+            "id": "2626265348",
+            "org": "University of Trento"
+        }
+    ],
+    "fields_of_study": [
+        "Perceptron",
+        "Linear model",
+        "Machine learning",
+        "Pattern recognition",
+        "Artificial neural network",
+        "Artificial intelligence",
+        "Data set",
+        "Kernel (linear algebra)",
+        "Model selection",
+        "Test validity",
+        "Structural risk minimization",
+        "Computer science"
+    ],
+    "references": [
+        "1509585639",
+        "1979711143",
+        "2098641446",
+        "2129727551",
+        "2150434953",
+        "2171867284"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "15476721",
+    "title": "Instant Exceptional Model Mining Using Weighted Controlled Pattern Sampling",
+    "venue": "intelligent data analysis",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Sandy Moens",
+            "id": "1982900222",
+            "org": "University of Antwerp"
+        },
+        {
+            "name": "Sandy Moens",
+            "id": "1982900222",
+            "org": "University of Antwerp"
+        },
+        {
+            "name": "Mario Boley",
+            "id": "2074964178",
+            "org": "University of Bonn"
+        }
+    ],
+    "fields_of_study": [
+        "Heuristic",
+        "Machine learning",
+        "Artificial intelligence",
+        "Beam search",
+        "Pattern recognition",
+        "Sampling (statistics)",
+        "Computer science",
+        "Data analysis",
+        "Instant",
+        "Weighting"
+    ],
+    "references": [
+        "155190369",
+        "181982077",
+        "1854866626",
+        "1979462644",
+        "1985408389",
+        "1994432310",
+        "2035196341",
+        "2055400097",
+        "2083524178",
+        "2133990480",
+        "2143211346",
+        "2149474501",
+        "2149731317"
+    ]
+}

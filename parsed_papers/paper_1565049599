@@ -1,0 +1,38 @@
+{
+    "id": "1565049599",
+    "title": "Power efficient rapid hardware development using CoDel and automated clock gating",
+    "venue": "international symposium on circuits and systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Nainesh Agarwal",
+            "id": "2097157464",
+            "org": "Dept. of Electr. & Comput. Eng., Victoria Univ., BC, Canada"
+        },
+        {
+            "name": "Nikitas J. Dimopoulos",
+            "id": "1238607141",
+            "org": "Dept. of Electr. & Comput. Eng., Victoria Univ., BC, Canada"
+        }
+    ],
+    "fields_of_study": [
+        "Low-power electronics",
+        "Hardware description language",
+        "Hardware architecture",
+        "Dynamic demand",
+        "Integrated circuit design",
+        "Electronic engineering",
+        "Real-time computing",
+        "Computer science",
+        "Computer hardware",
+        "Clock gating",
+        "Architecture",
+        "CoDel"
+    ],
+    "references": [
+        "1555019970",
+        "1658200930",
+        "2076911836",
+        "2138093253"
+    ]
+}

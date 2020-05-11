@@ -1,0 +1,46 @@
+{
+    "id": "1491603869",
+    "title": "Classifying object-oriented query results in a class/type lattice",
+    "venue": "Symposium on Mathematical Fundamentals of Database Systems",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Andreas Heuer",
+            "id": "2570422533",
+            "org": "Institut fur Informatik, TU Clausthal"
+        },
+        {
+            "name": "Peter Sander",
+            "id": "2127053489",
+            "org": "Universitat Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Object model",
+        "Query optimization",
+        "Query language",
+        "Web query classification",
+        "RDF query language",
+        "Sargable",
+        "Object Query Language",
+        "Pattern recognition",
+        "Object Definition Language",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "69266277",
+        "178605485",
+        "1545765013",
+        "1553731692",
+        "1591309737",
+        "1968945891",
+        "1977583107",
+        "1987862681",
+        "2053678463",
+        "2107639246",
+        "2153524094",
+        "2163474742"
+    ]
+}

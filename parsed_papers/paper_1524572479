@@ -1,0 +1,32 @@
+{
+    "id": "1524572479",
+    "title": "Meta Data Model for Database Design",
+    "venue": "database and expert systems applications",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Tatjana Welzer",
+            "id": "60033916",
+            "org": "Univerza v Mariboru"
+        },
+        {
+            "name": "Johann Eder",
+            "id": "1979563096",
+            "org": "Universitat Klagenfurt"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Component-oriented database",
+        "Data mining",
+        "Data model",
+        "Computer science",
+        "Data transformation",
+        "IDEF4",
+        "Physical data model",
+        "Database design",
+        "Database model",
+        "Data modeling"
+    ],
+    "references": []
+}

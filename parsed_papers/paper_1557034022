@@ -1,0 +1,43 @@
+{
+    "id": "1557034022",
+    "title": "Concept updating with support vector machines",
+    "venue": "web age information management",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Yangguang Liu",
+            "id": "2656991280",
+            "org": "College of Computer Science, Zhejiang University, Hangzhou, China#TAB#"
+        },
+        {
+            "name": "Qinming He",
+            "id": "2133238876",
+            "org": "College of Computer Science, Zhejiang University, Hangzhou, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Support vector machine",
+        "Computer science",
+        "Semi-supervised learning",
+        "Multi-task learning",
+        "Process capability index",
+        "Data set",
+        "Inductive logic programming",
+        "Test set",
+        "Concept learning"
+    ],
+    "references": [
+        "1482684349",
+        "1485515110",
+        "1486089539",
+        "1563247097",
+        "1579877966",
+        "1709057194",
+        "2078382802",
+        "2098263691",
+        "2148603752",
+        "2150621701"
+    ]
+}

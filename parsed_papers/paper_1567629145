@@ -1,0 +1,43 @@
+{
+    "id": "1567629145",
+    "title": "Scalable performance analysis of parallel systems: Concepts and experiences",
+    "venue": "parallel computing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Holger Brunst",
+            "id": "2233930081",
+            "org": "Center for High Performance Computing, Dresden University of Technology, 01062 Dresden, Germany"
+        },
+        {
+            "name": "Holger Brunst",
+            "id": "2233930081",
+            "org": "Center for High Performance Computing, Dresden University of Technology, 01062 Dresden, Germany"
+        },
+        {
+            "name": "Wolfgang E. Nagel",
+            "id": "2167805270",
+            "org": "Center for High Performance Computing, Dresden University of Technology, 01062 Dresden, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Visualization",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Latency (engineering)",
+        "Server-side",
+        "Scalability",
+        "Architecture",
+        "Data visualization",
+        "Distributed memory",
+        "Distributed computing",
+        "Computer science",
+        "Latency (engineering)",
+        "Real-time computing"
+    ],
+    "references": [
+        "1568869856",
+        "2053885966",
+        "2126189438"
+    ]
+}

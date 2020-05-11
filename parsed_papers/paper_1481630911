@@ -1,0 +1,49 @@
+{
+    "id": "1481630911",
+    "title": "Construction of protographs for large-girth structured LDPC convolutional codes",
+    "venue": "international conference on communications",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Junho Cho",
+            "id": "2291834870",
+            "org": "Bell Labs, Alcatel-Lucent, Holmdel, New Jersey, USA"
+        },
+        {
+            "name": "Laurent Schmalen",
+            "id": "233442077",
+            "org": "Bell Labs, Alcatel-Lucent, Stuttgart, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Turbo code",
+        "Block code",
+        "Concatenated error correction code",
+        "Serial concatenated convolutional codes",
+        "Combinatorics",
+        "Convolutional code",
+        "Low-density parity-check code",
+        "Sequential decoding",
+        "Linear code",
+        "Mathematics"
+    ],
+    "references": [
+        "1618499549",
+        "1667880265",
+        "1858089031",
+        "1964402820",
+        "1972036717",
+        "1973712217",
+        "1987443364",
+        "2041324282",
+        "2052423140",
+        "2071304218",
+        "2079128625",
+        "2114869758",
+        "2128037788",
+        "2136204051",
+        "2136923821",
+        "2150368154",
+        "2172679141"
+    ]
+}

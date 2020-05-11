@@ -1,0 +1,30 @@
+{
+    "id": "1582521208",
+    "title": "An Approach to the Design of Complex, Heterogeneous Hardware/Software Systems",
+    "venue": "computer aided systems theory",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Christoph Schaffer",
+            "id": "2154969940",
+            "org": "Johannes Kepler University"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Theoretical computer science",
+        "Hardware architecture",
+        "System of systems",
+        "Systems design",
+        "Software system",
+        "Software portability",
+        "Component-based software engineering",
+        "Complex system",
+        "Systems development life cycle"
+    ],
+    "references": [
+        "1532329447",
+        "2064650227",
+        "2099529102"
+    ]
+}

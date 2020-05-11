@@ -1,0 +1,49 @@
+{
+    "id": "1515984610",
+    "title": "SCHISM: a new approach for interesting subspace mining",
+    "venue": "international conference on data mining",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Karlton Sequeira",
+            "id": "2044272001",
+            "org": "Dept. of Comput. Sci., Rensselaer Polytech. Inst., Troy, NY, USA"
+        },
+        {
+            "name": "Mohammed Javeed Zaki",
+            "id": "2165917828",
+            "org": "Dept. of Comput. Sci., Rensselaer Polytech. Inst., Troy, NY, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Linear subspace",
+        "Cluster analysis",
+        "Clustering high-dimensional data",
+        "Machine learning",
+        "Data mining",
+        "Backtracking",
+        "Feature vector",
+        "Breadth-first search",
+        "Schism",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Mathematics",
+        "Subspace topology"
+    ],
+    "references": [
+        "191006456",
+        "1499117135",
+        "1529320607",
+        "1562753845",
+        "1563099561",
+        "1977496278",
+        "1995433152",
+        "2042035594",
+        "2048763152",
+        "2066277072",
+        "2112210867",
+        "2138660495",
+        "2141087758",
+        "2166559705"
+    ]
+}

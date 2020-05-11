@@ -1,0 +1,25 @@
+{
+    "id": "1505117365",
+    "title": "Prediction with Expert Advice in Games with Unbounded One-Step Gains",
+    "venue": "arXiv: Learning",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Vladimir V. V'yugin",
+            "id": "1184479373",
+            "org": "Institute for Information Transmission Problems|Russian Academy of Sciences|Bol ' shoi"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Machine learning",
+        "Upper and lower bounds",
+        "Probabilistic logic",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1647316391",
+        "2584142248"
+    ]
+}

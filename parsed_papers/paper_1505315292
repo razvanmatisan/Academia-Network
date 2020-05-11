@@ -1,0 +1,39 @@
+{
+    "id": "1505315292",
+    "title": "On-Line Model Checking for Finite Linear Temporal Logic Specifications",
+    "venue": "computer aided verification",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Claude Jard",
+            "id": "182723510",
+            "org": "Campus de Beaulieu"
+        },
+        {
+            "name": "Thierry Jeron",
+            "id": "1998327350",
+            "org": "Campus de Beaulieu"
+        }
+    ],
+    "fields_of_study": [
+        "Interval temporal logic",
+        "Discrete mathematics",
+        "Model checking",
+        "Computation tree logic",
+        "Theoretical computer science",
+        "Finite-state machine",
+        "Linear temporal logic",
+        "Abstraction model checking",
+        "Computer science",
+        "Temporal logic"
+    ],
+    "references": [
+        "1547265787",
+        "1569068921",
+        "1970999740",
+        "2054554282",
+        "2090398333",
+        "2147539576",
+        "2156429182"
+    ]
+}

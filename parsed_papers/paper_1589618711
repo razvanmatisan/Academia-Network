@@ -1,0 +1,37 @@
+{
+    "id": "1589618711",
+    "title": "Building intelligent negotiating agents",
+    "venue": "australian joint conference on artificial intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "John K. Debenham",
+            "id": "2230915954",
+            "org": "Faculty of IT, University of Technology, Sydney, Australia#TAB#"
+        },
+        {
+            "name": "Simeon J. Simoff",
+            "id": "735013031",
+            "org": "Faculty of IT, University of Technology, Sydney, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Autonomous agent",
+        "Information model",
+        "Information exchange",
+        "Management science",
+        "Agent architecture",
+        "Intelligent agent",
+        "Distributed computing",
+        "Computer science",
+        "Simulation",
+        "Systems architecture",
+        "Multi-agent system",
+        "Exchange of information"
+    ],
+    "references": [
+        "1556421367",
+        "2110872636",
+        "2119848015"
+    ]
+}

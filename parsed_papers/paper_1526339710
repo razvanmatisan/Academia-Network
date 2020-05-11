@@ -1,0 +1,26 @@
+{
+    "id": "1526339710",
+    "title": "Simulation of ITSM Processes as Training Tool Set",
+    "venue": "International Heinz Nixdorf Symposium",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Achim Schmidtmann",
+            "id": "2633282942",
+            "org": "Fachhochschule Dortmund"
+        }
+    ],
+    "fields_of_study": [
+        "Management science",
+        "IT service management",
+        "Process simulation",
+        "Comprehension",
+        "Engineering",
+        "Knowledge management"
+    ],
+    "references": [
+        "1513504158",
+        "1645679354",
+        "2115444897"
+    ]
+}

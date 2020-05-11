@@ -1,0 +1,26 @@
+{
+    "id": "1496210326",
+    "title": "Case-Based Reasoning with Confidence",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "William Cheetham",
+            "id": "2036609883",
+            "org": "GE Research and Development Center"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Reasoning system",
+        "Machine learning",
+        "Case-based reasoning",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "64525635",
+        "1570082825",
+        "2125055259"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1577337656",
+    "title": "A String Matching Algorithm Fast on the Average",
+    "venue": "international colloquium on automata, languages and programming",
+    "year": 1979,
+    "authors": [
+        {
+            "name": "Beate Commentz-Walter",
+            "id": "200925702",
+            "org": "Universitaet des Saarlandes"
+        }
+    ],
+    "fields_of_study": [
+        "Rabin-Karp algorithm",
+        "Computer science",
+        "Discrete mathematics",
+        "Algorithm",
+        "Commentz-Walter algorithm",
+        "Approximate string matching",
+        "String searching algorithm",
+        "Boyer-Moore string search algorithm",
+        "Bitap algorithm",
+        "Indexation",
+        "String metric"
+    ],
+    "references": [
+        "123819085",
+        "1968435831",
+        "1985108724",
+        "2026678577",
+        "2037007500",
+        "2054762052",
+        "2087966340",
+        "2099964107",
+        "2121252285",
+        "2134826720",
+        "2533248932"
+    ]
+}

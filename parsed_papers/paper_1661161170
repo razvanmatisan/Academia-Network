@@ -1,0 +1,37 @@
+{
+    "id": "1661161170",
+    "title": "Categorical color projection for robot road following",
+    "venue": "international conference on robotics and automation",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Nan Zeng",
+            "id": "2287550377",
+            "org": "Dept. of Electr. & Comput. Eng., Northeastern Univ., Boston, MA, USA"
+        },
+        {
+            "name": "Jill D. Crisman",
+            "id": "2205550568",
+            "org": "Dept. of Electr. & Comput. Eng., Northeastern Univ., Boston, MA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Categorical variable",
+        "HSL and HSV",
+        "Color image",
+        "Color histogram",
+        "RGB color model",
+        "Color normalization",
+        "Computer vision",
+        "Artificial intelligence",
+        "Color space",
+        "Color quantization",
+        "Mathematics"
+    ],
+    "references": [
+        "2088278679",
+        "2143123986",
+        "2151261556",
+        "2155054718"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1481983406",
+    "title": "Software are processes too",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jacky Estublier",
+            "id": "100578647",
+            "org": "LSR-IMAG, Grenoble, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Software Engineering Process Group",
+        "Systems engineering",
+        "Team software process",
+        "Distributed computing",
+        "Software development",
+        "Goal-Driven Software Development Process",
+        "Software framework",
+        "Software design description",
+        "Package development process",
+        "Computer science",
+        "Empirical process (process control model)",
+        "Simulation"
+    ],
+    "references": [
+        "1503224859",
+        "1503378082",
+        "1505311546",
+        "1523334793",
+        "1542862088",
+        "1585684161",
+        "1966840450",
+        "1989430163",
+        "1990911977",
+        "2095958260",
+        "2131170628",
+        "2156615589",
+        "2163296687",
+        "2338335491"
+    ]
+}

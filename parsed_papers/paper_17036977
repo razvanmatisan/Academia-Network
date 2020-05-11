@@ -1,0 +1,48 @@
+{
+    "id": "17036977",
+    "title": "Toponym disambiguation using ontology-based semantic similarity",
+    "venue": "processing of the portuguese language",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "David S. Batista",
+            "id": "2123087439",
+            "org": "IST/INESC-ID Lisbon, Lisbon, Portugal#TAB#"
+        },
+        {
+            "name": "Joao D. Ferreira",
+            "id": "2229321754",
+            "org": "LaSIGE, University of Lisbon, Lisbon, Portugal#TAB#"
+        },
+        {
+            "name": "Francisco M. Couto",
+            "id": "2046459946",
+            "org": "LaSIGE, University of Lisbon, Lisbon, Portugal#TAB#"
+        },
+        {
+            "name": "Mario J. Silva",
+            "id": "2337617048",
+            "org": "IST/INESC-ID Lisbon, Lisbon, Portugal#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Heuristic",
+        "Geospatial analysis",
+        "Information retrieval",
+        "Ontology",
+        "Geographic information retrieval",
+        "Data mining",
+        "Semantic similarity",
+        "Ontology (information science)",
+        "Computer science"
+    ],
+    "references": [
+        "1647729745",
+        "1803379702",
+        "1870791027",
+        "1951017836",
+        "2100935296",
+        "2117805756",
+        "2436001372"
+    ]
+}

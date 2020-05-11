@@ -1,0 +1,35 @@
+{
+    "id": "1482443770",
+    "title": "AFRICA: Workflow Interoperability Based on XML-Messages.",
+    "venue": "ISDO",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Michael zur Muehlen",
+            "id": "717319686",
+            "org": "University of Munster"
+        },
+        {
+            "name": "Florian Klein",
+            "id": "2674670942",
+            "org": "University of Munster"
+        }
+    ],
+    "fields_of_study": [
+        "Event-driven process chain",
+        "Database",
+        "Workflow engine",
+        "Workflow management system",
+        "Business architecture",
+        "Business process modeling",
+        "Business",
+        "Business process management",
+        "Artifact-centric business process model",
+        "Knowledge management",
+        "Workflow Management Coalition"
+    ],
+    "references": [
+        "146077270",
+        "2118305052"
+    ]
+}

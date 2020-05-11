@@ -1,0 +1,39 @@
+{
+    "id": "1490504768",
+    "title": "On gradient based local search methods in unconstrained evolutionary multi-objective optimization",
+    "venue": "international conference on evolutionary multi criterion optimization",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Pradyumn Kumar Shukla",
+            "id": "2132999805",
+            "org": "Institute for Numerical Mathematics, Dresden University of Technology, Dresden, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Evolutionary computation",
+        "Genetic algorithm",
+        "Metaheuristic",
+        "Local search (optimization)",
+        "Mathematical optimization",
+        "Machine learning",
+        "CMA-ES",
+        "Multi-objective optimization",
+        "Imperialist competitive algorithm",
+        "L-reduction",
+        "Artificial intelligence",
+        "Mathematics"
+    ],
+    "references": [
+        "1520767601",
+        "1558919105",
+        "2044042941",
+        "2089703000",
+        "2098907614",
+        "2102771160",
+        "2126105956",
+        "2161055009",
+        "2162161634",
+        "2210195496"
+    ]
+}

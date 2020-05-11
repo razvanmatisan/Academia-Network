@@ -1,0 +1,32 @@
+{
+    "id": "169443006",
+    "title": "Representation Levels Within Knowledge Representation",
+    "venue": "international conference on conceptual structures",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Heather D. Pfeiffer",
+            "id": "2098020650",
+            "org": "New Mexico State University,#TAB#"
+        },
+        {
+            "name": "Joseph J. Pfeiffer",
+            "id": "2122697149",
+            "org": "New Mexico State University,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge representation and reasoning",
+        "Natural language processing",
+        "Body of knowledge",
+        "Representation term",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "72151562",
+        "1493596129",
+        "1796058516",
+        "2035346816"
+    ]
+}

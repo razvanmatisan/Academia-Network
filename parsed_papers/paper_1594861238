@@ -1,0 +1,38 @@
+{
+    "id": "1594861238",
+    "title": "Path Prediction and Classification Based on Non-linear Filtering",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Stephen J. Maybank",
+            "id": "190609077",
+            "org": "University of Reading"
+        },
+        {
+            "name": "Anthony D. Worrall",
+            "id": "2090544170",
+            "org": "University of Reading"
+        }
+    ],
+    "fields_of_study": [
+        "Wire-frame model",
+        "Discrete mathematics",
+        "Acceleration",
+        "Trajectory",
+        "Probability density function",
+        "System model",
+        "Nonlinear system",
+        "Computer vision",
+        "Control theory",
+        "State space",
+        "Filter (signal processing)",
+        "Mathematics",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1593705966",
+        "1995312321",
+        "2060793232"
+    ]
+}

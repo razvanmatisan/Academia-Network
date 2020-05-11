@@ -1,0 +1,45 @@
+{
+    "id": "1608326565",
+    "title": "Meta-Modelling Semantics of UML",
+    "venue": "arXiv: Software Engineering",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Andy Evans",
+            "id": "2111383049",
+            "org": "University of York"
+        },
+        {
+            "name": "Kevin Lano",
+            "id": "426991758",
+            "org": "Imperial College"
+        },
+        {
+            "name": "Bernhard Rumpe",
+            "id": "151827428",
+            "org": "Munich University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Formal semantics (linguistics)",
+        "UML tool",
+        "Natural language processing",
+        "Denotational semantics",
+        "Well-founded semantics",
+        "Computational semantics",
+        "Action semantics",
+        "Applications of UML",
+        "Programming language",
+        "Artificial intelligence",
+        "Operational semantics"
+    ],
+    "references": [
+        "1574837706",
+        "1928896584",
+        "1998017916",
+        "2018568588",
+        "2159765281",
+        "2594909701"
+    ]
+}

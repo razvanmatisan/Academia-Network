@@ -1,0 +1,41 @@
+{
+    "id": "1493214567",
+    "title": "Highway hierarchies hasten exact shortest path queries",
+    "venue": "european symposium on algorithms",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Peter Sanders",
+            "id": "2056122262",
+            "org": "Universitat Karlsruhe (TH), Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Dominik Schultes",
+            "id": "136210065",
+            "org": "Universitat Karlsruhe (TH), Karlsruhe, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Yen's algorithm",
+        "Shortest job next",
+        "Euclidean shortest path",
+        "K shortest path routing",
+        "Computer science",
+        "Algorithm",
+        "Shortest Path Faster Algorithm",
+        "Shortest path problem",
+        "Pathfinding",
+        "Constrained Shortest Path First"
+    ],
+    "references": [
+        "30435042",
+        "1489554686",
+        "1498660721",
+        "1561240874",
+        "1827234103",
+        "1866249310",
+        "2014889099",
+        "2096304547",
+        "2152545366"
+    ]
+}

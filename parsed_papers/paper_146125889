@@ -1,0 +1,48 @@
+{
+    "id": "146125889",
+    "title": "Bayes Optimal Multilabel Classification via Probabilistic Classifier Chains",
+    "venue": "international conference on machine learning",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Weiwei Cheng",
+            "id": "2116283648",
+            "org": "Mathematics and Computer Science, Marburg University, Hans-Meerwein-Str., 35032 Marburg, Germany"
+        },
+        {
+            "name": "Eyke H llermeier",
+            "id": "2587056436",
+            "org": "Mathematics and Computer Science, Marburg University, Hans-Meerwein-Str., 35032 Marburg, Germany"
+        },
+        {
+            "name": "Krzysztof Dembczynski",
+            "id": "1886095867",
+            "org": "Mathematics and Computer Science, Marburg University, Hans-Meerwein-Str., 35032 Marburg, Germany"
+        },
+        {
+            "name": "Krzysztof Dembczynski",
+            "id": "1886095867",
+            "org": "Mathematics and Computer Science, Marburg University, Hans-Meerwein-Str., 35032 Marburg, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Probabilistic classification",
+        "Multi-label classification",
+        "Machine learning",
+        "Artificial intelligence",
+        "Probabilistic logic",
+        "Pattern recognition",
+        "Classifier chains",
+        "Bayes' theorem",
+        "Mathematics"
+    ],
+    "references": [
+        "66588809",
+        "1524416683",
+        "1565746575",
+        "1998839399",
+        "1999954155",
+        "2023492421",
+        "2146241755"
+    ]
+}

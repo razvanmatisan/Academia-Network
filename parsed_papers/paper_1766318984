@@ -1,0 +1,38 @@
+{
+    "id": "1766318984",
+    "title": "A Comparison of Dominance Mechanisms and Simple Mutation on Non-stationary Problems",
+    "venue": "parallel problem solving from nature",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Jonathan Lewis",
+            "id": "2496964024",
+            "org": "University of Edinburgh"
+        },
+        {
+            "name": "Emma Hart",
+            "id": "2103849064",
+            "org": "University of Edinburgh"
+        },
+        {
+            "name": "Graeme Ritchie",
+            "id": "2170926604",
+            "org": "University of Edinburgh"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Mutation",
+        "Genetic algorithm",
+        "Knapsack problem",
+        "Computer science",
+        "Search algorithm",
+        "Fitness function",
+        "Ploidy"
+    ],
+    "references": [
+        "1506108263",
+        "1522452719"
+    ]
+}

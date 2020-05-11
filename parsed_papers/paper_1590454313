@@ -1,0 +1,44 @@
+{
+    "id": "1590454313",
+    "title": "Equivalent capacity estimators for bufferless fluid flow multiplexing",
+    "venue": "global communications conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jozsef Biro",
+            "id": "1270049351",
+            "org": "Dept. of Telecommun. & Media Informatics, Budapest Univ. of Technol. & Econ., Hungary"
+        },
+        {
+            "name": "Zalan Heszberger",
+            "id": "654969642",
+            "org": "Dept. of Telecommun. & Media Informatics, Budapest Univ. of Technol. & Econ., Hungary"
+        },
+        {
+            "name": "Matyas Martinecz",
+            "id": "240746394",
+            "org": "Dept. of Telecommun. & Media Informatics, Budapest Univ. of Technol. & Econ., Hungary"
+        }
+    ],
+    "fields_of_study": [
+        "Traffic flow",
+        "Real-time computing",
+        "Computer network",
+        "Statistical time division multiplexing",
+        "Call Admission Control",
+        "Estimator",
+        "Estimation theory",
+        "Probability-generating function",
+        "Multiplexing",
+        "Phenomenon",
+        "Computer science"
+    ],
+    "references": [
+        "1495115708",
+        "1576880929",
+        "1965047106",
+        "2099682330",
+        "2118315375",
+        "2161533159"
+    ]
+}

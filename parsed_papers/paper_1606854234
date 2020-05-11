@@ -1,0 +1,31 @@
+{
+    "id": "1606854234",
+    "title": "Understanding and supporting knowledge management and organizational memory in a city council",
+    "venue": "hawaii international conference on system sciences",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Gerhard Schwabe",
+            "id": "2080883836",
+            "org": "Dept. of Inf. Syst., Koblenz-Landau Univ., Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Decision support system",
+        "Knowledge management",
+        "Management science",
+        "Information management",
+        "Participatory management",
+        "Organizational memory",
+        "Data management",
+        "Personal knowledge management",
+        "Sociotechnical system",
+        "Computer science",
+        "Organizational learning"
+    ],
+    "references": [
+        "1584582210",
+        "2119614939",
+        "2294933255"
+    ]
+}

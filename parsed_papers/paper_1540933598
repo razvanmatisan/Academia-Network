@@ -1,0 +1,37 @@
+{
+    "id": "1540933598",
+    "title": "Counting pseudo-intents and #p-completeness",
+    "venue": "international conference on formal concept analysis",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Sergei O. Kuznetsov",
+            "id": "2119539139",
+            "org": "VINITI Institute, Moscow, Russia#TAB#"
+        },
+        {
+            "name": "Sergei A. Obiedkov",
+            "id": "2057145533",
+            "org": "University of Pretoria, Pretoria, South Africa#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hyperarithmetical theory",
+        "Completeness (statistics)",
+        "Turing degree",
+        "Turing completeness",
+        "Discrete mathematics",
+        "Probabilistic Turing machine",
+        "Combinatorics",
+        "Universal Turing machine",
+        "Algorithm characterizations",
+        "Turing machine",
+        "Mathematics"
+    ],
+    "references": [
+        "1233890457",
+        "1503729935",
+        "2011039300",
+        "2115826669"
+    ]
+}

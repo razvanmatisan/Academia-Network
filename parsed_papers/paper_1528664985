@@ -1,0 +1,39 @@
+{
+    "id": "1528664985",
+    "title": "Dynamical Selection of Learning Algorithms",
+    "venue": "international conference on artificial intelligence and statistics",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Christopher J. Merz",
+            "id": "2103435164",
+            "org": "University of California, Irvine"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Active learning (machine learning)",
+        "Multi-task learning",
+        "Online machine learning",
+        "Artificial intelligence",
+        "Population-based incremental learning",
+        "Wake-sleep algorithm",
+        "Unsupervised learning",
+        "Stability (learning theory)",
+        "Computer science",
+        "Algorithm",
+        "Pattern recognition",
+        "Weighted Majority Algorithm"
+    ],
+    "references": [
+        "1482451543",
+        "1539097253",
+        "1539739406",
+        "1550270913",
+        "1992880122",
+        "2003048487",
+        "2125055259",
+        "2136000097",
+        "2154225404"
+    ]
+}

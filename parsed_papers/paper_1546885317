@@ -1,0 +1,47 @@
+{
+    "id": "1546885317",
+    "title": "Sample-guided progressive image coding",
+    "venue": "international conference on pattern recognition",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Udo Mahlmeister",
+            "id": "130389962",
+            "org": "Kiel Univ., Germany"
+        },
+        {
+            "name": "Michael Sandgaard",
+            "id": "2570870485",
+            "org": "Christian-Albrechts-Universitat zu Kiel"
+        },
+        {
+            "name": "Gerald Sommer",
+            "id": "2138280970",
+            "org": "Christian-Albrechts-Universitat zu Kiel"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Image texture",
+        "Feature detection (computer vision)",
+        "Image restoration",
+        "Image processing",
+        "Image warping",
+        "U-matrix",
+        "Artificial intelligence",
+        "Pyramid (image processing)",
+        "Pattern recognition",
+        "Image quality",
+        "Computer science"
+    ],
+    "references": [
+        "1553200558",
+        "1553558465",
+        "1569951453",
+        "1991605728",
+        "2008297189",
+        "2109812093",
+        "2135884851",
+        "2160835070"
+    ]
+}

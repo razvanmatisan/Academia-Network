@@ -1,0 +1,41 @@
+{
+    "id": "1499137257",
+    "title": "A 3d visualization and simulation framework for intelligent physical agents",
+    "venue": "holonic and multi agent systems for manufacturing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jose L. Martinez Lastra",
+            "id": "2309724151",
+            "org": "Institute of Production Engineering, Tampere University of Technology, Tampere, Finland#TAB#"
+        },
+        {
+            "name": "Enrique Lopez Torres",
+            "id": "2322693757",
+            "org": "Institute of Production Engineering, Tampere University of Technology, Tampere, Finland#TAB#"
+        },
+        {
+            "name": "Armando W. Colombo",
+            "id": "2096818365",
+            "org": "Schneider Electric GmbH, Seligenstadt, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Visualization",
+        "Agent architecture",
+        "Software suite",
+        "Intelligent agent",
+        "Computer-integrated manufacturing",
+        "Distributed computing",
+        "Multi-agent system",
+        "Software agent",
+        "Interoperation",
+        "Simulation",
+        "Computer science"
+    ],
+    "references": [
+        "1834710886",
+        "2167879633"
+    ]
+}

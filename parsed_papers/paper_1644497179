@@ -1,0 +1,34 @@
+{
+    "id": "1644497179",
+    "title": "An Audio-Visual Approach to Measuring Discourse Synchrony in Multimodal Conversation Data",
+    "venue": "Copenhagen studies in language",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Nick Campbell",
+            "id": "2405628696",
+            "org": "Trinity College, Dublin"
+        }
+    ],
+    "fields_of_study": [
+        "Active listening",
+        "Speech processing",
+        "Speech technology",
+        "Information extraction",
+        "Natural language processing",
+        "Image processing",
+        "Artificial intelligence",
+        "Conversation analysis",
+        "Computational linguistics",
+        "Conversation",
+        "Computer science"
+    ],
+    "references": [
+        "1579791056",
+        "1588191538",
+        "1838628832",
+        "2020137166",
+        "2137401668",
+        "2757874732"
+    ]
+}

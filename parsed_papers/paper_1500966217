@@ -1,0 +1,25 @@
+{
+    "id": "1500966217",
+    "title": "Some Simple OpenMP Optimization Techniques",
+    "venue": "international workshop on openmp",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Matthias S. Muller",
+            "id": "2295117714",
+            "org": "HLRS"
+        }
+    ],
+    "fields_of_study": [
+        "Computer architecture",
+        "Parallel computing",
+        "Synchronization",
+        "Computer science",
+        "Compiler",
+        "Optimizing compiler",
+        "Shared memory"
+    ],
+    "references": [
+        "1551889632"
+    ]
+}

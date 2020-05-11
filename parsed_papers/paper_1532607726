@@ -1,0 +1,23 @@
+{
+    "id": "1532607726",
+    "title": "RoboCupRescue Simulation League",
+    "venue": "robot soccer world cup",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Tomoichi Takahashi",
+            "id": "2227658413",
+            "org": "Meijo University"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Simulation",
+        "Decision support system",
+        "Damages",
+        "League"
+    ],
+    "references": [
+        "1493664965"
+    ]
+}

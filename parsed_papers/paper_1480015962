@@ -1,0 +1,30 @@
+{
+    "id": "1480015962",
+    "title": "A Common-Sense Theory of Time",
+    "venue": "european conference on artificial intelligence",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Yuen Q. Lin",
+            "id": "2709323840",
+            "org": "University of Wales College of Cardiff"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Computer science",
+        "Common sense",
+        "B-theory of time"
+    ],
+    "references": [
+        "195549492",
+        "1575737483",
+        "1991177334",
+        "2081274355",
+        "2104351678",
+        "2121299573",
+        "2122540544",
+        "2161484642"
+    ]
+}

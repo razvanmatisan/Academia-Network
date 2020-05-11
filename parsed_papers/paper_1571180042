@@ -1,0 +1,52 @@
+{
+    "id": "1571180042",
+    "title": "Model Checking Games for a Fair Branching-Time Temporal Epistemic Logic",
+    "venue": "australasian joint conference on artificial intelligence",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Xiaowei Huang",
+            "id": "2155758102",
+            "org": "The University of New South Wales, Australia#TAB#"
+        },
+        {
+            "name": "Ron van der Meyden",
+            "id": "211497782",
+            "org": "The University of New South Wales, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Model checking",
+        "Computational logic",
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "Multimodal logic",
+        "Game semantics",
+        "Linear temporal logic",
+        "Higher-order logic",
+        "Temporal logic",
+        "Mathematics",
+        "Epistemic modal logic"
+    ],
+    "references": [
+        "181848957",
+        "1490141775",
+        "1501731334",
+        "1507793072",
+        "1528676759",
+        "1556566737",
+        "1577972941",
+        "1976513602",
+        "1992582873",
+        "2002262052",
+        "2024664992",
+        "2110930028",
+        "2114677616",
+        "2117189826",
+        "2127574686",
+        "2146819619",
+        "2146937540",
+        "2159181605",
+        "2340735175"
+    ]
+}

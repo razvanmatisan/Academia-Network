@@ -1,0 +1,31 @@
+{
+    "id": "1538600190",
+    "title": "Tree-partite graphs and the complexity of algorithms",
+    "venue": "fundamentals of computation theory",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Detlef Seese",
+            "id": "2600372890",
+            "org": "IMath, AdW der DDR"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Discrete mathematics",
+        "Chordal graph",
+        "Structural complexity theory",
+        "Indifference graph",
+        "Existential theory of the reals",
+        "Computer science",
+        "1-planar graph",
+        "Implicit graph",
+        "Asymptotic computational complexity",
+        "Game complexity"
+    ],
+    "references": [
+        "2002722727",
+        "2003021478",
+        "2033405938"
+    ]
+}

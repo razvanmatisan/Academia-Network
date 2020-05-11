@@ -1,0 +1,33 @@
+{
+    "id": "1593736253",
+    "title": "Syntactic semiring and universal automaton",
+    "venue": "developments in language theory",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Libor Polak",
+            "id": "2135300424",
+            "org": "Department of Mathematics, Masaryk University, Brno, Czech Republic#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Probabilistic automaton",
+        "Block cellular automaton",
+        "Two-way deterministic finite automaton",
+        "Discrete mathematics",
+        "Timed automaton",
+        "Buchi automaton",
+        "Deterministic automaton",
+        "Continuous automaton",
+        "Mathematics",
+        "Levenshtein automaton"
+    ],
+    "references": [
+        "1490320195",
+        "1536629372",
+        "1579590027",
+        "2010930681",
+        "2402487099"
+    ]
+}

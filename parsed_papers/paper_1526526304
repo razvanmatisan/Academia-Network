@@ -1,0 +1,44 @@
+{
+    "id": "1526526304",
+    "title": "Package-based description logics - preliminary results",
+    "venue": "international semantic web conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jie Bao",
+            "id": "2241101708",
+            "org": "Artificial Intelligence Research Laboratory, Department of Computer Science, Iowa State University, Ames, IA#TAB#"
+        },
+        {
+            "name": "Doina Caragea",
+            "id": "268350945",
+            "org": "Department of Computing and Information Sciences, Kansas State University, Manhattan, KS#TAB#"
+        },
+        {
+            "name": "Vasant G. Honavar",
+            "id": "2069172874",
+            "org": "Artificial Intelligence Research Laboratory, Department of Computer Science, Iowa State University, Ames, IA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "OWL-S",
+        "Process ontology",
+        "Database",
+        "Data mining",
+        "Description logic",
+        "Knowledge representation and reasoning",
+        "Ontology language",
+        "Theoretical computer science",
+        "Computer science",
+        "Web Ontology Language",
+        "Ontology (information science)",
+        "Ontology Inference Layer"
+    ],
+    "references": [
+        "1516068070",
+        "2102033455",
+        "2107537985",
+        "2163873777",
+        "2802970235"
+    ]
+}

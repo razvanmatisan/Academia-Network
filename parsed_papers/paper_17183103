@@ -1,0 +1,40 @@
+{
+    "id": "17183103",
+    "title": "Learning of stochastic context-free grammars by means of estimation algorithms.",
+    "venue": "conference of the international speech communication association",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Joan-Andreu Sanchez",
+            "id": "2100760098",
+            "org": "Polytechnic University of Valencia"
+        },
+        {
+            "name": "Jose-Miguel Benedi",
+            "id": "2096272650",
+            "org": "Polytechnic University of Valencia"
+        }
+    ],
+    "fields_of_study": [
+        "Stochastic grammar",
+        "Time complexity",
+        "Probability distribution",
+        "Pattern recognition",
+        "Machine learning",
+        "Language model",
+        "Computer science",
+        "Algorithm",
+        "Stochastic context-free grammar",
+        "Treebank",
+        "Artificial intelligence",
+        "Context-free grammar",
+        "Stochastic approximation"
+    ],
+    "references": [
+        "278158788",
+        "1632114991",
+        "2027122460",
+        "2096394595",
+        "2439178139"
+    ]
+}

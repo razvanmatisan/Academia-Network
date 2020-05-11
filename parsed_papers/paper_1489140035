@@ -1,0 +1,40 @@
+{
+    "id": "1489140035",
+    "title": "A Weight Adaptation Method for Fuzzy Cognitive Maps to a Process Control Problem",
+    "venue": "international conference on computational science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Elpiniki I. Papageorgiou",
+            "id": "2039666252",
+            "org": "University of Patras"
+        },
+        {
+            "name": "Peter P. Groumpos",
+            "id": "1969814373",
+            "org": "University of Patras"
+        }
+    ],
+    "fields_of_study": [
+        "Fuzzy cognitive map",
+        "Leabra",
+        "Neuro-fuzzy",
+        "Fuzzy associative matrix",
+        "Adaptive neuro fuzzy inference system",
+        "Complex system",
+        "Machine learning",
+        "Fuzzy classification",
+        "Fuzzy control system",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1524987130",
+        "1593566392",
+        "1889110788",
+        "2021539797",
+        "2095224843",
+        "2128146576",
+        "2143459909"
+    ]
+}

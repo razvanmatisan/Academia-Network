@@ -1,0 +1,40 @@
+{
+    "id": "1532244811",
+    "title": "Knowledge Management in Business Intelligence",
+    "venue": "Knowledge Management and Organizational Learning",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Richard T. Herschel",
+            "id": "2074096247",
+            "org": "Saint Joseph's University"
+        },
+        {
+            "name": "Ira Yermish",
+            "id": "327573935",
+            "org": "Saint Joseph's University"
+        }
+    ],
+    "fields_of_study": [
+        "Domain knowledge",
+        "Knowledge transfer",
+        "Knowledge value chain",
+        "Management science",
+        "Body of knowledge",
+        "Business intelligence",
+        "Business",
+        "Personal knowledge management",
+        "Knowledge sharing",
+        "Knowledge management",
+        "Organizational learning"
+    ],
+    "references": [
+        "1606368101",
+        "2012963210",
+        "2024624352",
+        "2080669159",
+        "2092580828",
+        "2151128815",
+        "2154944074"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1529859013",
+    "title": "Ossa - A Conceptual Modelling System for Virtual Realities",
+    "venue": "international conference on conceptual structures",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Finnegan Southey",
+            "id": "1991776605",
+            "org": "University of Waterloo"
+        },
+        {
+            "name": "James G. Linders",
+            "id": "2312183135",
+            "org": "University of Guelph"
+        }
+    ],
+    "fields_of_study": [
+        "Conceptual graph",
+        "Natural language processing",
+        "Diagrammatic reasoning",
+        "Natural language",
+        "System model",
+        "Knowledge representation and reasoning",
+        "Distributed computing",
+        "Modalities",
+        "Metaverse",
+        "Conceptual model (computer science)",
+        "Simulation",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1485791179",
+        "1506176352",
+        "1516346799",
+        "1585267927",
+        "1786578488",
+        "1878301120",
+        "2023928847",
+        "2063568987",
+        "2077396814",
+        "2148792252",
+        "2337392266",
+        "2538147675"
+    ]
+}

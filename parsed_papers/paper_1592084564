@@ -1,0 +1,41 @@
+{
+    "id": "1592084564",
+    "title": "Relationship Management at the Operational Level in Outsourcing",
+    "venue": "scandinavian conference on information systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Sabine Madsen",
+            "id": "2135269043",
+            "org": "Roskilde University"
+        },
+        {
+            "name": "Keld Bodker",
+            "id": "744291942",
+            "org": "Roskilde University"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Customer relationship management",
+        "Management science",
+        "Empirical research",
+        "Artificial intelligence",
+        "Enterprise relationship management",
+        "Offshore outsourcing",
+        "Knowledge process outsourcing",
+        "Outsourcing",
+        "Computer science",
+        "Portfolio"
+    ],
+    "references": [
+        "1552168531",
+        "1995415491",
+        "2040803688",
+        "2051649050",
+        "2140971489",
+        "2156970345",
+        "2158550744",
+        "2160888568"
+    ]
+}

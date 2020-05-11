@@ -1,0 +1,42 @@
+{
+    "id": "1533870178",
+    "title": "Unification of XML DTD for XML documents with similar structure",
+    "venue": "international conference on computational science and its applications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Chun-Sik Yoo",
+            "id": "2143352542",
+            "org": "Division of Electronics and Information Engineering, Chonbuk National University, Jeonju, Jeonbuk, Republic of Korea#TAB#"
+        },
+        {
+            "name": "Seon-Mi Woo",
+            "id": "2150265359",
+            "org": "Division of Electronics and Information Engineering, Chonbuk National University, Jeonju, Jeonbuk, Republic of Korea#TAB#"
+        },
+        {
+            "name": "Yong-Sung Kim",
+            "id": "2239848925",
+            "org": "Division of Electronics and Information Engineering, Chonbuk National University, Jeonju, Jeonbuk, Republic of Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Streaming XML",
+        "RELAX NG",
+        "Computer science",
+        "XML database",
+        "XML Schema Editor",
+        "Document Structure Description",
+        "XML schema",
+        "Theoretical computer science",
+        "XML validation",
+        "Simple API for XML"
+    ],
+    "references": [
+        "1603876553",
+        "2001409717",
+        "2097388954",
+        "2128012410",
+        "2153529441"
+    ]
+}

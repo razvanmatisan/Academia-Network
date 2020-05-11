@@ -1,0 +1,38 @@
+{
+    "id": "1449986297",
+    "title": "Cloud Computing Reference Architecture and Its Forensic Implications: A Preliminary Analysis",
+    "venue": "international conference on digital forensics",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Keyun Ruan",
+            "id": "1973332416",
+            "org": "University College Dublin"
+        },
+        {
+            "name": "Joe Carthy",
+            "id": "2048146772",
+            "org": "University College Dublin"
+        }
+    ],
+    "fields_of_study": [
+        "Separation of duties",
+        "Reference architecture",
+        "Software deployment",
+        "Systems engineering",
+        "Cloud computing",
+        "Forensic science",
+        "World Wide Web",
+        "Computer science",
+        "Standardization",
+        "Digital forensics"
+    ],
+    "references": [
+        "16482292",
+        "1534069672",
+        "1989698679",
+        "2025529089",
+        "2124410001",
+        "2622548307"
+    ]
+}

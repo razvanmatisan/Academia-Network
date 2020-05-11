@@ -1,0 +1,41 @@
+{
+    "id": "1799969649",
+    "title": "Neural mechanisms for representing surface and contour features",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Thorsten Hansen",
+            "id": "2119692524",
+            "org": "Universitat Ulm, Abt. Neuroinformatik, Ulm, Germany#TAB#"
+        },
+        {
+            "name": "Heiko Neumann",
+            "id": "2195296034",
+            "org": "Universitat Ulm, Abt. Neuroinformatik, Ulm, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Homogeneous",
+        "Interactive visualization",
+        "Invariant (mathematics)",
+        "Modalities",
+        "Machine vision",
+        "Autonomous system (mathematics)",
+        "Computer vision",
+        "STREAMS",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1581546968",
+        "1670582273",
+        "1978072945",
+        "2042926516",
+        "2065533311",
+        "2075529649",
+        "2088340288",
+        "2088767350",
+        "2125756925"
+    ]
+}

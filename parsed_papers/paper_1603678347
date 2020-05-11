@@ -1,0 +1,29 @@
+{
+    "id": "1603678347",
+    "title": "A Fast Matrix Decoding Algorithm for Rank-Error-Correcting Codes",
+    "venue": "Proceedings of the First French-Soviet Workshop on Algebraic Coding",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Ernst M. Gabidulin",
+            "id": "1272986971",
+            "org": "Moscow Institute of Physics and Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Berlekamp-Welch algorithm",
+        "Turbo code",
+        "Concatenated error correction code",
+        "Discrete mathematics",
+        "Low-density parity-check code",
+        "Reed-Solomon error correction",
+        "Algorithm",
+        "BCH code",
+        "Linear code",
+        "Hamming code",
+        "Mathematics"
+    ],
+    "references": [
+        "2025108828"
+    ]
+}

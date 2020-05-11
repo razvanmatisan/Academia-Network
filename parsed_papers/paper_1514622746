@@ -1,0 +1,38 @@
+{
+    "id": "1514622746",
+    "title": "Proprioceptive Motion Modeling for Monte Carlo Localization",
+    "venue": "robot soccer world cup",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jan Hoffmann",
+            "id": "2293532064",
+            "org": "Institut fur Informatik, Humboldt-Universitat zu Berlin, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Computer vision",
+        "Mobile robot",
+        "Simulation",
+        "Artificial intelligence",
+        "Robot",
+        "Probability density function",
+        "Collision detection",
+        "Robot kinematics",
+        "Monte Carlo localization"
+    ],
+    "references": [
+        "1526152857",
+        "1540702173",
+        "1556889232",
+        "1568358583",
+        "1577509784",
+        "1582069131",
+        "1660957643",
+        "2043216597",
+        "2100361537",
+        "2112002204",
+        "2336416123"
+    ]
+}

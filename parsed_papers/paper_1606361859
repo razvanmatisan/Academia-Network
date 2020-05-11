@@ -1,0 +1,41 @@
+{
+    "id": "1606361859",
+    "title": "Object role modelling and XML-Schema",
+    "venue": "international conference on conceptual modeling",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Linda Bird",
+            "id": "2097528888",
+            "org": "Distributed System Technology Center, The University of Queensland, QLD, Australia#TAB#"
+        },
+        {
+            "name": "Andrew Goodchild",
+            "id": "2238460365",
+            "org": "Distributed System Technology Center, The University of Queensland, QLD, Australia#TAB#"
+        },
+        {
+            "name": "Terry A. Halpin",
+            "id": "2302753368",
+            "org": "Microsoft Corporation, Seattle, WA,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Data mining",
+        "Database",
+        "Entity-relationship model",
+        "Data model",
+        "Schema (psychology)",
+        "Document type definition",
+        "Conceptual schema",
+        "XML schema",
+        "Data redundancy",
+        "XML"
+    ],
+    "references": [
+        "1836729069",
+        "2030743519",
+        "2171465923"
+    ]
+}

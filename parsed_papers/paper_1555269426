@@ -1,0 +1,30 @@
+{
+    "id": "1555269426",
+    "title": "An Empirical Comparison of Genetic and Decision-Tree Classifiers",
+    "venue": "international conference on machine learning",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "J. R. Quinlan",
+            "id": "2569648598",
+            "org": "Basser Department of Computer Science, University of Sydney, Sydney, N.S.W. 2006, Australia"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Decision tree",
+        "Alternating decision tree",
+        "ID3 algorithm",
+        "Incremental decision tree",
+        "Pattern recognition",
+        "Decision tree learning",
+        "Computer science"
+    ],
+    "references": [
+        "128754594",
+        "167515793",
+        "2018642704",
+        "2149706766"
+    ]
+}

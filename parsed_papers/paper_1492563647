@@ -1,0 +1,29 @@
+{
+    "id": "1492563647",
+    "title": "A Role for Theorem Proving in Multi-Processor Design",
+    "venue": "computer aided verification",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Albert John Camilleri",
+            "id": "2025267970",
+            "org": "Hewlett-Packard Company"
+        }
+    ],
+    "fields_of_study": [
+        "Hardware description language",
+        "Algorithm",
+        "Theoretical computer science",
+        "Finite-state machine",
+        "Processor design",
+        "Integrated circuit",
+        "Computer science",
+        "Automated theorem proving",
+        "Time to market",
+        "Computer Aided Design"
+    ],
+    "references": [
+        "1531115743",
+        "1567989650"
+    ]
+}

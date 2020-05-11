@@ -1,0 +1,45 @@
+{
+    "id": "1481065673",
+    "title": "A sparse parallel hybrid monte carlo algorithm for matrix computations",
+    "venue": "international conference on computational science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Simon Branford",
+            "id": "2054545016",
+            "org": "Advanced Computing and Emerging Technologies Centre, School of System Engineering, The University of Reading, Reading, UK#TAB#"
+        },
+        {
+            "name": "Christian Weihrauch",
+            "id": "1978837635",
+            "org": "Advanced Computing and Emerging Technologies Centre, School of System Engineering, The University of Reading, Reading, UK#TAB#"
+        },
+        {
+            "name": "Vassil N. Alexandrov",
+            "id": "2036977493",
+            "org": "Advanced Computing and Emerging Technologies Centre, School of System Engineering, The University of Reading, Reading, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Discrete mathematics",
+        "Monte Carlo method in statistical physics",
+        "Quasi-Monte Carlo method",
+        "Dynamic Monte Carlo method",
+        "Quantum Monte Carlo",
+        "Monte Carlo integration",
+        "Monte Carlo molecular modeling",
+        "Algorithm",
+        "Monte Carlo method",
+        "Hybrid Monte Carlo",
+        "Mathematics"
+    ],
+    "references": [
+        "1579775238",
+        "1780536734",
+        "1958971996",
+        "1969215126",
+        "1981745143",
+        "2152801197"
+    ]
+}

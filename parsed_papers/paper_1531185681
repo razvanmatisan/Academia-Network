@@ -1,0 +1,50 @@
+{
+    "id": "1531185681",
+    "title": "A Hybrid Evolutionary Approach for Multicriteria Optimization Problems: Application to the Flow Shop",
+    "venue": "international conference on evolutionary multi criterion optimization",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "El-Ghazali Talbi",
+            "id": "2285658467",
+            "org": "Universite Lille1"
+        },
+        {
+            "name": "Malek Rahoual",
+            "id": "669447257",
+            "org": "Institut d'Informatique / Universites Sciences et de Technologie Houari Boumenne"
+        },
+        {
+            "name": "Mohamed Hakim Mabed",
+            "id": "2679719679",
+            "org": "Institut d'Informatique / Universites Sciences et de Technologie Houari Boumenne"
+        },
+        {
+            "name": "Clarisse Dhaenens",
+            "id": "2030006441",
+            "org": "Universite Lille1"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic algorithm",
+        "Evolutionary algorithm",
+        "Parallel metaheuristic",
+        "Metaheuristic",
+        "Mathematical optimization",
+        "Job shop scheduling",
+        "Distributed computing",
+        "Multi-objective optimization",
+        "Computer science",
+        "Flow shop scheduling",
+        "Job shop",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1787544972",
+        "1967955864",
+        "2055285724",
+        "2109865546",
+        "2114736096",
+        "2116661285"
+    ]
+}

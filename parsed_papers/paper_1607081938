@@ -1,0 +1,53 @@
+{
+    "id": "1607081938",
+    "title": "Prediction of indoor movements using bayesian networks",
+    "venue": "location  and context awareness",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jan Petzold",
+            "id": "2140200348",
+            "org": "Institute of Computer Science, University of Augsburg, Augsburg, Germany#TAB#"
+        },
+        {
+            "name": "Andreas Pietzowski",
+            "id": "231012159",
+            "org": "Institute of Computer Science, University of Augsburg, Augsburg, Germany#TAB#"
+        },
+        {
+            "name": "Faruk Bagci",
+            "id": "2019747641",
+            "org": "Institute of Computer Science, University of Augsburg, Augsburg, Germany#TAB#"
+        },
+        {
+            "name": "Wolfgang Trumler",
+            "id": "92746622",
+            "org": "Institute of Computer Science, University of Augsburg, Augsburg, Germany#TAB#"
+        },
+        {
+            "name": "Theo Ungerer",
+            "id": "2150480963",
+            "org": "Institute of Computer Science, University of Augsburg, Augsburg, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Computer science",
+        "Perceptron",
+        "Ubiquitous computing",
+        "Bayesian network",
+        "Artificial neural network",
+        "Multilayer perceptron",
+        "Dynamic Bayesian network"
+    ],
+    "references": [
+        "175836485",
+        "1489798454",
+        "1521536236",
+        "1528140509",
+        "1563507813",
+        "1566658900",
+        "2009155608"
+    ]
+}

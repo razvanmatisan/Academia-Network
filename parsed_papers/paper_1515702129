@@ -1,0 +1,30 @@
+{
+    "id": "1515702129",
+    "title": "A Trapdoor Permutation Equivalent to Factoring",
+    "venue": "public key cryptography",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Pascal Paillier",
+            "id": "2117657652",
+            "org": "GEMPLUS"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Permutation",
+        "Digital signature",
+        "Public-key cryptography",
+        "Moduli",
+        "Cryptography",
+        "Trapdoor function",
+        "Factorization",
+        "Discrete logarithm",
+        "Mathematics"
+    ],
+    "references": [
+        "219538519",
+        "1529862094",
+        "2156186849"
+    ]
+}

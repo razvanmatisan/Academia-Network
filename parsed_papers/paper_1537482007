@@ -1,0 +1,48 @@
+{
+    "id": "1537482007",
+    "title": "A category based approach for recognition of out-of-vocabulary words",
+    "venue": "international conference on spoken language processing",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Florian Gallwitz",
+            "id": "89660794",
+            "org": "Lehrstuhl fur Mustererkennung, Erlangen-Nurnberg Univ., Germany"
+        },
+        {
+            "name": "Elmar Noth",
+            "id": "2019675586",
+            "org": "Universitat Erlangen-Niirnberg"
+        },
+        {
+            "name": "Heinrich Niemann",
+            "id": "2129074962",
+            "org": "Lehrstuhl fur Mustererkennung|Universitat Erlangen"
+        }
+    ],
+    "fields_of_study": [
+        "Word error rate",
+        "Speech recognition",
+        "Acoustic model",
+        "Word recognition",
+        "Vocabulary",
+        "Natural language processing",
+        "Word lists by frequency",
+        "Speech shadowing",
+        "Language model",
+        "Stop words",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "47415966",
+        "75924252",
+        "106166507",
+        "332336318",
+        "1534448508",
+        "2101059451",
+        "2105986561",
+        "2162965720",
+        "2164517999"
+    ]
+}

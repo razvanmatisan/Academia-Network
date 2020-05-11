@@ -1,0 +1,41 @@
+{
+    "id": "1541823900",
+    "title": "QoS in parallel programming through application managers",
+    "venue": "parallel, distributed and network-based processing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Marco Danelutto",
+            "id": "2107789154",
+            "org": "Dept. of Comput. Sci., Pisa Univ., Italy"
+        }
+    ],
+    "fields_of_study": [
+        "Java package",
+        "Procedural programming",
+        "Distributed computing",
+        "Real time Java",
+        "Parallel computing",
+        "Functional reactive programming",
+        "Concurrent object-oriented programming",
+        "Reactive programming",
+        "Real-time computing",
+        "Extensible programming",
+        "Parallel programming model",
+        "Computer science"
+    ],
+    "references": [
+        "60075760",
+        "1546334208",
+        "1606141496",
+        "1834957564",
+        "1963588736",
+        "1975741277",
+        "1977455879",
+        "1977997149",
+        "2097238385",
+        "2119732906",
+        "2150952308",
+        "2171569614"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "id": "1555467473",
+    "title": "Wireless Agents in Ad Hoc Networks",
+    "venue": "Workshop on Radical Agent Concepts",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Stephen Quirolgico",
+            "id": "2696037208",
+            "org": "Owings Mills"
+        },
+        {
+            "name": "L. Jay Wantz",
+            "id": "1996077565",
+            "org": "Owings Mills"
+        },
+        {
+            "name": "Michael Miller",
+            "id": "2158450152",
+            "org": "Owings Mills"
+        },
+        {
+            "name": "Naveen Srinivasan",
+            "id": "2666622510",
+            "org": "University of Maryland, Baltimore County"
+        },
+        {
+            "name": "Vlad Korolev",
+            "id": "2652789408",
+            "org": "Owings Mills"
+        },
+        {
+            "name": "Michael Fay",
+            "id": "2609431355",
+            "org": "Owings Mills"
+        }
+    ],
+    "fields_of_study": [
+        "Optimized Link State Routing Protocol",
+        "Wireless ad hoc network",
+        "Peer-to-peer",
+        "Vehicular ad hoc network",
+        "Software requirements",
+        "Software framework",
+        "Ad hoc wireless distribution service",
+        "Mobile ad hoc network",
+        "Distributed computing",
+        "Computer science",
+        "Computer network"
+    ],
+    "references": [
+        "1487792061",
+        "1549347942",
+        "1580418386",
+        "1605906729",
+        "1973371066",
+        "2003600644",
+        "2114063134",
+        "2124344619",
+        "2132932625",
+        "2133794215",
+        "2140308918",
+        "2161464758"
+    ]
+}

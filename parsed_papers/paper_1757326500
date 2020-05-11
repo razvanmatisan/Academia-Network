@@ -1,0 +1,38 @@
+{
+    "id": "1757326500",
+    "title": "A Time-based Admission Control Mechanism for IEEE 802.11 Ad Hoc Networks",
+    "venue": "ifip world computer congress wcc",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Carlos Rodrigo Cerveira",
+            "id": "2580492785",
+            "org": "Diretoria de Telecomunicacoes da Marinha"
+        },
+        {
+            "name": "Luis Henrique Maciel Kosmalski Costa",
+            "id": "2154337217",
+            "org": "Universidade Federal do Rio de Janeiro"
+        }
+    ],
+    "fields_of_study": [
+        "Optimized Link State Routing Protocol",
+        "Computer network",
+        "Vehicular ad hoc network",
+        "Wireless ad hoc network",
+        "Admission control",
+        "Ad hoc wireless distribution service",
+        "Ad hoc On-Demand Distance Vector Routing",
+        "Mobile ad hoc network",
+        "Distributed computing",
+        "Offered load",
+        "Computer science"
+    ],
+    "references": [
+        "1531706808",
+        "1542104725",
+        "2102258543",
+        "2129601819",
+        "2148414233"
+    ]
+}

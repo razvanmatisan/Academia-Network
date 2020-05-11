@@ -1,0 +1,36 @@
+{
+    "id": "1577120563",
+    "title": "An Accurate Evaluation of Maurer's Universal Test",
+    "venue": "selected areas in cryptography",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Jean-Sebastien Coron",
+            "id": "2130492708",
+            "org": "Ecole Normale Superieure"
+        },
+        {
+            "name": "David Naccache",
+            "id": "2005500650",
+            "org": "Gemplus Card International"
+        }
+    ],
+    "fields_of_study": [
+        "Heuristic",
+        "Gamut",
+        "Random testing",
+        "Discrete mathematics",
+        "Java",
+        "Randomness",
+        "Probabilistic logic",
+        "Statistics",
+        "Pseudorandom binary sequence",
+        "Randomness tests",
+        "Mathematics"
+    ],
+    "references": [
+        "2025905409",
+        "2041404167",
+        "2601560571"
+    ]
+}

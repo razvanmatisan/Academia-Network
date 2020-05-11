@@ -1,0 +1,49 @@
+{
+    "id": "1549516285",
+    "title": "Parallelization with tree skeletons",
+    "venue": "european conference on parallel processing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Kiminori Matsuzaki",
+            "id": "2142207971",
+            "org": "University of Tokyo"
+        },
+        {
+            "name": "Zhenjiang Hu",
+            "id": "2103628124",
+            "org": "University of Tokyo"
+        },
+        {
+            "name": "Masato Takeichi",
+            "id": "2137344504",
+            "org": "University of Tokyo"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Discrete mathematics",
+        "Tree structure",
+        "Tree traversal",
+        "Data structure",
+        "Theoretical computer science",
+        "Tree (data structure)",
+        "Distributed computing",
+        "Skeleton (computer programming)",
+        "Operator (computer programming)",
+        "Incremental decision tree",
+        "Program transformation",
+        "Mathematics"
+    ],
+    "references": [
+        "29985591",
+        "1514157278",
+        "1549220908",
+        "1552339343",
+        "1776654319",
+        "1827496441",
+        "2039520891",
+        "2086688035",
+        "2158798722"
+    ]
+}

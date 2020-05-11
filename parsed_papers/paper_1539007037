@@ -1,0 +1,40 @@
+{
+    "id": "1539007037",
+    "title": "Integrating Web Resources to Model Protein Structure and Function",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ludwig Krippahl",
+            "id": "25281380",
+            "org": "Universidade Nova de Lisboa"
+        }
+    ],
+    "fields_of_study": [
+        "Protein Data Bank",
+        "Data mining",
+        "Web service",
+        "Distributed computing",
+        "Web resource",
+        "Information integration",
+        "Server",
+        "Semantic Web",
+        "Computer science",
+        "Protein structure database",
+        "Bioinformatics",
+        "Data modeling"
+    ],
+    "references": [
+        "76057038",
+        "1490019423",
+        "1531733014",
+        "1585335141",
+        "2060809301",
+        "2101330776",
+        "2106957945",
+        "2110863368",
+        "2124871329",
+        "2141885858",
+        "2161062388"
+    ]
+}

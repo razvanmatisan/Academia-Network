@@ -1,0 +1,41 @@
+{
+    "id": "124635070",
+    "title": "Language identification of names with SVMs",
+    "venue": "north american chapter of the association for computational linguistics",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Aditya Bhargava",
+            "id": "2171558249",
+            "org": "University of Alberta, Edmonton, Alberta, Canada#TAB#"
+        },
+        {
+            "name": "Grzegorz Kondrak",
+            "id": "330825386",
+            "org": "University of Alberta, Edmonton, Alberta, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Universal Networking Language",
+        "Language transfer",
+        "Cache language model",
+        "Natural language",
+        "Natural language processing",
+        "Artificial intelligence",
+        "Machine learning",
+        "Language identification",
+        "Computer science",
+        "Natural language programming",
+        "Object language",
+        "Language model"
+    ],
+    "references": [
+        "190082078",
+        "2118585731",
+        "2128862864",
+        "2140943754",
+        "2149427046",
+        "2153635508",
+        "2165734924"
+    ]
+}

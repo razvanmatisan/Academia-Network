@@ -1,0 +1,43 @@
+{
+    "id": "1601730660",
+    "title": "Platform Independent Web Application Modeling",
+    "venue": "International Conference on the Unified Modeling Language",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Pierre-Alain Muller",
+            "id": "2192537623",
+            "org": "ESSAIMUniversite de Haute-Alsace"
+        },
+        {
+            "name": "Philippe Studer",
+            "id": "2122047140",
+            "org": "ESSAIMUniversite de Haute-Alsace"
+        },
+        {
+            "name": "Jean Bezivin",
+            "id": "2010491942",
+            "org": "Universite de Nantes"
+        }
+    ],
+    "fields_of_study": [
+        "Model-driven architecture",
+        "Web modeling",
+        "Unified Modeling Language",
+        "Java",
+        "Metamodeling",
+        "Database",
+        "Web information system",
+        "Dynamic web page",
+        "Web application",
+        "Computer science"
+    ],
+    "references": [
+        "1485499088",
+        "1493267071",
+        "1552255008",
+        "1967583234",
+        "2011837843",
+        "2802806545"
+    ]
+}

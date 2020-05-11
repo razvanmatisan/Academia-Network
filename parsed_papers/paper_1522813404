@@ -1,0 +1,33 @@
+{
+    "id": "1522813404",
+    "title": "Intuitionistic Multiplicative Proof Nets as Models of Directed Acyclic Graph Descriptions",
+    "venue": "international conference on logic programming",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Guy Perrier",
+            "id": "2427300818",
+            "org": "Universite Nancy 2"
+        }
+    ],
+    "fields_of_study": [
+        "Intuitionistic logic",
+        "Directed acyclic graph",
+        "Proof theory",
+        "Tree (graph theory)",
+        "Proof net",
+        "Algorithm",
+        "Discrete mathematics",
+        "Directed graph",
+        "Structural proof theory",
+        "Combinatorics",
+        "Linear logic",
+        "Mathematics"
+    ],
+    "references": [
+        "1602425092",
+        "1995475723",
+        "2125167152",
+        "2155149900"
+    ]
+}

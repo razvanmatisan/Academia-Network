@@ -1,0 +1,33 @@
+{
+    "id": "1565648767",
+    "title": "An approach to data-driven learning",
+    "venue": "FAIR '91 Proceedings of the International Workshop on Fundamentals of Artificial Intelligence Research",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Zdravko Markov",
+            "id": "2040732510",
+            "org": "Bulgarian Academy of Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Data-driven learning",
+        "Active learning (machine learning)",
+        "Instance-based learning",
+        "Unsupervised learning",
+        "Algorithmic learning theory",
+        "Competitive learning",
+        "Computational learning theory",
+        "Machine learning",
+        "Proactive learning",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "3598440",
+        "69354871",
+        "1563172951",
+        "1999138184",
+        "2012170877"
+    ]
+}

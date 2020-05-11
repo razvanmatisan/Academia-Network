@@ -1,0 +1,32 @@
+{
+    "id": "1602726879",
+    "title": "Validation of Process Models by Construction of Process Nets",
+    "venue": "business process management",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Jorg Desel",
+            "id": "711210281",
+            "org": "Katholische Universitat Eichstatt"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Systems engineering",
+        "Process architecture",
+        "Business process",
+        "Work in process",
+        "Information system",
+        "Petri net",
+        "Process modeling",
+        "Data mining"
+    ],
+    "references": [
+        "1487158608",
+        "1522939185",
+        "1576317809",
+        "1585278061",
+        "2087409327",
+        "2113355185"
+    ]
+}

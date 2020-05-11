@@ -1,0 +1,47 @@
+{
+    "id": "1534246842",
+    "title": "CPM: A Cube Presentation Model for OLAP",
+    "venue": "data warehousing and knowledge discovery",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Andreas S. Maniatis",
+            "id": "1978373148",
+            "org": "National Technical Univ. of Athens"
+        },
+        {
+            "name": "Panos Vassiliadis",
+            "id": "1919126655",
+            "org": "University of Ioannina"
+        },
+        {
+            "name": "Spiros Skiadopoulos",
+            "id": "1924801540",
+            "org": "National Technical Univ. of Athens"
+        },
+        {
+            "name": "Yannis Vassiliou",
+            "id": "46255660",
+            "org": "National Technical Univ. of Athens"
+        }
+    ],
+    "fields_of_study": [
+        "Presentational and representational acting",
+        "Online analytical processing",
+        "Logical conjunction",
+        "Cube",
+        "Computer science",
+        "Database",
+        "Formal specification",
+        "Logical data model",
+        "Data processing"
+    ],
+    "references": [
+        "2014267653",
+        "2072764742",
+        "2096551070",
+        "2103201239",
+        "2135615857",
+        "2143694248"
+    ]
+}

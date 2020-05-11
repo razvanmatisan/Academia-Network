@@ -1,0 +1,50 @@
+{
+    "id": "13992906",
+    "title": "Supporting the Requirements Prioritization Process. A Machine Learning approach.",
+    "venue": "software engineering and knowledge engineering",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Paolo Avesani",
+            "id": "2122337053",
+            "org": "University of Trento"
+        },
+        {
+            "name": "Cinzia Bazzanella",
+            "id": "1255157075",
+            "org": "University of Trento"
+        },
+        {
+            "name": "Anna Perini",
+            "id": "2063336780",
+            "org": "University of Trento"
+        },
+        {
+            "name": "Angelo Susi",
+            "id": "2708003438",
+            "org": "University of Trento"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Active learning (machine learning)",
+        "Pairwise comparison",
+        "Requirements engineering",
+        "Multi-task learning",
+        "Software release life cycle",
+        "Computer science",
+        "Requirement prioritization",
+        "Analytic hierarchy process",
+        "Scalability",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "111192294",
+        "1552767446",
+        "1556232501",
+        "1583369417",
+        "2082204982",
+        "2158902403"
+    ]
+}

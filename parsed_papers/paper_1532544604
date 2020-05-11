@@ -1,0 +1,33 @@
+{
+    "id": "1532544604",
+    "title": "Generating Routes with Bio-inspired Algorithms under Uncertainty",
+    "venue": "hybrid artificial intelligence systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Maria Belen Vaquerizo Garcia",
+            "id": "2146602978",
+            "org": "Languages and Systems Area, Burgos University, Burgos,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Uncertain data",
+        "Heuristic (computer science)",
+        "Heuristic",
+        "Fuzzy transportation",
+        "Fuzzy set",
+        "Ant colony optimization algorithms",
+        "Mathematical optimization",
+        "Optimal design",
+        "Algorithm",
+        "Computer science",
+        "Fuzzy number"
+    ],
+    "references": [
+        "1801849579",
+        "2075270510",
+        "2107941094",
+        "2126554879",
+        "2154929945"
+    ]
+}

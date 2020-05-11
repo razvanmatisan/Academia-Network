@@ -1,0 +1,59 @@
+{
+    "id": "1529313332",
+    "title": "Support Vector Machines with Clustering for Training with Very Large Datasets",
+    "venue": "hellenic conference on artificial intelligence",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Theodoros Evgeniou",
+            "id": "3786149",
+            "org": "University of Siena"
+        },
+        {
+            "name": "Theodoros Evgeniou",
+            "id": "3786149",
+            "org": "University of Siena"
+        },
+        {
+            "name": "Theodoros Evgeniou",
+            "id": "3786149",
+            "org": "University of Siena"
+        },
+        {
+            "name": "Massimiliano Pontil",
+            "id": "2167964723",
+            "org": "University of Siena"
+        },
+        {
+            "name": "Massimiliano Pontil",
+            "id": "2167964723",
+            "org": "University of Siena"
+        },
+        {
+            "name": "Massimiliano Pontil",
+            "id": "2167964723",
+            "org": "University of Siena"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Training set",
+        "Support vector machine",
+        "Data mining",
+        "Artificial intelligence",
+        "Machine learning",
+        "Data set",
+        "Decision boundary",
+        "Curse of dimensionality",
+        "Computer science"
+    ],
+    "references": [
+        "1601142477",
+        "1621799579",
+        "1899157803",
+        "2024184249",
+        "2119821739",
+        "2139212933",
+        "2148603752"
+    ]
+}

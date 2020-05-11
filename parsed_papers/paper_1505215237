@@ -1,0 +1,30 @@
+{
+    "id": "1505215237",
+    "title": "Data Types as Lattices: Retractions, Closures and Projections.",
+    "venue": "Theoretical Informatics and Applications",
+    "year": 1977,
+    "authors": [
+        {
+            "name": "Luis E. Sanchis",
+            "id": "2525563697",
+            "org": "Syracuse University"
+        }
+    ],
+    "fields_of_study": [
+        "Computation",
+        "Data type",
+        "Closure (computer programming)",
+        "Mathematical logic",
+        "Lattice (order)",
+        "Functional analysis",
+        "Combinatorics",
+        "Data structure",
+        "Mathematics",
+        "Theory of computation"
+    ],
+    "references": [
+        "1523016082",
+        "1595372275",
+        "2093541252"
+    ]
+}

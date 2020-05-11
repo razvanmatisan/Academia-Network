@@ -1,0 +1,42 @@
+{
+    "id": "1490582271",
+    "title": "An approximate subgame-perfect equilibrium computation technique for repeated games",
+    "venue": "national conference on artificial intelligence",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Andriy Burkov",
+            "id": "2069309966",
+            "org": "DAMAS Laboratory, Laval University, Quebec, Canada#TAB#"
+        },
+        {
+            "name": "Brahim Chaib-draa",
+            "id": "111233263",
+            "org": "DAMAS Laboratory, Laval University, Quebec, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hypercube",
+        "Mathematical optimization",
+        "Mathematical economics",
+        "Game theory",
+        "Mathematics",
+        "Discrete mathematics",
+        "Repeated game",
+        "Finite-state machine",
+        "Subgame perfect equilibrium",
+        "Integer",
+        "Equilibrium point",
+        "Stochastic game"
+    ],
+    "references": [
+        "1490410513",
+        "1588352969",
+        "1991799203",
+        "2025299767",
+        "2083639782",
+        "2121180068",
+        "2121863487",
+        "2135017242"
+    ]
+}

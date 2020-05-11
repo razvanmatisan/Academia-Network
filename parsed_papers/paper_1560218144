@@ -1,0 +1,33 @@
+{
+    "id": "1560218144",
+    "title": "A Mereological Semantics of Contexts",
+    "venue": "International Conference on Innovative Techniques and Applications of Artificial Intelligence",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Ander Altuna",
+            "id": "2148678645",
+            "org": "University of Leeds"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Knowledge representation and reasoning",
+        "Formal semantics (linguistics)",
+        "Natural language processing",
+        "Denotational semantics",
+        "Computational semantics",
+        "Operational semantics",
+        "Action semantics",
+        "Mathematics",
+        "Artificial intelligence",
+        "Well-founded semantics"
+    ],
+    "references": [
+        "1524953991",
+        "1555476679",
+        "1561988463",
+        "1856279567",
+        "2319216046"
+    ]
+}

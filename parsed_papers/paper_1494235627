@@ -1,0 +1,43 @@
+{
+    "id": "1494235627",
+    "title": "Experience-based support for code inspections",
+    "venue": "wissensmanagement",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Markus Nick",
+            "id": "2343382633",
+            "org": "Fraunhofer Institute for Experimental Software Engineering (IESE), Kaiserslautern, Germany#TAB#"
+        },
+        {
+            "name": "Christian Denger",
+            "id": "736650895",
+            "org": "Fraunhofer Institute for Experimental Software Engineering (IESE), Kaiserslautern, Germany#TAB#"
+        },
+        {
+            "name": "Torsten Willrich",
+            "id": "2002991255",
+            "org": "Fraunhofer Institute for Experimental Software Engineering (IESE), Kaiserslautern, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Formal methods",
+        "Knowledge base",
+        "Systems engineering",
+        "Knowledge engineering",
+        "Software development",
+        "Software development process",
+        "Distributed computing",
+        "Software",
+        "Computer science",
+        "Artificial intelligence",
+        "Software inspection"
+    ],
+    "references": [
+        "1570337830",
+        "1721296466",
+        "2137274169",
+        "2143422709",
+        "2161407365"
+    ]
+}

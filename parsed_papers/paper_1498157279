@@ -1,0 +1,36 @@
+{
+    "id": "1498157279",
+    "title": "Strong generative capacity, weak generative capacity, and modern linguistic theories",
+    "venue": "Computational Linguistics",
+    "year": 1984,
+    "authors": [
+        {
+            "name": "Robert C. Berwick",
+            "id": "246668279",
+            "org": "MIT Artificial Intelligence Laboratory, Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Predicate (grammar)",
+        "Generative grammar",
+        "Natural language processing",
+        "Strong generative capacity",
+        "Natural language",
+        "Linguistics",
+        "Artificial intelligence",
+        "Generative lexicon",
+        "Syntax",
+        "Transformational grammar",
+        "Generalized phrase structure grammar",
+        "Computer science"
+    ],
+    "references": [
+        "1512054282",
+        "1982449618",
+        "2000404811",
+        "2050781547",
+        "2103939851",
+        "2136280457",
+        "2570452470"
+    ]
+}

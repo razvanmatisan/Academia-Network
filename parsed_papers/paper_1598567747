@@ -1,0 +1,32 @@
+{
+    "id": "1598567747",
+    "title": "On the unit of selection in sexual populations",
+    "venue": "european conference on artificial life",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Richard A. Watson",
+            "id": "2101194707",
+            "org": "School of Electronics and Computer Science, University of Southampton, U.K.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Fitness landscape",
+        "Artificial intelligence",
+        "Genetic recombination",
+        "Natural selection",
+        "Local search (optimization)",
+        "Population",
+        "Natural population growth",
+        "Unit of selection",
+        "Sexual selection",
+        "Computer science"
+    ],
+    "references": [
+        "1494775672",
+        "1530529893",
+        "1533419692",
+        "1639032689",
+        "1765868291"
+    ]
+}

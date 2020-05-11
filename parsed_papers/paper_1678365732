@@ -1,0 +1,48 @@
+{
+    "id": "1678365732",
+    "title": "Runtime configuration validation for self-configurable systems",
+    "venue": "integrated network management",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Ludi Akue",
+            "id": "23360913",
+            "org": "IRIT, Univ. de Toulouse, Toulouse, France"
+        },
+        {
+            "name": "Emmanuel Lavinal",
+            "id": "661154432",
+            "org": "IRIT, Univ. de Toulouse, Toulouse, France"
+        },
+        {
+            "name": "Thierry Desprats",
+            "id": "2781219043",
+            "org": "IRIT, Univ. de Toulouse, Toulouse, France"
+        },
+        {
+            "name": "Michelle Sibilla",
+            "id": "352947527",
+            "org": "IRIT, Univ. de Toulouse, Toulouse, France"
+        }
+    ],
+    "fields_of_study": [
+        "Software deployment",
+        "Distributed computing",
+        "Formal specification",
+        "Runtime verification",
+        "Message passing",
+        "Metamodeling",
+        "Real-time computing",
+        "Computer science",
+        "Middleware",
+        "Formal verification"
+    ],
+    "references": [
+        "179401272",
+        "1548052439",
+        "2074539977",
+        "2133518322",
+        "2168028588",
+        "2172023956"
+    ]
+}

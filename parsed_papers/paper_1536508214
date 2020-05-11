@@ -1,0 +1,38 @@
+{
+    "id": "1536508214",
+    "title": "Distinguishing Exponent Digits by Observing Modular Subtractions",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Colin D. Walter",
+            "id": "2170406325",
+            "org": "Datacard platform 7seven"
+        },
+        {
+            "name": "Susan Thompson",
+            "id": "2489914071",
+            "org": "Datacard platform 7seven"
+        }
+    ],
+    "fields_of_study": [
+        "Key size",
+        "Discrete mathematics",
+        "Arithmetic",
+        "SAFER",
+        "Modular arithmetic",
+        "Modular exponentiation",
+        "Exponentiation",
+        "Timing attack",
+        "Public-key cryptography",
+        "Small number",
+        "Mathematics"
+    ],
+    "references": [
+        "1581260209",
+        "1587481360",
+        "1613874182",
+        "1664808737",
+        "1996360405"
+    ]
+}

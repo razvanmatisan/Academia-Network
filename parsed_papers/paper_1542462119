@@ -1,0 +1,66 @@
+{
+    "id": "1542462119",
+    "title": "IntPatch: automatically fix integer-overflow-to-buffer-overflow vulnerability at compile-time",
+    "venue": "european symposium on research in computer security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Chao Zhang",
+            "id": "2662809797",
+            "org": "Institute of Computer Science and Technology, Peking University, Key Laboratory of Network and Software Security Assurance, Peking University, Ministry of Education#TAB#"
+        },
+        {
+            "name": "Tielei Wang",
+            "id": "2110459679",
+            "org": "Institute of Computer Science and Technology, Peking University, Key Laboratory of Network and Software Security Assurance, Peking University, Ministry of Education#TAB#"
+        },
+        {
+            "name": "Tao Wei",
+            "id": "2581995918",
+            "org": "Institute of Computer Science and Technology, Peking University, Key Laboratory of Network and Software Security Assurance, Peking University, Ministry of Education#TAB#"
+        },
+        {
+            "name": "Yu Chen",
+            "id": "2776234132",
+            "org": "Institute of Computer Science and Technology, Peking University, Key Laboratory of Network and Software Security Assurance, Peking University, Ministry of Education#TAB#"
+        },
+        {
+            "name": "Wei Zou",
+            "id": "2686418746",
+            "org": "Institute of Computer Science and Technology, Peking University, Key Laboratory of Network and Software Security Assurance, Peking University, Ministry of Education#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Integer overflow",
+        "Distributed computing",
+        "Computer security",
+        "Vulnerability management",
+        "Compile time",
+        "Test suite",
+        "Buffer overflow",
+        "Compiler",
+        "Real-time computing",
+        "Secure coding",
+        "Software security assurance"
+    ],
+    "references": [
+        "1112477",
+        "127238549",
+        "1506510492",
+        "1531991464",
+        "1536898727",
+        "1588398995",
+        "1710734607",
+        "1963569294",
+        "1982205631",
+        "1988847661",
+        "2009489720",
+        "2096449544",
+        "2130908989",
+        "2132897303",
+        "2153185479",
+        "2156268601",
+        "2293624369"
+    ]
+}

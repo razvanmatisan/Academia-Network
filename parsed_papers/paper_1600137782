@@ -1,0 +1,51 @@
+{
+    "id": "1600137782",
+    "title": "Spatial-yap: a logic-based geographic information system",
+    "venue": "international conference on logic programming",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "David Vaz",
+            "id": "2223052039",
+            "org": "DCC-FC & LIACC, University of Porto, Portugal#TAB#"
+        },
+        {
+            "name": "Michel Ferreira",
+            "id": "2118904275",
+            "org": "DCC-FC & LIACC, University of Porto, Portugal#TAB#"
+        },
+        {
+            "name": "Ricardo Lopes",
+            "id": "2250664765",
+            "org": "DCC-FC & LIACC, University of Porto, Portugal#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Database theory",
+        "Theoretical computer science",
+        "Spatial data infrastructure",
+        "Spatial database",
+        "Database",
+        "Computer science",
+        "Deductive database",
+        "Database design",
+        "Database testing",
+        "Data mining",
+        "Database model",
+        "Data modeling"
+    ],
+    "references": [
+        "1500046621",
+        "1506785016",
+        "1517647375",
+        "1532202692",
+        "1559302439",
+        "1596887828",
+        "1608721320",
+        "1709916280",
+        "2036363185",
+        "2059558261",
+        "2085609918",
+        "2173637788"
+    ]
+}

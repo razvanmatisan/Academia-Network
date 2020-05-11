@@ -1,0 +1,25 @@
+{
+    "id": "1530432905",
+    "title": "Recent work with the AL system",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1977,
+    "authors": [
+        {
+            "name": "Ron Goldman",
+            "id": "2287116933",
+            "org": "Stanford Artificial Intelligence Laboratory, Stanford, California#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Debugger",
+        "Simulation",
+        "Theoretical computer science",
+        "Manipulator",
+        "Computer science"
+    ],
+    "references": [
+        "2002961520"
+    ]
+}

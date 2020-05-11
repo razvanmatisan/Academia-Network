@@ -1,0 +1,42 @@
+{
+    "id": "1500623758",
+    "title": "Unified patterns to transform business rules into an event coordination mechanism",
+    "venue": "business process management",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Willem De Roover",
+            "id": "1993047388",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Jan Vanthienen",
+            "id": "153925120",
+            "org": "Katholieke Universiteit Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Semantics of Business Vocabulary and Business Rules",
+        "Business domain",
+        "Process management",
+        "Business Process Model and Notation",
+        "Business architecture",
+        "Business process modeling",
+        "Artifact-centric business process model",
+        "Business process management",
+        "Business rule"
+    ],
+    "references": [
+        "1592989832",
+        "1688777878",
+        "1714132059",
+        "2078590050",
+        "2082124373",
+        "2092212613",
+        "2139889174",
+        "2148165409",
+        "2151737601",
+        "2152891152"
+    ]
+}

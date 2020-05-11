@@ -1,0 +1,41 @@
+{
+    "id": "1526015668",
+    "title": "Reasoning with Sets of Preferences in Default Logic",
+    "venue": "pacific rim international conference on artificial intelligence",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "James P. Delgrande",
+            "id": "11409961",
+            "org": "Simon Fraser University"
+        },
+        {
+            "name": "Torsten Schaub",
+            "id": "2167873233",
+            "org": "Universitat Potsdam"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Commonsense reasoning",
+        "Default rule",
+        "Knowledge representation and reasoning",
+        "Default argument",
+        "Default logic",
+        "Automated theorem proving",
+        "Default",
+        "Knowledge-based systems",
+        "Mathematics"
+    ],
+    "references": [
+        "1501348379",
+        "1552604813",
+        "1563695708",
+        "1581728926",
+        "1713752834",
+        "2076439421",
+        "2105597099",
+        "2155322595"
+    ]
+}

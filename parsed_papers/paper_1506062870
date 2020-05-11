@@ -1,0 +1,42 @@
+{
+    "id": "1506062870",
+    "title": "Analyzing Programs with Explicit Parallelism",
+    "venue": "languages and compilers for parallel computing",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Harini Srinivasan",
+            "id": "2687725414",
+            "org": "Oregon Graduate Institute"
+        },
+        {
+            "name": "Michael Wolfe",
+            "id": "2045813758",
+            "org": "Oregon Graduate Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Task parallelism",
+        "Theoretical computer science",
+        "Explicit parallelism",
+        "Parallel computing",
+        "Control flow",
+        "Data parallelism",
+        "Control flow graph",
+        "Precedence graph",
+        "Computer science",
+        "Static single assignment form",
+        "Basic block"
+    ],
+    "references": [
+        "1563916470",
+        "1978076389",
+        "2006239873",
+        "2019611783",
+        "2036520154",
+        "2054739713",
+        "2076090418",
+        "2103795388",
+        "2177772636"
+    ]
+}

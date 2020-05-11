@@ -1,0 +1,33 @@
+{
+    "id": "142764021",
+    "title": "Reducing policy degradation in neuro-dynamic programming.",
+    "venue": "the european symposium on artificial neural networks",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Thomas Gabel",
+            "id": "2010185526",
+            "org": "University of Osnabr"
+        },
+        {
+            "name": "Martin A. Riedmiller",
+            "id": "2003780605",
+            "org": "University of Osnabr"
+        }
+    ],
+    "fields_of_study": [
+        "Bellman equation",
+        "Machine learning",
+        "Error-driven learning",
+        "Artificial intelligence",
+        "Reinforcement learning",
+        "Computer science",
+        "Function approximation",
+        "Dynamic programming"
+    ],
+    "references": [
+        "1570407429",
+        "2101533993",
+        "2120346334"
+    ]
+}

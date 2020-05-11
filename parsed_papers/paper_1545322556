@@ -1,0 +1,47 @@
+{
+    "id": "1545322556",
+    "title": "Optimal Speedups for Parallel Pattern Matching in Trees",
+    "venue": "rewriting techniques and applications",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "R. Ramesh",
+            "id": "2698590325",
+            "org": "State University of New York at Stony Brook"
+        },
+        {
+            "name": "I. V. Ramakrishnan",
+            "id": "2893777981",
+            "org": "State University of New York at Stony Brook"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Computer science",
+        "Discrete mathematics",
+        "Pattern matching",
+        "Program optimization",
+        "Parallel algorithm",
+        "Special case",
+        "Sequential algorithm",
+        "Parallel random-access machine",
+        "Theoretical computer science",
+        "Rewriting",
+        "Symbolic computation"
+    ],
+    "references": [
+        "23873786",
+        "124080003",
+        "1486410626",
+        "1539274846",
+        "1602002795",
+        "2004618348",
+        "2015874281",
+        "2022143201",
+        "2078629151",
+        "2130566259",
+        "2140380153",
+        "2421250929",
+        "2434820933"
+    ]
+}

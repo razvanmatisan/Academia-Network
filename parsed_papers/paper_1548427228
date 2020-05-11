@@ -1,0 +1,31 @@
+{
+    "id": "1548427228",
+    "title": "Combination of Context-Free Grammars and Tree Automata for Unranked and Ranked Trees",
+    "venue": "international conference on implementation and application of automata",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Akio Fujiyoshi",
+            "id": "2005204336",
+            "org": "Department of Computer and Information Sciences, Ibaraki University, Hitachi, Japan 316-8511#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "S-attributed grammar",
+        "Tree traversal",
+        "Top-down parsing",
+        "Tree structure",
+        "Natural language processing",
+        "Regular tree grammar",
+        "Artificial intelligence",
+        "Deterministic context-free grammar",
+        "L-attributed grammar",
+        "Context-free grammar",
+        "Pattern recognition",
+        "Computer science"
+    ],
+    "references": [
+        "1586668623",
+        "2527631689"
+    ]
+}

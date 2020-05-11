@@ -1,0 +1,43 @@
+{
+    "id": "123777865",
+    "title": "Video Retrieval Method Using a Sequence of Representative Images in a Scene",
+    "venue": "Journal of Machine Vision and Applications",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Akio Nagasaka",
+            "id": "2022864905",
+            "org": "Central Research Lab|Hitachi , Ltd"
+        },
+        {
+            "name": "Takafumi Miyatake",
+            "id": "2033211149",
+            "org": "Central Research Lab|Hitachi , Ltd"
+        },
+        {
+            "name": "Hirotada Ueda",
+            "id": "2133423873",
+            "org": "Central Research Lab|Hitachi , Ltd"
+        }
+    ],
+    "fields_of_study": [
+        "Video compression picture types",
+        "Computer vision",
+        "Artificial intelligence",
+        "Video processing",
+        "Video tracking",
+        "Video capture",
+        "Multiview Video Coding",
+        "Video denoising",
+        "Computer graphics (images)",
+        "Information filtering system",
+        "Computer science"
+    ],
+    "references": [
+        "1720324328",
+        "1776985898",
+        "1963597005",
+        "2040153501",
+        "2048764735"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1412432965",
+    "title": "Model-Based Evaluation of Adaptive User Interfaces",
+    "venue": "ambient intelligence",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Michael Quade",
+            "id": "2155276160",
+            "org": "Technische Universitat Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "User interface design",
+        "Computer science",
+        "Simulation",
+        "Usability",
+        "Human-computer interaction",
+        "User interface",
+        "User modeling"
+    ],
+    "references": [
+        "1485552965",
+        "1497254196",
+        "1990429137",
+        "2003511471",
+        "2035080477",
+        "2056776201",
+        "2091966727",
+        "2100194376",
+        "2105297890",
+        "2134816385",
+        "2140341567"
+    ]
+}

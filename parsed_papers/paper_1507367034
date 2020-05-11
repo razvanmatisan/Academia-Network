@@ -1,0 +1,49 @@
+{
+    "id": "1507367034",
+    "title": "Security of a leakage-resilient protocol for key establishment and mutual authentication",
+    "venue": "provable security",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Raphael C.-W. Phan",
+            "id": "2306257003",
+            "org": "Laboratoire de securite et de cryptographie, EPFL, Lausanne, Switzerland#TAB#"
+        },
+        {
+            "name": "Kim-Kwang Raymond Choo",
+            "id": "2318895841",
+            "org": "Canberra, Australia#TAB#"
+        },
+        {
+            "name": "Swee-Huay Heng",
+            "id": "2096738332",
+            "org": "Centre for Cryptography and Information Security, Faculty of Information Science and Technology, Multimedia University, Malaysia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "S/KEY",
+        "Password policy",
+        "Security association",
+        "Security service",
+        "Computer security",
+        "Challenge-response authentication",
+        "Computer science",
+        "Authentication protocol",
+        "Computer security model",
+        "One-time password"
+    ],
+    "references": [
+        "1491774018",
+        "1505202270",
+        "1527465840",
+        "1562429580",
+        "1973307918",
+        "2121226752",
+        "2124926080",
+        "2135555438",
+        "2153281696",
+        "2162719060",
+        "2493686639"
+    ]
+}

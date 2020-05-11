@@ -1,0 +1,48 @@
+{
+    "id": "1502050579",
+    "title": "Geometric feature-based skin image classification",
+    "venue": "international conference on intelligent computing",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Jinfeng Yang",
+            "id": "2630305365",
+            "org": "Tianjin Key Lab for Advanced Signal Processing, Civil Aviation University of China, Tianjin, P.R. China#TAB#"
+        },
+        {
+            "name": "Yihua Shi",
+            "id": "2655281694",
+            "org": "Tianjin Key Lab for Advanced Signal Processing, Civil Aviation University of China, Tianjin, P.R. China#TAB#"
+        },
+        {
+            "name": "Mingliang Xiao",
+            "id": "2138649405",
+            "org": "Tianjin Key Lab for Advanced Signal Processing, Civil Aviation University of China, Tianjin, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Nonparametric statistics",
+        "Feature detection (computer vision)",
+        "Machine learning",
+        "Similarity measure",
+        "Contextual image classification",
+        "Cosine similarity",
+        "Classifier (linguistics)",
+        "Pattern recognition",
+        "SKIN REGIONS",
+        "Computer vision",
+        "Computer science"
+    ],
+    "references": [
+        "1480498941",
+        "1563720727",
+        "1587328194",
+        "1598505157",
+        "2000358470",
+        "2095503497",
+        "2121601095",
+        "2140798815",
+        "2153746365"
+    ]
+}

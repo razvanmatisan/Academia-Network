@@ -1,0 +1,37 @@
+{
+    "id": "1535673853",
+    "title": "Integrating External Sources in a Corporate Semantic Web Managed by a Multi-agent System",
+    "venue": "national conference on artificial intelligence",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Tuan-Dung Cao",
+            "id": "2117480809",
+            "org": "ACACIA Laboratory"
+        },
+        {
+            "name": "Fabien Gandon",
+            "id": "608938111",
+            "org": "ACACIA Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Data Web",
+        "Web standards",
+        "Semantic Web",
+        "Web modeling",
+        "Semantic analytics",
+        "Semantic grid",
+        "Social Semantic Web",
+        "Computer science",
+        "Data mining",
+        "Semantic Web Stack"
+    ],
+    "references": [
+        "1583219738",
+        "2119268974",
+        "2140308918",
+        "2153072229",
+        "2171417200"
+    ]
+}

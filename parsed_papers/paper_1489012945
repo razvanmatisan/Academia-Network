@@ -1,0 +1,41 @@
+{
+    "id": "1489012945",
+    "title": "Dynamic Semantics for Conceptual Graphs",
+    "venue": "international conference on conceptual structures",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Gwen Kerdiles",
+            "id": "2036801089",
+            "org": "University of Montpellier"
+        },
+        {
+            "name": "Gwen Kerdiles",
+            "id": "2036801089",
+            "org": "University of Montpellier"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Discourse representation theory",
+        "Conceptual graph",
+        "Discrete mathematics",
+        "Formal semantics (linguistics)",
+        "Natural language processing",
+        "Truth condition",
+        "Operational semantics",
+        "Computational semantics",
+        "Artificial intelligence",
+        "Mathematics",
+        "Well-founded semantics"
+    ],
+    "references": [
+        "1493596129",
+        "1499449884",
+        "1524953991",
+        "1568595417",
+        "1821580039",
+        "1852900300",
+        "2174287231"
+    ]
+}

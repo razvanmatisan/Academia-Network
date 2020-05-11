@@ -1,0 +1,38 @@
+{
+    "id": "1538541689",
+    "title": "Service-Oriented Architecture of TeleCARE",
+    "venue": "OTM Confederated International Conferences \"On the Move to Meaningful Internet Systems\"",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Victor Guevara-Masis",
+            "id": "2125762582",
+            "org": "University of Amsterdam"
+        },
+        {
+            "name": "Hamideh Afsarmanesh",
+            "id": "139710438",
+            "org": "University of Amsterdam"
+        },
+        {
+            "name": "Louis O. Hertzberger",
+            "id": "2177168825",
+            "org": "University of Amsterdam"
+        }
+    ],
+    "fields_of_study": [
+        "Reuse",
+        "Computer engineering",
+        "Embedded system",
+        "Architecture",
+        "Reusability",
+        "Service-oriented architecture",
+        "Multi-agent system",
+        "Telecare",
+        "Software",
+        "Engineering"
+    ],
+    "references": [
+        "1554082021"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1571783273",
+    "title": "Joint rate allocation and routing scheme in multihop cellular CDMA networks",
+    "venue": "international symposium on computers and communications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Mahdi Shabany",
+            "id": "2017816527",
+            "org": "Dept. of Electr. & Comput. Eng., Toronto Univ., Ont., Canada"
+        },
+        {
+            "name": "Elvino S. Sousa",
+            "id": "2145669547",
+            "org": "Dept. of Electr. & Comput. Eng., Toronto Univ., Ont., Canada"
+        }
+    ],
+    "fields_of_study": [
+        "Code division multiple access",
+        "Heuristic (computer science)",
+        "Time complexity",
+        "Computer network",
+        "Distributed computing",
+        "Telecommunications link",
+        "Knapsack problem",
+        "Throughput",
+        "Mathematical optimization",
+        "Computer science",
+        "Cell breathing",
+        "Optimization problem"
+    ],
+    "references": [
+        "1660350378",
+        "1675992197",
+        "1727997960",
+        "2100958239",
+        "2105820960",
+        "2165510626"
+    ]
+}

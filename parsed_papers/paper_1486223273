@@ -1,0 +1,30 @@
+{
+    "id": "1486223273",
+    "title": "Wireless sensor networks, making a difference tomorrow",
+    "venue": "ubiquitous intelligence and computing",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Mohamed K. Watfa",
+            "id": "1966947894",
+            "org": "Computer Science Department, American University of Beirut, Lebanon#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Wireless sensor network",
+        "Distributed computing",
+        "Computer science",
+        "Computer network",
+        "Sensor node",
+        "Key distribution in wireless sensor networks",
+        "Visual sensor network",
+        "Cooperative diversity"
+    ],
+    "references": [
+        "1512735907",
+        "1541256735",
+        "1984810345",
+        "2148963518",
+        "2152121970"
+    ]
+}

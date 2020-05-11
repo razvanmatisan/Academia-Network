@@ -1,0 +1,50 @@
+{
+    "id": "1713126207",
+    "title": "Deciding Presburger Arithmetic by Model Checking and Comparisons with Other Methods",
+    "venue": "formal methods in computer aided design",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Vijay Ganesh",
+            "id": "2235683801",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Sergey Berezin",
+            "id": "2143851450",
+            "org": "Stanford University"
+        },
+        {
+            "name": "David L. Dill",
+            "id": "2148325455",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Parameterized complexity",
+        "Model checking",
+        "Presburger arithmetic",
+        "Discrete mathematics",
+        "Satisfiability",
+        "Binary decision diagram",
+        "Boolean satisfiability problem",
+        "Algorithm",
+        "Inductive logic programming",
+        "Mathematics",
+        "Formal verification"
+    ],
+    "references": [
+        "1540012118",
+        "1818793721",
+        "1822301642",
+        "1990150118",
+        "2008770192",
+        "2037690395",
+        "2080267935",
+        "2097699872",
+        "2115207428",
+        "2117189826",
+        "2149932816"
+    ]
+}

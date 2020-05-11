@@ -1,0 +1,50 @@
+{
+    "id": "1695061484",
+    "title": "KeyGraph-based chance discovery for mobile contents management system",
+    "venue": "International Journal of Knowledge-based and Intelligent Engineering Systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Kyung-Joong Kim",
+            "id": "2511422732",
+            "org": "Department of Computer Science, Yonsei University, 134 Shinchon-dong, Sudaemmon-ku, Seoul, 120-749, South Korea#TAB#"
+        },
+        {
+            "name": "Myung-Chul Jung",
+            "id": "2134200469",
+            "org": "Department of Computer Science, Yonsei University, 134 Shinchon-dong, Sudaemmon-ku, Seoul, 120-749, South Korea#TAB#"
+        },
+        {
+            "name": "Sung-Bae Cho",
+            "id": "2287563723",
+            "org": "Department of Computer Science, Yonsei University, 134 Shinchon-dong, Sudaemmon-ku, Seoul, 120-749, South Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Active listening",
+        "Machine learning",
+        "Computer science",
+        "Mobile device",
+        "Data mining",
+        "Artificial intelligence",
+        "Management system",
+        "Intrusion detection system",
+        "Content creation",
+        "Stock market prediction",
+        "Recall",
+        "Internet privacy",
+        "The Internet"
+    ],
+    "references": [
+        "91150412",
+        "1496434545",
+        "1605114373",
+        "1638133288",
+        "1981822424",
+        "2016340943",
+        "2020858979",
+        "2022317205",
+        "2044675247",
+        "2172067026"
+    ]
+}

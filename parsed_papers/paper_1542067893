@@ -1,0 +1,35 @@
+{
+    "id": "1542067893",
+    "title": "Interaction with GIS attribute data based on categorical coverages",
+    "venue": "conference on spatial information theory",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Gary S. Volta",
+            "id": "1980503076",
+            "org": "University of Maine"
+        },
+        {
+            "name": "Max J. Egenhofer",
+            "id": "66103918",
+            "org": "University of Maine"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Shell (computing)",
+        "Computer science",
+        "Natural user interface",
+        "User interface design",
+        "Interactivity",
+        "Attribute domain",
+        "User interface",
+        "Dialog box",
+        "Interactive systems engineering"
+    ],
+    "references": [
+        "1544752055",
+        "2001024950",
+        "2168502142"
+    ]
+}

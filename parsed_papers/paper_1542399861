@@ -1,0 +1,40 @@
+{
+    "id": "1542399861",
+    "title": "Parallel genetic algorithm and parallel simulated annealing algorithm for the closest string problem",
+    "venue": "advanced data mining and applications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Xuan Liu",
+            "id": "2643027665",
+            "org": "Department of Computer Science, Loughborough University, Loughborough, Leicestershire, The United Kingdom#TAB#"
+        },
+        {
+            "name": "Hongmei He",
+            "id": "2107797641",
+            "org": "Department of Computer Science, Loughborough University, Loughborough, Leicestershire, The United Kingdom#TAB#"
+        },
+        {
+            "name": "Ondrej Sykora",
+            "id": "568665636",
+            "org": "Department of Computer Science, Loughborough University, Loughborough, Leicestershire, The United Kingdom#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Genetic algorithm",
+        "Commentz-Walter algorithm",
+        "Machine learning",
+        "String (computer science)",
+        "Simulated annealing",
+        "Mathematical optimization",
+        "Parallel algorithm",
+        "Closest string",
+        "Computer science",
+        "Adaptive simulated annealing"
+    ],
+    "references": [
+        "2077595184",
+        "2085239230"
+    ]
+}

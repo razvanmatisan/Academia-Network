@@ -1,0 +1,46 @@
+{
+    "id": "180723211",
+    "title": "Automatic Face Recognition Using Multi-Algorithmic Approaches",
+    "venue": "international conference on contemporary computing",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "S. M. Zakariya",
+            "id": "2015065254",
+            "org": "Aligarh Muslim University"
+        },
+        {
+            "name": "Rashid Ali",
+            "id": "2622861916",
+            "org": "Aligarh Muslim University"
+        },
+        {
+            "name": "Manzoor Ahmad Lone",
+            "id": "2120600380",
+            "org": "Baba Ghulam Shah Badshah University"
+        }
+    ],
+    "fields_of_study": [
+        "Biometrics",
+        "Face detection",
+        "Face Recognition Grand Challenge",
+        "Artificial intelligence",
+        "Template matching",
+        "Three-dimensional face recognition",
+        "Pattern recognition",
+        "Principal component analysis",
+        "Computer science",
+        "Facial recognition system",
+        "Discrete cosine transform"
+    ],
+    "references": [
+        "1498915505",
+        "1982753412",
+        "2033419168",
+        "2113341759",
+        "2120954940",
+        "2121601095",
+        "2143355474",
+        "2146865366"
+    ]
+}

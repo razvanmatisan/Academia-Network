@@ -1,0 +1,38 @@
+{
+    "id": "1590779745",
+    "title": "Control Synthesis for a Smart Card Personalization System Using Symbolic Model Checking",
+    "venue": "formal modeling and analysis of timed systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Biniam Gebremichael",
+            "id": "2074778853",
+            "org": "University of Nijmegen"
+        },
+        {
+            "name": "Frits W. Vaandrager",
+            "id": "2040884273",
+            "org": "University of Nijmegen"
+        }
+    ],
+    "fields_of_study": [
+        "Model checking",
+        "Smart card",
+        "Theoretical computer science",
+        "Scheduling (computing)",
+        "Computer science",
+        "Enumeration",
+        "Personalization",
+        "Control theory",
+        "Supervisory control",
+        "Distributed computing"
+    ],
+    "references": [
+        "1511152484",
+        "1878516677",
+        "2078984959",
+        "2097153213",
+        "2111132249",
+        "2165645602"
+    ]
+}

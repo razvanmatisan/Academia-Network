@@ -1,0 +1,33 @@
+{
+    "id": "1512868770",
+    "title": "Quantitative generalizations of languages",
+    "venue": "developments in language theory",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Thomas A. Henzinger",
+            "id": "2707196735",
+            "org": "EPFL, Switzerland, and University of California, Berkeley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Abstract family of languages",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Regular language",
+        "Generalization",
+        "Pumping lemma for regular languages",
+        "Finite-state machine",
+        "Observable",
+        "Nondeterministic finite automaton",
+        "Omega",
+        "Mathematics"
+    ],
+    "references": [
+        "1495299640",
+        "1551707370",
+        "1601155136",
+        "1757114815",
+        "2142119680"
+    ]
+}

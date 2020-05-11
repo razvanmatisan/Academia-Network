@@ -1,0 +1,39 @@
+{
+    "id": "1550211750",
+    "title": "Where Are the Christmas Decorations?: A Memory Assistant for Storage Locations",
+    "venue": "applications of natural language to data bases",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Lewis G. Creary",
+            "id": "2047272155",
+            "org": "Software Technology Laboratory|HP Laboratories"
+        },
+        {
+            "name": "Michael VanHilst",
+            "id": "1438645915",
+            "org": "Software Technology Laboratory|HP Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Natural language",
+        "Natural language understanding",
+        "Natural language processing",
+        "Component-based software engineering",
+        "Artificial intelligence",
+        "Wireless",
+        "World Wide Web",
+        "Knowledge representation and reasoning",
+        "Front and back ends",
+        "Dialog box",
+        "Know-how"
+    ],
+    "references": [
+        "1535992660",
+        "1566056932",
+        "1965563707",
+        "2096999549",
+        "2100674109"
+    ]
+}

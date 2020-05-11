@@ -1,0 +1,37 @@
+{
+    "id": "1514551334",
+    "title": "An Implemented Context System that Combines Belief Reasoning, Metaphor-Based Reasoning and Uncertainty Handling",
+    "venue": "Contexts",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "John A. Barnden",
+            "id": "2048255181",
+            "org": "The University of Birmingham"
+        },
+        {
+            "name": "Mark G. Lee",
+            "id": "2163650827",
+            "org": "The University of Birmingham"
+        }
+    ],
+    "fields_of_study": [
+        "Procedural reasoning system",
+        "Opportunistic reasoning",
+        "Deductive reasoning",
+        "Reasoning system",
+        "Model-based reasoning",
+        "Qualitative reasoning",
+        "Natural language processing",
+        "Artificial intelligence",
+        "Verbal reasoning",
+        "Computer science",
+        "Adaptive reasoning"
+    ],
+    "references": [
+        "1697030722",
+        "1994925375",
+        "2122838682",
+        "2152325153"
+    ]
+}

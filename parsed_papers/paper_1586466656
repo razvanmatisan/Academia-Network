@@ -1,0 +1,40 @@
+{
+    "id": "1586466656",
+    "title": "A Secure Intelligent Trade Agent System",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Xun Yi",
+            "id": "2576154338",
+            "org": "National University of Singapore"
+        },
+        {
+            "name": "XiaoFeng Wang",
+            "id": "2126067721",
+            "org": "National University of Singapore"
+        },
+        {
+            "name": "Kwok-Yan Lam",
+            "id": "2157193625",
+            "org": "National University of Singapore"
+        }
+    ],
+    "fields_of_study": [
+        "Timestamp",
+        "Mobile agent",
+        "Autonomous agent",
+        "Certificate authority",
+        "Computer security",
+        "Authentication",
+        "Payment",
+        "Server",
+        "Computer science"
+    ],
+    "references": [
+        "1484100760",
+        "1510940979",
+        "1996360405",
+        "2098801947"
+    ]
+}

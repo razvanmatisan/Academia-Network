@@ -1,0 +1,41 @@
+{
+    "id": "1567684443",
+    "title": "Superlinear Speedup for Parallel Backtracking",
+    "venue": "international conference on supercomputing",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Ewald Speckenmeyer",
+            "id": "205210985",
+            "org": "Universitat-GH Paderborn"
+        },
+        {
+            "name": "Burkhard Monien",
+            "id": "2145586035",
+            "org": "Universitat-GH Paderborn"
+        },
+        {
+            "name": "Oliver Vornberger",
+            "id": "13186653",
+            "org": "Universitat-GH Paderborn"
+        }
+    ],
+    "fields_of_study": [
+        "Conjunctive normal form",
+        "Analysis of algorithms",
+        "Satisfiability",
+        "Mathematical optimization",
+        "Backtracking",
+        "Speedup",
+        "Travelling salesman problem",
+        "Theoretical computer science",
+        "Boolean satisfiability problem",
+        "Mathematics",
+        "Phenomenon"
+    ],
+    "references": [
+        "1977119258",
+        "2014111643",
+        "2055978814"
+    ]
+}

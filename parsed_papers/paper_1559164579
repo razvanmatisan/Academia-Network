@@ -1,0 +1,46 @@
+{
+    "id": "1559164579",
+    "title": "Querying graph-based repositories of business process models",
+    "venue": "database systems for advanced applications",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Ahmed Awad",
+            "id": "2146383343",
+            "org": "HPI, University of Potsdam, Germany#TAB#"
+        },
+        {
+            "name": "Sherif Sakr",
+            "id": "2149582598",
+            "org": "CSE, University of New South Wales, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Business process discovery",
+        "Database",
+        "Computer science",
+        "Business process modeling",
+        "Query expansion",
+        "Query optimization",
+        "Business Process Model and Notation",
+        "Artifact-centric business process model",
+        "Sargable",
+        "RDF query language"
+    ],
+    "references": [
+        "21719431",
+        "52979180",
+        "1501172337",
+        "1524784426",
+        "2011039300",
+        "2065996260",
+        "2078202808",
+        "2096951705",
+        "2097832942",
+        "2098189530",
+        "2131323387",
+        "2139242647",
+        "2163820446"
+    ]
+}

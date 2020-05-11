@@ -1,0 +1,53 @@
+{
+    "id": "1707144927",
+    "title": "Unraveling the complexity of network management",
+    "venue": "networked systems design and implementation",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Theophilus Benson",
+            "id": "2230613528",
+            "org": "University of Wisconsin, Madison#TAB#"
+        },
+        {
+            "name": "Aditya Akella",
+            "id": "2286288562",
+            "org": "University of Wisconsin, Madison#TAB#"
+        },
+        {
+            "name": "David A. Maltz",
+            "id": "2063025135",
+            "org": "Microsoft Research#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Organizational network analysis",
+        "Distributed computing",
+        "Network management station",
+        "Network simulation",
+        "Network architecture",
+        "Network formation",
+        "Network management",
+        "Intelligent computer network",
+        "Dynamic network analysis",
+        "Theoretical computer science",
+        "Computer science"
+    ],
+    "references": [
+        "1557136905",
+        "2020769003",
+        "2038214150",
+        "2115278163",
+        "2120900812",
+        "2138509363",
+        "2138756793",
+        "2139835332",
+        "2140069682",
+        "2144156696",
+        "2145657966",
+        "2148133096",
+        "2150712089",
+        "2164284397",
+        "2753036401"
+    ]
+}

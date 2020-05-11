@@ -1,0 +1,29 @@
+{
+    "id": "1818520512",
+    "title": "A MILP model for single machine family scheduling with sequence-dependent batch setup and controllable processing times.",
+    "venue": "arXiv: Optimization and Control",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Davide Giglio",
+            "id": "2327011629",
+            "org": "University of Genoa"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Job shop scheduling",
+        "Dynamic priority scheduling",
+        "Optimal control",
+        "Scheduling (computing)",
+        "Real-time computing",
+        "State-space representation",
+        "Linear programming",
+        "Dynamic programming",
+        "Computer science",
+        "Technical report"
+    ],
+    "references": [
+        "1175687534"
+    ]
+}

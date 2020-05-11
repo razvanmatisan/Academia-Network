@@ -1,0 +1,44 @@
+{
+    "id": "1494791324",
+    "title": "DRM, trusted computing and operating system architecture",
+    "venue": "grid computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jason F. Reid",
+            "id": "2097832032",
+            "org": "Queensland University of Technology, Brisbane, Australia#TAB#"
+        },
+        {
+            "name": "William J. Caelli",
+            "id": "2014892720",
+            "org": "Queensland University of Technology, Brisbane, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Trusted Computing",
+        "Mandatory access control",
+        "Discretionary access control",
+        "Trusted Network Connect",
+        "Reference monitor",
+        "Operating system",
+        "Direct Anonymous Attestation",
+        "Computer security",
+        "Computer science",
+        "Next-Generation Secure Computing Base",
+        "Trusted client"
+    ],
+    "references": [
+        "1504669610",
+        "1532107268",
+        "1604135736",
+        "1660562555",
+        "1840751233",
+        "1849908010",
+        "2034340506",
+        "2053741629",
+        "2095881341",
+        "2107836699",
+        "2111015674"
+    ]
+}

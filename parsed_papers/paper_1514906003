@@ -1,0 +1,44 @@
+{
+    "id": "1514906003",
+    "title": "A Web-Based Virtual Machine for Developing Computational Societies",
+    "venue": "cooperative information agents",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Sergio Saugar",
+            "id": "2060187416",
+            "org": "Department of Computing, University Rey Juan Carlos,#TAB#"
+        },
+        {
+            "name": "Juan Manuel Serrano",
+            "id": "2294422455",
+            "org": "Department of Computing, University Rey Juan Carlos,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Business process",
+        "Separation of concerns",
+        "Component-based software engineering",
+        "Management science",
+        "Web application",
+        "Computer science",
+        "Virtual machine",
+        "Social network",
+        "Multi-agent system"
+    ],
+    "references": [
+        "1523868966",
+        "1546935709",
+        "1552797176",
+        "1581665037",
+        "1826812870",
+        "1993046441",
+        "2001291669",
+        "2105092702",
+        "2112578244",
+        "2129899354",
+        "2143842650",
+        "2165208522"
+    ]
+}

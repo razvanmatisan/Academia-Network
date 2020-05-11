@@ -1,0 +1,40 @@
+{
+    "id": "1512392581",
+    "title": "Case-Based Reasoning for Breast Cancer Treatment Decision Helping",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Jean Lieber",
+            "id": "2095648341",
+            "org": "LORIA, UMR 7503 - CNRS, INRIA-Lorraine, Nancy Universities"
+        },
+        {
+            "name": "Benoit Bresson",
+            "id": "2020365320",
+            "org": "LORIA, UMR 7503 - CNRS, INRIA-Lorraine, Nancy Universities"
+        }
+    ],
+    "fields_of_study": [
+        "Breast cancer",
+        "Rule-based system",
+        "Reasoning system",
+        "Casimir effect",
+        "Satisfiability",
+        "Case-based reasoning",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "35673591",
+        "79145533",
+        "87784625",
+        "1483419418",
+        "1536052931",
+        "1561442340",
+        "1574772290",
+        "1968686806",
+        "2019270863",
+        "2126385963"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "136659212",
+    "title": "Intelligent learning system based on SCORM learning objects",
+    "venue": "mexican international conference on artificial intelligence",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Liliana Argotte",
+            "id": "224512803",
+            "org": "Instituto de Investigaciones Electricas, Cuernavaca, Morelos, Mexico#TAB#"
+        },
+        {
+            "name": "Julieta Noguez",
+            "id": "2142905091",
+            "org": "Tecnologico de Monterrey, Mexico, D.F., Mexico#TAB#"
+        },
+        {
+            "name": "Gustavo Arroyo",
+            "id": "2131693170",
+            "org": "Instituto de Investigaciones Electricas, Cuernavaca, Morelos, Mexico#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multi-task learning",
+        "Artificial intelligence",
+        "Instance-based learning",
+        "Machine learning",
+        "Active learning (machine learning)",
+        "Synchronous learning",
+        "Robot learning",
+        "Adaptive learning",
+        "Educational technology",
+        "Computer science",
+        "Proactive learning",
+        "Knowledge management"
+    ],
+    "references": [
+        "1511986666",
+        "1532613335",
+        "1993819098",
+        "2103038530"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1531350193",
+    "title": "The HOL-Voss System: Model-Checking inside a General-Purpose Theorem-Prover",
+    "venue": "theorem proving in higher order logics",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Jeffrey J. Joyce",
+            "id": "2139969985",
+            "org": "University of British Columbia"
+        },
+        {
+            "name": "Carl-Johan H. Seger",
+            "id": "1833467962",
+            "org": "University of British Columbia"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "HOL",
+        "Symbolic trajectory evaluation",
+        "Systems modeling",
+        "Algorithm",
+        "System model",
+        "Computer science",
+        "Formal verification",
+        "Automated theorem proving",
+        "Proof assistant",
+        "Adder"
+    ],
+    "references": [
+        "2096039823",
+        "2108016168",
+        "2130308292"
+    ]
+}

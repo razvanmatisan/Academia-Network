@@ -1,0 +1,38 @@
+{
+    "id": "136616565",
+    "title": "SearchSleuth: The conceptual neighbourhood of an Web query",
+    "venue": "concept lattices and their applications",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Jon Ducrou",
+            "id": "2032657562",
+            "org": "University of Wollongong"
+        },
+        {
+            "name": "Peter W. Eklund",
+            "id": "2151507793",
+            "org": "University of Wollongong"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Web search query",
+        "Data Web",
+        "Web standards",
+        "Neighbourhood (mathematics)",
+        "Query language",
+        "Query expansion",
+        "Computer science",
+        "Web query classification",
+        "Formal concept analysis"
+    ],
+    "references": [
+        "1491871671",
+        "1521477250",
+        "1574321183",
+        "1608095763",
+        "2139653758",
+        "2800379426"
+    ]
+}

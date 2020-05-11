@@ -1,0 +1,30 @@
+{
+    "id": "1493650454",
+    "title": "Advanced performance features of the 64-bit PA-8000",
+    "venue": "ieee computer society international conference",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Doug Hunt",
+            "id": "2341415489",
+            "org": "Lab. of Eng. Syst., Hewlett-Packard Co., Fort Collins, CO, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Reduced instruction set computing",
+        "Parallel computing",
+        "Architecture",
+        "Re-order buffer",
+        "Cache",
+        "Out-of-order execution",
+        "Clock rate",
+        "Real-time computing",
+        "Instructions per cycle",
+        "Microarchitecture",
+        "Computer science"
+    ],
+    "references": [
+        "2294452557",
+        "2535861704"
+    ]
+}

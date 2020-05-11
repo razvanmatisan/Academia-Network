@@ -1,0 +1,35 @@
+{
+    "id": "1768296270",
+    "title": "Integrating probabilistic rules into neural networks: a stochastic EM learning algorithm",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Gerhard Paass",
+            "id": "2630473905",
+            "org": "International Computer Science Institute, Berkeley, California#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Data mining",
+        "Estimation of distribution algorithm",
+        "Stochastic neural network",
+        "Special case",
+        "Algorithm",
+        "Deep learning",
+        "Probabilistic relevance model",
+        "Probabilistic logic",
+        "Probabilistic analysis of algorithms",
+        "Probabilistic neural network",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Mathematics"
+    ],
+    "references": [
+        "113489683",
+        "2042492924",
+        "2049488596",
+        "2159080219"
+    ]
+}

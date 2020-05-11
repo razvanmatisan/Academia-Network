@@ -1,0 +1,37 @@
+{
+    "id": "1483355856",
+    "title": "Context-Aware Web Applications Using the Pinpoint Infrastructure.",
+    "venue": "ICWI",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jorg Roth",
+            "id": "2123464930",
+            "org": "University of Hagen"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile phone",
+        "Mobile search",
+        "Web application",
+        "Location awareness",
+        "World Wide Web",
+        "Mobile Web",
+        "Software",
+        "Internet privacy",
+        "Server",
+        "Mobile computing",
+        "Computer science"
+    ],
+    "references": [
+        "1566248475",
+        "1600943379",
+        "1882088395",
+        "2017231306",
+        "2036218035",
+        "2094204865",
+        "2112737587",
+        "2143157063",
+        "2160170050"
+    ]
+}

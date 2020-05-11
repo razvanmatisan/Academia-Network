@@ -1,0 +1,32 @@
+{
+    "id": "1581080230",
+    "title": "Compiling functional languages for SIMD architectures",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Guido K. Jouret",
+            "id": "2403284244",
+            "org": "Dept. of Comput., Imperial Coll. of Sci., Technol. & Med., London, UK"
+        }
+    ],
+    "fields_of_study": [
+        "SIMD",
+        "Computer science",
+        "Data type",
+        "Parallel computing",
+        "Computation",
+        "Data parallelism",
+        "Distributed computing",
+        "Functional programming",
+        "Computer architecture",
+        "Architecture",
+        "Program transformation",
+        "Central processing unit"
+    ],
+    "references": [
+        "30164083",
+        "2094969361",
+        "2164890169"
+    ]
+}

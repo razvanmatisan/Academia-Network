@@ -1,0 +1,34 @@
+{
+    "id": "1522830053",
+    "title": "Pregroups: Models and Grammars",
+    "venue": "ReIMICS '01 Revised Papers from the 6th International Conference and 1st Workshop of COST Action 274 TARSKI on Relational Methods in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Wojciech Buszkowski",
+            "id": "338782538",
+            "org": "Adam Mickiewicz University"
+        }
+    ],
+    "fields_of_study": [
+        "Equivalence (measure theory)",
+        "Monotonic function",
+        "Partially ordered set",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Monotone polygon",
+        "Left and right",
+        "Group theory",
+        "Mathematics",
+        "Context-free grammar",
+        "Weak equivalence"
+    ],
+    "references": [
+        "1515040640",
+        "1585815400",
+        "1770609059",
+        "1977671303",
+        "2124686456",
+        "2162977162"
+    ]
+}

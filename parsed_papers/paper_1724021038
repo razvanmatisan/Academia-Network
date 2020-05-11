@@ -1,0 +1,44 @@
+{
+    "id": "1724021038",
+    "title": "The Delivery of Effective Integrated Community Care with the Aid of Agents",
+    "venue": "international conference on semantic computing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Martin D. Beer",
+            "id": "2799239006",
+            "org": "University of Liverpool"
+        },
+        {
+            "name": "Trevor J. M. Bench-Capon",
+            "id": "283571327",
+            "org": "University of Liverpool"
+        },
+        {
+            "name": "Andrew Sixsmith",
+            "id": "2065312208",
+            "org": "University of Liverpool"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge engineering",
+        "Process management",
+        "Command and control",
+        "Information system",
+        "Architecture",
+        "Management system",
+        "Distributed computing",
+        "Distributed database",
+        "Knowledge-based systems",
+        "Autonomous system (Internet)",
+        "Computer science",
+        "Knowledge management"
+    ],
+    "references": [
+        "1497067564",
+        "1798096159",
+        "1924184621",
+        "2124344619",
+        "2626304854"
+    ]
+}

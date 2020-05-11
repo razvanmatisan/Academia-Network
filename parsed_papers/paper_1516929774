@@ -1,0 +1,45 @@
+{
+    "id": "1516929774",
+    "title": "Intelligent sequential mining via alignment: optimization techniques for very large DB",
+    "venue": "knowledge discovery and data mining",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Hye-Chung Kum",
+            "id": "2009632042",
+            "org": "University of North Carolina at Chapel Hill, Chapel Hill, NC#TAB#"
+        },
+        {
+            "name": "Joong Hyuk Chang",
+            "id": "2655177091",
+            "org": "University of Illinois at Urbana-Champaign, Urbana, IL#TAB#"
+        },
+        {
+            "name": "Wei Wang",
+            "id": "2315689540",
+            "org": "University of North Carolina at Chapel Hill, Chapel Hill, NC#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Sequential Pattern Mining",
+        "Artificial intelligence",
+        "Data mining",
+        "Machine learning",
+        "Cluster analysis",
+        "Sequence alignment",
+        "Matrix (mathematics)",
+        "Computer science",
+        "Very large database",
+        "k-means clustering",
+        "Limiting"
+    ],
+    "references": [
+        "1546482236",
+        "1556242451",
+        "1596201101",
+        "1676985236",
+        "2036482831",
+        "2158035799",
+        "2158454296"
+    ]
+}

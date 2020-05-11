@@ -1,0 +1,36 @@
+{
+    "id": "1502232895",
+    "title": "Mental Processing of Geographic Knowledge",
+    "venue": "conference on spatial information theory",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Thomas Barkowsky",
+            "id": "2235947797",
+            "org": "University of Hamburg"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Computer science",
+        "Diagrammatic reasoning",
+        "Human-computer interaction",
+        "Mental image",
+        "Knowledge representation and reasoning",
+        "Body of knowledge",
+        "Cognitive map",
+        "Mental processing",
+        "Mental representation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1517957937",
+        "1533402434",
+        "1555992608",
+        "1576946081",
+        "1588853612",
+        "1590400400",
+        "1990100773",
+        "2018756677"
+    ]
+}

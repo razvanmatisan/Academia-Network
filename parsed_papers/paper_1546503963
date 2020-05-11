@@ -1,0 +1,30 @@
+{
+    "id": "1546503963",
+    "title": "Gaussian Mixture Models.",
+    "venue": "Encyclopedia of Biometrics",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Douglas A. Reynolds",
+            "id": "2121974799",
+            "org": "Massachusetts Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Parametric statistics",
+        "Parametric model",
+        "Probability distribution",
+        "Speaker recognition",
+        "Gaussian",
+        "Probability density function",
+        "Mixture model",
+        "Maximum a posteriori estimation",
+        "Mathematics",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "2041823554",
+        "2165880886"
+    ]
+}

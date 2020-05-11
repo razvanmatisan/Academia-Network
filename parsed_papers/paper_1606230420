@@ -1,0 +1,35 @@
+{
+    "id": "1606230420",
+    "title": "Autonomous Road Vehicle Guidance in Normal Traffic",
+    "venue": "asian conference on computer vision",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Frank Thomanek",
+            "id": "1971736988",
+            "org": "Universitat der Bundeswehr Munich"
+        },
+        {
+            "name": "Ernst Dieter Dickmanns",
+            "id": "2806011949",
+            "org": "Universitat der Bundeswehr Munich"
+        }
+    ],
+    "fields_of_study": [
+        "Vehicle Information and Communication System",
+        "Computer vision",
+        "Image segmentation",
+        "Artificial intelligence",
+        "Machine vision",
+        "Video tracking",
+        "Architecture",
+        "Sensor fusion",
+        "Computer science",
+        "System integration",
+        "Machine perception"
+    ],
+    "references": [
+        "2043642041",
+        "2135984867"
+    ]
+}

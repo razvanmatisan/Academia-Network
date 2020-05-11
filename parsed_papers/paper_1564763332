@@ -1,0 +1,41 @@
+{
+    "id": "1564763332",
+    "title": "Developing e-business portals with dynamic multi-level workflows on the multi-layer grid",
+    "venue": "ieee international conference on e-technology, e-commerce and e-service",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jia Hu",
+            "id": "2722709152",
+            "org": "Dept. of Inf. Eng., Maebashi Inst. of Technol., Japan"
+        },
+        {
+            "name": "Ning Zhong",
+            "id": "2157949701",
+            "org": "Dept. of Inf. Eng., Maebashi Inst. of Technol., Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Event-driven process chain",
+        "Web intelligence",
+        "Enterprise application integration",
+        "Grid computing",
+        "Systems engineering",
+        "Architecture",
+        "Database",
+        "Enterprise software",
+        "Business process management",
+        "Computer science",
+        "Enterprise portal"
+    ],
+    "references": [
+        "1565383536",
+        "1882145185",
+        "1992832970",
+        "2009577334",
+        "2015475952",
+        "2035701332",
+        "2122827509",
+        "2127050504"
+    ]
+}

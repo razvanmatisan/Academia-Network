@@ -1,0 +1,42 @@
+{
+    "id": "1595462066",
+    "title": "Human localization by fuzzy spiking neural network based on informationally structured space",
+    "venue": "international conference on neural information processing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Dalai Tang",
+            "id": "2101113014",
+            "org": "Dept. of System Design, Tokyo Metropolitan University, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Naoyuki Kubota",
+            "id": "2154258890",
+            "org": "Dept. of System Design, Tokyo Metropolitan University, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Types of artificial neural networks",
+        "Machine learning",
+        "Wireless sensor network",
+        "Time delay neural network",
+        "Physical neural network",
+        "Nervous system network models",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Artificial neural network",
+        "Random neural network",
+        "Computer science",
+        "Spiking neural network"
+    ],
+    "references": [
+        "1778220775",
+        "2030149851",
+        "2105358617",
+        "2108449247",
+        "2112106168",
+        "2132888444",
+        "2158609418",
+        "2167297329"
+    ]
+}

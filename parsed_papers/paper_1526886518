@@ -1,0 +1,41 @@
+{
+    "id": "1526886518",
+    "title": "Modeling social attitudes on the web",
+    "venue": "international semantic web conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Matthias Nickles",
+            "id": "1865561956",
+            "org": "AI/Cognition Group, Department of Computer Science, Technical University of Munich, Garching b. Munchen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Web intelligence",
+        "Data mining",
+        "Web standards",
+        "Social Semantic Web",
+        "Web modeling",
+        "Description logic",
+        "Semantic Web",
+        "World Wide Web",
+        "Computer science",
+        "Ontology (information science)",
+        "Semantic Web Stack",
+        "Knowledge management"
+    ],
+    "references": [
+        "26285581",
+        "113266598",
+        "133283653",
+        "164623876",
+        "1499011913",
+        "1886844571",
+        "1972241288",
+        "2053900676",
+        "2096959337",
+        "2145465694",
+        "2146751989"
+    ]
+}

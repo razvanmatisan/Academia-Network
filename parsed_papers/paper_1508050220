@@ -1,0 +1,37 @@
+{
+    "id": "1508050220",
+    "title": "Motion sketch: acquisition of visual motion guided behaviors",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Takayuki Nakamura",
+            "id": "2240371813",
+            "org": "Dept. of Mechanical Eng. for Computer-Controlled Machinery, Osaka University, Suita, Japan#TAB#"
+        },
+        {
+            "name": "Minoru Asada",
+            "id": "2079479084",
+            "org": "Dept. of Mechanical Eng. for Computer-Controlled Machinery, Osaka University, Suita, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Autonomous agent",
+        "Mobile robot",
+        "Eye tracking",
+        "Sketch",
+        "Computer vision",
+        "Obstacle avoidance",
+        "Simulation",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1993657894",
+        "2009086487",
+        "2121637110",
+        "2138835141",
+        "2144361014",
+        "2149276032"
+    ]
+}

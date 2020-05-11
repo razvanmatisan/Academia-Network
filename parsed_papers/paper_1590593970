@@ -1,0 +1,38 @@
+{
+    "id": "1590593970",
+    "title": "Lower Bounds for One-way Probabilistic Communication Complexity",
+    "venue": "international colloquium on automata languages and programming",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Farid M. Ablayev",
+            "id": "343273345",
+            "org": "Kazan University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Communications protocol",
+        "Boolean function",
+        "Decision tree model",
+        "Computer science",
+        "Combinatorics",
+        "Probabilistic logic",
+        "Worst-case complexity",
+        "Upper and lower bounds",
+        "Circuit complexity",
+        "Communication complexity",
+        "Theoretical computer science"
+    ],
+    "references": [
+        "192892485",
+        "1594335079",
+        "1830022383",
+        "2008671796",
+        "2082036845",
+        "2093303125",
+        "2123750718",
+        "2151303208",
+        "2174130830"
+    ]
+}

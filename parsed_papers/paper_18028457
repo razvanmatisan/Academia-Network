@@ -1,0 +1,34 @@
+{
+    "id": "18028457",
+    "title": "A differential fault attack against early rounds of (triple-)DES",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ludger Hemme",
+            "id": "2228159697",
+            "org": "Giesecke & Devrient GmbH"
+        }
+    ],
+    "fields_of_study": [
+        "Key schedule",
+        "Triple DES",
+        "Key whitening",
+        "Algorithm",
+        "Feistel cipher",
+        "Slide attack",
+        "Fluhrer, Mantin and Shamir attack",
+        "Cipher",
+        "Computer science",
+        "Block cipher"
+    ],
+    "references": [
+        "380217570",
+        "1583816927",
+        "1629301835",
+        "2110162979",
+        "2110941647",
+        "2155441237",
+        "2170489924"
+    ]
+}

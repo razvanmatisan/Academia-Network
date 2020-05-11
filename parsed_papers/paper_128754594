@@ -1,0 +1,33 @@
+{
+    "id": "128754594",
+    "title": "Generating production rules from decision trees",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "J. R. Quinlan",
+            "id": "2569648598",
+            "org": "School of Computing Sciences, New South Wales Institute of Technology, Sydney, Australia and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Expert system",
+        "Grafting (decision trees)",
+        "Decision tree",
+        "Alternating decision tree",
+        "Decision stump",
+        "Decision tree learning",
+        "Computer science",
+        "Incremental decision tree",
+        "Knowledge acquisition",
+        "Pattern recognition",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1570286060",
+        "2128420091",
+        "2149706766",
+        "2150583205"
+    ]
+}

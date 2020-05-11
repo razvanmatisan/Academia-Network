@@ -1,0 +1,34 @@
+{
+    "id": "152126325",
+    "title": "A Pattern Taxonomy for Business Process Integration Oriented Application Integration.",
+    "venue": "software engineering and knowledge engineering",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Helge Hofmeister",
+            "id": "2132679302",
+            "org": "Mobile Systems Group"
+        },
+        {
+            "name": "Guido Wirtz",
+            "id": "2164706548",
+            "org": "University of Bamberg"
+        }
+    ],
+    "fields_of_study": [
+        "Enterprise application integration",
+        "Artificial intelligence systems integration",
+        "Ontology-based data integration",
+        "Systems engineering",
+        "Computer science",
+        "Software development process",
+        "System integration testing",
+        "System integration",
+        "Artifact-centric business process model",
+        "Software development"
+    ],
+    "references": [
+        "1529925985",
+        "1538060644"
+    ]
+}

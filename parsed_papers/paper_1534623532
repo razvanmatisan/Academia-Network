@@ -1,0 +1,49 @@
+{
+    "id": "1534623532",
+    "title": "Using Hierarchical Spatial Data Structures for Hierarchical Spatial Reasoning",
+    "venue": "conference on spatial information theory",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Sabine Timpf",
+            "id": "9053252",
+            "org": "Technical University Vienna"
+        },
+        {
+            "name": "Andrew U. Frank",
+            "id": "2095605808",
+            "org": "Technical University Vienna"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Computer science",
+        "Qualitative reasoning",
+        "Spatial intelligence",
+        "Data mining",
+        "Machine learning",
+        "Quadtree",
+        "Spatial relation",
+        "Data structure",
+        "Spatial analysis",
+        "Knowledge representation and reasoning",
+        "Hierarchical database model"
+    ],
+    "references": [
+        "1480591601",
+        "1491937094",
+        "1504973915",
+        "1506420670",
+        "1523166929",
+        "1525830615",
+        "1540081208",
+        "1555992608",
+        "1593007803",
+        "1751356026",
+        "1779898155",
+        "2015574375",
+        "2029331355",
+        "2074429597",
+        "2238481918"
+    ]
+}

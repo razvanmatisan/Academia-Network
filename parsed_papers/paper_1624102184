@@ -1,0 +1,54 @@
+{
+    "id": "1624102184",
+    "title": "Fuzzy mixed integer programming model for medium-term planning in a closed-loop supply chain with remanufacturing option",
+    "venue": "Journal of Intelligent and Fuzzy Systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Kemal Subulan",
+            "id": "1780890904",
+            "org": "Faculty of Engineering, Department of Industrial Engineering, Dokuz Eylul University, Buca, Izmir, Turkey#TAB#"
+        },
+        {
+            "name": "A. Serdar Tasan",
+            "id": "2212136719",
+            "org": "Faculty of Engineering, Department of Industrial Engineering, Dokuz Eylul University, Buca, Izmir, Turkey#TAB#"
+        },
+        {
+            "name": "Adil Baykasoglu",
+            "id": "2247619037",
+            "org": "Faculty of Engineering, Department of Industrial Engineering, Dokuz Eylul University, Buca, Izmir, Turkey#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Integer programming",
+        "Artificial intelligence",
+        "Production planning",
+        "Mathematics",
+        "Machine learning",
+        "Strategic planning",
+        "Network planning and design",
+        "Fuzzy logic",
+        "Reverse logistics",
+        "Operations management",
+        "Supply chain",
+        "Simulation",
+        "Remanufacturing"
+    ],
+    "references": [
+        "1592341561",
+        "1687324048",
+        "1735048081",
+        "1809855164",
+        "2001855247",
+        "2024111872",
+        "2037122288",
+        "2056980998",
+        "2062488642",
+        "2062488719",
+        "2074189638",
+        "2118885592",
+        "2125140534",
+        "2170566634"
+    ]
+}

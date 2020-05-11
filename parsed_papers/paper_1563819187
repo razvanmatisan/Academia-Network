@@ -1,0 +1,39 @@
+{
+    "id": "1563819187",
+    "title": "Problem Solving in the DISCO Constraint Database System",
+    "venue": "CDB '97 Second International Workshop on Constraint Database Systems, Constraint Databases and Their Applications",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Peter Z. Revesz",
+            "id": "2487869991",
+            "org": "University of Nebraska"
+        }
+    ],
+    "fields_of_study": [
+        "Complexity of constraint satisfaction",
+        "Constraint satisfaction dual problem",
+        "Local consistency",
+        "Database",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Constraint graph",
+        "Mathematical optimization",
+        "Constraint logic programming",
+        "Constraint satisfaction problem",
+        "Mathematics",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "52074576",
+        "129080167",
+        "1486270631",
+        "1530081029",
+        "1530932890",
+        "1572693407",
+        "1589619051",
+        "1596887828",
+        "1600654507",
+        "1913091358",
+        "2022530540"
+    ]
+}

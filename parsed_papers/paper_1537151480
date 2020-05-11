@@ -1,0 +1,30 @@
+{
+    "id": "1537151480",
+    "title": "A Formal Proof Of The Riesz Representation Theorem",
+    "venue": "Journal of Formalized Reasoning",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Anthony Narkawicz",
+            "id": "1915335687",
+            "org": "NASA Langley"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Riesz-Thorin theorem",
+        "Fundamental theorem of calculus",
+        "Analytic proof",
+        "Mathematics",
+        "Mathematical analysis",
+        "Riesz representation theorem",
+        "Arzela-Ascoli theorem",
+        "Proofs of Fermat's little theorem",
+        "Danskin's theorem",
+        "M. Riesz extension theorem"
+    ],
+    "references": [
+        "1509982649",
+        "1559651794"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1492383846",
+    "title": "Semantics of collinearity among regions",
+    "venue": "international conference on move to meaningful internet systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Roland Billen",
+            "id": "1814107618",
+            "org": "Dept. of Geography and Geomatics, University of Glasgow, Glasgow, Scotland, UK#TAB#"
+        },
+        {
+            "name": "Eliseo Clementini",
+            "id": "180789617",
+            "org": "Dept. of Electrical Engineering, University of L'Aquila, Poggio di Roio (AQ), Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Reference Region",
+        "Spatial intelligence",
+        "Semantics",
+        "Distributed computing",
+        "Theoretical computer science",
+        "Spatial relation",
+        "Spatial database",
+        "Collinearity",
+        "Projective test",
+        "Computer science",
+        "The Internet",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1510156564",
+        "1559026684",
+        "2068054771",
+        "2138892503",
+        "2336080569"
+    ]
+}

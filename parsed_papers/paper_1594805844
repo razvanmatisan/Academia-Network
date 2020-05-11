@@ -1,0 +1,32 @@
+{
+    "id": "1594805844",
+    "title": "Networks of Real-Time Processes",
+    "venue": "international conference on concurrency theory",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Robert Kim Yates",
+            "id": "2283257637",
+            "org": "Lawrence Livermore National Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "Computer science",
+        "Scott continuity",
+        "Timestamp",
+        "Asynchronous communication",
+        "Metric space",
+        "Fixed point",
+        "Input/output"
+    ],
+    "references": [
+        "1532473812",
+        "1540703557",
+        "1602114053",
+        "1981514325",
+        "2126860147",
+        "2152364675"
+    ]
+}

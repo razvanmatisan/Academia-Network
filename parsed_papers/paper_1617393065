@@ -1,0 +1,48 @@
+{
+    "id": "1617393065",
+    "title": "Two-dimensional selections for feature-based data exchange",
+    "venue": "geometric modeling and processing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ari Rappoport",
+            "id": "2037811987",
+            "org": "The Hebrew University#TAB#"
+        },
+        {
+            "name": "Steven Spitz",
+            "id": "2305858327",
+            "org": "Proficiency Inc.#TAB#"
+        },
+        {
+            "name": "Michal Etzion",
+            "id": "186107275",
+            "org": "Proficiency Ltd.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data exchange",
+        "Genetic algorithm",
+        "Mathematical optimization",
+        "Machine learning",
+        "Parametric statistics",
+        "Computational geometry",
+        "Architecture",
+        "Algorithm",
+        "Computer science",
+        "Design paradigm",
+        "Operator (computer programming)",
+        "Artificial intelligence",
+        "Computer Aided Design"
+    ],
+    "references": [
+        "1600752240",
+        "2018178315",
+        "2054485867",
+        "2066064993",
+        "2066770373",
+        "2127663142",
+        "2128824863",
+        "2147797905"
+    ]
+}

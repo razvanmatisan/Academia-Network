@@ -1,0 +1,39 @@
+{
+    "id": "1642017190",
+    "title": "A proposal for cooperative robot \"Gunryu\" composed of autonomous segments",
+    "venue": "intelligent robots and systems",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Shigeo Hirose",
+            "id": "2169683505",
+            "org": "Tokyo Inst. of Technol., Japan"
+        },
+        {
+            "name": "Takaya Shiratsu",
+            "id": "2340125651",
+            "org": "Tokyo Inst. of Technol., Japan"
+        },
+        {
+            "name": "Fumihiko Fukushima",
+            "id": "2508871976",
+            "org": "Tokyo Inst. of Technol., Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Simulation",
+        "Control engineering",
+        "Motion control",
+        "Propulsion",
+        "Robot",
+        "Intelligent control",
+        "Artificial intelligence",
+        "Autonomous system (mathematics)",
+        "Mobile robot",
+        "Robotics"
+    ],
+    "references": [
+        "2054115913"
+    ]
+}

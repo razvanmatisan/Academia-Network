@@ -1,0 +1,47 @@
+{
+    "id": "1606001900",
+    "title": "Estimating 3D Polyhedral Building Models by Registering Aerial Images",
+    "venue": "advanced concepts for intelligent vision systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Fadi Dornaika",
+            "id": "2182042274",
+            "org": "University of the Basque Country"
+        },
+        {
+            "name": "Fadi Dornaika",
+            "id": "2182042274",
+            "org": "University of the Basque Country"
+        },
+        {
+            "name": "Karim Hammoudi",
+            "id": "378640862",
+            "org": "Universite Paris-Est"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Computer vision",
+        "3D reconstruction",
+        "Pattern recognition",
+        "Noisy data",
+        "Robustness (computer science)",
+        "Aerial image",
+        "Novelty",
+        "Computer science",
+        "Building model",
+        "Polytope model",
+        "Digital elevation model"
+    ],
+    "references": [
+        "1578987835",
+        "1595159159",
+        "1976798842",
+        "2092041043",
+        "2113937139",
+        "2116392741",
+        "2171194336",
+        "2337319582"
+    ]
+}

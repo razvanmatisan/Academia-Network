@@ -1,0 +1,32 @@
+{
+    "id": "1482435863",
+    "title": "Has Computational Linguistics Become More Applied",
+    "venue": "international conference on computational linguistics",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Kenneth Ward Church",
+            "id": "2172397963",
+            "org": "One Microsoft Way, Redmond, USA 98052#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Word-sense disambiguation",
+        "Natural language processing",
+        "Latent Dirichlet allocation",
+        "Machine translation",
+        "Computational linguistics",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1608789752",
+        "1880262756",
+        "2061271742",
+        "2097333193",
+        "2099247782",
+        "2114930830",
+        "2157963512",
+        "2166354010"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1501425821",
+    "title": "A routing algorithm for wireless ad hoc networks with unidirectional links",
+    "venue": "Wireless Networks",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Ravi Prakash",
+            "id": "2171991321",
+            "org": "University of Texas, Dallas, Richardson, TX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Link-state routing protocol",
+        "Wireless ad hoc network",
+        "Optimized Link State Routing Protocol",
+        "Computer network",
+        "Distributed computing",
+        "Ad hoc wireless distribution service",
+        "Wireless Routing Protocol",
+        "Ad hoc On-Demand Distance Vector Routing",
+        "Algorithm",
+        "Dynamic Source Routing",
+        "Destination-Sequenced Distance Vector routing"
+    ],
+    "references": [
+        "1557449356",
+        "2098502330",
+        "2102258543",
+        "2124651399",
+        "2135035173",
+        "2142868546"
+    ]
+}

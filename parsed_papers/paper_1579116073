@@ -1,0 +1,45 @@
+{
+    "id": "1579116073",
+    "title": "Security information sharing platform over multiple services",
+    "venue": "asia pacific symposium on information and telecommunication technologies",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Bo Hu",
+            "id": "2309740722",
+            "org": "NTT Secure Platform Laboratories, Japan"
+        },
+        {
+            "name": "Yuuichi Murata",
+            "id": "2223827344",
+            "org": "NTT Secure Platform Laboratories, Japan"
+        },
+        {
+            "name": "Junichi Murayama",
+            "id": "2070539681",
+            "org": "School of Information and Telecommunication Engineering, Tokai University, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile search",
+        "Public land mobile network",
+        "Mobile database",
+        "Intelligent Network",
+        "Application security",
+        "Mobile Web",
+        "Computer security",
+        "Computer network",
+        "Network security",
+        "Mobile computing",
+        "Business"
+    ],
+    "references": [
+        "1486402922",
+        "2018992824",
+        "2075718699",
+        "2104692292",
+        "2119365871",
+        "2125513999",
+        "2140656373"
+    ]
+}

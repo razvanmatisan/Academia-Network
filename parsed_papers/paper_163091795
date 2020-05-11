@@ -1,0 +1,31 @@
+{
+    "id": "163091795",
+    "title": "Institute White Pages as a System Administration Problem",
+    "venue": "usenix large installation systems administration conference",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Jon Finke",
+            "id": "2103477186",
+            "org": "Rensselaer Polytechnic Institute#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Working directory",
+        "Directory",
+        "World Wide Web",
+        "Oracle",
+        "Organizational unit",
+        "Database",
+        "Management system",
+        "Directory service",
+        "Lightweight Directory Access Protocol",
+        "Webserver directory index"
+    ],
+    "references": [
+        "117869007",
+        "127778475",
+        "153561398"
+    ]
+}

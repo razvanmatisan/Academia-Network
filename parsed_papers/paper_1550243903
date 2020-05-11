@@ -1,0 +1,43 @@
+{
+    "id": "1550243903",
+    "title": "Modeling User Behavior by Integrating AQ Learning with a Database: Initial Results",
+    "venue": "intelligent information systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Guido Cervone",
+            "id": "1224447547",
+            "org": "George Mason University"
+        },
+        {
+            "name": "Ryszard S. Michalski",
+            "id": "2617907882",
+            "org": "George Mason University"
+        },
+        {
+            "name": "Ryszard S. Michalski",
+            "id": "2617907882",
+            "org": "George Mason University"
+        }
+    ],
+    "fields_of_study": [
+        "Active learning (machine learning)",
+        "Data mining",
+        "Machine learning",
+        "Instance-based learning",
+        "Relational database",
+        "Multi-task learning",
+        "Artificial intelligence",
+        "Database",
+        "Intrusion detection system",
+        "Computer science",
+        "Decision rule",
+        "User modeling"
+    ],
+    "references": [
+        "1484434501",
+        "1557512086",
+        "1931417875",
+        "2165347852"
+    ]
+}

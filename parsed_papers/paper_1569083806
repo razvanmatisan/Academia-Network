@@ -1,0 +1,38 @@
+{
+    "id": "1569083806",
+    "title": "ECA-LP / ECA-RuleML: A Homogeneous Event-Condition-Action Logic Programming Language",
+    "venue": "arXiv: Artificial Intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Adrian Paschke",
+            "id": "2244266493",
+            "org": "Internet-based Information Systems|Technische Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics of Business Vocabulary and Business Rules",
+        "Machine learning",
+        "Data mining",
+        "Artificial intelligence",
+        "RuleML",
+        "Event calculus",
+        "Differentiation rules",
+        "Data integrity",
+        "Logic programming",
+        "Theoretical computer science",
+        "Logic in computer science",
+        "Event condition action",
+        "Computer science"
+    ],
+    "references": [
+        "1523651312",
+        "1579145134",
+        "1589565936",
+        "1852604756",
+        "1968513265",
+        "2022056832",
+        "2064926466",
+        "2142356762"
+    ]
+}

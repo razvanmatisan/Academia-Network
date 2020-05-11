@@ -1,0 +1,40 @@
+{
+    "id": "1480917623",
+    "title": "Lock-free concurrent tree structures for multiprocessor systems",
+    "venue": "international conference on parallel and distributed systems",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Jyh-Jong Tsay",
+            "id": "2106160383",
+            "org": "Dept. of Comput. Sci. & Inf. Eng., Nat. Chung Cheng Univ, Tainan, Taiwan"
+        },
+        {
+            "name": "Hsin-Chi Li",
+            "id": "2114395894",
+            "org": "Depatment of Computer Science and Information Engineering|National Chung Cheng University"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Real-time computing",
+        "Non-blocking algorithm",
+        "Concurrent computing",
+        "Data structure",
+        "Tree (data structure)",
+        "Fault tolerance",
+        "Parallel computing",
+        "Tree structure",
+        "Concurrency",
+        "Computer science",
+        "DEC Alpha"
+    ],
+    "references": [
+        "100806170",
+        "115410205",
+        "1996931099",
+        "2007049062",
+        "2085407655",
+        "2146287723"
+    ]
+}

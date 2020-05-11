@@ -1,0 +1,48 @@
+{
+    "id": "1526861353",
+    "title": "Configuration Management for Networked Reconfigurable Embedded Devices",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Timothy Sullivan",
+            "id": "2516226229",
+            "org": "University College Cork"
+        },
+        {
+            "name": "Richard Studdert",
+            "id": "1970640106",
+            "org": "University College Cork"
+        }
+    ],
+    "fields_of_study": [
+        "Configuration management",
+        "Software design pattern",
+        "Mobile agent",
+        "Reconfigurable computing",
+        "Embedded system",
+        "Network management",
+        "Distributed computing",
+        "Provisioning",
+        "Mobile computing",
+        "Real-time computing",
+        "Software agent",
+        "Computer science"
+    ],
+    "references": [
+        "32157831",
+        "1511577910",
+        "1557557006",
+        "1651696358",
+        "1999454320",
+        "2003850193",
+        "2018942341",
+        "2094246212",
+        "2105656578",
+        "2115294662",
+        "2148734427",
+        "2168170924",
+        "2171439655",
+        "2568601317"
+    ]
+}

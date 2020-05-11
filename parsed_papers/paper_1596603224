@@ -1,0 +1,30 @@
+{
+    "id": "1596603224",
+    "title": "Fixed Point Classification Method for Qualitative Simulation",
+    "venue": "portuguese conference on artificial intelligence",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Martin Takac",
+            "id": "1973557241",
+            "org": "Comenius University"
+        }
+    ],
+    "fields_of_study": [
+        "Qualitative reasoning",
+        "Machine learning",
+        "Fixed point",
+        "Artificial intelligence",
+        "Dynamical system",
+        "Jacobian matrix and determinant",
+        "Computer science",
+        "Physical system"
+    ],
+    "references": [
+        "18096931",
+        "161568496",
+        "1963920034",
+        "1969026226",
+        "2170931970"
+    ]
+}

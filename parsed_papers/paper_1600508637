@@ -1,0 +1,42 @@
+{
+    "id": "1600508637",
+    "title": "On the Constructing of Highly Nonlinear Resilient Boolean Functions by Means of Special Matrices",
+    "venue": "international conference on cryptology in india",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Maria Fedorova",
+            "id": "2162365376",
+            "org": "Moscow State University"
+        },
+        {
+            "name": "Yuriy Tarannikov",
+            "id": "1561341161",
+            "org": "Moscow State University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Boolean function",
+        "Matrix (mathematics)",
+        "Upper and lower bounds",
+        "Nonlinear system",
+        "Stream cipher",
+        "Existential quantification",
+        "Correlation immunity",
+        "Mathematics"
+    ],
+    "references": [
+        "1488367145",
+        "1497234828",
+        "1512363553",
+        "1513214876",
+        "1541483074",
+        "1557382432",
+        "1571317543",
+        "1585247305",
+        "1589266564",
+        "2095027936",
+        "2154271831"
+    ]
+}

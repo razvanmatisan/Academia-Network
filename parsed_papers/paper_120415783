@@ -1,0 +1,30 @@
+{
+    "id": "120415783",
+    "title": "Hidden Markov models for grapheme to phoneme conversion.",
+    "venue": "conference of the international speech communication association",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Paul Taylor",
+            "id": "2498461489",
+            "org": "Machine Intelligence Laboratory|Engineering Department|University of Cambridge"
+        }
+    ],
+    "fields_of_study": [
+        "Grapheme",
+        "Artificial intelligence",
+        "Maximum-entropy Markov model",
+        "Viterbi algorithm",
+        "Speech recognition",
+        "Markov model",
+        "Forward algorithm",
+        "Hidden semi-Markov model",
+        "Pattern recognition",
+        "Computer science",
+        "Hidden Markov model",
+        "Variable-order Markov model"
+    ],
+    "references": [
+        "1779680350"
+    ]
+}

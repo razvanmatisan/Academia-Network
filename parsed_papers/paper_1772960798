@@ -1,0 +1,43 @@
+{
+    "id": "1772960798",
+    "title": "On nonforgetting restarting automata that are deterministic and/or monotone",
+    "venue": "computer science symposium in russia",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Hartmut Messerschmidt",
+            "id": "2092618893",
+            "org": "Fachbereich Mathematik/Informatik, Universitat Kassel, Kassel#TAB#"
+        },
+        {
+            "name": "Friedrich Otto",
+            "id": "2260963057",
+            "org": "Fachbereich Mathematik/Informatik, Universitat Kassel, Kassel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Initialization",
+        "Deterministic finite automaton",
+        "Two-way deterministic finite automaton",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Pushdown automaton",
+        "Timed automaton",
+        "Deterministic automaton",
+        "Monotone polygon",
+        "Mathematics",
+        "Deterministic system (philosophy)"
+    ],
+    "references": [
+        "1481697503",
+        "1485378922",
+        "1520726113",
+        "1553962486",
+        "1562935500",
+        "1602506915",
+        "1867446189",
+        "1984896712",
+        "2067373940",
+        "2514259333"
+    ]
+}

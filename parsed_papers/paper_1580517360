@@ -1,0 +1,45 @@
+{
+    "id": "1580517360",
+    "title": "Synthetic Coordinates for Disjoint Multipath Routing",
+    "venue": "CoreGRID",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Andrei Agapi",
+            "id": "1978856468",
+            "org": "Vrije Universiteit"
+        },
+        {
+            "name": "Thilo Kielmann",
+            "id": "2000018466",
+            "org": "Vrije Universiteit"
+        },
+        {
+            "name": "Henri E. Bal",
+            "id": "2111822219",
+            "org": "Vrije Universiteit"
+        }
+    ],
+    "fields_of_study": [
+        "Forward error correction",
+        "Static routing",
+        "Overlay network",
+        "Policy-based routing",
+        "Quality of service",
+        "Multipath routing",
+        "Distributed computing",
+        "Computer network",
+        "Disjoint sets",
+        "Computer science"
+    ],
+    "references": [
+        "165096015",
+        "2106047794",
+        "2139605553",
+        "2144553078",
+        "2148662748",
+        "2153319198",
+        "2156132650",
+        "2164096563"
+    ]
+}

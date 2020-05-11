@@ -1,0 +1,48 @@
+{
+    "id": "1481338280",
+    "title": "Scalable construction of topic directory with nonparametric closed termset mining",
+    "venue": "international conference on data mining",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Hwanjo Yu",
+            "id": "2779146585",
+            "org": "Dept. of Comput. Sci., Illinois Univ., Urbana, IL, USA"
+        },
+        {
+            "name": "Duane Searsmith",
+            "id": "87915016",
+            "org": "Dept. of Comput. Sci., Illinois Univ., Urbana, IL, USA"
+        },
+        {
+            "name": "Xiaolei Li",
+            "id": "2698759421",
+            "org": "Dept. of Comput. Sci., Illinois Univ., Urbana, IL, USA"
+        },
+        {
+            "name": "Jiawei Han",
+            "id": "2121939561",
+            "org": "Dept. of Comput. Sci., Illinois Univ., Urbana, IL, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Directory",
+        "Information retrieval",
+        "Hierarchical clustering",
+        "Cluster analysis",
+        "Clustering high-dimensional data",
+        "Document clustering",
+        "Consensus clustering",
+        "Computer science",
+        "Data stream clustering",
+        "Brown clustering"
+    ],
+    "references": [
+        "1996764654",
+        "2064853889",
+        "2081980673",
+        "2100958137",
+        "2162034534"
+    ]
+}

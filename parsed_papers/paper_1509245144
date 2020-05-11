@@ -1,0 +1,49 @@
+{
+    "id": "1509245144",
+    "title": "Adaptive workflow nets for grid computing",
+    "venue": "parallel computing technologies",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Cc Carmen Bratosin",
+            "id": "2022108783",
+            "org": "Department of Mathematics and Computer Science, Eindhoven University of Technology, Eindhoven, The Netherlands#TAB#"
+        },
+        {
+            "name": "Kees M. van Hee",
+            "id": "2403276359",
+            "org": "Department of Mathematics and Computer Science, Eindhoven University of Technology, Eindhoven, The Netherlands#TAB#"
+        },
+        {
+            "name": "Natalia Sidorova",
+            "id": "2141819945",
+            "org": "Department of Mathematics and Computer Science, Eindhoven University of Technology, Eindhoven, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Grid",
+        "Grid computing",
+        "Recursion",
+        "Workflow management system",
+        "Workflow",
+        "Orchestration (computing)",
+        "Semantic grid",
+        "Petri net",
+        "Distributed computing",
+        "Theoretical computer science",
+        "Computer science"
+    ],
+    "references": [
+        "1502003955",
+        "1521033741",
+        "1573976127",
+        "1621944069",
+        "2029329491",
+        "2059471034",
+        "2126958110",
+        "2129466958",
+        "2153074919",
+        "2168103533",
+        "2568081765"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1480049974",
+    "title": "On Incremental Computation of Transitive Closure and Greedy Alignment",
+    "venue": "combinatorial pattern matching",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Said Abdeddaim",
+            "id": "2796471194",
+            "org": "Universite Claude Bernard (LYON 1)"
+        }
+    ],
+    "fields_of_study": [
+        "Floyd-Warshall algorithm",
+        "Discrete mathematics",
+        "Transitive closure",
+        "Greedy algorithm",
+        "Directed graph",
+        "Combinatorics",
+        "Greedy coloring",
+        "Multiple sequence alignment",
+        "Transitive reduction",
+        "Linear span",
+        "Mathematics"
+    ],
+    "references": [
+        "1588822927",
+        "1976177462",
+        "2002638840",
+        "2043190038",
+        "2079671823",
+        "2092583980",
+        "2106258670",
+        "2106427151"
+    ]
+}

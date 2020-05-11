@@ -1,0 +1,39 @@
+{
+    "id": "1523796309",
+    "title": "Differentiated Quality of Service in Application Layer Active Networks",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Chris Roadknight",
+            "id": "2870120593",
+            "org": "BT Adastral Park, Martlesham Heath"
+        },
+        {
+            "name": "Ian W. Marshall",
+            "id": "2799225815",
+            "org": "BT Adastral Park"
+        }
+    ],
+    "fields_of_study": [
+        "Active networking",
+        "Genetic algorithm",
+        "Application layer",
+        "Network management",
+        "Quality of service",
+        "Distributed algorithm",
+        "Adaptive control",
+        "Service quality",
+        "Distributed computing",
+        "Computer science"
+    ],
+    "references": [
+        "1614184547",
+        "1664011265",
+        "1997827253",
+        "2052167102",
+        "2113487460",
+        "2138543759",
+        "2148275477"
+    ]
+}

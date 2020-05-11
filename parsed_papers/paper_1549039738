@@ -1,0 +1,37 @@
+{
+    "id": "1549039738",
+    "title": "An Abstract Analysis of the Probabilistic Termination of Programs",
+    "venue": "static analysis symposium",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "David Monniaux",
+            "id": "49816230",
+            "org": "LIENS"
+        }
+    ],
+    "fields_of_study": [
+        "Probabilistic CTL",
+        "Computer science",
+        "Program analysis",
+        "Discrete mathematics",
+        "Probabilistic logic",
+        "Machine learning",
+        "Exponential function",
+        "Abstract interpretation",
+        "Divergence-from-randomness model",
+        "Probabilistic analysis of algorithms",
+        "Static analysis",
+        "Algorithm",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1526045365",
+        "1589239973",
+        "1975447428",
+        "1993129359",
+        "2043100293",
+        "2081810835",
+        "2161290831"
+    ]
+}

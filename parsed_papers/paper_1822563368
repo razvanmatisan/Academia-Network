@@ -1,0 +1,30 @@
+{
+    "id": "1822563368",
+    "title": "Guess-and-Determine Attacks on SNOW",
+    "venue": "selected areas in cryptography",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Philip Michael Hawkes",
+            "id": "2104586604",
+            "org": "Qualcomm Australia, Level 3"
+        },
+        {
+            "name": "Gregory G. Rose",
+            "id": "2145324050",
+            "org": "Qualcomm Australia, Level 3"
+        }
+    ],
+    "fields_of_study": [
+        "Snow",
+        "Stream cipher attack",
+        "Distributed computing",
+        "Cryptography",
+        "Fluhrer, Mantin and Shamir attack",
+        "Stream cipher",
+        "Computer science"
+    ],
+    "references": [
+        "1628083612"
+    ]
+}

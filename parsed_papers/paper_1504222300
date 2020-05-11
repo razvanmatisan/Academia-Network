@@ -1,0 +1,38 @@
+{
+    "id": "1504222300",
+    "title": "Brute force attack on UNIX passwords with SIMD computer",
+    "venue": "usenix security symposium",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Gershon Kedem",
+            "id": "2467864348",
+            "org": "Computer Science Department, Duke University, Durham, NC#TAB#"
+        },
+        {
+            "name": "Yuriko Ishihara",
+            "id": "2332464509",
+            "org": "Computer Science Department, Duke University, Durham, NC#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer security",
+        "S/KEY",
+        "Zero-knowledge password proof",
+        "Password",
+        "Key stretching",
+        "Password cracking",
+        "Salt (cryptography)",
+        "Computer science",
+        "Password strength",
+        "Rainbow table"
+    ],
+    "references": [
+        "1548067747",
+        "2062718879",
+        "2063239745",
+        "2136994779",
+        "2149929743",
+        "2158077456"
+    ]
+}

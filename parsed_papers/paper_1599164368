@@ -1,0 +1,31 @@
+{
+    "id": "1599164368",
+    "title": "Genome Growth and the Evolution of the Genotype-Phenotype Map",
+    "venue": "Evolution and Biocomputation, Computational Models of Evolution",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Lee Altenberg",
+            "id": "2084564221",
+            "org": "Duke University"
+        }
+    ],
+    "fields_of_study": [
+        "Gene",
+        "Fitness landscape",
+        "Pleiotropy",
+        "Genetic variability",
+        "Evolvability",
+        "Phenotype",
+        "Stabilizing selection",
+        "Genome",
+        "Evolutionary biology",
+        "Genetics",
+        "Biology"
+    ],
+    "references": [
+        "1480936263",
+        "2138440718",
+        "2574841843"
+    ]
+}

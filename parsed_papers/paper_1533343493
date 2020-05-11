@@ -1,0 +1,43 @@
+{
+    "id": "1533343493",
+    "title": "Derivatives: A Construct for Internet Programming",
+    "venue": "international conference on computational logistics",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Dominic Duggan",
+            "id": "2259614538",
+            "org": "Stevans Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computation",
+        "Programming language",
+        "Latency (engineering)",
+        "Transaction processing",
+        "Computer science",
+        "Futures and promises",
+        "Concurrency control",
+        "Operational semantics",
+        "Derivative (finance)",
+        "Distributed computing",
+        "The Internet"
+    ],
+    "references": [
+        "1479857408",
+        "1983587324",
+        "2008447317",
+        "2011924693",
+        "2012771791",
+        "2021838450",
+        "2052915895",
+        "2058828829",
+        "2080468603",
+        "2108780975",
+        "2111586962",
+        "2124074197",
+        "2131414602",
+        "2296636214"
+    ]
+}

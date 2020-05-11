@@ -1,0 +1,47 @@
+{
+    "id": "1567502500",
+    "title": "Embedding relevance vector machine in fuzzy inference system for energy consumption forecasting",
+    "venue": "international conference on neural information processing",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Hamid Aghaie Moghanjooghi",
+            "id": "2284264415",
+            "org": "School of ECE, College of Engineering, University of Tehran, Iran#TAB#"
+        },
+        {
+            "name": "Babak Nadjar Araabi",
+            "id": "442130",
+            "org": "School of ECE, College of Engineering, University of Tehran, Iran#TAB#"
+        },
+        {
+            "name": "Majid Nili Ahmadabadi",
+            "id": "2164566917",
+            "org": "School of ECE, College of Engineering, University of Tehran, Iran#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time series",
+        "Cluster analysis",
+        "Machine learning",
+        "Support vector machine",
+        "Pattern recognition",
+        "Probabilistic logic",
+        "Artificial intelligence",
+        "Fuzzy logic",
+        "Relevance vector machine",
+        "Basis function",
+        "Bayesian inference",
+        "Mathematics"
+    ],
+    "references": [
+        "1582813132",
+        "1633751774",
+        "1648445109",
+        "2022443690",
+        "2032369048",
+        "2079325629",
+        "2101709642",
+        "2113243080"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1557068150",
+    "title": "Grid-JQA: grid Java based quality of service management by active database",
+    "venue": "grid computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "L. Mohammad Khanli",
+            "id": "2279306400",
+            "org": "C.E. Dept. IUST, Tehran, Iran#TAB#"
+        },
+        {
+            "name": "Morteza Analoui",
+            "id": "2069139909",
+            "org": "C.E. Dept. IUST, Tehran, Iran#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Grid",
+        "Utility computing",
+        "Real-time computing",
+        "Grid computing",
+        "Ubiquitous computing",
+        "Quality of service",
+        "Semantic grid",
+        "Scheduling (computing)",
+        "Distributed computing",
+        "Computer science",
+        "Active database"
+    ],
+    "references": [
+        "127329880",
+        "1492702927",
+        "1809943808",
+        "1893991730",
+        "2094186309",
+        "2146438496"
+    ]
+}

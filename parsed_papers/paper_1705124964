@@ -1,0 +1,47 @@
+{
+    "id": "1705124964",
+    "title": "On the composition of zero-knowledge proof systems",
+    "venue": "international colloquium on automata, languages and programming",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Oded Goldreich",
+            "id": "65538393",
+            "org": "Technion"
+        },
+        {
+            "name": "Hugo Krawczyk",
+            "id": "2894508521",
+            "org": "Technion"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Mathematical proof",
+        "Discrete mathematics",
+        "Proof of knowledge",
+        "Proof complexity",
+        "Computer-assisted proof",
+        "Cryptographic protocol",
+        "Hash function",
+        "Zero-knowledge proof",
+        "Mathematics",
+        "Combinatorial proof"
+    ],
+    "references": [
+        "44936433",
+        "1494965429",
+        "1502416796",
+        "1970606468",
+        "1972460281",
+        "1984976620",
+        "1985623009",
+        "2011112377",
+        "2019038806",
+        "2032133054",
+        "2096390054",
+        "2130993035",
+        "2137883105",
+        "2151433956"
+    ]
+}

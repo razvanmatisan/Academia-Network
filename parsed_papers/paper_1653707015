@@ -1,0 +1,49 @@
+{
+    "id": "1653707015",
+    "title": "String Matching with Constraints",
+    "venue": "mathematical foundations of computer science",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Maxime Crochemore",
+            "id": "449159822",
+            "org": "Universite de Paris-Nord"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Commentz-Walter algorithm",
+        "Discrete mathematics",
+        "sort",
+        "Parsing",
+        "Suffix tree",
+        "Computer science",
+        "Approximate string matching",
+        "Regular expression",
+        "String searching algorithm",
+        "String metric"
+    ],
+    "references": [
+        "1655990431",
+        "1967384930",
+        "1968435831",
+        "1971820292",
+        "1972770363",
+        "1973272384",
+        "1984074972",
+        "1985108724",
+        "2016219933",
+        "2022668972",
+        "2024145045",
+        "2054762052",
+        "2072607050",
+        "2093599904",
+        "2099964107",
+        "2121252285",
+        "2134826720",
+        "2154104338",
+        "2175300689",
+        "2434820933",
+        "2533248932"
+    ]
+}

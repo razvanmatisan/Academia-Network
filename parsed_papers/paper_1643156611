@@ -1,0 +1,36 @@
+{
+    "id": "1643156611",
+    "title": "Learning polynomial functions by feature construction",
+    "venue": "international conference on machine learning",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Richard S. Sutton",
+            "id": "2120464764",
+            "org": "GTE Laboratories Incorporated, 40 Sylvan Rd., Waltham MA 02254"
+        },
+        {
+            "name": "Christopher J. Matheus",
+            "id": "2778901457",
+            "org": "GTE Laboratories Incorporated, 40 Sylvan Rd., Waltham MA 02254"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Artificial intelligence",
+        "Feature (machine learning)",
+        "Principal component regression",
+        "Machine learning",
+        "Feature vector",
+        "Polynomial regression",
+        "Proper linear model",
+        "Pattern recognition",
+        "k-nearest neighbors algorithm",
+        "Linear regression",
+        "Linear predictor function"
+    ],
+    "references": [
+        "2109779438",
+        "2150913357"
+    ]
+}

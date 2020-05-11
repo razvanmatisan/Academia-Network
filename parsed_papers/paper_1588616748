@@ -1,0 +1,35 @@
+{
+    "id": "1588616748",
+    "title": "Cryptanalysis of the EMD mode of operation",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Antoine Joux",
+            "id": "2755216431",
+            "org": "DCSSI Crypto Lab, Paris, SP, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Residual block termination",
+        "Triple DES",
+        "Theoretical computer science",
+        "Ciphertext stealing",
+        "Transposition cipher",
+        "Block cipher",
+        "Two-square cipher",
+        "Block cipher mode of operation",
+        "Computer science",
+        "CBC-MAC"
+    ],
+    "references": [
+        "197697752",
+        "1485007424",
+        "1548701190",
+        "1597235115",
+        "1655844021",
+        "2126290606",
+        "2133065964",
+        "2152723805"
+    ]
+}

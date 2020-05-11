@@ -1,0 +1,45 @@
+{
+    "id": "1576554202",
+    "title": "Nash Equilibria via Polynomial Equations",
+    "venue": "latin american symposium on theoretical informatics",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Richard J. Lipton",
+            "id": "2668464570",
+            "org": "Georgia Institute of Technology"
+        },
+        {
+            "name": "Richard J. Lipton",
+            "id": "2668464570",
+            "org": "Georgia Institute of Technology"
+        },
+        {
+            "name": "Evangelos Markakis",
+            "id": "2133074650",
+            "org": "Georgia Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Price of stability",
+        "Discrete mathematics",
+        "Correlated equilibrium",
+        "Best response",
+        "Mathematical optimization",
+        "Trembling hand perfect equilibrium",
+        "Epsilon-equilibrium",
+        "Equilibrium selection",
+        "Normal-form game",
+        "Nash equilibrium",
+        "Mathematics"
+    ],
+    "references": [
+        "1665632678",
+        "1807884544",
+        "2028957138",
+        "2047880045",
+        "2125537511",
+        "2131967794",
+        "2160135758"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1519988299",
+    "title": "Analysis of the E0 Encryption System",
+    "venue": "selected areas in cryptography",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Scott R. Fluhrer",
+            "id": "305559842",
+            "org": "Cisco Systems, Inc."
+        },
+        {
+            "name": "Stefan Lucks",
+            "id": "2810229488",
+            "org": "University of Mannheim"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "56-bit encryption",
+        "Encryption",
+        "Client-side encryption",
+        "Filesystem-level encryption",
+        "Distributed computing",
+        "On-the-fly encryption",
+        "Computer network",
+        "40-bit encryption",
+        "Probabilistic encryption",
+        "Computer science",
+        "Link encryption"
+    ],
+    "references": [
+        "1495460021",
+        "2139215234"
+    ]
+}

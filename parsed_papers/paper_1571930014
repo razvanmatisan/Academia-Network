@@ -1,0 +1,40 @@
+{
+    "id": "1571930014",
+    "title": "Domain Semantics for Agent-Oriented Programming",
+    "venue": "the florida ai research society",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Roger L. Norton",
+            "id": "1968603170",
+            "org": "Marist College"
+        },
+        {
+            "name": "S. Rebecca Thomas",
+            "id": "2179762130",
+            "org": "School of Computer Science and Mathematics|Marist College"
+        }
+    ],
+    "fields_of_study": [
+        "Agent architecture",
+        "Natural language processing",
+        "Artificial intelligence",
+        "Machine learning",
+        "Semantics",
+        "Category theory",
+        "Modal logic",
+        "Complete partial order",
+        "Agent-oriented programming",
+        "Mental state",
+        "Computer science"
+    ],
+    "references": [
+        "1544564247",
+        "1605925834",
+        "1610892232",
+        "2058207853",
+        "2111619838",
+        "2173184982",
+        "2179843754"
+    ]
+}

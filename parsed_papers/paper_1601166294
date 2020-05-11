@@ -1,0 +1,32 @@
+{
+    "id": "1601166294",
+    "title": "Intelligent mechatronic components: control system engineering using an open distributed architecture",
+    "venue": "emerging technologies and factory automation",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Valeriy Vyatkin",
+            "id": "1982190134",
+            "org": "Dept. of Eng. Sci., Automation Technol. Laboratory, Halle, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Resource-oriented architecture",
+        "Control engineering",
+        "Hardware architecture",
+        "Artificial intelligence systems integration",
+        "Reference architecture",
+        "Computer engineering",
+        "Software system",
+        "System integration",
+        "Real-time Control System Software",
+        "Distributed computing",
+        "Systems architecture",
+        "Computer science"
+    ],
+    "references": [
+        "1510708905",
+        "1556296658",
+        "2263584683"
+    ]
+}

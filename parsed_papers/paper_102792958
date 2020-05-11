@@ -1,0 +1,44 @@
+{
+    "id": "102792958",
+    "title": "A probability-based combination method for unsupervised clustering with application to blind source separation",
+    "venue": "international conference on latent variable analysis and signal separation",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Julian Mathias Becker",
+            "id": "2259811093",
+            "org": "Institut fur Nachrichtentechnik, RWTH Aachen University, Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Martin Spiertz",
+            "id": "1895987480",
+            "org": "Institut fur Nachrichtentechnik, RWTH Aachen University, Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Volker Gnann",
+            "id": "985113940",
+            "org": "Institut fur Nachrichtentechnik, RWTH Aachen University, Aachen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Blind signal separation",
+        "Probability theory",
+        "Robustness (computer science)",
+        "Machine learning",
+        "Correspondence problem",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Mathematics",
+        "Non-negative matrix factorization"
+    ],
+    "references": [
+        "1524440898",
+        "2097645701",
+        "2113990625",
+        "2127851351",
+        "2139280638",
+        "2164074203",
+        "2256954494"
+    ]
+}

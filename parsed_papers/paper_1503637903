@@ -1,0 +1,44 @@
+{
+    "id": "1503637903",
+    "title": "Multilingual and Localization Support for Ontologies",
+    "venue": "european semantic web conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Mauricio Espinoza",
+            "id": "2123280068",
+            "org": "Laboratorio de Inteligencia Artificial, UPM, Spain 28660#TAB#"
+        },
+        {
+            "name": "Asuncion Gomez-Perez",
+            "id": "2247736927",
+            "org": "Laboratorio de Inteligencia Artificial, UPM, Spain 28660#TAB#"
+        },
+        {
+            "name": "Elena Montiel-Ponsoda",
+            "id": "89693454",
+            "org": "Laboratorio de Inteligencia Artificial, UPM, Spain 28660#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Natural language",
+        "Data mining",
+        "Process ontology",
+        "Natural language processing",
+        "Open Biomedical Ontologies",
+        "IDEF5",
+        "Ontology (information science)",
+        "Computer science",
+        "Upper ontology",
+        "Ontology components",
+        "Rule-based machine translation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "376466135",
+        "1575138747",
+        "1584683092",
+        "1806353312"
+    ]
+}

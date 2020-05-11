@@ -1,0 +1,29 @@
+{
+    "id": "1533310646",
+    "title": "Towards an Ensemble Framework for Assisting in Synthesis Tasks",
+    "venue": "the florida ai research society",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Joseph Kendall-Morwick",
+            "id": "2426500728",
+            "org": "Indiana University"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Machine learning",
+        "Artificial intelligence",
+        "Ensemble learning",
+        "Workflow",
+        "Recommender system",
+        "Data mining",
+        "Computer science"
+    ],
+    "references": [
+        "1483283358",
+        "1600220345",
+        "2004014581",
+        "2157587214"
+    ]
+}

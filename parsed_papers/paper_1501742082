@@ -1,0 +1,31 @@
+{
+    "id": "1501742082",
+    "title": "Multimatroids II. Orthogonality, minors and connectivity",
+    "venue": "Electronic Journal of Combinatorics",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Andre Bouchet",
+            "id": "2244256532",
+            "org": "University of Maine (France)"
+        }
+    ],
+    "fields_of_study": [
+        "Independent set",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Matroid",
+        "Matroid partitioning",
+        "Graphic matroid",
+        "Oriented matroid",
+        "k-edge-connected graph",
+        "Regular graph",
+        "Mathematics",
+        "Orthogonality"
+    ],
+    "references": [
+        "1984509778",
+        "2031901665",
+        "2066894529"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1556368799",
+    "title": "Business Process Improvements in Production Planning of ERP System Using Enhanced Process and Integrated Data Models",
+    "venue": "information systems technology and its applications",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Premaratne Samaranayake",
+            "id": "1978696587",
+            "org": "University of Western Sydney"
+        }
+    ],
+    "fields_of_study": [
+        "Business process discovery",
+        "Event-driven process chain",
+        "Business process",
+        "Systems engineering",
+        "Business process modeling",
+        "Business Process Model and Notation",
+        "Process mining",
+        "Process management",
+        "Artifact-centric business process model",
+        "Business process management",
+        "Computer science"
+    ],
+    "references": [
+        "1508976176",
+        "1532045447",
+        "1538370462",
+        "1587766984",
+        "2004281694",
+        "2022004899",
+        "2038910240",
+        "2057514807",
+        "2073545037",
+        "2080000655",
+        "2082867266"
+    ]
+}

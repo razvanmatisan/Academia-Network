@@ -1,0 +1,35 @@
+{
+    "id": "1563796680",
+    "title": "Relational definition of computer languages",
+    "venue": "mathematical foundations of computer science",
+    "year": 1975,
+    "authors": [
+        {
+            "name": "Vaclav Rajlich",
+            "id": "2114898780",
+            "org": "Research Institute for Mathematical Machines"
+        }
+    ],
+    "fields_of_study": [
+        "Relational calculus",
+        "Abstract family of languages",
+        "Domain relational calculus",
+        "Codd's theorem",
+        "Natural language processing",
+        "Document Schema Definition Languages",
+        "Comparison of multi-paradigm programming languages",
+        "Second-generation programming language",
+        "Tuple relational calculus",
+        "Programming language",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1709287",
+        "1964071625",
+        "2125186410",
+        "2160363852",
+        "2396466068",
+        "2536118580"
+    ]
+}

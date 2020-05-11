@@ -1,0 +1,56 @@
+{
+    "id": "1558016211",
+    "title": "Contour matching based on belief propagation",
+    "venue": "asian conference on computer vision",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Shiming Xiang",
+            "id": "1995762524",
+            "org": "State Key Laboratory of Intelligent Technology and Systems, Department of Automation, Tsinghua University, Beijing, China#TAB#"
+        },
+        {
+            "name": "Feiping Nie",
+            "id": "2245267964",
+            "org": "State Key Laboratory of Intelligent Technology and Systems, Department of Automation, Tsinghua University, Beijing, China#TAB#"
+        },
+        {
+            "name": "Changshui Zhang",
+            "id": "2105451568",
+            "org": "State Key Laboratory of Intelligent Technology and Systems, Department of Automation, Tsinghua University, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Shape context",
+        "Inference",
+        "Point source",
+        "Artificial intelligence",
+        "Image processing",
+        "Belief propagation",
+        "Geometric transformation",
+        "Pattern recognition",
+        "Probabilistic logic",
+        "Graphical model",
+        "Mathematics"
+    ],
+    "references": [
+        "1483585285",
+        "1601941589",
+        "2057175746",
+        "2096840836",
+        "2098387242",
+        "2100318434",
+        "2114766304",
+        "2117616929",
+        "2120670709",
+        "2140200866",
+        "2148821982",
+        "2152132697",
+        "2154332114",
+        "2157646840",
+        "2159080219",
+        "2162995498",
+        "2165949176",
+        "2166517093"
+    ]
+}

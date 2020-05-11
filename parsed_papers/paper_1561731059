@@ -1,0 +1,51 @@
+{
+    "id": "1561731059",
+    "title": "On the Construction of Heterogeneous Multicast Distribution Trees Using Filtering in an Active Network",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Hector Akamine",
+            "id": "2111887268",
+            "org": "Graduate School of Engineering Science, Osaka University"
+        },
+        {
+            "name": "Naoki Wakamiya",
+            "id": "1894328807",
+            "org": "Graduate School of Engineering Science, Osaka University"
+        },
+        {
+            "name": "Masayuki Murata",
+            "id": "2694317447",
+            "org": "Graduate School of Engineering Science, Osaka University"
+        },
+        {
+            "name": "Hideo Miyahara",
+            "id": "2086998538",
+            "org": "Graduate School of Engineering Science, Osaka University"
+        }
+    ],
+    "fields_of_study": [
+        "Protocol Independent Multicast",
+        "Multicast",
+        "Inter-domain",
+        "Xcast",
+        "Distance Vector Multicast Routing Protocol",
+        "Multicast address",
+        "Computer network",
+        "Source-specific multicast",
+        "Distributed computing",
+        "Pragmatic General Multicast",
+        "Computer science"
+    ],
+    "references": [
+        "1526999839",
+        "1539914100",
+        "1923590616",
+        "1965900296",
+        "2100976603",
+        "2101838603",
+        "2105808107",
+        "2155659292"
+    ]
+}

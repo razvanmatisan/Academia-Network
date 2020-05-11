@@ -1,0 +1,31 @@
+{
+    "id": "1656617460",
+    "title": "Optimizing traffic flow in fixed wireless networks",
+    "venue": "wireless communications and networking conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Anuj Puri",
+            "id": "2153248216",
+            "org": "Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "Municipal wireless network",
+        "Real-time computing",
+        "Wireless network",
+        "Traffic generation model",
+        "Wi-Fi array",
+        "Computer science",
+        "Network traffic control",
+        "Key distribution in wireless sensor networks",
+        "Fixed wireless",
+        "Network traffic simulation"
+    ],
+    "references": [
+        "1602140934",
+        "2011039300",
+        "2132089207"
+    ]
+}

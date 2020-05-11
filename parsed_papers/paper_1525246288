@@ -1,0 +1,31 @@
+{
+    "id": "1525246288",
+    "title": "Temporal logic constraints in the biochemical abstract machine BIOCHAM",
+    "venue": "logic based program synthesis and transformation",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Francois Fages",
+            "id": "2068800805",
+            "org": "INRIA Rocquencourt, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Abstract machine",
+        "Theoretical computer science",
+        "Model checking",
+        "Process calculus",
+        "Biological process",
+        "Systems biology",
+        "Computer science",
+        "Temporal logic"
+    ],
+    "references": [
+        "1489391022",
+        "1532361198",
+        "2066322491",
+        "2081556416",
+        "2340735175"
+    ]
+}

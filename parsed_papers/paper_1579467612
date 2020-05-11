@@ -1,0 +1,29 @@
+{
+    "id": "1579467612",
+    "title": "cql: Flat file database query language",
+    "venue": "usenix winter technical conference",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Glenn S. Fowler",
+            "id": "2778541247",
+            "org": "AT&T Bell Laboratories, Murray Hill, New Jersey#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Flat file database",
+        "Web search query",
+        "Database",
+        "Query optimization",
+        "Query language",
+        "Query expansion",
+        "Sargable",
+        "Query by Example",
+        "RDF query language",
+        "Programming language",
+        "Computer science"
+    ],
+    "references": [
+        "1487895014"
+    ]
+}

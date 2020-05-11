@@ -1,0 +1,28 @@
+{
+    "id": "1484116962",
+    "title": "Design of an adaptive Web merchandising system using data mining",
+    "venue": "international syposium on methodologies for intelligent systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Sung Ho Ha",
+            "id": "2132211366",
+            "org": "Kyungpook National University"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Competitive advantage",
+        "Adaptive system",
+        "New product development",
+        "Product (business)",
+        "Information extraction",
+        "Computer science",
+        "Association rule learning",
+        "The Internet"
+    ],
+    "references": [
+        "1601275155",
+        "1623603061"
+    ]
+}

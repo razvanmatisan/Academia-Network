@@ -1,0 +1,38 @@
+{
+    "id": "1596480403",
+    "title": "Update rules for parameter estimation in continuous time Bayesian network",
+    "venue": "pacific rim international conference on artificial intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Dongyu Shi",
+            "id": "2645425162",
+            "org": "Department of Computer Science and Engineering Shanghai Jiao Tong University, Shanghai, P.R. China#TAB#"
+        },
+        {
+            "name": "Jinyuan You",
+            "id": "2687149631",
+            "org": "Department of Computer Science and Engineering Shanghai Jiao Tong University, Shanghai, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Markov model",
+        "Machine learning",
+        "Artificial intelligence",
+        "Finite-state machine",
+        "Bayesian network",
+        "Estimation theory",
+        "Stochastic process",
+        "Markov process",
+        "Mathematics",
+        "Graphical model",
+        "System identification"
+    ],
+    "references": [
+        "1543675445",
+        "1780353274",
+        "1870960778",
+        "1872800509",
+        "2061173439"
+    ]
+}

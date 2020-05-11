@@ -1,0 +1,46 @@
+{
+    "id": "1508969946",
+    "title": "TRON: process-specific file protection for the UNIX operating system",
+    "venue": "usenix annual technical conference",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Andrew P. Berman",
+            "id": "2143723253",
+            "org": "Department of Computer Science and Engineering, University of Washington, Seattle, WA#TAB#"
+        },
+        {
+            "name": "Virgil Bourassa",
+            "id": "2086396628",
+            "org": "Department of Computer Science and Engineering, University of Washington, Seattle, WA#TAB#"
+        },
+        {
+            "name": "Erik Selberg",
+            "id": "2055516131",
+            "org": "Department of Computer Science and Engineering, University of Washington, Seattle, WA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Unix filesystem",
+        "Unix file types",
+        "File descriptor",
+        "Real-time computing",
+        "Unix signal",
+        "STREAMS",
+        "Operating system",
+        "fstab",
+        "Unix architecture",
+        "TMPDIR",
+        "Computer science"
+    ],
+    "references": [
+        "1882297107",
+        "1982264408",
+        "1989649788",
+        "2005373714",
+        "2056073317",
+        "2113350481",
+        "2128104462",
+        "2149299273"
+    ]
+}

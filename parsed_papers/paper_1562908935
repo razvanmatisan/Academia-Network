@@ -1,0 +1,47 @@
+{
+    "id": "1562908935",
+    "title": "Inference Rules for Programming Languages with Side Effects in Expressions",
+    "venue": "theorem proving in higher order logics",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Paul E. Black",
+            "id": "2306975824",
+            "org": "Brigham Young University"
+        },
+        {
+            "name": "Phillip J. Windley",
+            "id": "1843258343",
+            "org": "Brigham Young University"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Programming paradigm",
+        "Functional logic programming",
+        "Procedural programming",
+        "Inductive programming",
+        "Theoretical computer science",
+        "Natural language processing",
+        "Fifth-generation programming language",
+        "Programming domain",
+        "Programming language",
+        "Declarative programming",
+        "Computer science",
+        "Subroutine",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1487643886",
+        "1547508266",
+        "1592365316",
+        "1606684007",
+        "1822723795",
+        "1851794350",
+        "2051221358",
+        "2084291524",
+        "2111706174",
+        "2536902987",
+        "2538092803"
+    ]
+}

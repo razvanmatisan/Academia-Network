@@ -1,0 +1,51 @@
+{
+    "id": "1767269992",
+    "title": "AI based fall management services: the role of the i-walker in I-DONTFALL",
+    "venue": "mexican international conference on artificial intelligence",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Ulises Cortes",
+            "id": "1860074921",
+            "org": "Universitat Politecnica de Catalunya, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Antonio Martinez-Velasco",
+            "id": "1483864237",
+            "org": "Universitat Politecnica de Catalunya, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Cristian Barrue",
+            "id": "2048812626",
+            "org": "Universitat Politecnica de Catalunya, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Roberta Annicchiarico",
+            "id": "2093118129",
+            "org": "Fondazione Santa Lucia, Rome, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Fear of falling",
+        "Machine learning",
+        "International health",
+        "Environmental resource management",
+        "Ageing",
+        "Psychological injury",
+        "Artificial intelligence",
+        "Economic impact analysis",
+        "Autonomy",
+        "Social engagement",
+        "Simulation",
+        "Quality of life",
+        "Computer science"
+    ],
+    "references": [
+        "178656949",
+        "1484523561",
+        "1967769980",
+        "2089036450",
+        "2122929515",
+        "2402691594"
+    ]
+}

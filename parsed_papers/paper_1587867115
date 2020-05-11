@@ -1,0 +1,40 @@
+{
+    "id": "1587867115",
+    "title": "Routing in Trees",
+    "venue": "international colloquium on automata languages and programming",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Pierre Fraigniaud",
+            "id": "290762400",
+            "org": "Universite Paris-Sud"
+        },
+        {
+            "name": "Cyril Gavoille",
+            "id": "324931822",
+            "org": "Universite Bordeaux I"
+        }
+    ],
+    "fields_of_study": [
+        "Link-state routing protocol",
+        "Static routing",
+        "DSRFLOW",
+        "Distributed computing",
+        "Routing Information Protocol",
+        "Equal-cost multi-path routing",
+        "Multipath routing",
+        "Dynamic Source Routing",
+        "Destination-Sequenced Distance Vector routing",
+        "Mathematics"
+    ],
+    "references": [
+        "1500591628",
+        "2020085766",
+        "2030306674",
+        "2057994027",
+        "2077824753",
+        "2091569826",
+        "2116365500",
+        "2151358465"
+    ]
+}

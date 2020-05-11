@@ -1,0 +1,32 @@
+{
+    "id": "1590456820",
+    "title": "COMAIDE: Information Visualization using Cooperative 3D Diagram Layout",
+    "venue": "graph drawing",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "David Dodson",
+            "id": "2632406601",
+            "org": "City University"
+        }
+    ],
+    "fields_of_study": [
+        "Layout",
+        "Expert system",
+        "Information visualization",
+        "Graph",
+        "Diagram",
+        "Graph drawing",
+        "Theoretical computer science",
+        "Computer science",
+        "Layout manager"
+    ],
+    "references": [
+        "1503013560",
+        "1577609725",
+        "1593015552",
+        "2021053884",
+        "2071353749",
+        "2167482691"
+    ]
+}

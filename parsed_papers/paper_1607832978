@@ -1,0 +1,37 @@
+{
+    "id": "1607832978",
+    "title": "Simplified PAC-Bayesian Margin Bounds",
+    "venue": "conference on learning theory",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "David A. McAllester",
+            "id": "2140912314",
+            "org": "Toyota Technological Institute at Chicago"
+        }
+    ],
+    "fields_of_study": [
+        "Support vector machine",
+        "Rademacher complexity",
+        "Discrete mathematics",
+        "Artificial intelligence",
+        "Mathematical optimization",
+        "Machine learning",
+        "Feature vector",
+        "Calculus of variations",
+        "Prior probability",
+        "Bayesian probability",
+        "Mathematics"
+    ],
+    "references": [
+        "1553313034",
+        "1598169407",
+        "1628829797",
+        "1638306878",
+        "1975846642",
+        "2094062207",
+        "2099579348",
+        "2139741789",
+        "2178357350"
+    ]
+}

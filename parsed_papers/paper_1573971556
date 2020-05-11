@@ -1,0 +1,38 @@
+{
+    "id": "1573971556",
+    "title": "A framework for reasoning on objects with geometric constraints",
+    "venue": "database and expert systems applications",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Hicham Hajji",
+            "id": "2781231316",
+            "org": "Universite Claude Bernard Lyon 1"
+        },
+        {
+            "name": "Evimaria Terzi",
+            "id": "2110675235",
+            "org": "Purdue University"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Spatial intelligence",
+        "Data mining",
+        "Knowledge base",
+        "Description logic",
+        "Geographic information system",
+        "Satisfiability",
+        "Multimedia database",
+        "Computer science",
+        "Spatial database",
+        "Theoretical computer science",
+        "Object-oriented programming"
+    ],
+    "references": [
+        "1543653298",
+        "1576415620",
+        "1860690667",
+        "2145465694"
+    ]
+}

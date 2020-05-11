@@ -1,0 +1,37 @@
+{
+    "id": "1606380558",
+    "title": "Modelling electronic organizations",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Javier Vazquez-Salceda",
+            "id": "2004887157",
+            "org": "Departament de Llenguatges i Sistemes Informatics, Universitat Politecnica de Catalunya, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Frank Dignum",
+            "id": "691071242",
+            "org": "Institute of Information and Computing Sciences, Utrecht University, TB Utrecht, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Database transaction",
+        "Management science",
+        "Transaction processing",
+        "Distributed computing",
+        "Dynamic logic (digital electronics)",
+        "Deontic logic",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1536956968",
+        "1546935709",
+        "1599773397",
+        "1820536392",
+        "2021916230",
+        "2086537845",
+        "2152628261"
+    ]
+}

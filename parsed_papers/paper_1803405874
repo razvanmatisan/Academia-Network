@@ -1,0 +1,33 @@
+{
+    "id": "1803405874",
+    "title": "Schoof's algorithm and isogeny cycles",
+    "venue": "algorithmic number theory symposium",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Jean-Marc Couveignes",
+            "id": "1032039832",
+            "org": "Universite de Bordeaux"
+        },
+        {
+            "name": "Francois Morain",
+            "id": "2007777908",
+            "org": "Ecole Polytechnique"
+        }
+    ],
+    "fields_of_study": [
+        "Elliptic curve",
+        "Division polynomials",
+        "Schoof's algorithm",
+        "Schoof-Elkies-Atkin algorithm",
+        "Elliptic curve point multiplication",
+        "Modular elliptic curve",
+        "Discrete mathematics",
+        "Isogeny",
+        "Twists of curves",
+        "Mathematics"
+    ],
+    "references": [
+        "2086441423"
+    ]
+}

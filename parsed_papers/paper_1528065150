@@ -1,0 +1,32 @@
+{
+    "id": "1528065150",
+    "title": "Differentially uniform mappings for cryptography",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Kaisa Nyberg",
+            "id": "2152819472",
+            "org": "Vienna Technical Univ., Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Boolean function",
+        "Discrete mathematics",
+        "Computability",
+        "Differential cryptanalysis",
+        "Upper and lower bounds",
+        "Combinatorics",
+        "Uniform boundedness",
+        "Affine transformation",
+        "Nonlinear system",
+        "Uniform limit theorem",
+        "Mathematics"
+    ],
+    "references": [
+        "1568587963",
+        "1575149347",
+        "1629301835",
+        "1776788878"
+    ]
+}

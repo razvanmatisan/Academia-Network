@@ -1,0 +1,43 @@
+{
+    "id": "1578262153",
+    "title": "A Notion of Glue Expressiveness for Component-Based Systems",
+    "venue": "international conference on concurrency theory",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Simon Bliudze",
+            "id": "2422838623",
+            "org": "VERIMAG, Centre Equation, Gieres, France 38610#TAB#"
+        },
+        {
+            "name": "Joseph Sifakis",
+            "id": "2105927184",
+            "org": "VERIMAG, Centre Equation, Gieres, France 38610#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Equivalence (measure theory)",
+        "Discrete mathematics",
+        "Rotation formalisms in three dimensions",
+        "Process calculus",
+        "Theoretical computer science",
+        "Computer science",
+        "Automaton",
+        "Turing machine",
+        "Tuple",
+        "Operator (computer programming)",
+        "GLUE"
+    ],
+    "references": [
+        "1503973138",
+        "1972475472",
+        "1978955051",
+        "2001748564",
+        "2098346263",
+        "2102222848",
+        "2110425399",
+        "2118229393",
+        "2133038101",
+        "2146598041"
+    ]
+}

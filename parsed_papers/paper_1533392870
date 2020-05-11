@@ -1,0 +1,43 @@
+{
+    "id": "1533392870",
+    "title": "Differential cryptanalysis of reduced-round PRESENT",
+    "venue": "international conference on progress in cryptology",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Meiqin Wang",
+            "id": "2251995558",
+            "org": "Key Laboratory of Cryptologic Technology and Information Security, Ministry of Education, Shandong University, Jinan, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Interpolation attack",
+        "Higher-order differential cryptanalysis",
+        "Impossible differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Boomerang attack",
+        "XSL attack",
+        "Linear cryptanalysis",
+        "Telecommunications",
+        "Slide attack",
+        "Computer science"
+    ],
+    "references": [
+        "1490106672",
+        "1511842436",
+        "1522919234",
+        "1530646519",
+        "1540066842",
+        "1556212265",
+        "1575062508",
+        "1607874478",
+        "1629301835",
+        "1803612032",
+        "1894646615",
+        "1944544385",
+        "1978695162",
+        "2091612798",
+        "2247832471"
+    ]
+}

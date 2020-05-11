@@ -1,0 +1,26 @@
+{
+    "id": "1580307326",
+    "title": "Compositional semantics of pure place/transition systems",
+    "venue": "applications and theory of petri nets",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Antoni W. Mazurkiewicz",
+            "id": "2167333602",
+            "org": "Institute of Computer Science of PAS Concurrency Theory Group"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Semantics",
+        "Distributed computing",
+        "Modularity",
+        "Principle of compositionality",
+        "Concurrency",
+        "Petri net"
+    ],
+    "references": [
+        "84232747",
+        "1496594277"
+    ]
+}

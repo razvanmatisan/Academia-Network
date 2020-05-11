@@ -1,0 +1,28 @@
+{
+    "id": "1495934851",
+    "title": "A generation algorithm for f-structure representations",
+    "venue": "arXiv: Computation and Language",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Toni Tuells",
+            "id": "2553369576",
+            "org": "Universitat Pompeu Fabra"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Genetic algorithm",
+        "Kernel (linear algebra)",
+        "Semantic computing",
+        "Artificial intelligence",
+        "Algorithm",
+        "Theoretical computer science",
+        "Computer science"
+    ],
+    "references": [
+        "1792465007",
+        "2106016549",
+        "2166881321"
+    ]
+}

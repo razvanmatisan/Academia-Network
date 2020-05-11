@@ -1,0 +1,25 @@
+{
+    "id": "1560908187",
+    "title": "The MPI Standard for Message Passing",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Rolf Hempel",
+            "id": "2003334398",
+            "org": "GMD (German National Research Centre for Computer Science)"
+        }
+    ],
+    "fields_of_study": [
+        "Implementation",
+        "Parallel computing",
+        "Distributed computing",
+        "Message passing",
+        "Interface standard",
+        "Message Passing Interface",
+        "Computer science"
+    ],
+    "references": [
+        "2001946794"
+    ]
+}

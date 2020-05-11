@@ -1,0 +1,40 @@
+{
+    "id": "1509205813",
+    "title": "A Generative Constraint Formalism for Configuration Problems",
+    "venue": "congress of the italian association for artificial intelligence",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Markus Stumptner",
+            "id": "216094903",
+            "org": "Technische Universitat Wien"
+        },
+        {
+            "name": "Alois Haselbock",
+            "id": "2892901463",
+            "org": "Technische Universitat Wien"
+        }
+    ],
+    "fields_of_study": [
+        "Complexity of constraint satisfaction",
+        "Constraint satisfaction dual problem",
+        "Constraint programming",
+        "Constraint (mathematics)",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Mathematical optimization",
+        "Mathematics",
+        "Constraint logic programming",
+        "Constraint learning",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "121704856",
+        "148516133",
+        "153230822",
+        "2005004006",
+        "2068852367",
+        "2094907349",
+        "2151720296",
+        "2155092906"
+    ]
+}

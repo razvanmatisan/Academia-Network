@@ -1,0 +1,40 @@
+{
+    "id": "1605938494",
+    "title": "Early validation of requirements in distributed product development: an industrial case study",
+    "venue": "international conference on move to meaningful internet systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Samuli Heinonen",
+            "id": "2556344426",
+            "org": "VTT Technical Research Centre of Finland, Oulu, Finland#TAB#"
+        },
+        {
+            "name": "Hannu Tanner",
+            "id": "2018710196",
+            "org": "VTT Technical Research Centre of Finland, Oulu, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Requirements elicitation",
+        "Requirements engineering",
+        "Systems engineering",
+        "Product engineering",
+        "New product development",
+        "Requirements analysis",
+        "Requirement prioritization",
+        "Requirement",
+        "Management",
+        "Non-functional requirement",
+        "Engineering"
+    ],
+    "references": [
+        "1645308460",
+        "1666928064",
+        "2071469251",
+        "2119774534",
+        "2121171289",
+        "2127045709",
+        "2169477162"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1685552173",
+    "title": "Automated support for quality requirements in Web-service-based systems",
+    "venue": "ieee computer society workshop on future trends of distributed computing systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Antonio Ruiz",
+            "id": "2105161060",
+            "org": "Dep. de Lenguajes y Sistemas Informaticos, Seville Univ., Spain"
+        },
+        {
+            "name": "Rafael Corchuelo",
+            "id": "197690615",
+            "org": "Universidad de Sevilla"
+        },
+        {
+            "name": "Amador Duran",
+            "id": "2127331165",
+            "org": "Universidad de Sevilla"
+        },
+        {
+            "name": "Miguel Toro",
+            "id": "2116036052",
+            "org": "Universidad de Sevilla"
+        }
+    ],
+    "fields_of_study": [
+        "Risk analysis (engineering)",
+        "Natural language",
+        "Formal methods",
+        "Software quality",
+        "Web service",
+        "Formal specification",
+        "Open system (systems theory)",
+        "Database",
+        "Demand forecasting",
+        "Computer science",
+        "The Internet"
+    ],
+    "references": [
+        "1542226524",
+        "2062981266",
+        "2106331630"
+    ]
+}

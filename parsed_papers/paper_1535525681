@@ -1,0 +1,32 @@
+{
+    "id": "1535525681",
+    "title": "Genetic Programming: A Parallel Approach",
+    "venue": "international conference on computing in an imperfect world",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Wolfgang Golubski",
+            "id": "2666062320",
+            "org": "University of Siegen"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic algorithm",
+        "Symbolic regression",
+        "Synchronization",
+        "Regression analysis",
+        "Genetic programming",
+        "Parallel algorithm",
+        "Population",
+        "Genetic program",
+        "Theoretical computer science",
+        "Computer science"
+    ],
+    "references": [
+        "1518754760",
+        "1594165310",
+        "1636064444",
+        "1969215126",
+        "2147566188"
+    ]
+}

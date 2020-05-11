@@ -1,0 +1,46 @@
+{
+    "id": "1573144638",
+    "title": "Resource Constrained Shortest Paths",
+    "venue": "european symposium on algorithms",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Kurt Mehlhorn",
+            "id": "512556102",
+            "org": "Max-Planck-Institut fur Informatik"
+        },
+        {
+            "name": "Mark Ziegelmann",
+            "id": "2091624162",
+            "org": "Max-Planck-Institut fur Informatik"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Discrete mathematics",
+        "Time complexity",
+        "Approximation algorithm",
+        "Random graph",
+        "Mathematical optimization",
+        "Lattice graph",
+        "Linear programming",
+        "Linear programming relaxation",
+        "Shortest path problem",
+        "Mathematics",
+        "Exact algorithm"
+    ],
+    "references": [
+        "1485262373",
+        "1871367359",
+        "1964443412",
+        "1986538507",
+        "2003715827",
+        "2009927490",
+        "2066047491",
+        "2098074159",
+        "2130626677",
+        "2130679277",
+        "2131058166",
+        "2156153879"
+    ]
+}

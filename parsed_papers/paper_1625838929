@@ -1,0 +1,48 @@
+{
+    "id": "1625838929",
+    "title": "Heuristic Contraction Hierarchies with Approximation Guarantee",
+    "venue": "annual symposium on combinatorial search",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Robert Geisberger",
+            "id": "1919660685",
+            "org": "Karlsruhe Institute of Technology"
+        },
+        {
+            "name": "Dennis Schieferdecker",
+            "id": "2467380695",
+            "org": "Karlsruhe Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Yen's algorithm",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Euclidean shortest path",
+        "K shortest path routing",
+        "Mathematics",
+        "Shortest path problem",
+        "Mathematical optimization",
+        "Shortest Path Faster Algorithm",
+        "Pathfinding",
+        "Constrained Shortest Path First",
+        "Contraction hierarchies"
+    ],
+    "references": [
+        "104675468",
+        "113019534",
+        "190901240",
+        "1520740947",
+        "1594459318",
+        "1646038686",
+        "1810931192",
+        "2035601288",
+        "2109923933",
+        "2120783268",
+        "2148831787",
+        "2150418461",
+        "2168148394",
+        "2399690039"
+    ]
+}

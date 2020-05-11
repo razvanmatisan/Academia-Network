@@ -1,0 +1,48 @@
+{
+    "id": "1487792011",
+    "title": "Semantics of BPEL4WS-Like fault and compensation handling",
+    "venue": "formal methods",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Zongyan Qiu",
+            "id": "2159934035",
+            "org": "LMAM and Department of Informatics, School of Math., Peking University, Beijing, China#TAB#"
+        },
+        {
+            "name": "Shuling Wang",
+            "id": "2894297803",
+            "org": "LMAM and Department of Informatics, School of Math., Peking University, Beijing, China#TAB#"
+        },
+        {
+            "name": "Geguang Pu",
+            "id": "2100529836",
+            "org": "LMAM and Department of Informatics, School of Math., Peking University, Beijing, China#TAB#"
+        },
+        {
+            "name": "Xiangpeng Zhao",
+            "id": "2130814165",
+            "org": "LMAM and Department of Informatics, School of Math., Peking University, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Formal methods",
+        "Business process",
+        "Theoretical computer science",
+        "Business process modeling",
+        "Semantics of logic",
+        "Software development",
+        "Operational semantics",
+        "Computer science"
+    ],
+    "references": [
+        "1515932031",
+        "1587877137",
+        "1602569358",
+        "1608333380",
+        "1974168649",
+        "2058769589",
+        "2163012804"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "1603358947",
+    "title": "Syntax-Directed Description of Incremental Compilers",
+    "venue": "GI - 4. Jahrestagung",
+    "year": 1974,
+    "authors": [
+        {
+            "name": "Hans Jurgen Schneider",
+            "id": "2154066048",
+            "org": "University of Erlangen"
+        }
+    ],
+    "fields_of_study": [
+        "Incremental compiler",
+        "Programming language",
+        "Formal system",
+        "Data structure",
+        "Graph",
+        "Pointer (computer programming)",
+        "Terminal and nonterminal symbols",
+        "Syntax",
+        "Compiler",
+        "Computer science"
+    ],
+    "references": [
+        "2536118580"
+    ]
+}

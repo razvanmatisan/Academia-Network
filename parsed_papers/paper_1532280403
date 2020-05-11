@@ -1,0 +1,36 @@
+{
+    "id": "1532280403",
+    "title": "Complexity Dimensions and Learnability",
+    "venue": "european conference on machine learning",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Shan-Hwei Nienhuys-Cheng",
+            "id": "1500721395",
+            "org": "Dept. of Computer Science, Erasmus University of Rotterdam, The Netherlands#TAB#"
+        },
+        {
+            "name": "Mark Polman",
+            "id": "1971352856",
+            "org": "Dept. of Computer Science, Erasmus University of Rotterdam, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "VC dimension",
+        "Learnability",
+        "Complexity class",
+        "Probably approximately correct learning",
+        "Efficiency",
+        "Satisfiability",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Stochastic modelling",
+        "Mathematics"
+    ],
+    "references": [
+        "2019363670",
+        "2045313701",
+        "2064672629",
+        "2154952480"
+    ]
+}

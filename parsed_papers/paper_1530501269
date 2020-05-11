@@ -1,0 +1,42 @@
+{
+    "id": "1530501269",
+    "title": "Circular Road Signs Recognition with Affine Moment Invariants and the Probabilistic Neural Classifier",
+    "venue": "international conference on adaptive and natural computing algorithms",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Boguslaw Cyganek",
+            "id": "45233777",
+            "org": "AGH - University of Science and Technology, Al. Mickiewicza 30, 30-059 Krakow, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Invariant (mathematics)",
+        "Machine learning",
+        "Artificial intelligence",
+        "Classifier (linguistics)",
+        "Affine transformation",
+        "Probabilistic logic",
+        "Affine group",
+        "Method of moments (statistics)",
+        "Probabilistic neural network",
+        "Dimensionality reduction",
+        "Mathematics",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1541819481",
+        "1560660885",
+        "1581005864",
+        "1964168965",
+        "1987857333",
+        "2004417280",
+        "2021712510",
+        "2081614114",
+        "2096459875",
+        "2111502429",
+        "2116929232",
+        "2146248127",
+        "2159498975"
+    ]
+}

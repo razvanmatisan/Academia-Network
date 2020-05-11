@@ -1,0 +1,44 @@
+{
+    "id": "1517567737",
+    "title": "Characterizing the applicability of classification algorithms using meta-level learning",
+    "venue": "european conference on machine learning",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Pavel Brazdil",
+            "id": "396705451",
+            "org": "Univ of Porto, Portugal#TAB#"
+        },
+        {
+            "name": "Joao Gama",
+            "id": "2113857198",
+            "org": "Univ of Porto, Portugal#TAB#"
+        },
+        {
+            "name": "Bob Henery",
+            "id": "2282540195",
+            "org": "Univ. of Strathclyde, Glasgow, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Learning classifier system",
+        "Statistical classification",
+        "Active learning (machine learning)",
+        "Online machine learning",
+        "Algorithmic learning theory",
+        "Wake-sleep algorithm",
+        "Computational learning theory",
+        "Machine learning",
+        "Pattern recognition",
+        "Confusion matrix",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1539739406",
+        "1998523455",
+        "2075038844",
+        "2125055259",
+        "2142334564"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "144058027",
+    "title": "Use of Ontologies in Software Engineering.",
+    "venue": "software engineering and data engineering",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Emdad Ahmed",
+            "id": "2158494710",
+            "org": "Wayne State University"
+        }
+    ],
+    "fields_of_study": [
+        "Feature-oriented domain analysis",
+        "Computer science",
+        "Resource-oriented architecture",
+        "Software Engineering Process Group",
+        "Software construction",
+        "Social software engineering",
+        "IDEF5",
+        "Software development",
+        "Software engineering",
+        "Software walkthrough"
+    ],
+    "references": [
+        "26450376",
+        "31559721",
+        "84138192",
+        "1521430670",
+        "1611892367",
+        "1947924738",
+        "2000870748",
+        "2010797375",
+        "2017220776",
+        "2018836593",
+        "2030131507",
+        "2098496743",
+        "2107658650",
+        "2146751989",
+        "2164947858",
+        "2167662161"
+    ]
+}

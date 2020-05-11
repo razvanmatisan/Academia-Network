@@ -1,0 +1,32 @@
+{
+    "id": "1579853781",
+    "title": "Triple-Space Computing: Semantic Web Services Based on Persistent Publication of Information",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Dieter Fensel",
+            "id": "2303458062",
+            "org": "Leopold-Franzens Universitat Innsbruck"
+        }
+    ],
+    "fields_of_study": [
+        "Web service",
+        "Data Web",
+        "Web modeling",
+        "Distributed computing",
+        "Semantic grid",
+        "Social Semantic Web",
+        "World Wide Web",
+        "Semantic computing",
+        "Semantic Web Stack",
+        "WS-Policy",
+        "Computer science"
+    ],
+    "references": [
+        "1978656444",
+        "1996497597",
+        "2001291669",
+        "2060881900"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": "1494340393",
+    "title": "Layered learning for concept synthesis",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Sinh Hoa Nguyen",
+            "id": "2318626430",
+            "org": "Polish-Japanese Institute of Information Technology"
+        },
+        {
+            "name": "Jan G. Bazan",
+            "id": "2155507894",
+            "org": "University of Rzeszow"
+        },
+        {
+            "name": "Andrzej Skowron",
+            "id": "565168613",
+            "org": "Warsaw University"
+        },
+        {
+            "name": "Hung Son Nguyen",
+            "id": "2106019075",
+            "org": "Warsaw University"
+        }
+    ],
+    "fields_of_study": [
+        "Domain knowledge",
+        "Data set",
+        "Machine learning",
+        "Concept learning",
+        "Artificial intelligence",
+        "Computer science",
+        "Rough set"
+    ],
+    "references": [
+        "1479892260",
+        "1522162882",
+        "1536630500",
+        "1883898636",
+        "1992926813",
+        "2016487173",
+        "2082189729",
+        "2122111042",
+        "2122763706",
+        "2138513693",
+        "2148205522",
+        "2165094119",
+        "2179045687"
+    ]
+}

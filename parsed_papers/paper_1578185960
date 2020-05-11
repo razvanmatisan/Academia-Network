@@ -1,0 +1,38 @@
+{
+    "id": "1578185960",
+    "title": "A Learning Mobile Robot: Theory, Simulation and Practice",
+    "venue": "EWLR-6 Proceedings of the 6th European Workshop on Learning Robots",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Nuno Chalmique Chagas",
+            "id": "2628027374",
+            "org": "University of Edinburgh"
+        },
+        {
+            "name": "John Hallam",
+            "id": "2223611434",
+            "org": "University of Edinburgh"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile robot",
+        "Simulation",
+        "Robot learning",
+        "Error-driven learning",
+        "Social robot",
+        "Reinforcement learning",
+        "Mobile robot navigation",
+        "Robot control",
+        "Machine learning",
+        "Control theory",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "52089736",
+        "1652032257",
+        "2097856935",
+        "2117555988"
+    ]
+}

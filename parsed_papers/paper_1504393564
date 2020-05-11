@@ -1,0 +1,33 @@
+{
+    "id": "1504393564",
+    "title": "Certificate Recocation: Mechanics and Meaning",
+    "venue": "financial cryptography",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Barbara L. Fox",
+            "id": "2067552240",
+            "org": "Microsoft Corporation"
+        },
+        {
+            "name": "Brian A. Lamacchia",
+            "id": "2019158432",
+            "org": "Microsoft Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Internet privacy",
+        "Mechanics",
+        "Implicit certificate",
+        "Root certificate",
+        "Computer security",
+        "Revocation list",
+        "Online Certificate Status Protocol",
+        "X.509",
+        "Certificate signing request",
+        "Certificate policy",
+        "Self-signed certificate"
+    ],
+    "references": []
+}

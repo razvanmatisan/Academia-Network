@@ -1,0 +1,44 @@
+{
+    "id": "1534137787",
+    "title": "Towards filtering and alerting rule rewriting on single-component policies",
+    "venue": "international conference on computer safety reliability and security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Joaquin Garcia-Alfaro",
+            "id": "263065609",
+            "org": "GET/ENST-Bretagne, Cesson Sevigne, France#TAB#"
+        },
+        {
+            "name": "Frederic Cuppens",
+            "id": "563868737",
+            "org": "GET/ENST-Bretagne, Cesson Sevigne, France#TAB#"
+        },
+        {
+            "name": "Nora Cuppens-Boulahia",
+            "id": "2304506706",
+            "org": "GET/ENST-Bretagne, Cesson Sevigne, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Reliability engineering",
+        "Network security policy",
+        "Computer science",
+        "Intrusion detection system",
+        "Firewall (construction)",
+        "Computer security",
+        "Network security",
+        "Filter (signal processing)",
+        "Distributed computing",
+        "Rewriting",
+        "The Internet",
+        "Security policy"
+    ],
+    "references": [
+        "1499323133",
+        "1674877186",
+        "2103170502",
+        "2148656332",
+        "2161129850"
+    ]
+}

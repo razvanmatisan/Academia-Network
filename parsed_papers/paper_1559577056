@@ -1,0 +1,32 @@
+{
+    "id": "1559577056",
+    "title": "First version of a data flow procedure language",
+    "venue": "Programming Symposium, Proceedings Colloque sur la Programmation",
+    "year": 1974,
+    "authors": [
+        {
+            "name": "Jack B. Dennis",
+            "id": "2167804309",
+            "org": "Project MAC, MIT"
+        }
+    ],
+    "fields_of_study": [
+        "Universal Networking Language",
+        "Semantic data model",
+        "Data manipulation language",
+        "Lisp",
+        "Natural language processing",
+        "Language primitive",
+        "Data control language",
+        "Programming language",
+        "Semantic computing",
+        "Computer science",
+        "Artificial intelligence",
+        "Data flow diagram"
+    ],
+    "references": [
+        "2010927194",
+        "2045255985",
+        "2149674691"
+    ]
+}

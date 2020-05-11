@@ -1,0 +1,45 @@
+{
+    "id": "1541232524",
+    "title": "ATM virtual private networks",
+    "venue": "Communications of The ACM",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Shivi Fotedar",
+            "id": "2093638825",
+            "org": "Computer Science Department, University of California, Los Angeles, CA"
+        },
+        {
+            "name": "Mario Gerla",
+            "id": "563121846",
+            "org": "Computer Science Department, University of California, Los Angeles, CA"
+        },
+        {
+            "name": "Paola Crocetti",
+            "id": "2011711300",
+            "org": "Computer Science Department, University of California, Los Angeles, CA"
+        },
+        {
+            "name": "Luigi Fratta",
+            "id": "2558537520",
+            "org": "Computer Science Department, University of California, Los Angeles, CA"
+        }
+    ],
+    "fields_of_study": [
+        "End-to-end delay",
+        "Private network",
+        "Asynchronous Transfer Mode",
+        "Asynchronous communication",
+        "Quality of service",
+        "Telecommunications network",
+        "Real-time computing",
+        "ATM adaptation layer",
+        "Intelligent computer network",
+        "Computer network",
+        "Computer science"
+    ],
+    "references": [
+        "1981793679",
+        "2178503703"
+    ]
+}

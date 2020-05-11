@@ -1,0 +1,30 @@
+{
+    "id": "1500529476",
+    "title": "Real-time sampled signal flows through asynchronous distributed systems",
+    "venue": "real time technology and applications symposium",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Steve Vestal",
+            "id": "2127041867",
+            "org": "Honeywell Labs., Minneapolis, MN, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Information flow (information theory)",
+        "Computation",
+        "Real-time computing",
+        "Distributed computing",
+        "Asynchronous communication",
+        "Scheduling (computing)",
+        "Sampling (statistics)",
+        "Computer science",
+        "Nonlinear system",
+        "Computational complexity theory",
+        "Solver"
+    ],
+    "references": [
+        "1556398190",
+        "2165172064"
+    ]
+}

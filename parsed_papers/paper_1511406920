@@ -1,0 +1,39 @@
+{
+    "id": "1511406920",
+    "title": "Knowledge sharing in default reasoning based multi-agent systems",
+    "venue": "ieee wic acm international conference on intelligent agent technology",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Henryk Rybinski",
+            "id": "14721115",
+            "org": "Inst. of Comput. Sci., Warsaw Univ. of Technol., Poland"
+        },
+        {
+            "name": "Dominik Ryzko",
+            "id": "2346879503",
+            "org": "Inst. of Comput. Sci., Warsaw Univ. of Technol., Poland"
+        }
+    ],
+    "fields_of_study": [
+        "Model-based reasoning",
+        "Machine learning",
+        "Deductive reasoning",
+        "Reasoning system",
+        "Knowledge representation and reasoning",
+        "Multi-agent system",
+        "Non-monotonic logic",
+        "Logic programming",
+        "Knowledge sharing",
+        "Data mining",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1508546487",
+        "1610119672",
+        "1982856725",
+        "2148718809",
+        "2155322595"
+    ]
+}

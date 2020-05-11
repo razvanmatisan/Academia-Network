@@ -1,0 +1,35 @@
+{
+    "id": "1592079945",
+    "title": "Object identification in a Bayesian context",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Timothy Huang",
+            "id": "2122680415",
+            "org": "Computer Science Division, University of California, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "Stuart J. Russell",
+            "id": "2128362942",
+            "org": "Computer Science Division, University of California, Berkeley, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Probability theory",
+        "Situated",
+        "First-order logic",
+        "Bridging (networking)",
+        "Operator (computer programming)",
+        "Mathematics",
+        "Heuristics",
+        "Bayesian probability"
+    ],
+    "references": [
+        "1546528131",
+        "1574098502",
+        "2023741620"
+    ]
+}

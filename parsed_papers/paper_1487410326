@@ -1,0 +1,39 @@
+{
+    "id": "1487410326",
+    "title": "A proposal for records in event-b",
+    "venue": "formal methods",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Neil Evans",
+            "id": "2486319428",
+            "org": "AWE, Aldermaston, U.K.#TAB#"
+        },
+        {
+            "name": "Michael Butler",
+            "id": "2114313152",
+            "org": "School of Electronics and Computer Science, University of Southampton, U.K.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Programming language",
+        "Formal methods",
+        "Formal specification",
+        "Data structure",
+        "B-Method",
+        "Software development",
+        "Data model",
+        "Computer science",
+        "Computer program",
+        "Structuring",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1985804037",
+        "1999582424",
+        "2009170733",
+        "2100827465",
+        "2116793756"
+    ]
+}

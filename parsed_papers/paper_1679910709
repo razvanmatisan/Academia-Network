@@ -1,0 +1,36 @@
+{
+    "id": "1679910709",
+    "title": "On privacy leakage through silence suppression",
+    "venue": "international conference on information security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Ye Zhu",
+            "id": "2672442323",
+            "org": "Department of Electrical and Computer Engineering, Cleveland State University, Cleveland, OH#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network packet",
+        "Voice over IP",
+        "Encryption",
+        "Computer network",
+        "Computer security",
+        "Silence suppression",
+        "Adversary",
+        "Silence",
+        "Traffic analysis",
+        "Voice activity detection",
+        "Computer science"
+    ],
+    "references": [
+        "1655958391",
+        "1916902331",
+        "1955645522",
+        "2097042314",
+        "2105181227",
+        "2108217512",
+        "2148472326",
+        "2167266744"
+    ]
+}

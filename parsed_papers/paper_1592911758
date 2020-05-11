@@ -1,0 +1,43 @@
+{
+    "id": "1592911758",
+    "title": "Efficient parallelization of spatial approximation trees",
+    "venue": "international conference on computational science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Mauricio Marin",
+            "id": "2150885086",
+            "org": "Computer Cs. Department, University of Magallanes, Chile#TAB#"
+        },
+        {
+            "name": "Nora Reyes",
+            "id": "2105052356",
+            "org": "Computer Cs. Department, University of San Luis, Argentina#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Range query (data structures)",
+        "Algorithm design",
+        "Metric space",
+        "Data structure",
+        "Parallel computing",
+        "Computational geometry",
+        "Computer science",
+        "Load balancing (computing)",
+        "Theoretical computer science",
+        "Automatic parallelization",
+        "Algorithmics"
+    ],
+    "references": [
+        "1495524224",
+        "1973797056",
+        "2045271686",
+        "2105423526",
+        "2106642566",
+        "2110728032",
+        "2124222502",
+        "2148727125",
+        "2148961697",
+        "2470650090"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1527418157",
+    "title": "Cost-sensitive concept learning of sensor use in approach and recognition",
+    "venue": "international conference on machine learning",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Ming Tan",
+            "id": "2285749930",
+            "org": "School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213 U.S.A."
+        },
+        {
+            "name": "Jeffrey C. Schlimmer",
+            "id": "2701382454",
+            "org": "School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213 U.S.A."
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Encoding (memory)",
+        "Active learning (machine learning)",
+        "Perception",
+        "Artificial intelligence",
+        "Incremental learning",
+        "Error-driven learning",
+        "Salient",
+        "Cost aspects",
+        "Computer science",
+        "Concept learning"
+    ],
+    "references": [
+        "2149706766"
+    ]
+}

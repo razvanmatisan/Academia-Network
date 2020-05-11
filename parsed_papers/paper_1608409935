@@ -1,0 +1,34 @@
+{
+    "id": "1608409935",
+    "title": "Exactly how good are heuristics?: toward a realistic predictive theory of best-first search",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1977,
+    "authors": [
+        {
+            "name": "John Gaschnig",
+            "id": "2099834660",
+            "org": "Department of Computer Science, Carnegie-Mellon University, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Program synthesis",
+        "Artificial intelligence",
+        "Approximation error",
+        "Heuristic",
+        "Mathematical optimization",
+        "Performance prediction",
+        "Heuristic function",
+        "Best-first search",
+        "Heuristics",
+        "Mathematics"
+    ],
+    "references": [
+        "1484314604",
+        "1969483458",
+        "1997874761",
+        "2008629204",
+        "2035601288",
+        "2056445637"
+    ]
+}

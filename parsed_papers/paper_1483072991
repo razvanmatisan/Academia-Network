@@ -1,0 +1,37 @@
+{
+    "id": "1483072991",
+    "title": "Neighborhood Preservation in Nonlinear Projection Methods: An Experimental Study",
+    "venue": "international conference on artificial neural networks",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Jarkko Venna",
+            "id": "2034698336",
+            "org": "Helsinki University of Technology"
+        },
+        {
+            "name": "Samuel Kaski",
+            "id": "1221219011",
+            "org": "Helsinki University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern recognition",
+        "Topographic map",
+        "Machine learning",
+        "Multivariate statistics",
+        "Projection method",
+        "Data set",
+        "Artificial intelligence",
+        "Data visualization",
+        "Information visualization",
+        "Nonlinear system",
+        "Multidimensional scaling",
+        "Mathematics"
+    ],
+    "references": [
+        "1552762231",
+        "2017117255",
+        "2107636931"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1573025891",
+    "title": "Agents and Affect: Why Embodied Agents Need Affective Systems",
+    "venue": "hellenic conference on artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ruth Aylett",
+            "id": "718139899",
+            "org": "University of Salford"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Management science",
+        "Embodied cognition",
+        "Intelligent agent",
+        "Embodied agent",
+        "Affect (psychology)",
+        "Computer science",
+        "Facial expression",
+        "Computer facial animation",
+        "Emotional expression",
+        "Artificial intelligence",
+        "User interface"
+    ],
+    "references": [
+        "1510885947",
+        "1526930468",
+        "1531461244",
+        "1954515073",
+        "1993584577",
+        "2111754733",
+        "2156880699",
+        "2165934840"
+    ]
+}

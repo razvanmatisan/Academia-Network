@@ -1,0 +1,41 @@
+{
+    "id": "1589752559",
+    "title": "Implementing Abstract Objects with Inheritance in Datalogneg",
+    "venue": "very large data bases",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Hasan M. Jamil",
+            "id": "2310460430",
+            "org": "Department of Computing|School of MPCE|Macquarie University"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Datalog",
+        "Database",
+        "Exploit",
+        "Object-oriented programming",
+        "Front and back ends",
+        "Theoretical computer science",
+        "Rewriting",
+        "Deep-sky object",
+        "Encapsulation (computer programming)"
+    ],
+    "references": [
+        "94594906",
+        "203521720",
+        "1569437219",
+        "1572693407",
+        "1586660538",
+        "1590362864",
+        "1606846194",
+        "1652042804",
+        "2030611910",
+        "2049802244",
+        "2052436826",
+        "2084130127",
+        "2153524094",
+        "2611598995"
+    ]
+}

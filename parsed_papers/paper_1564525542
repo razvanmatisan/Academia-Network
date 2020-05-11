@@ -1,0 +1,44 @@
+{
+    "id": "1564525542",
+    "title": "Automating Type Soundness Proofs via Decision Procedures and Guided Reductions",
+    "venue": "international conference on logic programming",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Don Syme",
+            "id": "2136386745",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "Andrew D. Gordon",
+            "id": "2101841271",
+            "org": "Microsoft Research"
+        }
+    ],
+    "fields_of_study": [
+        "Soundness",
+        "Decidability",
+        "Algorithm",
+        "Mathematical proof",
+        "Theoretical computer science",
+        "Abstract state machines",
+        "Computer science",
+        "Java",
+        "Automation",
+        "Common Language Runtime",
+        "Virtual machine"
+    ],
+    "references": [
+        "1483737907",
+        "1541711253",
+        "1560655349",
+        "1887681675",
+        "1929502661",
+        "1976499711",
+        "1980939032",
+        "2095851537",
+        "2105360973",
+        "2295914203",
+        "2344021881"
+    ]
+}

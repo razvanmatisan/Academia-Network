@@ -1,0 +1,60 @@
+{
+    "id": "1592113188",
+    "title": "Fault tolerant web service orchestration by means of diagnosis",
+    "venue": "european conference on software architecture",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Liliana Ardissono",
+            "id": "368630405",
+            "org": "Dipartimento di Informatica, Universita di Torino, Torino, Italy#TAB#"
+        },
+        {
+            "name": "Roberto Furnari",
+            "id": "2076694505",
+            "org": "Dipartimento di Informatica, Universita di Torino, Torino, Italy#TAB#"
+        },
+        {
+            "name": "Anna Goy",
+            "id": "2164626041",
+            "org": "Dipartimento di Informatica, Universita di Torino, Torino, Italy#TAB#"
+        },
+        {
+            "name": "Giovanna Petrone",
+            "id": "2128394611",
+            "org": "Dipartimento di Informatica, Universita di Torino, Torino, Italy#TAB#"
+        },
+        {
+            "name": "Marino Segnan",
+            "id": "383689065",
+            "org": "Dipartimento di Informatica, Universita di Torino, Torino, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Management by exception",
+        "Enterprise application integration",
+        "Web service",
+        "Systems engineering",
+        "Workflow",
+        "Exception handling",
+        "Workflow management system",
+        "Distributed computing",
+        "Orchestration (computing)",
+        "Computer science",
+        "Service-oriented architecture"
+    ],
+    "references": [
+        "48863930",
+        "1556473383",
+        "1986146602",
+        "2018520910",
+        "2063772987",
+        "2107936220",
+        "2108309071",
+        "2123635998",
+        "2153074919",
+        "2158443736",
+        "2337098149"
+    ]
+}

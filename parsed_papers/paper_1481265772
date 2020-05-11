@@ -1,0 +1,46 @@
+{
+    "id": "1481265772",
+    "title": "Folding protein-like structures with open L-systems",
+    "venue": "european conference on artificial life",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Gemma Danks",
+            "id": "2098546314",
+            "org": "York Centre for Complex Systems Analysis, University of York, York, United Kingdom#TAB#"
+        },
+        {
+            "name": "Susan Stepney",
+            "id": "1306445",
+            "org": "York Centre for Complex Systems Analysis, University of York, York, United Kingdom#TAB#"
+        },
+        {
+            "name": "Leo S. D. Caves",
+            "id": "400086211",
+            "org": "York Centre for Complex Systems Analysis, University of York, York, United Kingdom#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Amino acid",
+        "Computational biology",
+        "Artificial intelligence",
+        "Machine learning",
+        "Protein folding",
+        "Protein structure prediction",
+        "Genetic code",
+        "Sequence hypothesis",
+        "Phi value analysis",
+        "Protein design",
+        "Peptide sequence",
+        "Physics",
+        "Biochemistry"
+    ],
+    "references": [
+        "1504295561",
+        "1599583077",
+        "2000690667",
+        "2080574968",
+        "2105151472",
+        "2177486224"
+    ]
+}

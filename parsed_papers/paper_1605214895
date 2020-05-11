@@ -1,0 +1,43 @@
+{
+    "id": "1605214895",
+    "title": "Traffic Control in an ATM Network Using Rough Set Theory",
+    "venue": "computational intelligence",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Jerzy Martyna",
+            "id": "1229174834",
+            "org": "Jagiellonian University"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Artificial intelligence",
+        "Machine learning",
+        "Pattern recognition",
+        "Control theory",
+        "Fuzzy logic",
+        "Fuzzy set",
+        "Neuro-fuzzy",
+        "Adaptive neuro fuzzy inference system",
+        "Fuzzy set operations",
+        "Decision rule",
+        "Rough set"
+    ],
+    "references": [
+        "1490891821",
+        "1522104219",
+        "1539811310",
+        "1555449847",
+        "1565902562",
+        "1594511358",
+        "2003797173",
+        "2111123371",
+        "2122904910",
+        "2135485443",
+        "2137951634",
+        "2142239542",
+        "2143942216",
+        "2340020088"
+    ]
+}

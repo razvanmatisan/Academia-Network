@@ -1,0 +1,29 @@
+{
+    "id": "1771169222",
+    "title": "Automatic programming from data types decomposition patterns",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1983,
+    "authors": [
+        {
+            "name": "Christian Gresse",
+            "id": "2395932272",
+            "org": "Universite Paris-Sud, Orsay Cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Lossless-Join Decomposition",
+        "Data type",
+        "Schema (psychology)",
+        "Automatic programming",
+        "Computer science",
+        "Theoretical computer science"
+    ],
+    "references": [
+        "1604739209",
+        "2012436850",
+        "2016366442",
+        "2048518011"
+    ]
+}

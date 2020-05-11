@@ -1,0 +1,35 @@
+{
+    "id": "1538202807",
+    "title": "Automatic configuration for VPN using active XML",
+    "venue": "ip operations and management",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Laurent Ciarletta",
+            "id": "2894151384",
+            "org": "Madynes, LORIA-INRIA Lorraine, Campus Scientifique, Vandoeuvre-les-Nancy Cedex, France#TAB#"
+        },
+        {
+            "name": "Mi-Jung Choi",
+            "id": "2559511777",
+            "org": "Madynes, LORIA-INRIA Lorraine, Campus Scientifique, Vandoeuvre-les-Nancy Cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Web service",
+        "Proof of concept",
+        "Computer network",
+        "Virtual network",
+        "Network management",
+        "XML",
+        "Computer science",
+        "Security association",
+        "Database",
+        "Telecommunications network",
+        "Auto-configuration"
+    ],
+    "references": [
+        "1770071874",
+        "1949661937"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1576905359",
+    "title": "Agent-based modelling of ecosystems for sustainable resource managment",
+    "venue": "european agent systems summer school",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Jim Doran",
+            "id": "2102050866",
+            "org": "Univ. of Essex, Colchester, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ecosystem management",
+        "Knowledge management",
+        "Decentralised system",
+        "Agent-based model",
+        "Management science",
+        "Watershed",
+        "Operations research",
+        "Social simulation",
+        "Integrated management",
+        "Resource management",
+        "Computer science",
+        "Ecosystem"
+    ],
+    "references": [
+        "1514010900",
+        "1564160183",
+        "1751621167",
+        "2102360367",
+        "2175632416"
+    ]
+}

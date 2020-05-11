@@ -1,0 +1,39 @@
+{
+    "id": "1568972291",
+    "title": "A New Approach on Solving 3-Satisfiability",
+    "venue": "international conference on artificial intelligence",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Robert Rodosek",
+            "id": "2686591239",
+            "org": "IC-Parc, Imperial College"
+        }
+    ],
+    "fields_of_study": [
+        "Concurrent constraint logic programming",
+        "Mathematical optimization",
+        "Constraint satisfaction dual problem",
+        "Complexity of constraint satisfaction",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Constraint logic programming",
+        "Constraint satisfaction problem",
+        "Constraint learning",
+        "Algorithm",
+        "Mathematics",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "53068427",
+        "1509587667",
+        "1526568622",
+        "1995746810",
+        "2007200873",
+        "2014111643",
+        "2018646682",
+        "2062897452",
+        "2069767473",
+        "2098022011",
+        "2394551636"
+    ]
+}

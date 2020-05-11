@@ -1,0 +1,29 @@
+{
+    "id": "1560466697",
+    "title": "Culture and the Baldwin Effect",
+    "venue": "european conference on artificial life",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Diego Federici",
+            "id": "2131278458",
+            "org": "Norwegian University of Science and Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Evolutionary algorithm",
+        "Baldwin effect",
+        "Fitness landscape",
+        "Artificial intelligence",
+        "Machine learning",
+        "Artificial life",
+        "Local search (optimization)",
+        "Operant conditioning",
+        "Instinct",
+        "Computer science"
+    ],
+    "references": [
+        "1543341872",
+        "1772993861"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1519835840",
+    "title": "Evaluation query answer over inconsistent database with annotations",
+    "venue": "web information systems modeling",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Aihua Wu",
+            "id": "2691002614",
+            "org": "Dept. C.S., Shanghai Maritime University, Shanghai, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Online aggregation",
+        "Data mining",
+        "Information retrieval",
+        "Computer science",
+        "Query optimization",
+        "Database",
+        "View",
+        "Query expansion",
+        "Web query classification",
+        "Database model",
+        "Sargable",
+        "Query by Example"
+    ],
+    "references": [
+        "1487020114",
+        "1491205793",
+        "1594873272",
+        "1606555018",
+        "1769844539",
+        "2007964756",
+        "2036283608",
+        "2045054164",
+        "2077518845",
+        "2136709660",
+        "2167333415"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1654560847",
+    "title": "A Novel Semantic Tagging Technique Exploiting Wikipedia-Based Associated Words",
+    "venue": "computer software and applications conference",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Hyun-Ki Hong",
+            "id": "2231328743",
+            "org": "Dept. of Comput. Sci. & Eng., Hanyang Univ., Seoul, South Korea"
+        },
+        {
+            "name": "Kyung-Wook Park",
+            "id": "2602235394",
+            "org": "Dept. of Comput. Sci. & Eng., Hanyang Univ., Seoul, South Korea"
+        },
+        {
+            "name": "Dong-Ho Lee",
+            "id": "2637864564",
+            "org": "Dept. of Comput. Sci. & Eng., Hanyang Univ., Seoul, South Korea"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile device",
+        "Computer science",
+        "Information retrieval",
+        "Semantics",
+        "Smart device",
+        "Image retrieval",
+        "World Wide Web",
+        "The Internet"
+    ],
+    "references": [
+        "158057341",
+        "2070978934",
+        "2135457062",
+        "2157031556"
+    ]
+}

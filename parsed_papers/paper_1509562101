@@ -1,0 +1,37 @@
+{
+    "id": "1509562101",
+    "title": "Game theoretic network centrality: exact formulas and efficient algorithms",
+    "venue": "adaptive agents and multi agents systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Karthik V. Aadithya",
+            "id": "2083352911",
+            "org": "The University of California, Berkeley#TAB#"
+        },
+        {
+            "name": "Balaraman Ravindran",
+            "id": "1956086128",
+            "org": "Indian Institute of Technology, Madras#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network analysis",
+        "Game theory",
+        "Centrality",
+        "Artificial intelligence",
+        "Computation",
+        "Machine learning",
+        "Exponential function",
+        "Mathematical optimization",
+        "Computer science",
+        "Social network",
+        "Expression (mathematics)",
+        "Shapley value"
+    ],
+    "references": [
+        "1543143196",
+        "1570317428",
+        "1654194294"
+    ]
+}

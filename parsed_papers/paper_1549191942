@@ -1,0 +1,39 @@
+{
+    "id": "1549191942",
+    "title": "Color Cartographic Pattern Recognition Using the Coarse to Fine Scale Method",
+    "venue": "iberoamerican congress on pattern recognition",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Efren Gonzalez-Gomez",
+            "id": "2310158905",
+            "org": "UPALMZ, CIC Building"
+        },
+        {
+            "name": "Serguei Levachkine",
+            "id": "3570824",
+            "org": "UPALMZ, CIC Building"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Color image",
+        "Cluster analysis",
+        "Pattern recognition",
+        "Computer vision",
+        "Thematic map",
+        "Associated function",
+        "Raster graphics",
+        "Cartography",
+        "Computer science",
+        "Trama",
+        "Cartographic generalization"
+    ],
+    "references": [
+        "1527076558",
+        "1553205923",
+        "1570550890",
+        "2057829152",
+        "2084505026"
+    ]
+}

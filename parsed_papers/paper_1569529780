@@ -1,0 +1,39 @@
+{
+    "id": "1569529780",
+    "title": "Composition Techniques for Rule-Based Model Transformation Languages",
+    "venue": "international conference on model transformation",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Dennis Wagelaar",
+            "id": "346011681",
+            "org": "Vrije Universiteit Brussel, Brussels, Belgium 1050#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Transformation language",
+        "Model transformation",
+        "Maintainability",
+        "Pattern recognition",
+        "Superimposition",
+        "Rule-based system",
+        "Artificial intelligence",
+        "Natural language processing",
+        "Theoretical computer science",
+        "Reusability",
+        "Scalability",
+        "ATLAS Transformation Language",
+        "Computer science"
+    ],
+    "references": [
+        "1971860760",
+        "1997502136",
+        "2026586559",
+        "2043963327",
+        "2045765932",
+        "2129748320",
+        "2130876928",
+        "2134953271",
+        "2137324916"
+    ]
+}

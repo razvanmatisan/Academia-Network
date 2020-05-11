@@ -1,0 +1,47 @@
+{
+    "id": "1653223661",
+    "title": "Enumerate and expand: improved algorithms for connected vertex cover and tree cover",
+    "venue": "computer science symposium in russia",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Daniel Molle",
+            "id": "2070881220",
+            "org": "Dept. of Computer Science, RWTH Aachen University, Germany#TAB#"
+        },
+        {
+            "name": "Stefan Richter",
+            "id": "2157078261",
+            "org": "Dept. of Computer Science, RWTH Aachen University, Germany#TAB#"
+        },
+        {
+            "name": "Peter Rossmanith",
+            "id": "1962330504",
+            "org": "Dept. of Computer Science, RWTH Aachen University, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Discrete mathematics",
+        "Algorithm",
+        "Feedback vertex set",
+        "Vertex separator",
+        "Prim's algorithm",
+        "Steiner tree problem",
+        "Edge cover",
+        "Vertex cover",
+        "Vertex (graph theory)",
+        "Neighbourhood (graph theory)",
+        "Mathematics"
+    ],
+    "references": [
+        "1539502146",
+        "1566660502",
+        "1972577597",
+        "1976697697",
+        "1996668544",
+        "2026771935",
+        "2030295282",
+        "2170009211"
+    ]
+}

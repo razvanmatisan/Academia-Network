@@ -1,0 +1,30 @@
+{
+    "id": "1528303475",
+    "title": "The Third Homomorphism Theorem",
+    "venue": "Journal of Functional Programming",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Jeremy Gibbons",
+            "id": "1994117774",
+            "org": "University of Auckland"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Time complexity",
+        "Homomorphism",
+        "Folk theorem",
+        "Fundamental theorem",
+        "Algorithmics",
+        "Sorting algorithm",
+        "Technical report",
+        "Compactness theorem",
+        "Computer science"
+    ],
+    "references": [
+        "152290089",
+        "2078643445"
+    ]
+}

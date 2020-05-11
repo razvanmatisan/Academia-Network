@@ -1,0 +1,31 @@
+{
+    "id": "1536794365",
+    "title": "Completeness for inductive procedures",
+    "venue": "international conference on machine learning",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Celine Rouveirol",
+            "id": "2331180646",
+            "org": "L.R.I., Inference and Learning Group, Building 490, Universite Paris Sud, F-91405 Orsay France."
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Golem",
+        "Completeness (statistics)",
+        "First-order logic",
+        "Discrete mathematics",
+        "Logical consequence",
+        "Logical framework",
+        "Logical data model",
+        "Inverse resolution",
+        "Algorithm",
+        "Operator (computer programming)"
+    ],
+    "references": [
+        "1565236324",
+        "2077422877",
+        "2484153108"
+    ]
+}

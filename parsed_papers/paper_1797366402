@@ -1,0 +1,49 @@
+{
+    "id": "1797366402",
+    "title": "Evolution of Software Systems with Extensible Languages and DSLs",
+    "venue": "IEEE Software",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Sebastian Erdweg",
+            "id": "1576900243",
+            "org": "Technische Universitat Darmstadt, Germany"
+        },
+        {
+            "name": "Stefan Fehrenbach",
+            "id": "2095365048",
+            "org": "University of Marburg, Germany"
+        },
+        {
+            "name": "Klaus Ostermann",
+            "id": "1803786443",
+            "org": "University of Marburg, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Software engineering",
+        "Software maintenance",
+        "Maintainability",
+        "Computer science",
+        "Software evolution",
+        "Legacy system",
+        "Software system",
+        "Extensible programming",
+        "Domain-specific language",
+        "Extensibility"
+    ],
+    "references": [
+        "127275198",
+        "1990341655",
+        "2000616678",
+        "2052822586",
+        "2078200248",
+        "2085439199",
+        "2108230680",
+        "2114739399",
+        "2149586001",
+        "2151073063",
+        "2157458605"
+    ]
+}

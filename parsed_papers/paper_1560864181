@@ -1,0 +1,44 @@
+{
+    "id": "1560864181",
+    "title": "Context adaptive self-configuration system based on multi-agent",
+    "venue": "Contexts",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Seunghwa Lee",
+            "id": "2123206546",
+            "org": "School of Information and Communication Engineering, Sungkyunkwan University, Suwon, Korea#TAB#"
+        },
+        {
+            "name": "Hee Yong Youn",
+            "id": "2145152158",
+            "org": "School of Information and Communication Engineering, Sungkyunkwan University, Suwon, Korea#TAB#"
+        },
+        {
+            "name": "Eunseok Lee",
+            "id": "2135234537",
+            "org": "School of Information and Communication Engineering, Sungkyunkwan University, Suwon, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Peer-to-peer",
+        "User information",
+        "Information system",
+        "Natural language processing",
+        "Artificial intelligence",
+        "Real-time computing",
+        "Simulation",
+        "Management system",
+        "Adaptability",
+        "Resource management",
+        "Control reconfiguration",
+        "Computer science",
+        "Resource allocation"
+    ],
+    "references": [
+        "1500058748",
+        "1997369208",
+        "2120028408",
+        "2138098922"
+    ]
+}

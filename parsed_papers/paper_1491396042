@@ -1,0 +1,28 @@
+{
+    "id": "1491396042",
+    "title": "Functorial Calculus in Monoidal Bicategories",
+    "venue": "Applied Categorical Structures",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Ross Street",
+            "id": "2140372522",
+            "org": "Centre of Australian Category Theory, Macquarie University, Australia"
+        }
+    ],
+    "fields_of_study": [
+        "Calculus",
+        "Closed monoidal category",
+        "Higher category theory",
+        "Cartesian closed category",
+        "Discrete mathematics",
+        "Mathematics",
+        "Bicategory",
+        "Enriched category",
+        "Symmetric monoidal category",
+        "Dinatural transformation",
+        "Topology",
+        "2-category"
+    ],
+    "references": []
+}

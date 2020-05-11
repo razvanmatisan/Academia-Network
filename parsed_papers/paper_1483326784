@@ -1,0 +1,36 @@
+{
+    "id": "1483326784",
+    "title": "An Empirical Study of Decision Making, Participation, and Empowerment in Norwegian Software Development Organisations",
+    "venue": "international conference on agile software development",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Bjornar Tessem",
+            "id": "2040139991",
+            "org": "Dept of Information Science and Media Studies"
+        }
+    ],
+    "fields_of_study": [
+        "Business",
+        "Team software process",
+        "Software Engineering Process Group",
+        "Personal software process",
+        "Software development",
+        "Social software engineering",
+        "Process management",
+        "Empirical process (process control model)",
+        "Agile software development",
+        "Lean software development",
+        "Knowledge management"
+    ],
+    "references": [
+        "1480122107",
+        "2038275474",
+        "2050721897",
+        "2073275508",
+        "2074535542",
+        "2091946677",
+        "2157093419",
+        "2163201738"
+    ]
+}

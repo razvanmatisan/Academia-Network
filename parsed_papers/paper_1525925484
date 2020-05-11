@@ -1,0 +1,51 @@
+{
+    "id": "1525925484",
+    "title": "A hybrid discrete particle swarm optimization with pheromone for dynamic traveling salesman problem",
+    "venue": "international conference on computational collective intelligence",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Urszula Boryczka",
+            "id": "61822913",
+            "org": "Intitute of Computer Science, University of Silesia, Sosnowiec, Poland#TAB#"
+        },
+        {
+            "name": "Lukasz Strak",
+            "id": "1486003944",
+            "org": "Intitute of Computer Science, University of Silesia, Sosnowiec, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multi-swarm optimization",
+        "Metaheuristic",
+        "Artificial intelligence",
+        "2-opt",
+        "Machine learning",
+        "Combinatorial optimization",
+        "Ant colony optimization algorithms",
+        "Mathematical optimization",
+        "Computer science",
+        "Travelling salesman problem",
+        "Bottleneck traveling salesman problem",
+        "Particle swarm optimization"
+    ],
+    "references": [
+        "54570360",
+        "1485301293",
+        "1491497785",
+        "1499946327",
+        "1509408113",
+        "1532063097",
+        "1561764088",
+        "1581060459",
+        "1810046508",
+        "1841046261",
+        "2011039300",
+        "2029510805",
+        "2081231516",
+        "2120204384",
+        "2130183626",
+        "2168079536",
+        "2511614442"
+    ]
+}

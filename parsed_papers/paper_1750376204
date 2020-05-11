@@ -1,0 +1,40 @@
+{
+    "id": "1750376204",
+    "title": "Recognition of Planar Point Configurations Using Density of Affine Shape",
+    "venue": "european conference on computer vision",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Rikard Berthilsson",
+            "id": "110365202",
+            "org": "Lund University"
+        },
+        {
+            "name": "Anders Heyden",
+            "id": "2161996623",
+            "org": "Lund University"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Computer vision",
+        "Artificial intelligence",
+        "Signal processing",
+        "Statistical theory",
+        "Affine transformation",
+        "Invariant (mathematics)",
+        "Computational geometry",
+        "Special case",
+        "Affine shape adaptation",
+        "Cross-ratio",
+        "Mathematics"
+    ],
+    "references": [
+        "1735413976",
+        "1786485763",
+        "1981198419",
+        "2007938835",
+        "2013113861",
+        "2025160417"
+    ]
+}

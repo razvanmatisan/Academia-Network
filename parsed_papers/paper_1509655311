@@ -1,0 +1,29 @@
+{
+    "id": "1509655311",
+    "title": "Geometric logic in computer science",
+    "venue": "formal methods",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Steven Vickers",
+            "id": "2170464144",
+            "org": "Imperial College"
+        }
+    ],
+    "fields_of_study": [
+        "Signature (logic)",
+        "Theoretical computer science",
+        "Dynamic logic (modal logic)",
+        "Logic synthesis",
+        "Automated reasoning",
+        "Computational logic",
+        "Algorithm",
+        "Multimodal logic",
+        "Categorical logic",
+        "Logic in computer science",
+        "Computer science"
+    ],
+    "references": [
+        "228428197"
+    ]
+}

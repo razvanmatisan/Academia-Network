@@ -1,0 +1,57 @@
+{
+    "id": "1494632860",
+    "title": "Spelling correction for search engine queries",
+    "venue": "international conference natural language processing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Bruno Martins",
+            "id": "2238216042",
+            "org": "Faculdade de Ciencias da Universidade de Lisboa"
+        },
+        {
+            "name": "Mario J. Silva",
+            "id": "2337617048",
+            "org": "Faculdade de Ciencias da Universidade de Lisboa"
+        }
+    ],
+    "fields_of_study": [
+        "Web community",
+        "Search tree",
+        "Information retrieval",
+        "Data structure",
+        "Distributed computing",
+        "Edit distance",
+        "Database",
+        "Spelling",
+        "Search engine",
+        "Computer science",
+        "Ternary search tree",
+        "Web search engine"
+    ],
+    "references": [
+        "88044417",
+        "1480726700",
+        "1580142630",
+        "1607582004",
+        "1660390307",
+        "1970026646",
+        "2000484009",
+        "2010595692",
+        "2016768890",
+        "2029500199",
+        "2050050080",
+        "2055846397",
+        "2057900969",
+        "2058822978",
+        "2066636486",
+        "2066792529",
+        "2088534759",
+        "2096283077",
+        "2144226312",
+        "2151587853",
+        "2160595137",
+        "2161123931",
+        "2293948378"
+    ]
+}

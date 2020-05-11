@@ -1,0 +1,48 @@
+{
+    "id": "1596169426",
+    "title": "Pattern-Based Object-Oriented Parallel Programming",
+    "venue": "conference on scientific computing",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Steve MacDonald",
+            "id": "2107906251",
+            "org": "University of Alberta"
+        },
+        {
+            "name": "Jonathan Schaeffer",
+            "id": "2278512575",
+            "org": "University of Alberta"
+        },
+        {
+            "name": "Duane Szafron",
+            "id": "2130120576",
+            "org": "University of Alberta"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Functional reactive programming",
+        "Theoretical computer science",
+        "Inductive programming",
+        "Programming paradigm",
+        "Parallel computing",
+        "Event-driven programming",
+        "Parallel programming model",
+        "Computer science",
+        "Programming domain",
+        "Reactive programming",
+        "Symbolic programming"
+    ],
+    "references": [
+        "160336082",
+        "1964638409",
+        "1984489185",
+        "2002221083",
+        "2018100839",
+        "2098346125",
+        "2113834765",
+        "2121984483",
+        "2155001461"
+    ]
+}

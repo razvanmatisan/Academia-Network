@@ -1,0 +1,38 @@
+{
+    "id": "1601015633",
+    "title": "Generating predictive movie recommendations from trust in social networks",
+    "venue": "international conference on trust management",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jennifer Golbeck",
+            "id": "2061781787",
+            "org": "University of Maryland, College Park, College Park, Maryland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Expert system",
+        "Distributed computing",
+        "Interpersonal relationship",
+        "Recommender system",
+        "World Wide Web",
+        "Social network analysis",
+        "Collaborative filtering",
+        "Social network",
+        "Computer science",
+        "The Internet"
+    ],
+    "references": [
+        "45952787",
+        "172759583",
+        "1549514249",
+        "1593027538",
+        "1725202765",
+        "1939407039",
+        "1971040550",
+        "2042281163",
+        "2098685442",
+        "2134584261"
+    ]
+}

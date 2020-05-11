@@ -1,0 +1,39 @@
+{
+    "id": "1523289549",
+    "title": "Rule-Based prediction of rare extreme values",
+    "venue": "discovery science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Rita P. Ribeiro",
+            "id": "2144810393",
+            "org": "LIACC, University of Porto, Porto, Portugal#TAB#"
+        },
+        {
+            "name": "Luis Torgo",
+            "id": "1973271071",
+            "org": "FEP/LIACC, University of Porto, Porto, Portugal#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Machine learning",
+        "Decision tree",
+        "Rare events",
+        "Artificial intelligence",
+        "Estimator",
+        "Rule-based system",
+        "Extreme value theory",
+        "Subject-matter expert",
+        "Mean squared error",
+        "Small set",
+        "Mathematics"
+    ],
+    "references": [
+        "164125681",
+        "1527338945",
+        "1565746575",
+        "2071865391",
+        "2073847200"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "1608922959",
+    "title": "Modal Logic for Evaluating Formulas in Incomplete Contexts",
+    "venue": "international conference on conceptual structures",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Sergei A. Obiedkov",
+            "id": "2057145533",
+            "org": "Russian State University for the Humanities"
+        }
+    ],
+    "fields_of_study": [
+        "Three-valued logic",
+        "Knowledge representation and reasoning",
+        "Discrete mathematics",
+        "Propositional formula",
+        "Modal logic",
+        "Complete information",
+        "Nonsense",
+        "Mathematics"
+    ],
+    "references": [
+        "130537534",
+        "1503729935",
+        "1535478114",
+        "1593284111",
+        "1852340955"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1533989120",
+    "title": "Correspondence clustering: an approach to cluster multiple related spatial datasets",
+    "venue": "knowledge discovery and data mining",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Vadeerat Rinsurongkawong",
+            "id": "311715859",
+            "org": "Department of Computer Science, University of Houston, Houston, TX#TAB#"
+        },
+        {
+            "name": "Christoph F. Eick",
+            "id": "715851671",
+            "org": "Department of Computer Science, University of Houston, Houston, TX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Data mining",
+        "Machine learning",
+        "Artificial intelligence",
+        "FLAME clustering",
+        "Fuzzy clustering",
+        "k-medians clustering",
+        "CURE data clustering algorithm",
+        "Correlation clustering",
+        "Single-linkage clustering",
+        "Brown clustering",
+        "Mathematics"
+    ],
+    "references": [
+        "1493217831",
+        "1547690326",
+        "1805070110",
+        "2033403400",
+        "2101561981",
+        "2133576408",
+        "2161863664",
+        "2293546752"
+    ]
+}

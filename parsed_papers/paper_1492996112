@@ -1,0 +1,42 @@
+{
+    "id": "1492996112",
+    "title": "Adaptive parameter control for quantum-behaved particle swarm optimization on individual level",
+    "venue": "systems, man and cybernetics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jun Sun",
+            "id": "2690731300",
+            "org": "Sch. of Inf. Technol., Southern Yangtze Univ., Wuxi, China"
+        },
+        {
+            "name": "Wenbo Xu",
+            "id": "2720140162",
+            "org": "Sch. of Inf. Technol., Southern Yangtze Univ., Wuxi, China"
+        },
+        {
+            "name": "Bin Feng",
+            "id": "2145244997",
+            "org": "Sch. of Inf. Technol., Southern Yangtze Univ., Wuxi, China"
+        }
+    ],
+    "fields_of_study": [
+        "Meta-optimization",
+        "Convergence (routing)",
+        "Metaheuristic",
+        "Control theory",
+        "Multi-swarm optimization",
+        "Machine learning",
+        "Genetic algorithm",
+        "Mathematical optimization",
+        "Artificial intelligence",
+        "Population",
+        "Adaptive control",
+        "Computer science",
+        "Particle swarm optimization"
+    ],
+    "references": [
+        "1560921017",
+        "1566399673"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1635185007",
+    "title": "A Multi-Agent Approach for Modelling, Enacting and Evolving Distributed Cooperative Software Processes",
+    "venue": "european workshop on software process technology",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Ilham Alloui",
+            "id": "2694325563",
+            "org": "CRISS-Universite Pierre Mendes France"
+        },
+        {
+            "name": "Safia Latrous",
+            "id": "2275524585",
+            "org": "CRISS-Universite Pierre Mendes France"
+        },
+        {
+            "name": "Flavio Oquendo",
+            "id": "2308296041",
+            "org": "Universite de Savoie"
+        }
+    ],
+    "fields_of_study": [
+        "Resource-oriented architecture",
+        "Management science",
+        "Component-based software engineering",
+        "Software framework",
+        "Imagix 4D",
+        "Goal-Driven Software Development Process",
+        "Social software engineering",
+        "Software development",
+        "Software design",
+        "Systems engineering",
+        "Computer science"
+    ],
+    "references": [
+        "2099353909",
+        "2137992911",
+        "2152429320",
+        "2171278366",
+        "2431139695"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1517516770",
+    "title": "The Kohonen Algorithm: A Powerful Tool for Analyzing and Representing Multidimensional Quantitative and Qualitative Data",
+    "venue": "international work conference on artificial and natural neural networks",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Marie Cottrell",
+            "id": "1986764035",
+            "org": "SAMOS, Universite Paris 1"
+        },
+        {
+            "name": "Patrick Rousset",
+            "id": "2473856025",
+            "org": "SAMOS, Universite Paris 1"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Linear model",
+        "Qualitative property",
+        "Homogeneity (statistics)",
+        "Multidimensional analysis",
+        "Self-organizing map",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "General linear model",
+        "Computer science",
+        "Nonlinear system",
+        "Generalized linear model"
+    ],
+    "references": [
+        "13354875",
+        "15934332",
+        "101216601",
+        "1485342750",
+        "2113021507"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1514419744",
+    "title": "Orienting and Reorienting in Egocentric Mental Models",
+    "venue": "formal methods",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Robin Hornig",
+            "id": "2125467376",
+            "org": "Technical University of Berlin"
+        },
+        {
+            "name": "Klaus Eyferth",
+            "id": "2294226176",
+            "org": "Technical University of Berlin"
+        },
+        {
+            "name": "Holger Gartner",
+            "id": "2580206879",
+            "org": "Technical University of Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Mental image",
+        "Theoretical computer science",
+        "Spatial intelligence",
+        "Reference frame",
+        "Spatial cognition",
+        "Invariant (mathematics)",
+        "Motion estimation",
+        "Machine learning",
+        "Salience (language)",
+        "Computer vision",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1496486247",
+        "1536085466",
+        "1778107938"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1511252894",
+    "title": "A Product Machine Model for Anomaly Detection of Interposition Attacks on Cyber-Physical Systems",
+    "venue": "information security",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Carlo Bellettini",
+            "id": "1780361130",
+            "org": "Universitadegli Studi di Milano"
+        },
+        {
+            "name": "Julian L. Rrushi",
+            "id": "93027083",
+            "org": "Universitadegli Studi di Milano"
+        }
+    ],
+    "fields_of_study": [
+        "Exploit",
+        "Modbus",
+        "Computer science",
+        "Computer security",
+        "Intrusion detection system",
+        "Anomaly detection",
+        "Null function",
+        "Real-time computing",
+        "System call",
+        "Inter-process communication",
+        "Distributed computing",
+        "Anomaly-based intrusion detection system"
+    ],
+    "references": [
+        "1540999307",
+        "1573320298",
+        "1903577715",
+        "2025475662",
+        "2117790069",
+        "2137569638",
+        "2167332015",
+        "2168264487"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1490216362",
+    "title": "Maintaining versions of dynamic XML documents",
+    "venue": "web information systems engineering",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Laura Irina Rusu",
+            "id": "2096641372",
+            "org": "Department of Computer Science and Computer Engineering, LaTrobe University, Bundoora, VIC, Australia#TAB#"
+        },
+        {
+            "name": "J. Wenny Rahayu",
+            "id": "2096900180",
+            "org": "Department of Computer Science and Computer Engineering, LaTrobe University, Bundoora, VIC, Australia#TAB#"
+        },
+        {
+            "name": "David Taniar",
+            "id": "2250317084",
+            "org": "School of Business Systems, Monash University, Clayton, VIC, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Streaming XML",
+        "Information retrieval",
+        "XML Encryption",
+        "Data mining",
+        "Computer science",
+        "cXML",
+        "XML validation",
+        "XML Schema Editor",
+        "XML framework",
+        "XML Catalog",
+        "Efficient XML Interchange"
+    ],
+    "references": [
+        "1496113768",
+        "1531976089",
+        "1533573623",
+        "2006061474",
+        "2026168616",
+        "2054340289",
+        "2115386467",
+        "2152593687"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1515657705",
+    "title": "Experiences on Lean Techniques to Manage Software Suppliers",
+    "venue": "product focused software process improvement",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Ton Vullinghs",
+            "id": "1907008049",
+            "org": "DaimlerChrysler AG"
+        },
+        {
+            "name": "Thomas Gantner",
+            "id": "2060360899",
+            "org": "DaimlerChrysler AG"
+        },
+        {
+            "name": "Stephan Steinhauer",
+            "id": "2665185508",
+            "org": "DaimlerChrysler AG"
+        },
+        {
+            "name": "Thomas Weber",
+            "id": "2592875753",
+            "org": "DaimlerChrysler AG"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Software quality control",
+        "Software quality assurance",
+        "Software development",
+        "Software quality",
+        "Engineering",
+        "Software verification and validation",
+        "Package development process",
+        "Software quality analyst",
+        "Software security assurance"
+    ],
+    "references": []
+}

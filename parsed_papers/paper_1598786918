@@ -1,0 +1,28 @@
+{
+    "id": "1598786918",
+    "title": "Synthesis rules for Petri nets, and how they lead to new results",
+    "venue": "international conference on concurrency theory",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Javier Esparza",
+            "id": "2123449190",
+            "org": "Universitat Hildesheim"
+        }
+    ],
+    "fields_of_study": [
+        "Process architecture",
+        "Theoretical computer science",
+        "Computer science",
+        "Stochastic Petri net",
+        "Incidence matrix",
+        "Discrete mathematics",
+        "Petri net",
+        "Top-down and bottom-up design",
+        "Expressive power"
+    ],
+    "references": [
+        "2058791725",
+        "2083567135"
+    ]
+}

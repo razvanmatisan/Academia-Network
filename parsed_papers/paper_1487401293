@@ -1,0 +1,31 @@
+{
+    "id": "1487401293",
+    "title": "User modelling and mobile learning",
+    "venue": "international conference on user modeling, adaptation, and personalization",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Susan Bull",
+            "id": "2118966844",
+            "org": "Electronic, Electrical and Computer Engineering, University of Birmingham, Edgbaston, Birmingham, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multimedia",
+        "Location awareness",
+        "Human-computer interaction",
+        "Delegation (computing)",
+        "Context awareness",
+        "User assistance",
+        "Mobile computing",
+        "Intelligent tutoring system",
+        "User interface",
+        "Computer science"
+    ],
+    "references": [
+        "1495724825",
+        "1784958424",
+        "2004408811",
+        "2108416844"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "1656156673",
+    "title": "Writing Reusable Digital Topology Algorithms in a Generic Image Processing Framework",
+    "venue": "arXiv: Mathematical Software",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Roland Levillain",
+            "id": "2288712829",
+            "org": "EPITA Research and Development Laboratory (LRDE)"
+        },
+        {
+            "name": "Roland Levillain",
+            "id": "2288712829",
+            "org": "EPITA Research and Development Laboratory (LRDE)"
+        },
+        {
+            "name": "Thierry Geraud",
+            "id": "1970656084",
+            "org": "EPITA Research and Development Laboratory (LRDE)"
+        },
+        {
+            "name": "Thierry Geraud",
+            "id": "1970656084",
+            "org": "EPITA Research and Development Laboratory (LRDE)"
+        },
+        {
+            "name": "Laurent Najman",
+            "id": "2736861629",
+            "org": "Universite Paris-Est"
+        }
+    ],
+    "fields_of_study": [
+        "Data structure",
+        "Theoretical computer science",
+        "Reuse",
+        "Software",
+        "Image processing",
+        "USable",
+        "Digital topology",
+        "Algorithm",
+        "Computer science",
+        "Generic programming",
+        "Generality"
+    ],
+    "references": [
+        "1481353708",
+        "1556953677",
+        "1968466775",
+        "1991663161",
+        "2001158482",
+        "2074729177",
+        "2131262506"
+    ]
+}

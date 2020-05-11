@@ -1,0 +1,38 @@
+{
+    "id": "1516636695",
+    "title": "Trade Off Between Compression and Search Times in Compact Suffix Array",
+    "venue": "algorithm engineering and experimentation",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Veli Makinen",
+            "id": "2026327678",
+            "org": "University of Helsinki"
+        }
+    ],
+    "fields_of_study": [
+        "Generalized suffix tree",
+        "Compressed suffix array",
+        "FM-index",
+        "Binary search algorithm",
+        "Computer science",
+        "Suffix",
+        "Longest common substring problem",
+        "Theoretical computer science",
+        "Search algorithm",
+        "Suffix array"
+    ],
+    "references": [
+        "1518230444",
+        "1986106281",
+        "2013697960",
+        "2056707490",
+        "2059513841",
+        "2121252285",
+        "2141812575",
+        "2158322625",
+        "2158874082",
+        "2170899819",
+        "2533248932"
+    ]
+}

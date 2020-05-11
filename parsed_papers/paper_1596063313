@@ -1,0 +1,39 @@
+{
+    "id": "1596063313",
+    "title": "Flow graphs and decision tables with fuzzy attributes",
+    "venue": "international conference on artificial intelligence and soft computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Alicja Mieszkowicz-Rolka",
+            "id": "1665588872",
+            "org": "Department of Avionics and Control, Rzeszow University of Technology, Rzeszow, Poland#TAB#"
+        },
+        {
+            "name": "Leszek Rolka",
+            "id": "1753103523",
+            "org": "Department of Avionics and Control, Rzeszow University of Technology, Rzeszow, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Fuzzy mathematics",
+        "Fuzzy measure theory",
+        "Type-2 fuzzy sets and systems",
+        "Fuzzy subalgebra",
+        "Fuzzy set operations",
+        "Defuzzification",
+        "Mathematics",
+        "Fuzzy classification",
+        "Fuzzy number"
+    ],
+    "references": [
+        "1485091391",
+        "1570082825",
+        "1586867397",
+        "1756571804",
+        "1846245088",
+        "1960786550"
+    ]
+}

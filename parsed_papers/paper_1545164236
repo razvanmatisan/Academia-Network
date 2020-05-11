@@ -1,0 +1,44 @@
+{
+    "id": "1545164236",
+    "title": "The Extended Partitioning Problem: Hardware/Software Mapping, Scheduling, and Implementation-bin Selection",
+    "venue": "Design Automation for Embedded Systems",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Asawaree Kalavade",
+            "id": "2076545876",
+            "org": "Dept. of EECS, University of California at Berkeley, Berkeley#TAB#"
+        },
+        {
+            "name": "Edward A. Lee",
+            "id": "2104350586",
+            "org": "Dept. of EECS, University of California at Berkeley, Berkeley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Constrained optimization",
+        "Heuristic",
+        "Real-time computing",
+        "Bin",
+        "Electronic system-level design and verification",
+        "Computer hardware",
+        "Scheduling (computing)",
+        "Mathematical optimization",
+        "Granularity",
+        "Heuristics",
+        "Optimization problem",
+        "Computer science"
+    ],
+    "references": [
+        "2006152335",
+        "2011784906",
+        "2012613482",
+        "2054918342",
+        "2093842169",
+        "2097053919",
+        "2097911714",
+        "2135308029",
+        "2155050131",
+        "2157525826"
+    ]
+}

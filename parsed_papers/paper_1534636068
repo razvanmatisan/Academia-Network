@@ -1,0 +1,52 @@
+{
+    "id": "1534636068",
+    "title": "Hardware-accelerated point-based rendering of complex scenes",
+    "venue": "eurographics",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Liviu Coconu",
+            "id": "1974905233",
+            "org": "Zuse Institute Berlin (ZIB), Germany#TAB#"
+        },
+        {
+            "name": "Hans-Christian Hege",
+            "id": "2235134787",
+            "org": "Zuse Institute Berlin (ZIB), Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Image-based modeling and rendering",
+        "Parallel rendering",
+        "3D rendering",
+        "Software rendering",
+        "Rendering (computer graphics)",
+        "Computer hardware",
+        "Texture memory",
+        "Computer vision",
+        "Tiled rendering",
+        "Real-time rendering",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1487031213",
+        "1493143135",
+        "1496150352",
+        "1503421060",
+        "2020599179",
+        "2028687412",
+        "2111169574",
+        "2112812291",
+        "2113634802",
+        "2118688057",
+        "2129511102",
+        "2140693291",
+        "2152508418",
+        "2158037930",
+        "2168336725",
+        "2234052603",
+        "2293372129",
+        "2535787693"
+    ]
+}

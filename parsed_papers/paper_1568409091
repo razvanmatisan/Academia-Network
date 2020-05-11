@@ -1,0 +1,40 @@
+{
+    "id": "1568409091",
+    "title": "A stochastic point-based algorithm for POMDPs",
+    "venue": "canadian conference on artificial intelligence",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Francois Laviolette",
+            "id": "2076579854",
+            "org": "Laval University, Computer Science Department, Quebec, Canada#TAB#"
+        },
+        {
+            "name": "Ludovic Tobin",
+            "id": "2113471851",
+            "org": "Laval University, Computer Science Department, Quebec, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Bellman equation",
+        "Artificial intelligence",
+        "Temporal difference learning",
+        "Markov decision process",
+        "Mathematical optimization",
+        "Backup",
+        "Partially observable Markov decision process",
+        "Action selection",
+        "Operator (computer programming)",
+        "Algorithm",
+        "Look-ahead",
+        "Computer science"
+    ],
+    "references": [
+        "1498235675",
+        "1532688806",
+        "1636455720",
+        "2061226732",
+        "2134802714"
+    ]
+}

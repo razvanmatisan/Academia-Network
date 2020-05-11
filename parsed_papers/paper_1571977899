@@ -1,0 +1,48 @@
+{
+    "id": "1571977899",
+    "title": "An Update Front-End for Extended Logic Programs",
+    "venue": "international conference on logic programming",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Thomas Eiter",
+            "id": "420267153",
+            "org": "Technische Universitat Wien"
+        },
+        {
+            "name": "Michael Fink",
+            "id": "2129707720",
+            "org": "Technische Universitat Wien"
+        },
+        {
+            "name": "Giuliana Sabbatini",
+            "id": "2119955124",
+            "org": "Technische Universitat Wien"
+        },
+        {
+            "name": "Hans Tompits",
+            "id": "243159852",
+            "org": "Technische Universitat Wien"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Expert system",
+        "Semantics",
+        "Stable model semantics",
+        "Algorithm",
+        "Knowledge representation and reasoning",
+        "Computer science",
+        "Logic programming",
+        "Solver",
+        "Semantic reasoner",
+        "Well-founded semantics"
+    ],
+    "references": [
+        "59923821",
+        "83671853",
+        "1518772666",
+        "1551453953",
+        "2105631606"
+    ]
+}

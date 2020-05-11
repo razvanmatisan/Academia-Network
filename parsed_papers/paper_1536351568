@@ -1,0 +1,37 @@
+{
+    "id": "1536351568",
+    "title": "A comparison of decision-theoretic, fixed-policy and random tutorial action selection",
+    "venue": "intelligent tutoring systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "R. Charles Murray",
+            "id": "2097454260",
+            "org": "Carnegie Learning, Inc., Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Kurt VanLehn",
+            "id": "1971303852",
+            "org": "Computer Science Department & Learning Research and Development Center, University of Pittsburgh, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Speech recognition",
+        "Artificial intelligence",
+        "Cognitive tutor",
+        "Training set",
+        "Computer science",
+        "User assistance",
+        "Action selection",
+        "Decision theory",
+        "TUTOR"
+    ],
+    "references": [
+        "1529098247",
+        "1949572126",
+        "2005111406",
+        "2139891935",
+        "2159080219"
+    ]
+}

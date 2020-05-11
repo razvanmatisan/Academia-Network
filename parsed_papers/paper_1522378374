@@ -1,0 +1,31 @@
+{
+    "id": "1522378374",
+    "title": "How are the locations of objects in the environment represented in memory",
+    "venue": "international conference spatial cognition",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Timothy P. McNamara",
+            "id": "1916192772",
+            "org": "Department of Psychology, Vanderbilt University, Nashville#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Instrumental and intrinsic value",
+        "Computer vision",
+        "Observer (quantum physics)",
+        "Visual memory",
+        "Distributed computing",
+        "Spatial relation",
+        "Image processing",
+        "Object-oriented programming",
+        "Spatial reference system",
+        "Location theory",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1546841329",
+        "1567659326"
+    ]
+}

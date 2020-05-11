@@ -1,0 +1,42 @@
+{
+    "id": "1546606114",
+    "title": "Integrating management support systems into strategic information systems planning",
+    "venue": "Journal of Management Information Systems",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "John C. Henderson",
+            "id": "1978997944",
+            "org": "MIT, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "John F. Rockart",
+            "id": "334485187",
+            "org": "MIT, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "John G. Sifonis",
+            "id": "47425902",
+            "org": "MIT, Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Management science",
+        "Data model",
+        "Strategic information system",
+        "Decision support system",
+        "Information system",
+        "Automation",
+        "Intelligent decision support system",
+        "Management information systems",
+        "Computer science",
+        "Critical success factor"
+    ],
+    "references": [
+        "166149995",
+        "1590974763",
+        "1600398602",
+        "2055079566"
+    ]
+}

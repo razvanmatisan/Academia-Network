@@ -1,0 +1,39 @@
+{
+    "id": "1539320843",
+    "title": "Distributed Pair Programming: An Empirical Study",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Brian F. Hanks",
+            "id": "2571497307",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Programming paradigm",
+        "Procedural programming",
+        "Inductive programming",
+        "Pair programming",
+        "Protocol (object-oriented programming)",
+        "Distributed computing",
+        "Reactive programming",
+        "Programming domain",
+        "Extensible programming",
+        "Computer science"
+    ],
+    "references": [
+        "1488077794",
+        "1507897335",
+        "1509296764",
+        "1767059942",
+        "2036219993",
+        "2049329210",
+        "2117492729",
+        "2134202463",
+        "2148071752",
+        "2148421305",
+        "2153027474",
+        "2161232704"
+    ]
+}

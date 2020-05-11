@@ -1,0 +1,36 @@
+{
+    "id": "135990097",
+    "title": "An effect of short and long reciprocal projections on evolution of hierarchical neural networks",
+    "venue": "international conference on artificial neural networks",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Vladyslav V. Shaposhnyk",
+            "id": "2313324117",
+            "org": "Neuroheuristic Laboratory, Faculty of Business and Economics, University of Lausanne, Switzerland#TAB#"
+        },
+        {
+            "name": "Alessandro E. P. Villa",
+            "id": "2132268444",
+            "org": "Neuroheuristic Laboratory, Faculty of Business and Economics, University of Lausanne, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Electronic circuit",
+        "Machine learning",
+        "Pattern recognition",
+        "Stimulus (physiology)",
+        "Artificial intelligence",
+        "Artificial neural network",
+        "Reciprocal",
+        "Computer science",
+        "Electroencephalography",
+        "Offset (computer science)"
+    ],
+    "references": [
+        "1564988014",
+        "1582813132",
+        "1986245379",
+        "2079351736"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1597492513",
+    "title": "A Framework for the Specification of Reactive and Concurrent Systems in Z",
+    "venue": "foundations of software technology and theoretical computer science",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Peter Baumann",
+            "id": "2271451528",
+            "org": "Institut fur Informatik der Universitat Zurich"
+        },
+        {
+            "name": "Karl Lermer",
+            "id": "508031380",
+            "org": "Institut fur Informatik der Universitat Zurich"
+        }
+    ],
+    "fields_of_study": [
+        "Formal methods",
+        "Correctness",
+        "Language Of Temporal Ordering Specification",
+        "Discrete mathematics",
+        "Specification language",
+        "Z notation",
+        "Formal specification",
+        "Grammar systems theory",
+        "Computer science",
+        "Liveness"
+    ],
+    "references": [
+        "1550186809",
+        "1574117976",
+        "2015688007",
+        "2040068897",
+        "2124192263",
+        "2145864615",
+        "2296232480",
+        "2325245547"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1491189280",
+    "title": "TAS-D++: Syntactic Trees Transformations for Automated Theorem Proving",
+    "venue": "JELIA '94 Proceedings of the European Workshop on Logics in Artificial Intelligence",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Gabriel Aguilera",
+            "id": "2159683445",
+            "org": "Universidad de Malaga"
+        },
+        {
+            "name": "Inman P. de Guzman",
+            "id": "2107170595",
+            "org": "Universidad de Malaga"
+        },
+        {
+            "name": "Manuel Ojeda",
+            "id": "2502561012",
+            "org": "Universidad de Malaga"
+        }
+    ],
+    "fields_of_study": [
+        "Conjunctive normal form",
+        "Resolution (logic)",
+        "Discrete mathematics",
+        "Classical logic",
+        "First-order logic",
+        "Algorithm",
+        "Automated theorem proving",
+        "Automated proof checking",
+        "Godel's completeness theorem",
+        "Skolem normal form",
+        "Mathematics"
+    ],
+    "references": [
+        "1599315191",
+        "2036265926",
+        "2038464985",
+        "2126583599"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1486686925",
+    "title": "How Can an Agent Learn to Negotiate",
+    "venue": "intelligent agents",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Dajun Zeng",
+            "id": "2148102070",
+            "org": "Carnegie Mellon University"
+        },
+        {
+            "name": "Katia P. Sycara",
+            "id": "2068240882",
+            "org": "Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Decision-making models",
+        "Knowledge management",
+        "Reservation price",
+        "Decision analysis",
+        "Management science",
+        "Stochastic game",
+        "Computer science",
+        "Negotiation",
+        "Software agent",
+        "Bayesian network",
+        "Bayesian probability"
+    ],
+    "references": [
+        "19104040",
+        "1974176141",
+        "2137041106",
+        "2148454664",
+        "2171732592"
+    ]
+}

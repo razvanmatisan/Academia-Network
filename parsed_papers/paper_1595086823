@@ -1,0 +1,37 @@
+{
+    "id": "1595086823",
+    "title": "Using Induction to Generate Feedback in Simulation Based Discovery Learning Environments",
+    "venue": "intelligent tutoring systems",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Koen Veermans",
+            "id": "2087912724",
+            "org": "Faculty of Educational Science and Technology University of Twente"
+        },
+        {
+            "name": "Wouter R. van Joolingen",
+            "id": "606395363",
+            "org": "Faculty of Educational Science and Technology University of Twente"
+        }
+    ],
+    "fields_of_study": [
+        "Domain knowledge",
+        "Business process discovery",
+        "Authoring system",
+        "Machine learning",
+        "Artificial intelligence",
+        "Knowledge representation and reasoning",
+        "Discovery learning",
+        "Intelligent tutoring system",
+        "Knowledge acquisition",
+        "Computer science",
+        "Learning environment"
+    ],
+    "references": [
+        "1865674293",
+        "1977646294",
+        "1986569002",
+        "2131370811"
+    ]
+}

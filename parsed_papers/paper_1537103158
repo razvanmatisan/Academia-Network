@@ -1,0 +1,48 @@
+{
+    "id": "1537103158",
+    "title": "Towards Elasticity in Distributed File Systems",
+    "venue": "ieee/acm international symposium cluster, cloud and grid computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Cyril Seguin",
+            "id": "2124439590",
+            "org": "MIS Lab., UPJV, Villeurbanne, France"
+        },
+        {
+            "name": "Gael Le Mahec",
+            "id": "2668711829",
+            "org": "MIS Lab., UPJV, Villeurbanne, France"
+        },
+        {
+            "name": "Benjamin Depardon",
+            "id": "2072788207",
+            "org": "SysFera, Villeurbanne, France"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Utility computing",
+        "Distributed computing",
+        "Fault tolerance",
+        "Workload",
+        "Distributed database",
+        "Server",
+        "Cloud computing",
+        "Computer science",
+        "Distributed File System",
+        "Virtual machine"
+    ],
+    "references": [
+        "1482713870",
+        "1972699782",
+        "2001438822",
+        "2045746095",
+        "2099204199",
+        "2108370395",
+        "2119541875",
+        "2119565742",
+        "2119738171",
+        "2131645490"
+    ]
+}

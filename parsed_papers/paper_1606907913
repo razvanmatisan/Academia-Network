@@ -1,0 +1,34 @@
+{
+    "id": "1606907913",
+    "title": "Implementing MPI-2 Extended Collective Operations",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Pedro V. Silva",
+            "id": "2574398454",
+            "org": "Universidade de Coimbra"
+        },
+        {
+            "name": "Joao Gabriel Silva",
+            "id": "2136798047",
+            "org": "Universidade de Coimbra"
+        }
+    ],
+    "fields_of_study": [
+        "Implementation",
+        "Parallel computing",
+        "Distributed computing",
+        "MPICH",
+        "Shared memory",
+        "Message Passing Interface",
+        "Computer science"
+    ],
+    "references": [
+        "1521244776",
+        "1644241817",
+        "2006703870",
+        "2051461036",
+        "2133994512"
+    ]
+}

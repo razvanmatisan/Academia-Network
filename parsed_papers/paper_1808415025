@@ -1,0 +1,30 @@
+{
+    "id": "1808415025",
+    "title": "Visualizing large data by the SOM and GTM methods -- what are we obtaining?",
+    "venue": "intelligent information systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Anna Bartkowiak",
+            "id": "2029169304",
+            "org": "University of Wroclaw"
+        }
+    ],
+    "fields_of_study": [
+        "Visualization",
+        "Extreme point",
+        "Data mining",
+        "Outlier",
+        "Multivariate statistics",
+        "Machine learning",
+        "Artificial intelligence",
+        "Data set",
+        "Quantization (signal processing)",
+        "Computer science"
+    ],
+    "references": [
+        "1483072991",
+        "1980262437",
+        "2107636931"
+    ]
+}

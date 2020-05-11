@@ -1,0 +1,38 @@
+{
+    "id": "1517928214",
+    "title": "The NESTOR framework: how to handle hierarchical data structures",
+    "venue": "european conference on research and advanced technology for digital libraries",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Nicola Ferro",
+            "id": "2150237769",
+            "org": "Department of Information Engineering, University of Padua, Italy#TAB#"
+        },
+        {
+            "name": "Gianmaria Silvello",
+            "id": "2084520735",
+            "org": "Department of Information Engineering, University of Padua, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nested set model",
+        "World Wide Web",
+        "Computer science",
+        "Database",
+        "Protocol for Metadata Harvesting",
+        "Metadata",
+        "Data model",
+        "Data structure",
+        "Metadata repository",
+        "Data mining",
+        "Open Archives Initiative",
+        "Data modeling"
+    ],
+    "references": [
+        "1542469750",
+        "2014090877",
+        "2121010683",
+        "2611205009"
+    ]
+}

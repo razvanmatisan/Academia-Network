@@ -1,0 +1,44 @@
+{
+    "id": "1598330078",
+    "title": "Path-Based system level stimuli generation",
+    "venue": "haifa verification conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Shady Copty",
+            "id": "64742143",
+            "org": "IBM Research Lab in Haifa#TAB#"
+        },
+        {
+            "name": "Itai Jaeger",
+            "id": "2072589008",
+            "org": "IBM Research Lab in Haifa#TAB#"
+        },
+        {
+            "name": "Yoav Katz",
+            "id": "2155515741",
+            "org": "IBM Research Lab in Haifa#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "System on a chip",
+        "Real-time computing",
+        "Intelligent verification",
+        "Component-based software engineering",
+        "Software verification",
+        "Distributed computing",
+        "Computer science",
+        "High-level verification",
+        "Runtime verification",
+        "Functional verification",
+        "Complex system"
+    ],
+    "references": [
+        "1536409850",
+        "1566072248",
+        "2042835116",
+        "2102606870",
+        "2136357775",
+        "2156208763"
+    ]
+}

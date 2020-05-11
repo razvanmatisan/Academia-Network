@@ -1,0 +1,28 @@
+{
+    "id": "1498163379",
+    "title": "Recurrent Relations and Speed-up of Computations Using Computer Algebra Systems",
+    "venue": "international symposium on design and implementation of symbolic computation systems",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Eugene V. Zima",
+            "id": "2116019937",
+            "org": "Moscow State University"
+        }
+    ],
+    "fields_of_study": [
+        "Computation",
+        "Numerical analysis",
+        "Recurrence relation",
+        "Speedup",
+        "Algebraic number",
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "Automatic parallelization",
+        "Symbolic computation",
+        "Computer science"
+    ],
+    "references": [
+        "1768003599"
+    ]
+}

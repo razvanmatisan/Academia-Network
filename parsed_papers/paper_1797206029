@@ -1,0 +1,31 @@
+{
+    "id": "1797206029",
+    "title": "An Identity Based Encryption Scheme Based on Quadratic Residues",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Clifford Cocks",
+            "id": "2281374495",
+            "org": "Communications-Electronics Security Group"
+        }
+    ],
+    "fields_of_study": [
+        "Quadratic residue",
+        "Plaintext-aware encryption",
+        "ID-based encryption",
+        "Goldwasser-Micali cryptosystem",
+        "Quadratic residuosity problem",
+        "Theoretical computer science",
+        "Deterministic encryption",
+        "Cryptosystem",
+        "Probabilistic encryption",
+        "Computer science"
+    ],
+    "references": [
+        "1496801598",
+        "1569083856",
+        "2086042811",
+        "2129033453"
+    ]
+}

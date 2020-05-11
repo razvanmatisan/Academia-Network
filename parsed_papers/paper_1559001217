@@ -1,0 +1,41 @@
+{
+    "id": "1559001217",
+    "title": "Discovery of Ambiguous Patterns in Sequences: Application to Bioinformatics",
+    "venue": "european conference on principles of data mining and knowledge discovery",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Gerard Ramstein",
+            "id": "2776924570",
+            "org": "IRIN, Ecole polytechnique universitaire de Nantes, Nantes Cedex 3, France"
+        },
+        {
+            "name": "Pascal Bunelle",
+            "id": "2398600034",
+            "org": "IRIN, Ecole polytechnique universitaire de Nantes, Nantes Cedex 3, France"
+        },
+        {
+            "name": "Yannick Jacques",
+            "id": "2012814669",
+            "org": "INSERM U.463, Institut de Biologie, Nantes Cedex 1, France"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Artificial intelligence",
+        "Notation",
+        "Machine learning",
+        "Data mining",
+        "Information processing",
+        "Substitution matrix",
+        "Knowledge acquisition",
+        "Ancestor",
+        "Bioinformatics"
+    ],
+    "references": [
+        "20722260",
+        "58080530",
+        "1641039719",
+        "2158454296"
+    ]
+}

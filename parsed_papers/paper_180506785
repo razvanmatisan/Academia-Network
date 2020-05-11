@@ -1,0 +1,38 @@
+{
+    "id": "180506785",
+    "title": "Heuristics for automated text-based shallow ontology generation",
+    "venue": "international semantic web conference",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Mihaela Vela",
+            "id": "2251961376",
+            "org": "DFKI Saarbrucken, Saarbruecken, Germany#TAB#"
+        },
+        {
+            "name": "Thierry Declerck",
+            "id": "2320904631",
+            "org": "DFKI Saarbrucken, Saarbruecken, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Database",
+        "Process ontology",
+        "Semantic technology",
+        "Ontology-based data integration",
+        "Computer science",
+        "Business intelligence",
+        "Ontology",
+        "Natural language processing",
+        "Ontology (information science)",
+        "Upper ontology",
+        "Heuristics",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "107963105",
+        "1611804050",
+        "2336752155"
+    ]
+}

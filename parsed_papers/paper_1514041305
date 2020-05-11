@@ -1,0 +1,51 @@
+{
+    "id": "1514041305",
+    "title": "Metaserver locality and scalability in a distributed NFS",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Everton Hermann",
+            "id": "2332665429",
+            "org": "Instituto de Informatica, UFRGS, Porto Alegre, Brazil#TAB#"
+        },
+        {
+            "name": "Rafael Bohrer Avila",
+            "id": "2146491851",
+            "org": "Instituto de Informatica, UFRGS, Porto Alegre, Brazil#TAB#"
+        },
+        {
+            "name": "Philippe Olivier Alexandre Navaux",
+            "id": "2008884277",
+            "org": "Instituto de Informatica, UFRGS, Porto Alegre, Brazil#TAB#"
+        },
+        {
+            "name": "Yves Denneulin",
+            "id": "2522603311",
+            "org": "Laboratoire ID, IMAG, Montbonnot-Saint Martin, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "File server",
+        "Network File System",
+        "Unix file types",
+        "Parallel computing",
+        "Distributed computing",
+        "SSH File Transfer Protocol",
+        "Distributed File System",
+        "Computer science",
+        "Server",
+        "File system fragmentation",
+        "Self-certifying File System",
+        "Computer network"
+    ],
+    "references": [
+        "1482310682",
+        "2045568445",
+        "2110298485",
+        "2115457697",
+        "2124288146",
+        "2131645490",
+        "2157378176"
+    ]
+}

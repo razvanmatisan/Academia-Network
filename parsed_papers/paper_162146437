@@ -1,0 +1,42 @@
+{
+    "id": "162146437",
+    "title": "PNrule: A New Framework for Learning Classifier Models in Data Mining (A Case-Study in Network Intrusion Detection).",
+    "venue": "siam international conference on data mining",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Ramesh C. Agarwal",
+            "id": "2293291449",
+            "org": "IBM"
+        },
+        {
+            "name": "Mahesh V. Joshi",
+            "id": "2710696822",
+            "org": "IBM"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern recognition",
+        "Categorical variable",
+        "Training set",
+        "Artificial intelligence",
+        "Machine learning",
+        "Classifier (linguistics)",
+        "Intrusion detection system",
+        "Rule-based system",
+        "Computer science",
+        "Data mining",
+        "Interpretability",
+        "Anomaly-based intrusion detection system",
+        "Multiclass classification"
+    ],
+    "references": [
+        "146100937",
+        "1512628935",
+        "1531743498",
+        "1535842702",
+        "1670263352",
+        "1993989674",
+        "2170335877"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1608626996",
+    "title": "Execution of Distributed Reactive Systems",
+    "venue": "european conference on parallel processing",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Paul Caspi",
+            "id": "2311139421",
+            "org": "Verimag, Miniparc - ZIRST"
+        },
+        {
+            "name": "Alain Girault",
+            "id": "2121357885",
+            "org": "Centre de Mathematiques Appliquees"
+        }
+    ],
+    "fields_of_study": [
+        "Functional reactive programming",
+        "Estimation of distribution algorithm",
+        "Distributed algorithm",
+        "Asynchronous communication",
+        "Synchronizer",
+        "Reactive programming",
+        "Computer science",
+        "Distributed computing",
+        "Reactive system",
+        "Real-time computing",
+        "Object code"
+    ],
+    "references": [
+        "1503767920",
+        "1593428110",
+        "1875492031",
+        "2117189826",
+        "2123784733"
+    ]
+}

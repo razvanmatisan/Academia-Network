@@ -1,0 +1,44 @@
+{
+    "id": "1580599221",
+    "title": "Hardness of Computing the Most Significant Bits of Secret Keys in Diffie-Hellman and Related Schemes",
+    "venue": "international cryptology conference",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Dan Boneh",
+            "id": "201828038",
+            "org": "Princeton University"
+        },
+        {
+            "name": "Ramarathnam Venkatesan",
+            "id": "2126319880",
+            "org": "Bellcore"
+        }
+    ],
+    "fields_of_study": [
+        "Key generation",
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "Public-key cryptography",
+        "Most significant bit",
+        "Collision resistance",
+        "Diffie-Hellman key exchange",
+        "Distributed computing",
+        "Key exchange",
+        "Block cipher",
+        "Mathematics",
+        "ElGamal encryption"
+    ],
+    "references": [
+        "1580913585",
+        "1840749574",
+        "1989510734",
+        "2027528470",
+        "2080017147",
+        "2106222017",
+        "2108104892",
+        "2108834246",
+        "2116916711",
+        "2156186849"
+    ]
+}

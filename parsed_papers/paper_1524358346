@@ -1,0 +1,38 @@
+{
+    "id": "1524358346",
+    "title": "Decomposition Trees: Structured Graph Representation and Efficient Algorithms",
+    "venue": "colloquium on trees in algebra and programming",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Clemens Lautemann",
+            "id": "1945255824",
+            "org": "Universitat Bremen"
+        }
+    ],
+    "fields_of_study": [
+        "Quartic graph",
+        "Graph power",
+        "Combinatorics",
+        "Factor-critical graph",
+        "Discrete mathematics",
+        "Algorithm",
+        "Butterfly graph",
+        "Strength of a graph",
+        "Voltage graph",
+        "SPQR tree",
+        "Mathematics",
+        "Simplex graph"
+    ],
+    "references": [
+        "1597530553",
+        "1598694679",
+        "1600820878",
+        "1680268247",
+        "2029448190",
+        "2034501206",
+        "2041034381",
+        "2041437718",
+        "2061817376"
+    ]
+}

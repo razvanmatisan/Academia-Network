@@ -1,0 +1,38 @@
+{
+    "id": "1560063177",
+    "title": "Hierarchical Bayesian Inference of Brain Activity",
+    "venue": "international conference on neural information processing",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Masa-aki Sato",
+            "id": "2128930947",
+            "org": "ATR Computational Neuroscience Laboratories,#TAB#"
+        },
+        {
+            "name": "Taku Yoshioka",
+            "id": "2105348547",
+            "org": "ATR Computational Neuroscience Laboratories, and National Institute of Information and Communication Technology,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Bayesian hierarchical modeling",
+        "Statistics",
+        "Artificial intelligence",
+        "Temporal resolution",
+        "Pattern recognition",
+        "Magnetoencephalography",
+        "Bayesian linear regression",
+        "Bayes' theorem",
+        "Prior probability",
+        "Inverse problem",
+        "Bayesian inference",
+        "Mathematics"
+    ],
+    "references": [
+        "1618600317",
+        "1970789124",
+        "2171911691"
+    ]
+}

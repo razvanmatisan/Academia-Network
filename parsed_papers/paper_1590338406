@@ -1,0 +1,35 @@
+{
+    "id": "1590338406",
+    "title": "Fast Computation of Discrete Logarithms in GF (q)",
+    "venue": "international cryptology conference",
+    "year": 1983,
+    "authors": [
+        {
+            "name": "Martin E. Hellman",
+            "id": "2146312211",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Justin M. Reyneri",
+            "id": "1243220554",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Natural logarithm of 2",
+        "Prime number",
+        "Computation",
+        "Precomputation",
+        "Logarithm",
+        "Discrete mathematics",
+        "Finite field",
+        "Asymptotic analysis",
+        "Computer science",
+        "Discrete logarithm"
+    ],
+    "references": [
+        "1981455414",
+        "1996360405",
+        "2156186849"
+    ]
+}

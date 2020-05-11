@@ -1,0 +1,39 @@
+{
+    "id": "111036056",
+    "title": "Priority level planning in kriegspiel",
+    "venue": "international conference on entertainment computing",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Paolo Ciancarini",
+            "id": "2120525876",
+            "org": "Dipartimento di Informatica, University of Bologna, Italy#TAB#"
+        },
+        {
+            "name": "Andrea Gasparro",
+            "id": "2410828473",
+            "org": "Dipartimento di Informatica, University of Bologna, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Transposition table",
+        "Horizon",
+        "Exploit",
+        "Complete information",
+        "Game tree",
+        "Brute-force search",
+        "Machine learning",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "127516230",
+        "1487385582",
+        "1508023617",
+        "1562282139",
+        "1625390266",
+        "1924471893",
+        "1974281669",
+        "2053835634"
+    ]
+}

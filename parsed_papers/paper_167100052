@@ -1,0 +1,37 @@
+{
+    "id": "167100052",
+    "title": "UML 2 Profiles for Ontology Charts and Diplans - Issues on Metamodelling.",
+    "venue": "Emisa Forum",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Jose A. Moinhos Cordeiro",
+            "id": "2436180431",
+            "org": "IEEE Computer Society"
+        },
+        {
+            "name": "Kecheng Liu",
+            "id": "2798842174",
+            "org": "University of Reading"
+        }
+    ],
+    "fields_of_study": [
+        "Diagrammatic reasoning",
+        "Organisational semiotics",
+        "Systems engineering",
+        "Information system",
+        "Unified Modeling Language",
+        "Ontology",
+        "Metamodeling",
+        "Computer science",
+        "De facto standard",
+        "Applications of UML"
+    ],
+    "references": [
+        "154722466",
+        "185339439",
+        "1514298587",
+        "2070913565",
+        "2095943761"
+    ]
+}

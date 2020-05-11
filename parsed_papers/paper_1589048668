@@ -1,0 +1,39 @@
+{
+    "id": "1589048668",
+    "title": "Constructing simplified plans via Truth Criteria approximation",
+    "venue": "international conference on artificial intelligence planning systems",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Steve Chien",
+            "id": "2124655877",
+            "org": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA#TAB#"
+        },
+        {
+            "name": "Gerald DeJong",
+            "id": "2047505996",
+            "org": "Beckman Institute, University of Illinois, Urbana, IL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Completeness (statistics)",
+        "Soundness",
+        "Explanation-based learning",
+        "Convergence (routing)",
+        "Population-based incremental learning",
+        "Planner",
+        "Machine learning",
+        "Artificial intelligence",
+        "Mathematics"
+    ],
+    "references": [
+        "4789806",
+        "115131322",
+        "140466451",
+        "199051826",
+        "1483265689",
+        "1549756519",
+        "1550699082",
+        "2171798962"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1574127120",
+    "title": "Multitemporal Conditional Schema Evolution",
+    "venue": "international conference on conceptual modeling",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ole Guttorm Jensen",
+            "id": "2155861284",
+            "org": "Aalborg University"
+        },
+        {
+            "name": "Michael H. Bohlen",
+            "id": "2300834035",
+            "org": "Free University of Bozen-Bolzano"
+        }
+    ],
+    "fields_of_study": [
+        "Semi-structured model",
+        "Schema (genetic algorithms)",
+        "Database",
+        "Schema evolution",
+        "XML schema",
+        "Superkey",
+        "Star schema",
+        "Database schema",
+        "Conceptual schema",
+        "Mathematics"
+    ],
+    "references": [
+        "1817289662",
+        "1992752048",
+        "1996344618",
+        "2034664050",
+        "2078970516",
+        "2081564436",
+        "2134484671",
+        "2215315499"
+    ]
+}

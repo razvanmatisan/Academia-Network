@@ -1,0 +1,37 @@
+{
+    "id": "1528185941",
+    "title": "Markov equivalence classes for maximal ancestral graphs",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Ayesha R. Ali",
+            "id": "2480261407",
+            "org": "Department of Statistics, University of Washington, Seattle, WA#TAB#"
+        },
+        {
+            "name": "Thomas S. Richardson",
+            "id": "2136117749",
+            "org": "Department of Statistics, University of Washington, Seattle, WA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pathwidth",
+        "Levy family of graphs",
+        "Partial k-tree",
+        "Combinatorics",
+        "Indifference graph",
+        "Chordal graph",
+        "Discrete mathematics",
+        "Maximal independent set",
+        "Trapezoid graph",
+        "1-planar graph",
+        "Mathematics"
+    ],
+    "references": [
+        "1568555062",
+        "1590398161",
+        "1822300807",
+        "2401305267"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": "1554799384",
+    "title": "Optimized quantum implementation of elliptic curve arithmetic over binary fields",
+    "venue": "Quantum Information & Computation",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Phillip Kaye",
+            "id": "2308646287",
+            "org": "Institute for Quantum Computing, University of Waterloo, Waterloo, Ontario, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Discrete mathematics",
+        "Extended Euclidean algorithm",
+        "Elliptic curve",
+        "Euclidean algorithm",
+        "Schoof's algorithm",
+        "Quantum algorithm",
+        "Elliptic curve point multiplication",
+        "Discrete logarithm",
+        "Quantum computer"
+    ],
+    "references": [
+        "2135205181",
+        "2168676717"
+    ]
+}

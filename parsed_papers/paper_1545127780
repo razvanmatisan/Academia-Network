@@ -1,0 +1,45 @@
+{
+    "id": "1545127780",
+    "title": "Modeling Business Collaborations in Context",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Birgit Hofreiter",
+            "id": "2255666586",
+            "org": "University of Vienna"
+        },
+        {
+            "name": "Christian Huemer",
+            "id": "2894287781",
+            "org": "University of Vienna"
+        }
+    ],
+    "fields_of_study": [
+        "Business activity monitoring",
+        "Business domain",
+        "Business transformation",
+        "Management science",
+        "Business Process Model and Notation",
+        "Distributed computing",
+        "Business process modeling",
+        "Database",
+        "Artifact-centric business process model",
+        "Computer science",
+        "Business rule",
+        "New business development"
+    ],
+    "references": [
+        "1518151768",
+        "1996497597",
+        "2042571323",
+        "2068480972",
+        "2077586211",
+        "2098241448",
+        "2098812130",
+        "2124323785",
+        "2143811838",
+        "2158103184",
+        "2159765281"
+    ]
+}

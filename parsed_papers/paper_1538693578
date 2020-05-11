@@ -1,0 +1,31 @@
+{
+    "id": "1538693578",
+    "title": "Measurement-Based IP Transport Resource Manager Demonstrator",
+    "venue": "international conference on networking",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Vilho Raisanen",
+            "id": "2892793131",
+            "org": "Nokia Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "Distributed computing",
+        "Quality of service",
+        "Telephony",
+        "Voice over IP",
+        "Resource management",
+        "Architecture",
+        "Computer science",
+        "Service quality",
+        "Standardization",
+        "The Internet"
+    ],
+    "references": [
+        "1508174029",
+        "1527893284",
+        "2159028070"
+    ]
+}

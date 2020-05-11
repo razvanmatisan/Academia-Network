@@ -1,0 +1,54 @@
+{
+    "id": "1548788944",
+    "title": "Initial Evaluation of an Evolvable Microwave Circuit",
+    "venue": "international conference on evolvable systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Yuji Kasai",
+            "id": "2056112776",
+            "org": "Electrotechnical Laboratory"
+        },
+        {
+            "name": "Hidenori Sakanashi",
+            "id": "4367358",
+            "org": "Electrotechnical Laboratory"
+        },
+        {
+            "name": "Masahiro Murakawa",
+            "id": "2063410294",
+            "org": "Electrotechnical Laboratory"
+        },
+        {
+            "name": "Shogo Kiryu",
+            "id": "2700941351",
+            "org": "Electrotechnical Laboratory"
+        },
+        {
+            "name": "Neil Marston",
+            "id": "2482668458",
+            "org": "Electrotechnical Laboratory"
+        },
+        {
+            "name": "Tetsuya Higuchi",
+            "id": "2138256090",
+            "org": "Electrotechnical Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Electronic circuit",
+        "Engineering",
+        "Circuit extraction",
+        "Experimental data",
+        "Mixed-signal integrated circuit",
+        "Monolithic microwave integrated circuit",
+        "Local oscillator",
+        "Microwave",
+        "Equivalent circuit",
+        "Electronic engineering"
+    ],
+    "references": [
+        "1501319595",
+        "2146546081"
+    ]
+}

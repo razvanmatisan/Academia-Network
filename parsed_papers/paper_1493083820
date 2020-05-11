@@ -1,0 +1,45 @@
+{
+    "id": "1493083820",
+    "title": "Modelling the Supercritical Fluid Extraction of Lycopene from Tomato Paste Waste Using Neuro-Fuzzy Approaches",
+    "venue": "international symposium on neural networks",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Simon X. Yang",
+            "id": "2129715161",
+            "org": "Chongqing University"
+        },
+        {
+            "name": "Simon X. Yang",
+            "id": "2129715161",
+            "org": "Chongqing University"
+        },
+        {
+            "name": "Weiren Shi",
+            "id": "2805910889",
+            "org": "Chongqing University"
+        },
+        {
+            "name": "Jin Zeng",
+            "id": "2310599551",
+            "org": "University of Guelph"
+        }
+    ],
+    "fields_of_study": [
+        "Quality assurance",
+        "Machine learning",
+        "Supercritical fluid",
+        "Neuro-fuzzy",
+        "Functional food",
+        "Artificial intelligence",
+        "Industrial production",
+        "Computer science",
+        "Supercritical carbon dioxide",
+        "Supercritical fluid extraction",
+        "Food industry",
+        "Process engineering"
+    ],
+    "references": [
+        "2019207321"
+    ]
+}

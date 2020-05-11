@@ -1,0 +1,39 @@
+{
+    "id": "1500366872",
+    "title": "Detection of Mobile Phone Fraud Using Supervised Neural Networks: A First Prototype",
+    "venue": "international conference on artificial neural networks",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Yves Moreau",
+            "id": "2055671346",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Herman Verrelst",
+            "id": "2003082375",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Joos Vandewalle",
+            "id": "1964643177",
+            "org": "Katholieke Universiteit Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile telephony",
+        "Network architecture",
+        "Machine learning",
+        "Mobile phone",
+        "Cellular neural network",
+        "Artificial neural network",
+        "Telecommunications network",
+        "Artificial intelligence",
+        "Knowledge-based systems",
+        "User profile",
+        "Computer science"
+    ],
+    "references": [
+        "2074346829"
+    ]
+}

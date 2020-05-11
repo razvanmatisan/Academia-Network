@@ -1,0 +1,32 @@
+{
+    "id": "1519124758",
+    "title": "A Fast Algorithm for Enumerating Bipartite Perfect Matchings",
+    "venue": "international symposium on algorithms and computation",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Takeaki Uno",
+            "id": "2100790447",
+            "org": "Foundations of Informatics Research Division, National Institute of Informatics, Tokyo, Japan 101-8430#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Combinatorics",
+        "Perfect graph theorem",
+        "Enumeration",
+        "Bipartite graph",
+        "Matching (graph theory)",
+        "Blossom algorithm",
+        "Algorithm",
+        "3-dimensional matching",
+        "Pairing",
+        "Mathematics"
+    ],
+    "references": [
+        "1518546215",
+        "1530375089",
+        "2157529519",
+        "2163321943"
+    ]
+}

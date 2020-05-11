@@ -1,0 +1,46 @@
+{
+    "id": "1480310945",
+    "title": "A Lossy Data Compression Based on String Matching: Preliminary Analysis and Suboptimal Algorithms",
+    "venue": "combinatorial pattern matching",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Tomasz Luczak",
+            "id": "2353462636",
+            "org": "Polish Academy of Science"
+        },
+        {
+            "name": "Wojciech Szpankowski",
+            "id": "2006075200",
+            "org": "Purdue University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Commentz-Walter algorithm",
+        "String searching algorithm",
+        "Probabilistic logic",
+        "Approximate string matching",
+        "Lossy compression",
+        "Data compression",
+        "Algorithm",
+        "Probabilistic analysis of algorithms",
+        "Mathematics",
+        "Lossless compression"
+    ],
+    "references": [
+        "1564013439",
+        "1603682988",
+        "2014246307",
+        "2035281110",
+        "2068871408",
+        "2077770566",
+        "2088116326",
+        "2100451901",
+        "2103756638",
+        "2107745473",
+        "2132906487",
+        "2152755776",
+        "2161696090"
+    ]
+}

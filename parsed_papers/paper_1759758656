@@ -1,0 +1,35 @@
+{
+    "id": "1759758656",
+    "title": "BWN - A Software Platform for Developing Bengali WordNet",
+    "venue": "computer, information, and systems sciences, and engineering",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Farhana Faruqe",
+            "id": "2376073138",
+            "org": "BRAC University"
+        },
+        {
+            "name": "Mumit Khan",
+            "id": "2186720303",
+            "org": "BRAC University"
+        }
+    ],
+    "fields_of_study": [
+        "eXtended WordNet",
+        "Machine translation",
+        "WordNet",
+        "Constructed language",
+        "Software framework",
+        "Bengali",
+        "Computer science",
+        "Natural language processing",
+        "Software",
+        "Ranging",
+        "Programming language",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1658027168"
+    ]
+}

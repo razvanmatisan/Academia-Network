@@ -1,0 +1,35 @@
+{
+    "id": "1506030643",
+    "title": "A secure audio teleconference system",
+    "venue": "military communications conference",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "D.G. Steer",
+            "id": "2887857156",
+            "org": "Bell-Northern Res. Ltd., Ottawa, Ont., Canada"
+        },
+        {
+            "name": "L. Strawczynski",
+            "id": "2887559173",
+            "org": "Bell-Northern Res. Ltd., Ottawa, Ont., Canada"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "Multimedia",
+        "Group Domain of Interpretation",
+        "Integrated Services Digital Network",
+        "Teleconference",
+        "Control unit",
+        "Need to know",
+        "Cryptography",
+        "Communication channel",
+        "Computer science",
+        "Multiplexing"
+    ],
+    "references": [
+        "1481743830",
+        "2156186849"
+    ]
+}

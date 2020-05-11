@@ -1,0 +1,27 @@
+{
+    "id": "1580291728",
+    "title": "Intelligent probabilistic inference",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Ross D. Shachter",
+            "id": "53644460",
+            "org": "Stanford University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Machine learning",
+        "Artificial intelligence",
+        "Influence diagram",
+        "Probabilistic relevance model",
+        "Probabilistic logic",
+        "Method of conditional probabilities",
+        "Bayesian network",
+        "Divergence-from-randomness model",
+        "Fiducial inference",
+        "Conditional probability distribution"
+    ],
+    "references": []
+}

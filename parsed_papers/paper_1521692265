@@ -1,0 +1,43 @@
+{
+    "id": "1521692265",
+    "title": "Optimistic Fair Exchange Based on Publicly Verifiable Secret Sharing",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Gildas Avoine",
+            "id": "2642342647",
+            "org": "EPFL"
+        },
+        {
+            "name": "Serge Vaudenay",
+            "id": "22805272",
+            "org": "EPFL"
+        }
+    ],
+    "fields_of_study": [
+        "Honesty",
+        "Verifiable secret sharing",
+        "Equity (finance)",
+        "Trusted third party",
+        "Computer science",
+        "Computer security",
+        "Proactive secret sharing",
+        "Confidentiality",
+        "Internet privacy",
+        "Secret sharing"
+    ],
+    "references": [
+        "1495060840",
+        "1519248202",
+        "1543585825",
+        "1603031068",
+        "1752677809",
+        "1837145606",
+        "1858089522",
+        "1995320371",
+        "2108834246",
+        "2112963602",
+        "2141420453"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1526250527",
+    "title": "Worst-case equilibria",
+    "venue": "symposium on theoretical aspects of computer science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Elias Koutsoupias",
+            "id": "2240031467",
+            "org": "Univ of California, Los Angeles#TAB#"
+        },
+        {
+            "name": "Christos H. Papadimitriou",
+            "id": "2220829341",
+            "org": "Univ of California, Berkeley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Game theory",
+        "Price of stability",
+        "Price of anarchy",
+        "Congestion game",
+        "Mathematical economics",
+        "Upper and lower bounds",
+        "Parallel algorithm",
+        "Strategy",
+        "Nash equilibrium"
+    ],
+    "references": [
+        "1978732961",
+        "2070646375",
+        "2092183701",
+        "2099699159",
+        "2129348840",
+        "2156816884"
+    ]
+}

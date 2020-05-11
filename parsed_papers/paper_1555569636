@@ -1,0 +1,50 @@
+{
+    "id": "1555569636",
+    "title": "Tableaux and Algorithms for Propositional Dynamic Logic with Converse",
+    "venue": "conference on automated deduction",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Giuseppe De Giacomo",
+            "id": "2113802512",
+            "org": "Universita di Roma \"La Sapienza\""
+        },
+        {
+            "name": "Fabio Massacci",
+            "id": "2144396565",
+            "org": "Universita di Roma \"La Sapienza\""
+        },
+        {
+            "name": "Fabio Massacci",
+            "id": "2144396565",
+            "org": "Universita di Roma \"La Sapienza\""
+        }
+    ],
+    "fields_of_study": [
+        "Propositional variable",
+        "Algorithm",
+        "Modal m-calculus",
+        "Discrete mathematics",
+        "Zeroth-order logic",
+        "Dynamic logic (modal logic)",
+        "Modal logic",
+        "Well-formed formula",
+        "Resolution (logic)",
+        "S5",
+        "Mathematics"
+    ],
+    "references": [
+        "80737574",
+        "338087933",
+        "1567530468",
+        "1583171028",
+        "1992582873",
+        "1997703312",
+        "1997716585",
+        "2033071128",
+        "2066949643",
+        "2069709605",
+        "2076073997",
+        "2140147652"
+    ]
+}

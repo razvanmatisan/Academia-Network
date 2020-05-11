@@ -1,0 +1,38 @@
+{
+    "id": "1588528068",
+    "title": "Thresholding-based segmentation and apple grading by machine vision",
+    "venue": "european signal processing conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Devrim Unay",
+            "id": "832537890",
+            "org": "TCTS Labs, Faculte Polytechnique de Mons, Multitel Building, Avenue Copernic 1, Parc Initialis, B-7000, Belgium"
+        },
+        {
+            "name": "Bernard Gosselin",
+            "id": "2034541257",
+            "org": "TCTS Labs, Faculte Polytechnique de Mons, Multitel Building, Avenue Copernic 1, Parc Initialis, B-7000, Belgium"
+        }
+    ],
+    "fields_of_study": [
+        "Image segmentation",
+        "Support vector machine",
+        "AdaBoost",
+        "Linear discriminant analysis",
+        "Feature extraction",
+        "Scale-space segmentation",
+        "k-nearest neighbors algorithm",
+        "Computer vision",
+        "Thresholding",
+        "Pattern recognition",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1540007258",
+        "2083970667",
+        "2115469059",
+        "2139212933"
+    ]
+}

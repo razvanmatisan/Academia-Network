@@ -1,0 +1,31 @@
+{
+    "id": "1527043192",
+    "title": "Automatic generation of web-based mathematical courseware for solving simultaneous equations",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Yukari Shirota",
+            "id": "1999417489",
+            "org": "Faculty of Economics, Gakushuin University, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "XSL",
+        "Distributed computing",
+        "Simultaneous equations",
+        "Theoretical computer science",
+        "Web application",
+        "Simulation",
+        "Computer science"
+    ],
+    "references": [
+        "166247298",
+        "1584033423",
+        "1595684070",
+        "1611648876",
+        "1985689249",
+        "2092690557",
+        "2127683768"
+    ]
+}

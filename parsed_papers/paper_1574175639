@@ -1,0 +1,52 @@
+{
+    "id": "1574175639",
+    "title": "Distributed Processing over Stand-alone Systems and Applications",
+    "venue": "very large data bases",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Gustavo Alonso",
+            "id": "2122271048",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "Claus Hagen",
+            "id": "2055787796",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "Hans-Jorg Schek",
+            "id": "2050071469",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "Markus Tresch",
+            "id": "2137861666",
+            "org": "ETH Zurich"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed design patterns",
+        "Persistence (computer science)",
+        "Replication (computing)",
+        "Computer science",
+        "Database",
+        "Middleware (distributed applications)",
+        "Distributed database",
+        "Distributed algorithm",
+        "Distributed concurrency control",
+        "Database design",
+        "Distributed computing"
+    ],
+    "references": [
+        "1491743220",
+        "1497257515",
+        "1502073968",
+        "1515716745",
+        "1577412692",
+        "1600899372",
+        "2091148563",
+        "2132291258",
+        "2134062905"
+    ]
+}

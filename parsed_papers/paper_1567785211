@@ -1,0 +1,31 @@
+{
+    "id": "1567785211",
+    "title": "Advanced rule driven transaction management",
+    "venue": "COMPCON Spring '91 Digest of Papers",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Johannes Klein",
+            "id": "2658922595",
+            "org": "Digital Equipment Corp., Mountain View, CA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Online transaction processing",
+        "Database transaction",
+        "Transaction processing",
+        "Database",
+        "Transaction processing system",
+        "Distributed computing",
+        "Distributed transaction",
+        "Computer science"
+    ],
+    "references": [
+        "121182052",
+        "167195627",
+        "1545155892",
+        "1986925088",
+        "1996715632",
+        "2169379483"
+    ]
+}

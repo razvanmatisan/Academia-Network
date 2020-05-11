@@ -1,0 +1,34 @@
+{
+    "id": "1641615907",
+    "title": "Dimensionality reduction in continuous evolutionary optimization",
+    "venue": "international symposium on neural networks",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Oliver Kramer",
+            "id": "2216957382",
+            "org": "University of Oldenburg, Uhlhornsweg 84, 26111, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Small set",
+        "Principal component analysis",
+        "Diffusion map",
+        "Computer science",
+        "Population",
+        "Dimensionality reduction",
+        "Curse of dimensionality",
+        "Benchmark (computing)",
+        "Evolution strategy"
+    ],
+    "references": [
+        "148981569",
+        "1576660662",
+        "2036302761",
+        "2048558571",
+        "2101677491",
+        "2121596141"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "1539582189",
+    "title": "Keyword-based Document Clustering",
+    "venue": "Proceedings of the Sixth International Workshop on Information Retrieval with Asian Languages",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Seung-Shik Kang",
+            "id": "2135631807",
+            "org": "Kookmin University & AITrc, Chungnung-dong, Songbuk-gu, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Fuzzy clustering",
+        "Cluster analysis",
+        "FLAME clustering",
+        "Correlation clustering",
+        "CURE data clustering algorithm",
+        "k-medians clustering",
+        "Single-linkage clustering",
+        "Canopy clustering algorithm",
+        "Artificial intelligence",
+        "Computer science",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1500959893",
+        "2016371060",
+        "2120636855",
+        "2145036943"
+    ]
+}

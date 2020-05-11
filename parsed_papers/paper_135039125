@@ -1,0 +1,46 @@
+{
+    "id": "135039125",
+    "title": "Debugging program loops using approximate modeling",
+    "venue": "european conference on artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Wolfgang Mayer",
+            "id": "2175105662",
+            "org": "University of South Australia, Advanced Computing Research Centre, Adelaide, Australia#TAB#"
+        },
+        {
+            "name": "Markus Stumptner",
+            "id": "216094903",
+            "org": "University of South Australia, Advanced Computing Research Centre, Adelaide, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Debugging",
+        "Algorithmic program debugging",
+        "Heuristic",
+        "Program analysis",
+        "Data structure",
+        "Machine learning",
+        "Recursion",
+        "Abstract interpretation",
+        "Computer science",
+        "Heap (data structure)",
+        "Theoretical computer science"
+    ],
+    "references": [
+        "29348749",
+        "1482651513",
+        "1511405608",
+        "1588607736",
+        "1620770193",
+        "1979582240",
+        "2043100293",
+        "2108309071",
+        "2135274583",
+        "2158870716",
+        "2165069483",
+        "2293624369"
+    ]
+}

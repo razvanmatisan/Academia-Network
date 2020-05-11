@@ -1,0 +1,38 @@
+{
+    "id": "1548340238",
+    "title": "Improving Wyner-Ziv video coding by block-based distortion estimation",
+    "venue": "european signal processing conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Zouhair M. Belkoura",
+            "id": "2635193691",
+            "org": "Communication Systems Group, Technische Universitat Berlin, Einsteinufer 17, 10587, Germany"
+        },
+        {
+            "name": "Thomas Sikora",
+            "id": "2067997018",
+            "org": "Communication Systems Group, Technische Universitat Berlin, Einsteinufer 17, 10587, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Variable-length code",
+        "Tunstall coding",
+        "Shannon-Fano coding",
+        "Motion estimation",
+        "Context-adaptive binary arithmetic coding",
+        "Decoding methods",
+        "Artificial intelligence",
+        "Theoretical computer science",
+        "Coding tree unit",
+        "Computer science",
+        "Linear predictive coding",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1524734500",
+        "1566960425",
+        "2118375162",
+        "2133309946"
+    ]
+}

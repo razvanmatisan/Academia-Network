@@ -1,0 +1,42 @@
+{
+    "id": "1499488577",
+    "title": "Color Image Watermarking Based on Neural Networks",
+    "venue": "international symposium on neural networks",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Wei Lu",
+            "id": "2580721055",
+            "org": "Shanghai Jiao Tong University"
+        },
+        {
+            "name": "Hongtao Lu",
+            "id": "2009627569",
+            "org": "Shanghai Jiao Tong University"
+        },
+        {
+            "name": "Ruiming Shen",
+            "id": "2125761472",
+            "org": "Shanghai Jiao Tong University"
+        }
+    ],
+    "fields_of_study": [
+        "Watermark",
+        "Color image",
+        "Digital watermarking",
+        "Signal processing",
+        "Pattern recognition",
+        "Image processing",
+        "Artificial neural network",
+        "Artificial intelligence",
+        "Pseudorandom binary sequence",
+        "Computer science",
+        "Computer vision",
+        "Binary image"
+    ],
+    "references": [
+        "1964777196",
+        "2089361008",
+        "2116467012"
+    ]
+}

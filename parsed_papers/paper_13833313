@@ -1,0 +1,37 @@
+{
+    "id": "13833313",
+    "title": "Towards a BPMN 2.0 Ontology",
+    "venue": "business process modeling notation",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Christine Natschlager",
+            "id": "2685351361",
+            "org": "Software Competence Center Hagenberg GmbH"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge base",
+        "Process ontology",
+        "Natural language processing",
+        "Business Process Model and Notation",
+        "Metamodeling",
+        "Business process modeling",
+        "Ontology",
+        "XPDL",
+        "Syntax",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "151678664",
+        "192802202",
+        "1507162541",
+        "1597030628",
+        "1620275631",
+        "1982313944",
+        "2002185882",
+        "2120772388",
+        "2159181605"
+    ]
+}

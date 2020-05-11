@@ -1,0 +1,31 @@
+{
+    "id": "1521056680",
+    "title": "Enacting dynamic distributed networks - The damascos project",
+    "venue": "international conference on information technology",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "T. Goletz",
+            "id": "2666597416",
+            "org": "INTERFACE GmbH"
+        },
+        {
+            "name": "Joao Jose Pinto Ferreira",
+            "id": "2123640596",
+            "org": "INESC Porto"
+        }
+    ],
+    "fields_of_study": [
+        "Production planning",
+        "Business",
+        "Process management",
+        "Business process",
+        "Sales management",
+        "Workflow",
+        "Enterprise modelling",
+        "Stock management",
+        "Supply chain",
+        "Open platform"
+    ],
+    "references": []
+}

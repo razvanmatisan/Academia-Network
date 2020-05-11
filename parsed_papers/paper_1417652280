@@ -1,0 +1,34 @@
+{
+    "id": "1417652280",
+    "title": "Stochastic control of the scalable high performance distributed computations",
+    "venue": "parallel processing and applied mathematics",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Zdzislaw Onderka",
+            "id": "2294190763",
+            "org": "Dept. of Geoinformatics and Applied Computer Science, AGH, Univ. of Science and Technology, Krakow, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Stochastic control",
+        "Markov model",
+        "Computer science",
+        "Stochastic optimization",
+        "Stochastic neural network",
+        "Mathematical optimization",
+        "Markov decision process",
+        "Variable-order Markov model",
+        "Machine learning",
+        "Artificial intelligence",
+        "Continuous-time stochastic process",
+        "Markov process"
+    ],
+    "references": [
+        "616339485",
+        "1512452270",
+        "1890910288",
+        "2074680702"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1546213385",
+    "title": "A fast and simple heuristic for constrained two-level crossing reduction",
+    "venue": "graph drawing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Michael Forster",
+            "id": "2608759354",
+            "org": "University of Passau, Passau, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Time complexity",
+        "Vertex (geometry)",
+        "Heuristic",
+        "Discrete mathematics",
+        "Constraint graph",
+        "Mathematical optimization",
+        "Level crossing",
+        "Crossing number (graph theory)",
+        "Graph drawing",
+        "Mathematics",
+        "Heuristics"
+    ],
+    "references": [
+        "1497532486",
+        "1574692017",
+        "1586092564",
+        "1972151695",
+        "2071353749",
+        "2083105998",
+        "2099281231",
+        "2102200067",
+        "2102664288"
+    ]
+}

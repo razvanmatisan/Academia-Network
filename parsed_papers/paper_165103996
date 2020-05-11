@@ -1,0 +1,31 @@
+{
+    "id": "165103996",
+    "title": "Default reasoning as likelihood reasoning",
+    "venue": "national conference on artificial intelligence",
+    "year": 1983,
+    "authors": [
+        {
+            "name": "Elaine Rich",
+            "id": "2061072322",
+            "org": "Department of Computer Sciences, The University of Texas at Austin#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Deductive reasoning",
+        "Psychology of reasoning",
+        "Reasoning system",
+        "Default logic",
+        "Case-based reasoning",
+        "Computer science",
+        "Analytic reasoning",
+        "Mycin",
+        "Non-monotonic logic",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1991718988",
+        "1996347293",
+        "2155322595"
+    ]
+}

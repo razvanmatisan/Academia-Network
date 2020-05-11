@@ -1,0 +1,38 @@
+{
+    "id": "1508288955",
+    "title": "Exception specification and handling in workflow systems",
+    "venue": "asia pacific web conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Yoonki Song",
+            "id": "2315297266",
+            "org": "Information and Communications University, Daejeon, Korea#TAB#"
+        },
+        {
+            "name": "Dongsoo Han",
+            "id": "2290097433",
+            "org": "Information and Communications University, Daejeon, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Unexpected events",
+        "Business process",
+        "Workflow",
+        "Process design",
+        "Exception handling",
+        "Workflow technology",
+        "Document management system",
+        "Computer science"
+    ],
+    "references": [
+        "48863930",
+        "1585238922",
+        "1600899372",
+        "1601995869",
+        "1984192117",
+        "2063772987",
+        "2090971971"
+    ]
+}

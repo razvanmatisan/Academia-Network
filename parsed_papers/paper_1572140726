@@ -1,0 +1,38 @@
+{
+    "id": "1572140726",
+    "title": "Database summarization and publishing in wireless environments",
+    "venue": "international conference of distributed computing and networking",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Anshul Gandhi",
+            "id": "2164968040",
+            "org": "Indian Institute of Technology, Kanpur, India#TAB#"
+        },
+        {
+            "name": "R. K. Ghosh",
+            "id": "2188035142",
+            "org": "Indian Institute of Technology, Kanpur, India#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Computer network",
+        "Mobile device",
+        "Mobile database",
+        "Automatic summarization",
+        "Database",
+        "Data structure",
+        "Computer science",
+        "Data mining",
+        "Server",
+        "Indexation",
+        "Mobile computing",
+        "Data modeling"
+    ],
+    "references": [
+        "175836485",
+        "1566658900",
+        "2122962290"
+    ]
+}

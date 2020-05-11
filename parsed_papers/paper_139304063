@@ -1,0 +1,33 @@
+{
+    "id": "139304063",
+    "title": "Combination of local search strategies for rotating workforce scheduling problem",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Nysret Musliu",
+            "id": "2073531718",
+            "org": "Technische Universitat Wien, Wien, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Mathematical optimization",
+        "Job shop scheduling",
+        "Random walk",
+        "Guided Local Search",
+        "Tabu search",
+        "Local search (optimization)",
+        "Scheduling (computing)",
+        "Schedule",
+        "Computer science",
+        "Constraint satisfaction problem"
+    ],
+    "references": [
+        "1806875923",
+        "1988424150",
+        "2064228455",
+        "2121766240"
+    ]
+}

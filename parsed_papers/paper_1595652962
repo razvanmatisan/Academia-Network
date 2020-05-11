@@ -1,0 +1,28 @@
+{
+    "id": "1595652962",
+    "title": "Zakim - a multimodal software system for large-scale teleconferencing",
+    "venue": "international conference on machine learning",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Max Froumentin",
+            "id": "2702951033",
+            "org": "World Wide Web Consortium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Internet Relay Chat",
+        "Teleconference",
+        "Software system",
+        "Mailing list",
+        "Multimedia",
+        "World Wide Web",
+        "Universal design",
+        "Relay",
+        "The Internet",
+        "Computer science"
+    ],
+    "references": [
+        "1885428543"
+    ]
+}

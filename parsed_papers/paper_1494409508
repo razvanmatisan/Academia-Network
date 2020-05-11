@@ -1,0 +1,41 @@
+{
+    "id": "1494409508",
+    "title": "Structured Motifs Identification in DNA Sequences",
+    "venue": "the florida ai research society",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Yuridia P. Mejia",
+            "id": "2140671650",
+            "org": "Benemerita Universidad Autonoma de Puebla"
+        },
+        {
+            "name": "Ivan Olmos",
+            "id": "2131197115",
+            "org": "Benemerita Universidad Autonoma de Puebla"
+        },
+        {
+            "name": "Jesus A. Gonzalez",
+            "id": "2806438830",
+            "org": "Instituto Nacional de Astrofisica, Optica y Electronica"
+        }
+    ],
+    "fields_of_study": [
+        "A-DNA",
+        "Artificial intelligence",
+        "Machine learning",
+        "Deterministic finite automaton",
+        "DNA sequencing",
+        "Time complexity",
+        "Consensus sequence",
+        "Matrix (mathematics)",
+        "Computer science",
+        "Dynamic programming",
+        "Bioinformatics"
+    ],
+    "references": [
+        "1547668935",
+        "1597032076",
+        "1990061958"
+    ]
+}

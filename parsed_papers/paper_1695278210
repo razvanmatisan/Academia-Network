@@ -1,0 +1,46 @@
+{
+    "id": "1695278210",
+    "title": "A novel paradigm of parallel computation and its use to implement simple high performance hardware",
+    "venue": "joint international conference on vector and parallel processing parallel processing",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Reiner W. Hartenstein",
+            "id": "2165039650",
+            "org": "Universitaet Kaiserslautern"
+        },
+        {
+            "name": "Alexender G. Hirschbiel",
+            "id": "2579003732",
+            "org": "Universitaet Kaiserslautern"
+        },
+        {
+            "name": "Michael Weber",
+            "id": "2156211928",
+            "org": "Universitaet Kaiserslautern"
+        }
+    ],
+    "fields_of_study": [
+        "Von Neumann architecture",
+        "Parallel computing",
+        "Parallel algorithm",
+        "Xputer",
+        "Architecture",
+        "Programming paradigm",
+        "Computer hardware",
+        "SIMPLE algorithm",
+        "Microprocessor",
+        "Theoretical computer science",
+        "Computer science",
+        "High-level synthesis"
+    ],
+    "references": [
+        "1275901",
+        "11019726",
+        "65529465",
+        "1666015432",
+        "1990199656",
+        "2128221687",
+        "2153580689"
+    ]
+}

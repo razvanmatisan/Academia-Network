@@ -1,0 +1,43 @@
+{
+    "id": "1539205476",
+    "title": "A Predication Calculus for Qualitative Spatial Representations",
+    "venue": "conference on spatial information theory",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Carola Eschenbach",
+            "id": "2111198797",
+            "org": "University of Hamburg"
+        }
+    ],
+    "fields_of_study": [
+        "Calculus",
+        "Thematic map",
+        "Artificial intelligence",
+        "Machine learning",
+        "Spatial intelligence",
+        "Qualitative reasoning",
+        "Discrete mathematics",
+        "Spatial analysis",
+        "Geographic information system",
+        "Data structure",
+        "Mereology",
+        "Terminology",
+        "Mathematics"
+    ],
+    "references": [
+        "852874",
+        "1534623532",
+        "1573847701",
+        "1844476468",
+        "1977441255",
+        "1986346735",
+        "2005678616",
+        "2009223569",
+        "2048810095",
+        "2053967911",
+        "2066676451",
+        "2104351678",
+        "2122540544"
+    ]
+}

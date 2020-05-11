@@ -1,0 +1,30 @@
+{
+    "id": "1527303878",
+    "title": "Bounds on average weighted depth of decision trees",
+    "venue": "Fundamenta Informaticae",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Mikhail Moshkov",
+            "id": "428297634",
+            "org": "Research Institute for Applied Mathematics and Cybernetics of Nizhni Novgorod State University, 10, Uljanova St., Nizhni Novgorod, 603005, Russia. moshkov@nnucnit.unn.ac.ru#TAB#"
+        },
+        {
+            "name": "Igor Chikalov",
+            "id": "1983331742",
+            "org": "Faculty of Calculating Mathematics and Cybernetics of Nizhni Novgorod State University 23, Gagarina Av., Nizhni Novgorod, 603600, Russia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Discrete mathematics",
+        "Mathematical proof",
+        "Information system",
+        "Decision tree",
+        "Mathematics",
+        "Upper and lower bounds",
+        "Test theory",
+        "Rough set"
+    ],
+    "references": []
+}

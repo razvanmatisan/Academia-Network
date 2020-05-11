@@ -1,0 +1,27 @@
+{
+    "id": "1492189126",
+    "title": "Evacuation Simulation in Floor Field by Real-Coded Cellular Automata",
+    "venue": "cellular automata for research and industry",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Kazuhiro Yamamoto",
+            "id": "2593990075",
+            "org": "Dep.Mechanical Science and Engineering, Nagoya University, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Grid",
+        "Differential equation",
+        "Collective behavior",
+        "Cellular automaton",
+        "Pedestrian",
+        "Fluid simulation",
+        "Social force model",
+        "Computer science"
+    ],
+    "references": [
+        "1603262872"
+    ]
+}

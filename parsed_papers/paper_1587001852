@@ -1,0 +1,41 @@
+{
+    "id": "1587001852",
+    "title": "Speech activity detection on multichannels of meeting recordings",
+    "venue": "international conference on machine learning",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Zhongqiang Huang",
+            "id": "2118970457",
+            "org": "Electrical and Computer Engineering, Purdue University, West Lafayette, IN#TAB#"
+        },
+        {
+            "name": "Mary P. Harper",
+            "id": "2146237213",
+            "org": "Electrical and Computer Engineering, Purdue University, West Lafayette, IN#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Speech recognition",
+        "Machine learning",
+        "Cluster analysis",
+        "Viterbi algorithm",
+        "Pattern recognition",
+        "Mixture model",
+        "Artificial intelligence",
+        "Voice activity detection",
+        "Bayesian information criterion",
+        "Cross-correlation",
+        "Computer science",
+        "Silence",
+        "Communication channel"
+    ],
+    "references": [
+        "202968570",
+        "1509663858",
+        "1591607137",
+        "1592567216",
+        "2016243284",
+        "2098441927"
+    ]
+}

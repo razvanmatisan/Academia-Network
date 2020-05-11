@@ -1,0 +1,57 @@
+{
+    "id": "1732173711",
+    "title": "Learning Disjointness for Debugging Mappings between Lightweight Ontologies",
+    "venue": "knowledge acquisition, modeling and management",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Christian Meilicke",
+            "id": "2027746395",
+            "org": "Computer Science Institute, Universitat Mannheim, Germany#TAB#"
+        },
+        {
+            "name": "Johanna Volker",
+            "id": "2165390029",
+            "org": "Institute AIFB, Universitat Karlsruhe(TH), Germany#TAB#"
+        },
+        {
+            "name": "Heiner Stuckenschmidt",
+            "id": "2088858762",
+            "org": "Computer Science Institute, Universitat Mannheim, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Noun phrase",
+        "Data mining",
+        "Debugging",
+        "Description logic",
+        "Axiom",
+        "Semantic mapping",
+        "Heuristics",
+        "Semantic integration",
+        "Ontology (information science)",
+        "Theoretical computer science"
+    ],
+    "references": [
+        "37382826",
+        "59949337",
+        "126925504",
+        "187228978",
+        "195714804",
+        "1512219677",
+        "1523017397",
+        "1577017038",
+        "1699724838",
+        "2081966954",
+        "2108309071",
+        "2126890920",
+        "2128608507",
+        "2132573925",
+        "2134103385",
+        "2154829072",
+        "2611894836",
+        "2613166197",
+        "2626907937"
+    ]
+}

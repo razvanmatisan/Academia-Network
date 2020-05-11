@@ -1,0 +1,41 @@
+{
+    "id": "1578510995",
+    "title": "Geometry From Specularities",
+    "venue": "international conference on computer vision",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Andrew Blake",
+            "id": "2809953296",
+            "org": "University of Oxford"
+        },
+        {
+            "name": "Gavin Brelstaff",
+            "id": "2799105385",
+            "org": "Microsoft Research"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Artificial intelligence",
+        "Machine vision",
+        "3D reconstruction",
+        "Photometry (optics)",
+        "Epipolar geometry",
+        "Computational geometry",
+        "Computer stereo vision",
+        "Computer graphics (images)",
+        "Computer science",
+        "Stereopsis",
+        "Stereo cameras"
+    ],
+    "references": [
+        "1994794884",
+        "2002882922",
+        "2016422699",
+        "2016704491",
+        "2022140147",
+        "2032186750",
+        "2042623992"
+    ]
+}

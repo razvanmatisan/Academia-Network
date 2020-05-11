@@ -1,0 +1,57 @@
+{
+    "id": "1480053192",
+    "title": "Applying inductive logic programming to process mining",
+    "venue": "inductive logic programming",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Evelina Lamma",
+            "id": "2310186662",
+            "org": "ENDIF, Universita di Ferrara, Ferrara, Italy#TAB#"
+        },
+        {
+            "name": "Paola Mello",
+            "id": "2119964904",
+            "org": "DEIS, Universita di Bologna, Bologna, Italy#TAB#"
+        },
+        {
+            "name": "Fabrizio Riguzzi",
+            "id": "179935869",
+            "org": "ENDIF, Universita di Ferrara, Ferrara, Italy#TAB#"
+        },
+        {
+            "name": "Sergio Storari",
+            "id": "69726182",
+            "org": "ENDIF, Universita di Ferrara, Ferrara, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Business process discovery",
+        "Theoretical computer science",
+        "Business process modeling",
+        "Process modeling",
+        "Data integrity",
+        "Process mining",
+        "Business Process Model and Notation",
+        "Inductive logic programming",
+        "Artifact-centric business process model",
+        "Computer science"
+    ],
+    "references": [
+        "174979378",
+        "1480284441",
+        "1499599031",
+        "1508806467",
+        "1562593161",
+        "1850351066",
+        "2015234709",
+        "2065961934",
+        "2098250644",
+        "2103226467",
+        "2130273205",
+        "2134937538",
+        "2162176451"
+    ]
+}

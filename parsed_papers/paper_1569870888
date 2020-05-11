@@ -1,0 +1,38 @@
+{
+    "id": "1569870888",
+    "title": "Federated Information Management for Cooperative Virtual Organizations",
+    "venue": "database and expert systems applications",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Hamideh Afsarmanesh",
+            "id": "139710438",
+            "org": "University of Amsterdam"
+        },
+        {
+            "name": "Luis M. Camarinha-Matos",
+            "id": "102567340",
+            "org": "New University of Lisbon"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Database",
+        "Information system",
+        "Architecture",
+        "Information management",
+        "Virtual organization",
+        "Reference model",
+        "Seven Basic Tools of Quality",
+        "Multi-agent system",
+        "Computer science",
+        "Information technology",
+        "Knowledge management"
+    ],
+    "references": [
+        "78267390",
+        "2035449880",
+        "2119025576",
+        "2151468091"
+    ]
+}

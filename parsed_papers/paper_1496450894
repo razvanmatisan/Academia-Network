@@ -1,0 +1,40 @@
+{
+    "id": "1496450894",
+    "title": "Cryptography meets watermarking: Detecting watermarks with minimal or zero knowledge disclosure",
+    "venue": "european signal processing conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Andre Adelsbach",
+            "id": "1270610900",
+            "org": "Universitat des Saarlandes, FR 6.2, D-66123 Saarbrucken, Germany"
+        },
+        {
+            "name": "Stefan Katzenbeisser",
+            "id": "744403649",
+            "org": "Institute for Information Systems, Vienna University of Technology, Australia"
+        },
+        {
+            "name": "Ahmad-Reza Sadeghi",
+            "id": "2120420677",
+            "org": "Universitat des Saarlandes, FR 6.2, D-66123 Saarbrucken, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Digital watermarking",
+        "Digital data",
+        "Watermark",
+        "Information sensitivity",
+        "Theoretical computer science",
+        "Cryptography",
+        "Digital Watermarking Alliance",
+        "Zero-knowledge proof",
+        "Mathematics"
+    ],
+    "references": [
+        "1494775996",
+        "1539419769",
+        "1850675439",
+        "2108800434"
+    ]
+}

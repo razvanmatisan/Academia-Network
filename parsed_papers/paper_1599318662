@@ -1,0 +1,34 @@
+{
+    "id": "1599318662",
+    "title": "An investigation of older persons' browser usage",
+    "venue": "international conference on universal access in human computer interaction",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Prush Sa-nga-ngam",
+            "id": "185670157",
+            "org": "School of Informatics, The University of Manchester, Manchester, UK#TAB#"
+        },
+        {
+            "name": "Sri Kurniawan",
+            "id": "2153335081",
+            "org": "School of Informatics, The University of Manchester, Manchester, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Menu bar",
+        "Personalization",
+        "Information transfer",
+        "Multimedia",
+        "Ageing",
+        "World Wide Web",
+        "The Internet",
+        "User interface",
+        "Computer science"
+    ],
+    "references": [
+        "135608514",
+        "2103478220",
+        "2123839740"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1521183398",
+    "title": "A sampling-based approach to computing equilibria in succinct extensive-form games",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Miroslav Dudik",
+            "id": "2637608622",
+            "org": "Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Geoffrey J. Gordon",
+            "id": "2134462204",
+            "org": "Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Mathematical optimization",
+        "Convergence (routing)",
+        "Machine learning",
+        "Influence diagram",
+        "Mathematical economics",
+        "Artificial intelligence",
+        "Exponential function",
+        "AdaBoost",
+        "Extensive-form game",
+        "Sampling (statistics)",
+        "Markov chain Monte Carlo"
+    ],
+    "references": [
+        "1601974704",
+        "1807884544",
+        "1977823909",
+        "1980497227",
+        "1988790447",
+        "1998754086",
+        "2081459960",
+        "2103504567",
+        "2135194391",
+        "2141259493",
+        "2141744833",
+        "2158231134"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1675992197",
+    "title": "Capacity and power investigation of opportunity driven multiple access (ODMA) networks in TDD-CDMA based systems",
+    "venue": "international conference on communications",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "T Rouse",
+            "id": "2145527849",
+            "org": "Dept. of Electron. & Electr. Eng., Edinburgh Univ., UK"
+        },
+        {
+            "name": "Steve McLaughlin",
+            "id": "2402466148",
+            "org": "School of Engineering & Physical Sciences, Sensors, Signals & Systems"
+        }
+    ],
+    "fields_of_study": [
+        "Routing protocol",
+        "Hierarchical routing",
+        "Opportunity Driven Multiple Access",
+        "Real-time computing",
+        "Computer network",
+        "Static routing",
+        "Wireless Routing Protocol",
+        "Computer science",
+        "Zone Routing Protocol",
+        "Radio resource management",
+        "Dynamic Source Routing"
+    ],
+    "references": [
+        "2124010093",
+        "2133794215"
+    ]
+}

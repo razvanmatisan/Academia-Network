@@ -1,0 +1,41 @@
+{
+    "id": "1517951555",
+    "title": "Optimized Design of MEMS by Evolutionary Multi-objective Optimization with Interactive Evolutionary Computation",
+    "venue": "genetic and evolutionary computation conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Raffi R. Kamalian",
+            "id": "2317484611",
+            "org": "University of California"
+        },
+        {
+            "name": "Hideyuki Takagi",
+            "id": "2054279663",
+            "org": "Kyushu University"
+        },
+        {
+            "name": "Alice M. Agogino",
+            "id": "2221621656",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic representation",
+        "Mathematical optimization",
+        "Evolutionary computation",
+        "Machine learning",
+        "Artificial intelligence",
+        "Evolutionary algorithm",
+        "Evolutionary acquisition of neural topologies",
+        "Evolutionary programming",
+        "Interactive evolutionary computation",
+        "Human-based evolutionary computation",
+        "Theoretical computer science",
+        "Computer science",
+        "Evolution strategy"
+    ],
+    "references": [
+        "1570166486"
+    ]
+}

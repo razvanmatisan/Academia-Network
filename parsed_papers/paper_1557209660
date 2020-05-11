@@ -1,0 +1,30 @@
+{
+    "id": "1557209660",
+    "title": "Visualization of differences between rules' syntactic and semantic similarities",
+    "venue": "systems, man and cybernetics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Shusaku Tsumoto",
+            "id": "122205434",
+            "org": "Dept. of Med. Informatics, Shimane Univ., Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Domain knowledge",
+        "Rule induction",
+        "Knowledge extraction",
+        "K-optimal pattern discovery",
+        "Rule-based system",
+        "Data mining",
+        "Semantic similarity",
+        "Multidimensional scaling",
+        "Knowledge-based systems",
+        "Computer science"
+    ],
+    "references": [
+        "1602012826",
+        "1607429971",
+        "2340020088"
+    ]
+}

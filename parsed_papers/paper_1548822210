@@ -1,0 +1,25 @@
+{
+    "id": "1548822210",
+    "title": "Gesture, gaze, and ground",
+    "venue": "international conference on machine learning",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "David McNeill",
+            "id": "2099465172",
+            "org": "University of Chicago#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Speech recognition",
+        "Machine learning",
+        "Depiction",
+        "Gaze",
+        "Gesture",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1592567216"
+    ]
+}

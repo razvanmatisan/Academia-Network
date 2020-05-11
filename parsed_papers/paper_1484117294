@@ -1,0 +1,39 @@
+{
+    "id": "1484117294",
+    "title": "Incremental Mature Garbage Collection Using the Train Algorithm",
+    "venue": "european conference on object oriented programming",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Jacob Seligmann",
+            "id": "2484588017",
+            "org": "Aarhus University"
+        },
+        {
+            "name": "Steffen Grarup",
+            "id": "2486908979",
+            "org": "Aarhus University"
+        }
+    ],
+    "fields_of_study": [
+        "Overhead (business)",
+        "Programming language",
+        "Garbage",
+        "Parallel computing",
+        "Manual memory management",
+        "Memory management",
+        "Object-oriented programming",
+        "Garbage collection",
+        "Mark-compact algorithm",
+        "Algorithm",
+        "Real-time computing",
+        "Computer science",
+        "Page fault"
+    ],
+    "references": [
+        "1587813347",
+        "1739798036",
+        "1978899144",
+        "2005330614"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "1560851313",
+    "title": "A Self-Organizing Network that Can Follow Non-stationary Distributions",
+    "venue": "international conference on artificial neural networks",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Bernd Fritzke",
+            "id": "323901129",
+            "org": "Ruhr-Universitat Bochum"
+        }
+    ],
+    "fields_of_study": [
+        "Neural gas",
+        "Signal processing",
+        "Machine learning",
+        "Information processing",
+        "Self-organizing network",
+        "Stationary distribution",
+        "Distributed computing",
+        "Artificial intelligence",
+        "Artificial neural network",
+        "Self-organization",
+        "Computer science"
+    ],
+    "references": [
+        "1601025990",
+        "2006493416",
+        "2010150441",
+        "2138754805",
+        "2166322089"
+    ]
+}

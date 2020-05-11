@@ -1,0 +1,35 @@
+{
+    "id": "1679526205",
+    "title": "Interactive Proofs with Provable Security Against Honest Verifiers",
+    "venue": "international cryptology conference",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Joe Kilian",
+            "id": "2130358780",
+            "org": "Harvard University and MIT Laboratory for Computer Science"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Provable security",
+        "Mathematical proof",
+        "Discrete mathematics",
+        "Algorithm",
+        "Interactive proof system",
+        "Commitment scheme",
+        "PSPACE",
+        "Proof assistant",
+        "Zero-knowledge proof",
+        "Mathematics"
+    ],
+    "references": [
+        "1493627716",
+        "1539572409",
+        "1594962164",
+        "1970606468",
+        "2027528470",
+        "2077202644",
+        "2081058418"
+    ]
+}

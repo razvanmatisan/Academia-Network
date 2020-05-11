@@ -1,0 +1,41 @@
+{
+    "id": "1514767525",
+    "title": "Software architecture recovery using Conway's law",
+    "venue": "conference of the centre for advanced studies on collaborative research",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Ivan T. Bowman",
+            "id": "2261587264",
+            "org": "University of Waterloo, Waterloo, Ontario, Canada#TAB#"
+        },
+        {
+            "name": "Richard C. Holt",
+            "id": "2107192907",
+            "org": "University of Waterloo, Waterloo, Ontario, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Database-centric architecture",
+        "Systems engineering",
+        "Computer science",
+        "Resource-oriented architecture",
+        "Reference architecture",
+        "Real-time computing",
+        "Software architecture description",
+        "Software system",
+        "Architectural pattern",
+        "Software architecture",
+        "Software engineering",
+        "Software architecture recovery"
+    ],
+    "references": [
+        "1583894550",
+        "1597549781",
+        "1980586160",
+        "2068258563",
+        "2118569497",
+        "2119452943",
+        "2146082668"
+    ]
+}

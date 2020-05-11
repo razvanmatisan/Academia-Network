@@ -1,0 +1,40 @@
+{
+    "id": "154252867",
+    "title": "Quantum-Behaved particle swarm optimization algorithm based on border mutation and chaos for vehicle routing problem",
+    "venue": "international conference on swarm intelligence",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Ya Li",
+            "id": "2303512276",
+            "org": "Dept. of Computer, School of Electrical&Information Engineering, Foshan University, Foshan, Guangdong, China#TAB#"
+        },
+        {
+            "name": "Dan Li",
+            "id": "2690946006",
+            "org": "Technology&Information Center, XinYang Power Supply Company, Xinyang, Henan, China#TAB#"
+        },
+        {
+            "name": "Dong Wang",
+            "id": "2641227437",
+            "org": "Dept. of Computer, School of Electrical&Information Engineering, Foshan University, Foshan, Guangdong, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Swarm behaviour",
+        "Local optimum",
+        "Meta-optimization",
+        "Multi-swarm optimization",
+        "Metaheuristic",
+        "Mathematical optimization",
+        "Algorithm",
+        "Vehicle routing problem",
+        "Computer science",
+        "Premature convergence",
+        "Particle swarm optimization"
+    ],
+    "references": [
+        "1566399673",
+        "2169245194"
+    ]
+}

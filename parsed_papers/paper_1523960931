@@ -1,0 +1,36 @@
+{
+    "id": "1523960931",
+    "title": "An Incremental Discourse Parser Architecture",
+    "venue": "international conference natural language processing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Dan Cristea",
+            "id": "2166449156",
+            "org": "\"Alexandra Ioan Cuza\" University of Iasi"
+        }
+    ],
+    "fields_of_study": [
+        "Proper noun",
+        "Natural language",
+        "Parsing",
+        "Natural language processing",
+        "Rhetorical question",
+        "Computational linguistics",
+        "Expression (mathematics)",
+        "Architecture",
+        "Artificial intelligence",
+        "Computer science",
+        "restrict"
+    ],
+    "references": [
+        "1630881534",
+        "2120866163",
+        "2124741472",
+        "2139243841",
+        "2167702024",
+        "2167746972",
+        "2217772701",
+        "2787913461"
+    ]
+}

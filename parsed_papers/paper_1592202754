@@ -1,0 +1,48 @@
+{
+    "id": "1592202754",
+    "title": "Reducing execution time on genetic algorithm in real-world applications using fitness prediction: parameter optimization of SRM control",
+    "venue": "congress on evolutionary computation",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Atsuko Mutoh",
+            "id": "2049335818",
+            "org": "Nagoya Inst. of Technol., Japan"
+        },
+        {
+            "name": "Tsuyoshi Nakamura",
+            "id": "2191205262",
+            "org": "Nagoya Inst. of Technol., Japan"
+        },
+        {
+            "name": "Shohei Kato",
+            "id": "2343381091",
+            "org": "Nagoya Inst. of Technol., Japan"
+        },
+        {
+            "name": "Hidenori Itoh",
+            "id": "2108967256",
+            "org": "Nagoya Inst. of Technol., Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Crossover",
+        "Effective method",
+        "Meta-optimization",
+        "Machine learning",
+        "Genetic algorithm",
+        "Metaheuristic",
+        "Artificial intelligence",
+        "Combinatorial optimization",
+        "Computer science",
+        "Fitness approximation",
+        "Quality control and genetic algorithms"
+    ],
+    "references": [
+        "1485961250",
+        "1492358994",
+        "1532955840",
+        "1698239574"
+    ]
+}

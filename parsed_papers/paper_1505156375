@@ -1,0 +1,32 @@
+{
+    "id": "1505156375",
+    "title": "Self-improvement based on reinforcement learning, planning and teaching",
+    "venue": "international conference on machine learning",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Long Ji Lin",
+            "id": "2487819883",
+            "org": "School of Computer Science, Carnegie Mellon University, Pittsburgh, Pennsylvania 15213"
+        }
+    ],
+    "fields_of_study": [
+        "Instance-based learning",
+        "Active learning (machine learning)",
+        "Learning classifier system",
+        "Machine learning",
+        "Robot learning",
+        "Reinforcement learning",
+        "Algorithmic learning theory",
+        "Temporal difference learning",
+        "Computational learning theory",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "50296447",
+        "1491843047",
+        "2100677568",
+        "2167224731"
+    ]
+}

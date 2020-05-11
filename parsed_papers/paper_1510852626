@@ -1,0 +1,29 @@
+{
+    "id": "1510852626",
+    "title": "The Support Vector Method",
+    "venue": "international conference on artificial neural networks",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Vladimir Vapnik",
+            "id": "2022407533",
+            "org": "AT&T Labs-Research"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Support vector machine",
+        "Density estimation",
+        "Linear map",
+        "Signal processing",
+        "Artificial intelligence",
+        "Curse of dimensionality",
+        "Mathematics"
+    ],
+    "references": [
+        "2087347434",
+        "2119821739",
+        "2123737232",
+        "2137226992"
+    ]
+}

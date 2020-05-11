@@ -1,0 +1,37 @@
+{
+    "id": "1590248597",
+    "title": "Resource access control for an internet user agent",
+    "venue": "COOTS'97 Proceedings of the 3rd conference on USENIX Conference on Object-Oriented Technologies (COOTS) - Volume 3",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Nataraj Nagaratnam",
+            "id": "2170648388",
+            "org": "Dept. of ECE, Syracuse University#TAB#"
+        },
+        {
+            "name": "Steven B Byrne",
+            "id": "2140973313",
+            "org": "JavaSoft, Inc., Sun Microsystems#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "World Wide Web",
+        "Component-based software engineering",
+        "Web application",
+        "Granularity",
+        "Internet privacy",
+        "Computer access control",
+        "Certification",
+        "Access control",
+        "Computer science",
+        "The Internet",
+        "User agent"
+    ],
+    "references": [
+        "1533109738",
+        "1987339920",
+        "1996360405",
+        "2139474266"
+    ]
+}

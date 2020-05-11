@@ -1,0 +1,46 @@
+{
+    "id": "127082610",
+    "title": "Visualizing time series state changes with prototype based clustering",
+    "venue": "international conference on adaptive and natural computing algorithms",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Markus Pylvanen",
+            "id": "2722565135",
+            "org": "University of Jyvaskyla, Department of Mathematical Information Technology, Jyvaskyla, Finland#TAB#"
+        },
+        {
+            "name": "Sami Ayramo",
+            "id": "2494228090",
+            "org": "University of Jyvaskyla, Department of Mathematical Information Technology, Jyvaskyla, Finland#TAB#"
+        },
+        {
+            "name": "Tommi Karkkainen",
+            "id": "2326685344",
+            "org": "University of Jyvaskyla, Department of Mathematical Information Technology, Jyvaskyla, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time series",
+        "Visualization",
+        "Condition monitoring",
+        "Artificial intelligence",
+        "Cluster analysis",
+        "Machine learning",
+        "Principal component analysis",
+        "Adaptive resonance theory",
+        "Data collection",
+        "Data mining",
+        "Computer science"
+    ],
+    "references": [
+        "1479986428",
+        "1481572261",
+        "1544577158",
+        "1582321261",
+        "1673310716",
+        "1971784203",
+        "2046079134",
+        "2047046780"
+    ]
+}

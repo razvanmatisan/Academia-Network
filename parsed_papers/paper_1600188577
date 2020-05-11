@@ -1,0 +1,36 @@
+{
+    "id": "1600188577",
+    "title": "Classes of first order formulas under various satisfiability definitions",
+    "venue": "conference on automated deduction",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Hans Kleine Buning",
+            "id": "2893227176",
+            "org": "Universitat Karlsruhe (TH) Institut fur Angewandte Informatik und Formale Beschreibungsverfahren 7500 Karlsruhe 7500 Karlsruhe"
+        },
+        {
+            "name": "Theodor Lettmann",
+            "id": "2617393888",
+            "org": "Universitat Karlsruhe (TH) Institut fur Angewandte Informatik und Formale Beschreibungsverfahren 7500 Karlsruhe 7500 Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "Conjunctive normal form",
+        "Algorithm",
+        "Discrete mathematics",
+        "Description logic",
+        "First-order logic",
+        "Unique name assumption",
+        "Dynamic logic (modal logic)",
+        "Combinatorics",
+        "Satisfiability",
+        "Logic programming",
+        "Boolean satisfiability problem",
+        "Mathematics"
+    ],
+    "references": [
+        "1496815773",
+        "2066989651"
+    ]
+}

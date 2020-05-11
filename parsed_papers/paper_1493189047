@@ -1,0 +1,37 @@
+{
+    "id": "1493189047",
+    "title": "Look-Ahead Mechanism Integration in Decision Tree Induction Models",
+    "venue": "Advances in Web Intelligence and Data Mining",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Michael Roizman",
+            "id": "2026936388",
+            "org": "Ben-Gurion University of Negev"
+        }
+    ],
+    "fields_of_study": [
+        "Decision tree model",
+        "Alternating decision tree",
+        "Grafting (decision trees)",
+        "Decision tree",
+        "ID3 algorithm",
+        "Decision tree learning",
+        "Machine learning",
+        "Incremental decision tree",
+        "Fair computational tree logic",
+        "Artificial intelligence",
+        "Computer science",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1506385404",
+        "1559996711",
+        "1564267444",
+        "2006345381",
+        "2014458907",
+        "2112490701",
+        "2120507934",
+        "2158823144"
+    ]
+}

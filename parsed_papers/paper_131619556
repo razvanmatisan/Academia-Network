@@ -1,0 +1,27 @@
+{
+    "id": "131619556",
+    "title": "KONECT: the Koblenz network collection",
+    "venue": "international world wide web conferences",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Jerome Kunegis",
+            "id": "2232072325",
+            "org": "University of Koblenz-Landau, Koblenz, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Network analysis",
+        "MATLAB",
+        "World Wide Web",
+        "Data mining",
+        "Toolbox",
+        "Network science",
+        "Computer science",
+        "Web science",
+        "Data science"
+    ],
+    "references": [
+        "2139882553"
+    ]
+}

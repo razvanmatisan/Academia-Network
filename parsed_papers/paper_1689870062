@@ -1,0 +1,45 @@
+{
+    "id": "1689870062",
+    "title": "Studying the evolution of software systems using evolutionary code extractors",
+    "venue": "international workshop on principles of software evolution",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ahmed E. Hassan",
+            "id": "2110155496",
+            "org": "Sch. of Comput. Sci., Waterloo Univ., Ont., Canada"
+        },
+        {
+            "name": "Richard C. Holt",
+            "id": "2107192907",
+            "org": "Sch. of Comput. Sci., Waterloo Univ., Ont., Canada"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Systems engineering",
+        "Theoretical computer science",
+        "Software construction",
+        "Static program analysis",
+        "Backporting",
+        "Social software engineering",
+        "KPI-driven code analysis",
+        "Software peer review",
+        "Package development process",
+        "Software sizing"
+    ],
+    "references": [
+        "1533432827",
+        "1536082920",
+        "1677598599",
+        "1853827169",
+        "2001726636",
+        "2109427294",
+        "2115398138",
+        "2122525845",
+        "2128780139",
+        "2143082089",
+        "2150786161",
+        "2159682002"
+    ]
+}

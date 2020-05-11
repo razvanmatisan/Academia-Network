@@ -1,0 +1,39 @@
+{
+    "id": "1588050163",
+    "title": "Generalizing number and learning from multiple examples in explanation based learning",
+    "venue": "international conference on machine learning",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "William W. Cohen",
+            "id": "2115385359",
+            "org": "Computer Science Department, Rutgers University, New Brunswick, NJ 08903 U.S.A."
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Explanation-based learning",
+        "Active learning (machine learning)",
+        "Circuit design",
+        "Multi-task learning",
+        "Very-large-scale integration",
+        "Artificial intelligence",
+        "Generalization",
+        "Computer science",
+        "Stability (learning theory)",
+        "Automated theorem proving"
+    ],
+    "references": [
+        "26825469",
+        "38913427",
+        "78940885",
+        "96138453",
+        "143557957",
+        "149980436",
+        "1602272411",
+        "1747974990",
+        "2070664878",
+        "2076343783",
+        "2159544980"
+    ]
+}

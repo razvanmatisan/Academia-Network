@@ -1,0 +1,28 @@
+{
+    "id": "1501617060",
+    "title": "Automatic text summarization of newswire: lessons learned from the document understanding conference",
+    "venue": "national conference on artificial intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Ani Nenkova",
+            "id": "114841185",
+            "org": "Columbia University, New York, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Automatic summarization",
+        "Information retrieval",
+        "Text graph",
+        "Variables",
+        "Multi-document summarization",
+        "Baseline (configuration management)",
+        "Data mining",
+        "Computer science",
+        "Information technology"
+    ],
+    "references": [
+        "2102065370",
+        "2118370253"
+    ]
+}

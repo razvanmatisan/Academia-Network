@@ -1,0 +1,30 @@
+{
+    "id": "1781114614",
+    "title": "Sparse Kernel Regressors",
+    "venue": "international conference on artificial neural networks",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Volker Roth",
+            "id": "2558456821",
+            "org": "University of Bonn"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Pattern recognition",
+        "Support vector machine",
+        "Outlier",
+        "Kernel method",
+        "Relevance vector machine",
+        "Artificial intelligence",
+        "Probabilistic logic",
+        "Lasso (statistics)",
+        "Kernel (linear algebra)",
+        "Regression analysis",
+        "Mathematics"
+    ],
+    "references": [
+        "2137512539"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "145027359",
+    "title": "The sentient map and its application to the Macro University E-learning environment",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Shi-Kuo Chang",
+            "id": "2112033417",
+            "org": "University of Pittsburgh"
+        }
+    ],
+    "fields_of_study": [
+        "Temporal database",
+        "Information access",
+        "Human-computer interaction",
+        "Information system",
+        "Information space",
+        "Preemption",
+        "Learning environment",
+        "Macro",
+        "Computer vision",
+        "Computer science",
+        "Distributed computing",
+        "Gesture",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1567106422",
+        "1984116761",
+        "2052520063"
+    ]
+}

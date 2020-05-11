@@ -1,0 +1,37 @@
+{
+    "id": "1548455447",
+    "title": "Optimality theory and the generative complexity of constraint violability",
+    "venue": "Computational Linguistics",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Robert Frank",
+            "id": "2802203404",
+            "org": "Johns Hopkins University#TAB#"
+        },
+        {
+            "name": "Giorgio Satta",
+            "id": "1992109353",
+            "org": "Universita di Padova#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Generative grammar",
+        "Natural language processing",
+        "Optimality theory",
+        "Embodied cognition",
+        "Rule-based system",
+        "Artificial intelligence",
+        "Phonology",
+        "Rewrite rule",
+        "Computer science",
+        "Finite state transducer"
+    ],
+    "references": [
+        "1513168562",
+        "1647053039",
+        "1716769854",
+        "2005426424",
+        "2097835057"
+    ]
+}

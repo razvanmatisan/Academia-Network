@@ -1,0 +1,30 @@
+{
+    "id": "1232925365",
+    "title": "VirtualMedia: Making Multimedia Database Systems Fit for World-Wide Access.",
+    "venue": "extending database technology",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Ulrich Marder",
+            "id": "2464706109",
+            "org": "University of Kaiserslautern|Dept . of Computer Science"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Database theory",
+        "Data mining",
+        "Database tuning",
+        "Database server",
+        "Multimedia database",
+        "Computer science",
+        "Database schema",
+        "Database design",
+        "Intelligent database",
+        "Database testing"
+    ],
+    "references": [
+        "1568178433",
+        "1981006799"
+    ]
+}

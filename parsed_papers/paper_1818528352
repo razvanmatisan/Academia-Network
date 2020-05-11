@@ -1,0 +1,33 @@
+{
+    "id": "1818528352",
+    "title": "Signing RDF graphs",
+    "venue": "international semantic web conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jeremy J. Carroll",
+            "id": "2154782788",
+            "org": "Hewlett-Packard Labs, Bristol, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Digital signature",
+        "Discrete mathematics",
+        "Graph isomorphism",
+        "RDF",
+        "Database",
+        "Distributed computing",
+        "Semantic Web",
+        "Theoretical computer science",
+        "Blank node",
+        "1-planar graph",
+        "Computer science",
+        "Abstract syntax"
+    ],
+    "references": [
+        "1603916591",
+        "1677817168",
+        "1990341169"
+    ]
+}

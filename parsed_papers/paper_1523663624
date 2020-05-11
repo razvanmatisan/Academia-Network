@@ -1,0 +1,33 @@
+{
+    "id": "1523663624",
+    "title": "Leave-one-out support vector machines",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Jason Weston",
+            "id": "2058584252",
+            "org": "Department of Computer Science, Royal Holloway, University of London, Egham, Surrey, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Support vector machine",
+        "Free parameter",
+        "Machine learning",
+        "Upper and lower bounds",
+        "Feature vector",
+        "Linear classifier",
+        "Kernel (linear algebra)",
+        "Least squares support vector machine",
+        "Pattern recognition",
+        "Mathematics",
+        "Convex optimization",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "854322902",
+        "1540007258",
+        "2119821739",
+        "2148603752"
+    ]
+}

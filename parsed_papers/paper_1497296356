@@ -1,0 +1,32 @@
+{
+    "id": "1497296356",
+    "title": "A Topological Characterization of TCP/IP Security",
+    "venue": "formal methods",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Giovanni Vigna",
+            "id": "2192390985",
+            "org": "University of California Santa Barbara"
+        }
+    ],
+    "fields_of_study": [
+        "IPsec",
+        "Communications protocol",
+        "TCP acceleration",
+        "Zeta-TCP",
+        "IP hijacking",
+        "Transmission Control Protocol",
+        "TCP hole punching",
+        "Windows Vista networking technologies",
+        "Computer network",
+        "Topology",
+        "Computer science"
+    ],
+    "references": [
+        "1496979250",
+        "1519687682",
+        "1994212840",
+        "2076172664"
+    ]
+}

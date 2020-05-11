@@ -1,0 +1,31 @@
+{
+    "id": "1515629268",
+    "title": "Self Optimizing Neural Networks SONN-3 for Classification Tasks",
+    "venue": "hybrid artificial intelligence systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Adrian Horzyk",
+            "id": "138224952",
+            "org": "Department of Automatics, University of Science and Technology, Cracow, Poland 30-059#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Binary number",
+        "Machine learning",
+        "Artificial intelligence",
+        "Artificial neural network",
+        "Theoretical computer science",
+        "Computational topology",
+        "Topology optimization",
+        "Computer science"
+    ],
+    "references": [
+        "193701854",
+        "1487100330",
+        "1515459872",
+        "1551273980",
+        "1858202295",
+        "2065024490"
+    ]
+}

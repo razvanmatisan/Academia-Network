@@ -1,0 +1,34 @@
+{
+    "id": "1501106248",
+    "title": "x2 Cryptanalysis of the SEAL Encryption Algorithm",
+    "venue": "fast software encryption",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Helena Handschuh",
+            "id": "1756865753",
+            "org": "Gemplus PSI"
+        },
+        {
+            "name": "Henri Gilbert",
+            "id": "2124974951",
+            "org": "France Telecom CNET PAA-TSA-SRC"
+        }
+    ],
+    "fields_of_study": [
+        "Pseudorandom function family",
+        "Block cipher",
+        "Encryption",
+        "Distributed computing",
+        "Pseudorandom number generator",
+        "Cryptanalysis",
+        "Algorithm",
+        "Cryptography",
+        "Computer experiment",
+        "Random function",
+        "Computer science"
+    ],
+    "references": [
+        "2103910180"
+    ]
+}

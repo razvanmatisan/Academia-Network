@@ -1,0 +1,42 @@
+{
+    "id": "1545400060",
+    "title": "Multiscale Segmentation of Document Images Using M -Band Wavelets",
+    "venue": "computer analysis of images and patterns",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Mausumi Acharyya",
+            "id": "2309058266",
+            "org": "Indian Statistical Institute"
+        },
+        {
+            "name": "Malay K. Kundu",
+            "id": "2163568455",
+            "org": "Indian Statistical Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Artificial intelligence",
+        "Cluster analysis",
+        "Feature vector",
+        "Wavelet",
+        "Image processing",
+        "Pattern recognition",
+        "Pixel",
+        "Segmentation",
+        "Communication channel",
+        "Mathematics"
+    ],
+    "references": [
+        "1514784562",
+        "1979243088",
+        "2017721474",
+        "2019273017",
+        "2056404389",
+        "2118030626",
+        "2135085165",
+        "2160700903",
+        "2164166190"
+    ]
+}

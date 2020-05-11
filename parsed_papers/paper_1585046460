@@ -1,0 +1,37 @@
+{
+    "id": "1585046460",
+    "title": "A Garbage Collector for the Concurrent Real-Time Language Erlang",
+    "venue": "international symposium on memory management",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Robert Virding",
+            "id": "2326807540",
+            "org": "Ellemtel Telecommunications Systems Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Real-time computing",
+        "Garbage",
+        "Erlang (programming language)",
+        "High-level programming language",
+        "Manual memory management",
+        "Programming language",
+        "Garbage collection",
+        "Implicit memory",
+        "Computer science",
+        "Prolog",
+        "Memory leak"
+    ],
+    "references": [
+        "1509600745",
+        "1584322803",
+        "1905484215",
+        "2028080565",
+        "2079813853",
+        "2104055277",
+        "2158525816",
+        "2161531345"
+    ]
+}

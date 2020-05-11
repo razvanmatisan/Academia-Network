@@ -1,0 +1,37 @@
+{
+    "id": "1522273308",
+    "title": "The Semantics of Statecharts in HOL",
+    "venue": "theorem proving in higher order logics",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Nancy A. Day",
+            "id": "2072346367",
+            "org": "University of British Columbia"
+        },
+        {
+            "name": "Jeffrey J. Joyce",
+            "id": "2139969985",
+            "org": "University of British Columbia"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Model checking",
+        "HOL",
+        "Algorithm",
+        "Formal methods",
+        "Denotational semantics",
+        "Computer-aided software engineering",
+        "Operational semantics",
+        "Computer science",
+        "Action semantics",
+        "Programming language",
+        "Higher-order logic"
+    ],
+    "references": [
+        "2064650227",
+        "2096039823",
+        "2147880466"
+    ]
+}

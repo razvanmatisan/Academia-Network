@@ -1,0 +1,29 @@
+{
+    "id": "1556438821",
+    "title": "Automatic code generation for PLC controllers",
+    "venue": "international conference on computer safety reliability and security",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Krzysztof Sacha",
+            "id": "1244044867",
+            "org": "Warsaw University of Technology, Warszawa, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Formal methods",
+        "Formal specification",
+        "Computer science",
+        "Finite-state machine",
+        "Ladder logic",
+        "State diagram",
+        "Dependability",
+        "Automatic programming",
+        "Real-time computing",
+        "Code generation"
+    ],
+    "references": [
+        "1528367975",
+        "2140769622"
+    ]
+}

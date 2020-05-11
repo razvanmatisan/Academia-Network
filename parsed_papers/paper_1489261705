@@ -1,0 +1,31 @@
+{
+    "id": "1489261705",
+    "title": "A Job Scheduling Strategy for Heterogeneous Multiprogrammed Systems",
+    "venue": "international conference on parallel processing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Piyush Maheshwari",
+            "id": "2059656871",
+            "org": "The University of New South Wales"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Markov model",
+        "Computer science",
+        "Job scheduler",
+        "Scheduling (computing)",
+        "Input/output",
+        "Workload",
+        "Real-time computing",
+        "Time-sharing",
+        "Hidden Markov model"
+    ],
+    "references": [
+        "1488385538",
+        "1498765419",
+        "2082706618",
+        "2094587335"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1604726724",
+    "title": "Regular expressions at their best: a case for rational design",
+    "venue": "international conference on implementation and application of automata",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Vincent Le Maout",
+            "id": "132712319",
+            "org": "Exalead SA, Paris, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Generic programming",
+        "Scalability",
+        "Data structure",
+        "Standard Template Library",
+        "Backtracking",
+        "Nondeterministic finite automaton",
+        "Rational design",
+        "Theoretical computer science",
+        "Regular expression",
+        "Computer science"
+    ],
+    "references": [
+        "1491178396",
+        "1586668623",
+        "1986106281",
+        "2009334077",
+        "2072607050",
+        "2097767297",
+        "2101547548",
+        "2129414328",
+        "2134826720"
+    ]
+}

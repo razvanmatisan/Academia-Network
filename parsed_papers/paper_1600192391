@@ -1,0 +1,35 @@
+{
+    "id": "1600192391",
+    "title": "Adaptive Rates of Convergence in Active Learning.",
+    "venue": "conference on learning theory",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Steve Hanneke",
+            "id": "20281835",
+            "org": "Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Rate of convergence",
+        "Machine learning",
+        "Word error rate",
+        "Hierarchy",
+        "Convergence (routing)",
+        "Artificial intelligence",
+        "Passive learning",
+        "Active learning",
+        "Generalization error",
+        "Computer science",
+        "Pattern recognition"
+    ],
+    "references": [
+        "2106447856",
+        "2114232233",
+        "2117756453",
+        "2123807192",
+        "2148603752",
+        "2151023586",
+        "2157958821"
+    ]
+}

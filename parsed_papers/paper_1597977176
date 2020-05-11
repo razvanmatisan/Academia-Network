@@ -1,0 +1,42 @@
+{
+    "id": "1597977176",
+    "title": "Peer-to-Peer Overlay Network Based on Swarm Intelligence",
+    "venue": "ESAW '09 Proceedings of the 10th International Workshop on Engineering Societies in the Agents World X",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Vesna Sesum-Cavic",
+            "id": "147866523",
+            "org": "Institute of Computer Languages Space Based Computing Group, Vienna University of Technology, Wien, Austria 1040#TAB#"
+        },
+        {
+            "name": "Eva Kuhn",
+            "id": "2165770595",
+            "org": "Institute of Computer Languages Space Based Computing Group, Vienna University of Technology, Wien, Austria 1040#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Swarm intelligence",
+        "Peer-to-peer",
+        "Scalability",
+        "Overlay network",
+        "Theoretical computer science",
+        "Multi-agent system",
+        "Distributed computing",
+        "Computer science",
+        "The Internet",
+        "Complex data type",
+        "Self-organization"
+    ],
+    "references": [
+        "1559504638",
+        "1573676079",
+        "1664011265",
+        "1814312856",
+        "1945828354",
+        "1965498649",
+        "1993148819",
+        "2005665657",
+        "2160279333"
+    ]
+}

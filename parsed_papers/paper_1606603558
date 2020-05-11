@@ -1,0 +1,36 @@
+{
+    "id": "1606603558",
+    "title": "Compositional Model Checking for Linear-Time Temporal Logic",
+    "venue": "computer aided verification",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Roope Kaivola",
+            "id": "2275043518",
+            "org": "University of Helsinki"
+        }
+    ],
+    "fields_of_study": [
+        "Computation tree logic",
+        "Interval temporal logic",
+        "Theoretical computer science",
+        "Algorithm",
+        "Concurrency",
+        "Model checking",
+        "Computer science",
+        "Multimodal logic",
+        "Temporal logic of actions",
+        "Linear temporal logic",
+        "Temporal logic"
+    ],
+    "references": [
+        "80787065",
+        "1490452953",
+        "1491593738",
+        "1604627363",
+        "2009965218",
+        "2061841985",
+        "2090398333",
+        "2137467159"
+    ]
+}

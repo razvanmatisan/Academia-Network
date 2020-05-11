@@ -1,0 +1,38 @@
+{
+    "id": "1514674465",
+    "title": "Visitors' evaluations of ICTs used in cultural heritage",
+    "venue": "ieee virtual reality conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Ruth Owen",
+            "id": "2284786422",
+            "org": "School of Management, University of Surrey, UK#TAB#"
+        },
+        {
+            "name": "Dimitrios Buhalis",
+            "id": "148529042",
+            "org": "School of Management, University of Surrey, UK#TAB#"
+        },
+        {
+            "name": "Daniel Pletinckx",
+            "id": "2678017302",
+            "org": "ENAME Center for Public Archaeology and Heritage Presentation, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Information and Communications Technology",
+        "Augmented reality",
+        "ICTS",
+        "Simulation",
+        "Multimedia",
+        "Computer science",
+        "Cultural heritage",
+        "Mobile media"
+    ],
+    "references": [
+        "1551883873",
+        "1571650526",
+        "1606446497"
+    ]
+}

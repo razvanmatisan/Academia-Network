@@ -1,0 +1,31 @@
+{
+    "id": "1487628230",
+    "title": "Computational Complexity of Geometric Symmetry Detection in Graphs",
+    "venue": "Proceedings of the The First Great Lakes Computer Science Conference on Computing in the 90's",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Joseph Manning",
+            "id": "2634581653",
+            "org": "University of Missouri - Rolla"
+        }
+    ],
+    "fields_of_study": [
+        "Pancyclic graph",
+        "Polyhedral graph",
+        "Pathwidth",
+        "Geometric graph theory",
+        "Discrete mathematics",
+        "Book embedding",
+        "Universal graph",
+        "Combinatorics",
+        "Partial k-tree",
+        "1-planar graph",
+        "Mathematics"
+    ],
+    "references": [
+        "1655990431",
+        "1981511815",
+        "2041176939"
+    ]
+}

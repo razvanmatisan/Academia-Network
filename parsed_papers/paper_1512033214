@@ -1,0 +1,44 @@
+{
+    "id": "1512033214",
+    "title": "Temporal Logic and Categories of Petrie Nets",
+    "venue": "international colloquium on automata languages and programming",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Carolyn Brown",
+            "id": "2658003748",
+            "org": "Chalmers University of Technology"
+        },
+        {
+            "name": "Doug Gurr",
+            "id": "2613684950",
+            "org": "Chalmers University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Transition system",
+        "Combinatorics",
+        "Interval temporal logic",
+        "Category theory",
+        "Morphism",
+        "Temporal logic of actions",
+        "Multimodal logic",
+        "Machine learning",
+        "Petri net",
+        "Artificial intelligence",
+        "Mathematics",
+        "Temporal logic"
+    ],
+    "references": [
+        "1503973138",
+        "1532093359",
+        "1576490998",
+        "1627834133",
+        "1755464305",
+        "2015640848",
+        "2082036629",
+        "2113355185",
+        "2132179319"
+    ]
+}

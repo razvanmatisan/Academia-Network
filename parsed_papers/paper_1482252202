@@ -1,0 +1,34 @@
+{
+    "id": "1482252202",
+    "title": "A Key Escrow System of the RSA Cryptosystem",
+    "venue": "ISW '97 Proceedings of the First International Workshop on Information Security",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Yoshiki Sameshima",
+            "id": "1974937553",
+            "org": "Hitachi Software Engineering Co., Ltd."
+        }
+    ],
+    "fields_of_study": [
+        "Plaintext-aware encryption",
+        "Goldwasser-Micali cryptosystem",
+        "Benaloh cryptosystem",
+        "Hybrid cryptosystem",
+        "Key escrow",
+        "Threshold cryptosystem",
+        "Distributed computing",
+        "Cryptosystem",
+        "Deterministic encryption",
+        "Computer security",
+        "Computer science"
+    ],
+    "references": [
+        "1497619716",
+        "1513123357",
+        "1996360405",
+        "2108834246",
+        "2125348383",
+        "2156186849"
+    ]
+}

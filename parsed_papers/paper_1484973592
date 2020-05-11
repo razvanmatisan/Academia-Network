@@ -1,0 +1,44 @@
+{
+    "id": "1484973592",
+    "title": "CORBA Extensions to Support QoS-Aware Distributed Systems",
+    "venue": "international conference on information networking",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jose Rodriguez",
+            "id": "2308725572",
+            "org": "IRIT"
+        },
+        {
+            "name": "Zoubir Mammeri",
+            "id": "68302619",
+            "org": "IRIT"
+        },
+        {
+            "name": "Pascal Lorenz",
+            "id": "2256472967",
+            "org": "University of Haute Alsace"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "Common Object Request Broker Architecture",
+        "Mobile QoS",
+        "Architecture",
+        "Internet Protocol",
+        "Distributed computing",
+        "Quality of service",
+        "Resource Reservation Protocol",
+        "Interoperable Object Reference",
+        "Object-oriented programming",
+        "Computer science"
+    ],
+    "references": [
+        "1505025870",
+        "1748611583",
+        "2051962033",
+        "2081642319",
+        "2105604586",
+        "2127036198"
+    ]
+}

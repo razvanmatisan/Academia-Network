@@ -1,0 +1,40 @@
+{
+    "id": "1530875037",
+    "title": "Reasoning Objects with Dynamic Knowledge Bases",
+    "venue": "portuguese conference on artificial intelligence",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Christoph Welsch",
+            "id": "2143990399",
+            "org": "Universitat Stuttgart"
+        },
+        {
+            "name": "Gerhard Barth",
+            "id": "2489098126",
+            "org": "DFKI, Deutsches Forschungszentrum fur Kunstliche Intelligenz"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Inference",
+        "Horn clause",
+        "Knowledge representation and reasoning",
+        "Natural language processing",
+        "Specification language",
+        "Method",
+        "Object language",
+        "Object-oriented programming",
+        "Logic programming",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1504837622",
+        "1842836296",
+        "2018156256",
+        "2035182234",
+        "2123991216",
+        "2162930688"
+    ]
+}

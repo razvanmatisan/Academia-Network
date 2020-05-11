@@ -1,0 +1,38 @@
+{
+    "id": "1587778610",
+    "title": "Discovering association patterns based on mutual information",
+    "venue": "machine learning and data mining in pattern recognition",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Bon K. Sy",
+            "id": "2163013813",
+            "org": "Queens College, CUNY, Computer Science Department, Flushing, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern recognition",
+        "Knowledge extraction",
+        "Mutual information",
+        "Knowledge base",
+        "Machine learning",
+        "Inference",
+        "Probabilistic logic",
+        "K-optimal pattern discovery",
+        "Artificial intelligence",
+        "Information extraction",
+        "Computer science",
+        "Association rule learning",
+        "Data mining"
+    ],
+    "references": [
+        "1506285740",
+        "1511277043",
+        "1597561788",
+        "1603563923",
+        "1608194207",
+        "2009418433",
+        "2012170877",
+        "2166559705"
+    ]
+}

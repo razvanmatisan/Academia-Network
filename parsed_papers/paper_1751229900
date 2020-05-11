@@ -1,0 +1,40 @@
+{
+    "id": "1751229900",
+    "title": "Multi-agent Systems in Pedestrian Dynamics Modeling",
+    "venue": "international conference on computational collective intelligence",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jaroslaw Was",
+            "id": "2083224959",
+            "org": "Institute of Automatics, AGH University of Science and Technology, Krakow, Poland 30-059#TAB#"
+        },
+        {
+            "name": "Konrad Kulakowski",
+            "id": "2143308348",
+            "org": "Institute of Automatics, AGH University of Science and Technology, Krakow, Poland 30-059#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Agent-based model",
+        "Computer science",
+        "Cellular automaton",
+        "Multi-agent system",
+        "Simulation",
+        "Social force model",
+        "Pedestrian"
+    ],
+    "references": [
+        "1481361735",
+        "1534662786",
+        "1536677750",
+        "1600178403",
+        "2021896564",
+        "2065246872",
+        "2113351641",
+        "2295512899",
+        "2884788327"
+    ]
+}

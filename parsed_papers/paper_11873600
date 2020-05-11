@@ -1,0 +1,38 @@
+{
+    "id": "11873600",
+    "title": "Holonic stigmergy as a mechanism for engineering self-organizing applications.",
+    "venue": "international conference on informatics in control, automation and robotics",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Mihaela Ulieru",
+            "id": "2291213726",
+            "org": "University of New Brunswick"
+        },
+        {
+            "name": "Stefan Grobbelaar",
+            "id": "2010302511",
+            "org": "Vienna University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Hierarchy",
+        "Cluster analysis",
+        "Engineering",
+        "Swarm intelligence",
+        "Control engineering",
+        "Stigmergy",
+        "Agent architecture",
+        "Holarchy",
+        "Distributed computing",
+        "Knowledge management",
+        "Context model",
+        "Self-organization"
+    ],
+    "references": [
+        "1822559630",
+        "1882088395",
+        "1991183254",
+        "2099535302"
+    ]
+}

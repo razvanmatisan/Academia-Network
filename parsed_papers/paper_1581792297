@@ -1,0 +1,39 @@
+{
+    "id": "1581792297",
+    "title": "A Spatial Logic for the Hybrid p-Calculus",
+    "venue": "international workshop on hybrid systems: computation and control",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "William C. Rounds",
+            "id": "2223843038",
+            "org": "University of Michigan"
+        },
+        {
+            "name": "William C. Rounds",
+            "id": "2223843038",
+            "org": "University of Michigan"
+        }
+    ],
+    "fields_of_study": [
+        "Hybrid logic",
+        "Discrete mathematics",
+        "Normal modal logic",
+        "Dynamic logic (modal logic)",
+        "Description logic",
+        "Predicate functor logic",
+        "Multimodal logic",
+        "Intermediate logic",
+        "Higher-order logic",
+        "Mathematics"
+    ],
+    "references": [
+        "1548324490",
+        "1603799276",
+        "1932110987",
+        "1975082667",
+        "2015640848",
+        "2076632469",
+        "2112401476"
+    ]
+}

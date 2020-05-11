@@ -1,0 +1,36 @@
+{
+    "id": "1567097722",
+    "title": "A search engine based on query logs, and search log analysis by automatic language identification",
+    "venue": "cross language evaluation forum",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Michael P. Oakes",
+            "id": "1996785451",
+            "org": "University of Sunderland, Dept. of Computing, Engineering and Technology, DGIC, Sunderland, England#TAB#"
+        },
+        {
+            "name": "Yan Xu",
+            "id": "2308541312",
+            "org": "University of Sunderland, Dept. of Computing, Engineering and Technology, DGIC, Sunderland, England#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Concept search",
+        "Web search query",
+        "Information retrieval",
+        "Query language",
+        "Query expansion",
+        "Computer science",
+        "RDF query language",
+        "Ranking (information retrieval)",
+        "Search engine",
+        "Web query classification"
+    ],
+    "references": [
+        "1560071265",
+        "2008089766",
+        "2099548400",
+        "2135046980"
+    ]
+}

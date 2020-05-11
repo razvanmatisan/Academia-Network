@@ -1,0 +1,35 @@
+{
+    "id": "1498972620",
+    "title": "Testing Distributed Component Based Systems Using UML/OCL",
+    "venue": "https://www.brucker.ch/bibliography/download/2001/brucker.ea-testing-2001.pdf",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Achim D. Brucker",
+            "id": "742491310",
+            "org": "Albert Ludwigs University of Freiburg"
+        },
+        {
+            "name": "Burkhart Wolff",
+            "id": "2793847849",
+            "org": "Albert Ludwigs University of Freiburg"
+        }
+    ],
+    "fields_of_study": [
+        "Object Constraint Language",
+        "Software design pattern",
+        "Formal methods",
+        "Class diagram",
+        "Unified Modeling Language",
+        "Commercial software",
+        "Code generation",
+        "Programming language",
+        "Design by contract",
+        "Computer science"
+    ],
+    "references": [
+        "1592027468",
+        "1787500456",
+        "2016578292"
+    ]
+}

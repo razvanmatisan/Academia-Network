@@ -1,0 +1,48 @@
+{
+    "id": "1629290860",
+    "title": "Continuous verification using multimodal biometrics",
+    "venue": "international conference on biometrics",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Sheng Zhang",
+            "id": "2894061801",
+            "org": "School of Computing, National University of Singapore, Singapore#TAB#"
+        },
+        {
+            "name": "Rajkumar Janakiraman",
+            "id": "2036690419",
+            "org": "School of Computing, National University of Singapore, Singapore#TAB#"
+        },
+        {
+            "name": "Terence Sim",
+            "id": "2020207291",
+            "org": "School of Computing, National University of Singapore, Singapore#TAB#"
+        },
+        {
+            "name": "Sandeep S. Kumar",
+            "id": "2252138241",
+            "org": "School of Computing, National University of Singapore, Singapore#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Computer science",
+        "Plug-in",
+        "Theoretical computer science",
+        "Artificial intelligence",
+        "Biometrics",
+        "Modalities",
+        "Asynchronous communication",
+        "Extensibility",
+        "Data mining",
+        "Bayesian probability"
+    ],
+    "references": [
+        "1519687682",
+        "2131102923",
+        "2136461127",
+        "2153029139",
+        "2158275940"
+    ]
+}

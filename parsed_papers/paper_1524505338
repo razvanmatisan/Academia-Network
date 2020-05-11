@@ -1,0 +1,42 @@
+{
+    "id": "1524505338",
+    "title": "Analyzing Behaviorial Data for Refining Cognitive Models of Operator",
+    "venue": "database and expert systems applications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Olivier L. Georgeon",
+            "id": "282656779",
+            "org": "Institut National de Recherche sur les Transports et leu Securite, France"
+        },
+        {
+            "name": "Alain Mille",
+            "id": "2111080635",
+            "org": "Univeristy Lyon 1, France#TAB#"
+        },
+        {
+            "name": "Thierry Bellet",
+            "id": "2502986320",
+            "org": "Institut National de Recherche sur les Transports et leu Securite, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Knowledge extraction",
+        "Database",
+        "Cognitive model",
+        "Computer science",
+        "Graph",
+        "Metadata",
+        "Model theory",
+        "Operator (computer programming)",
+        "Cognition"
+    ],
+    "references": [
+        "1239013009",
+        "1542108213",
+        "2011422262",
+        "2080560262",
+        "2146948159"
+    ]
+}

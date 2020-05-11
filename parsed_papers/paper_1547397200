@@ -1,0 +1,40 @@
+{
+    "id": "1547397200",
+    "title": "Processes in space",
+    "venue": "conference on computability in europe",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Luca Cardelli",
+            "id": "331751290",
+            "org": "Microsoft Research Cambridge#TAB#"
+        },
+        {
+            "name": "Philippa Gardner",
+            "id": "2137572371",
+            "org": "Imperial College London#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Complex space",
+        "Discrete mathematics",
+        "Geometric invariant theory",
+        "Conformal geometric algebra",
+        "Affine geometry",
+        "Geometric algebra",
+        "Affine plane",
+        "Mathematics",
+        "Dimension of an algebraic variety",
+        "Universal geometric algebra",
+        "Topology"
+    ],
+    "references": [
+        "1549245411",
+        "1603799276",
+        "1999810324",
+        "2000690667",
+        "2055378322",
+        "2072048176",
+        "2144711132"
+    ]
+}

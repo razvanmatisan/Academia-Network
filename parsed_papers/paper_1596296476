@@ -1,0 +1,37 @@
+{
+    "id": "1596296476",
+    "title": "Implementing Fuzzy Querying via the Internet/WWW: Java Applets, ActiveX Controls and Cookies",
+    "venue": "flexible query answering systems",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Slawomir Zadrozny",
+            "id": "2054926013",
+            "org": "Polish Academy of Sciences"
+        },
+        {
+            "name": "Janusz Kacprzyk",
+            "id": "164198848",
+            "org": "Polish Academy of Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Information system",
+        "Server-side",
+        "Database",
+        "Java applet",
+        "World Wide Web",
+        "Front and back ends",
+        "Fuzzy control system",
+        "Common Gateway Interface",
+        "Computer science",
+        "User interface",
+        "The Internet"
+    ],
+    "references": [
+        "1967596639",
+        "2045249520",
+        "2079811189",
+        "2143734097"
+    ]
+}

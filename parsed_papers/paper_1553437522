@@ -1,0 +1,43 @@
+{
+    "id": "1553437522",
+    "title": "Complexity of Approximating Closest Substring Problems",
+    "venue": "fundamentals of computation theory",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Patricia A. Evans",
+            "id": "2108500808",
+            "org": "University of New Brunswick"
+        },
+        {
+            "name": "Andrew D. Smith",
+            "id": "2777295259",
+            "org": "University of New Brunswick"
+        },
+        {
+            "name": "Andrew D. Smith",
+            "id": "2777295259",
+            "org": "University of New Brunswick"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Time complexity",
+        "String (computer science)",
+        "Approximation algorithm",
+        "Combinatorics",
+        "Maximization",
+        "Hardness of approximation",
+        "Polynomial-time approximation scheme",
+        "Substring",
+        "Mathematics",
+        "Minimisation (psychology)"
+    ],
+    "references": [
+        "1486659038",
+        "1990169993",
+        "2003159902",
+        "2047386086",
+        "2059453880"
+    ]
+}

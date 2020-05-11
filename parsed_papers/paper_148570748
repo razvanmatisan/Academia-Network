@@ -1,0 +1,34 @@
+{
+    "id": "148570748",
+    "title": "Representing the knowledge of a robot",
+    "venue": "principles of knowledge representation and reasoning",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Michael Thielscher",
+            "id": "279836095",
+            "org": "Department of Computer Science|Dresden University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Personal robot",
+        "Computer science",
+        "Articulated robot",
+        "Mobile robot navigation",
+        "Robot learning",
+        "Social robot",
+        "Mobile robot",
+        "Computer vision",
+        "Robot control",
+        "Arm solution",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1206947482",
+        "1546925726",
+        "1992325837",
+        "2041994626",
+        "2045474169",
+        "2128888217"
+    ]
+}

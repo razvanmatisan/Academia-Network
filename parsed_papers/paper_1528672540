@@ -1,0 +1,44 @@
+{
+    "id": "1528672540",
+    "title": "Composition and Submachine Concepts for Sequential ASMs",
+    "venue": "computer science logic",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Egon Borger",
+            "id": "2026252948",
+            "org": "Universita di Pisa"
+        },
+        {
+            "name": "Joachim Schmid",
+            "id": "2136345113",
+            "org": "Siemens AG, Corporate Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Recursion",
+        "Computation",
+        "Abstract machine",
+        "Parametrization",
+        "Distributed computing",
+        "Theoretical computer science",
+        "Computer science",
+        "Operator (computer programming)",
+        "Deterministic automaton",
+        "Composition (visual arts)",
+        "Machine learning",
+        "Encapsulation (computer programming)",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "4768151",
+        "1499759440",
+        "1549008998",
+        "1562161142",
+        "1607166662",
+        "1826173575",
+        "1969402593",
+        "1998333922",
+        "2102075452"
+    ]
+}

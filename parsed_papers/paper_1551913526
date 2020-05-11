@@ -1,0 +1,33 @@
+{
+    "id": "1551913526",
+    "title": "Search in a small world",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Toby Walsh",
+            "id": "2156731892",
+            "org": "Department of Computer Science, University of Strathclyde, Glasgow, Scotland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Graph",
+        "Cutoff",
+        "Mathematical optimization",
+        "Path length",
+        "Randomization",
+        "Heavy-tailed distribution",
+        "Mathematics"
+    ],
+    "references": [
+        "22657303",
+        "1502527706",
+        "1774277213",
+        "2039557216",
+        "2119190805",
+        "2137154807",
+        "2167036627",
+        "2167946976"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1482214346",
+    "title": "Hashing Image Patches for Zooming",
+    "venue": "arXiv: Computer Vision and Pattern Recognition",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Mithun Das Gupta",
+            "id": "2518564331",
+            "org": "Epson Research and Development , Inc"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Locality-sensitive hashing",
+        "Iterative reconstruction",
+        "Nearest neighbor search",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Computer vision",
+        "Prior probability",
+        "Bilateral filter",
+        "Hash function",
+        "Image quality",
+        "Bayesian inference",
+        "Mathematics"
+    ],
+    "references": [
+        "1502916507",
+        "1566786572",
+        "2020999234",
+        "2065533005",
+        "2099244020",
+        "2118963448",
+        "2136748901",
+        "2147717514",
+        "2149760002",
+        "2159080219",
+        "2162006472",
+        "2162618331",
+        "2168955003",
+        "2169351022"
+    ]
+}

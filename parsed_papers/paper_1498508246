@@ -1,0 +1,40 @@
+{
+    "id": "1498508246",
+    "title": "Reliable ad hoc group communication using local neighborhoods",
+    "venue": "wireless and mobile computing, networking and communications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Lawrence Klos",
+            "id": "2070803940",
+            "org": "Dept. of CS, New Orleans Univ., LA, USA"
+        },
+        {
+            "name": "Golden G. Richard",
+            "id": "2164294224",
+            "org": "Dept. of CS, New Orleans Univ., LA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Optimized Link State Routing Protocol",
+        "Computer network",
+        "Protocol Independent Multicast",
+        "Xcast",
+        "Wireless Routing Protocol",
+        "Ad hoc wireless distribution service",
+        "Distributed computing",
+        "ODMRP",
+        "Pragmatic General Multicast",
+        "Distance Vector Multicast Routing Protocol",
+        "Computer science"
+    ],
+    "references": [
+        "1589122423",
+        "2096062317",
+        "2118815502",
+        "2132932625",
+        "2144619001",
+        "2145848738",
+        "2169579543"
+    ]
+}

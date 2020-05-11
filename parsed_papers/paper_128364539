@@ -1,0 +1,26 @@
+{
+    "id": "128364539",
+    "title": "Pointwise \"Flow\" from a Variational Principle.",
+    "venue": "Journal of Machine Vision and Applications",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Harit P. Trivedi",
+            "id": "2715711656",
+            "org": "Defence Evaluation & Research Agency"
+        }
+    ],
+    "fields_of_study": [
+        "Hamilton's principle",
+        "Mathematics",
+        "Mathematical optimization",
+        "Pointwise",
+        "Mathematical analysis",
+        "Variational principle"
+    ],
+    "references": [
+        "1638057594",
+        "2031912957",
+        "2102116384"
+    ]
+}

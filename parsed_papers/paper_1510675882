@@ -1,0 +1,46 @@
+{
+    "id": "1510675882",
+    "title": "Formal verification of a time-triggered hardware interface",
+    "venue": "arXiv: Logic in Computer Science",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Julien Schmaltz",
+            "id": "2121493230",
+            "org": "Open University of the Netherlands"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "HOL",
+        "Verilog",
+        "Proof complexity",
+        "Algorithm",
+        "Correctness",
+        "Formal proof",
+        "Computer hardware",
+        "Automated proof checking",
+        "Formal verification",
+        "Theoretical computer science",
+        "Proof assistant",
+        "Computer science"
+    ],
+    "references": [
+        "1489391022",
+        "1507653811",
+        "1519878813",
+        "1522828591",
+        "1568322431",
+        "2093993460",
+        "2106192381",
+        "2112608096",
+        "2116358561",
+        "2121539168",
+        "2122645481",
+        "2131121312",
+        "2144275718",
+        "2163660683",
+        "2168387919",
+        "2340735175"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "1480141014",
+    "title": "Gray and Binary Encoding in the (1+1)-EA",
+    "venue": "international conference on neural information processing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Uday Kumar Chakraborty",
+            "id": "2161628790",
+            "org": "University of Missouri"
+        }
+    ],
+    "fields_of_study": [
+        "Encoding (memory)",
+        "Markov model",
+        "Gray code",
+        "Binary number",
+        "Binary code",
+        "Machine learning",
+        "First-hitting-time model",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Computer science",
+        "Markov chain",
+        "Truncated binary encoding"
+    ],
+    "references": [
+        "1535452087",
+        "2054675925",
+        "2110538866"
+    ]
+}

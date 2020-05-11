@@ -1,0 +1,33 @@
+{
+    "id": "1556652654",
+    "title": "Virtual games: a new approach to implementation of social choice rules",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Daniel L. Kovacs",
+            "id": "2688449725",
+            "org": "Faculty of Electrical Engineering and Informatics, Department of Measurement and Information Systems, Budapest University of Technology and Economics, Budapest, Hungary#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Game theory",
+        "Systems design",
+        "Management science",
+        "Collective behavior",
+        "Strategy",
+        "Intelligent decision support system",
+        "Distributed computing",
+        "Everyday life",
+        "Design strategy",
+        "Artificial intelligence",
+        "Computer science",
+        "Social choice theory"
+    ],
+    "references": [
+        "1554911477",
+        "1575020259",
+        "2139774323",
+        "2168082408"
+    ]
+}

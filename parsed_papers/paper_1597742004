@@ -1,0 +1,47 @@
+{
+    "id": "1597742004",
+    "title": "Interactive Exploration of the AFS File System",
+    "venue": "ieee symposium on information visualization",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Joshua Foster",
+            "id": "2100660661",
+            "org": "University of North Carolina at Charlotte"
+        },
+        {
+            "name": "Kalpathi R. Subramanian",
+            "id": "2056718912",
+            "org": "University of North Carolina at Charlotte#TAB#"
+        },
+        {
+            "name": "Robert Herring",
+            "id": "2627998738",
+            "org": "University of North Carolina at Charlotte#TAB#"
+        },
+        {
+            "name": "Gail Joon Ahn",
+            "id": "2281944180",
+            "org": "University of North Carolina at Charlotte#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Directory",
+        "Virtual file system",
+        "Everything is a file",
+        "Computer science",
+        "Database",
+        "Design rule for Camera File system",
+        "SSH File Transfer Protocol",
+        "World Wide Web",
+        "Computer file",
+        "File system",
+        "Self-certifying File System"
+    ],
+    "references": [
+        "1735790193",
+        "2106588364",
+        "2170606151"
+    ]
+}

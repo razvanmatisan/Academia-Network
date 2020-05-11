@@ -1,0 +1,47 @@
+{
+    "id": "130735172",
+    "title": "A semantic oriented method for conceptual data modeling in ontoUML based on linguistic concepts",
+    "venue": "international conference on conceptual modeling",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Lucia Castro",
+            "id": "2139718180",
+            "org": "Research and Practice Group in Information Technology, Federal University of the State of Rio de Janeiro, Rio de Janeiro, Brazil#TAB#"
+        },
+        {
+            "name": "Fernanda Araujo Baiao",
+            "id": "2176245790",
+            "org": "Research and Practice Group in Information Technology, Federal University of the State of Rio de Janeiro, Rio de Janeiro, Brazil#TAB#"
+        },
+        {
+            "name": "Giancarlo Guizzardi",
+            "id": "1971991369",
+            "org": "Computer Science Department, Federal University of Espirito Santo, Espirito Santo, Brazil#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language",
+        "Faithful representation",
+        "Data mining",
+        "Database",
+        "Semantics",
+        "Modeling language",
+        "Computer science",
+        "Conceptual model",
+        "Natural language processing",
+        "Linguistics",
+        "Conceptual model (computer science)",
+        "Data modeling",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1555751548",
+        "1608058890",
+        "1991430546",
+        "2072871635",
+        "2075886324",
+        "2099281190",
+        "2140037779"
+    ]
+}

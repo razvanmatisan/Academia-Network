@@ -1,0 +1,39 @@
+{
+    "id": "1594667270",
+    "title": "Adaptive Crossover Using Automata",
+    "venue": "parallel problem solving from nature",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Tony White",
+            "id": "2096125512",
+            "org": "Bell-Northern Research"
+        },
+        {
+            "name": "Franz Oppacher",
+            "id": "22229481",
+            "org": "Carleton University"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Genetic algorithm",
+        "Crossover",
+        "Artificial intelligence",
+        "Mathematical optimization",
+        "Genetic representation",
+        "Evolutionary programming",
+        "Schema (psychology)",
+        "Computer science",
+        "Operator (computer programming)"
+    ],
+    "references": [
+        "36351923",
+        "1547268425",
+        "1566803874",
+        "1607539085",
+        "1639032689",
+        "2023413531",
+        "2156728410"
+    ]
+}

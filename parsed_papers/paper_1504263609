@@ -1,0 +1,35 @@
+{
+    "id": "1504263609",
+    "title": "The Consumer Juggernaut: Web-based and Mobile Applications as Innovation Pioneer",
+    "venue": "product focused software process improvement",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "David G. Messerschmitt",
+            "id": "687257615",
+            "org": "University of California at Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Engineering",
+        "Software deployment",
+        "Resource-oriented architecture",
+        "Systems engineering",
+        "Software development",
+        "Software peer review",
+        "Software design description",
+        "Social software engineering",
+        "Marketing",
+        "Package development process",
+        "Software as a service"
+    ],
+    "references": [
+        "72153776",
+        "1489528249",
+        "2083287322",
+        "2110317360",
+        "2120876973",
+        "2137223451",
+        "2337969425"
+    ]
+}

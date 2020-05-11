@@ -1,0 +1,47 @@
+{
+    "id": "1562422632",
+    "title": "A general diagnosis method for ontologies",
+    "venue": "international semantic web conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Gerhard Friedrich",
+            "id": "2164811671",
+            "org": "Universitaet Klagenfurt, Klagenfurt, Austria, Europe#TAB#"
+        },
+        {
+            "name": "Kostyantyn M. Shchekotykhin",
+            "id": "2477640631",
+            "org": "Universitaet Klagenfurt, Klagenfurt, Austria, Europe#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Data mining",
+        "Expert system",
+        "Debugging",
+        "Semantics",
+        "Knowledge base",
+        "Semantic Web",
+        "Reasoning system",
+        "Description logic",
+        "Computer science",
+        "Ontology (information science)"
+    ],
+    "references": [
+        "27125521",
+        "311418300",
+        "343479561",
+        "1763513967",
+        "1985769033",
+        "1986146602",
+        "1998044200",
+        "2005564477",
+        "2025271293",
+        "2084302879",
+        "2097395913",
+        "2108309071",
+        "2111386773",
+        "2115969784"
+    ]
+}

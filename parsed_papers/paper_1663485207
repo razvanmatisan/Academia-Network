@@ -1,0 +1,46 @@
+{
+    "id": "1663485207",
+    "title": "Information Hiding Using Improper frame padding",
+    "venue": "international telecommunications network strategy and planning symposium",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Bartosz Jankowski",
+            "id": "2717643146",
+            "org": "Institute of Telecommunications, Warsaw University of Technology, Poland"
+        },
+        {
+            "name": "Wojciech Mazurczyk",
+            "id": "1159116399",
+            "org": "Institute of Telecommunications, Warsaw University of Technology, Poland"
+        },
+        {
+            "name": "Krzysztof Szczypiorski",
+            "id": "256079188",
+            "org": "Institute of Telecommunications, Warsaw University of Technology, Poland"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Padding",
+        "Internet protocol suite",
+        "Computer security",
+        "Ethernet frame",
+        "Steganography",
+        "Information hiding",
+        "Transmission Control Protocol",
+        "Local area network",
+        "Network security",
+        "Computer network"
+    ],
+    "references": [
+        "1549081716",
+        "1579876420",
+        "1827189246",
+        "1838763164",
+        "1993704367",
+        "2060626729",
+        "2107655538",
+        "2157428729"
+    ]
+}

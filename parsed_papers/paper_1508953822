@@ -1,0 +1,51 @@
+{
+    "id": "1508953822",
+    "title": "A Model-driven, Agent-based Approach for a Rapid Integration of Interoperable Services",
+    "venue": "IESA",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Ingo Zinnikus",
+            "id": "2311882173",
+            "org": "DFKI GmbH"
+        },
+        {
+            "name": "Christian Hahn",
+            "id": "2148817337",
+            "org": "DFKI GmbH"
+        },
+        {
+            "name": "Klaus Fischer",
+            "id": "2154329814",
+            "org": "DFKI GmbH"
+        }
+    ],
+    "fields_of_study": [
+        "Business process",
+        "Interoperability",
+        "Web service",
+        "Service delivery framework",
+        "Semantic Web",
+        "Social Semantic Web",
+        "Database",
+        "World Wide Web",
+        "Semantic Web Stack",
+        "Service-oriented architecture",
+        "Computer science"
+    ],
+    "references": [
+        "56202547",
+        "1482368322",
+        "1493158902",
+        "1610892232",
+        "1714132059",
+        "1992673035",
+        "2039431054",
+        "2098561412",
+        "2109491016",
+        "2130914035",
+        "2161536823",
+        "2170198522",
+        "2508346740"
+    ]
+}

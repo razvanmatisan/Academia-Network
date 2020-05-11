@@ -1,0 +1,42 @@
+{
+    "id": "1490567242",
+    "title": "Criteria for the Simple Path Property in Timed Automata",
+    "venue": "computer aided verification",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "William K. C. Lam",
+            "id": "2103055418",
+            "org": "Hewlett-Packard Co."
+        },
+        {
+            "name": "Robert K. Brayton",
+            "id": "2038038819",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Linear inequality",
+        "Discrete mathematics",
+        "Of the form",
+        "Timed automaton",
+        "o-automaton",
+        "Finite-state machine",
+        "Real-time computing",
+        "Path (graph theory)",
+        "Linear programming",
+        "Computer science",
+        "Time constant"
+    ],
+    "references": [
+        "59365162",
+        "1482233117",
+        "1512512905",
+        "1524856836",
+        "1574289075",
+        "1599105192",
+        "1830600668",
+        "1967669950"
+    ]
+}

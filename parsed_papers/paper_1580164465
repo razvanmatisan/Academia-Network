@@ -1,0 +1,29 @@
+{
+    "id": "1580164465",
+    "title": "Getting Users' Attributed Without Violating Anonymity",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Tsutomu Matsumoto",
+            "id": "2253012118",
+            "org": "Yokohama National University"
+        }
+    ],
+    "fields_of_study": [
+        "Message authentication code",
+        "Information protection policy",
+        "Anonymity",
+        "Web page",
+        "Proxy server",
+        "Computer security",
+        "Information security",
+        "Blind signature",
+        "The Internet",
+        "Computer science"
+    ],
+    "references": [
+        "1510273591",
+        "2010553858"
+    ]
+}

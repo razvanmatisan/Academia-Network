@@ -1,0 +1,41 @@
+{
+    "id": "1767332649",
+    "title": "Location-Dependent query results retrieval in a multi-cell wireless environment",
+    "venue": "international symposium on parallel and distributed processing and applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "James Jayaputera",
+            "id": "2526546797",
+            "org": "School of Business Systems Monash University, Clayton, Vic, Australia#TAB#"
+        },
+        {
+            "name": "David Taniar",
+            "id": "2250317084",
+            "org": "School of Business Systems Monash University, Clayton, Vic, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Online aggregation",
+        "Real-time computing",
+        "Computer science",
+        "Range query (database)",
+        "Query expansion",
+        "Distributed computing",
+        "Query optimization",
+        "Query language",
+        "Sargable",
+        "Web query classification",
+        "Ranking (information retrieval)"
+    ],
+    "references": [
+        "1530068765",
+        "1604261882",
+        "1912283336",
+        "2123613326",
+        "2130284263",
+        "2140187172",
+        "2141332218",
+        "2149281325"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1536434785",
+    "title": "Detecting and Preventing the Electronic Transmission of Illicit Images and Its Network Performance",
+    "venue": "international conference on digital forensics",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Amin Ibrahim",
+            "id": "2227651652",
+            "org": "University of Ontario Institute of Technology"
+        },
+        {
+            "name": "Miguel Vargas Martin",
+            "id": "2162845326",
+            "org": "University of Ontario Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Computer forensics",
+        "Network monitoring",
+        "Feature extraction",
+        "Contextual image classification",
+        "Estimator",
+        "Machine learning",
+        "Euclidean distance",
+        "Network performance",
+        "The Internet",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Computer science"
+    ],
+    "references": [
+        "1480498941",
+        "1498435869",
+        "2026158992",
+        "2044724761",
+        "2121290184",
+        "2133765780",
+        "2145343266"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "165086718",
+    "title": "Learning Selection Strategies for Evolutionary Algorithms",
+    "venue": "International Conference on Artificial Evolution (Evolution Artificielle)",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Nuno Lourenco",
+            "id": "2233811542",
+            "org": "University of Coimbra"
+        },
+        {
+            "name": "Francisco Baptista Pereira",
+            "id": "2098031034",
+            "org": "University of Coimbra"
+        },
+        {
+            "name": "Ernesto Costa",
+            "id": "2148035700",
+            "org": "University of Coimbra"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic algorithm",
+        "Evolutionary music",
+        "Evolutionary computation",
+        "Evolutionary algorithm",
+        "Evolutionary programming",
+        "Java Evolutionary Computation Toolkit",
+        "Evolutionary acquisition of neural topologies",
+        "Machine learning",
+        "Computer science",
+        "Artificial intelligence",
+        "Memetic algorithm"
+    ],
+    "references": [
+        "90862122",
+        "1491381475",
+        "1998264267",
+        "2111223279",
+        "2142183404",
+        "2148996900",
+        "2156589241"
+    ]
+}

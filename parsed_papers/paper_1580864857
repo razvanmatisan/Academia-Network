@@ -1,0 +1,39 @@
+{
+    "id": "1580864857",
+    "title": "Genetic Programming with Local Improvement for Visual Learning from Examples",
+    "venue": "computer analysis of images and patterns",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Krzysztof Krawiec",
+            "id": "2147402630",
+            "org": "Poznan University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic representation",
+        "Genetic algorithm",
+        "Evolutionary programming",
+        "Visual learning",
+        "Local search (optimization)",
+        "Genetic programming",
+        "Genetic program",
+        "Computer science",
+        "Machine learning",
+        "Artificial intelligence",
+        "Genetic operator"
+    ],
+    "references": [
+        "1496606080",
+        "1520593198",
+        "1555244713",
+        "1558672164",
+        "1639032689",
+        "2021884232",
+        "2071738870",
+        "2087327261",
+        "2097571405",
+        "2113475831",
+        "2155345556"
+    ]
+}

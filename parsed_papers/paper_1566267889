@@ -1,0 +1,36 @@
+{
+    "id": "1566267889",
+    "title": "From E-Processes to E-Networks: an E-Service-oriented Approach.",
+    "venue": "international conference on internet computing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Giacomo Piccinelli",
+            "id": "1521402949",
+            "org": "Hewlett-Packard"
+        },
+        {
+            "name": "Eric Stammers",
+            "id": "2753995525",
+            "org": "Hewlett-Packard"
+        }
+    ],
+    "fields_of_study": [
+        "Process management",
+        "Electronic business",
+        "Business",
+        "Business service provider",
+        "Value-added network",
+        "Business process modeling",
+        "Artifact-centric business process model",
+        "Business model",
+        "Knowledge management",
+        "New business development",
+        "The Internet"
+    ],
+    "references": [
+        "2115554012",
+        "2144158661",
+        "2149096642"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1595973166",
+    "title": "Information assurance visualizations for specific stages of situational awareness and intended uses: lessons learned",
+    "venue": "visualization for computer security",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Anita D'Amico",
+            "id": "2781410142",
+            "org": "Secure Decisions, Appl. Visions, Inc., Northport, NY, USA"
+        },
+        {
+            "name": "Michael Kocka",
+            "id": "2274336692",
+            "org": "Secure Decisions, Appl. Visions, Inc., Northport, NY, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Computer security",
+        "Visualization",
+        "Information visualization",
+        "Computer network operations",
+        "Task analysis",
+        "Data visualization",
+        "Information assurance",
+        "Situation awareness",
+        "Comprehension",
+        "Computer science"
+    ],
+    "references": [
+        "2024378172",
+        "2146948159"
+    ]
+}

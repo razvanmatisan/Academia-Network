@@ -1,0 +1,43 @@
+{
+    "id": "1534387986",
+    "title": "Incremental hybrid approach for unsupervised classification: applications to visual landmarks recognition",
+    "venue": "international conference on image analysis and recognition",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Antonio Bandera",
+            "id": "2070910730",
+            "org": "Grupo ISIS, Dpto. Tecnologia Electronica, Universidad de Malaga, Malaga, Spain#TAB#"
+        },
+        {
+            "name": "Rebeca Marfil",
+            "id": "2239097853",
+            "org": "Grupo ISIS, Dpto. Tecnologia Electronica, Universidad de Malaga, Malaga, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Fuzzy clustering",
+        "Computer vision",
+        "Clustering high-dimensional data",
+        "CURE data clustering algorithm",
+        "Correlation clustering",
+        "Computer science",
+        "Pattern recognition",
+        "Consensus clustering",
+        "Conceptual clustering",
+        "Canopy clustering algorithm",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "13338109",
+        "2079123245",
+        "2121947440",
+        "2124386111",
+        "2125531986",
+        "2132228352",
+        "2132914434",
+        "2136935487"
+    ]
+}

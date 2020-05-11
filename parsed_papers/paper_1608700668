@@ -1,0 +1,41 @@
+{
+    "id": "1608700668",
+    "title": "Formalization of the DE2 language",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Warren A. Hunt",
+            "id": "2095896588",
+            "org": "Department of Computer Sciences, The University of Texas, Austin, TX#TAB#"
+        },
+        {
+            "name": "Erik Reeber",
+            "id": "1524412763",
+            "org": "Department of Computer Sciences, The University of Texas, Austin, TX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Correctness",
+        "Semantics",
+        "Hardware description language",
+        "Proof theory",
+        "ACL2",
+        "Finite-state machine",
+        "Computer science",
+        "TRIPS architecture",
+        "Theoretical computer science",
+        "Expression (mathematics)",
+        "Programming language"
+    ],
+    "references": [
+        "1508472170",
+        "1516936561",
+        "1584721038",
+        "1594381772",
+        "1596988140",
+        "1774916044",
+        "2011889923",
+        "2049600101"
+    ]
+}

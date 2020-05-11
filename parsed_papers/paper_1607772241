@@ -1,0 +1,38 @@
+{
+    "id": "1607772241",
+    "title": "A framework to model multiple environments in multiagent systems",
+    "venue": "pacific rim international conference on artificial intelligence",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Jean-Christophe Soulie",
+            "id": "1700595363",
+            "org": "IREMIA, Universite de La Reunion, Saint Denis Messag Cedex#TAB#"
+        },
+        {
+            "name": "Pierre Marcenac",
+            "id": "1995379784",
+            "org": "IREMIA, Universite de La Reunion, Saint Denis Messag Cedex#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Artificial intelligence",
+        "Machine learning",
+        "Architecture",
+        "Simulation",
+        "Complex system",
+        "Multi-agent system",
+        "Complex system",
+        "Global environmental analysis",
+        "Distributed computing",
+        "Globality",
+        "Virtual machine"
+    ],
+    "references": [
+        "1577025164",
+        "1898986177",
+        "2124344619",
+        "2129639610"
+    ]
+}

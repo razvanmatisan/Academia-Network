@@ -1,0 +1,58 @@
+{
+    "id": "1554975039",
+    "title": "First-Order Rule Induction for the Recognition of Morphological Patterns in Topographic Maps",
+    "venue": "machine learning and data mining in pattern recognition",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Donato Malerba",
+            "id": "2360612151",
+            "org": "University of Bari"
+        },
+        {
+            "name": "Floriana Esposito",
+            "id": "2122401555",
+            "org": "University of Bari"
+        },
+        {
+            "name": "Antonietta Lanza",
+            "id": "2103077917",
+            "org": "University of Bari"
+        },
+        {
+            "name": "Francesca A. Lisi",
+            "id": "300695800",
+            "org": "University of Bari"
+        }
+    ],
+    "fields_of_study": [
+        "Topographic map",
+        "Pattern recognition",
+        "Knowledge base",
+        "Morphological pattern",
+        "Rule induction",
+        "Rule of inference",
+        "Image processing",
+        "Artificial intelligence",
+        "Computer science",
+        "Knowledge acquisition",
+        "Inductive logic programming"
+    ],
+    "references": [
+        "111063460",
+        "1567193866",
+        "1569538833",
+        "1573167079",
+        "1588226696",
+        "1600996047",
+        "1605662454",
+        "1946621657",
+        "2024243998",
+        "2068523300",
+        "2106642566",
+        "2116267952",
+        "2123885647",
+        "2130594731",
+        "2528839829"
+    ]
+}

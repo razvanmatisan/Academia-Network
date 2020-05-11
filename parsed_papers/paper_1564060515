@@ -1,0 +1,40 @@
+{
+    "id": "1564060515",
+    "title": "A Meta Ontology for Organizations",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jan L. G. Dietz",
+            "id": "2128625188",
+            "org": "Delft University of Technology"
+        },
+        {
+            "name": "Nathalie Habing",
+            "id": "13352042",
+            "org": "Delft University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Ontology",
+        "Process ontology",
+        "Ontology-based data integration",
+        "Ontology alignment",
+        "Suggested Upper Merged Ontology",
+        "Upper ontology",
+        "Ontology (information science)",
+        "Reference model",
+        "Computer science",
+        "Knowledge management"
+    ],
+    "references": [
+        "14293016",
+        "199397188",
+        "1517189671",
+        "1587796482",
+        "1895273801",
+        "1940429100",
+        "1996803739",
+        "2078493610"
+    ]
+}

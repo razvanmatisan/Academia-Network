@@ -1,0 +1,47 @@
+{
+    "id": "1649616049",
+    "title": "Simplified fuzzy ARTMAP classification of individuals using optimal VEP channels",
+    "venue": "International Journal of Knowledge-based and Intelligent Engineering Systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "K. V. R. Ravi",
+            "id": "2876637034",
+            "org": "University of Essex"
+        },
+        {
+            "name": "K. V. R. Ravi",
+            "id": "2876637034",
+            "org": "University of Essex"
+        },
+        {
+            "name": "Ramaswamy Palaniappan",
+            "id": "2793382729",
+            "org": "University of Essex"
+        },
+        {
+            "name": "S.-H. Heng",
+            "id": "2052557769",
+            "org": "Multimedia University"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Artificial intelligence",
+        "Machine learning",
+        "Linear discriminant analysis",
+        "Fuzzy logic",
+        "Pattern recognition",
+        "Perception",
+        "Evoked potential",
+        "Communication channel",
+        "Artificial neural network"
+    ],
+    "references": [
+        "1652220450",
+        "2040179990",
+        "2106187418",
+        "2122027310",
+        "2150740313"
+    ]
+}

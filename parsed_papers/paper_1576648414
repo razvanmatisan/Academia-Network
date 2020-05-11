@@ -1,0 +1,43 @@
+{
+    "id": "1576648414",
+    "title": "The ESTEREL Synchronous Programming Language and its Mathematical Semantics",
+    "venue": "international conference on concurrency theory",
+    "year": 1984,
+    "authors": [
+        {
+            "name": "Gerard Berry",
+            "id": "2431982862",
+            "org": "Centre de Mathematiques Appliquees, Ecole Nationale Superieure des Mines de Paris (ENSMP), Valbonne, France"
+        },
+        {
+            "name": "Laurent Cosserat",
+            "id": "2093127159",
+            "org": "Centre de Mathematiques Appliquees, Ecole Nationale Superieure des Mines de Paris (ENSMP), Valbonne, France"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "First-generation programming language",
+        "Esterel",
+        "Very high-level programming language",
+        "Synchronous programming language",
+        "Semantics (computer science)",
+        "Programming domain",
+        "Programming language theory",
+        "Programming language",
+        "Lustre (programming language)"
+    ],
+    "references": [
+        "56667760",
+        "81077202",
+        "1495562059",
+        "1979462141",
+        "1986158222",
+        "2001748564",
+        "2054554282",
+        "2062024564",
+        "2110425399",
+        "2118229393",
+        "2180713429"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "1582534650",
+    "title": "Better Spread and Convergence: Particle Swarm Multiobjective Optimization Using the Maximin Fitness Function",
+    "venue": "genetic and evolutionary computation conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Xiaodong Li",
+            "id": "2239240923",
+            "org": "RMIT University"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Population",
+        "Minimax",
+        "Fitness function",
+        "Multi-objective optimization",
+        "Robust optimization",
+        "Fitness approximation",
+        "Computer science",
+        "Particle swarm optimization",
+        "Test functions for optimization"
+    ],
+    "references": [
+        "1501461456",
+        "1600188168",
+        "2062015398",
+        "2126105956",
+        "2210195496"
+    ]
+}

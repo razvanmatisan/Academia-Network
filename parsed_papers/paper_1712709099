@@ -1,0 +1,40 @@
+{
+    "id": "1712709099",
+    "title": "Content-based medical image retrieval (CBMIR): an intelligent retrieval system for handling multiple organs of interest",
+    "venue": "computer-based medical systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Paul Miki Willy",
+            "id": "2676843720",
+            "org": "Fraunhofer ITWM, Kaiserslautern, Germany"
+        },
+        {
+            "name": "Karl-heinz Kufer",
+            "id": "2897582477",
+            "org": "Fraunhofer ITWM, Kaiserslautern, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Data mining",
+        "Computer vision",
+        "Information retrieval",
+        "Artificial intelligence",
+        "Medical imaging",
+        "Artificial neural network",
+        "Hausdorff distance",
+        "Contextual image classification",
+        "Image retrieval",
+        "Multi-objective optimization",
+        "Intelligent decision support system"
+    ],
+    "references": [
+        "127603133",
+        "1602797708",
+        "1985908526",
+        "2002126584",
+        "2105458480",
+        "2124592837"
+    ]
+}

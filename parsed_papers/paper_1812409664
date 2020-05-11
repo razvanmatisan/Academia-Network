@@ -1,0 +1,35 @@
+{
+    "id": "1812409664",
+    "title": "Query by Fax for Content-Based Image Retrieval",
+    "venue": "conference on image and video retrieval",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Mohammad Faizal Ahmad Fauzi",
+            "id": "2145612136",
+            "org": "University of Southampton"
+        },
+        {
+            "name": "Paul H. Lewis",
+            "id": "2155386656",
+            "org": "University of Southampton"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Binary number",
+        "Information retrieval",
+        "Computer science",
+        "Artificial intelligence",
+        "Content-based image retrieval",
+        "Wavelet",
+        "Wavelet transform",
+        "Image quality",
+        "Image retrieval",
+        "Binary image"
+    ],
+    "references": [
+        "1996021349",
+        "2132984323"
+    ]
+}

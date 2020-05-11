@@ -1,0 +1,38 @@
+{
+    "id": "1589873846",
+    "title": "Service migration in autonomic service oriented grids",
+    "venue": "grid computing",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Michael Messig",
+            "id": "1582797945",
+            "org": "Deakin University, Victoria, Australia#TAB#"
+        },
+        {
+            "name": "Andrzej M. Goscinski",
+            "id": "227748416",
+            "org": "Deakin University, Victoria, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Web application security",
+        "Systems engineering",
+        "WS-Addressing",
+        "Distributed computing",
+        "Web service",
+        "Service delivery framework",
+        "Web modeling",
+        "Service design",
+        "Differentiated service",
+        "Database",
+        "Computer science",
+        "WS-Policy"
+    ],
+    "references": [
+        "1529276283",
+        "1562610702",
+        "1974140319",
+        "2039230357"
+    ]
+}

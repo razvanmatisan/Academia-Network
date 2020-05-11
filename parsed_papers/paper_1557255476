@@ -1,0 +1,26 @@
+{
+    "id": "1557255476",
+    "title": "MPI on NT: The Current Status and Performance of the Available Environments",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Mark Baker",
+            "id": "2151088111",
+            "org": "University of Portsmouth"
+        }
+    ],
+    "fields_of_study": [
+        "Computer architecture",
+        "Message passing",
+        "Distributed computing",
+        "Operating system",
+        "Software",
+        "Computer science",
+        "Engineering research",
+        "Shared memory"
+    ],
+    "references": [
+        "1596457713"
+    ]
+}

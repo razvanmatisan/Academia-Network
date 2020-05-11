@@ -1,0 +1,40 @@
+{
+    "id": "1601492549",
+    "title": "An Efficient Orthogonal Grid Drawing Algorithm For Cubic Graphs",
+    "venue": "computing and combinatorics conference",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Tiziana Calamoneri",
+            "id": "2218563602",
+            "org": "University of Rome \"La Sapienza\""
+        },
+        {
+            "name": "Rossella Petreschi",
+            "id": "73053445",
+            "org": "University of Rome \"La Sapienza\""
+        }
+    ],
+    "fields_of_study": [
+        "Polyhedral graph",
+        "Combinatorics",
+        "Pancyclic graph",
+        "Discrete mathematics",
+        "Pathwidth",
+        "Nowhere-zero flow",
+        "Computer science",
+        "Halin graph",
+        "Outerplanar graph",
+        "Force-directed graph drawing",
+        "Algorithm",
+        "1-planar graph"
+    ],
+    "references": [
+        "1500092951",
+        "1536741012",
+        "1655990431",
+        "2045870980",
+        "2073491596",
+        "2296490710"
+    ]
+}

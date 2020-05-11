@@ -1,0 +1,37 @@
+{
+    "id": "1528144171",
+    "title": "Usability assessment of an extreme programming project: Close co-operation with the customer does not equal to good usability",
+    "venue": "product focused software process improvement",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Timo Jokela",
+            "id": "2259895461",
+            "org": "University of Oulu"
+        },
+        {
+            "name": "Pekka Abrahamsson",
+            "id": "2105340527",
+            "org": "VTT Technical Research Centre of Finland"
+        }
+    ],
+    "fields_of_study": [
+        "Web usability",
+        "Systems engineering",
+        "Management science",
+        "Usability",
+        "Component-based usability testing",
+        "Engineering",
+        "Usability engineering",
+        "Usability goals",
+        "Usability lab",
+        "System usability scale",
+        "Usability inspection"
+    ],
+    "references": [
+        "1975639455",
+        "2126798794",
+        "2148277253",
+        "2342091124"
+    ]
+}

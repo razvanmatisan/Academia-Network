@@ -1,0 +1,25 @@
+{
+    "id": "1505960379",
+    "title": "Directions in Distributed Databases",
+    "venue": "GI - 18. Jahrestagung II, Vernetzte and komplexe Informatik-Systems",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Stefano Ceri",
+            "id": "2645761969",
+            "org": "Universita di Modena"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Usability",
+        "Distributed database",
+        "Spatiotemporal database",
+        "Computer science"
+    ],
+    "references": [
+        "1527756448",
+        "1528135229",
+        "2035933658"
+    ]
+}

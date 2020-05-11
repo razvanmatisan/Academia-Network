@@ -1,0 +1,41 @@
+{
+    "id": "1589820660",
+    "title": "Forgetting bad behavior: memory for case-based navigation",
+    "venue": "intelligent robots and systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Zsolt Kira",
+            "id": "245481763",
+            "org": "Coll. of Comput., Georgia Inst. of Technol., Atlanta, GA, USA"
+        },
+        {
+            "name": "Ronald C. Arkin",
+            "id": "326359912",
+            "org": "Coll. of Comput., Georgia Inst. of Technol., Atlanta, GA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Motion planning",
+        "Artificial intelligence",
+        "Computer vision",
+        "Mobile robot navigation",
+        "Autonomous robot",
+        "Social robot",
+        "Architecture",
+        "Computer science",
+        "Case-based reasoning",
+        "Forgetting",
+        "Indexation"
+    ],
+    "references": [
+        "36794914",
+        "226003788",
+        "1553774638",
+        "1592282508",
+        "1769268989",
+        "1787255075",
+        "2084204985",
+        "2168998600"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1598515813",
+    "title": "Query Translation through Dictionary Adaptation",
+    "venue": "cross language evaluation forum",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Stephane Clinchant",
+            "id": "288365595",
+            "org": "Xerox Research Centre Europe, Meylan, France 38240#TAB#"
+        },
+        {
+            "name": "Jean-Michel Renders",
+            "id": "2097538086",
+            "org": "Xerox Research Centre Europe, Meylan, France 38240#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Transfer-based machine translation",
+        "Machine translation",
+        "Information retrieval",
+        "Machine translation software usability",
+        "Natural language processing",
+        "Example-based machine translation",
+        "Query expansion",
+        "Artificial intelligence",
+        "Query optimization",
+        "Computer science",
+        "Computer-assisted translation",
+        "Rule-based machine translation"
+    ],
+    "references": [
+        "47000227",
+        "1498378071",
+        "1532192034",
+        "1601408513",
+        "1928047241",
+        "1964348731",
+        "1966497645",
+        "2000635479",
+        "2001023236",
+        "2052088591",
+        "2124608705",
+        "2168801328",
+        "2525127255"
+    ]
+}

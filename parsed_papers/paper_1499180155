@@ -1,0 +1,46 @@
+{
+    "id": "1499180155",
+    "title": "Distinct estimate of set expressions over sliding windows",
+    "venue": "asia pacific web conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Cheqing Jin",
+            "id": "2127683674",
+            "org": "Dept. of Computer Science and Engineering, Fudan University, China#TAB#"
+        },
+        {
+            "name": "Aoying Zhou",
+            "id": "2111470091",
+            "org": "Dept. of Computer Science and Engineering, Fudan University, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Wireless sensor network",
+        "Cardinality",
+        "Database",
+        "Sliding window protocol",
+        "Probabilistic method",
+        "STREAMS",
+        "Theoretical computer science",
+        "Computer science",
+        "Hash function",
+        "Data stream mining",
+        "Expression (mathematics)"
+    ],
+    "references": [
+        "1540340974",
+        "1826290430",
+        "1990465412",
+        "1991800036",
+        "1993091968",
+        "2001474264",
+        "2004110412",
+        "2025051251",
+        "2064379477",
+        "2081193615",
+        "2112400233",
+        "2140430731"
+    ]
+}

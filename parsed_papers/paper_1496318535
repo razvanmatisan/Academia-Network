@@ -1,0 +1,36 @@
+{
+    "id": "1496318535",
+    "title": "Automatic Generation of Epsilon-Delta Proofs of Continuity",
+    "venue": "artificial intelligence and symbolic computation",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Michael J. Beeson",
+            "id": "2170502058",
+            "org": "San Jose State University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Mathematical proof",
+        "Argument",
+        "Deductive reasoning",
+        "(e, d)-definition of limit",
+        "Rule of inference",
+        "Sequent calculus",
+        "Automated theorem proving",
+        "Symbolic computation",
+        "Mathematics"
+    ],
+    "references": [
+        "1500227673",
+        "1503614434",
+        "1522489781",
+        "1590828018",
+        "1600479749",
+        "1995340375",
+        "2036581362",
+        "2052995997",
+        "2077378514"
+    ]
+}

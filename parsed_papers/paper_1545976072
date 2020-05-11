@@ -1,0 +1,40 @@
+{
+    "id": "1545976072",
+    "title": "Semantic Excavation of the City of Books",
+    "venue": "international conference on knowledge capture",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Anna Tordai",
+            "id": "1489439054",
+            "org": "Vrije Universiteit Amsterdam"
+        },
+        {
+            "name": "Borys Omelayenko",
+            "id": "52861153",
+            "org": "Vrije Universiteit Amsterdam"
+        },
+        {
+            "name": "Guus Schreiber",
+            "id": "2177918909",
+            "org": "Vrije Universiteit Amsterdam"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Information retrieval",
+        "Computer science",
+        "Excavation",
+        "Porting",
+        "Schema (psychology)",
+        "Social Semantic Web",
+        "Semantic Web",
+        "Semantic Web Stack",
+        "Value stream mapping"
+    ],
+    "references": [
+        "1601088779",
+        "2031269655",
+        "2161749250"
+    ]
+}

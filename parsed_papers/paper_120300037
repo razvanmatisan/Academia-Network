@@ -1,0 +1,43 @@
+{
+    "id": "120300037",
+    "title": "Vector perceptron learning algorithm using linear programming",
+    "venue": "international conference on artificial neural networks",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Vladimir Kryzhanovskiy",
+            "id": "2024950684",
+            "org": "Scientific Research Institute for System Analysis, Russian Academy of Sciences, Moscow, Russia#TAB#"
+        },
+        {
+            "name": "Irina Zhelavskaya",
+            "id": "2305652838",
+            "org": "Scientific Research Institute for System Analysis, Russian Academy of Sciences, Moscow, Russia#TAB#"
+        },
+        {
+            "name": "Anatoliy Fonarev",
+            "id": "2345094957",
+            "org": "Department of Engineering and Science, CUNY City University of New York, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Perceptron",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Machine learning",
+        "Binary number",
+        "Artificial neural network",
+        "Learning rule",
+        "Linear-fractional programming",
+        "Linear programming",
+        "Computer science",
+        "Multilayer perceptron",
+        "Simplex algorithm"
+    ],
+    "references": [
+        "151480183",
+        "435360987",
+        "1489444018",
+        "1528226958"
+    ]
+}

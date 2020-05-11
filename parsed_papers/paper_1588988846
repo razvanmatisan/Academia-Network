@@ -1,0 +1,43 @@
+{
+    "id": "1588988846",
+    "title": "On Measuring Uncertainty and Uncertainty-Based Information: Recent Developments",
+    "venue": "Annals of Mathematics and Artificial Intelligence",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "George J. Klir",
+            "id": "243346321",
+            "org": "Center for Intelligent Systems and Department of Systems Science and Industrial Engineering, Binghamton University - SUNY, Binghamton, NY 13902, USA#TAB#"
+        },
+        {
+            "name": "Richard M. Smith",
+            "id": "2146269570",
+            "org": "Center for Intelligent Systems and Department of Systems Science and Industrial Engineering, Binghamton University - SUNY, Binghamton, NY 13902, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Sensitivity analysis",
+        "Uncertainty analysis",
+        "Possibility theory",
+        "Mathematics",
+        "Dempster-Shafer theory",
+        "Discrete mathematics",
+        "Imprecise probability",
+        "Measurement uncertainty",
+        "Type-2 fuzzy sets and systems",
+        "Uncertainty theory"
+    ],
+    "references": [
+        "1544154338",
+        "1898259180",
+        "2028881822",
+        "2041404167",
+        "2048196003",
+        "2050036885",
+        "2059376672",
+        "2073545186",
+        "2087018611",
+        "2107091259",
+        "2127910954"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": "1552777557",
+    "title": "The Octopus Network Model: Opening Up the Internet to Active and Programmable Network Implementations",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Carlos Macian",
+            "id": "1964507940",
+            "org": "University of Stuttgart"
+        }
+    ],
+    "fields_of_study": [
+        "Network architecture",
+        "Element management system",
+        "Network simulation",
+        "Network management station",
+        "Open network architecture",
+        "Distributed computing",
+        "Computer network",
+        "Computer science",
+        "Network Access Control",
+        "Network management application",
+        "Intelligent computer network"
+    ],
+    "references": [
+        "1518483596",
+        "2047421567",
+        "2121890365"
+    ]
+}

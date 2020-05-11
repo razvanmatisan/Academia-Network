@@ -1,0 +1,38 @@
+{
+    "id": "1533710059",
+    "title": "Valid identity problem for shuffle regular expressions",
+    "venue": "Journal of Automata, Languages and Combinatorics",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Albert R. Meyer",
+            "id": "2250310737",
+            "org": "MIT Laboratory for Computer Science, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Alexander Rabinovich",
+            "id": "2096398445",
+            "org": "Department of Computer Science, The Sackler School of Exact Sciences, Tel Aviv University, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Regular language",
+        "Decidability",
+        "Discrete mathematics",
+        "Formal language",
+        "Regular grammar",
+        "Identity problem",
+        "Mathematics",
+        "Expression (mathematics)",
+        "Generalized star height problem",
+        "Regular expression"
+    ],
+    "references": [
+        "1978996774",
+        "1981983505",
+        "2061488881",
+        "2150320481",
+        "2407135768"
+    ]
+}

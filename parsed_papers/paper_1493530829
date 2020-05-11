@@ -1,0 +1,51 @@
+{
+    "id": "1493530829",
+    "title": "Topological Active Volumes",
+    "venue": "computer analysis of images and patterns",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Noelia Barreira",
+            "id": "1823772057",
+            "org": "Universidade de A Coruna"
+        },
+        {
+            "name": "Manuel G. Penedo",
+            "id": "2141554299",
+            "org": "Universidade de A Coruna"
+        },
+        {
+            "name": "Castor Marino",
+            "id": "2296969356",
+            "org": "Universidade de A Coruna"
+        },
+        {
+            "name": "F. M. Ansia",
+            "id": "2695919759",
+            "org": "Universidade de A Coruna"
+        }
+    ],
+    "fields_of_study": [
+        "Gravitational singularity",
+        "Artificial intelligence",
+        "Computer vision",
+        "Image segmentation",
+        "Image processing",
+        "3D reconstruction",
+        "Segmentation",
+        "Singularity",
+        "Iterative reconstruction",
+        "Mathematics",
+        "Topology"
+    ],
+    "references": [
+        "1484430125",
+        "1997820584",
+        "2043647324",
+        "2063632727",
+        "2104095591",
+        "2138524633",
+        "2145023731",
+        "2159286928"
+    ]
+}

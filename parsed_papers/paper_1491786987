@@ -1,0 +1,50 @@
+{
+    "id": "1491786987",
+    "title": "Stochastic modelling of scientific terms distribution in publications",
+    "venue": "mathematical knowledge management",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Rimantas Rudzkis",
+            "id": "2022668990",
+            "org": "Institute of Mathematics and Informatics, Vilnius, Lithuania#TAB#"
+        },
+        {
+            "name": "Vaidas Balys",
+            "id": "1270930362",
+            "org": "Institute of Mathematics and Informatics, Vilnius, Lithuania#TAB#"
+        },
+        {
+            "name": "Michiel Hazewinkel",
+            "id": "2674639198",
+            "org": "Centrum voor Wiskunde en Informatica, Amsterdam, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Supervised learning",
+        "Parametric statistics",
+        "Latent semantic analysis",
+        "Probability distribution",
+        "Algorithm",
+        "Automatic indexing",
+        "Latent Dirichlet allocation",
+        "Computer science",
+        "Data mining",
+        "Scientific communication",
+        "Stochastic modelling"
+    ],
+    "references": [
+        "1507029541",
+        "1593045043",
+        "1612003148",
+        "1880262756",
+        "2040004971",
+        "2063198646",
+        "2092616252",
+        "2110190189",
+        "2118020653",
+        "2120084270",
+        "2147152072",
+        "2149684865"
+    ]
+}

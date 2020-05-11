@@ -1,0 +1,41 @@
+{
+    "id": "1493423475",
+    "title": "Efficacious data cube exploration by semantic summarization and compression",
+    "venue": "very large data bases",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Laks V. S. Lakshmanan",
+            "id": "2289816208",
+            "org": "University of British Columbia, Canada#TAB#"
+        },
+        {
+            "name": "Jian Pei",
+            "id": "2126330539",
+            "org": "State University of New York at Buffalo#TAB#"
+        },
+        {
+            "name": "Yan Zhao",
+            "id": "2188793808",
+            "org": "University of British Columbia, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Online analytical processing",
+        "Database",
+        "Automatic summarization",
+        "Cube",
+        "Data structure",
+        "Computer science",
+        "Equivalence class",
+        "Data cube",
+        "Theoretical computer science",
+        "Data warehouse",
+        "Quotient"
+    ],
+    "references": [
+        "1590183325",
+        "2106181436"
+    ]
+}

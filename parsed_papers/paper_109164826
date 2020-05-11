@@ -1,0 +1,37 @@
+{
+    "id": "109164826",
+    "title": "Meta-Model Based Information Mediation",
+    "venue": "Advanced Topics in Database Research, Vol. 2",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Luyin Zhao",
+            "id": "2659572687",
+            "org": "Philips Research, USA"
+        },
+        {
+            "name": "Keng Siau",
+            "id": "2649484371",
+            "org": "Missouri University of Science and Technology, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Information model",
+        "Mediation (Marxist theory and media studies)",
+        "Data model",
+        "Metamodeling",
+        "SQL",
+        "User interface",
+        "Computer science"
+    ],
+    "references": [
+        "1638026557",
+        "2044664831",
+        "2060918911",
+        "2075476359",
+        "2146168326",
+        "2170192471",
+        "2171172771"
+    ]
+}

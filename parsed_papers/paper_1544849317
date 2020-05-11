@@ -1,0 +1,58 @@
+{
+    "id": "1544849317",
+    "title": "Adaptive Estimation of Distribution Algorithms",
+    "venue": "Adaptive and Multilevel Metaheuristics",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Roberto Santana",
+            "id": "2304607771",
+            "org": "University of the Basque Country"
+        },
+        {
+            "name": "Pedro Larranaga",
+            "id": "2305155066",
+            "org": "University of the Basque Country"
+        },
+        {
+            "name": "Jose Antonio Lozano",
+            "id": "2223079850",
+            "org": "University of the Basque Country"
+        }
+    ],
+    "fields_of_study": [
+        "Estimation of distribution algorithm",
+        "Distributed algorithm",
+        "Population-based incremental learning",
+        "Probabilistic logic",
+        "EDAS",
+        "Probabilistic analysis of algorithms",
+        "Machine learning",
+        "Boolean satisfiability problem",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Genetic operator",
+        "Mathematics"
+    ],
+    "references": [
+        "161518142",
+        "1487385582",
+        "1536618685",
+        "1546249523",
+        "1560047216",
+        "1692958259",
+        "1859950196",
+        "2014239346",
+        "2068687506",
+        "2084961468",
+        "2096554690",
+        "2099266500",
+        "2102043807",
+        "2116007667",
+        "2137813581",
+        "2147071755",
+        "2159963411",
+        "2168764293",
+        "2169415915"
+    ]
+}

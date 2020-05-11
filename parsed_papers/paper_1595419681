@@ -1,0 +1,35 @@
+{
+    "id": "1595419681",
+    "title": "Perceived magnitude and power consumption of vibration feedback in mobile devices",
+    "venue": "international conference on human computer interaction",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Jaehoon Jung",
+            "id": "2114378688",
+            "org": "Virtual Reality and Perceptive Media Laboratory, Department of Computer Science and Engineering, POSTECH, Pohang, Republic of Korea#TAB#"
+        },
+        {
+            "name": "Seungmoon Choi",
+            "id": "2171884097",
+            "org": "Virtual Reality and Perceptive Media Laboratory, Department of Computer Science and Engineering, POSTECH, Pohang, Republic of Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Electric power",
+        "Human-computer interaction",
+        "Amplitude",
+        "Mobile device",
+        "Magnitude (mathematics)",
+        "Battery (electricity)",
+        "Control variable",
+        "Voltage",
+        "Electronic engineering",
+        "Computer science",
+        "Vibration"
+    ],
+    "references": [
+        "1987689918",
+        "2042512356"
+    ]
+}

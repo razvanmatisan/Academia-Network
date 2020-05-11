@@ -1,0 +1,37 @@
+{
+    "id": "1796202048",
+    "title": "Large-Scale Cooperatively-Built KBs",
+    "venue": "international conference on conceptual structures",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Philippe Martin",
+            "id": "2142670406",
+            "org": "Griffith University"
+        },
+        {
+            "name": "Pr Peter Eklund",
+            "id": "2573460516",
+            "org": "Griffith University"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge extraction",
+        "RDF",
+        "Knowledge base",
+        "WordNet",
+        "Knowledge representation and reasoning",
+        "Knowledge-based systems",
+        "Personal knowledge management",
+        "Computer science",
+        "Data mining",
+        "Open Knowledge Base Connectivity"
+    ],
+    "references": [
+        "1483438011",
+        "1530795452",
+        "1552597304",
+        "1563016933",
+        "2161763909"
+    ]
+}

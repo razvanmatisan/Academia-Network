@@ -1,0 +1,33 @@
+{
+    "id": "1804117568",
+    "title": "Cross-Comparison for Two-Dimensional Text Categorization",
+    "venue": "string processing and information retrieval",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Giorgio Maria Di Nunzio",
+            "id": "2150234485",
+            "org": "University of Padua"
+        }
+    ],
+    "fields_of_study": [
+        "String (computer science)",
+        "Information retrieval",
+        "Exploit",
+        "Data mining",
+        "Automatic summarization",
+        "Supervised learning",
+        "Personalization",
+        "Categorization",
+        "Computer science",
+        "Filter (signal processing)",
+        "Graph",
+        "Pattern recognition",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "195217447",
+        "1530994416",
+        "2118020653"
+    ]
+}

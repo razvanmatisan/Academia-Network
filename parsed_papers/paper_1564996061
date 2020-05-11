@@ -1,0 +1,38 @@
+{
+    "id": "1564996061",
+    "title": "Visualizing large and clustered networks",
+    "venue": "graph drawing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Katharina Anna Lehmann",
+            "id": "2112025508",
+            "org": "University of Tubingen, Wilhelm-Schickard-Institute, Tubingen, Germany#TAB#"
+        },
+        {
+            "name": "Stephan Kottler",
+            "id": "1988296295",
+            "org": "University of Tubingen, Wilhelm-Schickard-Institute, Tubingen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Spanner",
+        "Vertex (geometry)",
+        "Combinatorics",
+        "Complex network",
+        "Computer science",
+        "Minimum spanning tree",
+        "Graph drawing",
+        "Theoretical computer science",
+        "Comprehensive layout",
+        "Minimum degree spanning tree",
+        "Spanning tree"
+    ],
+    "references": [
+        "1526644211",
+        "1860927391",
+        "2147824439",
+        "2167482691",
+        "2535433266"
+    ]
+}

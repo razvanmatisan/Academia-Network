@@ -1,0 +1,44 @@
+{
+    "id": "137580343",
+    "title": "A Significant Improvement of Softassign with Diffusion Kernels",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Miguel Angel Lozano",
+            "id": "2235714744",
+            "org": "Universidad de Alicante"
+        },
+        {
+            "name": "Francisco Escolano",
+            "id": "1994637948",
+            "org": "Universidad de Alicante"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Quadratic function",
+        "Mathematical optimization",
+        "Probability distribution",
+        "Graph theory",
+        "Combinatorics",
+        "Matching (graph theory)",
+        "Kernel method",
+        "Graph kernel",
+        "Spectral graph theory",
+        "Weighting",
+        "Mathematics"
+    ],
+    "references": [
+        "1511160855",
+        "1512545358",
+        "1774304772",
+        "1970640098",
+        "2095052098",
+        "2108995755",
+        "2131479089",
+        "2147975091",
+        "2159537329",
+        "2162203316"
+    ]
+}

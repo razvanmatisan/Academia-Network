@@ -1,0 +1,42 @@
+{
+    "id": "1672707672",
+    "title": "Similarity and cluster analysis algorithms for microarrays using R* trees",
+    "venue": "computational systems bioinformatics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jiaxiong Pi",
+            "id": "2424034309",
+            "org": "Coll. of Inf. Sci. & Technol., Nebraska Univ., Omaha, NE, USA"
+        },
+        {
+            "name": "Yong Shi",
+            "id": "2804364910",
+            "org": "Coll. of Inf. Sci. & Technol., Nebraska Univ., Omaha, NE, USA"
+        },
+        {
+            "name": "Zhengxin Chen",
+            "id": "2614189420",
+            "org": "Coll. of Inf. Sci. & Technol., Nebraska Univ., Omaha, NE, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Bioinformatics",
+        "Time series",
+        "Hierarchical clustering",
+        "Cluster analysis",
+        "Computer science",
+        "Machine learning",
+        "Nearest neighbor search",
+        "Artificial intelligence",
+        "Principal component analysis",
+        "Indexation",
+        "Algorithm",
+        "Microarray analysis techniques",
+        "k-means clustering"
+    ],
+    "references": [
+        "1499049447",
+        "2066796814"
+    ]
+}

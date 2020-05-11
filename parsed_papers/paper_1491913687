@@ -1,0 +1,45 @@
+{
+    "id": "1491913687",
+    "title": "Abstract and Model Check While You Prove",
+    "venue": "computer aided verification",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Hassen Saidi",
+            "id": "2148743472",
+            "org": "SRI International"
+        },
+        {
+            "name": "Natarajan Shankar",
+            "id": "2118526916",
+            "org": "SRI International"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Algorithm",
+        "Abstract machine",
+        "Abstract interpretation",
+        "Model checking",
+        "Boolean data type",
+        "Formal verification",
+        "Abstraction model checking",
+        "Counterexample",
+        "Boolean expression",
+        "Mathematics"
+    ],
+    "references": [
+        "1497571013",
+        "1502837501",
+        "1551406732",
+        "1599210792",
+        "1825148885",
+        "1956146622",
+        "1987073197",
+        "2043100293",
+        "2080593426",
+        "2090106217",
+        "2122004390"
+    ]
+}

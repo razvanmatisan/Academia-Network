@@ -1,0 +1,45 @@
+{
+    "id": "1585442575",
+    "title": "Applying the Application-Based Domain Modeling Approach to UML Structural Views",
+    "venue": "international conference on conceptual modeling",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Arnon Sturm",
+            "id": "2127149440",
+            "org": "Ben-Gurion University of the Negev"
+        },
+        {
+            "name": "Iris Reinhartz-Berger",
+            "id": "225424607",
+            "org": "University of Haifa"
+        }
+    ],
+    "fields_of_study": [
+        "Domain analysis",
+        "Object Constraint Language",
+        "Data mining",
+        "Domain model",
+        "Theoretical computer science",
+        "Computer science",
+        "Metamodeling",
+        "Class diagram",
+        "Entity-relationship model",
+        "Architecture",
+        "Domain engineering",
+        "Algorithm"
+    ],
+    "references": [
+        "1545002038",
+        "1564176679",
+        "1993655149",
+        "2003069371",
+        "2017081644",
+        "2099293367",
+        "2129389291",
+        "2140175861",
+        "2144067967",
+        "2159765281",
+        "2162885111"
+    ]
+}

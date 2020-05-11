@@ -1,0 +1,34 @@
+{
+    "id": "142685375",
+    "title": "Large-scale map-making",
+    "venue": "national conference on artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Kurt Konolige",
+            "id": "2079032315",
+            "org": "SRI International, Menlo Park, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Time complexity",
+        "Computation",
+        "Artificial intelligence",
+        "Computer science",
+        "Connectivity",
+        "Scale (map)",
+        "Theoretical computer science",
+        "Graph",
+        "Pose",
+        "Abstraction"
+    ],
+    "references": [
+        "1511332864",
+        "1656165940",
+        "1891947214",
+        "2022442138",
+        "2104181141",
+        "2129744044"
+    ]
+}

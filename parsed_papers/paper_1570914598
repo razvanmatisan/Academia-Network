@@ -1,0 +1,40 @@
+{
+    "id": "1570914598",
+    "title": "Capturing the structures in association knowledge: application of network analyses to large-scale databases of Japanese word associations",
+    "venue": "LKR'08 Proceedings of the 3rd international conference on Large-scale knowledge resources: construction and application",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Terry Joyce",
+            "id": "1992188217",
+            "org": "School of Global Studies, Tama University, Fujisawa, Kanagawa, Japan#TAB#"
+        },
+        {
+            "name": "Maki Miyake",
+            "id": "2306215128",
+            "org": "Graduate School of Language and Culture, Osaka University, Toyonaka-shi, Osaka, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network analysis",
+        "Cluster analysis",
+        "Clustering coefficient",
+        "Word Association",
+        "Database",
+        "Modularity",
+        "Ontology (information science)",
+        "Markov chain",
+        "Machine learning",
+        "Associative property",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1520498874",
+        "1593045043",
+        "1686433097",
+        "2125297759",
+        "2576403171",
+        "2759736297"
+    ]
+}

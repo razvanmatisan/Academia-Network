@@ -1,0 +1,28 @@
+{
+    "id": "1647734625",
+    "title": "The ins and outs of reason maintenance",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1983,
+    "authors": [
+        {
+            "name": "Jon Doyle",
+            "id": "2131338004",
+            "org": "Computer Science Department, Carnegie-Mellon University, Pittsburgh, Pennsylvania#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Reason maintenance",
+        "Management science",
+        "Computer science",
+        "Artificial intelligence",
+        "Computational complexity theory"
+    ],
+    "references": [
+        "1513414475",
+        "1996347293",
+        "2038118137",
+        "2078296160",
+        "2246202068"
+    ]
+}

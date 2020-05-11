@@ -1,0 +1,37 @@
+{
+    "id": "1591503777",
+    "title": "An Experiment in Parallelizing an Application Using Formal Methods",
+    "venue": "computer aided verification",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Raphael Couturier",
+            "id": "2005010591",
+            "org": "UMR no7503 LORIA CNRS Universite Henri Poincare"
+        },
+        {
+            "name": "Dominique Mery",
+            "id": "2779297835",
+            "org": "UMR no7503 LORIA CNRS Universite Henri Poincare"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Theoretical computer science",
+        "Correctness",
+        "Formal methods",
+        "Postcondition",
+        "Computer science",
+        "Sequential algorithm",
+        "Automated theorem proving",
+        "Fortran",
+        "Linear temporal logic",
+        "Abstraction"
+    ],
+    "references": [
+        "1510543252",
+        "1527013250",
+        "1857327297",
+        "2015688007"
+    ]
+}

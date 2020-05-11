@@ -1,0 +1,37 @@
+{
+    "id": "1505313788",
+    "title": "Incremental Static-Semantic Analysis for Object-Oriented Languages Using Door Attribute Grammars",
+    "venue": "international conference on stochastic algorithms: foundations and applications",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Gorel Hedin",
+            "id": "1946404797",
+            "org": "Lund University"
+        }
+    ],
+    "fields_of_study": [
+        "Tree-adjoining grammar",
+        "Natural language processing",
+        "Indexed grammar",
+        "Definite clause grammar",
+        "Adaptive grammar",
+        "S-attributed grammar",
+        "Programming language",
+        "Extended Affix Grammar",
+        "L-attributed grammar",
+        "Context-free grammar",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "122796551",
+        "1522102076",
+        "1522820101",
+        "1814992804",
+        "1964071625",
+        "2004155726",
+        "2080901110",
+        "2124212956"
+    ]
+}

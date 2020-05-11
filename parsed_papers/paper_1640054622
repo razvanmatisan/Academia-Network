@@ -1,0 +1,52 @@
+{
+    "id": "1640054622",
+    "title": "Audio and Optical Cryptography",
+    "venue": "international cryptology conference",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Yvo Desmedt",
+            "id": "2094917606",
+            "org": "CEAS, University of Wisconsin - Milwaukee"
+        },
+        {
+            "name": "Yvo Desmedt",
+            "id": "2094917606",
+            "org": "CEAS, University of Wisconsin - Milwaukee"
+        },
+        {
+            "name": "Yvo Desmedt",
+            "id": "2094917606",
+            "org": "CEAS, University of Wisconsin - Milwaukee"
+        },
+        {
+            "name": "Shuang Hou",
+            "id": "2563454023",
+            "org": "University of Wisconsin"
+        },
+        {
+            "name": "Jean-Jacques Quisquater",
+            "id": "2195205560",
+            "org": "Microelectronic laboratory Universite Catholique de Louvain"
+        }
+    ],
+    "fields_of_study": [
+        "Visual cryptography",
+        "Interference (wave propagation)",
+        "Mach-Zehnder interferometer",
+        "Theoretical computer science",
+        "Encryption",
+        "Computer science",
+        "Suspect",
+        "Distributed computing",
+        "Image processing",
+        "Cryptography",
+        "Secret sharing"
+    ],
+    "references": [
+        "1481355742",
+        "1482427796",
+        "2107420448",
+        "2141420453"
+    ]
+}

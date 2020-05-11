@@ -1,0 +1,45 @@
+{
+    "id": "1579225289",
+    "title": "A qualitative evaluation method for business process tools",
+    "venue": "product focused software process improvement",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Erika M. Nieto-Ariza",
+            "id": "149402500",
+            "org": "Centro Nacional de Investigacion y Desarrollo Tecnologico, Cuernavaca, Morelos, Mexico#TAB#"
+        },
+        {
+            "name": "Guillermo Rodriguez-Ortiz",
+            "id": "2647312370",
+            "org": "Centro Nacional de Investigacion y Desarrollo Tecnologico, Cuernavaca, Morelos, Mexico#TAB#"
+        },
+        {
+            "name": "Javier Ortiz-Hernandez",
+            "id": "1924345815",
+            "org": "Centro Nacional de Investigacion y Desarrollo Tecnologico, Cuernavaca, Morelos, Mexico#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Management science",
+        "Business process discovery",
+        "Systems engineering",
+        "Business process",
+        "Process modeling",
+        "Business process modeling",
+        "Business Process Model and Notation",
+        "Engineering",
+        "Artifact-centric business process model",
+        "Services computing",
+        "Business rule"
+    ],
+    "references": [
+        "1603615134",
+        "2009028038",
+        "2060765494",
+        "2063697083",
+        "2066670950",
+        "2122337494",
+        "2123041916"
+    ]
+}

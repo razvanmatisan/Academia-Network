@@ -1,0 +1,39 @@
+{
+    "id": "1585176714",
+    "title": "A novel semantic quantitative description method based on possibilistic logic",
+    "venue": "Journal of Intelligent and Fuzzy Systems",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "ShengTao Sun",
+            "id": "2776990348",
+            "org": "College of Information Science and Engineering, Yan Shan University, Hebei Province, P.R. China and Center of Earth Observation and Digital Earth, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ontology",
+        "Mathematics",
+        "Artificial intelligence",
+        "Inference",
+        "Machine learning",
+        "Probabilistic logic",
+        "Description logic",
+        "Probabilistic logic network",
+        "Data mining",
+        "Ontology (information science)"
+    ],
+    "references": [
+        "1546017636",
+        "1563158655",
+        "1571066130",
+        "1636943114",
+        "1781692281",
+        "1984746572",
+        "2013309158",
+        "2013476941",
+        "2013507719",
+        "2046099583",
+        "2058062479",
+        "2132635174"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "1529546613",
+    "title": "An Ontology for Quantities in Ecology",
+    "venue": "brazilian symposium on artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Virginia V. B. Biris Brilhante",
+            "id": "2704376803",
+            "org": "Federal University of Amazonas"
+        }
+    ],
+    "fields_of_study": [
+        "Ontology",
+        "Reuse",
+        "Ontology-based data integration",
+        "Process ontology",
+        "Suggested Upper Merged Ontology",
+        "Data model",
+        "Computer science",
+        "Upper ontology",
+        "Ontology (information science)",
+        "Ecology"
+    ],
+    "references": [
+        "1584585813"
+    ]
+}

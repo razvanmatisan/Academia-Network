@@ -1,0 +1,27 @@
+{
+    "id": "1498579860",
+    "title": "The Role of Brain Chaos",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Peter Andras",
+            "id": "2028653354",
+            "org": "Department of Psychology, Ridley Building, University of Newcastle upon Tyne, Newcastle upon Tyne, NE1 7RU, United Kingdom#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial neural network",
+        "Information processing",
+        "Approximation theory",
+        "Sierpinski triangle",
+        "Brain activity and meditation",
+        "Chaotic",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "2017209122",
+        "2118164915"
+    ]
+}

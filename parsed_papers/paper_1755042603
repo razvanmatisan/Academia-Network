@@ -1,0 +1,49 @@
+{
+    "id": "1755042603",
+    "title": "Provably Secure Implicit Certificate Schemes",
+    "venue": "financial cryptography",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Daniel Richard L. Brown",
+            "id": "2764895232",
+            "org": "Certicom Research"
+        },
+        {
+            "name": "Robert Gallant",
+            "id": "1895790187",
+            "org": "Certicom Research"
+        },
+        {
+            "name": "Scott A. Vanstone",
+            "id": "2437791765",
+            "org": "Certicom Research"
+        }
+    ],
+    "fields_of_study": [
+        "Certificate",
+        "Digital signature",
+        "Computer security",
+        "AS2",
+        "Internet privacy",
+        "Implicit certificate",
+        "Computer science",
+        "Revocation list",
+        "Certificate authority",
+        "X.509",
+        "Distributed computing",
+        "Authentication"
+    ],
+    "references": [
+        "1487958904",
+        "1592109266",
+        "1660562555",
+        "2002930326",
+        "2052267638",
+        "2052667569",
+        "2080302839",
+        "2095708839",
+        "2166462813",
+        "2227653143"
+    ]
+}

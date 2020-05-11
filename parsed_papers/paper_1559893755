@@ -1,0 +1,35 @@
+{
+    "id": "1559893755",
+    "title": "A Construction of Practical Secret Sharing Schemes using Linear Block Codes",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Michael Bertilsson",
+            "id": "2247415873",
+            "org": "Linkoping University"
+        },
+        {
+            "name": "Ingemar Ingemarson",
+            "id": "2315602575",
+            "org": "Linkoping University"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Verifiable secret sharing",
+        "Block code",
+        "Homomorphic secret sharing",
+        "Shamir's Secret Sharing",
+        "Linear code",
+        "Secure multi-party computation",
+        "Computer science",
+        "Secret sharing",
+        "Access structure"
+    ],
+    "references": [
+        "1990304797",
+        "2141420453",
+        "2159401786"
+    ]
+}

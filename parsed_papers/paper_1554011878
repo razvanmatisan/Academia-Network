@@ -1,0 +1,39 @@
+{
+    "id": "1554011878",
+    "title": "Spatial Reasoning Using Symbolic Arrays",
+    "venue": "advances in geographic information systems",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Dimitris Papadias",
+            "id": "2243308922",
+            "org": "National Technical University of Athens"
+        },
+        {
+            "name": "Timos K. Sellis",
+            "id": "2062009547",
+            "org": "National Technical University of Athens"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Spatial intelligence",
+        "Data mining",
+        "Formalism (philosophy)",
+        "Machine learning",
+        "Information system",
+        "Artificial intelligence",
+        "Knowledge representation and reasoning",
+        "Geospatial analysis",
+        "Spatial analysis",
+        "Geographic information system"
+    ],
+    "references": [
+        "1527557424",
+        "1985205643",
+        "1990100773",
+        "2074429597",
+        "2115086828",
+        "2131620262"
+    ]
+}

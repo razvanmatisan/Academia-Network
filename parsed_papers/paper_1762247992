@@ -1,0 +1,37 @@
+{
+    "id": "1762247992",
+    "title": "On a Duality Between Kruskal and Dershowitz Theorems",
+    "venue": "international colloquium on automata languages and programming",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Paul-Andre Mellies",
+            "id": "2402551645",
+            "org": "University of Edinburgh"
+        }
+    ],
+    "fields_of_study": [
+        "Noetherian",
+        "Discrete mathematics",
+        "Recursion",
+        "Kruskal's tree theorem",
+        "Functional programming",
+        "Combinatorics",
+        "Binary relation",
+        "Kruskal's algorithm",
+        "Combinatorial optimization",
+        "Duality (optimization)",
+        "Mathematics"
+    ],
+    "references": [
+        "1504968057",
+        "1549516353",
+        "1989943994",
+        "2003562066",
+        "2052953762",
+        "2086747974",
+        "2121757274",
+        "2138815572",
+        "2165176212"
+    ]
+}

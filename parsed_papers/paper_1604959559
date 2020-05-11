@@ -1,0 +1,28 @@
+{
+    "id": "1604959559",
+    "title": "Using UML for Modeling Complex Real-Time Systems",
+    "venue": "languages compilers and tools for embedded systems",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Bran Selic",
+            "id": "2068168300",
+            "org": "ObjecTime Limited"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Modeling language",
+        "Object Constraint Language",
+        "Model-driven architecture",
+        "Real-Time Object-Oriented Modeling",
+        "Class diagram",
+        "Applications of UML",
+        "Systems Modeling Language",
+        "UML tool",
+        "Computer science"
+    ],
+    "references": [
+        "1582068322"
+    ]
+}

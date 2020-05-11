@@ -1,0 +1,38 @@
+{
+    "id": "1754465902",
+    "title": "Definition of MHC Supertypes Through Clustering of MHC Peptide Binding Repertoires",
+    "venue": "international conference on artificial immune systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Pedro A. Reche",
+            "id": "2168747803",
+            "org": "Dana-Farber Cancer Institute"
+        },
+        {
+            "name": "Ellis L. Reinherz",
+            "id": "261966014",
+            "org": "Dana-Farber Cancer Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Antigen",
+        "Computational biology",
+        "Artificial intelligence",
+        "Allele",
+        "Haplotype",
+        "Genome",
+        "Computer science",
+        "Population",
+        "Human leukocyte antigen",
+        "Bioinformatics",
+        "Peptide",
+        "Major histocompatibility complex"
+    ],
+    "references": [
+        "1549641435",
+        "2142636897",
+        "2144166466"
+    ]
+}

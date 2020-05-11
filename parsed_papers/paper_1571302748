@@ -1,0 +1,41 @@
+{
+    "id": "1571302748",
+    "title": "Enhancing User Experience on the Web via Microformats-Based Recommendations",
+    "venue": "international conference on enterprise information systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Anca-Paula Luca",
+            "id": "2134196854",
+            "org": "A. I. Cuza University of Iasi"
+        },
+        {
+            "name": "Sabin C. Buraga",
+            "id": "2327944253",
+            "org": "A. I. Cuza University of Iasi"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "User experience design",
+        "Semantic HTML",
+        "User interface design",
+        "User journey",
+        "Computer user satisfaction",
+        "World Wide Web",
+        "User modeling",
+        "Computer science",
+        "User agent",
+        "User requirements document"
+    ],
+    "references": [
+        "175356762",
+        "1502980542",
+        "1506845741",
+        "1525955206",
+        "1544475244",
+        "1603090535",
+        "2163040665",
+        "2171960770"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "1516350209",
+    "title": "Primality Proving via One Round in ECPP and One Iteration in AKS",
+    "venue": "international cryptology conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Qi Cheng",
+            "id": "2108169188",
+            "org": "The University of Oklahoma"
+        }
+    ],
+    "fields_of_study": [
+        "AKS primality test",
+        "Discrete mathematics",
+        "Primality test",
+        "Lucas primality test",
+        "Elliptic curve primality",
+        "Provable prime",
+        "Primality certificate",
+        "Solovay-Strassen primality test",
+        "Mathematics",
+        "Miller-Rabin primality test"
+    ],
+    "references": [
+        "1513429293",
+        "2081882878",
+        "2105443299"
+    ]
+}

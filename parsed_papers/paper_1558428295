@@ -1,0 +1,35 @@
+{
+    "id": "1558428295",
+    "title": "A solution for fault-tolerance in replicated database systems",
+    "venue": "international symposium on parallel and distributed processing and applications",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Changgui Chen",
+            "id": "2095994473",
+            "org": "School of Information Technology, Deakin University, Geelong, Victoria, Australia#TAB#"
+        },
+        {
+            "name": "Wanlei Zhou",
+            "id": "2171981955",
+            "org": "School of Information Technology, Deakin University, Geelong, Victoria, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Systems design",
+        "Distributed computing",
+        "Real-time computing",
+        "Computer science",
+        "Distributed database",
+        "Fault tolerance",
+        "Reactive system",
+        "User requirements document"
+    ],
+    "references": [
+        "1541758250",
+        "1589122423",
+        "1931575776",
+        "1982316602",
+        "2048071586"
+    ]
+}

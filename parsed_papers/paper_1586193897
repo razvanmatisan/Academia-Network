@@ -1,0 +1,51 @@
+{
+    "id": "1586193897",
+    "title": "An Empirical Comparison of Particle Swarm and Predator Prey Optimisation",
+    "venue": "international conference on artificial intelligence",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Arlindo Silva",
+            "id": "2129289019",
+            "org": "Instituto Politecnico de Castelo Branco"
+        },
+        {
+            "name": "Arlindo Silva",
+            "id": "2129289019",
+            "org": "Instituto Politecnico de Castelo Branco"
+        },
+        {
+            "name": "Ana Rute Neves",
+            "id": "2594961809",
+            "org": "Instituto Politecnico de Castelo Branco"
+        },
+        {
+            "name": "Ana Rute Neves",
+            "id": "2594961809",
+            "org": "Instituto Politecnico de Castelo Branco"
+        },
+        {
+            "name": "Ernesto Costa",
+            "id": "2148035700",
+            "org": "Universidade de Coimbra"
+        }
+    ],
+    "fields_of_study": [
+        "Multi-swarm optimization",
+        "Evolutionary computation",
+        "Swarm behaviour",
+        "Evolutionary algorithm",
+        "Predation",
+        "Mathematical optimization",
+        "Artificial life",
+        "Particle swarm optimization",
+        "Computer science",
+        "Premature convergence"
+    ],
+    "references": [
+        "1560921017",
+        "1577668191",
+        "2027945080",
+        "2169245194"
+    ]
+}

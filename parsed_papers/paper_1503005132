@@ -1,0 +1,40 @@
+{
+    "id": "1503005132",
+    "title": "Solving the Course Timetabling Problem with a Hybrid Heuristic Algorithm",
+    "venue": "artificial intelligence methodology systems applications",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Zhipeng Lu",
+            "id": "2103427129",
+            "org": "LERIA, Universite d'Angers, Angers Cedex 01, France 49045 and School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China 430074#TAB#"
+        },
+        {
+            "name": "Jin-Kao Hao",
+            "id": "2110538291",
+            "org": "LERIA, Universite d'Angers, Angers Cedex 01, France 49045#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Iterated local search",
+        "Beam search",
+        "Machine learning",
+        "Heuristic (computer science)",
+        "Incremental heuristic search",
+        "Computer science",
+        "Hill climbing",
+        "Mathematical optimization",
+        "Guided Local Search",
+        "Tabu search",
+        "Problem Formulations"
+    ],
+    "references": [
+        "1526848900",
+        "1546012270",
+        "1577845686",
+        "2086726443",
+        "2108432292",
+        "2120593497"
+    ]
+}

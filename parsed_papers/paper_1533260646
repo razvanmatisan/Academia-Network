@@ -1,0 +1,32 @@
+{
+    "id": "1533260646",
+    "title": "Allowing Cycles References among Scoped Memory Areas in the Real-Time Specification of Java.",
+    "venue": "international symposium on object/component/service-oriented real-time distributed computing",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "M. Teresa Higuera-Toledano",
+            "id": "2100064534",
+            "org": "Facultad de Informatica|Universidad Complutense de Madrid"
+        }
+    ],
+    "fields_of_study": [
+        "Java concurrency",
+        "Real time Java",
+        "strictfp",
+        "Real-time computing",
+        "Generics in Java",
+        "Manual memory management",
+        "Java",
+        "Computer science",
+        "Java annotation",
+        "Java Modeling Language"
+    ],
+    "references": [
+        "1519442771",
+        "1603602584",
+        "1774577175",
+        "2096941347",
+        "2107806761"
+    ]
+}

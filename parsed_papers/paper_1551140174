@@ -1,0 +1,29 @@
+{
+    "id": "1551140174",
+    "title": "On the intertwining of social and technical factors in software development projects",
+    "venue": "Social thinking",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Urs Andelfinger",
+            "id": "2284961639",
+            "org": "Accenture, Frankfurt/Main, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Software deployment",
+        "Personal software process",
+        "Software technical review",
+        "Software peer review",
+        "Software development process",
+        "Software development",
+        "Social software engineering",
+        "Software engineering",
+        "Software walkthrough",
+        "Engineering",
+        "Systems engineering"
+    ],
+    "references": [
+        "191873878"
+    ]
+}

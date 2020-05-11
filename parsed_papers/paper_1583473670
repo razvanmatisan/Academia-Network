@@ -1,0 +1,45 @@
+{
+    "id": "1583473670",
+    "title": "Open data challenges at Facebook",
+    "venue": "international conference on data engineering",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Nathan Bronson",
+            "id": "2117330368",
+            "org": "Facebook, Inc, Menlo Park, CA, USA"
+        },
+        {
+            "name": "Thomas M. Lento",
+            "id": "2074288814",
+            "org": "Facebook, Inc, Menlo Park, CA, USA"
+        },
+        {
+            "name": "Janet L. Wiener",
+            "id": "2113421574",
+            "org": "Facebook, Inc, Menlo Park, CA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Time series",
+        "Open data",
+        "Database",
+        "Data system",
+        "World Wide Web",
+        "Big data",
+        "Terabyte",
+        "Categorization",
+        "Petabyte",
+        "Small data",
+        "Computer science"
+    ],
+    "references": [
+        "1476041289",
+        "1785664926",
+        "1985419898",
+        "2024463287",
+        "2074304726",
+        "2110086534"
+    ]
+}

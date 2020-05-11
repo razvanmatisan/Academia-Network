@@ -1,0 +1,41 @@
+{
+    "id": "1548569733",
+    "title": "Towards a Machine-Checked Java Specification Book",
+    "venue": "theorem proving in higher order logics",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Bernhard Reus",
+            "id": "2163053218",
+            "org": "University of Sussex at Brighton"
+        },
+        {
+            "name": "Tatjana Hein",
+            "id": "2599542729",
+            "org": "Universitat Passau"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Semantics",
+        "Distributed computing",
+        "Memory model",
+        "Formal specification",
+        "HOL",
+        "Java",
+        "Java Modeling Language",
+        "Operational semantics",
+        "Programming language",
+        "Computer science",
+        "Object-oriented programming"
+    ],
+    "references": [
+        "1489990994",
+        "1533109738",
+        "1570258731",
+        "1644882639",
+        "1780296805",
+        "1829244603",
+        "2169735850"
+    ]
+}

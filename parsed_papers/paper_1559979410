@@ -1,0 +1,46 @@
+{
+    "id": "1559979410",
+    "title": "Universal Hash Functions from Exponential Sums over Finite Fields and Galois Rings",
+    "venue": "international cryptology conference",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Tor Helleseth",
+            "id": "165323264",
+            "org": "University of Bergen, HIB"
+        },
+        {
+            "name": "Thomas Johansson",
+            "id": "2289389470",
+            "org": "Lund University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "Security of cryptographic hash functions",
+        "Rolling hash",
+        "Universal hashing",
+        "K-independent hashing",
+        "Exponential polynomial",
+        "Hash function",
+        "Hash filter",
+        "Combinatorics",
+        "Mathematics",
+        "SWIFFT"
+    ],
+    "references": [
+        "1489155257",
+        "1511186238",
+        "1530928880",
+        "1555623005",
+        "1743965195",
+        "1981670729",
+        "1985623009",
+        "2005297165",
+        "2038681062",
+        "2094334071",
+        "2103780699",
+        "2116119493"
+    ]
+}

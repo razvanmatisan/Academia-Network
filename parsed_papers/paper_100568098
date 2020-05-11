@@ -1,0 +1,34 @@
+{
+    "id": "100568098",
+    "title": "Multi Objective Swarm Optimization Design Fuzzy Controller to Adjust Speed of AC Motor Drive",
+    "venue": "international conference on swarm intelligence",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Nasseer K. Bachache",
+            "id": "2018907836",
+            "org": "Huazhong University of Science and Technology (HUST)"
+        },
+        {
+            "name": "Jinyu Wen",
+            "id": "2640061886",
+            "org": "Huazhong University of Science and Technology (HUST)"
+        }
+    ],
+    "fields_of_study": [
+        "AC motor",
+        "Inverter",
+        "Induction motor",
+        "Artificial neural network",
+        "Fuzzy logic",
+        "Control theory",
+        "Computer science",
+        "Multi-objective optimization",
+        "Control theory",
+        "Particle swarm optimization"
+    ],
+    "references": [
+        "1538737125",
+        "2275746882"
+    ]
+}

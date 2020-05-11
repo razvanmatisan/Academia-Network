@@ -1,0 +1,40 @@
+{
+    "id": "1545294102",
+    "title": "A kernel between unordered sets of data: the Gaussian mixture approach",
+    "venue": "european conference on machine learning",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Siwei Lyu",
+            "id": "2062704557",
+            "org": "Department of Computer Science, Dartmouth College, Hanover, NH#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Kernel embedding of distributions",
+        "Mathematical optimization",
+        "Polynomial kernel",
+        "Kernel principal component analysis",
+        "Kernel method",
+        "Tree kernel",
+        "String kernel",
+        "Radial basis function kernel",
+        "Mathematics",
+        "Variable kernel density estimation"
+    ],
+    "references": [
+        "1480714498",
+        "1510073064",
+        "1511160855",
+        "1601914754",
+        "1943383135",
+        "1966829807",
+        "2105732805",
+        "2124225821",
+        "2148603752",
+        "2151531457",
+        "2153635508",
+        "2157041524",
+        "2166473218"
+    ]
+}

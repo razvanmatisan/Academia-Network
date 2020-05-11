@@ -1,0 +1,29 @@
+{
+    "id": "1551110415",
+    "title": "Logic specification of code generation techniques",
+    "venue": "Programs as Data Objects, Proceedings of a Workshop",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Robert Giegerich",
+            "id": "154878420",
+            "org": "FB Informatik Universitat Dortmund"
+        }
+    ],
+    "fields_of_study": [
+        "Source code",
+        "Register allocation",
+        "Computer architecture",
+        "Redundant code",
+        "Unreachable code",
+        "Computer science",
+        "Dead code",
+        "Code generation",
+        "Object code"
+    ],
+    "references": [
+        "1482532369",
+        "2024598204",
+        "2070053315"
+    ]
+}

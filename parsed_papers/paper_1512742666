@@ -1,0 +1,35 @@
+{
+    "id": "1512742666",
+    "title": "System Description: DLP",
+    "venue": "conference on automated deduction",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Peter F. Patel-Schneider",
+            "id": "64760803",
+            "org": "Bell Labs Research"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Knowledge base",
+        "Algorithm",
+        "Knowledge representation and reasoning",
+        "Description logic",
+        "Gas meter prover",
+        "Theoretical computer science",
+        "Dynamic logic (digital electronics)",
+        "Experimental system",
+        "Knowledge acquisition",
+        "User interface"
+    ],
+    "references": [
+        "1532176935",
+        "1535158818",
+        "1571534882",
+        "1575501166",
+        "1798588072",
+        "2074639050",
+        "2139460891"
+    ]
+}

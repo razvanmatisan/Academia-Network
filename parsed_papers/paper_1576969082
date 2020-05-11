@@ -1,0 +1,31 @@
+{
+    "id": "1576969082",
+    "title": "A new hybrid learning algorithm for drifting environments",
+    "venue": "international conference industrial engineering other applications applied intelligent systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Khosrow Kaikhah",
+            "id": "63552098",
+            "org": "Department of Computer Science, Texas State University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Active learning (machine learning)",
+        "Evolutionary algorithm",
+        "Learning classifier system",
+        "Population-based incremental learning",
+        "Online machine learning",
+        "Wake-sleep algorithm",
+        "Stability (learning theory)",
+        "Machine learning",
+        "Algorithm",
+        "Offline learning",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "155200921",
+        "2111935653"
+    ]
+}

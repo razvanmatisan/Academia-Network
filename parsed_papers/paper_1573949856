@@ -1,0 +1,38 @@
+{
+    "id": "1573949856",
+    "title": "How Culture Might Impact on the Implementation of Enterprise Resource Planning Packages",
+    "venue": "conference on advanced information systems engineering",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Marina Krumbholz",
+            "id": "1976846585",
+            "org": "City University"
+        },
+        {
+            "name": "Neil A. M. Maiden",
+            "id": "268704431",
+            "org": "City University"
+        }
+    ],
+    "fields_of_study": [
+        "Information system",
+        "Business process",
+        "Process management",
+        "Systems engineering",
+        "Information integration",
+        "Organizational culture",
+        "Business process modeling",
+        "Knowledge-based systems",
+        "Enterprise resource planning",
+        "Computer science",
+        "Knowledge acquisition",
+        "Knowledge management"
+    ],
+    "references": [
+        "1548391645",
+        "1937430847",
+        "2114052939",
+        "2118926712"
+    ]
+}

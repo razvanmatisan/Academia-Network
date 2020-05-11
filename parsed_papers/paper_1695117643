@@ -1,0 +1,51 @@
+{
+    "id": "1695117643",
+    "title": "Extracting hyponymy patterns in Tibetan language to enrich minority languages knowledge base",
+    "venue": "web information systems modeling",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Lirong Qiu",
+            "id": "2755362285",
+            "org": "Information Technology School, Minzu University of China, Beijing, China and National Language Resource and Monitoring Research Center#TAB#"
+        },
+        {
+            "name": "Yu Weng",
+            "id": "2303906252",
+            "org": "Information Technology School, Minzu University of China, Beijing, China and National Language Resource and Monitoring Research Center#TAB#"
+        },
+        {
+            "name": "Xiaobing Zhao",
+            "id": "2678717795",
+            "org": "Information Technology School, Minzu University of China, Beijing, China and National Language Resource and Monitoring Research Center#TAB#"
+        },
+        {
+            "name": "Xiaoyu Qiu",
+            "id": "2318805843",
+            "org": "Institute of network and education technology, Shandong University of Traditional Chinese Medicine, Jinan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Process ontology",
+        "Data mining",
+        "Ontology-based data integration",
+        "Suggested Upper Merged Ontology",
+        "Natural language processing",
+        "Computer science",
+        "Ontology alignment",
+        "Ontology Inference Layer",
+        "Upper ontology",
+        "Ontology (information science)",
+        "Ontology engineering",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1486339184",
+        "1524870477",
+        "1633771733",
+        "1973021928",
+        "2068737686",
+        "2127009519"
+    ]
+}

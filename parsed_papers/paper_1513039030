@@ -1,0 +1,33 @@
+{
+    "id": "1513039030",
+    "title": "How to construct pseudorandom and super pseudorandom permutations from one single pseudorandom function",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Jacques Patarin",
+            "id": "2115493875",
+            "org": "Bull CP8, Louveciennes, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Pseudorandom function family",
+        "Pseudorandomness",
+        "Permutation",
+        "Theoretical computer science",
+        "Pseudorandom number generator",
+        "Pseudorandom generator",
+        "Pseudorandom permutation",
+        "Pseudorandom generators for polynomials",
+        "Pseudorandom generator theorem",
+        "Mathematics"
+    ],
+    "references": [
+        "1484296207",
+        "1501184366",
+        "1540000918",
+        "1552402248",
+        "2077300005"
+    ]
+}

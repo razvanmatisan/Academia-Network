@@ -1,0 +1,31 @@
+{
+    "id": "109757301",
+    "title": "From OOA to GUI -- The Janus System",
+    "venue": "international conference on human-computer interaction",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Helmut Balzert",
+            "id": "2487989997",
+            "org": "Department of Software-Engineering"
+        }
+    ],
+    "fields_of_study": [
+        "Human-computer interaction",
+        "User interface management systems",
+        "User interface design",
+        "Janus",
+        "Computer science",
+        "Object-oriented analysis and design",
+        "End user",
+        "Computer-aided software engineering",
+        "Problem domain",
+        "User interface"
+    ],
+    "references": [
+        "42748449",
+        "1982849079",
+        "2036695036",
+        "2165604170"
+    ]
+}

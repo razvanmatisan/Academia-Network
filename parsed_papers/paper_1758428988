@@ -1,0 +1,54 @@
+{
+    "id": "1758428988",
+    "title": "Domain Analysis and Queries in Context",
+    "venue": "applications of natural language to data bases",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Alfs T. Berztiss",
+            "id": "293848417",
+            "org": "University of Pittsburgh"
+        },
+        {
+            "name": "Alfs T. Berztiss",
+            "id": "293848417",
+            "org": "University of Pittsburgh"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Natural language",
+        "Domain analysis",
+        "Data mining",
+        "Information retrieval",
+        "Query expansion",
+        "Knowledge-based systems",
+        "Query language",
+        "Query optimization",
+        "Attribute grammar",
+        "Context model"
+    ],
+    "references": [
+        "1643132573",
+        "1898259180",
+        "1966867162",
+        "2002475897",
+        "2012937786",
+        "2021112529",
+        "2041111138",
+        "2056147406",
+        "2064770878",
+        "2065232487",
+        "2070635799",
+        "2117870171",
+        "2121971385",
+        "2123474039",
+        "2139722852",
+        "2151688558",
+        "2162117425",
+        "2167914127",
+        "2168753596",
+        "2171147525",
+        "2746127961"
+    ]
+}

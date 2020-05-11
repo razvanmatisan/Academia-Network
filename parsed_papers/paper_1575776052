@@ -1,0 +1,34 @@
+{
+    "id": "1575776052",
+    "title": "An Agent-Based Approach to Holonic Manufacturing Systems",
+    "venue": "international conference on information technology",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Klaus Fischer",
+            "id": "2438928539",
+            "org": "DFKI GmbH"
+        }
+    ],
+    "fields_of_study": [
+        "Agent architecture",
+        "Systems engineering",
+        "Production planning",
+        "Multi-agent system",
+        "Architecture",
+        "Autonomous system (mathematics)",
+        "Software agent",
+        "Control system",
+        "Computer science",
+        "Machine control"
+    ],
+    "references": [
+        "374795",
+        "71106904",
+        "180630831",
+        "1589640093",
+        "2097856935",
+        "2106811180",
+        "2114462967"
+    ]
+}

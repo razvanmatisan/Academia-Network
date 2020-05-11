@@ -1,0 +1,35 @@
+{
+    "id": "1495863714",
+    "title": "Preserving of Admissible Inference Rules in Modal Logics",
+    "venue": "foundations of computer science",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Vladimir V. Rybakov",
+            "id": "2892935352",
+            "org": "Krasnoyarsk State University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Modal m-calculus",
+        "Structural rule",
+        "Combinatorics",
+        "Finite model property",
+        "Proof calculus",
+        "Dynamic logic (modal logic)",
+        "Normal modal logic",
+        "Accessibility relation",
+        "Mathematics",
+        "Kripke structure"
+    ],
+    "references": [
+        "1512512905",
+        "1594484494",
+        "1966552757",
+        "1988027993",
+        "2048520665",
+        "2067326626",
+        "2148106163"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "1485206903",
+    "title": "New Tools for Computational Geometry and Rejuvenation of Screw Theory",
+    "venue": "Geometric Algebra Computing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "David Hestenes",
+            "id": "92052718",
+            "org": "Arizona State University"
+        }
+    ],
+    "fields_of_study": [
+        "Projective geometry",
+        "Computational geometry",
+        "Geometric algebra",
+        "Invariant (mathematics)",
+        "Conformal geometric algebra",
+        "Combinatorics",
+        "Filtered algebra",
+        "Screw theory",
+        "Transformation geometry",
+        "Mathematics"
+    ],
+    "references": [
+        "1522151040",
+        "1719494151",
+        "2519426634"
+    ]
+}

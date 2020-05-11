@@ -1,0 +1,57 @@
+{
+    "id": "106517363",
+    "title": "Model-based reinforcement learning in continuous environments using real-time constrained optimization",
+    "venue": "national conference on artificial intelligence",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Olov Andersson",
+            "id": "2439010365",
+            "org": "Department of Computer and Information Science, Linkoping University, Linkoping, Sweden#TAB#"
+        },
+        {
+            "name": "Fredrik Heintz",
+            "id": "2161894043",
+            "org": "Department of Computer and Information Science, Linkoping University, Linkoping, Sweden#TAB#"
+        },
+        {
+            "name": "Patrick Doherty",
+            "id": "2118756264",
+            "org": "Department of Computer and Information Science, Linkoping University, Linkoping, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Constrained optimization",
+        "Machine learning",
+        "Multi-task learning",
+        "Artificial intelligence",
+        "Mathematical optimization",
+        "Gaussian process",
+        "Optimal control",
+        "Reinforcement learning",
+        "Robot learning",
+        "Computer science",
+        "Robot control",
+        "Curse of dimensionality"
+    ],
+    "references": [
+        "166862392",
+        "1505937442",
+        "1512919909",
+        "1515308897",
+        "1746819321",
+        "2012392077",
+        "2013439434",
+        "2026079951",
+        "2099768828",
+        "2108734173",
+        "2120346334",
+        "2127107099",
+        "2130005627",
+        "2130105540",
+        "2134491302",
+        "2140135625",
+        "2154032554",
+        "2167117957"
+    ]
+}

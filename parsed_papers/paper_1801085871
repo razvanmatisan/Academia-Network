@@ -1,0 +1,41 @@
+{
+    "id": "1801085871",
+    "title": "A fuzzy description logic with automatic object membership measurement",
+    "venue": "knowledge science engineering and management",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Yi Cai",
+            "id": "2298182770",
+            "org": "Department of Computer Science, The City University of Hong Kong, Hong Kong, China#TAB#"
+        },
+        {
+            "name": "Ho-fung Leung",
+            "id": "2132605483",
+            "org": "Department of Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "T-norm fuzzy logics",
+        "Artificial intelligence",
+        "Type-2 fuzzy sets and systems",
+        "Fuzzy logic",
+        "Fuzzy set operations",
+        "Membership function",
+        "Fuzzy associative matrix",
+        "Computer science",
+        "Fuzzy number",
+        "Fuzzy classification"
+    ],
+    "references": [
+        "108171241",
+        "1525984444",
+        "1552834403",
+        "1748990669",
+        "1898259180",
+        "2060907774",
+        "2126970740",
+        "2155737426"
+    ]
+}

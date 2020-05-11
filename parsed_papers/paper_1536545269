@@ -1,0 +1,37 @@
+{
+    "id": "1536545269",
+    "title": "Self-Stabilizing Ring Orientation",
+    "venue": "international workshop on distributed algorithms",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Amos Israeli",
+            "id": "2103657699",
+            "org": "Dept. of Electrical Engineering Technion"
+        },
+        {
+            "name": "Marc Jalfon",
+            "id": "2424890213",
+            "org": "Dept. of Computer Science Technion"
+        },
+        {
+            "name": "Marc Jalfon",
+            "id": "2424890213",
+            "org": "Dept. of Computer Science Technion"
+        }
+    ],
+    "fields_of_study": [
+        "Finite-state machine",
+        "Mutual exclusion",
+        "Distributed computing",
+        "Mathematics",
+        "Ring network"
+    ],
+    "references": [
+        "28005281",
+        "1546633757",
+        "2010875998",
+        "2111132249",
+        "2482933712"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": "1531287302",
+    "title": "Using Agricultural Ontologies",
+    "venue": "metadata and semantics research",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Michael T. Maliappis",
+            "id": "2650167999",
+            "org": "Agricultural University of Athens"
+        }
+    ],
+    "fields_of_study": [
+        "Ontology",
+        "Domain knowledge",
+        "Information retrieval",
+        "Domain model",
+        "Software engineering",
+        "IDEF5",
+        "Knowledge representation and reasoning",
+        "Knowledge-based systems",
+        "Domain engineering",
+        "Ontology (information science)",
+        "Computer science"
+    ],
+    "references": [
+        "1575924496",
+        "2146542224",
+        "2147032551"
+    ]
+}

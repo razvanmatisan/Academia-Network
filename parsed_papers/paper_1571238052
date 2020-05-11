@@ -1,0 +1,34 @@
+{
+    "id": "1571238052",
+    "title": "Approximating Circular Arc Colouring and Bandwidth Allocation in All-Optical Ring Networks",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Vijay Kumar",
+            "id": "2330616530",
+            "org": "Northwestern University"
+        }
+    ],
+    "fields_of_study": [
+        "Approximation algorithm",
+        "Discrete mathematics",
+        "Path coloring",
+        "Combinatorial optimization",
+        "Graph theory",
+        "Bandwidth allocation",
+        "Bandwidth (signal processing)",
+        "Ring network",
+        "Mathematics",
+        "Circular-arc graph"
+    ],
+    "references": [
+        "1482143626",
+        "2003160050",
+        "2006146932",
+        "2012729006",
+        "2074937107",
+        "2094329068",
+        "2127394866"
+    ]
+}

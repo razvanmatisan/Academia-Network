@@ -1,0 +1,39 @@
+{
+    "id": "1555882878",
+    "title": "Automatically attaching semantic metadata to Web Services.",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Andreas Hess",
+            "id": "2094669003",
+            "org": "University College Dublin"
+        },
+        {
+            "name": "Nicholas Kushmerick",
+            "id": "66768198",
+            "org": "Computer Science Department|University College Dublin"
+        }
+    ],
+    "fields_of_study": [
+        "Web standards",
+        "Data Web",
+        "Database",
+        "Social Semantic Web",
+        "Metadata repository",
+        "Semantic grid",
+        "Meta Data Services",
+        "World Wide Web",
+        "Semantic Web Stack",
+        "Semantic Web",
+        "Computer science"
+    ],
+    "references": [
+        "1521439890",
+        "1956559956",
+        "1996764654",
+        "2135479443",
+        "2139715831",
+        "2150365753"
+    ]
+}

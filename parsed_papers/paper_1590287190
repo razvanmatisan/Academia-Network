@@ -1,0 +1,38 @@
+{
+    "id": "1590287190",
+    "title": "A Parallel Connection Graph Proof Procedure",
+    "venue": "german workshop on artificial intelligence",
+    "year": 1981,
+    "authors": [
+        {
+            "name": "Gunter Hornung",
+            "id": "2494886340",
+            "org": "Institut fur Informatik III"
+        },
+        {
+            "name": "Anfried Knapp",
+            "id": "2683515665",
+            "org": "Institut fur Informatik III"
+        },
+        {
+            "name": "Ulrike Knapp",
+            "id": "2283558609",
+            "org": "Institut fur Informatik III"
+        }
+    ],
+    "fields_of_study": [
+        "Quartic graph",
+        "Discrete mathematics",
+        "Factor-critical graph",
+        "Edge-transitive graph",
+        "String graph",
+        "Butterfly graph",
+        "Strength of a graph",
+        "Voltage graph",
+        "Computer science",
+        "Simplex graph"
+    ],
+    "references": [
+        "1970045008"
+    ]
+}

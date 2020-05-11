@@ -1,0 +1,43 @@
+{
+    "id": "1496940374",
+    "title": "Mapping Relational Databases to the Semantic Web with Original Meaning",
+    "venue": "knowledge science engineering and management",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Dmitry V. Levshin",
+            "id": "2635340023",
+            "org": "(Science and Research Center on Computer Technology), NICEVT, Moscow, Russia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data Web",
+        "Relational Model/Tasmania",
+        "Data mining",
+        "Web standards",
+        "Semantic analytics",
+        "Semantic Web",
+        "Social Semantic Web",
+        "Web modeling",
+        "Computer science",
+        "Semantic Web Stack"
+    ],
+    "references": [
+        "774743",
+        "27258760",
+        "85310471",
+        "113519090",
+        "123219278",
+        "2009788656",
+        "2091375663",
+        "2094598697",
+        "2114314131",
+        "2124067180",
+        "2132648147",
+        "2132731949",
+        "2139315672",
+        "2142896587",
+        "2172201672",
+        "2540464126"
+    ]
+}

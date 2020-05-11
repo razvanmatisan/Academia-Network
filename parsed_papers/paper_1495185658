@@ -1,0 +1,42 @@
+{
+    "id": "1495185658",
+    "title": "On business process model transformations",
+    "venue": "international conference on conceptual modeling",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Wasim Sadiq",
+            "id": "1980462002",
+            "org": "Distributed Systems Technology Centre, School of Computer Science & Electrical Engineering, The University of Queensland, Qld, Australia#TAB#"
+        },
+        {
+            "name": "Maria E. Orlowska",
+            "id": "2123081123",
+            "org": "Distributed Systems Technology Centre, School of Computer Science & Electrical Engineering, The University of Queensland, Qld, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Model transformation",
+        "Business requirements",
+        "Systems engineering",
+        "Business process discovery",
+        "Enterprise information system",
+        "Data mining",
+        "Business Process Model and Notation",
+        "Business process modeling",
+        "Computer science",
+        "Process modeling",
+        "Artifact-centric business process model",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "39280634",
+        "92826413",
+        "1490230666",
+        "1570265525",
+        "1604634792",
+        "1909893457",
+        "2015234709",
+        "2141116304"
+    ]
+}

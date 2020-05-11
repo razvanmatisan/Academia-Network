@@ -1,0 +1,31 @@
+{
+    "id": "1526952726",
+    "title": "A Tool for Proving Invariance Properties of Concurrent Systems Automatically",
+    "venue": "tools and algorithms for construction and analysis of systems",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Hassen Saidi",
+            "id": "2148743472",
+            "org": "Verimag Miniparc-Zirst"
+        }
+    ],
+    "fields_of_study": [
+        "Decidability",
+        "Declaration",
+        "Discrete mathematics",
+        "Correctness",
+        "Invariant (mathematics)",
+        "Fixed point",
+        "init",
+        "Automated theorem proving",
+        "Pi",
+        "Computer science"
+    ],
+    "references": [
+        "1540180001",
+        "1556247398",
+        "2045112813",
+        "2129664123"
+    ]
+}

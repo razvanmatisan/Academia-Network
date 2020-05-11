@@ -1,0 +1,47 @@
+{
+    "id": "15150874",
+    "title": "Building Games to Learn from Their Players: Generating Hints in a Serious Game",
+    "venue": "intelligent tutoring systems",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Andrew Hicks",
+            "id": "2225006263",
+            "org": "North Carolina State University"
+        },
+        {
+            "name": "Barry W. Peddycord",
+            "id": "2045080858",
+            "org": "North Carolina State University"
+        },
+        {
+            "name": "Tiffany Barnes",
+            "id": "2143131796",
+            "org": "North Carolina State University"
+        }
+    ],
+    "fields_of_study": [
+        "Screening game",
+        "Sequential game",
+        "Simultaneous game",
+        "Non-cooperative game",
+        "Artificial intelligence",
+        "Machine learning",
+        "Repeated game",
+        "Computer science",
+        "Video game design",
+        "Combinatorial game theory",
+        "Simulation",
+        "Game Developer"
+    ],
+    "references": [
+        "164716849",
+        "194843041",
+        "278209763",
+        "1565306641",
+        "1572814947",
+        "2050283840",
+        "2116311359",
+        "2405971678"
+    ]
+}

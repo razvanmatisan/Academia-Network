@@ -1,0 +1,33 @@
+{
+    "id": "1550951390",
+    "title": "The generative power of categorial grammars and head-driven phrase structure grammars with lexical rules",
+    "venue": "Computational Linguistics",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Bob Carpenter",
+            "id": "2155993707",
+            "org": "Carnegie Mellon University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatory categorial grammar",
+        "Tree-adjoining grammar",
+        "Natural language processing",
+        "Phrase structure grammar",
+        "c-command",
+        "Indexed grammar",
+        "Artificial intelligence",
+        "Immediate constituent analysis",
+        "L-attributed grammar",
+        "Context-sensitive grammar",
+        "Computer science"
+    ],
+    "references": [
+        "2023948222",
+        "2047505657",
+        "2100589257",
+        "2134495021",
+        "2168919254"
+    ]
+}

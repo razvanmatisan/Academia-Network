@@ -1,0 +1,35 @@
+{
+    "id": "1583372371",
+    "title": "Formal Specification and Verification of VHDL",
+    "venue": "formal methods in computer aided design",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Mark Bickford",
+            "id": "2662958952",
+            "org": "Odyssey Research Associates"
+        },
+        {
+            "name": "Damir Jamsek",
+            "id": "1241369716",
+            "org": "Odyssey Research Associates"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Formal equivalence checking",
+        "Formal methods",
+        "Computer science",
+        "Verification",
+        "Intelligent verification",
+        "Formal specification",
+        "Functional verification",
+        "Computer architecture",
+        "VHDL",
+        "Formal verification"
+    ],
+    "references": [
+        "1583095677",
+        "2121444793"
+    ]
+}

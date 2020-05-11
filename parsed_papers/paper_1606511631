@@ -1,0 +1,41 @@
+{
+    "id": "1606511631",
+    "title": "Behavioural and Structural Composition Rules Preserving Liveness by Synchronization for Colored FIFO Nets",
+    "venue": "applications and theory of petri nets",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Mohamed-Lyes Benalycherif",
+            "id": "2664662158",
+            "org": "Universite Pierre et Marie Curie Paris 6"
+        },
+        {
+            "name": "Claude Girault",
+            "id": "2107878282",
+            "org": "Universite Pierre et Marie Curie Paris 6"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Synchronizing",
+        "Synchronization",
+        "Discrete mathematics",
+        "Computer science",
+        "Finite-state machine",
+        "FIFO (computing and electronics)",
+        "Liveness",
+        "Real-time computing",
+        "Queue",
+        "Principle of compositionality",
+        "Composition operator"
+    ],
+    "references": [
+        "1504999578",
+        "1534926211",
+        "1535002487",
+        "1819916734",
+        "2067782667",
+        "2102905421",
+        "2150705191"
+    ]
+}

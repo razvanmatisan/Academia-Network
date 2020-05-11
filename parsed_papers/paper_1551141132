@@ -1,0 +1,39 @@
+{
+    "id": "1551141132",
+    "title": "CoMPI: configuration of collective operations in LAM/MPI using the scheme programming language",
+    "venue": "parallel computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Espen Skjelnes Johnsen",
+            "id": "2629582923",
+            "org": "Dept. of Computer Science, University of Tromso, Tromso, Norway#TAB#"
+        },
+        {
+            "name": "John Markus Bjorndalen",
+            "id": "88296478",
+            "org": "Dept. of Computer Science, University of Tromso, Tromso, Norway#TAB#"
+        },
+        {
+            "name": "Otto J. Anshus",
+            "id": "244631363",
+            "org": "Dept. of Computer Science, University of Tromso, Tromso, Norway#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Theoretical computer science",
+        "High-level programming language",
+        "LAM/MPI",
+        "Scheme (programming language)",
+        "Network topology",
+        "Computer science"
+    ],
+    "references": [
+        "1579775238",
+        "1969215126",
+        "2002301065",
+        "2121255426",
+        "2133994512"
+    ]
+}

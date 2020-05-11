@@ -1,0 +1,42 @@
+{
+    "id": "1542255352",
+    "title": "Mixed Delay and Threshold Voters in Critical Real-Time Systems",
+    "venue": "formal modeling and analysis of timed systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Chiheb Kossentini",
+            "id": "990797930",
+            "org": "Airbus"
+        },
+        {
+            "name": "Chiheb Kossentini",
+            "id": "990797930",
+            "org": "Airbus"
+        },
+        {
+            "name": "Paul Caspi",
+            "id": "2111205943",
+            "org": "Laboratoire Verimag (CNRS)"
+        }
+    ],
+    "fields_of_study": [
+        "Hybrid automaton",
+        "Discrete mathematics",
+        "Continuous signal",
+        "Fault tolerance",
+        "Classification of discontinuities",
+        "Hybrid system",
+        "Real-time operating system",
+        "Computer science",
+        "Uniform continuity",
+        "Complex system"
+    ],
+    "references": [
+        "1484364085",
+        "1488202922",
+        "1565007974",
+        "1649056824",
+        "2076513239"
+    ]
+}

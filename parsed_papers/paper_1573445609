@@ -1,0 +1,35 @@
+{
+    "id": "1573445609",
+    "title": "Experience with KRL-O: one cycle of a knowledge representation language",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1977,
+    "authors": [
+        {
+            "name": "Daniel G. Bobrow",
+            "id": "2087866229",
+            "org": "KRL Research Group#TAB#"
+        },
+        {
+            "name": "Terry Winograd",
+            "id": "2091637845",
+            "org": "KRL Research Group#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Universal Networking Language",
+        "MultiNet",
+        "Domain knowledge",
+        "Knowledge representation and reasoning",
+        "Natural language processing",
+        "Body of knowledge",
+        "Procedural knowledge",
+        "Computer science",
+        "Knowledge-based systems",
+        "Knowledge management",
+        "Commonsense knowledge",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1597621223"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1484181547",
+    "title": "Comparison of Shannon, Renyi and Tsallis Entropy Used in Decision Trees",
+    "venue": "international conference on artificial intelligence and soft computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Tomasz Maszczyk",
+            "id": "2303053913",
+            "org": "Department of Informatics, Nicolaus Copernicus University, Torun, Poland 87-100#TAB#"
+        },
+        {
+            "name": "Wlodzislaw Duch",
+            "id": "2061270251",
+            "org": "Department of Informatics, Nicolaus Copernicus University, Torun, Poland 87-100#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Renyi entropy",
+        "Machine learning",
+        "Maximum entropy thermodynamics",
+        "Min entropy",
+        "Statistics",
+        "Information diagram",
+        "Joint entropy",
+        "Compromise",
+        "Shannon's source coding theorem",
+        "Tsallis entropy",
+        "Mathematics"
+    ],
+    "references": [
+        "1505135344",
+        "1582821475",
+        "2041404167",
+        "2116141292",
+        "2125055259",
+        "2132699577",
+        "2148319325",
+        "2163260963"
+    ]
+}

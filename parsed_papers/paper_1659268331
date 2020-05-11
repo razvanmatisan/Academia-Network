@@ -1,0 +1,45 @@
+{
+    "id": "1659268331",
+    "title": "The specification of visual language syntax",
+    "venue": "ieee symposium on visual languages",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Eric J. Golin",
+            "id": "2243827983",
+            "org": "Dept. of Comput. Sci., Brown Univ., Providence, RI, USA"
+        },
+        {
+            "name": "Steven P. Reiss",
+            "id": "693769535",
+            "org": "Dept. of Comput. Sci., Brown Univ., Providence, RI, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Syntax (programming languages)",
+        "Visual programming language",
+        "Natural language processing",
+        "Syntax error",
+        "L-attributed grammar",
+        "GLR parser",
+        "Abstract syntax tree",
+        "Abstract syntax",
+        "Artificial intelligence",
+        "Homoiconicity",
+        "Computer science",
+        "Programming language"
+    ],
+    "references": [
+        "1964071625",
+        "1974795494",
+        "1991923264",
+        "2044909121",
+        "2059356072",
+        "2069466710",
+        "2095597242",
+        "2099529102",
+        "2123833399",
+        "2129197992",
+        "2130653558"
+    ]
+}

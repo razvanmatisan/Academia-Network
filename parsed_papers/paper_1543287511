@@ -1,0 +1,39 @@
+{
+    "id": "1543287511",
+    "title": "Visualizing Memory Graphs",
+    "venue": "software visualization",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Thomas Zimmermann",
+            "id": "2014339847",
+            "org": "Universitat Passau"
+        },
+        {
+            "name": "Andreas Zeller",
+            "id": "2106620385",
+            "org": "Universitat des Saarlandes"
+        }
+    ],
+    "fields_of_study": [
+        "Program analysis",
+        "Data type",
+        "Tree (graph theory)",
+        "Memory organisation",
+        "Theoretical computer science",
+        "Graph operations",
+        "Visual memory",
+        "Distributed computing",
+        "Data structure",
+        "Indexation",
+        "Computer science"
+    ],
+    "references": [
+        "1578048103",
+        "2001914359",
+        "2066195341",
+        "2068379792",
+        "2116007667",
+        "2170224888"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "1600749753",
+    "title": "Standard Bases and Non-Noetherianity: Non-Commutative Polynomial Rings",
+    "venue": "Applicable Algebra in Engineering, Communication and Computing",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Teo Mora",
+            "id": "2473961835",
+            "org": "Universita di Genova, Italy"
+        }
+    ],
+    "fields_of_study": [
+        "Noncommutative ring",
+        "Discrete mathematics",
+        "Square-free polynomial",
+        "Mathematics",
+        "Reciprocal polynomial",
+        "Polarization of an algebraic form",
+        "Algebra",
+        "Polynomial ring",
+        "Commutative algebra",
+        "Minimal polynomial (field theory)",
+        "Alternating polynomial"
+    ],
+    "references": [
+        "1481997196",
+        "1524190946",
+        "1594278443",
+        "1963695291"
+    ]
+}

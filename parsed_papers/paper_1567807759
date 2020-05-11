@@ -1,0 +1,45 @@
+{
+    "id": "1567807759",
+    "title": "Multi-representation d'une ontologie : OWL, bases de donnees, systemes de types et d'objets",
+    "venue": "arXiv: Information Retrieval",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Mireille Arnoux",
+            "id": "2134885309",
+            "org": "LIMI"
+        },
+        {
+            "name": "Thierry Despeyroux",
+            "id": "897138324",
+            "org": "INRIA Rocquencourt / INRIA Sophia Antipolis"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Ontology-based data integration",
+        "Computer science",
+        "Process ontology",
+        "Natural language processing",
+        "IDEF5",
+        "Suggested Upper Merged Ontology",
+        "Ontology engineering",
+        "Upper ontology",
+        "Ontology (information science)",
+        "Ontology Inference Layer",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "83365618",
+        "147384045",
+        "198410213",
+        "1495014783",
+        "1536965336",
+        "1582703274",
+        "1968499780",
+        "2034357489",
+        "2096578078",
+        "2133959199",
+        "2171884570"
+    ]
+}

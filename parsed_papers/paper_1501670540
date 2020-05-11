@@ -1,0 +1,32 @@
+{
+    "id": "1501670540",
+    "title": "Efficient zero-knowledged identification scheme for smart cards",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Thomas Beth",
+            "id": "649603640",
+            "org": "Univ. Karlsruhe, Karlsruhe#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Challenge-Handshake Authentication Protocol",
+        "Open Smart Card Development Platform",
+        "Smart card application protocol data unit",
+        "Identification scheme",
+        "Otway-Rees protocol",
+        "Lightweight Extensible Authentication Protocol",
+        "Data Authentication Algorithm",
+        "Computer science",
+        "Computer network",
+        "Authentication protocol"
+    ],
+    "references": [
+        "1589034595",
+        "1617851311",
+        "1829613831",
+        "2091260227",
+        "2108834246"
+    ]
+}

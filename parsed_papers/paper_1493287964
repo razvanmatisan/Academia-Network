@@ -1,0 +1,35 @@
+{
+    "id": "1493287964",
+    "title": "Minimizing the maximum number of open stacks by customer search",
+    "venue": "principles and practice of constraint programming",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Geoffrey Chu",
+            "id": "2137665234",
+            "org": "NICTA Victoria Laboratory, Department of Computer Science and Software Engineering, University of Melbourne, Australia#TAB#"
+        },
+        {
+            "name": "Peter J. Stuckey",
+            "id": "2079669046",
+            "org": "NICTA Victoria Laboratory, Department of Computer Science and Software Engineering, University of Melbourne, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Mathematical optimization",
+        "Branch and bound",
+        "Stack (abstract data type)",
+        "Orders of magnitude (numbers)",
+        "Speedup",
+        "Exponential function",
+        "Solver",
+        "Mathematics"
+    ],
+    "references": [
+        "1982726693",
+        "2090776450",
+        "2121430424",
+        "2122148260"
+    ]
+}

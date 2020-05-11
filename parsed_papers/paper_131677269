@@ -1,0 +1,37 @@
+{
+    "id": "131677269",
+    "title": "WSPOM: an ontology model for web service planning",
+    "venue": "international conference on information computing and applications",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Liming Liu",
+            "id": "2520392326",
+            "org": "School of Software, Shanghai Jiao Tong University, Shanghai, P.R. China#TAB#"
+        },
+        {
+            "name": "Hongming Cai",
+            "id": "2634299168",
+            "org": "School of Software, Shanghai Jiao Tong University, Shanghai, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ontology-based data integration",
+        "Process ontology",
+        "OWL-S",
+        "Web modeling",
+        "Web service",
+        "Database",
+        "Suggested Upper Merged Ontology",
+        "Data mining",
+        "Ontology (information science)",
+        "Computer science",
+        "Ontology Inference Layer"
+    ],
+    "references": [
+        "1714132059",
+        "2154031625",
+        "2161536823",
+        "2167779645"
+    ]
+}

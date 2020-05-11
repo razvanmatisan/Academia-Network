@@ -1,0 +1,31 @@
+{
+    "id": "1577628331",
+    "title": "Process Landscaping: From Software Process Modelling to Designing Mobile Business Processes",
+    "venue": "european workshop on software process technology",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Volker Gruhn",
+            "id": "2289531623",
+            "org": "University of Leipzig"
+        }
+    ],
+    "fields_of_study": [
+        "Business process",
+        "Systems engineering",
+        "Software development",
+        "Business process modeling",
+        "Distributed computing",
+        "Landscaping",
+        "Distributed algorithm",
+        "Software development process",
+        "Operations research",
+        "Mobile code",
+        "Computer science",
+        "First class"
+    ],
+    "references": [
+        "1511802582",
+        "1601274157"
+    ]
+}

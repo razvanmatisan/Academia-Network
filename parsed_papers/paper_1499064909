@@ -1,0 +1,32 @@
+{
+    "id": "1499064909",
+    "title": "A mixture approach to novelty detection using training data with outliers",
+    "venue": "european conference on machine learning",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Martin Lauer",
+            "id": "2156656717",
+            "org": "Institut fur Logik, Komplexitat und Deduktionssysteme, Universitat Karlsruhe, Karlsruhe, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multivariate statistics",
+        "Statistics",
+        "Outlier",
+        "Gaussian process",
+        "Expectation-maximization algorithm",
+        "Mixture model",
+        "Mixed model",
+        "Dummy variable",
+        "Mathematics",
+        "Novelty detection"
+    ],
+    "references": [
+        "1503432700",
+        "1911632523",
+        "2072914889",
+        "2126652588",
+        "2165047624"
+    ]
+}

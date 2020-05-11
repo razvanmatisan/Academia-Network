@@ -1,0 +1,30 @@
+{
+    "id": "1483012440",
+    "title": "SAT, SMT and Applications",
+    "venue": "international conference on logic programming",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Armin Biere",
+            "id": "2242438494",
+            "org": "Johannes Kepler University, Linz, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Software verification",
+        "Formal methods",
+        "Algorithm",
+        "Formal equivalence checking",
+        "Theoretical computer science",
+        "Model checking",
+        "Computer science",
+        "Satisfiability",
+        "Automated theorem proving",
+        "Solver",
+        "Heuristics"
+    ],
+    "references": [
+        "1586677474",
+        "1770441273"
+    ]
+}

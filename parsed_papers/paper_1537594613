@@ -1,0 +1,41 @@
+{
+    "id": "1537594613",
+    "title": "The use and utility of high-level semantic features in video retrieval",
+    "venue": "conference on image and video retrieval",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Michael G. Christel",
+            "id": "89134272",
+            "org": "School of Computer Science, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Alexander G. Hauptmann",
+            "id": "2113269357",
+            "org": "School of Computer Science, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Semantic feature",
+        "Computer science",
+        "Artificial intelligence",
+        "Information retrieval",
+        "Semantics",
+        "Image processing",
+        "Data mining",
+        "Image retrieval",
+        "TRECVID",
+        "Facial recognition system"
+    ],
+    "references": [
+        "1571741758",
+        "1585814348",
+        "1999235772",
+        "2006828383",
+        "2025363509",
+        "2055118297",
+        "2130660124",
+        "2155305908"
+    ]
+}

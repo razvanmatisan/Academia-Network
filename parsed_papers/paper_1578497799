@@ -1,0 +1,36 @@
+{
+    "id": "1578497799",
+    "title": "Aspect-based relevance learning for image retrieval",
+    "venue": "conference on image and video retrieval",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Mark J. Huiskes",
+            "id": "1375244158",
+            "org": "Centre for Mathematics and Computer Science (CWI), Amsterdam, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Artificial intelligence",
+        "Computer science",
+        "Information retrieval",
+        "Cluster analysis",
+        "Image processing",
+        "Image retrieval",
+        "Relevance feedback",
+        "Aspect-oriented programming"
+    ],
+    "references": [
+        "1491915929",
+        "1973693867",
+        "1977261934",
+        "2000672666",
+        "2022692239",
+        "2044220725",
+        "2062891310",
+        "2099176109",
+        "2101498401",
+        "2138079527"
+    ]
+}

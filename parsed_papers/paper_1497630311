@@ -1,0 +1,29 @@
+{
+    "id": "1497630311",
+    "title": "Completeness, Invariance and $\\lambda$-Definability",
+    "venue": "Journal of Symbolic Logic",
+    "year": 1982,
+    "authors": [
+        {
+            "name": "Richard Statman",
+            "id": "2698980316",
+            "org": "Rutgers University"
+        }
+    ],
+    "fields_of_study": [
+        "Recursion",
+        "Invariant (mathematics)",
+        "Type theory",
+        "Discrete mathematics",
+        "Decidability",
+        "Homomorphism",
+        "Conjecture",
+        "Godel's completeness theorem",
+        "Mathematics",
+        "Recursively enumerable language"
+    ],
+    "references": [
+        "1519488307",
+        "1990121424"
+    ]
+}

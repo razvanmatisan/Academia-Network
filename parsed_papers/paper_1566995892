@@ -1,0 +1,36 @@
+{
+    "id": "1566995892",
+    "title": "A closer look at boosted image retrieval",
+    "venue": "conference on image and video retrieval",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Nicholas R. Howe",
+            "id": "1169607895",
+            "org": "Smith College, Northampton, Massachusetts#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Computer vision",
+        "Color histogram",
+        "Boosting (machine learning)",
+        "Precision and recall",
+        "Artificial intelligence",
+        "Boosting methods for object categorization",
+        "Decision boundary",
+        "Contextual image classification",
+        "Image retrieval",
+        "Machine learning"
+    ],
+    "references": [
+        "1917380066",
+        "2022692239",
+        "2093717447",
+        "2112076978",
+        "2126326837",
+        "2139212933",
+        "2149189368",
+        "2153168223"
+    ]
+}

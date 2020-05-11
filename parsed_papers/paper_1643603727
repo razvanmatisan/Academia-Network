@@ -1,0 +1,37 @@
+{
+    "id": "1643603727",
+    "title": "The algebra of lexical semantics",
+    "venue": "mathematics of language",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Andras Kornai",
+            "id": "1161247710",
+            "org": "Institite for Quantitative Social Science, Harvard University, Cambridge, MA and Hungarian Academy of Sciences, Computer and Automation Research Institute, Budapest#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "First-order logic",
+        "Generative grammar",
+        "Discrete mathematics",
+        "Artificial intelligence",
+        "Natural language processing",
+        "Formal language",
+        "Algebra",
+        "Lexicon",
+        "Lexical semantics",
+        "Generative lexicon",
+        "Syntax",
+        "Automata theory",
+        "Mathematics"
+    ],
+    "references": [
+        "1608050331",
+        "1992703106",
+        "2050157156",
+        "2165874398",
+        "2167954650",
+        "2583984691",
+        "2611127994"
+    ]
+}

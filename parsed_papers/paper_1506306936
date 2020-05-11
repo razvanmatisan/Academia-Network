@@ -1,0 +1,34 @@
+{
+    "id": "1506306936",
+    "title": "Collaboration between a COTS Integrator and Vendors",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Tuija Helokunnas",
+            "id": "2009967994",
+            "org": "Nokia Group"
+        },
+        {
+            "name": "Marko Nyby",
+            "id": "2706957450",
+            "org": "Tampere University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Commercial off-the-shelf",
+        "Systems engineering",
+        "Vendor",
+        "Software development",
+        "Distributed computing",
+        "Component-based software engineering",
+        "Integrator",
+        "Software",
+        "Computer security",
+        "Computer science"
+    ],
+    "references": [
+        "1713631409",
+        "2167500728"
+    ]
+}

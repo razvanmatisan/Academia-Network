@@ -1,0 +1,33 @@
+{
+    "id": "1599884269",
+    "title": "Integration of Agents and Data Mining in Interactive Web Environment for Psychometric Diagnostics",
+    "venue": "Data Mining and Multi-agent Integration",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Velibor Ilic",
+            "id": "2038002844",
+            "org": "University of Novi Sad"
+        }
+    ],
+    "fields_of_study": [
+        "Work in process",
+        "Psychometrics",
+        "Visualization",
+        "Diagnostic test",
+        "Data science",
+        "Intelligent agent",
+        "Data mining",
+        "Information technology",
+        "The Internet",
+        "Computer science",
+        "Cognition"
+    ],
+    "references": [
+        "1503892949",
+        "1545653891",
+        "1600270012",
+        "2128081133",
+        "2151350448"
+    ]
+}

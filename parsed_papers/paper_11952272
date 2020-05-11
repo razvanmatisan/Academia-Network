@@ -1,0 +1,30 @@
+{
+    "id": "11952272",
+    "title": "Automatic compilation of logical specifications into efficient programs",
+    "venue": "national conference on artificial intelligence",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Donald Cohen",
+            "id": "2173981712",
+            "org": "U.S.C. Information Sciences Institute, Marina del Rey, Ca#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Compiler construction",
+        "Computer architecture",
+        "Computer science",
+        "Functional compiler",
+        "Intrinsic function",
+        "Inline expansion",
+        "Programming language",
+        "Compiler",
+        "Compiler correctness",
+        "Optimizing compiler",
+        "Interprocedural optimization"
+    ],
+    "references": [
+        "2006875594",
+        "2091327243"
+    ]
+}

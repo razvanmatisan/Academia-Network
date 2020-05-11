@@ -1,0 +1,38 @@
+{
+    "id": "1561741782",
+    "title": "Evolutionary Mesh Numbering: Preliminary Results",
+    "venue": "arXiv: Numerical Analysis",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Francis Sourd",
+            "id": "2552910832",
+            "org": "Ecole Polytechnique"
+        },
+        {
+            "name": "Marc Schoenauer",
+            "id": "89424581",
+            "org": "Ecole Polytechnique"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Mathematical optimization",
+        "Evolutionary algorithm",
+        "Evolutionary computation",
+        "Genetic algorithm",
+        "Heuristic",
+        "Crossover",
+        "Numbering",
+        "Mathematics",
+        "Operator (computer programming)",
+        "Finite element method"
+    ],
+    "references": [
+        "73086096",
+        "1528149415",
+        "1594647002",
+        "1991318915",
+        "2117396900"
+    ]
+}

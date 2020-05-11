@@ -1,0 +1,53 @@
+{
+    "id": "1514150835",
+    "title": "A model theory for paraconsistent logic programming",
+    "venue": "portuguese conference on artificial intelligence",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Carlos Viegas Damasio",
+            "id": "2156712379",
+            "org": "CRIA, Uninova and DCS, U. Nova de Lisboa, Monte da Caparica, Portugal"
+        },
+        {
+            "name": "Luis Moniz Pereira",
+            "id": "2104852094",
+            "org": "CRIA, Uninova and DCS, U. Nova de Lisboa, Monte da Caparica, Portugal"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Principle of explosion",
+        "Intuitionistic logic",
+        "Machine learning",
+        "Abstract model theory",
+        "Dynamic logic (modal logic)",
+        "Artificial intelligence",
+        "Predicate functor logic",
+        "Algorithm",
+        "Well-founded semantics",
+        "Computer science",
+        "Intermediate logic",
+        "Paraconsistent logic"
+    ],
+    "references": [
+        "31515613",
+        "68567760",
+        "99071911",
+        "1511711492",
+        "1552481318",
+        "1553202793",
+        "1596105581",
+        "1601625095",
+        "1605488371",
+        "1756530980",
+        "1762925607",
+        "1889481706",
+        "1968513265",
+        "1971492645",
+        "1980589711",
+        "1985161451",
+        "2001805670",
+        "2093713825"
+    ]
+}

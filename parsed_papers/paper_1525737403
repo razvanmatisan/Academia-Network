@@ -1,0 +1,35 @@
+{
+    "id": "1525737403",
+    "title": "Towards Practical Public Key Systems Secure Against Chosen Ciphertext Attacks",
+    "venue": "international cryptology conference",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Ivan Damgard",
+            "id": "2682364181",
+            "org": "University of Aarhus"
+        }
+    ],
+    "fields_of_study": [
+        "Semantic security",
+        "Passive attack",
+        "Cramer-Shoup cryptosystem",
+        "Ciphertext indistinguishability",
+        "Theoretical computer science",
+        "Ciphertext",
+        "Chosen-ciphertext attack",
+        "Malleability",
+        "Unicity distance",
+        "Computer science",
+        "Distributed computing"
+    ],
+    "references": [
+        "1569930334",
+        "1589176872",
+        "1705124964",
+        "1979215153",
+        "2073210531",
+        "2108834246",
+        "2170293373"
+    ]
+}

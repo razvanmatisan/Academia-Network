@@ -1,0 +1,60 @@
+{
+    "id": "1550176162",
+    "title": "Cardiac Endoscopy Enhanced by Dynamic Organ Modeling for Minimally-Invasive Surgery Guidance",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Stanislaw Szpala",
+            "id": "72093963",
+            "org": "Robarts Research Institute"
+        },
+        {
+            "name": "Gerard M. Guiraudon",
+            "id": "2619284533",
+            "org": "Lawson Health Research Institute"
+        },
+        {
+            "name": "Gerard M. Guiraudon",
+            "id": "2619284533",
+            "org": "Lawson Health Research Institute"
+        },
+        {
+            "name": "Terry M. Peters",
+            "id": "2111902190",
+            "org": "Robarts Research Institute"
+        },
+        {
+            "name": "Terry M. Peters",
+            "id": "2111902190",
+            "org": "Robarts Research Institute"
+        },
+        {
+            "name": "Terry M. Peters",
+            "id": "2111902190",
+            "org": "Robarts Research Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Imaging phantom",
+        "Computer vision",
+        "Endoscope",
+        "Artificial intelligence",
+        "Cardiac cycle",
+        "Animation",
+        "Endoscopy",
+        "Virtual image",
+        "Navigation system",
+        "Computer science",
+        "Lag",
+        "Surgery"
+    ],
+    "references": [
+        "1495487529",
+        "1521238884",
+        "1675652656",
+        "1837943477",
+        "2105623448",
+        "2127922941"
+    ]
+}

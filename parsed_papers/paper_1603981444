@@ -1,0 +1,46 @@
+{
+    "id": "1603981444",
+    "title": "A robust statistical method for brain magnetic resonance image segmentation",
+    "venue": "iberoamerican congress on pattern recognition",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Bo Qin",
+            "id": "2563136975",
+            "org": "Department of Automatic Control of Northwestern Polytechnical University, Xi'an, P.R. China#TAB#"
+        },
+        {
+            "name": "JingHua Wen",
+            "id": "2632865356",
+            "org": "School of Medicine of Xi'an JiaoTong University, Xi'an, P.R. China#TAB#"
+        },
+        {
+            "name": "Ming Chen",
+            "id": "2609088527",
+            "org": "Department of Automatic Control of Northwestern Polytechnical University, Xi'an, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Computer vision",
+        "Image segmentation",
+        "Image processing",
+        "Expectation-maximization algorithm",
+        "Mixture model",
+        "Maximum a posteriori estimation",
+        "Scale-space segmentation",
+        "Computer science",
+        "Segmentation-based object categorization",
+        "Statistical model"
+    ],
+    "references": [
+        "1517810830",
+        "2079173665",
+        "2104024054",
+        "2117695123",
+        "2130686832",
+        "2131036905",
+        "2162630772"
+    ]
+}

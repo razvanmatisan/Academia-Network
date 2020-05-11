@@ -1,0 +1,39 @@
+{
+    "id": "1524937532",
+    "title": "A Beaconless Minimum Interference Based Routing Protocol for Mobile Ad Hoc Networks",
+    "venue": "international conference on contemporary computing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Natarajan Meghanathan",
+            "id": "30570676",
+            "org": "Jackson State University"
+        },
+        {
+            "name": "Meena Sugumar",
+            "id": "2330118221",
+            "org": "Jackson State University"
+        }
+    ],
+    "fields_of_study": [
+        "Wireless ad hoc network",
+        "Optimized Link State Routing Protocol",
+        "Link-state routing protocol",
+        "Hazy Sighted Link State Routing Protocol",
+        "Wireless Routing Protocol",
+        "Ad hoc wireless distribution service",
+        "Computer science",
+        "Distributed computing",
+        "Dynamic Source Routing",
+        "Computer network",
+        "Destination-Sequenced Distance Vector routing"
+    ],
+    "references": [
+        "1586099608",
+        "1968560005",
+        "2047377413",
+        "2148088434",
+        "2162598825",
+        "2435603672"
+    ]
+}

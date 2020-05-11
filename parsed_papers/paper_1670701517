@@ -1,0 +1,39 @@
+{
+    "id": "1670701517",
+    "title": "Bayesian inference for Gaussian mixed graph models",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ricardo Silva",
+            "id": "2117499156",
+            "org": "Gatsby Computational Neuroscience Unit, University College London#TAB#"
+        },
+        {
+            "name": "Zoubin Ghahramani",
+            "id": "617670330",
+            "org": "Department of Engineering, University of Cambridge#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Statistics",
+        "Econometrics",
+        "Bayesian statistics",
+        "Mixed graph",
+        "Bayesian network",
+        "Mathematics",
+        "Variable-order Bayesian network",
+        "Bayesian linear regression",
+        "Frequentist inference",
+        "Fiducial inference",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Bayesian inference"
+    ],
+    "references": [
+        "1584686383",
+        "2115979064",
+        "2170966718"
+    ]
+}

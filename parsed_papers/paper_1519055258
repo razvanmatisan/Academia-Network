@@ -1,0 +1,34 @@
+{
+    "id": "1519055258",
+    "title": "Intuitonistic Basis for Non-Monotonic Logic",
+    "venue": "conference on automated deduction",
+    "year": 1982,
+    "authors": [
+        {
+            "name": "Dov M. Gabbay",
+            "id": "2623494704",
+            "org": "University of Stuttgart"
+        },
+        {
+            "name": "Dov M. Gabbay",
+            "id": "2623494704",
+            "org": "University of Stuttgart"
+        }
+    ],
+    "fields_of_study": [
+        "Intuitionistic logic",
+        "Semantics",
+        "Computer science",
+        "Algorithm",
+        "Counterintuitive",
+        "Reasoning system",
+        "Classical logic",
+        "Automated reasoning",
+        "Non-monotonic logic"
+    ],
+    "references": [
+        "1991718988",
+        "1996347293",
+        "2155322595"
+    ]
+}

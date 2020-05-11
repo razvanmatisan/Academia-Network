@@ -1,0 +1,44 @@
+{
+    "id": "1526991336",
+    "title": "Fast efficient and scalable Core Consistency Diagnostic for the parafac decomposition for big sparse tensors",
+    "venue": "international conference on acoustics, speech, and signal processing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Evangelos E. Papalexakis",
+            "id": "1418764031",
+            "org": "School of Computer Science, Carnegie Mellon University, USA"
+        },
+        {
+            "name": "Christos Faloutsos",
+            "id": "2198983026",
+            "org": "School of Computer Science, Carnegie Mellon University, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Multilinear subspace learning",
+        "Mathematical optimization",
+        "Tensor",
+        "Stress (mechanics)",
+        "Sparse matrix",
+        "Machine learning",
+        "Multilinear map",
+        "Theoretical computer science",
+        "Computer science",
+        "Ranging",
+        "Artificial intelligence",
+        "Heuristics",
+        "Exact algorithm"
+    ],
+    "references": [
+        "111803032",
+        "1655843738",
+        "2009685860",
+        "2079705627",
+        "2079727537",
+        "2103392911",
+        "2108138101",
+        "2119511382",
+        "2132938399"
+    ]
+}

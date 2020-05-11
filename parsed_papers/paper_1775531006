@@ -1,0 +1,44 @@
+{
+    "id": "1775531006",
+    "title": "A secure internet voting scheme",
+    "venue": "international conference on algorithms and architectures for parallel processing",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Abdul Based",
+            "id": "2535265782",
+            "org": "Department of Telematics, Norwegian University of Science and Technology#TAB#"
+        },
+        {
+            "name": "Stig Fr. Mjolsnes",
+            "id": "2304047700",
+            "org": "Department of Telematics, Norwegian University of Science and Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cardinal voting systems",
+        "Distributed computing",
+        "Bullet voting",
+        "Voting",
+        "Bulletin board",
+        "Computer science",
+        "Anti-plurality voting",
+        "Information security",
+        "Computer security",
+        "The Internet"
+    ],
+    "references": [
+        "105648473",
+        "157159099",
+        "170425430",
+        "1496914902",
+        "1602000446",
+        "1871211211",
+        "2003593381",
+        "2039299422",
+        "2112963602",
+        "2133126578",
+        "2137739383",
+        "2194223632"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1538493107",
+    "title": "Linearly Combining Density Estimators via Stacking",
+    "venue": "Machine Learning",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Padhraic Smyth",
+            "id": "2137074633",
+            "org": "Information and Computer Science, University of California, Irvine, CA 92697-3425 and the Jet Propulsion Laboratory 525-3660, California Institute of Technology, Pasadena, CA 91109. [email protected] ...#TAB#"
+        },
+        {
+            "name": "David H. Wolpert",
+            "id": "2792361546",
+            "org": "NASA Ames Research Center, Caelum Research, MS 269-2, Mountain View, CA 94035. dhw@ptolemy.arc.nasa.gov#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Density estimation",
+        "Mathematics",
+        "Pattern recognition",
+        "Machine learning",
+        "Mixture model",
+        "Stacking",
+        "Cross-validation",
+        "Multivariate kernel density estimation",
+        "Kernel density estimation",
+        "Overfitting",
+        "Artificial intelligence",
+        "Variable kernel density estimation"
+    ],
+    "references": [
+        "1582937231",
+        "2025653905",
+        "2101693728",
+        "2115092992",
+        "2117087049",
+        "2135293965",
+        "2149991584",
+        "2153711228",
+        "2727300753"
+    ]
+}

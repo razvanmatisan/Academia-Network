@@ -1,0 +1,35 @@
+{
+    "id": "1532078157",
+    "title": "The design of a stream cipher LEX",
+    "venue": "international conference on selected areas in cryptography",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Alex Biryukov",
+            "id": "2167814525",
+            "org": "University of Luxembourg, FDEF, Luxembourg, Luxembourg#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Transposition cipher",
+        "Stream cipher attack",
+        "Rail fence cipher",
+        "Two-square cipher",
+        "Parallel computing",
+        "Substitution-permutation network",
+        "Polyalphabetic cipher",
+        "Stream cipher",
+        "Theoretical computer science",
+        "Affine cipher",
+        "Computer science"
+    ],
+    "references": [
+        "1699105",
+        "1518051266",
+        "1554090281",
+        "1556212265",
+        "1563880518",
+        "1964776377",
+        "2130943734"
+    ]
+}

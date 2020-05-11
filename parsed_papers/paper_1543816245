@@ -1,0 +1,42 @@
+{
+    "id": "1543816245",
+    "title": "Seed-based authentication",
+    "venue": "collaboration technologies and systems",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Nader Nassar",
+            "id": "2343097752",
+            "org": "School of Computer Science and Information Systems, Pace University, New York, USA"
+        },
+        {
+            "name": "Li-Chiou Chen",
+            "id": "2671511232",
+            "org": "School of Computer Science and Information System, Pace University, New York USA"
+        }
+    ],
+    "fields_of_study": [
+        "Replay attack",
+        "Authentication server",
+        "Message authentication code",
+        "Dictionary attack",
+        "Password",
+        "World Wide Web",
+        "Password policy",
+        "Computer science",
+        "Distributed computing",
+        "One-time password",
+        "Cognitive password"
+    ],
+    "references": [
+        "1487941708",
+        "1533182289",
+        "1607915502",
+        "2021314679",
+        "2075075402",
+        "2126833203",
+        "2150341374",
+        "2404356415",
+        "2407217443"
+    ]
+}

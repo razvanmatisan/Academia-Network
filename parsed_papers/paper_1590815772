@@ -1,0 +1,32 @@
+{
+    "id": "1590815772",
+    "title": "Theorize with data using rough sets",
+    "venue": "computer software and applications conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Zdzislaw Pawlak",
+            "id": "702337841",
+            "org": "Univ. of Inf. Technol. & Manage., Warsaw, Poland"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Computer science",
+        "Real-time computing",
+        "Data structure",
+        "Control flow graph",
+        "Bayes' theorem",
+        "Philosophy of language",
+        "Algorithm",
+        "Granularity",
+        "Rough set",
+        "Data flow diagram"
+    ],
+    "references": [
+        "1518158447",
+        "1522726980",
+        "1536006514",
+        "1544113202"
+    ]
+}

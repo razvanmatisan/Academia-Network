@@ -1,0 +1,44 @@
+{
+    "id": "1483143768",
+    "title": "A UML-Based Approach to System Testing",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Lionel C. Briand",
+            "id": "2144557644",
+            "org": "Carleton University"
+        },
+        {
+            "name": "Yvan Labiche",
+            "id": "294141752",
+            "org": "Carleton University"
+        }
+    ],
+    "fields_of_study": [
+        "Testability",
+        "Non-functional testing",
+        "Object Constraint Language",
+        "Reliability engineering",
+        "Test Management Approach",
+        "Test case",
+        "Distributed computing",
+        "System testing",
+        "White-box testing",
+        "Database",
+        "Applications of UML",
+        "Computer science"
+    ],
+    "references": [
+        "1553960903",
+        "1590462283",
+        "1992639336",
+        "2025618033",
+        "2041104244",
+        "2108404293",
+        "2119582290",
+        "2139907081",
+        "2141407780",
+        "2159765281"
+    ]
+}

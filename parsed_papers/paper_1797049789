@@ -1,0 +1,38 @@
+{
+    "id": "1797049789",
+    "title": "Abstract Tensor Systems as Monoidal Categories",
+    "venue": "arXiv: Category Theory",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Aleks Kissinger",
+            "id": "2049404704",
+            "org": "University of Oxford"
+        }
+    ],
+    "fields_of_study": [
+        "Tensor product of algebras",
+        "Pure mathematics",
+        "Discrete mathematics",
+        "Closed monoidal category",
+        "Enriched category",
+        "Symmetric monoidal category",
+        "Monoidal category",
+        "Mathematics",
+        "Tensor product of Hilbert spaces",
+        "Categorical quantum mechanics",
+        "Monoidal functor"
+    ],
+    "references": [
+        "1549334072",
+        "2002241150",
+        "2058503912",
+        "2096331363",
+        "2118686544",
+        "2119180894",
+        "2123549656",
+        "2131283815",
+        "2141274581",
+        "2157114307"
+    ]
+}

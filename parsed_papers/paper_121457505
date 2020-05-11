@@ -1,0 +1,36 @@
+{
+    "id": "121457505",
+    "title": "Minimalist tree languages are closed under intersection with recognizable tree languages",
+    "venue": "logical aspects of computational linguistics",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Gregory M. Kobele",
+            "id": "211870645",
+            "org": "University of Chicago#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Artificial intelligence",
+        "Indexed language",
+        "Strong generative capacity",
+        "Algorithm",
+        "Abstract family of languages",
+        "Computer science",
+        "Syntax",
+        "L-attributed grammar",
+        "Tree automaton",
+        "Transformational grammar",
+        "Rule-based machine translation"
+    ],
+    "references": [
+        "1486793788",
+        "1491614438",
+        "1531863307",
+        "1993698725",
+        "2036540855",
+        "2038925304",
+        "2060300993"
+    ]
+}

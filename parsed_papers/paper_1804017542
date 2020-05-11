@@ -1,0 +1,39 @@
+{
+    "id": "1804017542",
+    "title": "Approximate learning in temporal Hidden Hopfield Models",
+    "venue": "international conference on artificial neural networks",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Felix Agakov",
+            "id": "1977733842",
+            "org": "University of Edinburgh, Edinburgh, UK#TAB#"
+        },
+        {
+            "name": "David Barber",
+            "id": "2524043411",
+            "org": "University of Edinburgh, Edinburgh, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Machine learning",
+        "Hidden variable theory",
+        "Artificial intelligence",
+        "Hidden semi-Markov model",
+        "Probabilistic logic",
+        "Hopfield network",
+        "Curse of dimensionality",
+        "Artificial neural network",
+        "Computer science",
+        "Mean field theory",
+        "Statistical model"
+    ],
+    "references": [
+        "1520448186",
+        "1528056001",
+        "2083380015",
+        "2133671888",
+        "2134195709"
+    ]
+}

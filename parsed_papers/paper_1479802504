@@ -1,0 +1,29 @@
+{
+    "id": "1479802504",
+    "title": "Positive Recursive Type Assignment",
+    "venue": "mathematical foundations of computer science",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Pawel Urzyczyn",
+            "id": "629017699",
+            "org": "Warsaw University"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Discrete mathematics",
+        "Recursive partitioning",
+        "Recursive definition",
+        "m operator",
+        "Algebraic data type",
+        "Type inference",
+        "Recursive language",
+        "Recursive data type",
+        "Primitive recursive function",
+        "Computer science"
+    ],
+    "references": [
+        "2079958455"
+    ]
+}

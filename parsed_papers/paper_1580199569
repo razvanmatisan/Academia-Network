@@ -1,0 +1,29 @@
+{
+    "id": "1580199569",
+    "title": "Graphs generalizing closed curves with linear construction of the Hamiltonian cycle: parametrization of discretized curves",
+    "venue": "Theoretical Computer Science",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Remy Malgouyres",
+            "id": "2589664661",
+            "org": "LLAIC, Aubie&grave"
+        }
+    ],
+    "fields_of_study": [
+        "Graph power",
+        "Pancyclic graph",
+        "Hamiltonian path problem",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Graph toughness",
+        "Chordal graph",
+        "Indifference graph",
+        "Mathematics",
+        "Clique-sum",
+        "1-planar graph"
+    ],
+    "references": [
+        "2064216814"
+    ]
+}

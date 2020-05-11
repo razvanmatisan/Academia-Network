@@ -1,0 +1,49 @@
+{
+    "id": "1433257690",
+    "title": "The Role of Universal Constraints in Language Acquisition",
+    "venue": "constraint solving and language processing",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Leonor Becerra-Bonache",
+            "id": "300175929",
+            "org": "Laboratoire Hubert Curien, Jean Monnet University, Saint-Etienne, France#TAB#"
+        },
+        {
+            "name": "Veronica Dahl",
+            "id": "2121555361",
+            "org": "Simon Fraser University, Burnaby, Canada#TAB#"
+        },
+        {
+            "name": "J. Emilio Miralles",
+            "id": "2113130906",
+            "org": "Simon Fraser University, Burnaby, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Programming language",
+        "Artificial intelligence",
+        "Second-language acquisition",
+        "Language acquisition",
+        "Parsing",
+        "Natural language",
+        "Context-free language",
+        "Computer science",
+        "Grammar",
+        "Syntax",
+        "Rule-based machine translation"
+    ],
+    "references": [
+        "1581252818",
+        "2065715262",
+        "2088672056",
+        "2089951031",
+        "2120735855",
+        "2124725212",
+        "2125712079",
+        "2153568660",
+        "2160474561",
+        "2439178139"
+    ]
+}

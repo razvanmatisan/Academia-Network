@@ -1,0 +1,40 @@
+{
+    "id": "1587478390",
+    "title": "Mining association rules in hypertext databases",
+    "venue": "knowledge discovery and data mining",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Jose Borges",
+            "id": "2124974212",
+            "org": "Department of Computer Science, University College London, London, U.K.#TAB#"
+        },
+        {
+            "name": "Mark Levene",
+            "id": "2164185460",
+            "org": "Department of Computer Science, University College London, London, U.K.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Directed graph",
+        "Data mining",
+        "Artificial intelligence",
+        "Computer science",
+        "Exponential function",
+        "Generalization",
+        "Hypertext",
+        "Spite",
+        "Association rule learning",
+        "Composite number"
+    ],
+    "references": [
+        "1504007973",
+        "1553696291",
+        "1591736593",
+        "2056771426",
+        "2086863338",
+        "2105312312",
+        "2166559705"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "1551511651",
+    "title": "Speech recognition using temporally connected kernels in mixture density hidden Markov models",
+    "venue": "international conference on acoustics, speech, and signal processing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Panu Somervuo",
+            "id": "2426134248",
+            "org": "Neural Networks Res. Centre, Helsinki Univ. of Technol., Espoo, Finland"
+        }
+    ],
+    "fields_of_study": [
+        "Speech recognition",
+        "Mixture distribution",
+        "Speedup",
+        "Kernel (linear algebra)",
+        "Artificial intelligence",
+        "Feature vector",
+        "Unsupervised learning",
+        "Artificial neural network",
+        "Pattern recognition",
+        "Machine learning",
+        "Gaussian function",
+        "Hidden Markov model",
+        "Computer science"
+    ],
+    "references": [
+        "1651160048",
+        "1654489210",
+        "1970992918"
+    ]
+}

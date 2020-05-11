@@ -1,0 +1,30 @@
+{
+    "id": "1600735021",
+    "title": "Symbolic Simulation of the JEM1 Microprocessor",
+    "venue": "formal methods in computer aided design",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "David A. Greve",
+            "id": "2118793094",
+            "org": "Rockwell Collins Advanced Technology Center"
+        }
+    ],
+    "fields_of_study": [
+        "Symbolic trajectory evaluation",
+        "Java processor",
+        "Computer science",
+        "Theoretical computer science",
+        "Symbolic execution",
+        "Finite-state machine",
+        "Formal specification",
+        "Microcode",
+        "Design process",
+        "Symbolic simulation"
+    ],
+    "references": [
+        "57231800",
+        "1644882639",
+        "2101591864"
+    ]
+}

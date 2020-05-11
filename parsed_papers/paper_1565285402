@@ -1,0 +1,51 @@
+{
+    "id": "1565285402",
+    "title": "When the Rubber Meets the Road: Bio-inspired Field Service Scheduling in the Real World",
+    "venue": "Bio-inspired Algorithms for the Vehicle Routing Problem",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Israel Beniaminy",
+            "id": "2713186484",
+            "org": "ClickSoftware Ltd."
+        },
+        {
+            "name": "Dovi Yellin",
+            "id": "2003667703",
+            "org": "ClickSoftware Ltd."
+        },
+        {
+            "name": "Uzi Zahavi",
+            "id": "620746820",
+            "org": "Bar-Ilan University"
+        },
+        {
+            "name": "Marko Zerdin",
+            "id": "2309507198",
+            "org": "Zany Ants Ltd."
+        }
+    ],
+    "fields_of_study": [
+        "Metaheuristic",
+        "Greedy algorithm",
+        "Meta-optimization",
+        "Greedy randomized adaptive search procedure",
+        "Vehicle routing problem",
+        "Ant colony optimization algorithms",
+        "Mathematical optimization",
+        "Local search (optimization)",
+        "Machine learning",
+        "Artificial intelligence",
+        "Optimization problem",
+        "Computer science"
+    ],
+    "references": [
+        "1504962226",
+        "1576321770",
+        "1639032689",
+        "1966079129",
+        "2010418932",
+        "2090275183",
+        "2098163707"
+    ]
+}

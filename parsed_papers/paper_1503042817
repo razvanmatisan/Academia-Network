@@ -1,0 +1,44 @@
+{
+    "id": "1503042817",
+    "title": "ILP for Mathematical Discovery",
+    "venue": "inductive logic programming",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Simon Colton",
+            "id": "2107862633",
+            "org": "Imperial College"
+        },
+        {
+            "name": "Stephen Muggleton",
+            "id": "735181462",
+            "org": "Imperial College"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Proof theory",
+        "Deductive reasoning",
+        "Machine learning",
+        "Pointer (computer programming)",
+        "Axiom",
+        "Association rule learning",
+        "Computer science",
+        "Instruction-level parallelism",
+        "Automated theorem proving",
+        "Inductive logic programming"
+    ],
+    "references": [
+        "184064569",
+        "1490291451",
+        "1501858132",
+        "1516383020",
+        "1573542630",
+        "1826823769",
+        "1890599079",
+        "1996824494",
+        "2113243831",
+        "2119831128",
+        "2127571754"
+    ]
+}

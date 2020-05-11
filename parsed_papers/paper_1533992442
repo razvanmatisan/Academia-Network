@@ -1,0 +1,34 @@
+{
+    "id": "1533992442",
+    "title": "Membrane Systems and Their Application to Systems Biology",
+    "venue": "conference on computability in europe",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Giancarlo Mauri",
+            "id": "2102122772",
+            "org": "University of Milano-Bicocca,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nondeterministic algorithm",
+        "Computer science",
+        "Stochastic simulation",
+        "Membrane structure",
+        "Systems biology",
+        "Unconventional computing",
+        "Theoretical computer science",
+        "Membrane computing",
+        "Multiset",
+        "P system"
+    ],
+    "references": [
+        "1532205815",
+        "1605657554",
+        "1772753304",
+        "1939110572",
+        "1955660753",
+        "2002245927",
+        "2029684415"
+    ]
+}

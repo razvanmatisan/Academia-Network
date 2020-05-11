@@ -1,0 +1,31 @@
+{
+    "id": "1497427039",
+    "title": "On some topological properties of logic programs",
+    "venue": "fundamentals of computation theory",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "M. A. Nait Abdallah",
+            "id": "2131828843",
+            "org": "McMaster University"
+        }
+    ],
+    "fields_of_study": [
+        "Compact space",
+        "Discrete mathematics",
+        "Topological vector space",
+        "Fixed point",
+        "Hausdorff distance",
+        "Topological space",
+        "Zero-dimensional space",
+        "Logic programming",
+        "Topological algebra",
+        "Topology",
+        "Mathematics"
+    ],
+    "references": [
+        "41705835",
+        "1607619406",
+        "2108911687"
+    ]
+}

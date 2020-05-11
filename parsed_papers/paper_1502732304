@@ -1,0 +1,50 @@
+{
+    "id": "1502732304",
+    "title": "A note on a simple equivalence between round-based synchronous and asynchronous models",
+    "venue": "pacific rim international symposium on dependable computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Michel Raynal",
+            "id": "2300628387",
+            "org": "IRISA, Univ. de Rennes, France"
+        },
+        {
+            "name": "Matthieu Roy",
+            "id": "2170621550",
+            "org": "LAAS-CNRS, Toulouse, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Asynchronous communication",
+        "Real-time computing",
+        "Equivalence (measure theory)",
+        "Distributed design patterns",
+        "Distributed computing",
+        "Crash",
+        "CSIv2",
+        "Distributed algorithm",
+        "Autonomic computing",
+        "Theoretical computer science",
+        "Failure semantics",
+        "Computer science"
+    ],
+    "references": [
+        "1683896837",
+        "1988336888",
+        "1996730563",
+        "2002477558",
+        "2035362408",
+        "2065180040",
+        "2092534058",
+        "2107380929",
+        "2120510885",
+        "2124205969",
+        "2133943294",
+        "2136586988",
+        "2154420584",
+        "2160045145",
+        "2161528798",
+        "2611515161"
+    ]
+}

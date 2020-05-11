@@ -1,0 +1,37 @@
+{
+    "id": "1507522104",
+    "title": "On Generalized Process Logic",
+    "venue": "fundamentals of computation theory",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Vadim E. Kotov",
+            "id": "1963953685",
+            "org": "Siberian Division of the USSR Academy of Sciences"
+        },
+        {
+            "name": "Ludmila Cherkasova",
+            "id": "1992532619",
+            "org": "Siberian Division of the USSR Academy of Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Zeroth-order logic",
+        "Dynamic logic (modal logic)",
+        "Substructural logic",
+        "Predicate functor logic",
+        "Multimodal logic",
+        "Computer science",
+        "Logic optimization",
+        "Intermediate logic",
+        "Higher-order logic"
+    ],
+    "references": [
+        "1490966766",
+        "1494567035",
+        "1582133605",
+        "1582345010",
+        "1600408058"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1545641952",
+    "title": "Co-evolutionary Multi-agent System with Predator-Prey Mechanism for Multi-objective Optimization",
+    "venue": "international conference on adaptive and natural computing algorithms",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Rafal Drezewski",
+            "id": "1241863567",
+            "org": "Department of Computer Science, AGH University of Science and Technology, Krakow, Poland#TAB#"
+        },
+        {
+            "name": "Leszek Siwik",
+            "id": "83965990",
+            "org": "Department of Computer Science, AGH University of Science and Technology, Krakow, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Evolutionary computation",
+        "Mathematical optimization",
+        "Evolutionary algorithm",
+        "Cultural algorithm",
+        "Evolutionary programming",
+        "Interactive evolutionary computation",
+        "Fitness function",
+        "Fitness approximation",
+        "Multi-objective optimization",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "135763859",
+        "1490135525",
+        "1533171194",
+        "1792149802",
+        "2112858958"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1568021907",
+    "title": "Preferences, Constraints, Uncertainty, and Multi-Agent Scenarios",
+    "venue": "ISAIM",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Francesca Rossi",
+            "id": "2252207586",
+            "org": "Department of Pure|Applied Mathematics|University of Padova"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint programming",
+        "Rotation formalisms in three dimensions",
+        "Aggregation problem",
+        "Data science",
+        "Missing data",
+        "Normative",
+        "Knowledge representation and reasoning",
+        "Artificial intelligence",
+        "Decision theory",
+        "Human intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "47957325",
+        "64851098",
+        "1545851864",
+        "1571377168",
+        "1760227883",
+        "1974043139",
+        "2114660707"
+    ]
+}

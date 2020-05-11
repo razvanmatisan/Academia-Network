@@ -1,0 +1,35 @@
+{
+    "id": "1568897184",
+    "title": "Effects of downtilting on RRM parameters",
+    "venue": "personal, indoor and mobile radio communications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Mario Garcia-Lozano",
+            "id": "2310403654",
+            "org": "Dept. of Signal Theor. & Commun., Polytech. Univ. of Catalonia, Barcelona, Spain"
+        },
+        {
+            "name": "Silvia Ruiz",
+            "id": "2125561550",
+            "org": "Dept. of Signal Theor. & Commun., Polytech. Univ. of Catalonia, Barcelona, Spain"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "UMTS Terrestrial Radio Access Network",
+        "Real-time computing",
+        "Quality of service",
+        "UMTS frequency bands",
+        "Network planning and design",
+        "Monte Carlo method",
+        "Network performance",
+        "Radio resource management",
+        "Computer science"
+    ],
+    "references": [
+        "1491721957",
+        "1548468935",
+        "2170634467"
+    ]
+}

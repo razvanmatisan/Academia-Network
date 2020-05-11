@@ -1,0 +1,39 @@
+{
+    "id": "1604774219",
+    "title": "There Exist Some omega -Powers of Any Borel Rank.",
+    "venue": "computer science logic",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Dominique Lecomte",
+            "id": "1831712015",
+            "org": "UMR 7586"
+        },
+        {
+            "name": "Olivier Finkel",
+            "id": "127789725",
+            "org": "LIP"
+        }
+    ],
+    "fields_of_study": [
+        "Borel equivalence relation",
+        "Ordinal number",
+        "Discrete mathematics",
+        "Borel set",
+        "Countable set",
+        "Combinatorics",
+        "Borel measure",
+        "Mathematics",
+        "Borel hierarchy",
+        "Finitary",
+        "Borel's lemma"
+    ],
+    "references": [
+        "1621948069",
+        "1673961727",
+        "1817451992",
+        "2066725205",
+        "2087879437",
+        "2112562798"
+    ]
+}

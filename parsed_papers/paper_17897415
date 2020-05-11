@@ -1,0 +1,45 @@
+{
+    "id": "17897415",
+    "title": "Framework for use of generalized force and torque data in transitional levels of autonomy",
+    "venue": "international conference on intelligent robotics and applications",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Kyle Schroeder",
+            "id": "2504916061",
+            "org": "University of Texas at Austin"
+        },
+        {
+            "name": "Mitch Pryor",
+            "id": "2167544361",
+            "org": "University of Texas at Austin"
+        }
+    ],
+    "fields_of_study": [
+        "Redundancy (engineering)",
+        "Control theory",
+        "Control engineering",
+        "Engineering",
+        "Torque",
+        "Structural element",
+        "Generalized forces",
+        "Fault detection and isolation",
+        "Operator (computer programming)",
+        "Control system",
+        "Artificial intelligence",
+        "Robotics"
+    ],
+    "references": [
+        "1768002807",
+        "2003305033",
+        "2017894281",
+        "2111946481",
+        "2121693658",
+        "2130821661",
+        "2147527743",
+        "2149085596",
+        "2162434188",
+        "2166042980",
+        "2169440744"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": "1775575026",
+    "title": "Experience in Ontology Engineering for a Multi-Agents Corporate Memory System.",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Fabien Gandon",
+            "id": "608938111",
+            "org": "French Institute for Research in Computer Science and Automation"
+        }
+    ],
+    "fields_of_study": [
+        "Information system",
+        "Ontology-based data integration",
+        "Process ontology",
+        "Suggested Upper Merged Ontology",
+        "Ontology (information science)",
+        "Ontology engineering",
+        "Upper ontology",
+        "Computer science",
+        "Knowledge management",
+        "Ontology Inference Layer"
+    ],
+    "references": [
+        "1496208045",
+        "2165242406"
+    ]
+}

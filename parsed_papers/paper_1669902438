@@ -1,0 +1,41 @@
+{
+    "id": "1669902438",
+    "title": "Efficient, Correct, Unsupervised Learning for Context-Sensitive Languages",
+    "venue": "conference on computational natural language learning",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Alexander Clark",
+            "id": "2586934785",
+            "org": "Royal Holloway, University of London#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Formal language",
+        "Semi-supervised learning",
+        "Artificial intelligence",
+        "Computer science",
+        "Syntax (programming languages)",
+        "Natural language",
+        "Correctness",
+        "Natural language processing",
+        "Grammar induction",
+        "Unsupervised learning",
+        "Syntax"
+    ],
+    "references": [
+        "1503729935",
+        "1515407551",
+        "1603299012",
+        "1607995248",
+        "1989445634",
+        "2001331793",
+        "2018908820",
+        "2036682528",
+        "2107229268",
+        "2126953647",
+        "2153568660",
+        "2163514362"
+    ]
+}

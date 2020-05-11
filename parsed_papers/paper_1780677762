@@ -1,0 +1,49 @@
+{
+    "id": "1780677762",
+    "title": "Network-aware data mapping on parallel molecular dynamics",
+    "venue": "international conference on parallel and distributed systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Yuichiro Hourai",
+            "id": "2491334354",
+            "org": "Computational Biol. Res. Center, National Inst. of Adv. Ind. Sci. & Technol., Japan"
+        },
+        {
+            "name": "Akira Nishida",
+            "id": "2284097925",
+            "org": "Dept. of Computer Science, University of Tokyo, CREST, Japan Science and Technology Agency#TAB#"
+        },
+        {
+            "name": "Yoshio Oyanagi",
+            "id": "289987209",
+            "org": "Dept. of Computer Science, University of Tokyo#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Grid computing",
+        "Grid network",
+        "Molecular dynamics",
+        "Data mapping",
+        "Computer science",
+        "Graph theory",
+        "Theoretical computer science",
+        "Network topology",
+        "Graph",
+        "Decomposition method (constraint satisfaction)"
+    ],
+    "references": [
+        "63468529",
+        "1538076361",
+        "1574934221",
+        "1966461475",
+        "1981893977",
+        "2005148804",
+        "2016358147",
+        "2032475056",
+        "2070232376",
+        "2157932751",
+        "2164675184"
+    ]
+}

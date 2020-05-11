@@ -1,0 +1,48 @@
+{
+    "id": "1565804541",
+    "title": "Combining computation with database access in biomolecular computing",
+    "venue": "International Conference on Applications of Databases",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Graham J. L. Kemp",
+            "id": "2170297553",
+            "org": "University of Aberdeen, King's College"
+        },
+        {
+            "name": "Zhnoan Jiao",
+            "id": "2501477854",
+            "org": "University of Aberdeen, King's College"
+        },
+        {
+            "name": "Peter M. D. Gray",
+            "id": "2124820237",
+            "org": "University of Aberdeen, King's College"
+        },
+        {
+            "name": "John E. Fothergill",
+            "id": "2148999344",
+            "org": "University of Aberdeen, Marischal College"
+        }
+    ],
+    "fields_of_study": [
+        "Query language",
+        "Architecture",
+        "Numbering",
+        "Data access",
+        "Database",
+        "Data model",
+        "Database design",
+        "Data control language",
+        "Data mining",
+        "Theoretical computer science",
+        "Data modeling",
+        "Computer science"
+    ],
+    "references": [
+        "1495964135",
+        "1501149053",
+        "1563024232",
+        "2289666534"
+    ]
+}

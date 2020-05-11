@@ -1,0 +1,31 @@
+{
+    "id": "1777042222",
+    "title": "ChinaGrid: making grid computing a reality",
+    "venue": "acm international conference on digital libraries",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Hai Jin",
+            "id": "2168417342",
+            "org": "Cluster and Grid Computing Lab, Huazhong University of Science and Technology, Wuhan, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Grid computing",
+        "Grid",
+        "Christian ministry",
+        "Distributed algorithm",
+        "Ubiquitous computing",
+        "Distributed computing",
+        "The Internet",
+        "Computer science"
+    ],
+    "references": [
+        "1528874954",
+        "1823606313",
+        "1942766326",
+        "1976265596",
+        "2111996486",
+        "2154010459"
+    ]
+}

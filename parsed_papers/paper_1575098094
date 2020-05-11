@@ -1,0 +1,27 @@
+{
+    "id": "1575098094",
+    "title": "Closure properties of deterministic Petri nets",
+    "venue": "symposium on theoretical aspects of computer science",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Elisabeth Pelz",
+            "id": "2085574534",
+            "org": "Universite Paris-Sud"
+        }
+    ],
+    "fields_of_study": [
+        "Reachability problem",
+        "Discrete mathematics",
+        "Computer science",
+        "Combinatorics",
+        "Stochastic Petri net",
+        "Closure (mathematics)",
+        "Petri net"
+    ],
+    "references": [
+        "1566381622",
+        "2066929101",
+        "2136662891"
+    ]
+}

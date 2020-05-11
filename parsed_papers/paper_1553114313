@@ -1,0 +1,47 @@
+{
+    "id": "1553114313",
+    "title": "A tool for semi-automatic document reengineering",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jens Drawehn",
+            "id": "2398634414",
+            "org": "University of Stuttgart"
+        },
+        {
+            "name": "Christoph Altenhofen",
+            "id": "2403162406",
+            "org": "University of Stuttgart"
+        },
+        {
+            "name": "Mirjana Stanisic-Petrovic",
+            "id": "2394954643",
+            "org": "University of Stuttgart"
+        },
+        {
+            "name": "Anette Weisbecker",
+            "id": "2578680317",
+            "org": "University of Stuttgart"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Publishing",
+        "Information management",
+        "Operations research",
+        "Information system",
+        "Image processing",
+        "Distributed computing",
+        "Business process reengineering",
+        "Technology management",
+        "Content analysis",
+        "Computer science",
+        "Text mining"
+    ],
+    "references": [
+        "160156963",
+        "1511342409",
+        "2146498343"
+    ]
+}

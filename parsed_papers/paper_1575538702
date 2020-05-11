@@ -1,0 +1,37 @@
+{
+    "id": "1575538702",
+    "title": "Index Calculus Attack for Hyperelliptic Curves of Small Genus",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Nicolas Theriault",
+            "id": "2343974999",
+            "org": "University of Toronto"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Calculus",
+        "Index calculus algorithm",
+        "Hyperelliptic curve",
+        "Square root",
+        "Jacobian matrix and determinant",
+        "Factor base",
+        "Hyperelliptic curve cryptography",
+        "Rho calculus",
+        "Mathematics",
+        "Discrete logarithm"
+    ],
+    "references": [
+        "1485481031",
+        "1502078890",
+        "1504295580",
+        "1965877647",
+        "2001149042",
+        "2047064623",
+        "2052917298",
+        "2071483197",
+        "2078353038"
+    ]
+}

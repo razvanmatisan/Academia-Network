@@ -1,0 +1,42 @@
+{
+    "id": "1510929816",
+    "title": "Scheduling Methods for Parallel Automated Theorem Proving",
+    "venue": "canadian conference on artificial intelligence",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Gernot Stenz",
+            "id": "2633889180",
+            "org": "Institut fur Informatik der Technischen Universitat Munchen"
+        },
+        {
+            "name": "Andreas Wolf",
+            "id": "2564047714",
+            "org": "NorCom Information Technology AG"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Gas meter prover",
+        "Experimental data",
+        "Model elimination",
+        "Parallel algorithm",
+        "Test data generation",
+        "Automated proof checking",
+        "Automated theorem proving",
+        "Computer science",
+        "Problem domain"
+    ],
+    "references": [
+        "1486743515",
+        "1503260840",
+        "1523376837",
+        "1554786964",
+        "1582978759",
+        "1599727345",
+        "1600246703",
+        "1644411414",
+        "2141236714",
+        "2701309930"
+    ]
+}

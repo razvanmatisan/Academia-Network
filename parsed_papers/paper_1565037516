@@ -1,0 +1,31 @@
+{
+    "id": "1565037516",
+    "title": "Using Theorem Proving for Numerical Analysis (Correctness Proof of an Automatic Differentiation Algorithm)",
+    "venue": "theorem proving in higher order logics",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Micaela Mayero",
+            "id": "2626366336",
+            "org": "Programming Logic Group Chalmers University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Automatic differentiation",
+        "Algorithm",
+        "Formal methods",
+        "Correctness",
+        "Discrete mathematics",
+        "Formal proof",
+        "Real analysis",
+        "Automated theorem proving",
+        "Formal verification",
+        "Fortran",
+        "Computer science"
+    ],
+    "references": [
+        "1534850143",
+        "1593666219",
+        "2157925461"
+    ]
+}

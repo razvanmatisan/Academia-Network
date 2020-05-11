@@ -1,0 +1,41 @@
+{
+    "id": "1535462860",
+    "title": "The Usability Approach in Software Process Improvement",
+    "venue": "european conference on software process improvement",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Peter Balazs Polgar",
+            "id": "1964433202",
+            "org": "Eotvos Lorand University"
+        },
+        {
+            "name": "Miklos Biro",
+            "id": "2786664544",
+            "org": "Dennis Gabor College"
+        }
+    ],
+    "fields_of_study": [
+        "Personal software process",
+        "Usability",
+        "Software Engineering Process Group",
+        "Component-based usability testing",
+        "Goal-Driven Software Development Process",
+        "Software construction",
+        "Empirical process (process control model)",
+        "Package development process",
+        "Systems engineering",
+        "Computer science"
+    ],
+    "references": [
+        "113012212",
+        "1517107240",
+        "1963978020",
+        "2005125343",
+        "2010780583",
+        "2087041572",
+        "2124614450",
+        "2127522296",
+        "2135295137"
+    ]
+}

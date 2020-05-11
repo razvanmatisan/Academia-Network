@@ -1,0 +1,42 @@
+{
+    "id": "1550481629",
+    "title": "A reputation-based grid information service",
+    "venue": "international conference on computational science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jemal H. Abawajy",
+            "id": "2059284610",
+            "org": "School of Engineering & Information Technology, Deakin University, Geelong, Victoria, Australia#TAB#"
+        },
+        {
+            "name": "Andrzej M. Goscinski",
+            "id": "227748416",
+            "org": "School of Engineering & Information Technology, Deakin University, Geelong, Victoria, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Grid computing",
+        "Information system",
+        "Knowledge management",
+        "Service-orientation",
+        "Service provider",
+        "Reputation",
+        "Information management",
+        "Semantic grid",
+        "Web service",
+        "Computer security",
+        "Distributed computing",
+        "Computer science"
+    ],
+    "references": [
+        "1498495987",
+        "1555993967",
+        "1992178984",
+        "2076797811",
+        "2104538152",
+        "2128496121",
+        "2142590813",
+        "2151784270"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "174508608",
+    "title": "Reducing path inflation in chordal graphs with tree-based label assignment through the exploration of shortcuts",
+    "venue": "international conference on ultra modern telecommunications",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Przemyslaw Bereski",
+            "id": "2713166399",
+            "org": "Department of Telecommunications, AGH University of Science and Technology, Krakow, Poland"
+        },
+        {
+            "name": "Piotr Pacyna",
+            "id": "68587093",
+            "org": "Department of Telecommunications, AGH University of Science and Technology, Krakow, Poland"
+        }
+    ],
+    "fields_of_study": [
+        "Link-state routing protocol",
+        "Multipath routing",
+        "Static routing",
+        "Wireless Routing Protocol",
+        "Equal-cost multi-path routing",
+        "Dynamic Source Routing",
+        "DSRFLOW",
+        "Distributed computing",
+        "Mathematics",
+        "Destination-Sequenced Distance Vector routing"
+    ],
+    "references": [
+        "1587867115",
+        "2007575140",
+        "2020965855",
+        "2057994027",
+        "2077824753",
+        "2115833060",
+        "2120176025",
+        "2155659292"
+    ]
+}

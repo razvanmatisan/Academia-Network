@@ -1,0 +1,31 @@
+{
+    "id": "1586444875",
+    "title": "Filters, Wrappers and a Boosting-Based Hybrid for Feature Selection",
+    "venue": "international conference on machine learning",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Sanmay Das",
+            "id": "2132434690",
+            "org": "Harvard University"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Boosting (machine learning)",
+        "Feature selection",
+        "Hybrid algorithm",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1553244859",
+        "1619226191",
+        "1849729440",
+        "1906182963",
+        "2118009745",
+        "2124436456",
+        "2149706766"
+    ]
+}

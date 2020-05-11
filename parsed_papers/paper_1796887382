@@ -1,0 +1,32 @@
+{
+    "id": "1796887382",
+    "title": "Uncertainty reasoning for the world wide web: report on the URW3-XG incubator group",
+    "venue": "uncertainty reasoning for the semantic web",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Kenneth J. Laskey",
+            "id": "2262484765",
+            "org": "MITRE Corporation, McLean, VA#TAB#"
+        },
+        {
+            "name": "Kathryn Blackmond Laskey",
+            "id": "2009108647",
+            "org": "Department of Systems Engineering and Operations Research, George Mason University, Fairfax, VA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Information exchange",
+        "Web intelligence",
+        "Web standards",
+        "Incubator",
+        "Data mining",
+        "World Wide Web",
+        "Computer science",
+        "Web engineering"
+    ],
+    "references": [
+        "1727987454",
+        "2148962625"
+    ]
+}

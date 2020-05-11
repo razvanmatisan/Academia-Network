@@ -1,0 +1,43 @@
+{
+    "id": "1579190539",
+    "title": "Run-Time Support for Adaptive Load Balancing",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Milind A. Bhandarkar",
+            "id": "1518194044",
+            "org": "University of Illinois at Urbana-Champaign"
+        },
+        {
+            "name": "Robert K. Brunner",
+            "id": "2128090577",
+            "org": "University of Illinois at Urbana-Champaign"
+        },
+        {
+            "name": "Laxmikant V. Kale",
+            "id": "2115450241",
+            "org": "University of Illinois at Urbana-Champaign"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Persistence (computer science)",
+        "Runtime system",
+        "Network Load Balancing Services",
+        "Parallel computing",
+        "Interoperability",
+        "Computer science",
+        "Virtual Processor",
+        "Real-time computing",
+        "Load balancing (computing)",
+        "Community structure"
+    ],
+    "references": [
+        "22448193",
+        "1514554472",
+        "1582954727",
+        "2070232376",
+        "2620419348"
+    ]
+}

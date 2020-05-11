@@ -1,0 +1,33 @@
+{
+    "id": "177650123",
+    "title": "An analysis of consecutively bounded depth-first search with applications in automated deduction",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Mark E. Stickel",
+            "id": "2022442184",
+            "org": "Artificial Intelligence Center, SRI International, Menlo Park, California#TAB#"
+        },
+        {
+            "name": "W. Mabry Tyson",
+            "id": "2165476134",
+            "org": "Artificial Intelligence Center, SRI International, Menlo Park, California#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Discrete mathematics",
+        "Machine learning",
+        "Artificial intelligence",
+        "Breadth-first search",
+        "Bounded function",
+        "Computer science",
+        "Theoretical computer science",
+        "Automated theorem proving"
+    ],
+    "references": [
+        "2150470619",
+        "2152475379"
+    ]
+}

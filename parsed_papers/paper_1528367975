@@ -1,0 +1,30 @@
+{
+    "id": "1528367975",
+    "title": "Real-Time UML",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Bruce Powel Douglass",
+            "id": "2120166948",
+            "org": "I-Logix"
+        }
+    ],
+    "fields_of_study": [
+        "Model-driven architecture",
+        "Software engineering",
+        "Embedded system",
+        "Object Constraint Language",
+        "Metamodeling",
+        "Class diagram",
+        "Distributed computing",
+        "UML tool",
+        "Shlaer-Mellor method",
+        "Systems Modeling Language",
+        "Applications of UML",
+        "Computer science"
+    ],
+    "references": [
+        "2130521512"
+    ]
+}

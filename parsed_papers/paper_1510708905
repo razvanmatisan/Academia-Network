@@ -1,0 +1,27 @@
+{
+    "id": "1510708905",
+    "title": "IEC 61499 Architecture, Engineering Methodologies and Software Tools",
+    "venue": "international conference on information technology",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "James H. Christensen",
+            "id": "2270061757",
+            "org": "Rockwell Automation Advanced Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Resource-oriented architecture",
+        "Computer engineering",
+        "Software requirements",
+        "Software construction",
+        "Software peer review",
+        "Software system",
+        "Software engineering",
+        "Software development",
+        "Social software engineering",
+        "Software architecture",
+        "Computer science"
+    ],
+    "references": []
+}

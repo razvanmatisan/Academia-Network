@@ -1,0 +1,47 @@
+{
+    "id": "1791321002",
+    "title": "Consistency in dynamic reconfiguration",
+    "venue": "cooperative distributed systems",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Peter H. Feiler",
+            "id": "2252949692",
+            "org": "Software Eng. Inst., Carnegie Mellon Univ., Pittsburgh, PA, USA"
+        },
+        {
+            "name": "Jun Li",
+            "id": "2643380068",
+            "org": "Software Engineering Institute|Electrical and Computer Engineering|Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Redundancy (engineering)",
+        "Configuration management",
+        "Reliability engineering",
+        "Fault tolerance",
+        "Upgrade",
+        "Distributed computing",
+        "Control reconfiguration",
+        "Static timing analysis",
+        "Control system",
+        "Real-time Control System",
+        "Computer science"
+    ],
+    "references": [
+        "1550599698",
+        "1985136467",
+        "2011779753",
+        "2077318760",
+        "2082970543",
+        "2096973649",
+        "2111164171",
+        "2118716533",
+        "2118898228",
+        "2129887101",
+        "2140058453",
+        "2148238464",
+        "2164299558"
+    ]
+}

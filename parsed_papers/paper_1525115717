@@ -1,0 +1,39 @@
+{
+    "id": "1525115717",
+    "title": "Compiling Process Algebraic Descriptions into Reconfigurable Logic",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Oliver Diessel",
+            "id": "2038893388",
+            "org": "University of South Australia"
+        },
+        {
+            "name": "George Milne",
+            "id": "2050872675",
+            "org": "University of South Australia"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Computation",
+        "Computer science",
+        "Boolean algebra",
+        "Parallel computing",
+        "Reconfigurable computing",
+        "Concurrency",
+        "Non-lock concurrency control",
+        "Field-programmable gate array",
+        "High-level programming language",
+        "Programmer",
+        "Computer architecture"
+    ],
+    "references": [
+        "1503973138",
+        "1530674317",
+        "2036945707",
+        "2085912345",
+        "2110425399"
+    ]
+}

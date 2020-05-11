@@ -1,0 +1,43 @@
+{
+    "id": "1550263195",
+    "title": "Producing compliant interactions: conformance, coverage, and interoperability",
+    "venue": "declarative agent languages and technologies",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Amit K. Chopra",
+            "id": "2126611678",
+            "org": "North Carolina State University#TAB#"
+        },
+        {
+            "name": "Munindar P. Singh",
+            "id": "2306655439",
+            "org": "North Carolina State University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computation",
+        "Interoperability",
+        "Semantics",
+        "Natural language processing",
+        "Artificial intelligence",
+        "Open system (systems theory)",
+        "Computer science",
+        "Database",
+        "Transition system",
+        "Distinctive feature",
+        "Declarative programming",
+        "Distributed computing",
+        "Orthogonality"
+    ],
+    "references": [
+        "1485387379",
+        "1591644483",
+        "1969295812",
+        "2005405927",
+        "2035702632",
+        "2072046078",
+        "2111365380",
+        "2160614390"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1600722479",
+    "title": "Autonomy and Decentralization in Active Networks: A Case Study for Mobile Agents",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Ingo Busse",
+            "id": "1224011236",
+            "org": "GMD FOKUS"
+        },
+        {
+            "name": "Stefan Covaci",
+            "id": "301507382",
+            "org": "GMD FOKUS"
+        },
+        {
+            "name": "Andre Leichsenring",
+            "id": "2415033530",
+            "org": "GMD FOKUS"
+        }
+    ],
+    "fields_of_study": [
+        "Active networking",
+        "Network architecture",
+        "Mobile agent",
+        "Node (networking)",
+        "Intelligent agent",
+        "Distributed computing",
+        "Architecture",
+        "Intelligent Network",
+        "Standardization",
+        "Computer science"
+    ],
+    "references": [
+        "1902085364",
+        "1957448688",
+        "2096387330"
+    ]
+}

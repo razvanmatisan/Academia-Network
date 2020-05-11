@@ -1,0 +1,30 @@
+{
+    "id": "1608239779",
+    "title": "Improving Mizar Texts with Properties and Requirements",
+    "venue": "mathematical knowledge management",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Adam Naumowicz",
+            "id": "202368633",
+            "org": "University of Bialystok"
+        },
+        {
+            "name": "Czeslaw Bylinski",
+            "id": "2051806598",
+            "org": "University of Bialystok"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Knowledge engineering",
+        "Algorithm",
+        "Mizar system",
+        "Computer science",
+        "Automation",
+        "Symbolic computation"
+    ],
+    "references": [
+        "1546740898"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "179192423",
+    "title": "Modeling Business Processes with BPEL4WS.",
+    "venue": "Modellierung",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Frank Leymann",
+            "id": "2127483189",
+            "org": "IBM Software Group"
+        },
+        {
+            "name": "Dieter Roller",
+            "id": "2603479801",
+            "org": "IBM Software Group"
+        }
+    ],
+    "fields_of_study": [
+        "Business process discovery",
+        "Business process modeling",
+        "Business Process Model and Notation",
+        "Process modeling",
+        "Business architecture",
+        "Process management",
+        "Business rule",
+        "Artifact-centric business process model",
+        "Function model",
+        "Computer science"
+    ],
+    "references": [
+        "1506229097",
+        "1516236849",
+        "1556531117",
+        "1966840450"
+    ]
+}

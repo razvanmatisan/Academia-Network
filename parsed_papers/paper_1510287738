@@ -1,0 +1,40 @@
+{
+    "id": "1510287738",
+    "title": "Grammar encoding in DNA-like secret sharing infrastructure",
+    "venue": "AST/UCMA/ISA/ACN'10 Proceedings of the 2010 international conference on Advances in computer science and information technology",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Marek R. Ogiela",
+            "id": "1510273344",
+            "org": "AGH University of Science and Technology, Krakow, Poland#TAB#"
+        },
+        {
+            "name": "Urszula Ogiela",
+            "id": "41871587",
+            "org": "AGH University of Science and Technology, Krakow, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Verifiable secret sharing",
+        "Key distribution",
+        "Homomorphic secret sharing",
+        "Shamir's Secret Sharing",
+        "Cryptographic protocol",
+        "Shared secret",
+        "Secure multi-party computation",
+        "Distributed computing",
+        "Theoretical computer science",
+        "Computer science",
+        "Secret sharing"
+    ],
+    "references": [
+        "72140207",
+        "1554401715",
+        "1989428224",
+        "2091433360",
+        "2141420453",
+        "2143656893",
+        "2150264441"
+    ]
+}

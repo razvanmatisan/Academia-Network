@@ -1,0 +1,40 @@
+{
+    "id": "1522452719",
+    "title": "Investigating Multipoidy's Niche",
+    "venue": "artificial intelligence and the simulation of behaviour",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "David Corne",
+            "id": "703089545",
+            "org": "University of Reading"
+        },
+        {
+            "name": "Emma Collingwood",
+            "id": "2154534504",
+            "org": "University of Edinburgh"
+        },
+        {
+            "name": "Peter Ross",
+            "id": "2670688633",
+            "org": "University of Edinburgh"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Fitness landscape",
+        "Machine learning",
+        "Set cover problem",
+        "Genetic algorithm",
+        "Knapsack problem",
+        "Locus (genetics)",
+        "Gene",
+        "Computer science",
+        "Genotype"
+    ],
+    "references": [
+        "1506108263",
+        "1546364988",
+        "1582220695"
+    ]
+}

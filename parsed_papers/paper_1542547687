@@ -1,0 +1,30 @@
+{
+    "id": "1542547687",
+    "title": "Scientific Modeling of Technology-Mediated Collaborative Learning Processes",
+    "venue": "international conference on computers in education",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Yau-yuen Yeung",
+            "id": "2715750588",
+            "org": "Department of Mathematics, Science, Social Sciences and Technology, Hong Kong Institute of Education, CHINA HONG KONG, yyyeung@ied.edu.hk#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Ising model",
+        "Computer science",
+        "Collaborative learning",
+        "Educational technology",
+        "Virtual learning environment",
+        "Intelligent tutoring system",
+        "Scientific modelling",
+        "Monte Carlo method"
+    ],
+    "references": [
+        "1513324593",
+        "1577957216",
+        "2078696953",
+        "2139540958"
+    ]
+}

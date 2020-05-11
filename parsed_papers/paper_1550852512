@@ -1,0 +1,37 @@
+{
+    "id": "1550852512",
+    "title": "Comparison of Four Initialization Techniques for the K -Medians Clustering Algorithm",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Alfons Juan",
+            "id": "2164133112",
+            "org": "Universitat Politecnica de Valencia"
+        },
+        {
+            "name": "Enrique Vidal",
+            "id": "2151398381",
+            "org": "Universitat Politecnica de Valencia"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Greedy algorithm",
+        "Initialization",
+        "Metric space",
+        "Sampling (statistics)",
+        "k-medians clustering",
+        "Machine learning",
+        "k-means clustering",
+        "Algorithm",
+        "Exploratory data analysis",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "102579310",
+        "1971784203",
+        "2032348319"
+    ]
+}

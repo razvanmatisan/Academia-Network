@@ -1,0 +1,39 @@
+{
+    "id": "1515150570",
+    "title": "Unification in an Extensional Lambda Calculus with Ordered Function Sorts and Constant Overloading",
+    "venue": "conference on automated deduction",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Patricia Johann",
+            "id": "2133427600",
+            "org": "Universitat des Saarlandes"
+        },
+        {
+            "name": "Michael Kohlhase",
+            "id": "59090315",
+            "org": "Universitat des Saarlandes"
+        }
+    ],
+    "fields_of_study": [
+        "Lambda cube",
+        "Discrete mathematics",
+        "Church encoding",
+        "Algorithm",
+        "Simply typed lambda calculus",
+        "Typed lambda calculus",
+        "Time-scale calculus",
+        "Binary lambda calculus",
+        "System F",
+        "Pure type system",
+        "Mathematics"
+    ],
+    "references": [
+        "1481223853",
+        "1488200021",
+        "2034676877",
+        "2035346801",
+        "2171425038",
+        "2173184982"
+    ]
+}

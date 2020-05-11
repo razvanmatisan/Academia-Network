@@ -1,0 +1,44 @@
+{
+    "id": "1565880268",
+    "title": "Model Checking of Persistent Petri Nets",
+    "venue": "computer science logic",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Eike Best",
+            "id": "2274705173",
+            "org": "Universitat Hildesheim"
+        },
+        {
+            "name": "Javier Esparza",
+            "id": "2123449190",
+            "org": "Universitat Hildesheim"
+        }
+    ],
+    "fields_of_study": [
+        "Transition system",
+        "Discrete mathematics",
+        "Process architecture",
+        "Time complexity",
+        "Stochastic Petri net",
+        "Model checking",
+        "Modal logic",
+        "Petri net",
+        "Operator (computer programming)",
+        "Computer science"
+    ],
+    "references": [
+        "1540501475",
+        "1564599623",
+        "1966992415",
+        "1982900911",
+        "1993742654",
+        "2016300863",
+        "2022479543",
+        "2039812824",
+        "2105180288",
+        "2113355185",
+        "2116831134",
+        "2140431743"
+    ]
+}

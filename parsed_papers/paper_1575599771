@@ -1,0 +1,32 @@
+{
+    "id": "1575599771",
+    "title": "Colour Image Analysis in 3D-Polar Coordinates",
+    "venue": "joint pattern recognition symposium",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Allan Hanbury",
+            "id": "2168901591",
+            "org": "Vienna University of Technology"
+        },
+        {
+            "name": "Jean Serra",
+            "id": "2136642730",
+            "org": "Centre de Morphologie Mathematique"
+        }
+    ],
+    "fields_of_study": [
+        "Polar coordinate system",
+        "HSL and HSV",
+        "Rendering (computer graphics)",
+        "Image processing",
+        "RGB color model",
+        "Computer vision",
+        "Artificial intelligence",
+        "Mathematics"
+    ],
+    "references": [
+        "2034076462",
+        "2086087329"
+    ]
+}

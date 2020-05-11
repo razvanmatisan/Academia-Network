@@ -1,0 +1,36 @@
+{
+    "id": "181192058",
+    "title": "Numeric reasoning with relative orders of magnitude",
+    "venue": "national conference on artificial intelligence",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Philippe Dague",
+            "id": "2194805665",
+            "org": "L.I.P.N., Universite Paris Nord, Villetaneuse, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Rational function",
+        "Mathematical optimization",
+        "Formal system",
+        "Maxima and minima",
+        "Machine learning",
+        "Artificial intelligence",
+        "Interval propagation",
+        "Orders of magnitude (numbers)",
+        "Partial derivative",
+        "Computer science",
+        "Symbolic computation"
+    ],
+    "references": [
+        "17092603",
+        "88765238",
+        "1548069679",
+        "1548650523",
+        "1930090907",
+        "2053190303",
+        "2071648456",
+        "2177592783"
+    ]
+}

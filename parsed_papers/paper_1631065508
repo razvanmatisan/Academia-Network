@@ -1,0 +1,35 @@
+{
+    "id": "1631065508",
+    "title": "Circle and sphere blending with conformal geometric algebra",
+    "venue": "arXiv: Computational Geometry",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Chris Doran",
+            "id": "2305837038",
+            "org": "University of Cambridge"
+        }
+    ],
+    "fields_of_study": [
+        "Conformal geometric algebra",
+        "Primary field",
+        "Geometry",
+        "Combinatorics",
+        "Projective geometry",
+        "Conformal geometry",
+        "Interpolation",
+        "Mathematics",
+        "Geometric algebra",
+        "Conformal field theory",
+        "Conformal map",
+        "Topology"
+    ],
+    "references": [
+        "1545545446",
+        "1641937208",
+        "1977565470",
+        "2002077937",
+        "2005999035",
+        "2061564037"
+    ]
+}

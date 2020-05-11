@@ -1,0 +1,49 @@
+{
+    "id": "115448565",
+    "title": "A learning-based term-weighting approach for information retrieval",
+    "venue": "national conference on artificial intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "GuangCan Liu",
+            "id": "2663061593",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai, China#TAB#"
+        },
+        {
+            "name": "Yong Yu",
+            "id": "2119244895",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai, China#TAB#"
+        },
+        {
+            "name": "Xing Zhu",
+            "id": "2700060460",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Homogeneous",
+        "Information retrieval",
+        "Statistical inference",
+        "Numerical linear algebra",
+        "Machine learning",
+        "Vector space model",
+        "Term Discrimination",
+        "Computer science",
+        "tf-idf",
+        "Weighting",
+        "Pattern recognition"
+    ],
+    "references": [
+        "187060457",
+        "1593045043",
+        "1660390307",
+        "1969733464",
+        "1978394996",
+        "2019976352",
+        "2078875869",
+        "2093390569",
+        "2135682088",
+        "2136542423"
+    ]
+}

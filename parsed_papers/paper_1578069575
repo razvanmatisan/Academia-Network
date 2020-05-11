@@ -1,0 +1,38 @@
+{
+    "id": "1578069575",
+    "title": "Computation of watersheds based on parallel graph algorithms",
+    "venue": "international symposium on memory management",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Arnold Meijster",
+            "id": "1088542956",
+            "org": "University of Groningen"
+        },
+        {
+            "name": "Jos B. T. M. Roerdink",
+            "id": "323429155",
+            "org": "University of Groningen"
+        }
+    ],
+    "fields_of_study": [
+        "Suurballe's algorithm",
+        "Yen's algorithm",
+        "Analysis of parallel algorithms",
+        "K shortest path routing",
+        "Parallel algorithm",
+        "Cost efficiency",
+        "Algorithm",
+        "Theoretical computer science",
+        "Distributed computing",
+        "Shortest Path Faster Algorithm",
+        "Computer science",
+        "Pathfinding"
+    ],
+    "references": [
+        "1510191041",
+        "1596012320",
+        "2109372408",
+        "2124260943"
+    ]
+}

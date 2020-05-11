@@ -1,0 +1,53 @@
+{
+    "id": "1529527701",
+    "title": "A Formal Model for Process Context Learning",
+    "venue": "business process management",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Johny Ghattas",
+            "id": "132578636",
+            "org": "University of Haifa"
+        },
+        {
+            "name": "Pnina Soffer",
+            "id": "1955757010",
+            "org": "University of Haifa"
+        },
+        {
+            "name": "Mor Peleg",
+            "id": "2071027121",
+            "org": "University of Haifa"
+        },
+        {
+            "name": "Mor Peleg",
+            "id": "2071027121",
+            "org": "University of Haifa"
+        }
+    ],
+    "fields_of_study": [
+        "Business process",
+        "Computer science",
+        "Systems engineering",
+        "Business process discovery",
+        "Process management",
+        "Business Process Model and Notation",
+        "Process mining",
+        "Process modeling",
+        "Business process modeling",
+        "Business process management",
+        "Artifact-centric business process model"
+    ],
+    "references": [
+        "1519419219",
+        "1561988463",
+        "1563708929",
+        "1981282887",
+        "2065222846",
+        "2071582783",
+        "2126385963",
+        "2138869666",
+        "2162096858",
+        "2319216046"
+    ]
+}

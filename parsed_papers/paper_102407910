@@ -1,0 +1,44 @@
+{
+    "id": "102407910",
+    "title": "PROMS: A Web-based Tool for Searching in Polyphonic Music.",
+    "venue": "international symposium/conference on music information retrieval",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Michael Clausen",
+            "id": "2189960595",
+            "org": "Institut fur Informatik | Universitat Bonn"
+        },
+        {
+            "name": "R. Engelbrecht",
+            "id": "2127070559",
+            "org": "Institut fur Informatik | Universitat Bonn"
+        },
+        {
+            "name": "Dirk Meyer",
+            "id": "2478338732",
+            "org": "Institut fur Informatik | Universitat Bonn"
+        },
+        {
+            "name": "J. Schmitz",
+            "id": "2718618458",
+            "org": "Institut fur Informatik | Universitat Bonn"
+        }
+    ],
+    "fields_of_study": [
+        "Melody",
+        "Computer science",
+        "Pop music automation",
+        "Computer music",
+        "Speech recognition",
+        "MIDI",
+        "Information retrieval",
+        "Approximate string matching",
+        "Search engine indexing",
+        "Polyphony",
+        "Data retrieval"
+    ],
+    "references": [
+        "22299975"
+    ]
+}

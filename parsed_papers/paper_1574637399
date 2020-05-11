@@ -1,0 +1,49 @@
+{
+    "id": "1574637399",
+    "title": "Secure Receipt-Free Sealed-Bid Electronic Auction",
+    "venue": "international conference on contemporary computing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jaydeep Howlader",
+            "id": "2059528683",
+            "org": "National Institute of Technology, Durgapur, India"
+        },
+        {
+            "name": "Anushma Ghosh",
+            "id": "2155635648",
+            "org": "Microsoft India (R&D) Pvt. Ltd."
+        },
+        {
+            "name": "Tandra Pal",
+            "id": "2298445635",
+            "org": "National Institute of Technology, Durgapur, India"
+        }
+    ],
+    "fields_of_study": [
+        "Unique bid auction",
+        "Bid shading",
+        "Microeconomics",
+        "Artificial intelligence",
+        "English auction",
+        "Eauction",
+        "Vickrey-Clarke-Groves auction",
+        "Proxy bid",
+        "Generalized second-price auction",
+        "Computer science",
+        "Pattern recognition",
+        "Vickrey auction"
+    ],
+    "references": [
+        "1509765132",
+        "1557366654",
+        "1572493548",
+        "1585638454",
+        "1750426656",
+        "2103647628",
+        "2103761955",
+        "2141420453",
+        "2145965403",
+        "2153193245"
+    ]
+}

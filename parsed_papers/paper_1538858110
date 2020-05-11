@@ -1,0 +1,43 @@
+{
+    "id": "1538858110",
+    "title": "Fuzzy Lattice Reasoning (FLR) Classification Using Similarity Measures",
+    "venue": "Computational Intelligence Based on Lattice Theory",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Al Cripps",
+            "id": "2080994989",
+            "org": "Middle Tennessee State University"
+        },
+        {
+            "name": "Nghiep Nguyen",
+            "id": "2166748886",
+            "org": "Middle Tennessee State University"
+        }
+    ],
+    "fields_of_study": [
+        "Similarity measure",
+        "Differential evolution",
+        "Evolutionary algorithm",
+        "Genetic algorithm",
+        "Fuzzy logic",
+        "Tabu search",
+        "Cosine similarity",
+        "Machine learning",
+        "Particle swarm optimization",
+        "Mathematics",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "172484326",
+        "1534121092",
+        "2010144953",
+        "2113466993",
+        "2120270028",
+        "2125055259",
+        "2145320441",
+        "2148603752",
+        "2164421775"
+    ]
+}

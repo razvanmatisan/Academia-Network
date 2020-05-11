@@ -1,0 +1,35 @@
+{
+    "id": "1535739239",
+    "title": "Support for Mobile Software Processes in CAGIS",
+    "venue": "european workshop on software process technology",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Alf Inge Wang",
+            "id": "2145919591",
+            "org": "Norwegian University of Science and Technology (NTNU)"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Distributed computing",
+        "Software development process",
+        "Knowledge engineering",
+        "Software development",
+        "Workspace",
+        "Process modeling",
+        "Software",
+        "Software agent",
+        "Information technology",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "36497423",
+        "175564437",
+        "1544242085",
+        "2049433633",
+        "2054750126",
+        "2122282209"
+    ]
+}

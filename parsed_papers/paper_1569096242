@@ -1,0 +1,29 @@
+{
+    "id": "1569096242",
+    "title": "Minimization of Sequential Transducers",
+    "venue": "combinatorial pattern matching",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Mehryar Mohri",
+            "id": "2150814284",
+            "org": "Universite Marne la Vallee"
+        }
+    ],
+    "fields_of_study": [
+        "Minification",
+        "Vertex (geometry)",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Subsequential limit",
+        "Equivalence class",
+        "Transducer",
+        "Computer science",
+        "Prefix"
+    ],
+    "references": [
+        "1505482284",
+        "1655990431",
+        "2167954650"
+    ]
+}

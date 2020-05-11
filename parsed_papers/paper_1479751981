@@ -1,0 +1,36 @@
+{
+    "id": "1479751981",
+    "title": "e-Procurement Using Goal Programming",
+    "venue": "international conference on electronic commerce",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "S. Kameshwaran",
+            "id": "2780227467",
+            "org": "Indian Institute of Science"
+        },
+        {
+            "name": "Y. Narahari",
+            "id": "1995827453",
+            "org": "Indian Institute of Science"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Marketing",
+        "Management science",
+        "Constrained optimization",
+        "Business process",
+        "E-procurement",
+        "Reverse auction",
+        "Goal programming",
+        "Operations research",
+        "Purchasing",
+        "Optimization problem",
+        "Business rule"
+    ],
+    "references": [
+        "1602725516",
+        "2105092702"
+    ]
+}

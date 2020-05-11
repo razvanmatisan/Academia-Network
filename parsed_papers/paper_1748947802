@@ -1,0 +1,32 @@
+{
+    "id": "1748947802",
+    "title": "Self-similarity attacks on block ciphers and application to keeloq",
+    "venue": "Cryptography and Security",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Nicolas T. Courtois",
+            "id": "342533692",
+            "org": "University College London, London, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Pre-play attack",
+        "Chosen-plaintext attack",
+        "Interpolation attack",
+        "KeeLoq",
+        "Algorithm",
+        "XSL attack",
+        "Slide attack",
+        "Chosen-ciphertext attack",
+        "Brute-force attack",
+        "Computer science"
+    ],
+    "references": [
+        "1504105902",
+        "1870923733",
+        "2132161909",
+        "2407796027"
+    ]
+}

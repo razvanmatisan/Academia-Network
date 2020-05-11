@@ -1,0 +1,39 @@
+{
+    "id": "1488831927",
+    "title": "Cicumscribing Features and Fluents",
+    "venue": "ICTL '94 Proceedings of the First International Conference on Temporal Logic",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Patrick Doherty",
+            "id": "2118756264",
+            "org": "Department of Computer and Information Science LinkSping University"
+        },
+        {
+            "name": "Witold Lukaszewicz",
+            "id": "2115677927",
+            "org": "Warsaw University Institute of Informatics 00-913 Warsaw 59 Poland 00-913 Warsaw 59 Poland"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Rotation formalisms in three dimensions",
+        "Axiom",
+        "Dynamical systems theory",
+        "Syntax",
+        "Preferential entailment",
+        "Atomic formula",
+        "Circumscription",
+        "Intelligent agent",
+        "Theoretical computer science",
+        "Computer science"
+    ],
+    "references": [
+        "12750868",
+        "18602944",
+        "138414955",
+        "140414481",
+        "1905252874",
+        "2132950849"
+    ]
+}

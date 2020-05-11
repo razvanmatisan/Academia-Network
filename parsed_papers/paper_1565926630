@@ -1,0 +1,44 @@
+{
+    "id": "1565926630",
+    "title": "Hidden Layer Authentication Using Smart Card for WEP Based WLANs",
+    "venue": "information security",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Giannis Pikrammenos",
+            "id": "2055761695",
+            "org": "National Technical University of Athens"
+        },
+        {
+            "name": "Ghassan Sarkis",
+            "id": "2175954059",
+            "org": "National Technical University of Athens"
+        },
+        {
+            "name": "John Soldatos",
+            "id": "269519735",
+            "org": "National Technical University of Athens"
+        },
+        {
+            "name": "Vasilios Anagnostopoulos",
+            "id": "1907819790",
+            "org": "National Technical University of Athens"
+        }
+    ],
+    "fields_of_study": [
+        "Smart card",
+        "Encryption",
+        "MULTOS",
+        "Lightweight Extensible Authentication Protocol",
+        "Smart card application protocol data unit",
+        "OpenPGP card",
+        "Computer security",
+        "Contactless smart card",
+        "Authentication",
+        "Computer science",
+        "Computer network"
+    ],
+    "references": [
+        "1556597491"
+    ]
+}

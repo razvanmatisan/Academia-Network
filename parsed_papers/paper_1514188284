@@ -1,0 +1,38 @@
+{
+    "id": "1514188284",
+    "title": "The Latent Bernoulli-Gauss Model for Data Analysis",
+    "venue": "arXiv: Learning",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Amnon Shashua",
+            "id": "130468041",
+            "org": "School of Computer Science and Engineering|Hebrew University of Jerusalem"
+        },
+        {
+            "name": "Gabi Pragier",
+            "id": "2547617590",
+            "org": "School of Computer Science and Engineering|Hebrew University of Jerusalem"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Machine learning",
+        "Cluster analysis",
+        "Mathematics",
+        "Latent variable model",
+        "Artificial intelligence",
+        "Mixture model",
+        "Bernoulli's principle",
+        "Collaborative filtering",
+        "Feature selection",
+        "Probabilistic latent semantic analysis",
+        "Latent class model",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1612003148",
+        "1880262756",
+        "2110325612"
+    ]
+}

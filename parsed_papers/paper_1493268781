@@ -1,0 +1,33 @@
+{
+    "id": "1493268781",
+    "title": "Program verification, defeasible reasoning, and two views of computer science",
+    "venue": "Minds and Machines",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Timothy R. Colburn",
+            "id": "2105877065",
+            "org": "University of Minnesota"
+        }
+    ],
+    "fields_of_study": [
+        "On the Cruelty of Really Teaching Computer Science",
+        "Cognitive science",
+        "Program analysis",
+        "Scientific method",
+        "Philosophy of computer science",
+        "Functional verification",
+        "Computer science",
+        "Program derivation",
+        "Computer programming",
+        "Empirical evidence"
+    ],
+    "references": [
+        "1544020076",
+        "1705210632",
+        "1991754511",
+        "1994879909",
+        "2038754076",
+        "2111706174"
+    ]
+}

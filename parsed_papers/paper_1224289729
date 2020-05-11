@@ -1,0 +1,44 @@
+{
+    "id": "1224289729",
+    "title": "Runtime verification for the web: a tutorial introduction to interface contracts in web applications",
+    "venue": "runtime verification",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Sylvain Halle",
+            "id": "2142362645",
+            "org": "Universite du Quebec a Chicoutimi, Canada#TAB#"
+        },
+        {
+            "name": "Roger Villemaire",
+            "id": "269043658",
+            "org": "Universite du Quebec a Montreal, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Theoretical computer science",
+        "Web API",
+        "Web modeling",
+        "Database",
+        "Computer science",
+        "Web application",
+        "Linear temporal logic",
+        "Runtime verification"
+    ],
+    "references": [
+        "1489021242",
+        "1515891658",
+        "1536000481",
+        "1607782211",
+        "1964192497",
+        "2007146960",
+        "2087494106",
+        "2101023018",
+        "2107555181",
+        "2153691835",
+        "2157154136",
+        "2159543898",
+        "2163682143"
+    ]
+}

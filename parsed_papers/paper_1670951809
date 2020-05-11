@@ -1,0 +1,47 @@
+{
+    "id": "1670951809",
+    "title": "Expectations and Reality: Why an Enterprise Software System Did Not Work as Planned",
+    "venue": "arXiv: Software Engineering",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "David Greenwood",
+            "id": "2228420893",
+            "org": "University of St Andrews"
+        },
+        {
+            "name": "Ian Sommerville",
+            "id": "2093398104",
+            "org": "University of St Andrews"
+        }
+    ],
+    "fields_of_study": [
+        "Information system",
+        "Systems engineering",
+        "Implementation",
+        "Enterprise software",
+        "Software system",
+        "Sociotechnical system",
+        "Soft systems methodology",
+        "Document management system",
+        "Knowledge management",
+        "Structured systems analysis and design method",
+        "Engineering"
+    ],
+    "references": [
+        "1494197262",
+        "1721421031",
+        "1933403796",
+        "2014279906",
+        "2021965800",
+        "2023174660",
+        "2071057536",
+        "2089839611",
+        "2094614089",
+        "2098342640",
+        "2100379340",
+        "2102518549",
+        "2137125422",
+        "2157437711"
+    ]
+}

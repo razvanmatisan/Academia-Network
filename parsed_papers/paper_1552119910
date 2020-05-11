@@ -1,0 +1,39 @@
+{
+    "id": "1552119910",
+    "title": "Resource monitoring for cluster computing with application to parallel motion estimation",
+    "venue": "asia pacific conference on circuits and systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Teddy Surya Gunawan",
+            "id": "2310270008",
+            "org": "Sch. of Comput. Eng., Nanyang Technol. Univ., Singapore"
+        },
+        {
+            "name": "Cai Wen Tong",
+            "id": "2129997653",
+            "org": "Sch. of Comput. Eng., Nanyang Technol. Univ., Singapore"
+        }
+    ],
+    "fields_of_study": [
+        "Concurrent computing",
+        "Data-intensive computing",
+        "Embarrassingly parallel",
+        "Parallel algorithm",
+        "Massively parallel",
+        "Cost efficiency",
+        "Distributed computing",
+        "Computer science",
+        "Real-time computing",
+        "Supercomputer",
+        "Computer cluster"
+    ],
+    "references": [
+        "1784794005",
+        "2081612620",
+        "2114728910",
+        "2126831426",
+        "2315339121",
+        "2585298469"
+    ]
+}

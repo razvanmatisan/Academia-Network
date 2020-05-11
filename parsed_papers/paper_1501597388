@@ -1,0 +1,43 @@
+{
+    "id": "1501597388",
+    "title": "Asynchronous Large-Scale Certification Based on Certificate Verification Trees",
+    "venue": "international conference on communications",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "M. Mar Alba",
+            "id": "2577535175",
+            "org": "Rovira i Virgili University"
+        },
+        {
+            "name": "Josep Domingo-Ferrer",
+            "id": "275327080",
+            "org": "Rovira i Virgili University"
+        },
+        {
+            "name": "Francese Sebe",
+            "id": "2343606761",
+            "org": "Rovira i Virgili University"
+        }
+    ],
+    "fields_of_study": [
+        "Certification path validation algorithm",
+        "Real-time computing",
+        "Root certificate",
+        "Certification Practice Statement",
+        "Revocation list",
+        "Online Certificate Status Protocol",
+        "X.509",
+        "Computer science",
+        "Certificate policy",
+        "Self-signed certificate"
+    ],
+    "references": [
+        "1542430206",
+        "1566345534",
+        "2089934546",
+        "2111712517",
+        "2117420234",
+        "2160878415"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1573837192",
+    "title": "Minimum weighted sum bin packing",
+    "venue": "workshop on approximation and online algorithms",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Leah Epstein",
+            "id": "2150903647",
+            "org": "Department of Mathematics, University of Haifa, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Asaf Levin",
+            "id": "2189672359",
+            "org": "Department of Statistics, The Hebrew University, Jerusalem, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Bin",
+        "APX",
+        "Mathematical optimization",
+        "Best bin first",
+        "Partition problem",
+        "Combinatorics",
+        "Knapsack problem",
+        "Discrete mathematics",
+        "Square packing in a square",
+        "Polynomial-time approximation scheme",
+        "Bin packing problem",
+        "Mathematics"
+    ],
+    "references": [
+        "1554813885",
+        "2127711047",
+        "2134331592",
+        "2163322487",
+        "2172372952"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": "1481271328",
+    "title": "Environments, labyrinths and automata",
+    "venue": "fundamentals of computation theory",
+    "year": 1977,
+    "authors": [
+        {
+            "name": "Lothar Budach",
+            "id": "154130434",
+            "org": "Humboldt University"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Discrete mathematics",
+        "Automaton",
+        "Finite-state machine",
+        "Computer science",
+        "Turing machine",
+        "Congruence relation"
+    ],
+    "references": [
+        "57785212",
+        "2059657394"
+    ]
+}

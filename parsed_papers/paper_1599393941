@@ -1,0 +1,54 @@
+{
+    "id": "1599393941",
+    "title": "Smooth mixed-resolution GPU volume rendering",
+    "venue": "eurographics",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Johanna Beyer",
+            "id": "2140258171",
+            "org": "VRVis Research Center, Vienna, Austria#TAB#"
+        },
+        {
+            "name": "Markus Hadwiger",
+            "id": "2057155413",
+            "org": "VRVis Research Center, Vienna, Austria#TAB#"
+        },
+        {
+            "name": "Torsten Moller",
+            "id": "2682213054",
+            "org": "School of Computing Science, Simon Fraser University, Canada#TAB#"
+        },
+        {
+            "name": "Laura Fritz",
+            "id": "2184825514",
+            "org": "VRVis Research Center, Vienna, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "3D rendering",
+        "Software rendering",
+        "Rendering (computer graphics)",
+        "Volume rendering",
+        "Tiled rendering",
+        "Real-time rendering",
+        "Texture memory",
+        "Alternate frame rendering",
+        "Computer vision",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1490291137",
+        "1607158209",
+        "1964011539",
+        "1971071758",
+        "2036089039",
+        "2054767162",
+        "2079466024",
+        "2113001609",
+        "2125367789",
+        "2134643591",
+        "2164044916"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "1556274533",
+    "title": "What Uncertainty Judgments Can Tell About the Underlying Subjective Probabilities",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Alf Zimmer",
+            "id": "2116691991",
+            "org": "University of Regensburg F.R.G."
+        }
+    ],
+    "fields_of_study": [
+        "Conservatism",
+        "Possibility theory",
+        "Machine learning",
+        "Artificial intelligence",
+        "Mathematics",
+        "Fuzzy logic",
+        "Conjunction fallacy",
+        "Expression (mathematics)",
+        "Fuzzy number"
+    ],
+    "references": [
+        "1988616763",
+        "2045425333"
+    ]
+}

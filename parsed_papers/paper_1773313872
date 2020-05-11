@@ -1,0 +1,51 @@
+{
+    "id": "1773313872",
+    "title": "Generative Probabilistic Models",
+    "venue": "Data-Centric Systems and Applications",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Thijs Westerveld",
+            "id": "2601380254",
+            "org": "Centrum voor Wiskunde en Informatica (CWI)"
+        },
+        {
+            "name": "Arjen P. de Vries",
+            "id": "2625705294",
+            "org": "Centrum voor Wiskunde en Informatica (CWI)"
+        },
+        {
+            "name": "Franciska M.G. de Jong",
+            "id": "2781364300",
+            "org": "University of Twente"
+        }
+    ],
+    "fields_of_study": [
+        "Face detection",
+        "Generative grammar",
+        "Information needs",
+        "Discrete cosine transform",
+        "Probabilistic logic",
+        "Mixture model",
+        "Decision theory",
+        "Machine learning",
+        "Artificial intelligence",
+        "Facial recognition system",
+        "Pattern recognition",
+        "Computer science"
+    ],
+    "references": [
+        "1513915383",
+        "1978394996",
+        "1980112720",
+        "2020842694",
+        "2093390569",
+        "2099475911",
+        "2108735366",
+        "2136542423",
+        "2136583886",
+        "2150625547",
+        "2154422044",
+        "2167017068"
+    ]
+}

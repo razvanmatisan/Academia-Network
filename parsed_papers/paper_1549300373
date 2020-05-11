@@ -1,0 +1,32 @@
+{
+    "id": "1549300373",
+    "title": "Security in Pervasive Computing",
+    "venue": "SPC",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Frank Stajano",
+            "id": "724390122",
+            "org": "University of Cambridge"
+        }
+    ],
+    "fields_of_study": [
+        "Multimedia",
+        "Utility computing",
+        "Desk",
+        "Ubiquitous computing",
+        "Cloud computing security",
+        "Autonomic computing",
+        "Internet privacy",
+        "Context-aware pervasive systems",
+        "End-user computing",
+        "Computer security model",
+        "Engineering"
+    ],
+    "references": [
+        "190597758",
+        "1515421369",
+        "2116347193",
+        "2472978324"
+    ]
+}

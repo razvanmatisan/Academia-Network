@@ -1,0 +1,32 @@
+{
+    "id": "1602168290",
+    "title": "Model Selection and Adaptation for Biochemical Pathways",
+    "venue": "international conference on biological and medical data analysis",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Rudiger W. Brause",
+            "id": "1889647024",
+            "org": "J.W. Goethe-University"
+        }
+    ],
+    "fields_of_study": [
+        "Applied mathematics",
+        "Model selection",
+        "Signal Pathways",
+        "Minimum description length",
+        "Cross-validation",
+        "Differential equation",
+        "Machine learning",
+        "Estimation theory",
+        "Open problem",
+        "Mathematics",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1522034787",
+        "2107725879",
+        "2131532450",
+        "2163296727"
+    ]
+}

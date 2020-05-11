@@ -1,0 +1,28 @@
+{
+    "id": "1678101717",
+    "title": "How to draw three people in a botanical garden",
+    "venue": "national conference on artificial intelligence",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Harold Cohen",
+            "id": "2303750040",
+            "org": "The University of California at San Diego, Department of Visual Arts, La Jolla, Ca#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Domain knowledge",
+        "Expert system",
+        "Machine learning",
+        "Procedural knowledge",
+        "Body of knowledge",
+        "Computer science",
+        "Knowledge-based systems",
+        "Descriptive knowledge",
+        "Program Design Language",
+        "Cognition",
+        "Knowledge management"
+    ],
+    "references": []
+}

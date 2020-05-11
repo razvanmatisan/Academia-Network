@@ -1,0 +1,31 @@
+{
+    "id": "1527643685",
+    "title": "A procedure for determining algebraic integers of given norm",
+    "venue": "european conference on computer algebra",
+    "year": 1983,
+    "authors": [
+        {
+            "name": "U. Fincke",
+            "id": "2308747026",
+            "org": "Mathematisches Institut, Universitat Dusseldorf, 4 Dusseldorf, West Germany"
+        },
+        {
+            "name": "Michael Pohst",
+            "id": "179993079",
+            "org": "Mathematisches Institut, Universitat Dusseldorf, 4 Dusseldorf, West Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Eisenstein integer",
+        "Real algebraic geometry",
+        "Algebraic cycle",
+        "Algebraic number",
+        "Ideal norm",
+        "Quadratic integer",
+        "Field norm",
+        "Mathematics",
+        "Algebraic integer"
+    ],
+    "references": []
+}

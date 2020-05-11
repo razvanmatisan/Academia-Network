@@ -1,0 +1,36 @@
+{
+    "id": "136948041",
+    "title": "Lean Agile Approach in Development of Modern Mobile and Web Applications",
+    "venue": "business information systems",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Jaroslav Skrabalek",
+            "id": "1141581919",
+            "org": "Masaryk University"
+        },
+        {
+            "name": "Tomas Pitner",
+            "id": "1823065859",
+            "org": "Masaryk University"
+        }
+    ],
+    "fields_of_study": [
+        "Lean project management",
+        "Agile usability engineering",
+        "Agile software development",
+        "Agile Unified Process",
+        "Project management",
+        "Empirical process (process control model)",
+        "Lean software development",
+        "Systems engineering",
+        "Engineering",
+        "Scrum"
+    ],
+    "references": [
+        "1495479466",
+        "1506144519",
+        "2056004860",
+        "2101709920"
+    ]
+}

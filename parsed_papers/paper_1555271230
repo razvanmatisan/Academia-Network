@@ -1,0 +1,45 @@
+{
+    "id": "1555271230",
+    "title": "Fuzzy Closeness Relation as a Basis for Weakening Fuzzy Relational Queries",
+    "venue": "flexible query answering systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Patrick Bosc",
+            "id": "1859776836",
+            "org": "IRISA/ENSSAT"
+        },
+        {
+            "name": "Allel Hadjali",
+            "id": "57539089",
+            "org": "IRISA/ENSSAT"
+        },
+        {
+            "name": "Olivier Pivert",
+            "id": "299056886",
+            "org": "IRISA/ENSSAT"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Data mining",
+        "Fuzzy mathematics",
+        "Type-2 fuzzy sets and systems",
+        "Sargable",
+        "Fuzzy subalgebra",
+        "Fuzzy set operations",
+        "Machine learning",
+        "Fuzzy number",
+        "Defuzzification",
+        "Fuzzy classification",
+        "Artificial intelligence",
+        "Mathematics"
+    ],
+    "references": [
+        "1539630710",
+        "2033072900",
+        "2051968038",
+        "2161561171",
+        "2167823946"
+    ]
+}

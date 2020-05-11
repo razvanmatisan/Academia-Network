@@ -1,0 +1,42 @@
+{
+    "id": "1489407962",
+    "title": "Speeding up the Scalar Multiplication in the Jacobians of Hyperelliptic Curves Using Frobenius Map",
+    "venue": "international conference on cryptology in india",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "YoungJu Choie",
+            "id": "2197898908",
+            "org": "POSTECH"
+        },
+        {
+            "name": "Jong Won Lee",
+            "id": "2505124244",
+            "org": "POSTECH"
+        }
+    ],
+    "fields_of_study": [
+        "Elliptic curve",
+        "Scalar (physics)",
+        "Discrete mathematics",
+        "Jacobian matrix and determinant",
+        "Scalar multiplication",
+        "Finite field",
+        "Hyperelliptic curve",
+        "Mathematics",
+        "restrict"
+    ],
+    "references": [
+        "1485481031",
+        "1491854237",
+        "1504916089",
+        "1546138476",
+        "1989258293",
+        "2039596581",
+        "2047064623",
+        "2091826091",
+        "2091987928",
+        "2115190247",
+        "2161531038"
+    ]
+}

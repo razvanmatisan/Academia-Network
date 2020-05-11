@@ -1,0 +1,39 @@
+{
+    "id": "1538111238",
+    "title": "Causation and Nonmonotonic Temporal Reasoning",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Peter Grunwald",
+            "id": "670306551",
+            "org": "CWI"
+        }
+    ],
+    "fields_of_study": [
+        "Reinterpretation",
+        "Discrete mathematics",
+        "Logical reasoning",
+        "Network theory",
+        "Causation",
+        "Knowledge representation and reasoning",
+        "Causal theory of reference",
+        "Machine learning",
+        "Non-monotonic logic",
+        "Circumscription",
+        "Artificial intelligence",
+        "Mathematics"
+    ],
+    "references": [
+        "81871881",
+        "107281026",
+        "1608029391",
+        "1964656133",
+        "1989492347",
+        "2016443760",
+        "2033623836",
+        "2094633765",
+        "2155856811",
+        "2163170255"
+    ]
+}

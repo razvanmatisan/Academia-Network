@@ -1,0 +1,37 @@
+{
+    "id": "1481338111",
+    "title": "The 2-D Leap-Frog: Integrability, Noise, and Digitization",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Lyle Noakes",
+            "id": "2171880360",
+            "org": "The University of Western Australia, Department of Mathematics and Statistics, 35, Stirling Highway, Crawley WA 6009, Australia#TAB#"
+        },
+        {
+            "name": "R. Kozera",
+            "id": "2706061310",
+            "org": "Department of Computer Science and Software Engineering, 35 Stirling Highway, Crawley WA 6009, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Grid",
+        "Gaussian noise",
+        "Vector field",
+        "Gauss-Seidel method",
+        "Photometric stereo",
+        "Algorithm",
+        "Nonlinear programming",
+        "Nonlinear system",
+        "Computer science",
+        "Optimization problem"
+    ],
+    "references": [
+        "1540617358",
+        "1979384804",
+        "2008808718",
+        "2112668648",
+        "2138127543"
+    ]
+}

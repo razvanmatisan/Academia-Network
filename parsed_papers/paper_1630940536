@@ -1,0 +1,46 @@
+{
+    "id": "1630940536",
+    "title": "Solving Stable Generalized Lyapunov Equations with the Matrix Sign Function",
+    "venue": "Numerical Algorithms",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Peter Benner",
+            "id": "2132332516",
+            "org": "Other publications of the MPI staff, Max Planck Institute for Dynamics of Complex Technical Systems, Max Planck Society"
+        },
+        {
+            "name": "Peter Benner",
+            "id": "2132332516",
+            "org": "Other publications of the MPI staff, Max Planck Institute for Dynamics of Complex Technical Systems, Max Planck Society"
+        },
+        {
+            "name": "Enrique S. Quintana-Orti",
+            "id": "213228041",
+            "org": "Departamento de Informatica, Universidad Jaime I, E-12071-, Castellon, Spain"
+        }
+    ],
+    "fields_of_study": [
+        "Linear algebra",
+        "Mathematical analysis",
+        "Lyapunov redesign",
+        "Mathematical optimization",
+        "Lyapunov equation",
+        "Matrix (mathematics)",
+        "Mathematics",
+        "Lyapunov exponent",
+        "Sign function",
+        "Discrete mathematics",
+        "Cholesky decomposition",
+        "Lyapunov function"
+    ],
+    "references": [
+        "1560872612",
+        "1906034359",
+        "1981745143",
+        "1996860845",
+        "2000630868",
+        "2020804487",
+        "2088748973"
+    ]
+}

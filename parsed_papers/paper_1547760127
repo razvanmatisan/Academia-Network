@@ -1,0 +1,38 @@
+{
+    "id": "1547760127",
+    "title": "Reachability Programming in HOL98 Using BDDs",
+    "venue": "theorem proving in higher order logics",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Michael J. C. Gordon",
+            "id": "2138087194",
+            "org": "University of Cambridge Computer Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Model checking",
+        "Algorithm",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Finite-state machine",
+        "Fixed point",
+        "Automated theorem proving",
+        "Abstract type",
+        "Binary decision diagram",
+        "Computer science",
+        "Proof assistant",
+        "Formal verification"
+    ],
+    "references": [
+        "1531350193",
+        "1551406732",
+        "1576344789",
+        "1774916044",
+        "2030224590",
+        "2054198444",
+        "2088106392",
+        "2134113233",
+        "2340735175"
+    ]
+}

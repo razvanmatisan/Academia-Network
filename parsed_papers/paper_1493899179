@@ -1,0 +1,39 @@
+{
+    "id": "1493899179",
+    "title": "Quality of Service in Hybrid Optical Switching",
+    "venue": "frontiers of information technology",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Muhammad Imran",
+            "id": "2398686869",
+            "org": "Sch. of Electron. Eng., Dublin City Univ., Dublin, Ireland"
+        },
+        {
+            "name": "Khurram Aziz",
+            "id": "2115314426",
+            "org": "Dept. of Electr. Eng., COMSATS Inst. of Inf. Technol., Islamabad, Pakistan"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Optical burst switching",
+        "Computer network",
+        "Burst switching",
+        "Cut-through switching",
+        "Label switching",
+        "LAN switching",
+        "Optical performance monitoring",
+        "Real-time computing",
+        "Optical IP Switching",
+        "Fast packet switching"
+    ],
+    "references": [
+        "1522897953",
+        "1588462524",
+        "1983570227",
+        "1997055685",
+        "2141217973",
+        "2147092597"
+    ]
+}

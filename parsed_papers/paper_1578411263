@@ -1,0 +1,33 @@
+{
+    "id": "1578411263",
+    "title": "Some properties of joint probability distributions",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Marek J. Druzdzel",
+            "id": "346504980",
+            "org": "University of Pittsburgh, Department of Information Science, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Statistics",
+        "Circular distribution",
+        "Econometrics",
+        "Probability distribution",
+        "Law of total probability",
+        "Marginal distribution",
+        "Convolution of probability distributions",
+        "Regular conditional probability",
+        "Conditional probability distribution",
+        "Chain rule (probability)",
+        "Mathematics"
+    ],
+    "references": [
+        "1505477995",
+        "1510302714",
+        "1898144923",
+        "2053307880",
+        "2159080219"
+    ]
+}

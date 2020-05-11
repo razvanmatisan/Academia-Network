@@ -1,0 +1,34 @@
+{
+    "id": "1594349942",
+    "title": "Uncertainty in rank join",
+    "venue": "Search computing",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Ihab F. Ilyas",
+            "id": "1982738670",
+            "org": "University of Waterloo#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Web service",
+        "Web search query",
+        "Semantics",
+        "Relational operator",
+        "Query optimization",
+        "Operator (computer programming)",
+        "Web query classification",
+        "Sort-merge join",
+        "Data mining",
+        "Computer science"
+    ],
+    "references": [
+        "1600580971",
+        "1972924401",
+        "1997141048",
+        "2133863472",
+        "2140237757",
+        "2143682328",
+        "2170896764"
+    ]
+}

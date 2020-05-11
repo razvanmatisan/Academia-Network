@@ -1,0 +1,33 @@
+{
+    "id": "1496999945",
+    "title": "A Characterization of Minimalist Languages",
+    "venue": "logical aspects of computational linguistics",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Henk Harkema",
+            "id": "2789711726",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Tree-adjoining grammar",
+        "Minimalist grammar",
+        "Natural language processing",
+        "Artificial intelligence",
+        "Phrase structure grammar",
+        "Algorithm",
+        "Embedded pushdown automaton",
+        "Indexed language",
+        "Indexed grammar",
+        "Computer science",
+        "Context-sensitive grammar",
+        "L-attributed grammar"
+    ],
+    "references": [
+        "1544416128",
+        "2089385274",
+        "2116594304",
+        "2121924470"
+    ]
+}

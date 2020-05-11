@@ -1,0 +1,44 @@
+{
+    "id": "1492289968",
+    "title": "Collective, Hierarchical Clustering from Distributed, Heterogeneous Data",
+    "venue": "knowledge discovery and data mining",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Erik L. Johnson",
+            "id": "2159546752",
+            "org": "Washington State University"
+        },
+        {
+            "name": "Hillol Kargupta",
+            "id": "539587773",
+            "org": "Washington State University"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Machine learning",
+        "Computer science",
+        "Data mining",
+        "Artificial intelligence",
+        "FLAME clustering",
+        "CURE data clustering algorithm",
+        "Correlation clustering",
+        "k-medians clustering",
+        "Hierarchical clustering of networks",
+        "Canopy clustering algorithm",
+        "Data stream clustering"
+    ],
+    "references": [
+        "147860157",
+        "1500959893",
+        "1575476631",
+        "1870625491",
+        "1968299022",
+        "2039024435",
+        "2049631158",
+        "2095897464",
+        "2120636855",
+        "2131687179"
+    ]
+}

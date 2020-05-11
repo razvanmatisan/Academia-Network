@@ -1,0 +1,36 @@
+{
+    "id": "1791407568",
+    "title": "Texture Based Segmentation of Breast DCE-MRI",
+    "venue": "IWDM '08 Proceedings of the 9th international workshop on Digital Mammography",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Yang Can Gong",
+            "id": "2156809180",
+            "org": "Wolfson Medical Vision Lab, University of Oxford, UK#TAB#"
+        },
+        {
+            "name": "Michael Brady",
+            "id": "2108135671",
+            "org": "Wolfson Medical Vision Lab, University of Oxford, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Image texture",
+        "Voxel",
+        "Image segmentation",
+        "Dynamic contrast-enhanced MRI",
+        "Scale-space segmentation",
+        "Computer vision",
+        "Geography",
+        "Segmentation",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Markov chain"
+    ],
+    "references": [
+        "1484228140",
+        "1486964185",
+        "2099915247"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1552799101",
+    "title": "Revealing additional information in two-party computations",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Andreas Jakoby",
+            "id": "2332513518",
+            "org": "Institut fur Theoretische Informatik, Universitat zu Lubeck, Germany#TAB#"
+        },
+        {
+            "name": "Maciej Liskiewicz",
+            "id": "1940416703",
+            "org": "Institut fur Theoretische Informatik, Universitat zu Lubeck, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Bellman equation",
+        "Computation",
+        "Discrete mathematics",
+        "Optimal control",
+        "Information theory",
+        "If and only if",
+        "Cryptography",
+        "Communication complexity",
+        "Deterministic system (philosophy)",
+        "Mathematics"
+    ],
+    "references": [
+        "18422675",
+        "1554101881",
+        "1607225066",
+        "1984227438",
+        "2340787257"
+    ]
+}

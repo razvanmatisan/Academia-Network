@@ -1,0 +1,34 @@
+{
+    "id": "1575841458",
+    "title": "Towards a Design Calculus for Communicationg Programs",
+    "venue": "international conference on concurrency theory",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Ernst-Riidiger Olderog",
+            "id": "2798484065",
+            "org": "Universitat Oldenburg"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Theoretical computer science",
+        "Calculus",
+        "Notation",
+        "Language Of Temporal Ordering Specification",
+        "Correctness",
+        "Specification language",
+        "Proof calculus",
+        "Specification pattern",
+        "Programming language",
+        "Regular expression",
+        "Predicative expression"
+    ],
+    "references": [
+        "1589119013",
+        "1979159285",
+        "2086070079",
+        "2131377110",
+        "2144545266"
+    ]
+}

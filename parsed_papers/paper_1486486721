@@ -1,0 +1,32 @@
+{
+    "id": "1486486721",
+    "title": "Synchronization of pushdown automata",
+    "venue": "developments in language theory",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Didier Caucal",
+            "id": "171563863",
+            "org": "IRISA-CNRS, Rennes, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Two-way deterministic finite automaton",
+        "Discrete mathematics",
+        "Pushdown automaton",
+        "Context-free language",
+        "Embedded pushdown automaton",
+        "Nested word",
+        "Algorithm",
+        "Deterministic context-free language",
+        "Deterministic context-free grammar",
+        "Deterministic pushdown automaton",
+        "Computer science"
+    ],
+    "references": [
+        "1971416129",
+        "2132295002",
+        "2151033407",
+        "2401216365"
+    ]
+}

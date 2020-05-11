@@ -1,0 +1,35 @@
+{
+    "id": "1566115177",
+    "title": "Searching Decision Rules in Very Large Databases Using Rough Set Theory",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Tsau Young Lin",
+            "id": "2145162833",
+            "org": "San Jose State University"
+        },
+        {
+            "name": "Hui Cao",
+            "id": "2304339409",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Binary tree",
+        "Query optimization",
+        "Decision table",
+        "Dominance-based rough set approach",
+        "Decision rule",
+        "Machine learning",
+        "SQL",
+        "Rough set",
+        "Artificial intelligence",
+        "Sorting algorithm",
+        "Pattern recognition",
+        "Computer science"
+    ],
+    "references": [
+        "1506285740"
+    ]
+}

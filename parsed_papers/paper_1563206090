@@ -1,0 +1,36 @@
+{
+    "id": "1563206090",
+    "title": "More Efficient Object Serialization",
+    "venue": "international parallel processing symposium",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Michael Philippsen",
+            "id": "695141775",
+            "org": "University of Karlsruhe"
+        },
+        {
+            "name": "Bernhard Haumacher",
+            "id": "31476238",
+            "org": "University of Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "Serialization",
+        "Implementation",
+        "Remote procedure call",
+        "Java",
+        "Client-server model",
+        "Distributed computing",
+        "Object-oriented programming",
+        "Supercomputer",
+        "Computer science"
+    ],
+    "references": [
+        "1542985837",
+        "1601860801",
+        "1974779239",
+        "2057854437",
+        "2064526036"
+    ]
+}

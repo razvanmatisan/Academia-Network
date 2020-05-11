@@ -1,0 +1,36 @@
+{
+    "id": "158060482",
+    "title": "Smart Environments and Self-Organizing Appliance Ensembles",
+    "venue": "ambient intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Thomas Heider",
+            "id": "1926863879",
+            "org": "University of Rostock"
+        },
+        {
+            "name": "Thomas Kirste",
+            "id": "1958721170",
+            "org": "University of Rostock"
+        }
+    ],
+    "fields_of_study": [
+        "Simulation",
+        "Computation",
+        "Systems design",
+        "Computer science",
+        "Software",
+        "Information technology",
+        "Human-computer interaction",
+        "Smart environment",
+        "Ambient intelligence",
+        "Self-organization"
+    ],
+    "references": [
+        "85438691",
+        "445426465",
+        "1559983024",
+        "2148346624"
+    ]
+}

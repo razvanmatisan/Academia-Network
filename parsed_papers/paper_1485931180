@@ -1,0 +1,38 @@
+{
+    "id": "1485931180",
+    "title": "Conceptual Integration of Multiple Partial Geometric Models",
+    "venue": "international conference on conceptual modeling",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Simone Santini",
+            "id": "2096221691",
+            "org": "University of California San Diego"
+        },
+        {
+            "name": "Amarnath Gupta",
+            "id": "2138312864",
+            "org": "University of California San Diego"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Question answering",
+        "Conceptual blending",
+        "Information integration",
+        "Computer science",
+        "Conceptual model",
+        "Geometric data analysis",
+        "Geometric modeling",
+        "Data modeling"
+    ],
+    "references": [
+        "187851124",
+        "1504975584",
+        "1530216459",
+        "2027763082",
+        "2152191782",
+        "2160983447",
+        "2161609549"
+    ]
+}

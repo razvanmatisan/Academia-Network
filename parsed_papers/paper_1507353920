@@ -1,0 +1,40 @@
+{
+    "id": "1507353920",
+    "title": "Designing a curious negotiator",
+    "venue": "database and expert systems applications",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "John K. Debenham",
+            "id": "2230915954",
+            "org": "Fac. of Inf. Technol., Univ. of Technol., Sydney, NSW, Australia"
+        },
+        {
+            "name": "Simeon J. Simoff",
+            "id": "735013031",
+            "org": "Fac. of Inf. Technol., Univ. of Technol., Sydney, NSW, Australia"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Exploit",
+        "Electronic business",
+        "Negotiation theory",
+        "Business relationship management",
+        "Multi-agent system",
+        "Adversary",
+        "Computer science",
+        "Knowledge management",
+        "Negotiation"
+    ],
+    "references": [
+        "41586400",
+        "1489373838",
+        "1494825659",
+        "1499137215",
+        "1517480288",
+        "1754744892",
+        "1965605789",
+        "2096154177"
+    ]
+}

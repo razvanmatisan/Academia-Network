@@ -1,0 +1,43 @@
+{
+    "id": "1666347389",
+    "title": "Linkage and Autocorrelation Cause Feature Selection Bias in Relational Learning",
+    "venue": "international conference on machine learning",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "David D. Jensen",
+            "id": "2124028641",
+            "org": "University of Massachusetts Amherst"
+        },
+        {
+            "name": "Jennifer Neville",
+            "id": "2124572662",
+            "org": "University of Massachusetts Amherst"
+        }
+    ],
+    "fields_of_study": [
+        "Autocorrelation",
+        "Artificial intelligence",
+        "Machine learning",
+        "Relational database",
+        "Feature selection",
+        "Computer science",
+        "Predictive power",
+        "Statistical relational learning",
+        "Pattern recognition",
+        "Synthetic data",
+        "The Internet"
+    ],
+    "references": [
+        "1498800329",
+        "1532285064",
+        "1562506262",
+        "1601368642",
+        "1619226191",
+        "1933130724",
+        "2121906195",
+        "2126185296",
+        "2138621811",
+        "2803681287"
+    ]
+}

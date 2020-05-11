@@ -1,0 +1,46 @@
+{
+    "id": "1537172410",
+    "title": "Multi-domain Policy Based Management Using Mobile Agents",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Nazim Agoulmine",
+            "id": "2893383367",
+            "org": "University of Paris VI"
+        },
+        {
+            "name": "Nazim Agoulmine",
+            "id": "2893383367",
+            "org": "University of Paris VI"
+        },
+        {
+            "name": "Mauro Fonseca",
+            "id": "2146128925",
+            "org": "University of Paris VI"
+        },
+        {
+            "name": "Alan Marshall",
+            "id": "2173833283",
+            "org": "The Queen's University of Belfast Northern Ireland"
+        }
+    ],
+    "fields_of_study": [
+        "Interoperability",
+        "Computer network",
+        "Management system",
+        "Service provider",
+        "Distributed computing",
+        "Quality of service",
+        "Service-level agreement",
+        "End user",
+        "Policy-based management",
+        "Computer security",
+        "Computer science",
+        "Resource allocation"
+    ],
+    "references": [
+        "1488346944",
+        "1498848043"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1568976900",
+    "title": "Direction weighted shortest path planning",
+    "venue": "international conference on robotics and automation",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Jurgen Sellen",
+            "id": "2642142669",
+            "org": "Saarlandes Univ., Saarbrucken, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Euclidean shortest path",
+        "Mathematical optimization",
+        "Distance",
+        "Widest path problem",
+        "Canadian traveller problem",
+        "Discrete mathematics",
+        "K shortest path routing",
+        "Shortest path problem",
+        "Shortest Path Faster Algorithm",
+        "Mathematics",
+        "Constrained Shortest Path First"
+    ],
+    "references": [
+        "1989723858",
+        "2024693023",
+        "2035007760",
+        "2111734814",
+        "2126353399",
+        "2152434901"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1515854799",
+    "title": "Generating Data Analysis Programs from Statistical Models",
+    "venue": "SAIG '00 Proceedings of the International Workshop on Semantics, Applications, and Implementation of Program Generation",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Bernd Fischer",
+            "id": "2616912264",
+            "org": "RIACS / NASA Ames"
+        },
+        {
+            "name": "Johann Schumann",
+            "id": "2274380264",
+            "org": "RIACS / NASA Ames"
+        },
+        {
+            "name": "Thomas Pressburger",
+            "id": "1490323256",
+            "org": "QSS / NASA Ames"
+        }
+    ],
+    "fields_of_study": [
+        "Probability distribution",
+        "Probability theory",
+        "MATLAB",
+        "Computation",
+        "Bayesian network",
+        "Algorithm",
+        "Automated theorem proving",
+        "Theoretical computer science",
+        "Computer science",
+        "Bayesian probability",
+        "Statistical model"
+    ],
+    "references": [
+        "1603641306",
+        "1669437150",
+        "1907344964",
+        "1990360519",
+        "2045028573",
+        "2116873900",
+        "2129466151",
+        "2159080219"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1578291629",
+    "title": "How to Improve the Nonlinearity of Bijective S-Boxes",
+    "venue": "australasian conference on information security and privacy",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "William Millan",
+            "id": "1971674438",
+            "org": "Queensland University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Boolean function",
+        "Bent function",
+        "Bijection",
+        "Computer science",
+        "Hill climbing",
+        "Swap (computer programming)",
+        "Nonlinear system"
+    ],
+    "references": [
+        "123094694",
+        "777394030",
+        "1498892963",
+        "1502592785",
+        "1528065150",
+        "1531334709",
+        "1540875416",
+        "1575149347",
+        "1588790484",
+        "1670558497",
+        "1776788878",
+        "1964723977",
+        "2001825646",
+        "2029757762"
+    ]
+}

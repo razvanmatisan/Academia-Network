@@ -1,0 +1,50 @@
+{
+    "id": "1495275327",
+    "title": "XML Data Integration with Identification",
+    "venue": "database programming languages",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Antonella Poggi",
+            "id": "2157628779",
+            "org": "INRIA Futurs - Parc Club Orsay-University"
+        },
+        {
+            "name": "Antonella Poggi",
+            "id": "2157628779",
+            "org": "INRIA Futurs - Parc Club Orsay-University"
+        },
+        {
+            "name": "Serge Abiteboul",
+            "id": "172400696",
+            "org": "INRIA Futurs - Parc Club Orsay-University"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "XML schema",
+        "Computer science",
+        "XML Schema Editor",
+        "Document Structure Description",
+        "XML validation",
+        "XML framework",
+        "Data mining",
+        "XML Schema (W3C)",
+        "Efficient XML Interchange",
+        "Simple API for XML"
+    ],
+    "references": [
+        "1528249715",
+        "1969340050",
+        "1988662949",
+        "1992673035",
+        "2016521643",
+        "2018870244",
+        "2051228475",
+        "2056859949",
+        "2126004201",
+        "2140539965",
+        "2152191782",
+        "2159668267"
+    ]
+}

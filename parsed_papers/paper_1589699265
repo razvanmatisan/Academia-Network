@@ -1,0 +1,37 @@
+{
+    "id": "1589699265",
+    "title": "A decidability result about sufficient-completeness of axiomatically specified abstract data types",
+    "venue": "Theoretical Computer Science",
+    "year": 1983,
+    "authors": [
+        {
+            "name": "Tobias Nipkow",
+            "id": "42605653",
+            "org": "Technische Hochschule Darmstadt"
+        },
+        {
+            "name": "Gerhard Weikum",
+            "id": "514836396",
+            "org": "Technische Hochschule Darmstadt"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Decidability",
+        "Data type",
+        "Completeness (statistics)",
+        "Abstract data type",
+        "Subclass",
+        "Axiom",
+        "Type family",
+        "Rewrite rule",
+        "Mathematics"
+    ],
+    "references": [
+        "1602145273",
+        "1979101142",
+        "1992371661",
+        "2098036931",
+        "2134338128"
+    ]
+}

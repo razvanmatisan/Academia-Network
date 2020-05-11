@@ -1,0 +1,53 @@
+{
+    "id": "182124038",
+    "title": "Distributional learning of simple context-free tree grammars",
+    "venue": "algorithmic learning theory",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Anna Kasprzik",
+            "id": "1566157905",
+            "org": "University of Trier, FB IV Informatik, Trier#TAB#"
+        },
+        {
+            "name": "Ryo Yoshinaka",
+            "id": "2087586050",
+            "org": "Japan Science and Technology Agency#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Tree-adjoining grammar",
+        "Artificial intelligence",
+        "Computer science",
+        "Machine learning",
+        "Grammar induction",
+        "Context-sensitive grammar",
+        "Natural language processing",
+        "Phrase structure grammar",
+        "L-attributed grammar",
+        "Stochastic context-free grammar",
+        "Context-free grammar",
+        "Rule-based machine translation"
+    ],
+    "references": [
+        "169773246",
+        "1496549841",
+        "1598694679",
+        "1661696594",
+        "1669902438",
+        "1820754082",
+        "1991706120",
+        "2022744196",
+        "2088602194",
+        "2092018982",
+        "2097100074",
+        "2134249597",
+        "2147152274",
+        "2161204834",
+        "2167214386",
+        "2167284089",
+        "2169818249",
+        "2462469662",
+        "2585741244"
+    ]
+}

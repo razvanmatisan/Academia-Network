@@ -1,0 +1,50 @@
+{
+    "id": "1497534906",
+    "title": "Context-aware adaptation for group communication support applications with dynamic architecture",
+    "venue": "arXiv: Software Engineering",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Ismael Bouassida Rodriguez",
+            "id": "2397995243",
+            "org": "LAAS"
+        },
+        {
+            "name": "Khalil Drira",
+            "id": "131024012",
+            "org": "LAAS"
+        },
+        {
+            "name": "Christophe Chassot",
+            "id": "2070364604",
+            "org": "LAAS"
+        },
+        {
+            "name": "Mohamed Jmaiel",
+            "id": "262402182",
+            "org": "ReDCAD"
+        }
+    ],
+    "fields_of_study": [
+        "Quality of service",
+        "Graph",
+        "Abstraction layer",
+        "Architectural style",
+        "Computer science",
+        "Communication in small groups",
+        "Software architecture",
+        "Distributed computing",
+        "Bandwidth (signal processing)",
+        "Architecture",
+        "Real-time computing"
+    ],
+    "references": [
+        "1491064867",
+        "1509738500",
+        "1894152340",
+        "2013658284",
+        "2098931293",
+        "2131975004",
+        "2137190983"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1568561357",
+    "title": "Business Conversations: A High-level System Model for Agent Coordination",
+    "venue": "database programming languages",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Florian Matthes",
+            "id": "2030828791",
+            "org": "Technical University Hamburg-Harburg"
+        }
+    ],
+    "fields_of_study": [
+        "Business object",
+        "Business domain",
+        "Knowledge management",
+        "Autonomous agent",
+        "Conversation",
+        "Distributed computing",
+        "Simulation",
+        "System model",
+        "Software agent",
+        "Artifact-centric business process model",
+        "Computer science",
+        "Systems architecture"
+    ],
+    "references": [
+        "1480000473",
+        "1501596615",
+        "1524224399",
+        "1584599437",
+        "1989723563",
+        "2044874771",
+        "2111243467",
+        "2161815637"
+    ]
+}

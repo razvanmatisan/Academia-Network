@@ -1,0 +1,37 @@
+{
+    "id": "1540956863",
+    "title": "Information brokering on the World Wide Web",
+    "venue": "WebNet",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Stephane Bressan",
+            "id": "2159446685",
+            "org": "Sloan School of Management"
+        },
+        {
+            "name": "Thomas H. Lee",
+            "id": "2888159063",
+            "org": "Sloan School of Management"
+        }
+    ],
+    "fields_of_study": [
+        "Web intelligence",
+        "Web standards",
+        "Web page",
+        "Web navigation",
+        "World Wide Web",
+        "Internet privacy",
+        "Semantic Web",
+        "Semantic Web Stack",
+        "Web server",
+        "Computer science",
+        "Web Accessibility Initiative"
+    ],
+    "references": [
+        "1638026557",
+        "1976392306",
+        "2118536331",
+        "2159888038"
+    ]
+}

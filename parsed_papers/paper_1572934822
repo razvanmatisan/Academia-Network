@@ -1,0 +1,29 @@
+{
+    "id": "1572934822",
+    "title": "Unambiguity of Extended Regular Expressions in SGML Document Grammars",
+    "venue": "european symposium on algorithms",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Anne Bruggemann-Klein",
+            "id": "2656628491",
+            "org": "Universitat-GH-Paderborn"
+        }
+    ],
+    "fields_of_study": [
+        "Regular language",
+        "Regular tree grammar",
+        "Extended Affix Grammar",
+        "Generalized star height problem",
+        "Content Model",
+        "Computer science",
+        "SGML",
+        "Programming language",
+        "Regular expression",
+        "Context-free grammar"
+    ],
+    "references": [
+        "1582705003",
+        "2177838312"
+    ]
+}

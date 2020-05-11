@@ -1,0 +1,41 @@
+{
+    "id": "1532336669",
+    "title": "Timed Definite Clause Omega-Grammars",
+    "venue": "international conference on logic programming",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Neda Saeedloei",
+            "id": "28851884",
+            "org": "University of Texas at Dallas"
+        },
+        {
+            "name": "Gopal Gupta",
+            "id": "2101413274",
+            "org": "Computer Science"
+        }
+    ],
+    "fields_of_study": [
+        "Phrase structure grammar",
+        "Parsing",
+        "Algorithm",
+        "Tree-adjoining grammar",
+        "Theoretical computer science",
+        "Computer science",
+        "Omega",
+        "Definite clause grammar",
+        "Programming language",
+        "Logic programming",
+        "L-attributed grammar",
+        "Rule-based machine translation"
+    ],
+    "references": [
+        "59365162",
+        "184244794",
+        "1488625119",
+        "1963107927",
+        "2063727779",
+        "2101508170",
+        "2169239645"
+    ]
+}

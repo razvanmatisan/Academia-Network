@@ -1,0 +1,32 @@
+{
+    "id": "1605064074",
+    "title": "Inductive logic programming for discrete event systems",
+    "venue": "international colloquium on grammatical inference",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "David Lorenzo",
+            "id": "2154745654",
+            "org": "University of A Coruna"
+        }
+    ],
+    "fields_of_study": [
+        "Inductive programming",
+        "Artificial intelligence",
+        "Computer science",
+        "Machine learning",
+        "Discrete event dynamic system",
+        "Event tree",
+        "Dynamical system",
+        "DEVS",
+        "Discrete system",
+        "State variable",
+        "Inductive logic programming"
+    ],
+    "references": [
+        "1511463640",
+        "1571133302",
+        "2119831128",
+        "2165347852"
+    ]
+}

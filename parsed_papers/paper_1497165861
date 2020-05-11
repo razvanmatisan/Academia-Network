@@ -1,0 +1,32 @@
+{
+    "id": "1497165861",
+    "title": "Solving Equational Constraints in Polymorphic Types",
+    "venue": "foundations of computer science",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Jerzy Tiuryn",
+            "id": "66175330",
+            "org": "Warsaw University"
+        }
+    ],
+    "fields_of_study": [
+        "Decidability",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Algebraic number",
+        "Polymorphism (computer science)",
+        "Upper and lower bounds",
+        "Satisfiability",
+        "Canonical form",
+        "Mathematics"
+    ],
+    "references": [
+        "1548645459",
+        "1595372275",
+        "1982801224",
+        "2021217869",
+        "2025057593",
+        "2149906577"
+    ]
+}

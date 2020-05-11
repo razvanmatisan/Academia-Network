@@ -1,0 +1,41 @@
+{
+    "id": "1501050317",
+    "title": "A Conceptual Graphs Approach for Business Rules Modeling",
+    "venue": "advances in databases and information systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Irma Valatkaite",
+            "id": "19148116",
+            "org": "Vilnius Gediminas Technical University"
+        },
+        {
+            "name": "Olegas Vasilecas",
+            "id": "202569468",
+            "org": "Vilnius Gediminas Technical University"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Business analysis",
+        "Semantics of Business Vocabulary and Business Rules",
+        "Business rules approach",
+        "Business domain",
+        "Data mining",
+        "Computer science",
+        "Business Process Model and Notation",
+        "Business process modeling",
+        "Artifact-centric business process model",
+        "Knowledge management",
+        "Business rule"
+    ],
+    "references": [
+        "1486374580",
+        "1493596129",
+        "1516346799",
+        "1548186255",
+        "1559122845",
+        "1578481380",
+        "2159765281"
+    ]
+}

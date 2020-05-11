@@ -1,0 +1,41 @@
+{
+    "id": "1598982666",
+    "title": "An effective algorithm for project scheduling with arbitrary temporal constraints",
+    "venue": "national conference on artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Tristan Smith",
+            "id": "2261596122",
+            "org": "CIS Department, University of Oregon, Eugene, OR#TAB#"
+        },
+        {
+            "name": "John M. Pyle",
+            "id": "2169057170",
+            "org": "On Time Systems, Inc., Eugene, OR#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Two-level scheduling",
+        "Nurse scheduling problem",
+        "Machine learning",
+        "Round-robin scheduling",
+        "Artificial intelligence",
+        "Fair-share scheduling",
+        "Mathematical optimization",
+        "Dynamic priority scheduling",
+        "Algorithm",
+        "Computer science",
+        "Genetic algorithm scheduling",
+        "Flow shop scheduling",
+        "Rate-monotonic scheduling"
+    ],
+    "references": [
+        "1680219918",
+        "1866349670",
+        "2102433499",
+        "2130182605",
+        "2162561621",
+        "2610698876"
+    ]
+}

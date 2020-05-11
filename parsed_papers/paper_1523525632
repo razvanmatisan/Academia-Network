@@ -1,0 +1,37 @@
+{
+    "id": "1523525632",
+    "title": "RAM: a multidimensional array DBMS",
+    "venue": "extending database technology",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Alex R. van Ballegooij",
+            "id": "2805024751",
+            "org": "CWI, Amsterdam, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Database",
+        "View",
+        "Data model",
+        "Distributed computing",
+        "Array DBMS",
+        "Database schema",
+        "Database design",
+        "Array processing",
+        "Database model",
+        "Computer science",
+        "Data modeling"
+    ],
+    "references": [
+        "1550449994",
+        "1597588355",
+        "1820462258",
+        "1931334728",
+        "2025269551",
+        "2049178644",
+        "2157370893",
+        "2339920159"
+    ]
+}

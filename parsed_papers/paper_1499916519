@@ -1,0 +1,29 @@
+{
+    "id": "1499916519",
+    "title": "Specifying Filler-Gap Dependency Parsers in a Linear-Logic Programming Language.",
+    "venue": "JICSLP",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Joshua S. Hodas",
+            "id": "2633204718",
+            "org": "University of Pennsylvania"
+        }
+    ],
+    "fields_of_study": [
+        "Parsing",
+        "ID/LP grammar",
+        "First-generation programming language",
+        "Definite clause grammar",
+        "Fifth-generation programming language",
+        "Programming language",
+        "Dependency grammar",
+        "Difference list",
+        "Linear logic",
+        "Computer science"
+    ],
+    "references": [
+        "1491642900",
+        "2106458801"
+    ]
+}

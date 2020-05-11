@@ -1,0 +1,46 @@
+{
+    "id": "121576719",
+    "title": "A Family of Performance Bounds for QoS Measures in Packet-Based Networks",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jozsef Biro",
+            "id": "1270049351",
+            "org": "Budapest University of Technology and Economics"
+        },
+        {
+            "name": "Zalan Heszberger",
+            "id": "654969642",
+            "org": "Budapest University of Technology and Economics"
+        },
+        {
+            "name": "Matyas Martinecz",
+            "id": "240746394",
+            "org": "Budapest University of Technology and Economics"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Multiplexer",
+        "Workload",
+        "STREAMS",
+        "Quality of service",
+        "Network packet",
+        "Statistical time division multiplexing",
+        "Distributed computing",
+        "Packet switching",
+        "Computer science",
+        "Simulation",
+        "Multiplexing"
+    ],
+    "references": [
+        "1495115708",
+        "1590454313",
+        "2099682330",
+        "2118315375",
+        "2146212519",
+        "2161533159",
+        "2163498464"
+    ]
+}

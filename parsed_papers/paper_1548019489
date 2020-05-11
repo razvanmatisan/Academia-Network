@@ -1,0 +1,74 @@
+{
+    "id": "1548019489",
+    "title": "Ontology-driven Semantic Mapping",
+    "venue": "IESA",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Domenico Beneventano",
+            "id": "53516667",
+            "org": "University of Modena and Reggio Emilia"
+        },
+        {
+            "name": "Nikolai Dahlem",
+            "id": "2006551599",
+            "org": "University of Oldenburg"
+        },
+        {
+            "name": "Sabina El Haoum",
+            "id": "40843710",
+            "org": "University of Oldenburg"
+        },
+        {
+            "name": "Axel Hahn",
+            "id": "2111185446",
+            "org": "University of Oldenburg"
+        },
+        {
+            "name": "Daniele Montanari",
+            "id": "2531540500",
+            "org": "University of Modena and Reggio Emilia"
+        },
+        {
+            "name": "Daniele Montanari",
+            "id": "2531540500",
+            "org": "University of Modena and Reggio Emilia"
+        },
+        {
+            "name": "Matthias Reinelt",
+            "id": "1966410667",
+            "org": "University of Oldenburg"
+        }
+    ],
+    "fields_of_study": [
+        "Semi-structured model",
+        "IDEF1X",
+        "Relational database",
+        "Entity-attribute-value model",
+        "Database",
+        "Data model",
+        "Logical data model",
+        "Database model",
+        "Data mining",
+        "Data modeling",
+        "Computer science"
+    ],
+    "references": [
+        "17359543",
+        "185339439",
+        "1526993786",
+        "1540588418",
+        "1563421732",
+        "1590030008",
+        "1602640167",
+        "1620530708",
+        "1720090307",
+        "1878684993",
+        "1970348112",
+        "1998017916",
+        "2008896880",
+        "2148572968",
+        "2156543375",
+        "2157177828"
+    ]
+}

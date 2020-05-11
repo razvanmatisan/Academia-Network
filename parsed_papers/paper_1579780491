@@ -1,0 +1,34 @@
+{
+    "id": "1579780491",
+    "title": "A Temporal Logic Based Approach for Querying Lists, Trees, and DAGs in Databases",
+    "venue": "database and expert systems applications",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Peter Becker",
+            "id": "2133410109",
+            "org": "Universitat Tubingen"
+        }
+    ],
+    "fields_of_study": [
+        "Database theory",
+        "Database",
+        "Temporal database",
+        "Data mining",
+        "View",
+        "Query language",
+        "Database model",
+        "Database design",
+        "Computer science",
+        "Graph database",
+        "Temporal logic"
+    ],
+    "references": [
+        "1533094227",
+        "1533680255",
+        "1535202338",
+        "1971845537",
+        "2117189826",
+        "2123975697"
+    ]
+}

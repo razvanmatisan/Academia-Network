@@ -1,0 +1,59 @@
+{
+    "id": "142727657",
+    "title": "Formal Modeling and Analysis of Google's Megastore in Real-Time Maude",
+    "venue": "Specification, Algebra, and Software",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Jon Grov",
+            "id": "2157813697",
+            "org": "University of Oslo"
+        },
+        {
+            "name": "Peter Csaba Olveczky",
+            "id": "1969596599",
+            "org": "University of Oslo"
+        },
+        {
+            "name": "Peter Csaba Olveczky",
+            "id": "1969596599",
+            "org": "University of Oslo"
+        }
+    ],
+    "fields_of_study": [
+        "Replication (computing)",
+        "Correctness",
+        "Partial order reduction",
+        "Database",
+        "Fault tolerance",
+        "Data consistency",
+        "Cloud computing",
+        "Scalability",
+        "Data mining",
+        "Executable",
+        "Computer science"
+    ],
+    "references": [
+        "34080975",
+        "157143398",
+        "1529485247",
+        "1545155892",
+        "1647909232",
+        "1678943029",
+        "1930925468",
+        "1976195354",
+        "1979754763",
+        "1983404251",
+        "2006340882",
+        "2011886298",
+        "2015911750",
+        "2029227380",
+        "2036245042",
+        "2042601303",
+        "2053643516",
+        "2098979034",
+        "2112564224",
+        "2130923111",
+        "2501226527"
+    ]
+}

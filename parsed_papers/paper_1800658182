@@ -1,0 +1,29 @@
+{
+    "id": "1800658182",
+    "title": "A simple set of grasps for a dextrous hand",
+    "venue": "international conference on robotics and automation",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Damian Lyons",
+            "id": "2709148946",
+            "org": "University of Massachusetts Amherst, MA"
+        }
+    ],
+    "fields_of_study": [
+        "Control engineering",
+        "Grippers",
+        "Engineering",
+        "Simple set",
+        "Social robot",
+        "Robot control",
+        "Simulation",
+        "Obstacle avoidance",
+        "GRASP",
+        "Robot kinematics"
+    ],
+    "references": [
+        "1974905959",
+        "2071572887"
+    ]
+}

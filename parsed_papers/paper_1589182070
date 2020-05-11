@@ -1,0 +1,42 @@
+{
+    "id": "1589182070",
+    "title": "The Socio-cognitive Dynamics of Trust: Does Trust Create Trust?",
+    "venue": "Autonomous Agents and Multi-Agent Systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Rino Falcone",
+            "id": "2120827896",
+            "org": "IP-CNR"
+        },
+        {
+            "name": "Cristiano Castelfranchi",
+            "id": "1454892516",
+            "org": "University of Siena"
+        }
+    ],
+    "fields_of_study": [
+        "Socio-cognitive",
+        "Autonomous agent",
+        "Social psychology",
+        "Express trust",
+        "Distributed computing",
+        "Computer science",
+        "Computer-supported cooperative work",
+        "Social environment",
+        "Computational trust",
+        "Distrust",
+        "Multi-agent system",
+        "Knowledge management"
+    ],
+    "references": [
+        "114946642",
+        "1551191033",
+        "1965203309",
+        "2101340738",
+        "2119471769",
+        "2149596454",
+        "2158137731",
+        "2719947707"
+    ]
+}

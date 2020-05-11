@@ -1,0 +1,44 @@
+{
+    "id": "1608022359",
+    "title": "A Method to Estimate the True Mahalanobis Distance from Eigenvectors of Sample Covariance Matrix",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Masakazu Iwamura",
+            "id": "2062184520",
+            "org": "Tohoku University"
+        },
+        {
+            "name": "Shinichiro Omachi",
+            "id": "2014607665",
+            "org": "Tohoku University"
+        },
+        {
+            "name": "Hirotomo Aso",
+            "id": "2154469221",
+            "org": "Tohoku University"
+        }
+    ],
+    "fields_of_study": [
+        "Statistics",
+        "Estimation of covariance matrices",
+        "Covariance matrix",
+        "Sample size determination",
+        "Eigenvalues and eigenvectors",
+        "Mahalanobis distance",
+        "Feature vector",
+        "System identification",
+        "Estimation theory",
+        "Artificial intelligence",
+        "Mathematics",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1758608206",
+        "1942730901",
+        "2054542173",
+        "2102426190",
+        "2112625074"
+    ]
+}

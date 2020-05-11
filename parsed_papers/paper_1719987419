@@ -1,0 +1,35 @@
+{
+    "id": "1719987419",
+    "title": "Mining fuzzy quantitative association rules",
+    "venue": "international conference on tools with artificial intelligence",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Weining Zhang",
+            "id": "2164236968",
+            "org": "Div. of Comput. Sci., Texas Univ., San Antonio, TX, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Fuzzy set",
+        "Neuro-fuzzy",
+        "Fuzzy logic",
+        "Fuzzy associative matrix",
+        "Computer science",
+        "Fuzzy set operations",
+        "Pattern recognition",
+        "Relational model",
+        "Defuzzification",
+        "Fuzzy classification"
+    ],
+    "references": [
+        "1578959085",
+        "1597561788",
+        "2000473687",
+        "2030969394",
+        "2166559705",
+        "2172140030"
+    ]
+}

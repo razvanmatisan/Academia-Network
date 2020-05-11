@@ -1,0 +1,46 @@
+{
+    "id": "1607248944",
+    "title": "From Programming Languages to Program Construction",
+    "venue": "JMLC '97 Proceedings of the Joint Modular Languages Conference on Modular Programming Languages",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Gerhard Goos",
+            "id": "2617242502",
+            "org": "Universitat Karlsruhe"
+        },
+        {
+            "name": "Gerhard Goos",
+            "id": "2617242502",
+            "org": "Universitat Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "Fourth-generation programming language",
+        "First-generation programming language",
+        "Very high-level programming language",
+        "Natural language processing",
+        "Fifth-generation programming language",
+        "Second-generation programming language",
+        "Programming domain",
+        "Programming language theory",
+        "Artificial intelligence",
+        "Third-generation programming language",
+        "Programming language",
+        "Computer science"
+    ],
+    "references": [
+        "120648252",
+        "239529851",
+        "1555946950",
+        "1608482003",
+        "2004528131",
+        "2008005772",
+        "2054813151",
+        "2074382209",
+        "2093916942",
+        "2094718150",
+        "2111706174",
+        "2151318905"
+    ]
+}

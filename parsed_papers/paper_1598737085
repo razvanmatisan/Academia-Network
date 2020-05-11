@@ -1,0 +1,41 @@
+{
+    "id": "1598737085",
+    "title": "Performance of a multi-hops configuration with 802.11: from simulation to experimentation",
+    "venue": "personal, indoor and mobile radio communications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Dominique Dhoutaut",
+            "id": "2569077649",
+            "org": "INRIA, Lyon, France"
+        },
+        {
+            "name": "Isabelle Guerin Lassous",
+            "id": "178048657",
+            "org": "INRIA, Lyon, France"
+        }
+    ],
+    "fields_of_study": [
+        "Optimized Link State Routing Protocol",
+        "Wireless network",
+        "Wireless ad hoc network",
+        "Computer network",
+        "Wireless Routing Protocol",
+        "Ad hoc wireless distribution service",
+        "Mobile wireless sensor network",
+        "Monitor mode",
+        "Mobile ad hoc network",
+        "Computer science"
+    ],
+    "references": [
+        "1489058467",
+        "2090609496",
+        "2090812150",
+        "2102258543",
+        "2134127549",
+        "2140650390",
+        "2150686332",
+        "2151579255",
+        "2160078974"
+    ]
+}

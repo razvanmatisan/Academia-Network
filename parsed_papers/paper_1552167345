@@ -1,0 +1,31 @@
+{
+    "id": "1552167345",
+    "title": "JIL and Little-JIL Process Programming Languages",
+    "venue": "european workshop on software process technology",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Leon J. Osterweil",
+            "id": "2248607981",
+            "org": "Computer Science Department, University of Massachusetts, Amherst,"
+        }
+    ],
+    "fields_of_study": [
+        "Fourth-generation programming language",
+        "Fifth-generation programming language",
+        "Natural language processing",
+        "Very high-level programming language",
+        "Programming domain",
+        "Comparison of multi-paradigm programming languages",
+        "Programming language",
+        "Second-generation programming language",
+        "Programming language theory",
+        "Computer science",
+        "Third-generation programming language",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1556728779",
+        "2037338734"
+    ]
+}

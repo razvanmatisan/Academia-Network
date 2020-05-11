@@ -1,0 +1,42 @@
+{
+    "id": "1556950746",
+    "title": "GALOIS : An order-theoretic approach to conceptual clustering",
+    "venue": "international conference on machine learning",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Claudio Carpineto",
+            "id": "345201748",
+            "org": "Fondazione Ugo Bordoni, Via B. Castiglione 59,00142 Rome (Italy), fubdpt5@itcaspur.bitnet"
+        },
+        {
+            "name": "Giovanni Romano",
+            "id": "2584411106",
+            "org": "Fondazione Ugo Bordoni, Via B. Castiglione 59,00142 Rome (Italy), fubdpt5@itcaspur.bitnet"
+        }
+    ],
+    "fields_of_study": [
+        "Hierarchy",
+        "Lattice (order)",
+        "Machine learning",
+        "Time complexity",
+        "Discrete mathematics",
+        "Concept class",
+        "Data set",
+        "Artificial intelligence",
+        "Conceptual clustering",
+        "Ranging",
+        "Embedding problem",
+        "Mathematics"
+    ],
+    "references": [
+        "13805095",
+        "103386657",
+        "2009207944",
+        "2019011401",
+        "2050206309",
+        "2061867426",
+        "2073308541",
+        "2123348243"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "1498097761",
+    "title": "Face Recognition by Elastic Bunch Graph Matching",
+    "venue": "computer analysis of images and patterns",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Laurenz Wiskott",
+            "id": "1990986594",
+            "org": "Ruhr-Universitat Bochum"
+        },
+        {
+            "name": "Jean Marc Fellous",
+            "id": "2574613491",
+            "org": "University of Southern California"
+        },
+        {
+            "name": "Norbert Kruger",
+            "id": "2693806737",
+            "org": "Ruhr-Universitat Bochum"
+        },
+        {
+            "name": "Christoph von der Malsburg",
+            "id": "671369575",
+            "org": "Ruhr-Universitat Bochum"
+        },
+        {
+            "name": "Christoph von der Malsburg",
+            "id": "671369575",
+            "org": "Ruhr-Universitat Bochum"
+        }
+    ],
+    "fields_of_study": [
+        "Feature detection (computer vision)",
+        "Artificial intelligence",
+        "Computer vision",
+        "FERET database",
+        "Wavelet",
+        "Matching (graph theory)",
+        "Image processing",
+        "Computer science",
+        "Pattern recognition",
+        "Small set",
+        "Fiducial marker",
+        "Facial recognition system"
+    ],
+    "references": [
+        "2095757522",
+        "2135958844"
+    ]
+}

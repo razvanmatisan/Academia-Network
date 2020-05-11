@@ -1,0 +1,39 @@
+{
+    "id": "1594838834",
+    "title": "VizzScheduler - A Framework for the Visualization of Scheduling Algorithms",
+    "venue": "european conference on parallel processing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Welf Lowe",
+            "id": "2337807632",
+            "org": "Universitat Karlsruhe"
+        },
+        {
+            "name": "Alex Liebrich",
+            "id": "2550448693",
+            "org": "Universitat Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Visualization",
+        "Fair-share scheduling",
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Scheduling (computing)",
+        "Dynamic priority scheduling",
+        "Distributed computing",
+        "Rate-monotonic scheduling",
+        "Computer science",
+        "Fixed-priority pre-emptive scheduling"
+    ],
+    "references": [
+        "1528240692",
+        "1997424516",
+        "2068620347",
+        "2071353749",
+        "2102061396",
+        "2114984024"
+    ]
+}

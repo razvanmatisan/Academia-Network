@@ -1,0 +1,39 @@
+{
+    "id": "1583293671",
+    "title": "Performance analysis of a wireless ad hoc network with QoS support",
+    "venue": "Telecommunication Systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Matthias Lott",
+            "id": "2298181549",
+            "org": "Communication Networks, Aachen University of Technology, Aachen, Germany D-52074#TAB#"
+        },
+        {
+            "name": "Bernhard Walke",
+            "id": "2135267272",
+            "org": "Communication Networks, Aachen University of Technology, Aachen, Germany D-52074#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Wireless ad hoc network",
+        "Network simulation",
+        "Computer network",
+        "Real-time computing",
+        "Wireless network",
+        "Wireless WAN",
+        "Ad hoc wireless distribution service",
+        "Vehicular ad hoc network",
+        "Dynamic circuit network",
+        "Computer science",
+        "Mobile ad hoc network"
+    ],
+    "references": [
+        "28367358",
+        "1515357656",
+        "2001630315",
+        "2010048129",
+        "2153964544",
+        "2158283087"
+    ]
+}

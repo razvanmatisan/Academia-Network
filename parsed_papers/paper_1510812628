@@ -1,0 +1,40 @@
+{
+    "id": "1510812628",
+    "title": "A New Architecture for Open and Distributed Network Management",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Rob Davison",
+            "id": "2282287985",
+            "org": "Martlesham Heath"
+        },
+        {
+            "name": "Jim Hardwicke",
+            "id": "2225550139",
+            "org": "Martlesham Heath"
+        }
+    ],
+    "fields_of_study": [
+        "Space-based architecture",
+        "Database-centric architecture",
+        "Resource-oriented architecture",
+        "Reference architecture",
+        "Systems engineering",
+        "Distributed computing",
+        "Embedded system",
+        "Software architecture description",
+        "Systems architecture",
+        "Enterprise architecture management",
+        "Applications architecture",
+        "Computer science"
+    ],
+    "references": [
+        "1491376501",
+        "1550884769",
+        "1572261084",
+        "2128745534",
+        "2165065735",
+        "2167132036"
+    ]
+}

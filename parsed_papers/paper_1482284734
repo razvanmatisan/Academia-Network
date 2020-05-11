@@ -1,0 +1,51 @@
+{
+    "id": "1482284734",
+    "title": "A Probabilistic Approach to High-Resolution Sleep Analysis",
+    "venue": "international conference on artificial neural networks",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Peter Sykacek",
+            "id": "40102262",
+            "org": "University of Oxford"
+        },
+        {
+            "name": "S. Roberts",
+            "id": "2132254683",
+            "org": "University of Oxford"
+        },
+        {
+            "name": "Iead Rezek",
+            "id": "1977850406",
+            "org": "University of Oxford"
+        },
+        {
+            "name": "Arthur Flexer",
+            "id": "2108214723",
+            "org": "Austrian Research Institute for Artificial Intelligence (OFAI)"
+        },
+        {
+            "name": "Georg Dorffner",
+            "id": "47635607",
+            "org": "Austrian Research Institute for Artificial Intelligence (OFAI)"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern recognition",
+        "Slow-wave sleep",
+        "Machine learning",
+        "Feature extraction",
+        "Probabilistic logic",
+        "Sensor fusion",
+        "Mixture model",
+        "Artificial intelligence",
+        "Naive Bayes classifier",
+        "Architecture",
+        "Divide and conquer algorithms",
+        "Computer science"
+    ],
+    "references": [
+        "1618600317",
+        "2170063046"
+    ]
+}

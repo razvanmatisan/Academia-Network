@@ -1,0 +1,41 @@
+{
+    "id": "1710909947",
+    "title": "Symbolic Bisimulation for Full LOTOS",
+    "venue": "algebraic methodology and software technology",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Carron Shankland",
+            "id": "2123252496",
+            "org": "University of Stirling"
+        },
+        {
+            "name": "Muffy Thomas",
+            "id": "2142884689",
+            "org": "University of Glasgow"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Process calculus",
+        "Transition system",
+        "Symbolic trajectory evaluation",
+        "Theoretical computer science",
+        "Message passing",
+        "Modal logic",
+        "Algorithm",
+        "Specification language",
+        "Expression (mathematics)",
+        "Bisimulation",
+        "Mathematics"
+    ],
+    "references": [
+        "1503973138",
+        "1516733774",
+        "1978469611",
+        "2016427594",
+        "2110425399",
+        "2121372686",
+        "2125840156"
+    ]
+}

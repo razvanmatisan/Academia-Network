@@ -1,0 +1,34 @@
+{
+    "id": "1589158963",
+    "title": "On the definition of service abstractions for parallel computing",
+    "venue": "parallel processing and applied mathematics",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Herve Paulino",
+            "id": "2062486476",
+            "org": "Departamento de Informatica, Universidade Nova de Lisboa, Portugal#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Task parallelism",
+        "Data parallelism",
+        "Theoretical computer science",
+        "Data-intensive computing",
+        "Concurrent computing",
+        "Service abstraction",
+        "Parallel computing",
+        "Instruction-level parallelism",
+        "Unconventional computing",
+        "Computer science",
+        "Implicit parallelism",
+        "Distributed computing"
+    ],
+    "references": [
+        "1502671631",
+        "2024437592",
+        "2104861744",
+        "2109065830",
+        "2169816952"
+    ]
+}

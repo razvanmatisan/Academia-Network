@@ -1,0 +1,35 @@
+{
+    "id": "1567535579",
+    "title": "A distributed verification approach for modular Petri nets",
+    "venue": "summer computer simulation conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Chiheb Ameur Abid",
+            "id": "2325026064",
+            "org": "University El Manar - Tunisia#TAB#"
+        },
+        {
+            "name": "Belhassen Zouari",
+            "id": "2031729438",
+            "org": "University El Manar - Tunisia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computation",
+        "Computer science",
+        "Modular design",
+        "Modularity",
+        "Liveness",
+        "Petri net",
+        "Distributed computing",
+        "Theoretical computer science",
+        "State space"
+    ],
+    "references": [
+        "1484374924",
+        "1822289477",
+        "2097948904",
+        "2159050858"
+    ]
+}

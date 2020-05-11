@@ -1,0 +1,44 @@
+{
+    "id": "1589797874",
+    "title": "Phase transition and the computational complexity of generating r-contiguous detectors",
+    "venue": "international conference on artificial immune systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Thomas Stibor",
+            "id": "304242683",
+            "org": "Department of Computer Science, Darmstadt University of Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Random search",
+        "True quantified Boolean formula",
+        "Artificial intelligence",
+        "Machine learning",
+        "Mathematical optimization",
+        "Contiguity (probability theory)",
+        "Detector",
+        "Phase transition",
+        "Algorithm",
+        "Computational complexity theory",
+        "Computer science",
+        "Bit array"
+    ],
+    "references": [
+        "154167761",
+        "292097496",
+        "1551657146",
+        "1567405466",
+        "1602455294",
+        "1973734335",
+        "2015932695",
+        "2057361103",
+        "2062897452",
+        "2075335084",
+        "2129624205",
+        "2129766896",
+        "2132796171",
+        "2152448081",
+        "2167894027"
+    ]
+}

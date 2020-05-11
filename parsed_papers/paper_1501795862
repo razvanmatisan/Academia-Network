@@ -1,0 +1,29 @@
+{
+    "id": "1501795862",
+    "title": "Integration of Object-Oriented Analysis and Algebraic Specifications",
+    "venue": "conference on current trends in theory and practice of informatics",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Zuzana Repaska",
+            "id": "2293441098",
+            "org": "Comenius University"
+        }
+    ],
+    "fields_of_study": [
+        "Application domain",
+        "Algebraic specification",
+        "Formal methods",
+        "Specification language",
+        "Computer science",
+        "Abstract data type",
+        "Object-oriented analysis and design",
+        "Formal specification",
+        "Algebraic modeling language",
+        "Theoretical computer science"
+    ],
+    "references": [
+        "1505504789",
+        "2099293367"
+    ]
+}

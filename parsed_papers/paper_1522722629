@@ -1,0 +1,32 @@
+{
+    "id": "1522722629",
+    "title": "Complexity and cartesian genetic programming",
+    "venue": "european conference on genetic programming",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "John R. Woodward",
+            "id": "2104603560",
+            "org": "The University of Birmingham, Birmingham, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Directed acyclic graph",
+        "Function representation",
+        "Genetic algorithm",
+        "Evolutionary algorithm",
+        "Directed graph",
+        "Evolutionary computation",
+        "Theoretical computer science",
+        "Independent set",
+        "Computer science",
+        "Genetic programming"
+    ],
+    "references": [
+        "1529765755",
+        "1532497150",
+        "1775913388",
+        "1844704347",
+        "2149362532"
+    ]
+}

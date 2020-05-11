@@ -1,0 +1,38 @@
+{
+    "id": "1545761000",
+    "title": "Multi-Scale Active Shape Description",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Julia A. Schnabel",
+            "id": "2110742426",
+            "org": "University College London"
+        },
+        {
+            "name": "Simon R. Arridge",
+            "id": "302542049",
+            "org": "University College London"
+        }
+    ],
+    "fields_of_study": [
+        "Active shape model",
+        "Internal energy",
+        "Feature (computer vision)",
+        "Curvature",
+        "Image gradient",
+        "Active contour model",
+        "Shape analysis (digital geometry)",
+        "Spline (mathematics)",
+        "Computer science",
+        "Artificial intelligence",
+        "Computer vision"
+    ],
+    "references": [
+        "1505899388",
+        "2049613322",
+        "2104095591",
+        "2120959665",
+        "2121009299"
+    ]
+}

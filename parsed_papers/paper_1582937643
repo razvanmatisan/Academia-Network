@@ -1,0 +1,38 @@
+{
+    "id": "1582937643",
+    "title": "Clustering Ontology-Based Metadata in the Semantic Web",
+    "venue": "european conference on principles of data mining and knowledge discovery",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Alexander Maedche",
+            "id": "268444295",
+            "org": "FZI Research Center for Information Technologies at the University of Karlsruhe"
+        },
+        {
+            "name": "Valentin Zacharias",
+            "id": "1954461040",
+            "org": "FZI Research Center for Information Technologies at the University of Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Synonym ring",
+        "Data mining",
+        "Information retrieval",
+        "Web modeling",
+        "Metadata repository",
+        "Social Semantic Web",
+        "Metadata",
+        "Semantic grid",
+        "Ontology (information science)",
+        "Semantic Web Stack"
+    ],
+    "references": [
+        "156656192",
+        "1513527572",
+        "1522217894",
+        "1574901103",
+        "1692244837"
+    ]
+}

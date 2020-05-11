@@ -1,0 +1,34 @@
+{
+    "id": "1756571804",
+    "title": "Rough sets and flow graphs",
+    "venue": "granular computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Zdzislaw Pawlak",
+            "id": "702337841",
+            "org": ",Institute for Theoretical and Applied Informatics, Polish Academy of Sciences, Gliwice, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Independent set",
+        "Pathwidth",
+        "Intersection graph",
+        "Indifference graph",
+        "Control flow graph",
+        "Combinatorics",
+        "Partial k-tree",
+        "Dominance-based rough set approach",
+        "Mathematics",
+        "Rough set"
+    ],
+    "references": [
+        "1481579063",
+        "1485091391",
+        "1519441199",
+        "1846245088",
+        "2016487173",
+        "2040745298"
+    ]
+}

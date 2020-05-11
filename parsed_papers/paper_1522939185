@@ -1,0 +1,41 @@
+{
+    "id": "1522939185",
+    "title": "Modeling, Simulation and Analysis of Business Processes",
+    "venue": "business process management",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Jorg Desel",
+            "id": "711210281",
+            "org": "Katholische Universitat Eichstatt"
+        },
+        {
+            "name": "Thomas Erwin",
+            "id": "2154567388",
+            "org": "Universitat Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Computer science",
+        "Business activity monitoring",
+        "Process management",
+        "Business process discovery",
+        "Process modeling",
+        "Business Process Model and Notation",
+        "Business process modeling",
+        "Management science",
+        "Artifact-centric business process model",
+        "New business development",
+        "Business rule"
+    ],
+    "references": [
+        "71674555",
+        "112548336",
+        "1482907704",
+        "1576317809",
+        "1602726879",
+        "2129466958",
+        "2294726913"
+    ]
+}

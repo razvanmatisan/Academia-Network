@@ -1,0 +1,32 @@
+{
+    "id": "1492764525",
+    "title": "An Action Semantics of Standard ML",
+    "venue": "Proceedings of the 3rd Workshop on Mathematical Foundations of Programming Language Semantics",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "David A. Watt",
+            "id": "2100417130",
+            "org": "University of Glasgow"
+        }
+    ],
+    "fields_of_study": [
+        "Standard ML",
+        "Natural language processing",
+        "Denotational semantics",
+        "Modular design",
+        "Rule of inference",
+        "Abstract syntax",
+        "Operational semantics",
+        "Action semantics",
+        "Normalisation by evaluation",
+        "Programming language",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1485242112",
+        "2131733202",
+        "2166822586"
+    ]
+}

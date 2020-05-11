@@ -1,0 +1,38 @@
+{
+    "id": "1536904578",
+    "title": "Modeling linguistic segment and turn boundaries for n-best rescoring of spontaneous speech.",
+    "venue": "conference of the international speech communication association",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Andreas Stolcke",
+            "id": "684032073",
+            "org": "Speech Technology and Research Laboratory|SRI International"
+        }
+    ],
+    "fields_of_study": [
+        "Linguistics",
+        "Perplexity",
+        "Speech recognition",
+        "Word error rate",
+        "Artificial intelligence",
+        "Utterance",
+        "Transcription (linguistics)",
+        "Training set",
+        "Syntax",
+        "Pattern recognition",
+        "Language model",
+        "Computer science",
+        "Test set"
+    ],
+    "references": [
+        "85853872",
+        "1504308419",
+        "1528470941",
+        "2124246394",
+        "2127305722",
+        "2134237567",
+        "2139884663",
+        "2152439927"
+    ]
+}

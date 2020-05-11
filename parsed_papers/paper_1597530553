@@ -1,0 +1,29 @@
+{
+    "id": "1597530553",
+    "title": "Efficient algorithms for finding minimum spanning forests of hierarchically defined graphs",
+    "venue": "symposium on theoretical aspects of computer science",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Thomas Lengauer",
+            "id": "128580411",
+            "org": "Universitat-Gesamthochschule Paderborn"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Combinatorics",
+        "Geometric graph theory",
+        "Pathwidth",
+        "Computer science",
+        "Partial k-tree",
+        "1-planar graph",
+        "Clique-width",
+        "Block graph",
+        "Reverse-delete algorithm",
+        "Line graph"
+    ],
+    "references": [
+        "2011999472"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": "1599429707",
+    "title": "A feeling estimation system using a simple electroencephalograph",
+    "venue": "systems, man and cybernetics",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Keisuke Ishino",
+            "id": "2401206709",
+            "org": "Dept. of Information & Comput. Sci., Keio Univ., Yokohama, Japan"
+        },
+        {
+            "name": "Masafumi Hagiwara",
+            "id": "2782871495",
+            "org": "Dept. of Information & Comput. Sci., Keio Univ., Yokohama, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Feeling",
+        "Artificial intelligence",
+        "Artificial neural network",
+        "Wavelet transform",
+        "Presumption",
+        "Computer science",
+        "User interface"
+    ],
+    "references": []
+}

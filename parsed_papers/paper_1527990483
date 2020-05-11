@@ -1,0 +1,41 @@
+{
+    "id": "1527990483",
+    "title": "X-Movie: Transmission and Presentation of Digital Movies under X",
+    "venue": "network and operating system support for digital audio and video",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Bernd Lamparter",
+            "id": "2310287261",
+            "org": "University of Mannheim"
+        },
+        {
+            "name": "Wolfgang Effelsberg",
+            "id": "346279324",
+            "org": "University of Mannheim"
+        }
+    ],
+    "fields_of_study": [
+        "User Datagram Protocol",
+        "Workstation",
+        "JPEG",
+        "Computer hardware",
+        "Lookup table",
+        "Graphics",
+        "Colour look-up table",
+        "Computer graphics (images)",
+        "Transmission (mechanics)",
+        "Computer science"
+    ],
+    "references": [
+        "1497903451",
+        "1996669827",
+        "2083090426",
+        "2094118569",
+        "2115907784",
+        "2141160765",
+        "2141354969",
+        "2141989737",
+        "2171469656"
+    ]
+}

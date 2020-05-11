@@ -1,0 +1,44 @@
+{
+    "id": "151780725",
+    "title": "Nested boolean functions as models for quantified boolean formulas",
+    "venue": "theory and applications of satisfiability testing",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Uwe Bubeck",
+            "id": "166185736",
+            "org": "Computer Science Institute, University of Paderborn, Germany#TAB#"
+        },
+        {
+            "name": "Hans Kleine Buning",
+            "id": "709620937",
+            "org": "Computer Science Institute, University of Paderborn, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "And-inverter graph",
+        "Discrete mathematics",
+        "Standard Boolean model",
+        "Combinatorics",
+        "Two-element Boolean algebra",
+        "Product term",
+        "Maximum satisfiability problem",
+        "Complete Boolean algebra",
+        "Boolean expression",
+        "Free Boolean algebra",
+        "Mathematics"
+    ],
+    "references": [
+        "81859766",
+        "119782953",
+        "160316455",
+        "1481600050",
+        "1553565837",
+        "1606555018",
+        "1862403209",
+        "2070447189",
+        "2127982853",
+        "2181485522",
+        "2396421073"
+    ]
+}

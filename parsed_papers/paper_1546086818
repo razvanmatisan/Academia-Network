@@ -1,0 +1,34 @@
+{
+    "id": "1546086818",
+    "title": "Security in the Web Services Framework",
+    "venue": "ISICT '03 Proceedings of the 1st international symposium on Information and communication technologies",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Chen Li",
+            "id": "2304327608",
+            "org": "Dublin City University, Dublin, Ireland#TAB#"
+        },
+        {
+            "name": "Claus Pahl",
+            "id": "2034630422",
+            "org": "Dublin City University, Dublin, Ireland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Web standards",
+        "Devices Profile for Web Services",
+        "Web application security",
+        "World Wide Web",
+        "Web modeling",
+        "Web service",
+        "Database",
+        "Web development",
+        "WS-I Basic Profile",
+        "Computer science",
+        "WS-Policy"
+    ],
+    "references": [
+        "1511330882"
+    ]
+}

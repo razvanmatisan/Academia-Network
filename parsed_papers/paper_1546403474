@@ -1,0 +1,44 @@
+{
+    "id": "1546403474",
+    "title": "Efficient edge domination on hole-free graphs in polynomial time",
+    "venue": "latin american symposium on theoretical informatics",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Andreas Brandstadt",
+            "id": "685161046",
+            "org": "Institut fur Informatik, Universitat Rostock, Rostock, Germany#TAB#"
+        },
+        {
+            "name": "Christian Hundt",
+            "id": "1992962625",
+            "org": "Institut fur Informatik, Universitat Rostock, Rostock, Germany#TAB#"
+        },
+        {
+            "name": "Ragnar Nevries",
+            "id": "322656107",
+            "org": "Institut fur Informatik, Universitat Rostock, Rostock, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Independent set",
+        "Discrete mathematics",
+        "Hopcroft-Karp algorithm",
+        "Combinatorics",
+        "Bipartite graph",
+        "Matching (graph theory)",
+        "Indifference graph",
+        "Strong perfect graph theorem",
+        "Chordal graph",
+        "1-planar graph",
+        "Mathematics"
+    ],
+    "references": [
+        "1486102037",
+        "1526291627",
+        "2047747666",
+        "2092503911",
+        "2093628106",
+        "2159003936"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "1517664618",
+    "title": "The Scope of Turing's Analysis of Effective Procedures",
+    "venue": "Minds and Machines",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jeremy Seligman",
+            "id": "1978212323",
+            "org": "Philosophy Department, The University of Auckland, Private Bag 92019, Auckland, New Zealand"
+        }
+    ],
+    "fields_of_study": [
+        "Turing degree",
+        "Decision problem",
+        "Turing",
+        "Artificial intelligence",
+        "Algorithm characterizations",
+        "Philosophy of mathematics",
+        "Algorithm",
+        "Turing machine",
+        "Super-recursive algorithm",
+        "Computer science",
+        "Appeal"
+    ],
+    "references": [
+        "1589227155",
+        "2074067015"
+    ]
+}

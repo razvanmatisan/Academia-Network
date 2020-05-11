@@ -1,0 +1,31 @@
+{
+    "id": "1605746882",
+    "title": "Job Scheduling Under the Portable Batch System",
+    "venue": "job scheduling strategies for parallel processing",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Robert L. Henderson",
+            "id": "2578756910",
+            "org": "NASA Contract NAS 2-12961"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Job queue",
+        "Two-level scheduling",
+        "Fair-share scheduling",
+        "Real-time computing",
+        "Distributed computing",
+        "Queue management system",
+        "FIFO (computing and electronics)",
+        "Job scheduler",
+        "Scheduling (computing)",
+        "Portable Batch System"
+    ],
+    "references": [
+        "2112049462",
+        "2134342348",
+        "2140332639"
+    ]
+}

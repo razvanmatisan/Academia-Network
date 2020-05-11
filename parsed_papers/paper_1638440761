@@ -1,0 +1,47 @@
+{
+    "id": "1638440761",
+    "title": "Probabilistic line searches for stochastic optimization",
+    "venue": "neural information processing systems",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Maren Mahsereci",
+            "id": "2510445983",
+            "org": "Max Planck Institute for Intelligent Systems, Tubingen, Germany#TAB#"
+        },
+        {
+            "name": "Philipp Hennig",
+            "id": "1897691719",
+            "org": "Max Planck Institute for Intelligent Systems, Tubingen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Bayesian optimization",
+        "Artificial intelligence",
+        "Mathematics",
+        "Mathematical optimization",
+        "Machine learning",
+        "Univariate",
+        "Gaussian process",
+        "Probabilistic-based design optimization",
+        "Stochastic gradient descent",
+        "Wolfe conditions",
+        "Probabilistic logic",
+        "Stochastic optimization"
+    ],
+    "references": [
+        "1510052597",
+        "1598497354",
+        "1746819321",
+        "2091825929",
+        "2120420045",
+        "2138806252",
+        "2146502635",
+        "2146917784",
+        "2148721460",
+        "2164447077",
+        "2166347285",
+        "2166851633",
+        "2168947765"
+    ]
+}

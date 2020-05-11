@@ -1,0 +1,35 @@
+{
+    "id": "1788920509",
+    "title": "Fast Selective Detection of Rotational Symmetries Using Normalized Inhibition",
+    "venue": "european conference on computer vision",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Bjorn Johansson",
+            "id": "2126669522",
+            "org": "Linkoping University"
+        },
+        {
+            "name": "Gosta H. Granlund",
+            "id": "2032122550",
+            "org": "Linkoping University"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Color image",
+        "Discrete mathematics",
+        "Curvature",
+        "Computer vision",
+        "Aerial image",
+        "Image processing",
+        "Rotational symmetry",
+        "Small number",
+        "Differential geometry",
+        "Homogeneous space",
+        "Mathematics"
+    ],
+    "references": [
+        "1553200558"
+    ]
+}

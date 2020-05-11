@@ -1,0 +1,22 @@
+{
+    "id": "1492974543",
+    "title": "Concurrent hierarchical reinforcement learning",
+    "venue": "national conference on artificial intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Bhaskara Marthi",
+            "id": "289212482",
+            "org": "Department of Computer Science, University of California, Berkeley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Reinforcement learning",
+        "Computer science"
+    ],
+    "references": [
+        "1801398035"
+    ]
+}

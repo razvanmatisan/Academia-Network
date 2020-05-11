@@ -1,0 +1,48 @@
+{
+    "id": "181546633",
+    "title": "Module-theoretic Properties of Reachability Modules for SRIQ.",
+    "venue": "Description Logics",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Riku Nortje",
+            "id": "1947720807",
+            "org": "Council for Scientific and Industrial Research"
+        },
+        {
+            "name": "Arina Britz",
+            "id": "2000470477",
+            "org": "Council for Scientific and Industrial Research"
+        },
+        {
+            "name": "Thomas Meyer",
+            "id": "2120455994",
+            "org": "Council for Scientific and Industrial Research"
+        }
+    ],
+    "fields_of_study": [
+        "Modular programming",
+        "Logical consequence",
+        "Robustness (computer science)",
+        "Description logic",
+        "Locality",
+        "Natural language processing",
+        "Reachability",
+        "Theoretical computer science",
+        "Ontology (information science)",
+        "Syntax",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "75875544",
+        "176666407",
+        "182170734",
+        "1489624549",
+        "1559245618",
+        "1560547419",
+        "1796742120",
+        "2147729309",
+        "2160522235"
+    ]
+}

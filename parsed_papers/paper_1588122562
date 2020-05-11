@@ -1,0 +1,47 @@
+{
+    "id": "1588122562",
+    "title": "Algebraic Attack on HFE Revisited",
+    "venue": "international conference on information security",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Jintai Ding",
+            "id": "2135465465",
+            "org": "University of Cincinnati,#TAB#"
+        },
+        {
+            "name": "Dieter Schmidt",
+            "id": "2119696725",
+            "org": "University of Cincinnati,#TAB#"
+        },
+        {
+            "name": "Fabian Werner",
+            "id": "2506099871",
+            "org": "Technical University of Darmstadt,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hidden Field Equations",
+        "Discrete mathematics",
+        "Algebraic number",
+        "Polynomial",
+        "Cryptosystem",
+        "Algebraic geometry",
+        "Finite field",
+        "Theoretical computer science",
+        "Plaintext",
+        "Grobner basis",
+        "Mathematics"
+    ],
+    "references": [
+        "1568587963",
+        "1569499052",
+        "1573095851",
+        "1573563287",
+        "1602770810",
+        "1821087317",
+        "2011039300",
+        "2083889349",
+        "2099172492"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1815900701",
+    "title": "Joint source-channel decoding of correlated sources over noisy channels",
+    "venue": "data compression conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Javier Garcia-Frias",
+            "id": "1962149188",
+            "org": "Dept. of Electr. & Comput. Eng., Delaware Univ., Newark, DE, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Speech recognition",
+        "Binary number",
+        "Turbo code",
+        "Gaussian noise",
+        "Additive white Gaussian noise",
+        "Theoretical computer science",
+        "Signal-to-noise ratio",
+        "Decoding methods",
+        "Channel capacity",
+        "Artificial intelligence",
+        "Computer science",
+        "Communication channel",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1825115363",
+        "2027315598",
+        "2071801393",
+        "2099213070"
+    ]
+}

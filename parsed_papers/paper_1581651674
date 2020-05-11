@@ -1,0 +1,49 @@
+{
+    "id": "1581651674",
+    "title": "Scheduling to Reduce Memory Coherence Overhead on Coarse-Grain Multiprocessors",
+    "venue": "job scheduling strategies for parallel processing",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Christopher Connelly",
+            "id": "2098579104",
+            "org": "Duke University"
+        },
+        {
+            "name": "Caria Schlatter Ellis",
+            "id": "2693843527",
+            "org": "Duke University"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed shared memory",
+        "Real-time computing",
+        "Registered memory",
+        "Interleaved memory",
+        "Flat memory model",
+        "Computer science",
+        "Distributed computing",
+        "Parallel computing",
+        "Data diffusion machine",
+        "Distributed memory",
+        "Cache-only memory architecture",
+        "Uniform memory access"
+    ],
+    "references": [
+        "1966285605",
+        "2003465625",
+        "2012898464",
+        "2017802925",
+        "2029764709",
+        "2048407520",
+        "2079746131",
+        "2096855138",
+        "2112049688",
+        "2122998650",
+        "2153904572",
+        "2156605713",
+        "2166874382",
+        "2174818301",
+        "2176864362"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1557234332",
+    "title": "Java Card Code Generation from B Specifications",
+    "venue": "international conference on formal engineering methods",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Bruno Tatibouet",
+            "id": "146377170",
+            "org": "Laboratoire d'Informatique de l'universite de Franche-Comte"
+        },
+        {
+            "name": "Antoine Requet",
+            "id": "1852654154",
+            "org": "Gemplus Research Laboratory, La Vigie"
+        },
+        {
+            "name": "Jean-Christophe Voisinet",
+            "id": "1282411566",
+            "org": "Laboratoire d'Informatique de l'universite de Franche-Comte"
+        },
+        {
+            "name": "Ahmed Hammad",
+            "id": "2107754009",
+            "org": "Laboratoire d'Informatique de l'universite de Franche-Comte"
+        }
+    ],
+    "fields_of_study": [
+        "Java Card",
+        "Real time Java",
+        "Smart card",
+        "Java",
+        "Object-oriented programming",
+        "Programming language",
+        "Java annotation",
+        "Code generation",
+        "Computer science",
+        "Virtual machine"
+    ],
+    "references": [
+        "1482299161",
+        "1530018456",
+        "1541085282",
+        "2100380323"
+    ]
+}

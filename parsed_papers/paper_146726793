@@ -1,0 +1,29 @@
+{
+    "id": "146726793",
+    "title": "Using Fictitious Play to Find Pseudo-optimal Solutions for Full-scale Poker.",
+    "venue": "international conference on artificial intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "William James Dudziak",
+            "id": "2396173747",
+            "org": "Department of Computer Science|University of Akron"
+        }
+    ],
+    "fields_of_study": [
+        "Fictitious play",
+        "Solution concept",
+        "Game theory",
+        "Simulation",
+        "Trembling hand perfect equilibrium",
+        "Epsilon-equilibrium",
+        "Game tree",
+        "Normal-form game",
+        "Repeated game",
+        "Distributed computing",
+        "Computer science"
+    ],
+    "references": [
+        "1664963465"
+    ]
+}

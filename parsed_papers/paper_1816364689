@@ -1,0 +1,54 @@
+{
+    "id": "1816364689",
+    "title": "Flora: A Functional-Style Language for Object and relational Algebra",
+    "venue": "database and expert systems applications",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Michael Novak",
+            "id": "2114674025",
+            "org": "INRIA-Rocquencourt"
+        },
+        {
+            "name": "Georges Gardarin",
+            "id": "2776913112",
+            "org": "INRIA-Rocquencourt"
+        },
+        {
+            "name": "Patrick Valduriez",
+            "id": "2223920688",
+            "org": "INRIA-Rocquencourt"
+        }
+    ],
+    "fields_of_study": [
+        "Modeling language",
+        "Universal Networking Language",
+        "Database",
+        "Natural language processing",
+        "Style sheet language",
+        "Data manipulation language",
+        "Programming language",
+        "Computer science",
+        "Data control language",
+        "Object language",
+        "Object (computer science)",
+        "Object Definition Language",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "115691913",
+        "1482704861",
+        "1491083679",
+        "1507189990",
+        "1989910224",
+        "2063014766",
+        "2094677764",
+        "2100757041",
+        "2102116496",
+        "2105599022",
+        "2143200531",
+        "2145452360",
+        "2171922437",
+        "2205031991"
+    ]
+}

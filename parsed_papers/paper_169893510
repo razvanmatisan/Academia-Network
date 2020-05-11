@@ -1,0 +1,38 @@
+{
+    "id": "169893510",
+    "title": "Conceptual business document modeling using UN/CEFACT's core components",
+    "venue": "asia-pacific conference on conceptual modelling",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Philipp Liegl",
+            "id": "2000719421",
+            "org": "Vienna University of Technology, Favoritenstrasse, Vienna#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Management science",
+        "Business domain",
+        "Data mining",
+        "Well-formed document",
+        "Process modeling",
+        "Business process modeling",
+        "Computer science",
+        "Business Process Model and Notation",
+        "Business rule",
+        "Artifact-centric business process model",
+        "Document engineering"
+    ],
+    "references": [
+        "1515817144",
+        "1596809650",
+        "1993068081",
+        "2091057043",
+        "2115471006",
+        "2139948086",
+        "2145860989",
+        "2150079599",
+        "2164188174",
+        "2167498641"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1511177460",
+    "title": "An Evolutionary, Agent-Assisted Strategy for Conceptual Design Space Decomposition",
+    "venue": "artificial intelligence and the simulation of behaviour",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Ian C. Parmee",
+            "id": "77180104",
+            "org": "University of Plymouth"
+        },
+        {
+            "name": "M. A. Beck",
+            "id": "2894088422",
+            "org": "University of Plymouth"
+        }
+    ],
+    "fields_of_study": [
+        "Conceptual design",
+        "Genetic algorithm",
+        "Artificial intelligence",
+        "Engineering design process",
+        "Parallel algorithm",
+        "Rule-based system",
+        "Population",
+        "Computer science",
+        "Adaptive filter",
+        "Bounded function"
+    ],
+    "references": [
+        "20846018",
+        "1486199311",
+        "1520932109",
+        "1540868148",
+        "1573641647",
+        "1607768087"
+    ]
+}

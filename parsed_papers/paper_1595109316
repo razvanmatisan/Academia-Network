@@ -1,0 +1,28 @@
+{
+    "id": "1595109316",
+    "title": "Automatical Adaptation of Anatomical Masks to the Neocortex",
+    "venue": "international conference on computer vision",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Frithjof Kruggel",
+            "id": "2574744505",
+            "org": "Klinikum Rechts der Isar"
+        }
+    ],
+    "fields_of_study": [
+        "Sulcus",
+        "Computer vision",
+        "Watershed",
+        "Image processing",
+        "Artificial intelligence",
+        "Slice preparation",
+        "Computer science",
+        "Graphics software",
+        "Neocortex",
+        "Pattern recognition"
+    ],
+    "references": [
+        "2151248557"
+    ]
+}

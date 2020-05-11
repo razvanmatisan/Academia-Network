@@ -1,0 +1,34 @@
+{
+    "id": "1541087195",
+    "title": "Temporal Structures in Data Warehousing",
+    "venue": "data warehousing and knowledge discovery",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Peter Chamoni",
+            "id": "2511181894",
+            "org": "Gerhard-Mercator-Universitat GH Duisburg"
+        },
+        {
+            "name": "Steffen Stock",
+            "id": "2502124154",
+            "org": "Gerhard-Mercator-Universitat GH Duisburg"
+        }
+    ],
+    "fields_of_study": [
+        "Temporal database",
+        "Data mining",
+        "Computer science",
+        "Database",
+        "Information system",
+        "Online analytical processing",
+        "Business object",
+        "Information management",
+        "Information processing",
+        "Data model",
+        "Data warehouse"
+    ],
+    "references": [
+        "1515533800"
+    ]
+}

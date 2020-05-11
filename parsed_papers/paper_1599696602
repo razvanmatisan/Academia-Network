@@ -1,0 +1,33 @@
+{
+    "id": "1599696602",
+    "title": "Some theoretical properties of mutual information for student assessments in intelligent tutoring systems",
+    "venue": "international syposium on methodologies for intelligent systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Chao-Lin Liu",
+            "id": "2099360670",
+            "org": "Dept. of Computer Science, Nat'l Chengchi Univ., Taipei, Taiwan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mutual information",
+        "Artificial intelligence",
+        "Information system",
+        "Machine learning",
+        "Bayesian network",
+        "Delegate",
+        "Multivariate mutual information",
+        "Mahalanobis distance",
+        "Intelligent tutoring system",
+        "Computer science",
+        "Heuristics"
+    ],
+    "references": [
+        "1571059395",
+        "1719419634",
+        "1989486129",
+        "2024786723",
+        "2097878206"
+    ]
+}

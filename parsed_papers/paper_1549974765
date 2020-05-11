@@ -1,0 +1,38 @@
+{
+    "id": "1549974765",
+    "title": "Modeling a groupware editing tool with cooperative objects",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Remi Bastide",
+            "id": "2017522332",
+            "org": "University Toulouse I"
+        },
+        {
+            "name": "Philippe A. Palanque",
+            "id": "87613993",
+            "org": "University Toulouse I"
+        }
+    ],
+    "fields_of_study": [
+        "Object model",
+        "Formalism (philosophy)",
+        "Concurrency",
+        "Theoretical computer science",
+        "Simulation",
+        "Interface description language",
+        "Distributed computing",
+        "Petri net",
+        "Computer science",
+        "Object-oriented programming",
+        "Collaborative software"
+    ],
+    "references": [
+        "1482840768",
+        "1531114667",
+        "1597004061",
+        "1966076287",
+        "2051353102"
+    ]
+}

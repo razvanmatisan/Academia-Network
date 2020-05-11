@@ -1,0 +1,43 @@
+{
+    "id": "152764649",
+    "title": "Event Database Processing.",
+    "venue": "advances in databases and information systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Joris Mihaeli",
+            "id": "1751145635",
+            "org": "IBM Haifa Research|Lab Haifa University"
+        },
+        {
+            "name": "Opher Etzion",
+            "id": "674728720",
+            "org": "IBM Haifa Research|Lab Haifa University"
+        }
+    ],
+    "fields_of_study": [
+        "Semi-structured model",
+        "Language Of Temporal Ordering Specification",
+        "Database",
+        "Computer science",
+        "Data mining",
+        "Data model",
+        "Data architecture",
+        "Data control language",
+        "Complex event processing",
+        "Data modeling",
+        "Database design"
+    ],
+    "references": [
+        "1531918044",
+        "1579145134",
+        "1835762651",
+        "1975712849",
+        "1991247646",
+        "1993863827",
+        "2127057359",
+        "2140970291",
+        "2141174150",
+        "2161484642"
+    ]
+}

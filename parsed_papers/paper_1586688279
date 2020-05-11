@@ -1,0 +1,45 @@
+{
+    "id": "1586688279",
+    "title": "Address-free all-to-all routing in sparse torus",
+    "venue": "parallel computing technologies",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Risto Honkanen",
+            "id": "2473816824",
+            "org": "Department of Computer Science, University of Kuopio, Kuopio, Finland#TAB#"
+        },
+        {
+            "name": "Ville Leppanen",
+            "id": "2131393133",
+            "org": "Department of Computer Science, University of Turku, Turku, Finland#TAB#"
+        },
+        {
+            "name": "Martti Penttonen",
+            "id": "1610660835",
+            "org": "Department of Computer Science, University of Kuopio, Kuopio, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Link-state routing protocol",
+        "Static routing",
+        "Policy-based routing",
+        "Equal-cost multi-path routing",
+        "Wireless Routing Protocol",
+        "DSRFLOW",
+        "Dynamic Source Routing",
+        "Distributed computing",
+        "Destination-Sequenced Distance Vector routing",
+        "Computer science"
+    ],
+    "references": [
+        "179024325",
+        "1882562446",
+        "1968634435",
+        "2016388628",
+        "2099115346",
+        "2116918243",
+        "2127631135",
+        "2157925714"
+    ]
+}

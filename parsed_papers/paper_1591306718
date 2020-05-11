@@ -1,0 +1,43 @@
+{
+    "id": "1591306718",
+    "title": "O-DEVICE: an object-oriented knowledge base system for OWL ontologies",
+    "venue": "hellenic conference on artificial intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Georgios Meditskos",
+            "id": "2310061145",
+            "org": "Department of Informatics, Aristotle University of Thessaloniki, Greece#TAB#"
+        },
+        {
+            "name": "Nick Bassiliades",
+            "id": "336927581",
+            "org": "Department of Informatics, Aristotle University of Thessaloniki, Greece#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "CLIPS",
+        "Machine learning",
+        "Artificial intelligence",
+        "Semantic Web Rule Language",
+        "OWL-S",
+        "Semantics",
+        "Database",
+        "Semantic Web",
+        "Knowledge-based systems",
+        "Object-oriented programming",
+        "Computer science",
+        "Ontology (information science)",
+        "Programming language"
+    ],
+    "references": [
+        "9474893",
+        "76160779",
+        "131656700",
+        "1524812096",
+        "1549103420",
+        "1554361878",
+        "2082583467",
+        "2105319817"
+    ]
+}

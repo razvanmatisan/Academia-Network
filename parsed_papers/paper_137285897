@@ -1,0 +1,40 @@
+{
+    "id": "137285897",
+    "title": "Variational Learning of Inducing Variables in Sparse Gaussian Processes",
+    "venue": "international conference on artificial intelligence and statistics",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Michalis K. Titsias",
+            "id": "167087310",
+            "org": "University of Manchester"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Machine learning",
+        "Hyperparameter",
+        "Marginal likelihood",
+        "Posterior probability",
+        "Kullback-Leibler divergence",
+        "Gaussian random field",
+        "Sparse approximation",
+        "Gaussian process",
+        "Kernel (linear algebra)",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Mathematics"
+    ],
+    "references": [
+        "1512149552",
+        "1571870753",
+        "1746819321",
+        "2099768828",
+        "2100136038",
+        "2108966602",
+        "2112545207",
+        "2123687908",
+        "2129564505",
+        "2137956165"
+    ]
+}

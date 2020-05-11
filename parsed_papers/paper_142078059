@@ -1,0 +1,46 @@
+{
+    "id": "142078059",
+    "title": "Cross-lingual Information Retrieval with Explicit Semantic Analysis",
+    "venue": "cross language evaluation forum",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Philipp Sorg",
+            "id": "2037068439",
+            "org": "Karlsruhe Institute of Technology"
+        },
+        {
+            "name": "Philipp Cimiano",
+            "id": "2086393978",
+            "org": "Karlsruhe Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Concept search",
+        "Human-computer information retrieval",
+        "Semantic technology",
+        "Natural language processing",
+        "Artificial intelligence",
+        "Probabilistic latent semantic analysis",
+        "Computer science",
+        "Semantic integration",
+        "Explicit semantic analysis",
+        "Semantic computing",
+        "Semantic similarity"
+    ],
+    "references": [
+        "58646613",
+        "1548187981",
+        "1660390307",
+        "2004360803",
+        "2044157185",
+        "2085177270",
+        "2111436316",
+        "2117119592",
+        "2120779048",
+        "2131427731",
+        "2147152072",
+        "2400374328"
+    ]
+}

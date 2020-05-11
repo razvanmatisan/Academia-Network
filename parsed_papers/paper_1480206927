@@ -1,0 +1,35 @@
+{
+    "id": "1480206927",
+    "title": "Structurally supported design of HCI pattern languages",
+    "venue": "international conference on human computer interaction",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Christian Martin",
+            "id": "2602827542",
+            "org": "Augsburg University of Applied Sciences, Faculty of Computer Science, Augsburg, Germany#TAB#"
+        },
+        {
+            "name": "Alexander Roski",
+            "id": "2288841866",
+            "org": "Augsburg University of Applied Sciences, Faculty of Computer Science, Augsburg, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Human-computer interaction",
+        "Adapter pattern",
+        "Software design pattern",
+        "Specification pattern",
+        "Module pattern",
+        "Second-generation programming language",
+        "Computer science",
+        "Interaction design pattern",
+        "Marker interface pattern",
+        "State pattern"
+    ],
+    "references": [
+        "1557557006",
+        "1597823028",
+        "2087041203"
+    ]
+}

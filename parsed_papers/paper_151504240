@@ -1,0 +1,36 @@
+{
+    "id": "151504240",
+    "title": "Solving Crossword Puzzles via the Google API.",
+    "venue": "ICWI",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "David E. Goldschmidt",
+            "id": "2059395753",
+            "org": "Rensselaer Polytechnic Institute"
+        },
+        {
+            "name": "Mukkai S. Krishnamoorthy",
+            "id": "2051314497",
+            "org": "Rensselaer Polytechnic Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Semantic search",
+        "Information retrieval",
+        "Web search query",
+        "Web API",
+        "Social Semantic Web",
+        "World Wide Web",
+        "Search analytics",
+        "Semantic Web Stack",
+        "Search engine",
+        "Web search engine",
+        "Computer science"
+    ],
+    "references": [
+        "164549",
+        "1483940455",
+        "1548778571"
+    ]
+}

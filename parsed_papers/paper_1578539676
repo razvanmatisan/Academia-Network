@@ -1,0 +1,38 @@
+{
+    "id": "1578539676",
+    "title": "Autonomous Mobile Robot Navigation Using Fish-Eye Lenses",
+    "venue": "international conference on semantic computing",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Shishir Shah",
+            "id": "2808540371",
+            "org": "The University of Texas at Austin"
+        },
+        {
+            "name": "Jake K. Aggarwal",
+            "id": "2112183790",
+            "org": "The University of Texas at Austin"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile robot",
+        "Information retrieval",
+        "Computer vision",
+        "Social robot",
+        "Mobile robot navigation",
+        "Robot",
+        "Navigation system",
+        "Dead reckoning",
+        "Lens (optics)",
+        "Artificial intelligence",
+        "Robot control",
+        "Computer science"
+    ],
+    "references": [
+        "1607323714",
+        "2085581165",
+        "2097648992",
+        "2149827010"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1533508804",
+    "title": "On Availability of Bit-Narrow Operations in General-Purpose Applications",
+    "venue": "field programmable logic and applications",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Darko Stefanovic",
+            "id": "2263026722",
+            "org": "Princeton University"
+        },
+        {
+            "name": "Margaret Martonosi",
+            "id": "1972692845",
+            "org": "Princeton University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Real-time computing",
+        "Profiling (computer programming)",
+        "Program analysis",
+        "Operand",
+        "Graph",
+        "Hybrid system",
+        "Integer",
+        "Alias analysis",
+        "Computer science",
+        "Data flow diagram"
+    ],
+    "references": [
+        "1516536978",
+        "1891709150",
+        "1965864973",
+        "2032094184",
+        "2115157620",
+        "2137149639",
+        "2148911285",
+        "2163488221"
+    ]
+}

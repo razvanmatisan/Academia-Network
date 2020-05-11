@@ -1,0 +1,33 @@
+{
+    "id": "1481877865",
+    "title": "Hierarchical Constraint Satisfaction Based on Subdefinite Models",
+    "venue": "international andrei ershov memorial conference on perspectives of system informatics",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Dmitry Ushakov",
+            "id": "2633935346",
+            "org": "Ledas Ltd."
+        }
+    ],
+    "fields_of_study": [
+        "Complexity of constraint satisfaction",
+        "Constraint satisfaction dual problem",
+        "Discrete mathematics",
+        "Backtracking",
+        "Constraint graph",
+        "Local consistency",
+        "Mathematical optimization",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Hierarchical constraint satisfaction",
+        "Computer science",
+        "Constraint learning"
+    ],
+    "references": [
+        "1487385134",
+        "1493025331",
+        "1556743088",
+        "2088407946",
+        "2135432705"
+    ]
+}

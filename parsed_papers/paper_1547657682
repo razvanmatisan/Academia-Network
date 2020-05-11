@@ -1,0 +1,30 @@
+{
+    "id": "1547657682",
+    "title": "Software environment for market balancing mechanisms development, and its application to solving more general problems in parallel way",
+    "venue": "parallel computing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Mariusz Kamola",
+            "id": "1768543416",
+            "org": "Institute of Control and Computation Engineering, Warsaw University of Technology, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Software Engineering Process Group",
+        "Theoretical computer science",
+        "Component-based software engineering",
+        "Software framework",
+        "Software construction",
+        "Computer science",
+        "Social software engineering",
+        "Search-based software engineering",
+        "Software development",
+        "Package development process"
+    ],
+    "references": [
+        "1760833224",
+        "2146766934"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "1515290450",
+    "title": "Efficient Type Inference and Coercion in Computer Algebra",
+    "venue": "international symposium on design and implementation of symbolic computation systems",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Albrecht Fortenbacher",
+            "id": "2274021854",
+            "org": "Scientific Center Heidelberg, IBM Deutschland GmbH"
+        }
+    ],
+    "fields_of_study": [
+        "Term algebra",
+        "Algebra representation",
+        "Computation",
+        "Boolean algebra",
+        "Subalgebra",
+        "Two-element Boolean algebra",
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "Symbolic computation",
+        "Type inference",
+        "Computer science"
+    ],
+    "references": [
+        "1593179317",
+        "2019908263",
+        "2029317328",
+        "2051876501"
+    ]
+}

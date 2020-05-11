@@ -1,0 +1,37 @@
+{
+    "id": "1755477624",
+    "title": "Mobile cloud forensics: An analysis of seven popular Android apps",
+    "venue": "arXiv: Computers and Society",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Ben Martini",
+            "id": "2218386665",
+            "org": "Information Assurance Research Group, School of Information Technology and Mathematical Sciences, University of South Australia, Adelaide, Australia"
+        },
+        {
+            "name": "Quang Do",
+            "id": "2136653767",
+            "org": "Information Assurance Research Group, School of Information Technology and Mathematical Sciences, University of South Australia, Adelaide, Australia"
+        },
+        {
+            "name": "Kim-Kwang Raymond Choo",
+            "id": "2318895841",
+            "org": "Information Assurance Research Group, School of Information Technology and Mathematical Sciences, University of South Australia, Adelaide, Australia"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile device forensics",
+        "Android (operating system)",
+        "World Wide Web",
+        "Forensic science",
+        "Internet privacy",
+        "Cloud computing",
+        "Digital forensics",
+        "Authentication",
+        "Computer science"
+    ],
+    "references": [
+        "1524453022"
+    ]
+}

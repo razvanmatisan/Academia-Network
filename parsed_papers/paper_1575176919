@@ -1,0 +1,47 @@
+{
+    "id": "1575176919",
+    "title": "Exploring the Capability of Immune Algorithms: A Characterization of Hypermutation Operators",
+    "venue": "international conference on artificial immune systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Vincenzo Cutello",
+            "id": "2131798677",
+            "org": "University of Catania"
+        },
+        {
+            "name": "Giuseppe Nicosia",
+            "id": "2779670731",
+            "org": "University of Catania"
+        },
+        {
+            "name": "Giuseppe Nicosia",
+            "id": "2779670731",
+            "org": "University of Catania"
+        },
+        {
+            "name": "Mario Pavone",
+            "id": "2011086627",
+            "org": "University of Catania"
+        }
+    ],
+    "fields_of_study": [
+        "Somatic hypermutation",
+        "Machine learning",
+        "Mathematical optimization",
+        "NP-complete",
+        "Artificial intelligence",
+        "Clonal selection algorithm",
+        "Toy problem",
+        "Algorithm",
+        "Operator (computer programming)",
+        "Mathematics"
+    ],
+    "references": [
+        "1510701494",
+        "1580533329",
+        "2013842855",
+        "2111368118",
+        "2164934768"
+    ]
+}

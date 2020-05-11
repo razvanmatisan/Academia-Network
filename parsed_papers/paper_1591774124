@@ -1,0 +1,30 @@
+{
+    "id": "1591774124",
+    "title": "Performance and attention in multi-agent tasks",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Yiming Ye",
+            "id": "2154207899",
+            "org": "IBM T.J. Watson Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Management science",
+        "Distributed computing",
+        "Artificial intelligence",
+        "Robotics",
+        "Knowledge management",
+        "Computer science"
+    ],
+    "references": [
+        "120812152",
+        "159662515",
+        "1483309316",
+        "1561753981",
+        "2077167025",
+        "2080908217",
+        "2144350393"
+    ]
+}

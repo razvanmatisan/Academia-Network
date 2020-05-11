@@ -1,0 +1,29 @@
+{
+    "id": "1669762919",
+    "title": "Time-frequency analysis of random signals",
+    "venue": "international conference on acoustics, speech, and signal processing",
+    "year": 1982,
+    "authors": [
+        {
+            "name": "W. Martin",
+            "id": "2495351092",
+            "org": "C.N.R.S. - E.S.E., Gif sur Yvette, France"
+        }
+    ],
+    "fields_of_study": [
+        "Statistics",
+        "Signal processing",
+        "Mathematical optimization",
+        "Fourier transform",
+        "Instantaneous phase",
+        "Time-frequency representation",
+        "Stochastic process",
+        "Wigner distribution function",
+        "Time-frequency analysis",
+        "Root mean square",
+        "Mathematics"
+    ],
+    "references": [
+        "2007540462"
+    ]
+}

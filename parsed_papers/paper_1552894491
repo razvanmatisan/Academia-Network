@@ -1,0 +1,43 @@
+{
+    "id": "1552894491",
+    "title": "From Integrated Reasoning Specialists to ``Plug-and-Play'' Reasoning Components",
+    "venue": "artificial intelligence and symbolic computation",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Alessandro Armando",
+            "id": "2345056753",
+            "org": "Universita di Genova"
+        },
+        {
+            "name": "Silvio Ranise",
+            "id": "2159707715",
+            "org": "Universita di Genova"
+        }
+    ],
+    "fields_of_study": [
+        "Reasoning system",
+        "Theoretical computer science",
+        "Qualitative reasoning",
+        "Opportunistic reasoning",
+        "Model-based reasoning",
+        "Deductive reasoning",
+        "Automated reasoning",
+        "Adaptive reasoning",
+        "Case-based reasoning",
+        "Machine learning",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "227043464",
+        "1522489781",
+        "1525737662",
+        "1551246917",
+        "1566496315",
+        "1702235018",
+        "1997145430",
+        "2090445846",
+        "2093368813"
+    ]
+}

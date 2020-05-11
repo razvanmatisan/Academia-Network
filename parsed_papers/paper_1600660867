@@ -1,0 +1,37 @@
+{
+    "id": "1600660867",
+    "title": "An approach for bridging the gap between business rules and the semantic web",
+    "venue": "rules and rule markup languages for the semantic web",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Birgit Demuth",
+            "id": "2030294473",
+            "org": "Technische Universitat Dresden, Department of Computer Science#TAB#"
+        },
+        {
+            "name": "Hans-Bernhard Liebau",
+            "id": "2285460353",
+            "org": "Technische Universitat Dresden, Department of Computer Science#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics of Business Vocabulary and Business Rules",
+        "Computer science",
+        "Data mining",
+        "Database",
+        "Business Process Model and Notation",
+        "Production Rule Representation",
+        "Business architecture",
+        "Business rule management system",
+        "Specification pattern",
+        "Artifact-centric business process model",
+        "Knowledge management",
+        "Business rule"
+    ],
+    "references": [
+        "122437505",
+        "1516724173",
+        "1606401487"
+    ]
+}

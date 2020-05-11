@@ -1,0 +1,36 @@
+{
+    "id": "1532045447",
+    "title": "Business process development in project-based industry: A case study",
+    "venue": "Business Process Management Journal",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Maqsood Sandhu",
+            "id": "2160329081",
+            "org": "(Department of Management and Organization, Swedish School of Economics and Business Administration, Vaasa, Finland)"
+        },
+        {
+            "name": "Angappa Gunasekaran",
+            "id": "2121203374",
+            "org": "Department of Management, University of Massachusetts, North Dartmouth, Massachusetts, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Business process discovery",
+        "Management science",
+        "Knowledge management",
+        "Business process",
+        "Business process modeling",
+        "Business Process Model and Notation",
+        "Process mining",
+        "Procurement",
+        "Artifact-centric business process model",
+        "Process management",
+        "Computer science",
+        "Empirical process (process control model)"
+    ],
+    "references": [
+        "2100989703",
+        "2117837846"
+    ]
+}

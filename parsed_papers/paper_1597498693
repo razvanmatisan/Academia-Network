@@ -1,0 +1,44 @@
+{
+    "id": "1597498693",
+    "title": "Variational Bayesian blind image deconvolution based on a sparse kernel model for the point spread function",
+    "venue": "european signal processing conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Dimitris Tzikas",
+            "id": "342281680",
+            "org": "Department of Computer Science, University of Ioannina, 45110, Greece"
+        },
+        {
+            "name": "Aristidis Likas",
+            "id": "2080877090",
+            "org": "Department of Computer Science, University of Ioannina, 45110, Greece"
+        },
+        {
+            "name": "Nikolas P. Galatsanos",
+            "id": "2127163712",
+            "org": "Department of Computer Science, University of Ioannina, 45110, Greece"
+        }
+    ],
+    "fields_of_study": [
+        "Point spread function",
+        "Richardson-Lucy deconvolution",
+        "Kernel (statistics)",
+        "Mathematical optimization",
+        "Blind deconvolution",
+        "Kernel (linear algebra)",
+        "Linear combination",
+        "Deconvolution",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Basis function",
+        "Mathematics"
+    ],
+    "references": [
+        "1648445109",
+        "1819276697",
+        "1995878198",
+        "2095775020",
+        "2112369731"
+    ]
+}

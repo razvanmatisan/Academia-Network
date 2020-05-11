@@ -1,0 +1,38 @@
+{
+    "id": "1557798492",
+    "title": "Flexible decomposition algorithms for weakly coupled Markov decision problems",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Ronald Parr",
+            "id": "2638594123",
+            "org": "Computer Science Department, Stanford University, Stanford, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Markov model",
+        "Artificial intelligence",
+        "Mathematical optimization",
+        "Decision problem",
+        "Computer science",
+        "Decoupling (cosmology)",
+        "Machine learning",
+        "Optimal decision",
+        "Markov decision process",
+        "Cache",
+        "Algorithm",
+        "Partially observable Markov decision process",
+        "Markov chain"
+    ],
+    "references": [
+        "141456974",
+        "1631187438",
+        "2012036715",
+        "2048226872",
+        "2099873296",
+        "2156067405",
+        "2158548602",
+        "2159420891"
+    ]
+}

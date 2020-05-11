@@ -1,0 +1,35 @@
+{
+    "id": "1796740284",
+    "title": "Hierarchical latent knowledge analysis for co-occurrence data",
+    "venue": "international conference on machine learning",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Hiroshi Mamitsuka",
+            "id": "278261381",
+            "org": "Institute for Chemical Research, Kyoto University, Gokasho, Uji, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Latent variable model",
+        "Latent variable",
+        "Support vector machine",
+        "Co-occurrence",
+        "Artificial intelligence",
+        "Unsupervised learning",
+        "Computer science",
+        "Pattern recognition",
+        "Expectation-maximization algorithm",
+        "Probabilistic latent semantic analysis",
+        "Latent class model"
+    ],
+    "references": [
+        "1754931551",
+        "2054658115",
+        "2132870739",
+        "2134731454",
+        "2137483768",
+        "2137786672"
+    ]
+}

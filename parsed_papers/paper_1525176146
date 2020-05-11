@@ -1,0 +1,42 @@
+{
+    "id": "1525176146",
+    "title": "Retaining consistency in temporal knowledge bases",
+    "venue": "industrial and engineering applications of artificial intelligence and expert systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Franz Wotawa",
+            "id": "279117051",
+            "org": "Institute for Software Technology, Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Bibiane Angerer",
+            "id": "2511436633",
+            "org": "Institute for Software Technology, Graz University of Technology, Graz, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Domain knowledge",
+        "Data mining",
+        "CTL*",
+        "Computer science",
+        "Knowledge base",
+        "Machine learning",
+        "Knowledge extraction",
+        "Procedural knowledge",
+        "Body of knowledge",
+        "Knowledge-based systems",
+        "Kripke structure"
+    ],
+    "references": [
+        "18320342",
+        "1482651513",
+        "1985769033",
+        "2035668577",
+        "2092911568",
+        "2108309071",
+        "2117189826",
+        "2158252181"
+    ]
+}

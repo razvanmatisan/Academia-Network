@@ -1,0 +1,39 @@
+{
+    "id": "1481882669",
+    "title": "The synthesis of digital machines with provable epistemic properties",
+    "venue": "theoretical aspects of rationality and knowledge",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Stanley J. Rosenschein",
+            "id": "2194844055",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Leslie Pack Kaelbling",
+            "id": "299753924",
+            "org": "Stanford University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Information flow (information theory)",
+        "Recursion",
+        "Discrete mathematics",
+        "Epistemology",
+        "Satisfiability",
+        "Artificial intelligence",
+        "Data structure",
+        "Syntax",
+        "Multi-agent system",
+        "Theoretical computer science",
+        "Epistemic modal logic",
+        "Composite number",
+        "Mathematics"
+    ],
+    "references": [
+        "2009844825",
+        "2014471917",
+        "2088135982",
+        "2148717074"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "1531219417",
+    "title": "An Australian Perspective On The Challenges For Computer And Network Security For Novice End-Users",
+    "venue": "The Journal of Digital Forensics, Security and Law",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Patryk Szewczyk",
+            "id": "2793017474",
+            "org": "secau - Security Research Centre#R##N#Edith Cowan University, Western Australia"
+        }
+    ],
+    "fields_of_study": [
+        "Security through obscurity",
+        "Business",
+        "Asset (computer security)",
+        "Human-computer interaction in information security",
+        "Cloud computing security",
+        "Security service",
+        "Network security",
+        "Computer security",
+        "Security information and event management",
+        "Computer security model"
+    ],
+    "references": [
+        "1485200701",
+        "1497716074",
+        "1670744230",
+        "1997172780",
+        "2053470176",
+        "2095881341"
+    ]
+}

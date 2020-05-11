@@ -1,0 +1,25 @@
+{
+    "id": "1540221672",
+    "title": "Analysing complex tasks with an extended GOMS model",
+    "venue": "Human Factors in Information Technology",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Udo Arend",
+            "id": "2585139110",
+            "org": "Technische Hochschule Darmstadt / IBM Heidelberg, FRG"
+        }
+    ],
+    "fields_of_study": [
+        "GOMS",
+        "Human-computer interaction",
+        "Human processor model",
+        "Machine learning",
+        "Schema (psychology)",
+        "Scheduling (computing)",
+        "CPM-GOMS",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": []
+}

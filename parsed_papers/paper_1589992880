@@ -1,0 +1,57 @@
+{
+    "id": "1589992880",
+    "title": "A mixture density based approach to object recognition for image retrieval",
+    "venue": "riao conference",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Jorg Dahmen",
+            "id": "2123791372",
+            "org": "RWTH Aachen - University of Technology, Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Mark Oliver Guld",
+            "id": "2038856556",
+            "org": "RWTH Aachen - University of Technology, Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Hermann Ney",
+            "id": "2293758362",
+            "org": "RWTH Aachen - University of Technology, Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Klaus Beulen",
+            "id": "388368333",
+            "org": "RWTH Aachen - University of Technology, Aachen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Automatic image annotation",
+        "Content-based image retrieval",
+        "Feature (machine learning)",
+        "3D single-object recognition",
+        "Visual Word",
+        "Linear discriminant analysis",
+        "Naive Bayes classifier",
+        "Image retrieval",
+        "Machine learning",
+        "Computer science",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "854322902",
+        "1264138497",
+        "1486540228",
+        "1600737329",
+        "1601912440",
+        "2012352340",
+        "2112076978",
+        "2121649666",
+        "2123977795",
+        "2128716185",
+        "2137291015",
+        "2158275940",
+        "2166501286"
+    ]
+}

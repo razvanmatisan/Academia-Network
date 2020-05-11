@@ -1,0 +1,44 @@
+{
+    "id": "1491807228",
+    "title": "A Hybrid Approach to Improving Automatic Speech Recognition Via NLP",
+    "venue": "canadian conference on artificial intelligence",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Kimberly D. Voll",
+            "id": "1951230937",
+            "org": "School of Computing Science, Simon Fraser University, 8888 University Drive, Burnaby, BC V5A1S6,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Proof of concept",
+        "Speaker recognition",
+        "Heuristic (computer science)",
+        "Machine learning",
+        "Speech recognition",
+        "Intelligent character recognition",
+        "Error detection and correction",
+        "Pattern recognition",
+        "Natural language processing",
+        "Artificial intelligence",
+        "Software",
+        "Semantic similarity",
+        "Voice activity detection",
+        "Computer science"
+    ],
+    "references": [
+        "1567365482",
+        "1574901103",
+        "1581252818",
+        "1803571504",
+        "1958407717",
+        "1988624983",
+        "2010595692",
+        "2041670430",
+        "2058145373",
+        "2120589136",
+        "2132030416",
+        "2157951638",
+        "2200986169"
+    ]
+}

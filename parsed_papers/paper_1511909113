@@ -1,0 +1,31 @@
+{
+    "id": "1511909113",
+    "title": "An Experiment on Learning Appropriate Selectional Restrictions from a Parsed Corpus.",
+    "venue": "international conference on computational linguistics",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Francesc Ribas",
+            "id": "2062804423",
+            "org": "Universitat Politecnica de Catalunya"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Parsing",
+        "Artificial intelligence",
+        "Noun",
+        "Computer science",
+        "Pattern recognition",
+        "Selection (linguistics)",
+        "Abstraction"
+    ],
+    "references": [
+        "1593045043",
+        "1632114991",
+        "2008294903",
+        "2040004971",
+        "2116780029",
+        "2162288523"
+    ]
+}

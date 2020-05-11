@@ -1,0 +1,32 @@
+{
+    "id": "1787734157",
+    "title": "Distributed clustering for ad hoc networks",
+    "venue": "international symposium on parallel architectures algorithms and networks",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Stefano Basagni",
+            "id": "46188621",
+            "org": "Erik Jonsson Sch. of Eng. & Comput. Sci., Texas Univ., Dallas, TX, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Cluster analysis",
+        "Optimized Link State Routing Protocol",
+        "Correlation clustering",
+        "Hierarchical network model",
+        "Wireless ad hoc network",
+        "Average path length",
+        "Small-world network",
+        "Mobile ad hoc network",
+        "Computer network",
+        "Distributed computing",
+        "Computer science"
+    ],
+    "references": [
+        "2086976228",
+        "2117221909",
+        "2142868546",
+        "2163533836"
+    ]
+}

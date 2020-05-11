@@ -1,0 +1,33 @@
+{
+    "id": "1538680957",
+    "title": "Agent-Based Approach to Dynamic Task Allocation",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Shervin Nouyan",
+            "id": "250074779",
+            "org": "Universite Libre de Bruxelles"
+        },
+        {
+            "name": "Shervin Nouyan",
+            "id": "250074779",
+            "org": "Universite Libre de Bruxelles"
+        }
+    ],
+    "fields_of_study": [
+        "Division of labour",
+        "Distributed computing",
+        "Fixed cost",
+        "Travelling salesman problem",
+        "Computer science"
+    ],
+    "references": [
+        "1664011265",
+        "2058569171",
+        "2120053925",
+        "2126554879",
+        "2137392640",
+        "2154929945"
+    ]
+}

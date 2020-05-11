@@ -1,0 +1,30 @@
+{
+    "id": "1582009465",
+    "title": "Bounding the cost of learned rules: a transformational approach",
+    "venue": "national conference on artificial intelligence",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Jihie Kim",
+            "id": "2177100643",
+            "org": "Information Sciences Institute and Computer Science Department, University of Southern California, Marina del Rey, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semi-supervised learning",
+        "Artificial intelligence",
+        "Machine learning",
+        "Explanation-based learning",
+        "Soar",
+        "Rule-based system",
+        "Speedup",
+        "Multi-task learning",
+        "Generality",
+        "Computer science",
+        "Knowledge-based systems"
+    ],
+    "references": [
+        "1508081568",
+        "1564010996"
+    ]
+}

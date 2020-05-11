@@ -1,0 +1,41 @@
+{
+    "id": "1605874194",
+    "title": "A Graphical Model for Human Activity Recognition",
+    "venue": "iberoamerican congress on pattern recognition",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Rocio Diaz de Leon",
+            "id": "2487821333",
+            "org": "IPICyT, San Luis Potosi, Mexico"
+        },
+        {
+            "name": "Luis Enrique Sucar",
+            "id": "2129650006",
+            "org": "ITESM Cuernavaca, Cuernavaca, Mexico"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Artificial intelligence",
+        "Inference",
+        "Pattern recognition",
+        "Image processing",
+        "Bayesian network",
+        "Computer science",
+        "Sliding window protocol",
+        "Activity recognition",
+        "Sensor fusion",
+        "Probabilistic logic",
+        "Graphical model"
+    ],
+    "references": [
+        "152533846",
+        "1578685895",
+        "2097501508",
+        "2149613906",
+        "2152583421",
+        "2153746365",
+        "2157200118"
+    ]
+}

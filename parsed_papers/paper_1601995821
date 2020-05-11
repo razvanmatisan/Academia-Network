@@ -1,0 +1,29 @@
+{
+    "id": "1601995821",
+    "title": "Trust in e-Government: Digital Signatures without Time Stamping?",
+    "venue": "electronic government",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Mitja Decman",
+            "id": "1744168028",
+            "org": "School of Public Administration, University of Ljubljana, Slovenia"
+        }
+    ],
+    "fields_of_study": [
+        "Digital signature",
+        "Public key certificate",
+        "Smart card",
+        "Electronic document",
+        "Computer security",
+        "Information system",
+        "Certificate authority",
+        "Information society",
+        "Certification",
+        "Computer science"
+    ],
+    "references": [
+        "1488056159",
+        "1799949577"
+    ]
+}

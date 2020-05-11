@@ -1,0 +1,35 @@
+{
+    "id": "1593610389",
+    "title": "Automatic Performance Analysis of MPI Applications Based on Event Traces",
+    "venue": "european conference on parallel processing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Felix Wolf",
+            "id": "2230333684",
+            "org": "Central Institute for Applied Mathematics"
+        },
+        {
+            "name": "Bernd Mohr",
+            "id": "1982081693",
+            "org": "Central Institute for Applied Mathematics"
+        }
+    ],
+    "fields_of_study": [
+        "High-level programming language",
+        "Theoretical computer science",
+        "Human-computer interaction",
+        "Distributed computing",
+        "Extensibility",
+        "Graphical user interface",
+        "Computer science",
+        "User interface"
+    ],
+    "references": [
+        "1575330229",
+        "1873699503",
+        "2070078161",
+        "2098984303",
+        "2166723156"
+    ]
+}

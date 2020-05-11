@@ -1,0 +1,32 @@
+{
+    "id": "1564745036",
+    "title": "Integrated Service Process Adaptation",
+    "venue": "international conference on service oriented computing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Zhe Shan",
+            "id": "2643424978",
+            "org": "Penn State University"
+        }
+    ],
+    "fields_of_study": [
+        "Event-driven process chain",
+        "Business process",
+        "Supply chain management",
+        "Real-time computing",
+        "Integrated services",
+        "Web service",
+        "Adapter (computing)",
+        "Service management",
+        "Automation",
+        "Computer science"
+    ],
+    "references": [
+        "1495288145",
+        "1701613120",
+        "2039194556",
+        "2100095098",
+        "2138730949"
+    ]
+}

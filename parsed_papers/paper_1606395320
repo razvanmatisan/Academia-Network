@@ -1,0 +1,39 @@
+{
+    "id": "1606395320",
+    "title": "Definition of a General Conceptualization Method for the Expert Knowledge",
+    "venue": "mexican international conference on artificial intelligence",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Almudena Sierra-Alonso",
+            "id": "2199745017",
+            "org": "Universidad Carlos III. Escuela Politecnica Superior"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge engineering",
+        "Domain knowledge",
+        "Knowledge-based systems",
+        "Body of knowledge",
+        "Legal expert system",
+        "Procedural knowledge",
+        "Subject-matter expert",
+        "Knowledge acquisition",
+        "Computer science",
+        "Knowledge management"
+    ],
+    "references": [
+        "172699314",
+        "1994945260",
+        "2035346816",
+        "2038386889",
+        "2040672389",
+        "2042037135",
+        "2051905507",
+        "2058764871",
+        "2065506479",
+        "2121991709",
+        "2148571423",
+        "2251458042"
+    ]
+}

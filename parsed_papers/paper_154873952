@@ -1,0 +1,36 @@
+{
+    "id": "154873952",
+    "title": "ETSeM: a energy-aware, trust-based, selective multi-path routing protocol",
+    "venue": "computer information systems and industrial management applications",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Manali Chakraborty",
+            "id": "2113324229",
+            "org": "Department of Computer Science & Engineering, University of Calcutta, India, Kolkata, India#TAB#"
+        },
+        {
+            "name": "Nabendu Chaki",
+            "id": "2194458762",
+            "org": "Department of Computer Science & Engineering, University of Calcutta, India, Kolkata, India#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Link-state routing protocol",
+        "Static routing",
+        "Equal-cost multi-path routing",
+        "Wireless Routing Protocol",
+        "DSRFLOW",
+        "Computer network",
+        "Zone Routing Protocol",
+        "Distributed computing",
+        "Dynamic Source Routing",
+        "Destination-Sequenced Distance Vector routing"
+    ],
+    "references": [
+        "1646091373",
+        "2123688291",
+        "2134848520"
+    ]
+}

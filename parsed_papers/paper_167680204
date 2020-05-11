@@ -1,0 +1,42 @@
+{
+    "id": "167680204",
+    "title": "Corpora for Automatically Learning to Map Natural Language Questions into SQL Queries",
+    "venue": "language resources and evaluation",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Alessandra Giordani",
+            "id": "2070173342",
+            "org": "University of Trento"
+        },
+        {
+            "name": "Alessandro Moschitti",
+            "id": "48142092",
+            "org": "Department of Computer Science and Information Engineering|University of Trento"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Artificial intelligence",
+        "First-generation programming language",
+        "Data definition language",
+        "Cache language model",
+        "Computer science",
+        "Data manipulation language",
+        "Language identification",
+        "Data control language",
+        "SQL",
+        "Temporal annotation"
+    ],
+    "references": [
+        "1496189301",
+        "1516384024",
+        "1535015163",
+        "1607626355",
+        "2096979215",
+        "2102258316",
+        "2140266767",
+        "2148833958",
+        "2154268919"
+    ]
+}

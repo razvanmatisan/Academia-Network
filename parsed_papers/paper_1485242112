@@ -1,0 +1,35 @@
+{
+    "id": "1485242112",
+    "title": "A basic abstract semantic algebra",
+    "venue": "international symposium on semantics of data types",
+    "year": 1984,
+    "authors": [
+        {
+            "name": "Peter D. Mosses",
+            "id": "2111424059",
+            "org": "Aarhus Univ., Denmark#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Abstract data type",
+        "Natural language processing",
+        "Semantic equivalence",
+        "Denotational semantics",
+        "Semantic computing",
+        "Theoretical computer science",
+        "Denotational semantics of the Actor model",
+        "Operator (computer programming)",
+        "Data flow diagram",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1966748830",
+        "2007975299",
+        "2031588198",
+        "2039112578",
+        "2131733202",
+        "2134338128",
+        "2184268586"
+    ]
+}

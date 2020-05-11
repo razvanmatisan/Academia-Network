@@ -1,0 +1,76 @@
+{
+    "id": "120776583",
+    "title": "Use of population health data to refine diagnostic decision-making for pertussis.",
+    "venue": "Journal of the American Medical Informatics Association",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Andrew M. Fine",
+            "id": "2055352604",
+            "org": "Division of Emergency Medicine, Children's Hospital Boston and Department of Pediatrics, Harvard Medical School, Boston, Massachusetts, USA"
+        },
+        {
+            "name": "Ben Y. Reis",
+            "id": "2111859099",
+            "org": "Division of Emergency Medicine, Children's Hospital Boston and Department of Pediatrics, Harvard Medical School, Boston, Massachusetts, USA"
+        },
+        {
+            "name": "Ben Y. Reis",
+            "id": "2111859099",
+            "org": "Division of Emergency Medicine, Children's Hospital Boston and Department of Pediatrics, Harvard Medical School, Boston, Massachusetts, USA"
+        },
+        {
+            "name": "Lise E. Nigrovic",
+            "id": "249164970",
+            "org": "Division of Emergency Medicine, Children's Hospital Boston and Department of Pediatrics, Harvard Medical School, Boston, Massachusetts, USA"
+        },
+        {
+            "name": "Donald A. Goldmann",
+            "id": "2160503550",
+            "org": "Division of Infectious Diseases, Children's Hospital Boston and Harvard Medical School, Boston, Massachusetts, USA"
+        },
+        {
+            "name": "Tracy N. LaPorte",
+            "id": "2020779478",
+            "org": "Massachusetts Department of Public Health, Jamaica Plain, Massachusetts, USA"
+        },
+        {
+            "name": "Karen L. Olson",
+            "id": "2143898221",
+            "org": "Division of Emergency Medicine, Children's Hospital Boston and Department of Pediatrics, Harvard Medical School, Boston, Massachusetts, USA"
+        },
+        {
+            "name": "Karen L. Olson",
+            "id": "2143898221",
+            "org": "Division of Emergency Medicine, Children's Hospital Boston and Department of Pediatrics, Harvard Medical School, Boston, Massachusetts, USA"
+        },
+        {
+            "name": "Kenneth D. Mandl",
+            "id": "638079112",
+            "org": "Division of Emergency Medicine, Children's Hospital Boston and Department of Pediatrics, Harvard Medical School, Boston, Massachusetts, USA"
+        },
+        {
+            "name": "Kenneth D. Mandl",
+            "id": "638079112",
+            "org": "Division of Emergency Medicine, Children's Hospital Boston and Department of Pediatrics, Harvard Medical School, Boston, Massachusetts, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Clinical Practice",
+        "Receiver operating characteristic",
+        "Incidence-only",
+        "Population health",
+        "Retrospective cohort study",
+        "Incidence (epidemiology)",
+        "Public health",
+        "Pediatrics",
+        "Medicine",
+        "Local disease"
+    ],
+    "references": [
+        "2028148462",
+        "2084895529",
+        "2146350936"
+    ]
+}

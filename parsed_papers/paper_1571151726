@@ -1,0 +1,37 @@
+{
+    "id": "1571151726",
+    "title": "Workflow History Management in Virtual Healthcare Enterprise",
+    "venue": "international conference on information technology",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Tauqir Amin",
+            "id": "2162540596",
+            "org": "National University Singapore"
+        },
+        {
+            "name": "Hung Keng Pung",
+            "id": "2678545238",
+            "org": "National University Singapore"
+        }
+    ],
+    "fields_of_study": [
+        "Process management",
+        "Enterprise integration",
+        "Enterprise planning system",
+        "Workflow management system",
+        "Workflow engine",
+        "Workflow",
+        "Workflow technology",
+        "Enterprise software",
+        "Enterprise data management",
+        "Computer science",
+        "Knowledge management"
+    ],
+    "references": [
+        "1503568870",
+        "1519331240",
+        "2021538441",
+        "2162215125"
+    ]
+}

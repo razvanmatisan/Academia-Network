@@ -1,0 +1,31 @@
+{
+    "id": "1525979849",
+    "title": "Tour Jete, pirouette: dance choreographing by computers",
+    "venue": "genetic and evolutionary computation conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Tina Yu",
+            "id": "2188680671",
+            "org": "ChevronTexaco Information Technology Company, San Ramon, CA#TAB#"
+        },
+        {
+            "name": "Paul E. Johnson",
+            "id": "2157013225",
+            "org": "Department of Political Science, University of Kansas, Lawrence, Kansas#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Agent-based model",
+        "Swarm behaviour",
+        "Proof of concept",
+        "Multimedia",
+        "Dance",
+        "Animation",
+        "Software",
+        "Computer science",
+        "Simulation",
+        "Choreography"
+    ],
+    "references": []
+}

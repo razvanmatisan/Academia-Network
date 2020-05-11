@@ -1,0 +1,42 @@
+{
+    "id": "1522901891",
+    "title": "Clean translation of an imperative reversible programming language",
+    "venue": "compiler construction",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Holger Bock Axelsen",
+            "id": "1902859971",
+            "org": "DIKU, Dept. of Computer Science, University of Copenhagen#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "First-generation programming language",
+        "Low-level programming language",
+        "Programming language",
+        "Imperative programming",
+        "High-level programming language",
+        "Computer science",
+        "Assembly language",
+        "Programming language implementation",
+        "Code generation",
+        "Compiler"
+    ],
+    "references": [
+        "1488362833",
+        "1494199306",
+        "1501539107",
+        "1506888682",
+        "1529830543",
+        "1569069361",
+        "1592248844",
+        "1592460780",
+        "1972376146",
+        "2000143919",
+        "2031433874",
+        "2067961203",
+        "2068967633",
+        "2170362097",
+        "2194223632"
+    ]
+}

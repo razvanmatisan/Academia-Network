@@ -1,0 +1,32 @@
+{
+    "id": "1591830785",
+    "title": "Formalizing Basic First Order Model Theory",
+    "venue": "theorem proving in higher order logics",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "John Harrison",
+            "id": "2148262072",
+            "org": "Intel Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "HOL",
+        "Mathematical proof",
+        "Semantics",
+        "Algorithm",
+        "First-order logic",
+        "Satisfiability",
+        "Syntax",
+        "Model theory",
+        "Skolem normal form",
+        "Mathematics"
+    ],
+    "references": [
+        "54681483",
+        "1496188934",
+        "1995451881",
+        "2105505307"
+    ]
+}

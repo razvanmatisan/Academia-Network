@@ -1,0 +1,31 @@
+{
+    "id": "132436385",
+    "title": "Ambiguity Resolution via Passive OS Fingerprinting",
+    "venue": "recent advances in intrusion detection",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Greg Taleck",
+            "id": "2399043415",
+            "org": "NFR Security, Inc."
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Computer security",
+        "Real-time computing",
+        "Exploit",
+        "Ambiguity",
+        "Protocol stack",
+        "Transmission Control Protocol",
+        "Ambiguity resolution",
+        "Intrusion detection system",
+        "Stack (abstract data type)"
+    ],
+    "references": [
+        "70341044",
+        "1486443221",
+        "1553177637",
+        "2101080231"
+    ]
+}

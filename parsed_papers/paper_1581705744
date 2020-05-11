@@ -1,0 +1,32 @@
+{
+    "id": "1581705744",
+    "title": "Knowledge acquisition as an object-oriented modelling process",
+    "venue": "Human Factors in Information Technology",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Wolf-Fritz Riekert",
+            "id": "1968198661",
+            "org": "FAW Ulm / Siemens AG Munich, FRG"
+        }
+    ],
+    "fields_of_study": [
+        "Implementation",
+        "Knowledge extraction",
+        "Knowledge base",
+        "Systems engineering",
+        "Knowledge representation and reasoning",
+        "Machine learning",
+        "IDEF3",
+        "Natural language processing",
+        "Computer science",
+        "Object-oriented programming",
+        "Knowledge-based systems",
+        "Artificial intelligence",
+        "Knowledge acquisition"
+    ],
+    "references": [
+        "1564147917",
+        "1604928976"
+    ]
+}

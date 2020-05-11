@@ -1,0 +1,47 @@
+{
+    "id": "1481524367",
+    "title": "SAT, Local Search Dynamics and Density of States",
+    "venue": "european conference on artificial evolution",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Meriema Belaidouni",
+            "id": "2010149363",
+            "org": "Universite d'Angers"
+        },
+        {
+            "name": "Jin-Kao Hao",
+            "id": "2110538291",
+            "org": "Universite d'Angers"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Iterated local search",
+        "Incremental heuristic search",
+        "Mathematical optimization",
+        "State space search",
+        "Guided Local Search",
+        "Interpolation search",
+        "Discrete mathematics",
+        "Local search (optimization)",
+        "Search algorithm",
+        "Mathematics"
+    ],
+    "references": [
+        "18766686",
+        "77512158",
+        "123906727",
+        "1549740976",
+        "1600948446",
+        "1678931341",
+        "1771661567",
+        "1822195155",
+        "1898297283",
+        "1982647060",
+        "2036265926",
+        "2072294492",
+        "2106440199",
+        "2165372647"
+    ]
+}

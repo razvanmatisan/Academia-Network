@@ -1,0 +1,31 @@
+{
+    "id": "1557288745",
+    "title": "Interpretation, Coordination and Conformity",
+    "venue": "Games: Unifying Logic, Language, and Philosophy",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Hykel Hosni",
+            "id": "1974572884",
+            "org": "Scuola Normale Superiore Piazza dei Cavalieri"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithmic game theory",
+        "Solution concept",
+        "Applied mathematics",
+        "Simulations and games in economics education",
+        "Game theory",
+        "Positive political theory",
+        "Focal point",
+        "Implementation theory",
+        "Coordination game",
+        "Mathematics"
+    ],
+    "references": [
+        "1587751547",
+        "1992373581",
+        "2056261773",
+        "2169570973"
+    ]
+}

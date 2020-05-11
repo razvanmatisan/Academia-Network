@@ -1,0 +1,35 @@
+{
+    "id": "1584201100",
+    "title": "MyXML: An XML based template engine for the generation of flexible web content",
+    "venue": "world conference on www and internet",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Engin Kirda",
+            "id": "59249629",
+            "org": "Technical University of Vienna"
+        },
+        {
+            "name": "Clemens Kerer",
+            "id": "261085434",
+            "org": "Technical University of Vienna"
+        }
+    ],
+    "fields_of_study": [
+        "Web standards",
+        "Web service",
+        "Web development",
+        "Web page",
+        "Web modeling",
+        "Web API",
+        "Database",
+        "World Wide Web",
+        "Web 2.0",
+        "Computer science",
+        "WS-Policy"
+    ],
+    "references": [
+        "2063464176",
+        "2068194475"
+    ]
+}

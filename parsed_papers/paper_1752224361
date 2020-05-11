@@ -1,0 +1,27 @@
+{
+    "id": "1752224361",
+    "title": "The Migrating Tasks: An Execution Model for Irregular Codes",
+    "venue": "european conference on parallel processing",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Yvon Jegou",
+            "id": "2237603756",
+            "org": "IRISA/INRIA"
+        }
+    ],
+    "fields_of_study": [
+        "Locality",
+        "Parallel computing",
+        "Execution model",
+        "Support vector machine",
+        "Distributed computing",
+        "Distributed memory",
+        "Poor memory",
+        "Computer science",
+        "Data-flow analysis"
+    ],
+    "references": [
+        "1590936951"
+    ]
+}

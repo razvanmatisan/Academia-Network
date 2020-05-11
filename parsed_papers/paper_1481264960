@@ -1,0 +1,47 @@
+{
+    "id": "1481264960",
+    "title": "Graph Separator Algorithms: A Refined Analysis",
+    "venue": "workshop on graph theoretic concepts in computer science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Henning Fernau",
+            "id": "2293478762",
+            "org": "Universitat Tubingen"
+        },
+        {
+            "name": "Henning Fernau",
+            "id": "2293478762",
+            "org": "Universitat Tubingen"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Separator (oil production)",
+        "Planar separator theorem",
+        "Discrete mathematics",
+        "Algorithm",
+        "Strategy",
+        "Vertex cover",
+        "Graph",
+        "Graph theory",
+        "Planar graph",
+        "Mathematics"
+    ],
+    "references": [
+        "1556982589",
+        "1727001693",
+        "1857464237",
+        "1974876810",
+        "1996700055",
+        "2026771935",
+        "2036069482",
+        "2064969820",
+        "2077357506",
+        "2083807544",
+        "2087083200",
+        "2170069407",
+        "2177258617",
+        "2294414813"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "1593187280",
+    "title": "A Comprehensive Analysis of Concurrency Control Performance for Centralized Databases",
+    "venue": "IWDM",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Werner Kiessling",
+            "id": "2686272230",
+            "org": "University of California"
+        },
+        {
+            "name": "Werner Kiessling",
+            "id": "2686272230",
+            "org": "University of California"
+        },
+        {
+            "name": "Harald Pfeiffer",
+            "id": "2567104454",
+            "org": "Technische Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Optimistic concurrency control",
+        "Database",
+        "Isolation (database systems)",
+        "Non-lock concurrency control",
+        "Multiversion concurrency control",
+        "Distributed concurrency control",
+        "Timestamp-based concurrency control",
+        "Distributed computing",
+        "Concurrency control",
+        "Serializability",
+        "Computer science"
+    ],
+    "references": [
+        "65972224",
+        "152077158",
+        "1567311035",
+        "1590152515",
+        "2009998184",
+        "2010288803",
+        "2018649989",
+        "2035907333",
+        "2041197584",
+        "2133386065"
+    ]
+}

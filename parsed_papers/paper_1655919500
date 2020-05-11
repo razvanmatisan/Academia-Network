@@ -1,0 +1,34 @@
+{
+    "id": "1655919500",
+    "title": "Intuitions and the modelling of defeasible reasoning: some case studies.",
+    "venue": "non-monotonic reasoning",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Henry Prakken",
+            "id": "150191985",
+            "org": "Institute of Information and Computing Sciences | Utrecht University"
+        }
+    ],
+    "fields_of_study": [
+        "Inference",
+        "Algorithm",
+        "Defeasible estate",
+        "Computer science",
+        "Counterexample",
+        "Nothing",
+        "Defeasible reasoning",
+        "Artificial intelligence",
+        "Intuition",
+        "Logic in computer science"
+    ],
+    "references": [
+        "2002848380",
+        "2039020269",
+        "2069176561",
+        "2104126268",
+        "2105597099",
+        "2109132676",
+        "2115449662"
+    ]
+}

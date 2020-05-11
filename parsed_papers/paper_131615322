@@ -1,0 +1,32 @@
+{
+    "id": "131615322",
+    "title": "Maintaining diversity in genetic search",
+    "venue": "national conference on artificial intelligence",
+    "year": 1984,
+    "authors": [
+        {
+            "name": "Michael L. Mauldin",
+            "id": "399299867",
+            "org": "Department of Computer Science, Carnegie-Mellon University, Pittsburgh, Pennsylvania#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Mathematical optimization",
+        "Genetic algorithm",
+        "Gene pool",
+        "Adaptive algorithm",
+        "Genetic diversity",
+        "Population genetics",
+        "Adaptive control",
+        "Computer science",
+        "Premature convergence",
+        "Quality control and genetic algorithms"
+    ],
+    "references": [
+        "86212350",
+        "163890243",
+        "1970001627"
+    ]
+}

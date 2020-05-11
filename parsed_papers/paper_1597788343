@@ -1,0 +1,35 @@
+{
+    "id": "1597788343",
+    "title": "Design of a New Stream Cipher--LEX",
+    "venue": "New Stream Cipher Designs",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Alex Biryukov",
+            "id": "2167814525",
+            "org": "University of Luxembourg, FSTC, Luxembourg-Kirchberg, Luxembourg L-1359#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Transposition cipher",
+        "Substitution-permutation network",
+        "Stream cipher attack",
+        "Parallel computing",
+        "Two-square cipher",
+        "Rail fence cipher",
+        "Theoretical computer science",
+        "Stream cipher",
+        "Affine cipher",
+        "Computer science",
+        "CBC-MAC"
+    ],
+    "references": [
+        "1699105",
+        "1518051266",
+        "1554090281",
+        "1556212265",
+        "1563880518",
+        "1964776377",
+        "2130943734"
+    ]
+}

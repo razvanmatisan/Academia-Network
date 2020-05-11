@@ -1,0 +1,47 @@
+{
+    "id": "1521044830",
+    "title": "USING SECURITY ATTACK SCENARIOS TO ANALYSE SECURITY DURING INFORMATION SYSTEMS DESIGN",
+    "venue": "international conference on enterprise information systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Haralambos Mouratidis",
+            "id": "121258479",
+            "org": "University of East London"
+        },
+        {
+            "name": "Paolo Giorgini",
+            "id": "390620748",
+            "org": "University of Trento"
+        },
+        {
+            "name": "Gordon A. Manson",
+            "id": "2575930445",
+            "org": "University of East London"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Management science",
+        "Security testing",
+        "Security through obscurity",
+        "Human-computer interaction in information security",
+        "Information security audit",
+        "Computer security",
+        "Cloud computing security",
+        "Security service",
+        "Computer science",
+        "Security information and event management",
+        "Computer security model"
+    ],
+    "references": [
+        "51632797",
+        "1492198637",
+        "1594674973",
+        "1907001450",
+        "1995620802",
+        "2007231177",
+        "2016893162",
+        "2064419470"
+    ]
+}

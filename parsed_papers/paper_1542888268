@@ -1,0 +1,31 @@
+{
+    "id": "1542888268",
+    "title": "Some examples of algorithm analysis in computational geometry by means of mathematical morphological techniques",
+    "venue": "Proceedings of the Workshop on Geometry and Robotics",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Michel Schmitt",
+            "id": "2295689517",
+            "org": "INRIA Sophia-Antipolis"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Computational geometry",
+        "Delaunay triangulation",
+        "Computational resource",
+        "Computational topology",
+        "Sweep line algorithm",
+        "Mathematical morphology",
+        "Theoretical computer science",
+        "Computational model",
+        "Mathematics",
+        "Closed set"
+    ],
+    "references": [
+        "1859127863",
+        "2005314985",
+        "2163178194"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": "1570269211",
+    "title": "Component Fusion for Face Detection in the Presence of Heteroscedastic Noise",
+    "venue": "joint pattern recognition symposium",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Binglong Xie",
+            "id": "2133844215",
+            "org": "Siemens Corporate Research"
+        },
+        {
+            "name": "Dorin Comaniciu",
+            "id": "2054682710",
+            "org": "Siemens Corporate Research"
+        },
+        {
+            "name": "Visvanathan Ramesh",
+            "id": "2140766645",
+            "org": "Siemens Corporate Research"
+        },
+        {
+            "name": "Markus Simon",
+            "id": "2336778192",
+            "org": "Information and Communication Mobile, Siemens AG"
+        },
+        {
+            "name": "Terrance E. Boult",
+            "id": "729708866",
+            "org": "Lehigh University"
+        }
+    ],
+    "fields_of_study": [
+        "Heteroscedasticity",
+        "Face detection",
+        "Mahalanobis distance",
+        "Robustness (computer science)",
+        "Image processing",
+        "Fusion",
+        "Computer vision",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1608462934",
+        "2064328587",
+        "2112076978",
+        "2119821739",
+        "2121114545",
+        "2137401668",
+        "2143425433",
+        "2152473410"
+    ]
+}

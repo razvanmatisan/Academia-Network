@@ -1,0 +1,43 @@
+{
+    "id": "1540514853",
+    "title": "A System for Multi-agent Information Retrieval",
+    "venue": "international conference on artificial intelligence",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Paula McDermott",
+            "id": "2193325582",
+            "org": "Department of IT"
+        },
+        {
+            "name": "Colm O'Riordan",
+            "id": "2149458067",
+            "org": "Department of IT"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Human-computer information retrieval",
+        "Adversarial information retrieval",
+        "Cognitive models of information retrieval",
+        "Data mining",
+        "Filter (signal processing)",
+        "Information filtering system",
+        "Negotiation",
+        "Computer science"
+    ],
+    "references": [
+        "1550427658",
+        "1565708010",
+        "1575548805",
+        "1660390307",
+        "1779265893",
+        "1828853449",
+        "2086253379",
+        "2119847602",
+        "2124344619",
+        "2153252192",
+        "2157598146",
+        "2165612380"
+    ]
+}

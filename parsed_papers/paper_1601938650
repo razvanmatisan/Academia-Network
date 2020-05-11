@@ -1,0 +1,42 @@
+{
+    "id": "1601938650",
+    "title": "Dynamic Reducts as a Tool for Extracting Laws from Decisions Tables",
+    "venue": "international syposium on methodologies for intelligent systems",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Jan G. Bazan",
+            "id": "2155507894",
+            "org": "Pedagogical University"
+        },
+        {
+            "name": "Andrzej Skowron",
+            "id": "565168613",
+            "org": "Warsaw University"
+        },
+        {
+            "name": "Piotr Synak",
+            "id": "2494656645",
+            "org": "Warsaw University"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Data mining",
+        "Knowledge extraction",
+        "Reduct",
+        "Decision table",
+        "Experimental data",
+        "Data set",
+        "Decision rule",
+        "Dominance-based rough set approach",
+        "Computer science",
+        "Law",
+        "Rough set"
+    ],
+    "references": [
+        "2125055259",
+        "2151355822"
+    ]
+}

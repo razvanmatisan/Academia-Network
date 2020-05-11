@@ -1,0 +1,32 @@
+{
+    "id": "1501859017",
+    "title": "Entropy-based principle and generalized contingency tables",
+    "venue": "the european symposium on artificial neural networks",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Vincent Vigneron",
+            "id": "2690325206",
+            "org": "Pantheon-Sorbonne University"
+        }
+    ],
+    "fields_of_study": [
+        "Mutual information",
+        "Statistics",
+        "Contingency table",
+        "Normalization (statistics)",
+        "Econometrics",
+        "Cluster analysis",
+        "Categorical variable",
+        "G-test",
+        "Divergence",
+        "Random variable",
+        "Mathematics"
+    ],
+    "references": [
+        "101216601",
+        "1485342750",
+        "2057712948",
+        "2099581008"
+    ]
+}

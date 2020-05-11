@@ -1,0 +1,49 @@
+{
+    "id": "1576442514",
+    "title": "Web services composition based on ontology and workflow",
+    "venue": "web age information management",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Huaizhou Yang",
+            "id": "2109140730",
+            "org": "Institute of Computer Architecture & networks, Xi'an Jiaotong University, Xi'an, China#TAB#"
+        },
+        {
+            "name": "Zeng-Zhi Li",
+            "id": "2153169755",
+            "org": "Institute of Computer Architecture & networks, Xi'an Jiaotong University, Xi'an, China#TAB#"
+        },
+        {
+            "name": "Jing Chen",
+            "id": "2668332944",
+            "org": "Institute of Computer Architecture & networks, Xi'an Jiaotong University, Xi'an, China#TAB#"
+        },
+        {
+            "name": "Hong Xia",
+            "id": "2654956241",
+            "org": "Institute of Computer Architecture & networks, Xi'an Jiaotong University, Xi'an, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Web service",
+        "Computer science",
+        "Web standards",
+        "WS-Addressing",
+        "Database",
+        "Web modeling",
+        "WS-I Basic Profile",
+        "Semantic Web Stack",
+        "Services computing",
+        "WS-Policy"
+    ],
+    "references": [
+        "2042227974",
+        "2061273508",
+        "2107843501",
+        "2155687857",
+        "2157501505",
+        "2158234607"
+    ]
+}

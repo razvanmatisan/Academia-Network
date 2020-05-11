@@ -1,0 +1,44 @@
+{
+    "id": "1592188038",
+    "title": "Nonblocking algorithms and backward simulation",
+    "venue": "international symposium on distributed computing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Simon Doherty",
+            "id": "2228681763",
+            "org": "Victoria University, Wellington, New Zealand#TAB#"
+        },
+        {
+            "name": "Mark Moir",
+            "id": "2648964153",
+            "org": "Sun Microsystems Laboratories, Burlington, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Software transactional memory",
+        "Theorem Proving System",
+        "Correctness",
+        "Implementation",
+        "Mathematical proof",
+        "Concurrent algorithm",
+        "Distributed computing",
+        "Algorithm",
+        "Automated theorem proving",
+        "Theoretical computer science",
+        "Computer science"
+    ],
+    "references": [
+        "1540997098",
+        "1546021725",
+        "1594023774",
+        "1986732422",
+        "2000302396",
+        "2099899133",
+        "2101939036",
+        "2134042909",
+        "2166115541",
+        "2328819335",
+        "2611515161"
+    ]
+}

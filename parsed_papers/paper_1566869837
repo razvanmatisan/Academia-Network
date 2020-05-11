@@ -1,0 +1,48 @@
+{
+    "id": "1566869837",
+    "title": "Mixed integer linear programming for exact finite-horizon planning in decentralized pomdps",
+    "venue": "international conference on automated planning and scheduling",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Raghav Aras",
+            "id": "2609483662",
+            "org": "INRIA-Lorraine / Loria, Villers-les-Nancy, France#TAB#"
+        },
+        {
+            "name": "Alain Dutech",
+            "id": "4070460",
+            "org": "INRIA-Lorraine / Loria, Villers-les-Nancy, France#TAB#"
+        },
+        {
+            "name": "Francois Charpillet",
+            "id": "690545473",
+            "org": "INRIA-Lorraine / Loria, Villers-les-Nancy, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Integer programming",
+        "Mathematical optimization",
+        "Combinatorial optimization",
+        "Branch and price",
+        "Dynamic programming",
+        "Integer",
+        "Computer experiment",
+        "Partially observable Markov decision process",
+        "Linear programming",
+        "Mathematics"
+    ],
+    "references": [
+        "156814138",
+        "1554448638",
+        "1559536003",
+        "1798373787",
+        "1908253641",
+        "1980717955",
+        "2056833945",
+        "2088956500",
+        "2114245943"
+    ]
+}

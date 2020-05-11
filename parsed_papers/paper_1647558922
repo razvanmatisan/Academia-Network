@@ -1,0 +1,42 @@
+{
+    "id": "1647558922",
+    "title": "The Gaussian channel with noisy feedback: improving reliability via interaction",
+    "venue": "international symposium on information theory",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Assaf Ben-Yishai",
+            "id": "2019892817",
+            "org": "Department of EE-Systems, Tel Aviv University, Israel"
+        },
+        {
+            "name": "Ofer Shayevitz",
+            "id": "73848368",
+            "org": "Department of EE-Systems, Tel Aviv University, Israel"
+        }
+    ],
+    "fields_of_study": [
+        "Additive white Gaussian noise",
+        "Gaussian noise",
+        "Noise measurement",
+        "Feed forward",
+        "Mathematics",
+        "Signal-to-noise ratio",
+        "Control theory",
+        "Analog transmission",
+        "Communication channel",
+        "Noise temperature"
+    ],
+    "references": [
+        "1570464485",
+        "1980504414",
+        "2011914761",
+        "2018944882",
+        "2040877654",
+        "2101748098",
+        "2122621581",
+        "2150412388",
+        "2157067218",
+        "2164684058"
+    ]
+}

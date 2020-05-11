@@ -1,0 +1,39 @@
+{
+    "id": "1573591308",
+    "title": "A Branch-and-Cut Approach to the Directed Acyclic Graph Layering Problem",
+    "venue": "graph drawing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Patrick Healy",
+            "id": "2136167289",
+            "org": "University of Limerick"
+        },
+        {
+            "name": "Nikola S. Nikolov",
+            "id": "2150185657",
+            "org": "University of Limerick"
+        }
+    ],
+    "fields_of_study": [
+        "Integer programming",
+        "Branch and bound",
+        "Branch and cut",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Directed graph",
+        "Directed acyclic graph",
+        "Cutting stock problem",
+        "Cutting-plane method",
+        "Linear programming",
+        "Mathematics"
+    ],
+    "references": [
+        "1538906616",
+        "1602198681",
+        "2038791549",
+        "2071353749",
+        "2129825531",
+        "2162446609"
+    ]
+}

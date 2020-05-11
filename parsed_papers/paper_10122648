@@ -1,0 +1,43 @@
+{
+    "id": "10122648",
+    "title": "A Framework for Cross-Media Information Management.",
+    "venue": "internet, multimedia systems and applications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Beat Signer",
+            "id": "2092939291",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "Moira C. Norrie",
+            "id": "703173713",
+            "org": "ETH Zurich"
+        }
+    ],
+    "fields_of_study": [
+        "Multimedia",
+        "Peer-to-peer",
+        "Computer science",
+        "Knowledge management",
+        "Personal information management",
+        "Hypermedia",
+        "Peer review",
+        "Data management",
+        "Information management",
+        "Technical peer review",
+        "Architecture"
+    ],
+    "references": [
+        "126624029",
+        "1500415735",
+        "1523677176",
+        "1574492904",
+        "1706371292",
+        "1964725157",
+        "1998550411",
+        "2019933542",
+        "2107191673",
+        "2295209691"
+    ]
+}

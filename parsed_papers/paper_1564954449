@@ -1,0 +1,41 @@
+{
+    "id": "1564954449",
+    "title": "Formal specification and verification of task time constraints for real-time systems",
+    "venue": "leveraging applications of formal methods",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Ning Ge",
+            "id": "2121952019",
+            "org": "IRIT/INPT, University of Toulouse, Toulouse Cedex 7, France#TAB#"
+        },
+        {
+            "name": "Marc Pantel",
+            "id": "1995276563",
+            "org": "IRIT/INPT, University of Toulouse, Toulouse Cedex 7, France#TAB#"
+        },
+        {
+            "name": "Xavier Cregut",
+            "id": "1244859779",
+            "org": "IRIT/INPT, University of Toulouse, Toulouse Cedex 7, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computation tree logic",
+        "Formal methods",
+        "Runtime verification",
+        "Formal specification",
+        "Intelligent verification",
+        "Real-time computing",
+        "Functional verification",
+        "Formal verification",
+        "High-level verification",
+        "Computer science"
+    ],
+    "references": [
+        "2000947342",
+        "2114531903",
+        "2124953150",
+        "2211180838"
+    ]
+}

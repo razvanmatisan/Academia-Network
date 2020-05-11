@@ -1,0 +1,37 @@
+{
+    "id": "1500165719",
+    "title": "A Web-Based Language Learning System",
+    "venue": "international conference on web based learning",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Johann Gamper",
+            "id": "1786981052",
+            "org": "Free University of Bozen"
+        },
+        {
+            "name": "Judith Knapp",
+            "id": "2577492876",
+            "org": "European Academy Bolzano"
+        }
+    ],
+    "fields_of_study": [
+        "Language acquisition",
+        "Expert system",
+        "Adaptive hypermedia",
+        "Knowledge management",
+        "Vocabulary",
+        "Natural language processing",
+        "New media",
+        "Systems architecture",
+        "Computer science",
+        "Artificial intelligence",
+        "TUTOR",
+        "The Internet"
+    ],
+    "references": [
+        "1603213950",
+        "2016374873",
+        "2123250295"
+    ]
+}

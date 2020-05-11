@@ -1,0 +1,37 @@
+{
+    "id": "1552720242",
+    "title": "A competitive approach to neural device modeling: support vector machines",
+    "venue": "international conference on artificial neural networks",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Nurhan Turker",
+            "id": "2162474226",
+            "org": "Electrical and Electronics Faculty, Department of Electronics and Communication Engineering, Yildiz Technical University, Yildiz, Istanbul, Turkey#TAB#"
+        },
+        {
+            "name": "Filiz Gunes",
+            "id": "1972742652",
+            "org": "Electrical and Electronics Faculty, Department of Electronics and Communication Engineering, Yildiz Technical University, Yildiz, Istanbul, Turkey#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Sequential minimal optimization",
+        "Machine learning",
+        "Support vector machine",
+        "Margin classifier",
+        "Polynomial kernel",
+        "Relevance vector machine",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Kernel method",
+        "Feature vector",
+        "Least squares support vector machine",
+        "Computer science"
+    ],
+    "references": [
+        "1564556749",
+        "2123737232",
+        "2153635508"
+    ]
+}

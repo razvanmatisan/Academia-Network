@@ -1,0 +1,42 @@
+{
+    "id": "1561255266",
+    "title": "An hierarchical terrain representation for approximately shortest paths",
+    "venue": "pacific rim international conference on artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "David Mould",
+            "id": "2100731842",
+            "org": "Department of Computer Science, University of Saskatchewan, Saskatoon, Canada#TAB#"
+        },
+        {
+            "name": "Michael C. Horsch",
+            "id": "2284466458",
+            "org": "Department of Computer Science, University of Saskatchewan, Saskatoon, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Yen's algorithm",
+        "Motion planning",
+        "Graph theory",
+        "Shortest Path Faster Algorithm",
+        "Planar graph",
+        "Shortest path problem",
+        "Almost surely",
+        "Line graph",
+        "Mathematics"
+    ],
+    "references": [
+        "10620669",
+        "177721096",
+        "1481010420",
+        "1646038686",
+        "1969483458",
+        "1997413504",
+        "2021061679",
+        "2022980325",
+        "2031247977",
+        "2150470619"
+    ]
+}

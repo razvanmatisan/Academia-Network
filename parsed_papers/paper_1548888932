@@ -1,0 +1,46 @@
+{
+    "id": "1548888932",
+    "title": "Energy aware flash flood monitoring stations using a GA-fuzzy logic control mechanism",
+    "venue": "international conference on intelligent sensors sensor networks and information processing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Benya Suntaranont",
+            "id": "2223759640",
+            "org": "Department of Civil Engineering, Chiang Mai University, Thailand"
+        },
+        {
+            "name": "Chuchoke Aryupong",
+            "id": "2230381717",
+            "org": "Department of Civil Engineering, Chiang Mai University, Thailand"
+        },
+        {
+            "name": "Supamit Jankoo",
+            "id": "2225460984",
+            "org": "Department of Computer Engineering, Chiang Mai University, Thailand"
+        },
+        {
+            "name": "Paskorn Champrasert",
+            "id": "317608301",
+            "org": "Department of Computer Engineering, Chiang Mai University, Thailand"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Electric power",
+        "Computer network",
+        "Flash flood",
+        "Water level",
+        "Fuzzy logic",
+        "Watershed",
+        "Computer science",
+        "Warning system",
+        "Base station",
+        "Transmission (mechanics)"
+    ],
+    "references": [
+        "225560312",
+        "1541288193",
+        "2126105956"
+    ]
+}

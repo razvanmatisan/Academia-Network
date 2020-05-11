@@ -1,0 +1,47 @@
+{
+    "id": "1496129690",
+    "title": "Classical Linear Logic of Implications",
+    "venue": "computer science logic",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Masahito Hasegawa",
+            "id": "2122664457",
+            "org": "Kyoto University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Many-valued logic",
+        "Curry-Howard correspondence",
+        "Simply typed lambda calculus",
+        "Typed lambda calculus",
+        "Binary lambda calculus",
+        "Natural deduction",
+        "Minimal logic",
+        "Linear logic",
+        "Mathematics"
+    ],
+    "references": [
+        "110349690",
+        "1481631045",
+        "1555249251",
+        "1563480347",
+        "1567995736",
+        "1592122327",
+        "1605806361",
+        "1968350036",
+        "1992485564",
+        "1993205599",
+        "2008920425",
+        "2035102150",
+        "2045564677",
+        "2054299141",
+        "2060269912",
+        "2090319048",
+        "2099554648",
+        "2106458801",
+        "2107267313",
+        "2171556610"
+    ]
+}

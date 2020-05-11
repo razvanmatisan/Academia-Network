@@ -1,0 +1,43 @@
+{
+    "id": "1731479782",
+    "title": "Impact of node density and mobility on the performance of AODV and DSR in MANETS",
+    "venue": "communication systems networks and digital signal processing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Kashif Amjad",
+            "id": "2649947587",
+            "org": "Radio Systems Research Group, Dept. of Engineering, University of Leicester, U.K."
+        },
+        {
+            "name": "Alan J. Stocker",
+            "id": "2791272728",
+            "org": "Radio Systems Research Group, Dept. of Engineering, University of Leicester, U.K."
+        }
+    ],
+    "fields_of_study": [
+        "Static routing",
+        "Link-state routing protocol",
+        "Routing protocol",
+        "Wireless ad hoc network",
+        "Dynamic Source Routing",
+        "Distance-vector routing protocol",
+        "Distributed computing",
+        "DSRFLOW",
+        "Computer science",
+        "Destination-Sequenced Distance Vector routing",
+        "Computer network"
+    ],
+    "references": [
+        "1497763074",
+        "1745205774",
+        "2050129924",
+        "2092865915",
+        "2094553360",
+        "2102258543",
+        "2132932625",
+        "2133520751",
+        "2139007984",
+        "2213553754"
+    ]
+}

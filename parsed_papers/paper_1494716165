@@ -1,0 +1,43 @@
+{
+    "id": "1494716165",
+    "title": "I-MODE: an interactive multi-objective optimization and decision-making using evolutionary methods",
+    "venue": "international conference on evolutionary multi criterion optimization",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Kalyanmoy Deb",
+            "id": "2150011549",
+            "org": "Kanpur Genetic Algorithms Laboratory, Indian Institute of Technology, Kanpur, Kanpur, India#TAB#"
+        },
+        {
+            "name": "Shamik Chaudhuri",
+            "id": "2142259517",
+            "org": "Kanpur Genetic Algorithms Laboratory, Indian Institute of Technology, Kanpur, Kanpur, India#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multiple-criteria decision analysis",
+        "MATLAB",
+        "Local search (optimization)",
+        "Multi-objective optimization",
+        "Software",
+        "Management science",
+        "Macro",
+        "Machine learning",
+        "Executable",
+        "i-mode",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1498091362",
+        "1499692130",
+        "1537788332",
+        "2110828487",
+        "2121064262",
+        "2126105956",
+        "2135864487",
+        "2155956120",
+        "2210195496"
+    ]
+}

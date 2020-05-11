@@ -1,0 +1,31 @@
+{
+    "id": "1583369417",
+    "title": "Software requirements prioritizing",
+    "venue": "international conference on requirements engineering",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Joachim Karlsson",
+            "id": "2113143316",
+            "org": "SoftLab ab, Linkoping, Sweden"
+        }
+    ],
+    "fields_of_study": [
+        "Software requirements specification",
+        "Computer science",
+        "Requirements engineering",
+        "Requirements management",
+        "Systems engineering",
+        "Software requirements",
+        "Reliability engineering",
+        "Software system",
+        "Systems analysis",
+        "Requirement prioritization",
+        "Software performance testing"
+    ],
+    "references": [
+        "1569267743",
+        "2045571829",
+        "2104099122"
+    ]
+}

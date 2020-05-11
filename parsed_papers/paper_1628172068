@@ -1,0 +1,31 @@
+{
+    "id": "1628172068",
+    "title": "Extended Isomap for classification",
+    "venue": "international conference on pattern recognition",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Ming-Hsuan Yang",
+            "id": "2112462370",
+            "org": "Honda Fundamental Res. Labs., Mountain View, CA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Nonlinear dimensionality reduction",
+        "Data set",
+        "Machine learning",
+        "Embedding",
+        "Linear discriminant analysis",
+        "Pattern recognition",
+        "Isomap",
+        "Dimensionality reduction",
+        "Geodesic",
+        "Multidimensional scaling",
+        "Mathematics"
+    ],
+    "references": [
+        "2033419168",
+        "2121647436"
+    ]
+}

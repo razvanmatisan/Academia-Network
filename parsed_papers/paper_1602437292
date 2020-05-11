@@ -1,0 +1,30 @@
+{
+    "id": "1602437292",
+    "title": "Metacognition in Interactive Learning Environments: The Reflection Assistant Model",
+    "venue": "intelligent tutoring systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Claudia Gama",
+            "id": "2662145941",
+            "org": "Federal University of Bahia"
+        }
+    ],
+    "fields_of_study": [
+        "Word problem (mathematics education)",
+        "Problem solving environment",
+        "Machine learning",
+        "Knowledge engineering",
+        "Artificial intelligence",
+        "Empirical research",
+        "Knowledge management",
+        "Time management",
+        "Instructional design",
+        "Metacognition",
+        "Computer science",
+        "Interactive Learning"
+    ],
+    "references": [
+        "2139891935"
+    ]
+}

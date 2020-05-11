@@ -1,0 +1,33 @@
+{
+    "id": "1532066854",
+    "title": "Enabling alarm correlation for a mobile agent based system and network management - a wrapper concept",
+    "venue": "international conference on networks",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Steffen Lipperts",
+            "id": "2680421369",
+            "org": "Dept. of Comput. Sci., Tech. Hochschule Aachen, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Structure of Management Information",
+        "Mobile agent",
+        "Computer network",
+        "Network management station",
+        "Distributed computing",
+        "Network management",
+        "FCAPS",
+        "Computer science",
+        "Mobile computing",
+        "Multi-agent system",
+        "Network management application"
+    ],
+    "references": [
+        "1510940979",
+        "1565578558",
+        "1791490601",
+        "1983899735",
+        "2136500746"
+    ]
+}

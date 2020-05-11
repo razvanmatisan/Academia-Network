@@ -1,0 +1,32 @@
+{
+    "id": "1711784689",
+    "title": "Travel Time Reliability Estimation Model Using Observed Link Flows in a Road Network",
+    "venue": "Computer-aided Civil and Infrastructure Engineering",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Ken-etsu Uchida",
+            "id": "2518835676",
+            "org": "Hokkaido University Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Maximum likelihood",
+        "Econometrics",
+        "Standard ML",
+        "Mathematical optimization",
+        "Travel time reliability",
+        "Engineering",
+        "Enumeration"
+    ],
+    "references": [
+        "1594839485",
+        "1679809766",
+        "1838806972",
+        "1924558103",
+        "2037074524",
+        "2112417701",
+        "2128057595",
+        "2164465982"
+    ]
+}

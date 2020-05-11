@@ -1,0 +1,46 @@
+{
+    "id": "1557784766",
+    "title": "An Analysis of Multi-Point Crossover",
+    "venue": "foundations of genetic algorithms",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "William M. Spears",
+            "id": "2723128070",
+            "org": "Naval Research Laboratory, Washington, D.C. 20375 USA"
+        },
+        {
+            "name": "William M. Spears",
+            "id": "2723128070",
+            "org": "Naval Research Laboratory, Washington, D.C. 20375 USA"
+        },
+        {
+            "name": "Kenneth A. De Jong",
+            "id": "2126791821",
+            "org": "Naval Research Laboratory, Washington, D.C. 20375 USA"
+        },
+        {
+            "name": "Kenneth A. De Jong",
+            "id": "2126791821",
+            "org": "Naval Research Laboratory, Washington, D.C. 20375 USA"
+        }
+    ],
+    "fields_of_study": [
+        "Crossover",
+        "Artificial intelligence",
+        "Genetic algorithm",
+        "Mathematical optimization",
+        "Machine learning",
+        "Combinatorics",
+        "Hyperplane",
+        "Random walk",
+        "Adaptive control",
+        "Mathematics"
+    ],
+    "references": [
+        "1539490460",
+        "1561166937",
+        "1639032689",
+        "2156728410"
+    ]
+}

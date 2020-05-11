@@ -1,0 +1,32 @@
+{
+    "id": "1575644582",
+    "title": "From a Computer Algebra Library to a System with an Equational Prover",
+    "venue": "artificial intelligence and symbolic computation",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Serge Mechveliani",
+            "id": "2397336796",
+            "org": "Program Systems Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Algebraic specification",
+        "Theoretical computer science",
+        "Mathematical proof",
+        "Discrete mathematics",
+        "Boolean algebra",
+        "Inductive reasoning",
+        "Specification language",
+        "Algorithm",
+        "Computer science",
+        "Predicate logic",
+        "Automated theorem proving",
+        "Symbolic computation"
+    ],
+    "references": [
+        "1595374223",
+        "1642570649",
+        "2019751493"
+    ]
+}

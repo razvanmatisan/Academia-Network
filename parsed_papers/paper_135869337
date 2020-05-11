@@ -1,0 +1,46 @@
+{
+    "id": "135869337",
+    "title": "Inferring and Exploiting Problem Structure with Schema Grammar",
+    "venue": "parallel problem solving from nature",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Chris R. Cox",
+            "id": "2669207600",
+            "org": "University of Southampton"
+        },
+        {
+            "name": "Richard A. Watson",
+            "id": "2101194707",
+            "org": "University of Southampton"
+        }
+    ],
+    "fields_of_study": [
+        "Generative grammar",
+        "Evolutionary algorithm",
+        "Artificial intelligence",
+        "Estimation of distribution algorithm",
+        "Computer science",
+        "Machine learning",
+        "Natural language processing",
+        "Schema (psychology)",
+        "Attribute grammar",
+        "Population",
+        "Rule-based machine translation",
+        "Grammar"
+    ],
+    "references": [
+        "1482125571",
+        "1551554925",
+        "1593481303",
+        "1606791384",
+        "1639032689",
+        "1963955294",
+        "1997079881",
+        "2050215344",
+        "2105686649",
+        "2117151345",
+        "2130956967",
+        "2168703821"
+    ]
+}

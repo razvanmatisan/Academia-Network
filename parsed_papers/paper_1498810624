@@ -1,0 +1,39 @@
+{
+    "id": "1498810624",
+    "title": "On Public-Key Steganography in the Presence of an Active Warden",
+    "venue": "information hiding",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Scott Craver",
+            "id": "2420347986",
+            "org": "Intel Corporation"
+        },
+        {
+            "name": "Scott Craver",
+            "id": "2420347986",
+            "org": "Intel Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Information needs",
+        "Information protection policy",
+        "Steganography",
+        "Computer science",
+        "Computer security",
+        "Key (cryptography)",
+        "Information hiding",
+        "Distributed computing",
+        "Public-key cryptography",
+        "Imprisonment",
+        "Communication channel"
+    ],
+    "references": [
+        "1588954910",
+        "1594271205",
+        "1744890312",
+        "1878907771",
+        "2116467012",
+        "2170436791"
+    ]
+}

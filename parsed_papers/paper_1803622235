@@ -1,0 +1,44 @@
+{
+    "id": "1803622235",
+    "title": "Hybrid control structure for multi-robot formation",
+    "venue": "international conference on artificial neural networks",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Daniela Cristina Cernega",
+            "id": "26456018",
+            "org": "Department of Control Systems and Industrial Informatics, Computer Science Faculty, \"Dunarea de Jos\" University of Galati, Galati, Romania#TAB#"
+        },
+        {
+            "name": "Razvan Solea",
+            "id": "1255473355",
+            "org": "Department of Control Systems and Industrial Informatics, Computer Science Faculty, \"Dunarea de Jos\" University of Galati, Galati, Romania#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Sliding mode control",
+        "Automatic control",
+        "Mobile robot",
+        "Trajectory",
+        "Networked control system",
+        "Variable structure control",
+        "Control engineering",
+        "Control theory",
+        "Supervisory control",
+        "Control theory",
+        "Computer science"
+    ],
+    "references": [
+        "1582813132",
+        "1607851361",
+        "1778210448",
+        "2000233086",
+        "2032014164",
+        "2098906570",
+        "2123055356",
+        "2127516259",
+        "2141429008",
+        "2154524458",
+        "2165413656"
+    ]
+}

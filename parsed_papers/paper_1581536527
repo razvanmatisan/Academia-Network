@@ -1,0 +1,42 @@
+{
+    "id": "1581536527",
+    "title": "Continuous steganographic data transmission using uncompressed audio",
+    "venue": "information hiding",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Chr. Neubauer",
+            "id": "2671230379",
+            "org": "Fraunhofer Institut fur Integrierte Schaltungen"
+        },
+        {
+            "name": "Jurgen Herre",
+            "id": "1968285168",
+            "org": "Fraunhofer Institut fur Integrierte Schaltungen"
+        },
+        {
+            "name": "Karlheinz Brandenburg",
+            "id": "2114073034",
+            "org": "Fraunhofer Institut fur Integrierte Schaltungen"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Artificial intelligence",
+        "Audio signal",
+        "Theoretical computer science",
+        "Computer science",
+        "Steganography",
+        "Digital watermarking",
+        "Digital audio",
+        "Audio signal processing",
+        "Uncompressed video",
+        "Raw audio format",
+        "Sound quality"
+    ],
+    "references": [
+        "1539419769",
+        "1583385494",
+        "2096015107"
+    ]
+}

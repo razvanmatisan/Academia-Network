@@ -1,0 +1,35 @@
+{
+    "id": "116737011",
+    "title": "The role of saliency in generating natural language arguments",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Chris Reed",
+            "id": "2310131763",
+            "org": "Department of Applied Computing, University of Dundee, Dundee, Scotland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Realisation",
+        "Artificial intelligence",
+        "Machine learning",
+        "Natural language",
+        "Salience (language)",
+        "Salience (neuroscience)",
+        "Natural language generation",
+        "Natural language processing",
+        "Language identification",
+        "Expression (mathematics)",
+        "Computer science"
+    ],
+    "references": [
+        "126460219",
+        "149507900",
+        "1502275139",
+        "1637480429",
+        "2029040102",
+        "2081183646",
+        "2167702024"
+    ]
+}

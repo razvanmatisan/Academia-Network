@@ -1,0 +1,47 @@
+{
+    "id": "1505803288",
+    "title": "Learning in Knowledge Based System, a Possibilistic Approach",
+    "venue": "mathematical foundations of computer science",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Zbigniew W. Ras",
+            "id": "2059569764",
+            "org": "University of Tennessee"
+        },
+        {
+            "name": "Zbigniew W. Ras",
+            "id": "2059569764",
+            "org": "University of Tennessee"
+        },
+        {
+            "name": "Maria Zemankova",
+            "id": "2527948717",
+            "org": "University of Tennessee"
+        },
+        {
+            "name": "Maria Zemankova",
+            "id": "2527948717",
+            "org": "University of Tennessee"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge extraction",
+        "Discrete mathematics",
+        "Machine learning",
+        "Artificial intelligence",
+        "Distribution function",
+        "Knowledge-based systems",
+        "Computer science",
+        "Rough set"
+    ],
+    "references": [
+        "937617752",
+        "1543775336",
+        "1557490893",
+        "2019254124",
+        "2113299689",
+        "2178023902",
+        "2340020088"
+    ]
+}

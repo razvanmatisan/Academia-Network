@@ -1,0 +1,42 @@
+{
+    "id": "1558870289",
+    "title": "Optimal additive composition of abstraction-based admissible heuristics",
+    "venue": "international conference on automated planning and scheduling",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Michael Katz",
+            "id": "2146920245",
+            "org": "Faculty of Industrial Engineering & Management, Technion, Israel#TAB#"
+        },
+        {
+            "name": "Carmel Domshlak",
+            "id": "252333478",
+            "org": "Faculty of Industrial Engineering & Management, Technion, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Constrained optimization",
+        "Time complexity",
+        "Mathematical optimization",
+        "Discrete mathematics",
+        "Composition (visual arts)",
+        "Heuristics",
+        "Mathematics",
+        "Abstraction"
+    ],
+    "references": [
+        "31405208",
+        "78006823",
+        "1534467528",
+        "1646038686",
+        "1773969059",
+        "2061146398",
+        "2107386416",
+        "2131910799",
+        "2136791927",
+        "2155675331",
+        "2155752154",
+        "2337098149"
+    ]
+}

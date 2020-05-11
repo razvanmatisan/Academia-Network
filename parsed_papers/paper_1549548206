@@ -1,0 +1,36 @@
+{
+    "id": "1549548206",
+    "title": "Turning Cluster Management into Data Management: A System Overview",
+    "venue": "conference on innovative data systems research",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Eric Robinson",
+            "id": "2193468187",
+            "org": "University of Wisconsin-Madison"
+        },
+        {
+            "name": "David J. DeWitt",
+            "id": "1979791317",
+            "org": "University of Wisconsin-Madison"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Data mining",
+        "Structure of Management Information",
+        "Computer science",
+        "Architecture",
+        "Scheduling (computing)",
+        "Management system",
+        "Software",
+        "Distributed computing",
+        "Data management",
+        "Systems management"
+    ],
+    "references": [
+        "1809943808",
+        "2105637701",
+        "2140332639"
+    ]
+}

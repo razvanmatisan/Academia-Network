@@ -1,0 +1,38 @@
+{
+    "id": "134133433",
+    "title": "SAMOA: a platform for mining big data streams",
+    "venue": "international world wide web conferences",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Gianmarco De Francisci Morales",
+            "id": "2153118160",
+            "org": "Yahoo! Research, Barcelona, Spain"
+        }
+    ],
+    "fields_of_study": [
+        "Social media",
+        "Cluster analysis",
+        "World Wide Web",
+        "User-generated content",
+        "Data mining",
+        "Computer science",
+        "Data stream mining",
+        "STREAMS",
+        "Architecture",
+        "Cloud computing",
+        "Big data"
+    ],
+    "references": [
+        "2013344760",
+        "2077677671",
+        "2115503987",
+        "2119745055",
+        "2122465391",
+        "2133990480",
+        "2135335717",
+        "2149565746",
+        "2173213060",
+        "2625737557"
+    ]
+}

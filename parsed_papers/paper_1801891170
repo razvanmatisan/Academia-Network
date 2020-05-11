@@ -1,0 +1,41 @@
+{
+    "id": "1801891170",
+    "title": "Incorporating data movement into grid task scheduling",
+    "venue": "grid and cooperative computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Xiaoshan He",
+            "id": "2805534424",
+            "org": "Department of Computer Science, Illinois Institute of Technology, Chicago, Illinois#TAB#"
+        },
+        {
+            "name": "Xian-He Sun",
+            "id": "2099825440",
+            "org": "Department of Computer Science, Illinois Institute of Technology, Chicago, Illinois#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Lottery scheduling",
+        "Two-level scheduling",
+        "Fair-share scheduling",
+        "Round-robin scheduling",
+        "Dynamic priority scheduling",
+        "Genetic algorithm scheduling",
+        "Distributed computing",
+        "Real-time computing",
+        "Fixed-priority pre-emptive scheduling",
+        "Computer science",
+        "Rate-monotonic scheduling"
+    ],
+    "references": [
+        "1735356492",
+        "1809943808",
+        "1996689181",
+        "2094186309",
+        "2114603764",
+        "2118436132",
+        "2135938932",
+        "2146438496"
+    ]
+}

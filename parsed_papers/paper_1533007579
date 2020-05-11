@@ -1,0 +1,30 @@
+{
+    "id": "1533007579",
+    "title": "The Application of Metadata Standards to Video Indexing",
+    "venue": "european conference on research and advanced technology for digital libraries",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Jane Hunter",
+            "id": "2144420726",
+            "org": "CITEC"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Metadata standard",
+        "World Wide Web",
+        "RDF",
+        "Computer science",
+        "Digital library",
+        "Search engine indexing",
+        "Metadata",
+        "Database",
+        "Dublin Core",
+        "Indexation",
+        "User requirements document"
+    ],
+    "references": [
+        "1965014786"
+    ]
+}

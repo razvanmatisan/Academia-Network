@@ -1,0 +1,30 @@
+{
+    "id": "1527132796",
+    "title": "Timed Petri net schedules",
+    "venue": "applications and theory of petri nets",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Jacques Carlier",
+            "id": "1986118520",
+            "org": "Universite Technologique de Compiegne"
+        },
+        {
+            "name": "Philippe Chretienne",
+            "id": "2339562630",
+            "org": "Universite Pierre et Marie Curie"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Computer science",
+        "Stochastic Petri net",
+        "Graph",
+        "Periodic graph (geometry)",
+        "Petri net",
+        "Schedule",
+        "Bounded function",
+        "Polynomial"
+    ],
+    "references": []
+}

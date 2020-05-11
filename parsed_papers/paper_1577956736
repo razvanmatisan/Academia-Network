@@ -1,0 +1,43 @@
+{
+    "id": "1577956736",
+    "title": "Recording HOL Proofs in a Structured Browsable Format",
+    "venue": "algebraic methodology and software technology",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Jim Grundy",
+            "id": "2791483479",
+            "org": "The Australian National University"
+        },
+        {
+            "name": "Thomas Langbacka",
+            "id": "1169203335",
+            "org": "University of Helsinki"
+        },
+        {
+            "name": "Thomas Langbacka",
+            "id": "1169203335",
+            "org": "University of Helsinki"
+        }
+    ],
+    "fields_of_study": [
+        "Programming language",
+        "Mathematical object",
+        "Theoretical computer science",
+        "Mathematical proof",
+        "Formal language",
+        "HOL",
+        "Readability",
+        "Computer science",
+        "User interface",
+        "Symbolic computation"
+    ],
+    "references": [
+        "1543115413",
+        "1567558468",
+        "1971240548",
+        "2076964487",
+        "2107482955",
+        "2171158936"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1559834484",
+    "title": "The Performance of Two Deformable Shape Models in the Context of the Face Recognition",
+    "venue": "international conference on computer vision",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Adam Schmidt",
+            "id": "2117003217",
+            "org": "Institute of Control and Information Engineering, Poznan University of Technology, Poznan, Poland 60-965#TAB#"
+        },
+        {
+            "name": "Andrzej J. Kasinski",
+            "id": "416998698",
+            "org": "Institute of Control and Information Engineering, Poznan University of Technology, Poznan, Poland 60-965#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Tangent",
+        "Bayes classifier",
+        "Mahalanobis distance",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Computer science",
+        "Bayes' theorem",
+        "Random subspace method",
+        "Machine learning",
+        "Bayesian probability",
+        "Facial recognition system"
+    ],
+    "references": [
+        "1535137548",
+        "1537133930",
+        "1562596824",
+        "2034172912",
+        "2038952578",
+        "2104095591",
+        "2121804371",
+        "2148491550"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "1490681211",
+    "title": "On the consistency of general constraint-satisfaction problems",
+    "venue": "national conference on artificial intelligence",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Philippe Jegou",
+            "id": "1214912442",
+            "org": "L.l.U.P., Universite de Provence, Marseille cedex 3, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Binary number",
+        "Satisfiability",
+        "Constraint graph",
+        "Local consistency",
+        "Constraint satisfaction problem",
+        "Computer science"
+    ],
+    "references": [
+        "1987757745",
+        "2002478775",
+        "2061734130",
+        "2068852367",
+        "2072755230",
+        "2106304333",
+        "2148417962",
+        "2151720296"
+    ]
+}

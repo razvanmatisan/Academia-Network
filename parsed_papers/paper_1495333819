@@ -1,0 +1,46 @@
+{
+    "id": "1495333819",
+    "title": "Sampling methods for shortest vectors, closest vectors and successive minima",
+    "venue": "international colloquium on automata languages and programming",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Johannes Blomer",
+            "id": "138736257",
+            "org": "Department of Computer Science, University of Paderborn#TAB#"
+        },
+        {
+            "name": "Stefanie Naewe",
+            "id": "145971604",
+            "org": "Department of Computer Science, University of Paderborn#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Norm (mathematics)",
+        "Maxima and minima",
+        "Time complexity",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Lattice problem",
+        "Probabilistic logic",
+        "Mathematical optimization",
+        "Exponential function",
+        "Geometry of numbers",
+        "Subspace topology",
+        "Mathematics"
+    ],
+    "references": [
+        "1538714775",
+        "1585418271",
+        "1982051149",
+        "1989510734",
+        "2012589104",
+        "2026129593",
+        "2050689197",
+        "2063342497",
+        "2097678797",
+        "2116916711",
+        "2144593761",
+        "2157396841"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "1590476178",
+    "title": "On pruning and averaging decision trees",
+    "venue": "international conference on machine learning",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Jonathan J. Oliver",
+            "id": "2124723406",
+            "org": "Computer Science Dept., Monash University, Clayton, Vic. 3168, Australia"
+        },
+        {
+            "name": "David J. Hand",
+            "id": "2175518357",
+            "org": "Statistics Dept., Open University, Milton Keynes, MK7 6AA, U.K."
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Pruning",
+        "Null-move heuristic",
+        "Method of averaging",
+        "Pattern recognition",
+        "Principal variation search",
+        "Decision tree",
+        "Artificial intelligence",
+        "Killer heuristic",
+        "Computer science",
+        "Incremental decision tree",
+        "Pruning (decision trees)"
+    ],
+    "references": [
+        "1482451543",
+        "1573640198",
+        "1588684274",
+        "1864487875",
+        "1969223365",
+        "1983661866",
+        "1999011285",
+        "2087094574",
+        "2099345940",
+        "2139734472",
+        "2149706766"
+    ]
+}

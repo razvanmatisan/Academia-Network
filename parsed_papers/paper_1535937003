@@ -1,0 +1,34 @@
+{
+    "id": "1535937003",
+    "title": "Unconditionally Secure Key Agreement Protocol",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Cyril Prissette",
+            "id": "2672474607",
+            "org": "Universite de Toulon et du Var"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Universal composability",
+        "Alice and Bob",
+        "Quantum cryptography",
+        "Key-agreement protocol",
+        "Quantum channel",
+        "Public-key cryptography",
+        "Cryptography",
+        "Theoretical computer science",
+        "Cryptographic protocol",
+        "Mathematics"
+    ],
+    "references": [
+        "1513692111",
+        "1517444618",
+        "1538419459",
+        "1585125654",
+        "2001466659",
+        "2156186849"
+    ]
+}

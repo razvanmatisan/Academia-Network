@@ -1,0 +1,30 @@
+{
+    "id": "1551624585",
+    "title": "An Algorithm of Subexponential Type Computing the Class Group of Quadratic Orders over Principal Ideal Domains",
+    "venue": "algorithmic number theory symposium",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Sachar Paulus",
+            "id": "2115214370",
+            "org": "University of Essen"
+        }
+    ],
+    "fields_of_study": [
+        "Ideal class group",
+        "Isotropic quadratic form",
+        "Combinatorics",
+        "Principal ideal",
+        "Binary quadratic form",
+        "Definite quadratic form",
+        "Discrete mathematics",
+        "Euclidean domain",
+        "Principal ideal domain",
+        "Algorithm",
+        "Mathematics",
+        "Principal ideal theorem"
+    ],
+    "references": [
+        "1560603711"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1520890006",
+    "title": "Mining Generalized Association Rules",
+    "venue": "very large data bases",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Ramakrishnan Srikant",
+            "id": "2069583943",
+            "org": "IBM"
+        },
+        {
+            "name": "Rakesh Agrawal",
+            "id": "2138427228",
+            "org": "IBM"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Hierarchy",
+        "Database",
+        "Database transaction",
+        "Notice",
+        "Computer science",
+        "Permission",
+        "Copying",
+        "Very large database",
+        "Association rule learning",
+        "Endowment"
+    ],
+    "references": [
+        "20184837",
+        "1506285740",
+        "1556507321",
+        "1948199107",
+        "2030969394",
+        "2057399436",
+        "2166559705"
+    ]
+}

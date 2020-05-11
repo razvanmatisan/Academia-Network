@@ -1,0 +1,44 @@
+{
+    "id": "1503173866",
+    "title": "A merging clustering algorithm for mobile ad hoc networks",
+    "venue": "international conference on computational science and its applications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Orhan Dagdeviren",
+            "id": "2093853552",
+            "org": "Computer Eng. Dept., Izmir Institute of Technology, Urla, Izmir, Turkey#TAB#"
+        },
+        {
+            "name": "Kayhan Erciyes",
+            "id": "2797167789",
+            "org": "Computer Eng. Dept., Izmir Institute of Technology, Urla, Izmir, Turkey#TAB#"
+        },
+        {
+            "name": "Deniz Cokuslu",
+            "id": "370067294",
+            "org": "Computer Eng. Dept., Izmir Institute of Technology, Urla, Izmir, Turkey#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Wireless ad hoc network",
+        "Computer network",
+        "Optimized Link State Routing Protocol",
+        "Cluster analysis",
+        "Computer science",
+        "Distributed algorithm",
+        "Vehicular ad hoc network",
+        "Ad hoc wireless distribution service",
+        "Distributed computing",
+        "Mobile ad hoc network",
+        "Data stream clustering"
+    ],
+    "references": [
+        "1985647316",
+        "2077371116",
+        "2118488983",
+        "2135993528",
+        "2149076393",
+        "2165073853"
+    ]
+}

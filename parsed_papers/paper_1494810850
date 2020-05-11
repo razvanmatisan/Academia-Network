@@ -1,0 +1,45 @@
+{
+    "id": "1494810850",
+    "title": "A polynomial time algorithm for finding linear interval graph patterns",
+    "venue": "theory and applications of models of computation",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Hitoshi Yamasaki",
+            "id": "2616877321",
+            "org": "Department of Informatics, Kyushu University, Fukuoka, Japan#TAB#"
+        },
+        {
+            "name": "Takayoshi Shoudai",
+            "id": "2805881358",
+            "org": "Department of Informatics, Kyushu University, Fukuoka, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Discrete mathematics",
+        "Geometric graph theory",
+        "Graph power",
+        "Indifference graph",
+        "String graph",
+        "Factor-critical graph",
+        "Algorithm",
+        "Voltage graph",
+        "Interval graph",
+        "Butterfly graph",
+        "Mathematics"
+    ],
+    "references": [
+        "1505882215",
+        "1525190878",
+        "1567436260",
+        "1965415591",
+        "2011796884",
+        "2022907815",
+        "2024491681",
+        "2089081330",
+        "2128994830",
+        "2130999259",
+        "2157529519"
+    ]
+}

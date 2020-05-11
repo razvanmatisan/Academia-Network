@@ -1,0 +1,39 @@
+{
+    "id": "1531258623",
+    "title": "Graphic Recognition: The Concept Lattice Approach",
+    "venue": "graphics recognition",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Karell Bertet",
+            "id": "1995420573",
+            "org": "University of La Rochelle"
+        },
+        {
+            "name": "Jean-Marc Ogier",
+            "id": "2785925780",
+            "org": "University of La Rochelle"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Knowledge base",
+        "Lattice (order)",
+        "Computer vision",
+        "Artificial intelligence",
+        "Lattice Miner",
+        "Image processing",
+        "Adaptive system",
+        "Hasse diagram",
+        "Formal concept analysis",
+        "Finite set"
+    ],
+    "references": [
+        "1503729935",
+        "1564106823",
+        "1573175029",
+        "1608701134",
+        "2017787659",
+        "2123736436"
+    ]
+}

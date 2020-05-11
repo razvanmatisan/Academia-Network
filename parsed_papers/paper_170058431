@@ -1,0 +1,38 @@
+{
+    "id": "170058431",
+    "title": "On wavelet tree construction",
+    "venue": "combinatorial pattern matching",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "German Tischler",
+            "id": "1991567835",
+            "org": "Institut fur Informatik, Universitat Wurzburg, Wurzburg, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Wavelet packet decomposition",
+        "Wavelet",
+        "Pattern matching",
+        "Computer science",
+        "Lifting scheme",
+        "Data compression",
+        "Wavelet Tree",
+        "Second-generation wavelet transform",
+        "Cascade algorithm",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1495524224",
+        "1537923221",
+        "1860074289",
+        "1864523757",
+        "1983102976",
+        "2054526807",
+        "2067974452",
+        "2130080588",
+        "2134696992"
+    ]
+}

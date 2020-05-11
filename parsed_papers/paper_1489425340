@@ -1,0 +1,30 @@
+{
+    "id": "1489425340",
+    "title": "Stack-based genetic programming",
+    "venue": "world congress on computational intelligence",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Timothy Perkis",
+            "id": "2553353146",
+            "org": "Antelope Eng., Albany, CA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Machine learning",
+        "Artificial intelligence",
+        "Genetic representation",
+        "Genetic algorithm",
+        "Genetic programming",
+        "Genetic program",
+        "Virtual machine",
+        "Theoretical computer science",
+        "Computer program"
+    ],
+    "references": [
+        "1556101418",
+        "1564160963",
+        "1639032689"
+    ]
+}

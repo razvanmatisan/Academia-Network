@@ -1,0 +1,43 @@
+{
+    "id": "1487361764",
+    "title": "Relational.OWL: a data and schema representation format based on OWL",
+    "venue": "asia pacific conference on conceptual modelling",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Cristian Perez de Laborda",
+            "id": "2181020072",
+            "org": "Heinrich-Heine-Universitat Dusseldorf, Dusseldorf, Germany#TAB#"
+        },
+        {
+            "name": "Stefan Conrad",
+            "id": "2286840173",
+            "org": "Heinrich-Heine-Universitat Dusseldorf, Dusseldorf, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "IDEF1X",
+        "Information schema",
+        "Semantic Web Rule Language",
+        "Information retrieval",
+        "Data exchange",
+        "OWL-S",
+        "Data Web",
+        "World Wide Web",
+        "Web Ontology Language",
+        "Database schema",
+        "Computer science"
+    ],
+    "references": [
+        "70585993",
+        "70945081",
+        "1880599981",
+        "1965014786",
+        "1971094449",
+        "1979734411",
+        "2114063134",
+        "2140004302",
+        "2148572968",
+        "2152293830"
+    ]
+}

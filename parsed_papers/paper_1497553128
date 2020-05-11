@@ -1,0 +1,38 @@
+{
+    "id": "1497553128",
+    "title": "GOD-CS: A New Grid-Oriented Dissection Clustering Scheme for Large Databases",
+    "venue": "advanced data mining and applications",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Cheng-Fa Tsai",
+            "id": "2420182180",
+            "org": "Department of Management Information Systems, Pingtung University of Science and Technology, Pingtung, Taiwan 91201#TAB#"
+        },
+        {
+            "name": "Chien-Sheng Chiu",
+            "id": "2408124746",
+            "org": "Department of Management Information Systems, Pingtung University of Science and Technology, Pingtung, Taiwan 91201#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "CURE data clustering algorithm",
+        "Data mining",
+        "DBSCAN",
+        "Artificial intelligence",
+        "SUBCLU",
+        "Machine learning",
+        "Cluster analysis",
+        "Database",
+        "FLAME clustering",
+        "OPTICS algorithm",
+        "Computer science",
+        "Canopy clustering algorithm",
+        "Brown clustering"
+    ],
+    "references": [
+        "1502124752",
+        "1588184174",
+        "1673310716"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "1599230228",
+    "title": "Goal programming approach to compose the web service quality of service",
+    "venue": "international conference on computational science and its applications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Daerae Cho",
+            "id": "2497498943",
+            "org": "Dept. Industrial Engineering, Seoul National University#TAB#"
+        },
+        {
+            "name": "Changmin Kim",
+            "id": "2491398395",
+            "org": "Div. Computer Science, Sungkyul University#TAB#"
+        },
+        {
+            "name": "Moonwon Choo",
+            "id": "2207945656",
+            "org": "Div. Multimedia, Sungkyul University#TAB#"
+        },
+        {
+            "name": "Suk-Ho Kang",
+            "id": "2103134474",
+            "org": "Dept. Industrial Engineering, Seoul National University#TAB#"
+        },
+        {
+            "name": "Wookey Lee",
+            "id": "2171804794",
+            "org": "Div. Computer Science, Sungkyul University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile QoS",
+        "Web service",
+        "Service delivery framework",
+        "Web development",
+        "Differentiated service",
+        "Service design",
+        "World Wide Web",
+        "Web modeling",
+        "Computer science",
+        "WS-Policy"
+    ],
+    "references": [
+        "144503253",
+        "1807872490",
+        "1996497597",
+        "1998838989",
+        "2000788759",
+        "2092980398",
+        "2095299458",
+        "2139211192",
+        "2141880113",
+        "2157699834"
+    ]
+}

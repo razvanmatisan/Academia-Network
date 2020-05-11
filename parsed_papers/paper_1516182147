@@ -1,0 +1,31 @@
+{
+    "id": "1516182147",
+    "title": "Graph Connectivity, Monadic NP and Built-in Relations of Moderate Degree",
+    "venue": "international colloquium on automata languages and programming",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Thomas Schwentick",
+            "id": "7276906",
+            "org": "UniversitAt Mainz"
+        }
+    ],
+    "fields_of_study": [
+        "Quartic graph",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Loop (graph theory)",
+        "Voltage graph",
+        "Clique-width",
+        "Butterfly graph",
+        "Coxeter graph",
+        "Simplex graph",
+        "Mathematics",
+        "Windmill graph"
+    ],
+    "references": [
+        "1942096134",
+        "2003895694",
+        "2140509943"
+    ]
+}

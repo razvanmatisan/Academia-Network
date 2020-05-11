@@ -1,0 +1,44 @@
+{
+    "id": "130792355",
+    "title": "Non-monotonic temporal logics for goal specification",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Chitta Baral",
+            "id": "2010516145",
+            "org": "Department of Computer Science and Engineering, Arizona State University, Tempe, Arizona#TAB#"
+        },
+        {
+            "name": "Jicheng Zhao",
+            "id": "2170438564",
+            "org": "Department of Computer Science and Engineering, Arizona State University, Tempe, Arizona#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Monotonic function",
+        "Artificial intelligence",
+        "Discrete mathematics",
+        "Interval temporal logic",
+        "AND gate",
+        "Computation tree logic",
+        "Machine learning",
+        "Simple extension",
+        "Temporal logic of actions",
+        "Linear temporal logic",
+        "Mathematics",
+        "Temporal logic"
+    ],
+    "references": [
+        "49927754",
+        "197771703",
+        "1546948343",
+        "1552135236",
+        "1563367886",
+        "1782388649",
+        "2094633765",
+        "2151680914",
+        "2154595228",
+        "2169602487"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "170555737",
+    "title": "Towards a predictive fault tolerance approach in multi-agent systems",
+    "venue": "agent and multi agent systems technologies and applications",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Samira Telghamti",
+            "id": "2280346977",
+            "org": "Lire Laboratory, Mentouri University, Constantine, Algeria#TAB#"
+        },
+        {
+            "name": "Ramdane Maamri",
+            "id": "316577743",
+            "org": "Lire Laboratory, Mentouri University, Constantine, Algeria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Fault coverage",
+        "Fault model",
+        "Software fault tolerance",
+        "Fault tolerance",
+        "Multi-agent system",
+        "Real-time computing",
+        "Computer science",
+        "Stuck-at fault"
+    ],
+    "references": [
+        "1493095552",
+        "1569533132",
+        "1589122423",
+        "1590701063",
+        "1599169544",
+        "1856389244",
+        "1965272459",
+        "2071099085",
+        "2089757945"
+    ]
+}

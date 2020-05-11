@@ -1,0 +1,31 @@
+{
+    "id": "1502799924",
+    "title": "Inducing Regular Languages Using Grammar-Based Classifier System",
+    "venue": "international colloquium on grammatical inference",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Olgierd Unold",
+            "id": "154662052",
+            "org": "Institute of Computer Engineering, Control and Robotics, Wroclaw University of Technology, Wroclaw, Poland 50-370#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Learning classifier system",
+        "Computer science",
+        "Machine learning",
+        "Chomsky normal form",
+        "Artificial intelligence",
+        "Classifier (linguistics)",
+        "Classifier (UML)",
+        "Grammar induction",
+        "Margin classifier",
+        "Context-free grammar",
+        "Quadratic classifier"
+    ],
+    "references": [
+        "1526339308",
+        "1603299012"
+    ]
+}

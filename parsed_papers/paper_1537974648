@@ -1,0 +1,38 @@
+{
+    "id": "1537974648",
+    "title": "A Short Review of Statistical Learning Theory",
+    "venue": "italian workshop on neural nets",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Massimiliano Pontil",
+            "id": "2167964723",
+            "org": "Dipartimento di Ingegneria dell'Informazione"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Support vector machine",
+        "Semi-supervised learning",
+        "Hilbert space",
+        "Machine learning",
+        "Regularization perspectives on support vector machines",
+        "Statistical learning theory",
+        "Algorithmic learning theory",
+        "Stability (learning theory)",
+        "Structural risk minimization",
+        "Mathematics"
+    ],
+    "references": [
+        "1571894236",
+        "2017753243",
+        "2054658115",
+        "2110652811",
+        "2119821739",
+        "2125053431",
+        "2129192653",
+        "2148603752",
+        "2156512439",
+        "2571441540"
+    ]
+}

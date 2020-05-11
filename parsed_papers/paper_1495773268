@@ -1,0 +1,37 @@
+{
+    "id": "1495773268",
+    "title": "Shared mental models and coordination in large-scale, distributed software development",
+    "venue": "international conference on information systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Robert E. Kraut",
+            "id": "1975391153",
+            "org": "Association for Information Systems"
+        },
+        {
+            "name": "J. Alberto Espinosa",
+            "id": "2234629224",
+            "org": "Association for Information Systems"
+        }
+    ],
+    "fields_of_study": [
+        "Team software process",
+        "Software Engineering Process Group",
+        "Knowledge management",
+        "Software deployment",
+        "Software development process",
+        "Distributed computing",
+        "Social software engineering",
+        "Software development",
+        "Computer science",
+        "Software walkthrough",
+        "Crowdsourcing software development"
+    ],
+    "references": [
+        "2058638038",
+        "2146948159",
+        "2156274117",
+        "2157557193"
+    ]
+}

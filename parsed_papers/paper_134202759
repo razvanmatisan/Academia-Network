@@ -1,0 +1,38 @@
+{
+    "id": "134202759",
+    "title": "Identifiability in causal Bayesian networks: a sound and complete algorithm",
+    "venue": "national conference on artificial intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Yimin Huang",
+            "id": "2149447077",
+            "org": "Department of Computer Science and Engineering, University of South Carolina#TAB#"
+        },
+        {
+            "name": "Marco Valtorta",
+            "id": "2007205120",
+            "org": "Department of Computer Science and Engineering, University of South Carolina#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Directed acyclic graph",
+        "Latent variable",
+        "Artificial intelligence",
+        "Identifiability",
+        "Computer science",
+        "Graph",
+        "Observable",
+        "Algorithm",
+        "Bayesian network"
+    ],
+    "references": [
+        "1486066286",
+        "1592297672",
+        "1800852440",
+        "1992816730",
+        "2144351155",
+        "2157529132"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1506302657",
+    "title": "Branch & Bound Algorithm with Partial Prediction for Use with Recursive and Non-recursive Criterion Forms",
+    "venue": "international conference on advances in pattern recognition",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Petr Somol",
+            "id": "134523118",
+            "org": "Inst. of Information Theory and Automation, Academy of Sciences of the Czech Republic"
+        },
+        {
+            "name": "Pavel Pudil",
+            "id": "313529756",
+            "org": "Inst. of Information Theory and Automation, Academy of Sciences of the Czech Republic"
+        },
+        {
+            "name": "Jiri Grim",
+            "id": "2110342436",
+            "org": "Inst. of Information Theory and Automation, Academy of Sciences of the Czech Republic"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Ramer-Douglas-Peucker algorithm",
+        "Branch and bound",
+        "Search tree",
+        "Recursion",
+        "Branch and cut",
+        "Mathematical optimization",
+        "FBB",
+        "Cornacchia's algorithm",
+        "Feature selection",
+        "Algorithm",
+        "Mathematics"
+    ],
+    "references": [
+        "1523989055",
+        "2001169470"
+    ]
+}

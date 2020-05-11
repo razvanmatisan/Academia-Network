@@ -1,0 +1,39 @@
+{
+    "id": "1540395187",
+    "title": "A quick incremental updating algorithm for computing core attributes",
+    "venue": "rough sets and knowledge technology",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Hao Ge",
+            "id": "2689580870",
+            "org": "Department of Electronic and Information Engineering, Chuzhou University, Chuzhou, P.R. China#TAB#"
+        },
+        {
+            "name": "Chuanjian Yang",
+            "id": "2650182140",
+            "org": "Department of Computer Science, Chuzhou University, Chuzhou, P.R. China#TAB#"
+        },
+        {
+            "name": "Wanlian Yuan",
+            "id": "2343840620",
+            "org": "Department of Mathematics, Chuzhou University, Chuzhou, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Matrix (mathematics)",
+        "Decision table",
+        "Artificial intelligence",
+        "Dominance-based rough set approach",
+        "Algorithm",
+        "Data mining",
+        "Rough set",
+        "Computer science"
+    ],
+    "references": [
+        "1798724659",
+        "1964980811",
+        "2103450154"
+    ]
+}

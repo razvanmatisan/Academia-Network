@@ -1,0 +1,30 @@
+{
+    "id": "1567597650",
+    "title": "The Substratum of Impulse and Hybrid Control Systems",
+    "venue": "international workshop on hybrid systems computation and control",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Jean-Pierre Aubin",
+            "id": "2577966764",
+            "org": "Universite Paris-Dauphine"
+        }
+    ],
+    "fields_of_study": [
+        "Initialization",
+        "Initial value problem",
+        "Cadence",
+        "Differential inclusion",
+        "Hybrid system",
+        "Partial derivative",
+        "Mathematical optimization",
+        "Optimal control",
+        "Impulse (physics)",
+        "Control theory",
+        "Mathematics"
+    ],
+    "references": [
+        "2112948245",
+        "2178279782"
+    ]
+}

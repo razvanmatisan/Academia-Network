@@ -1,0 +1,32 @@
+{
+    "id": "1502188990",
+    "title": "Formal operations for SDL language profiles",
+    "venue": "system analysis and modeling",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Rudiger Grammes",
+            "id": "1064848510",
+            "org": "Computer Science Department, University of Kaiserslautern, Kaiserslautern, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Universal Networking Language",
+        "Natural language processing",
+        "High-level programming language",
+        "Specification language",
+        "Formal semantics (linguistics)",
+        "Syntax (logic)",
+        "Object language",
+        "Programming language",
+        "Language primitive",
+        "Formal grammar",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1498294936",
+        "1969402593",
+        "2124981297"
+    ]
+}

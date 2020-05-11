@@ -1,0 +1,31 @@
+{
+    "id": "1553516176",
+    "title": "A Compositional Proof Theory for Real-Time Distributed Message Passing",
+    "venue": "international conference on parallel architectures and languages europe",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Jjm Jozef Hooman",
+            "id": "2194305585",
+            "org": "Eindhoven University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Proof theory",
+        "Observer (quantum physics)",
+        "Axiom",
+        "Concurrency",
+        "Message passing",
+        "Denotational semantics",
+        "Programming language",
+        "Theoretical computer science",
+        "Computer science"
+    ],
+    "references": [
+        "1573218854",
+        "1976029121",
+        "2017451766",
+        "2073981447",
+        "2110425399"
+    ]
+}

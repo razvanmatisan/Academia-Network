@@ -1,0 +1,36 @@
+{
+    "id": "1585290720",
+    "title": "Bus Protocols: MSC-Based Specifications and Translation into Program of Verification Tool for Formal Verification",
+    "venue": "arXiv: Software Engineering",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Kamrul Hasan Talukder",
+            "id": "2154210539",
+            "org": "Computer Science and Engineering|Discipline Khulna University"
+        }
+    ],
+    "fields_of_study": [
+        "Systems design",
+        "Parsing",
+        "Control flow",
+        "Computer science",
+        "Verification",
+        "Real-time computing",
+        "Formal verification",
+        "Executable",
+        "Message sequence chart",
+        "System requirements"
+    ],
+    "references": [
+        "1592055490",
+        "2024194828",
+        "2024445190",
+        "2108571087",
+        "2121821924",
+        "2127964314",
+        "2151369927",
+        "2159765281",
+        "2897840903"
+    ]
+}

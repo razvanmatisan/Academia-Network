@@ -1,0 +1,42 @@
+{
+    "id": "1594625507",
+    "title": "Use of Mobile Agents for IPR Management and Negotiation",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Isabel Gallego",
+            "id": "2790675319",
+            "org": "Universitat Pompeu Fabra (UPF)"
+        },
+        {
+            "name": "Isabel Gallego",
+            "id": "2790675319",
+            "org": "Universitat Pompeu Fabra (UPF)"
+        },
+        {
+            "name": "Jaime Delgado",
+            "id": "2805038838",
+            "org": "Universitat Pompeu Fabra (UPF)"
+        },
+        {
+            "name": "Roberto Garcia",
+            "id": "2136057474",
+            "org": "Universitat Pompeu Fabra (UPF)"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile agent",
+        "Metadata",
+        "Electronic publishing",
+        "Intellectual property",
+        "Negotiation",
+        "Computer security",
+        "Architecture",
+        "Payment",
+        "Computer science"
+    ],
+    "references": [
+        "1720335039"
+    ]
+}

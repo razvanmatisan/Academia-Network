@@ -1,0 +1,30 @@
+{
+    "id": "157772201",
+    "title": "Optimizing Reasoning in Description Logics with Qualified Number Restrictions.",
+    "venue": "Description Logics",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Volker Haarslev",
+            "id": "7088146",
+            "org": "University of Hamburg|Computer Science Department"
+        },
+        {
+            "name": "Ralf Moller",
+            "id": "2306982268",
+            "org": "University of Hamburg|Computer Science Department"
+        }
+    ],
+    "fields_of_study": [
+        "T-norm fuzzy logics",
+        "Description logic",
+        "Abox",
+        "Non-monotonic logic",
+        "Algorithm",
+        "Mathematics"
+    ],
+    "references": [
+        "162120283",
+        "1637478387"
+    ]
+}

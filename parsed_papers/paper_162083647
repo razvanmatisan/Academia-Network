@@ -1,0 +1,35 @@
+{
+    "id": "162083647",
+    "title": "Modelling for Smart Agents for U-Learning Systems",
+    "venue": "SERA (selected papers)",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Haeng-Kon Kim",
+            "id": "2155584818",
+            "org": "Catholic University of Daegu"
+        }
+    ],
+    "fields_of_study": [
+        "Software deployment",
+        "Application domain",
+        "Systems engineering",
+        "Component-based software engineering",
+        "Intelligent agent",
+        "Software system",
+        "Software",
+        "Software development",
+        "Mobile computing",
+        "Computer science"
+    ],
+    "references": [
+        "1482011978",
+        "1522224264",
+        "1558161975",
+        "2042719523",
+        "2068053758",
+        "2086944877",
+        "2117222035",
+        "2144730987"
+    ]
+}

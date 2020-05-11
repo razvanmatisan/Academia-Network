@@ -1,0 +1,50 @@
+{
+    "id": "1495005665",
+    "title": "A Data Miner's Approach to Country Corruption Analysis",
+    "venue": "intelligence and security informatics",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Johan Huysmans",
+            "id": "2162581131",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Bart Baesens",
+            "id": "2061851337",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Bart Baesens",
+            "id": "2061851337",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Jan Vanthienen",
+            "id": "153925120",
+            "org": "Katholieke Universiteit Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "Corruption",
+        "Self-organizing map",
+        "Political corruption",
+        "Support vector machine",
+        "Empirical research",
+        "Data mining",
+        "Terrorism",
+        "Government",
+        "Large deviations theory",
+        "Computer science"
+    ],
+    "references": [
+        "1524674157",
+        "1964357740",
+        "2055247046",
+        "2088709281",
+        "2105238995",
+        "2110802877",
+        "2139212933",
+        "2153635508"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "1485863316",
+    "title": "Two-Level Grammars",
+    "venue": "compiler construction",
+    "year": 1976,
+    "authors": [
+        {
+            "name": "Cornelis H. A. Koster",
+            "id": "2638897001",
+            "org": "Technical University of Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Programming language",
+        "Semantics",
+        "Phrase structure grammar",
+        "Affix grammar",
+        "Computer science",
+        "Indexed grammar",
+        "Syntax",
+        "L-attributed grammar",
+        "Extended Affix Grammar",
+        "Context-free grammar"
+    ],
+    "references": [
+        "1964071625",
+        "2104416102",
+        "2614419511"
+    ]
+}

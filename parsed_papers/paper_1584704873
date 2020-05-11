@@ -1,0 +1,38 @@
+{
+    "id": "1584704873",
+    "title": "An Improved Learning Algorithm for Augmented Naive Bayes",
+    "venue": "pacific asia conference on knowledge discovery and data mining",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Huajie Zhang",
+            "id": "2130198275",
+            "org": "The University of Western Ontario"
+        },
+        {
+            "name": "Charles X. Ling",
+            "id": "1980182462",
+            "org": "The University of Western Ontario"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Data mining",
+        "Greedy algorithm",
+        "Computer science",
+        "Bayesian network",
+        "Bayesian programming",
+        "Naive Bayes classifier",
+        "Bayes classifier",
+        "Conditional mutual information",
+        "Algorithm",
+        "Bayes error rate",
+        "Pattern recognition",
+        "Dependency relation"
+    ],
+    "references": [
+        "1817561967",
+        "2132166479"
+    ]
+}

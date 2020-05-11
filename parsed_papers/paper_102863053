@@ -1,0 +1,41 @@
+{
+    "id": "102863053",
+    "title": "Learning to coordinate controllers-reinforcement learning on a control basis",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Manfred Huber",
+            "id": "2140678636",
+            "org": "Department of Computer Science, University of Massachusetts, Amherst, MA#TAB#"
+        },
+        {
+            "name": "Roderic A. Grupen",
+            "id": "1377371771",
+            "org": "Department of Computer Science, University of Massachusetts, Amherst, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Reinforcement learning",
+        "Social robot",
+        "Discrete event dynamic system",
+        "System model",
+        "Robot learning",
+        "Autonomous robot",
+        "Computer science",
+        "Architecture",
+        "Legged robot"
+    ],
+    "references": [
+        "2009533501",
+        "2039651830",
+        "2097771979",
+        "2097856935",
+        "2131736589",
+        "2149276032",
+        "2149398074",
+        "2164596469"
+    ]
+}

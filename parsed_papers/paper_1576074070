@@ -1,0 +1,47 @@
+{
+    "id": "1576074070",
+    "title": "Trends Analysis of Topics Based on Temporal Segmentation",
+    "venue": "data warehousing and knowledge discovery",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Wei Chen",
+            "id": "2444178583",
+            "org": "University of Nebraska at Omaha, NE, Omaha, US 68182#TAB#"
+        },
+        {
+            "name": "Parvathi Chundi",
+            "id": "2230771436",
+            "org": "University of Nebraska at Omaha, NE, Omaha, US 68182#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Image segmentation",
+        "Data mining",
+        "Computer science",
+        "Fuzzy set",
+        "Time-series segmentation",
+        "Segmentation",
+        "Segmentation-based object categorization",
+        "Scale-space segmentation",
+        "Numeric Value",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1521478692",
+        "1601440517",
+        "1660390307",
+        "1853995153",
+        "2006783944",
+        "2008476218",
+        "2040466507",
+        "2064579132",
+        "2104809968",
+        "2127738598",
+        "2132677764",
+        "2145059734",
+        "2147555723",
+        "2166008115"
+    ]
+}

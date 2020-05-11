@@ -1,0 +1,60 @@
+{
+    "id": "1506177826",
+    "title": "Extracting Sub-ontology from Multiple Ontologies",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Dazhou Kang",
+            "id": "2162585782",
+            "org": "Southeast University"
+        },
+        {
+            "name": "Baowen Xu",
+            "id": "2699978733",
+            "org": "Southeast University"
+        },
+        {
+            "name": "Jianjiang Lu",
+            "id": "2098576747",
+            "org": "Southeast University"
+        },
+        {
+            "name": "Jianjiang Lu",
+            "id": "2098576747",
+            "org": "Southeast University"
+        },
+        {
+            "name": "Peng Wang",
+            "id": "2616996351",
+            "org": "Southeast University"
+        },
+        {
+            "name": "Yanhui Li",
+            "id": "2159130340",
+            "org": "Southeast University"
+        }
+    ],
+    "fields_of_study": [
+        "Process ontology",
+        "Ontology-based data integration",
+        "IDEF5",
+        "Ontology alignment",
+        "Upper ontology",
+        "Ontology (information science)",
+        "Data mining",
+        "Web Ontology Language",
+        "Ontology components",
+        "Computer science"
+    ],
+    "references": [
+        "79702431",
+        "144734072",
+        "1604418810",
+        "1867504805",
+        "2107537985",
+        "2110332078",
+        "2594654348",
+        "2626304854"
+    ]
+}

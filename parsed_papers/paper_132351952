@@ -1,0 +1,31 @@
+{
+    "id": "132351952",
+    "title": "Proof Reuse for Program Verification Calculi.",
+    "venue": "conference on automated deduction",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Vladimir Klebanov",
+            "id": "2157893189",
+            "org": "University of Koblenz-Landau|Institute for Computer Science"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Algorithm",
+        "Computer science",
+        "Dynamic logic (modal logic)",
+        "Structural proof theory",
+        "Modal logic",
+        "Bunched logic",
+        "Proof calculus",
+        "Automated theorem proving",
+        "Dynamic logic (digital electronics)",
+        "Multimodal logic"
+    ],
+    "references": [
+        "1499168760",
+        "1573154295",
+        "1748251377"
+    ]
+}

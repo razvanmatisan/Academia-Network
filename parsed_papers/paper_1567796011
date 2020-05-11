@@ -1,0 +1,41 @@
+{
+    "id": "1567796011",
+    "title": "Saturation throughput analysis of different backoff algorithms in IEEE802.11",
+    "venue": "personal, indoor and mobile radio communications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ivan N. Vukovic",
+            "id": "2344711047",
+            "org": "Motorola Inc., Arlington Heights, IL, USA"
+        },
+        {
+            "name": "Natt Smavatkul",
+            "id": "2230259900",
+            "org": "Motorola Inc|Motorola Inc"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Computer network",
+        "Exponential function",
+        "Distributed coordination function",
+        "Exponential backoff",
+        "Throughput",
+        "Upper and lower bounds",
+        "Markov process",
+        "Algorithm",
+        "Markov chain",
+        "Computer science",
+        "Retransmission"
+    ],
+    "references": [
+        "1490241023",
+        "1957626830",
+        "2067262719",
+        "2099057525",
+        "2107360009",
+        "2162598825",
+        "2165448810"
+    ]
+}

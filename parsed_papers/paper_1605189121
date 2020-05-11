@@ -1,0 +1,56 @@
+{
+    "id": "1605189121",
+    "title": "Tracking a Vehicle Moving in a Wireless Sensor Network",
+    "venue": "ad hoc networks",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Fernand S. Cohen",
+            "id": "2152637862",
+            "org": "DREXEL UNIVERSITY"
+        },
+        {
+            "name": "Salah Abushariefeh",
+            "id": "2478893666",
+            "org": "DREXEL UNIVERSITY"
+        },
+        {
+            "name": "Gregory Bruton",
+            "id": "2490788917",
+            "org": "DREXEL UNIVERSITY"
+        },
+        {
+            "name": "Marcus Matthews",
+            "id": "2475452896",
+            "org": "DREXEL UNIVERSITY"
+        },
+        {
+            "name": "Kuriakose Varghese",
+            "id": "2500210538",
+            "org": "DREXEL UNIVERSITY"
+        }
+    ],
+    "fields_of_study": [
+        "Computer network",
+        "Wireless sensor network",
+        "Mobile wireless sensor network",
+        "Electro-optical sensor",
+        "Embedded system",
+        "Sink (computing)",
+        "Computer science",
+        "Key distribution in wireless sensor networks",
+        "Scalability",
+        "Tracking system"
+    ],
+    "references": [
+        "1534567030",
+        "2063480992",
+        "2101267669",
+        "2106335692",
+        "2107106901",
+        "2134783995",
+        "2155864758",
+        "2168452204",
+        "2185913230"
+    ]
+}

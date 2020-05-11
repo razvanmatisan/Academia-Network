@@ -1,0 +1,39 @@
+{
+    "id": "1552421440",
+    "title": "SUIDT: A task model based GUI-Builder",
+    "venue": "task models and diagrams for user interface design",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Mickael Baron",
+            "id": "2118935821",
+            "org": "Ecole nationale superieure de mecanique et d'aerotechnique"
+        },
+        {
+            "name": "Patrick Girard",
+            "id": "2698509881",
+            "org": "Laboratoire d'Informatique"
+        }
+    ],
+    "fields_of_study": [
+        "Human-computer interaction",
+        "Systems engineering",
+        "Shell (computing)",
+        "Natural user interface",
+        "User interface design",
+        "Interface control document",
+        "Multiple document interface",
+        "Graphical user interface testing",
+        "Simulation",
+        "Human action cycle",
+        "User interface",
+        "Computer science"
+    ],
+    "references": [
+        "1494246616",
+        "1537684775",
+        "1628558956",
+        "1661701725",
+        "1825020464"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": "1546668932",
+    "title": "How to Find Invariants for Coloured Petri Nets",
+    "venue": "mathematical foundations of computer science",
+    "year": 1981,
+    "authors": [
+        {
+            "name": "Kurt Jensen",
+            "id": "2112058976",
+            "org": "Aarhus University, Ny Munkegade"
+        }
+    ],
+    "fields_of_study": [
+        "Incidence matrix",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Coloured Petri net",
+        "Invariant (mathematics)",
+        "Petri net",
+        "Computer science"
+    ],
+    "references": [
+        "1997422892",
+        "2109255823"
+    ]
+}

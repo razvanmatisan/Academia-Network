@@ -1,0 +1,41 @@
+{
+    "id": "1497782867",
+    "title": "Warmr: a data mining tool for chemical data",
+    "venue": "Journal of Computer-aided Molecular Design",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Ross D. King",
+            "id": "2171780146",
+            "org": "Department of Computer Science, University of Wales, Wales, UK"
+        },
+        {
+            "name": "Ashwin Srinivasan",
+            "id": "2270196177",
+            "org": "Computing Laboratory, University of Oxford, Oxford, UK"
+        },
+        {
+            "name": "Luc Dehaspe",
+            "id": "131954981",
+            "org": "PharmaDM, Belgium"
+        }
+    ],
+    "fields_of_study": [
+        "Chemical database",
+        "Bioinformatics",
+        "Chemical structure",
+        "Rule-based system",
+        "Artificial neural network",
+        "Probabilistic logic",
+        "Inductive logic programming",
+        "Data mining",
+        "Machine learning",
+        "Test data",
+        "PROGOL",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "2158292827"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1516832273",
+    "title": "Content-Based Similarity Assessment in Multi-segmented Medical Image Data Bases",
+    "venue": "machine learning and data mining in pattern recognition",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "George Potamias",
+            "id": "2056865132",
+            "org": "Foundation for Research and Technology - Hellas (FORTH)"
+        },
+        {
+            "name": "George Potamias",
+            "id": "2056865132",
+            "org": "Foundation for Research and Technology - Hellas (FORTH)"
+        }
+    ],
+    "fields_of_study": [
+        "Content-based image retrieval",
+        "Image segmentation",
+        "Automatic image annotation",
+        "Cluster analysis",
+        "Clinical decision support system",
+        "Decision support system",
+        "Image retrieval",
+        "Computer vision",
+        "Computer science",
+        "Artificial intelligence",
+        "Content analysis"
+    ],
+    "references": [
+        "1524704912",
+        "2016606566",
+        "2081400774",
+        "2097236525",
+        "2118166768",
+        "2130660124",
+        "2144679084",
+        "2147169507",
+        "2155099190",
+        "2163952039",
+        "2167828171"
+    ]
+}

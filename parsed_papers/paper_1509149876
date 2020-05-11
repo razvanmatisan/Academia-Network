@@ -1,0 +1,39 @@
+{
+    "id": "1509149876",
+    "title": "Real time software implementation of scalable video codec",
+    "venue": "international conference on image processing",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Wai-tian Tan",
+            "id": "2303623081",
+            "org": "Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA, USA"
+        },
+        {
+            "name": "E. Chan",
+            "id": "2561853367",
+            "org": "Department of Electrical Engineering and Computer Sciences|University of California , Berkeley"
+        },
+        {
+            "name": "Avideh Zalchor",
+            "id": "2567711309",
+            "org": "Department of Electrical Engineering and Computer Sciences|University of California , Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Codec",
+        "Enhanced Variable Rate Codec",
+        "Sub-band coding",
+        "Intra-frame",
+        "Arithmetic coding",
+        "Context-adaptive binary arithmetic coding",
+        "Data compression",
+        "Computer science",
+        "Adaptive Multi-Rate audio codec",
+        "Real-time computing"
+    ],
+    "references": [
+        "2032895559",
+        "2111653914"
+    ]
+}

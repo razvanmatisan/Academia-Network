@@ -1,0 +1,38 @@
+{
+    "id": "1593825839",
+    "title": "On the Impossibility of Private Key Cryptography with Weakly Random Keys",
+    "venue": "international cryptology conference",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "James L. McInnes",
+            "id": "2578077288",
+            "org": "University of Toronto"
+        },
+        {
+            "name": "Benny Pinkas",
+            "id": "259477981",
+            "org": "Technion -- Israel Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Randomness",
+        "Public-key cryptography",
+        "Complexity class",
+        "Cryptography",
+        "One-time pad",
+        "Randomness extractor",
+        "Cryptosystem",
+        "Randomized algorithm",
+        "Mathematics"
+    ],
+    "references": [
+        "1977568210",
+        "2047647044",
+        "2151303208",
+        "2153543917",
+        "2155408851"
+    ]
+}

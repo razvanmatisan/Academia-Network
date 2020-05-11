@@ -1,0 +1,35 @@
+{
+    "id": "1601065891",
+    "title": "Medical image databases and informatics",
+    "venue": "international conference on image processing",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Brent K. Stewart",
+            "id": "2136928733",
+            "org": "Dept. of Radiol., Washington Univ., Seattle, WA, USA"
+        },
+        {
+            "name": "Steve G. Langer",
+            "id": "2894211594",
+            "org": "University of Washington"
+        }
+    ],
+    "fields_of_study": [
+        "Clinical Practice",
+        "Intelligent user interface",
+        "Decision support system",
+        "Informatics",
+        "Database",
+        "Multimedia database",
+        "Medical imaging",
+        "Computer science",
+        "Intelligent decision support system",
+        "Data mining",
+        "User interface"
+    ],
+    "references": [
+        "2078421902",
+        "2146993849"
+    ]
+}

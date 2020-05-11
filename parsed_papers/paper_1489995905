@@ -1,0 +1,43 @@
+{
+    "id": "1489995905",
+    "title": "XML document retrieval system based on document structure and image content for digital museum",
+    "venue": "asia-pacific web conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jae-Woo Chang",
+            "id": "2892411519",
+            "org": "Dept. of Computer Engineering, Research Center for Advanced LBS Technology, Chonbuk National University, Chonju, Chonbuk, South Korea#TAB#"
+        },
+        {
+            "name": "Yeon-Jung Kim",
+            "id": "2462980117",
+            "org": "Dept. of Computer Engineering, Research Center for Advanced LBS Technology, Chonbuk National University, Chonju, Chonbuk, South Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Streaming XML",
+        "Database",
+        "Well-formed document",
+        "XML framework",
+        "XML validation",
+        "Computer science",
+        "XML Catalog",
+        "XML Schema Editor",
+        "Document Structure Description",
+        "Simple API for XML"
+    ],
+    "references": [
+        "1498488440",
+        "1956559956",
+        "1983604014",
+        "1994694191",
+        "2019270406",
+        "2035902703",
+        "2099068298",
+        "2119150637",
+        "2144679084",
+        "2168125451"
+    ]
+}

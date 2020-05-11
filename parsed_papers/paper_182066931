@@ -1,0 +1,34 @@
+{
+    "id": "182066931",
+    "title": "Trust extortion on the internet",
+    "venue": "international workshop on security",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Audun Josang",
+            "id": "329072426",
+            "org": "University of Oslo, Norway#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Transport Layer Security",
+        "Computer security",
+        "Internet privacy",
+        "Computer science",
+        "Service provider",
+        "Extortion",
+        "Legitimacy",
+        "The Internet",
+        "Illusion",
+        "Domain Name System",
+        "Marketing strategy"
+    ],
+    "references": [
+        "215137156",
+        "1552489884",
+        "1909457994",
+        "1955938853",
+        "1975760873",
+        "2135444855"
+    ]
+}

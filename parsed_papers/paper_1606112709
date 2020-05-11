@@ -1,0 +1,32 @@
+{
+    "id": "1606112709",
+    "title": "Ontology and rule based inferring on project teams",
+    "venue": "advances in new technologies interactive interfaces and communicability",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Vili Podgorelec",
+            "id": "221543091",
+            "org": "FERI, Institute of Informatics, University of Maribor, Maribor, Slovenia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge base",
+        "Procedural knowledge",
+        "Computer science",
+        "Rule-based system",
+        "Legal expert system",
+        "Knowledge-based systems",
+        "Data mining",
+        "Personal knowledge management",
+        "Knowledge management",
+        "Project team",
+        "Open Knowledge Base Connectivity"
+    ],
+    "references": [
+        "71394711",
+        "1527683968",
+        "2133109597",
+        "2182322465"
+    ]
+}

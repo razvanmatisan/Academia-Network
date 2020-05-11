@@ -1,0 +1,42 @@
+{
+    "id": "1587249036",
+    "title": "Robust tree-based incremental imputation method for data fusion",
+    "venue": "intelligent data analysis",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Antonio D'Ambrosio",
+            "id": "2063084243",
+            "org": "Dipartimento di Matematica e Statistica, Universita di Napoli Federico II, Italy#TAB#"
+        },
+        {
+            "name": "Massimo Aria",
+            "id": "923435168",
+            "org": "Dipartimento di Matematica e Statistica, Universita di Napoli Federico II, Italy#TAB#"
+        },
+        {
+            "name": "Roberta Siciliano",
+            "id": "2781013287",
+            "org": "Dipartimento di Matematica e Statistica, Universita di Napoli Federico II, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Categorical variable",
+        "Machine learning",
+        "Artificial intelligence",
+        "Data Matrix",
+        "Data structure",
+        "Principal component analysis",
+        "Sensor fusion",
+        "Pattern recognition",
+        "Linear regression",
+        "Imputation (statistics)",
+        "Survey sampling",
+        "Computer science"
+    ],
+    "references": [
+        "1494785368",
+        "1988790447",
+        "2039425303"
+    ]
+}

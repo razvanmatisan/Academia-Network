@@ -1,0 +1,50 @@
+{
+    "id": "1530349081",
+    "title": "A parallel plug-in programming paradigm",
+    "venue": "high performance computing and communications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ronald Baumann",
+            "id": "2541507550",
+            "org": "Department of Computer Science, The University of Reading, Reading, UK#TAB#"
+        },
+        {
+            "name": "Christian Engelmann",
+            "id": "2169197632",
+            "org": "Department of Computer Science, The University of Reading, Reading, UK#TAB#"
+        },
+        {
+            "name": "Al Geist",
+            "id": "2034785592",
+            "org": "Computer Science and Mathematics Division, Oak Ridge National Laboratory, Oak Ridge, TN#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Programming paradigm",
+        "Resource-oriented architecture",
+        "System programming",
+        "Distributed computing",
+        "Software development",
+        "Software framework",
+        "Component-based software engineering",
+        "Parallel programming model",
+        "Reactive programming",
+        "Computer architecture",
+        "Computer science"
+    ],
+    "references": [
+        "1500828634",
+        "1534693618",
+        "1568637577",
+        "1601007342",
+        "1787393924",
+        "1971470410",
+        "2013639878",
+        "2039088133",
+        "2105056735",
+        "2119987790",
+        "2131014203",
+        "2167464077"
+    ]
+}

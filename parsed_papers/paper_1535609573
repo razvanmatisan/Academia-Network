@@ -1,0 +1,28 @@
+{
+    "id": "1535609573",
+    "title": "Haptic Feedback: A Brief History from Telepresence to Virtual Reality",
+    "venue": "Proceedings of the First International Workshop on Haptic Human-Computer Interaction",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Robert J. Stone",
+            "id": "2443225485",
+            "org": "Chester House"
+        }
+    ],
+    "fields_of_study": [
+        "Haptic technology",
+        "Visualization",
+        "Human-computer interaction",
+        "Telerobotics",
+        "Simulation",
+        "Immersion (virtual reality)",
+        "Peripheral",
+        "Virtual reality",
+        "Engineering"
+    ],
+    "references": [
+        "2018383931",
+        "2041812519"
+    ]
+}

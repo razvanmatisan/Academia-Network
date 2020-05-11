@@ -1,0 +1,41 @@
+{
+    "id": "1489122955",
+    "title": "A heuristic approach to program verification",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1973,
+    "authors": [
+        {
+            "name": "Shmuel Katz",
+            "id": "2170306587",
+            "org": "Department of Applied Mathematics, The Weizmann Institute of Science, Rehovot, Israel#TAB#"
+        },
+        {
+            "name": "Zohar Manna",
+            "id": "2146370811",
+            "org": "Department of Applied Mathematics, The Weizmann Institute of Science, Rehovot, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical logic",
+        "Heuristic",
+        "Machine learning",
+        "Discrete mathematics",
+        "Correctness",
+        "Artificial intelligence",
+        "Program analysis",
+        "Assertion",
+        "Algorithm",
+        "Set theory",
+        "Computer science",
+        "Computer programming",
+        "Computer program"
+    ],
+    "references": [
+        "1572470107",
+        "1990103540",
+        "2067580807",
+        "2089456919",
+        "2148679084",
+        "2170275266"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1514601443",
+    "title": "A Model for an Electronic Market Place",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Maria Joao Viamonte",
+            "id": "2307784310",
+            "org": "Instituto Superior de Engenharia do Porto"
+        },
+        {
+            "name": "Carlos Ramos",
+            "id": "2217972601",
+            "org": "Instituto Superior de Engenharia do Porto"
+        }
+    ],
+    "fields_of_study": [
+        "Web service",
+        "Autonomous agent",
+        "Consumer behaviour",
+        "Marketing",
+        "Distributed computing",
+        "Intelligent agent",
+        "Electronic markets",
+        "Computer security",
+        "Software agent",
+        "Computer science",
+        "The Internet"
+    ],
+    "references": [
+        "1975348168",
+        "2069692435",
+        "2098755476"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1547576625",
+    "title": "The Process of Business Process Management",
+    "venue": "business process management",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "August-Wilhelm Scheer",
+            "id": "2790410315",
+            "org": "German Research Center for Artificial Intelligence"
+        },
+        {
+            "name": "Michael B. Hoffmann",
+            "id": "2126491821",
+            "org": "Scheer Management GmbH"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Computer science",
+        "Process management",
+        "Business process",
+        "Business process discovery",
+        "Business Process Model and Notation",
+        "Process modeling",
+        "Business process modeling",
+        "Process mining",
+        "Artifact-centric business process model",
+        "Business process management"
+    ],
+    "references": [
+        "113988606",
+        "1508866000",
+        "1509153160",
+        "1510377720",
+        "1572443639",
+        "1821879182",
+        "2144126731"
+    ]
+}

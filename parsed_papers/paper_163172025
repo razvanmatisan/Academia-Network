@@ -1,0 +1,36 @@
+{
+    "id": "163172025",
+    "title": "Evolutionary discrete firefly algorithm for travelling salesman problem",
+    "venue": "international conference on adaptive and intelligent systems",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Gilang Kusuma Jati",
+            "id": "2564011702",
+            "org": "The faculty of Informatics - Telkom Institute of Technology, Terusan, West Java, Indonesia#TAB#"
+        },
+        {
+            "name": "Suyanto",
+            "id": "2573787754",
+            "org": "The faculty of Informatics - Telkom Institute of Technology, Terusan, West Java, Indonesia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Artificial intelligence",
+        "Machine learning",
+        "Local optimum",
+        "Combinatorics",
+        "Nearest neighbour algorithm",
+        "Travelling salesman problem",
+        "Christofides algorithm",
+        "Mathematics",
+        "Firefly algorithm"
+    ],
+    "references": [
+        "1523741643",
+        "1551741615",
+        "2060358758",
+        "2159073853"
+    ]
+}

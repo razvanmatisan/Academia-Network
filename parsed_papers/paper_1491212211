@@ -1,0 +1,42 @@
+{
+    "id": "1491212211",
+    "title": "A worst-case time upper bound for counting the number of independent sets",
+    "venue": "CAAN'07 Proceedings of the 4th conference on Combinatorial and algorithmic aspects of networking",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Guillermo De Ita",
+            "id": "2026280062",
+            "org": "Universidad Autonoma de Puebla#TAB#"
+        },
+        {
+            "name": "Aurelio Lopez-Lopez",
+            "id": "2399339750",
+            "org": "INAOE - Tonantzintla, Pue, Mexico#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Graph toughness",
+        "Graph power",
+        "Combinatorics",
+        "Discrete mathematics",
+        "String graph",
+        "Voltage graph",
+        "Bound graph",
+        "Intersection number (graph theory)",
+        "Strength of a graph",
+        "Mathematics",
+        "Simplex graph"
+    ],
+    "references": [
+        "1563127428",
+        "1964821516",
+        "2012041962",
+        "2082864800",
+        "2084392902",
+        "2094731577",
+        "2139364539",
+        "2141321698",
+        "2164214871"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1547391644",
+    "title": "GSLC: creation and annotation of a Greek sign language corpus for HCI",
+    "venue": "international conference on universal access in human computer interaction",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Eleni Efthimiou",
+            "id": "2085704848",
+            "org": "Institute for Language and Speech Processing, Athens, Greece#TAB#"
+        },
+        {
+            "name": "Stavroula-Evita Fotinea",
+            "id": "1999020388",
+            "org": "Institute for Language and Speech Processing, Athens, Greece#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Phrase",
+        "Noun phrase",
+        "Manually coded language",
+        "Natural language processing",
+        "Greek Sign Language",
+        "Sign language",
+        "Morpheme",
+        "Language model",
+        "Artificial intelligence",
+        "Computer science",
+        "Sentence"
+    ],
+    "references": [
+        "1565938589",
+        "2071661729",
+        "2124934925",
+        "2396648044"
+    ]
+}

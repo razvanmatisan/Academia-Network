@@ -1,0 +1,37 @@
+{
+    "id": "1482910257",
+    "title": "Scheduling of transactions for system-level test-case generation",
+    "venue": "high level design validation and test",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Roy Emek",
+            "id": "350558312",
+            "org": "IBM Haifa Res. Lab., Israel"
+        },
+        {
+            "name": "Yehuda Naveh",
+            "id": "2038724923",
+            "org": "IBM Haifa Res. Lab., Israel"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Fair-share scheduling",
+        "Gang scheduling",
+        "Dynamic priority scheduling",
+        "Computer science",
+        "Flow shop scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Rate-monotonic scheduling"
+    ],
+    "references": [
+        "1566072248",
+        "1600581889",
+        "2043801088",
+        "2099529102",
+        "2102606870"
+    ]
+}

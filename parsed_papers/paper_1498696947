@@ -1,0 +1,40 @@
+{
+    "id": "1498696947",
+    "title": "A fast bit-parallel algorithm for matching extended regular expressions",
+    "venue": "computing and combinatorics conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Hiroaki Yamamoto",
+            "id": "2156111147",
+            "org": "Department of Information Engineering, Shinshu University, Nagano-shi, Japan#TAB#"
+        },
+        {
+            "name": "Takashi Miyazaki",
+            "id": "2656188642",
+            "org": "Nagano National College of Technology, Nagano-shi, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Pattern matching",
+        "String (computer science)",
+        "Discrete mathematics",
+        "Parallel algorithm",
+        "String searching algorithm",
+        "Operator (computer programming)",
+        "Substring",
+        "Regular expression",
+        "Topological order",
+        "Mathematics"
+    ],
+    "references": [
+        "1486226598",
+        "1560450186",
+        "1564013439",
+        "1660390307",
+        "2021818638",
+        "2043834106",
+        "2162481186"
+    ]
+}

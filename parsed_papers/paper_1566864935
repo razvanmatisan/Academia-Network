@@ -1,0 +1,30 @@
+{
+    "id": "1566864935",
+    "title": "Direct and Incremental Computing of Maximal Covering Rules",
+    "venue": "pacific asia conference on knowledge discovery and data mining",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Marzena Kryszkiewicz",
+            "id": "98598830",
+            "org": "Warsaw University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Computation",
+        "Machine learning",
+        "Data mining",
+        "Artificial intelligence",
+        "Discrete mathematics",
+        "Association rule learning",
+        "Mathematics"
+    ],
+    "references": [
+        "1494589667",
+        "1496860674",
+        "1516597685",
+        "1553696291",
+        "1595517367",
+        "2166559705"
+    ]
+}

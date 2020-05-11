@@ -1,0 +1,45 @@
+{
+    "id": "1756407292",
+    "title": "Transforming heterogeneous messages automatically in web service composition",
+    "venue": "asia pacific web conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Wenjun Yang",
+            "id": "2108435120",
+            "org": "Department of Computer Science and Technology, Tsinghua University, Beijing, China#TAB#"
+        },
+        {
+            "name": "Juanzi Li",
+            "id": "2129156004",
+            "org": "Department of Computer Science and Technology, Tsinghua University, Beijing, China#TAB#"
+        },
+        {
+            "name": "Kehong Wang",
+            "id": "2159575400",
+            "org": "Department of Computer Science and Technology, Tsinghua University, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "WS-Addressing",
+        "Database",
+        "Data mining",
+        "Web service",
+        "Web modeling",
+        "Scripting language",
+        "Semantic Web",
+        "Schema matching",
+        "Distributed computing",
+        "XSLT",
+        "Computer science",
+        "WS-Policy"
+    ],
+    "references": [
+        "1482882345",
+        "1520316986",
+        "2021975707",
+        "2104554235",
+        "2108267498",
+        "2148572968"
+    ]
+}

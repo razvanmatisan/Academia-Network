@@ -1,0 +1,30 @@
+{
+    "id": "1499852311",
+    "title": "RT-Z: An Integration of Z and timed CSP",
+    "venue": "integrated formal methods",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Carsten Suhl",
+            "id": "2712921466",
+            "org": "GMD FIRST"
+        }
+    ],
+    "fields_of_study": [
+        "Programming language",
+        "Formal language",
+        "Theoretical computer science",
+        "Semantic data model",
+        "Complex system",
+        "Denotational semantics",
+        "Computer science",
+        "Semantics of logic"
+    ],
+    "references": [
+        "1514488489",
+        "1590898805",
+        "1836821476",
+        "2111092677",
+        "2150436715"
+    ]
+}

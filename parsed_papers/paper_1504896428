@@ -1,0 +1,31 @@
+{
+    "id": "1504896428",
+    "title": "Teaching an old course new tricks: a portable courseware language based on xml",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Lutz M. Wegner",
+            "id": "2293001766",
+            "org": "Universitat Kassel, Fachbereich Mathematik/Informatik, D-34109 Kassel, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Vector graphics",
+        "World Wide Web",
+        "Java",
+        "Animation",
+        "XML",
+        "Multimedia",
+        "Distributed computing",
+        "Scalable Vector Graphics",
+        "Teletext",
+        "The Internet",
+        "Computer science"
+    ],
+    "references": [
+        "141250006",
+        "1482664435",
+        "1488103720"
+    ]
+}

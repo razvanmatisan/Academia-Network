@@ -1,0 +1,49 @@
+{
+    "id": "105239244",
+    "title": "Exact Elimination of Cycles in Graphs",
+    "venue": "dagstuhl seminar proceedings",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Daniel Raible",
+            "id": "2160026845",
+            "org": "University of Trier"
+        },
+        {
+            "name": "Henning Fernau",
+            "id": "2293478762",
+            "org": "University of Trier"
+        }
+    ],
+    "fields_of_study": [
+        "Pancyclic graph",
+        "Pathwidth",
+        "Combinatorics",
+        "Book embedding",
+        "Discrete mathematics",
+        "Coxeter graph",
+        "Maximal independent set",
+        "1-planar graph",
+        "Universal graph",
+        "Forbidden graph characterization",
+        "Mathematics"
+    ],
+    "references": [
+        "1505165912",
+        "1515744550",
+        "1539375795",
+        "1555478065",
+        "1575434249",
+        "1964259962",
+        "1971393213",
+        "1975442866",
+        "1980321924",
+        "2003278864",
+        "2024517697",
+        "2071353749",
+        "2096578819",
+        "2127390687",
+        "2162446609",
+        "2171739510"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1526975772",
+    "title": "Model-Driven Product Line Architectures",
+    "venue": "software product lines",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Dirk Muthig",
+            "id": "164069180",
+            "org": "Fraunhofer Institute Experimental Software Engineering (IESE)"
+        },
+        {
+            "name": "Colin Atkinson",
+            "id": "2110818429",
+            "org": "Fraunhofer Institute Experimental Software Engineering (IESE)"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Business process",
+        "Product engineering",
+        "Software development",
+        "Unified Modeling Language",
+        "Product design specification",
+        "Architecture",
+        "Metamodeling",
+        "Domain engineering",
+        "Computer science"
+    ],
+    "references": [
+        "149712461",
+        "1507714685",
+        "1537143334",
+        "1970053979",
+        "1978591382",
+        "1991618866",
+        "2106432430",
+        "2496223582"
+    ]
+}

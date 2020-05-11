@@ -1,0 +1,48 @@
+{
+    "id": "1584593026",
+    "title": "People are processors: coalitional auctions for complex projects",
+    "venue": "adaptive agents and multi agents systems",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Piotr Skowron",
+            "id": "2269269046",
+            "org": "University of Warsaw, Warsaw, Poland#TAB#"
+        },
+        {
+            "name": "Krzysztof Rzadca",
+            "id": "107845843",
+            "org": "University of Warsaw, Warsaw, Poland#TAB#"
+        },
+        {
+            "name": "Anwitaman Datta",
+            "id": "2298696728",
+            "org": "Nanyang Technological University, Singapore, Singapore#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Game theory",
+        "Core (game theory)",
+        "Common value auction",
+        "Special case",
+        "Ask price",
+        "Distributed computing",
+        "Management science",
+        "Cooperative game theory",
+        "Bidding",
+        "Oracle"
+    ],
+    "references": [
+        "3422056",
+        "1238745702",
+        "1636551341",
+        "1969605458",
+        "2108976672",
+        "2124837549",
+        "2142642104",
+        "2153166544",
+        "2153757941",
+        "2160099008"
+    ]
+}

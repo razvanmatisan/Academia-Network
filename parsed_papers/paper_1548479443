@@ -1,0 +1,56 @@
+{
+    "id": "1548479443",
+    "title": "Peer-to-Peer Optimization in Large Unreliable Networks with Branch-and-Bound and Particle Swarms",
+    "venue": "evoworkshops on applications of evolutionary computing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Balazs Banhelyi",
+            "id": "5994227",
+            "org": "University of Szeged, Hungary#TAB#"
+        },
+        {
+            "name": "Marco Biazzini",
+            "id": "2716189645",
+            "org": "University of Trento, Italy#TAB#"
+        },
+        {
+            "name": "Alberto Montresor",
+            "id": "1308236497",
+            "org": "University of Trento, Italy#TAB#"
+        },
+        {
+            "name": "Mark Jelasity",
+            "id": "307655587",
+            "org": "University of Szeged and HAS, Hungary#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Peer-to-peer",
+        "Multi-swarm optimization",
+        "Metaheuristic",
+        "Branch and bound",
+        "Heuristic",
+        "Scheduling (computing)",
+        "Distributed computing",
+        "Machine learning",
+        "Derivative-free optimization",
+        "Computer science",
+        "Particle swarm optimization",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1540967342",
+        "1602035874",
+        "1965475550",
+        "1979223276",
+        "2038562061",
+        "2102054105",
+        "2105377541",
+        "2118583169",
+        "2122003849",
+        "2126147068",
+        "2126636103",
+        "2154117831"
+    ]
+}

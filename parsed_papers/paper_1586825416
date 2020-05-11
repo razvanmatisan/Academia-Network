@@ -1,0 +1,39 @@
+{
+    "id": "1586825416",
+    "title": "PSO under an adaptive scheme",
+    "venue": "congress on evolutionary computation",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Mihaela Breaban",
+            "id": "805989939",
+            "org": "Fac. of Comput. Sci., Alexandru loan Cuza Univ., Iasi, Romania"
+        },
+        {
+            "name": "Henri Luchian",
+            "id": "1212268773",
+            "org": "Fac. of Comput. Sci., Alexandru loan Cuza Univ., Iasi, Romania"
+        }
+    ],
+    "fields_of_study": [
+        "Multi-swarm optimization",
+        "Artificial intelligence",
+        "Computer science",
+        "Convergence (routing)",
+        "Mathematical optimization",
+        "Machine learning",
+        "Adaptive algorithm",
+        "Adaptive system",
+        "Mathematical Operators",
+        "Operator (computer programming)",
+        "Premature convergence"
+    ],
+    "references": [
+        "1560921017",
+        "1566399673",
+        "1577668191",
+        "1925428099",
+        "2003085167",
+        "2149306144"
+    ]
+}

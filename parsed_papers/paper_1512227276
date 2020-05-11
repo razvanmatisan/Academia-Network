@@ -1,0 +1,37 @@
+{
+    "id": "1512227276",
+    "title": "Maximal Margin Classification for Metric Spaces",
+    "venue": "conference on learning theory",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Matthias Hein",
+            "id": "2285762679",
+            "org": "Max Planck Institute for Biological Cybernetics, Spemannstr. 38, 72076 Tuebingen, Germany"
+        },
+        {
+            "name": "Olivier Bousquet",
+            "id": "2042048789",
+            "org": "Institute for Biological Cybernetics"
+        }
+    ],
+    "fields_of_study": [
+        "Metric differential",
+        "Metric space",
+        "Discrete mathematics",
+        "Metric (mathematics)",
+        "Mathematical optimization",
+        "Intrinsic metric",
+        "Fisher information metric",
+        "Convex metric space",
+        "Injective metric space",
+        "Metric map",
+        "Mathematics"
+    ],
+    "references": [
+        "1604585277",
+        "2133324003",
+        "2157656721",
+        "2178357350"
+    ]
+}

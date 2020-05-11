@@ -1,0 +1,45 @@
+{
+    "id": "1587989452",
+    "title": "Designing Valid XML Views",
+    "venue": "international conference on conceptual modeling",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Ya Bing Chen",
+            "id": "2169856687",
+            "org": "National University of Singapore"
+        },
+        {
+            "name": "Tok Wang Ling",
+            "id": "2101052892",
+            "org": "National University of Singapore"
+        },
+        {
+            "name": "Mong Li Lee",
+            "id": "2482117154",
+            "org": "National University of Singapore"
+        }
+    ],
+    "fields_of_study": [
+        "XML Signature",
+        "Data mining",
+        "Information retrieval",
+        "Database",
+        "XML schema",
+        "Computer science",
+        "XML database",
+        "XML",
+        "XML validation",
+        "Document Structure Description",
+        "Programming language",
+        "XML Schema Editor",
+        "Efficient XML Interchange"
+    ],
+    "references": [
+        "1545037611",
+        "1996126974",
+        "2086742729",
+        "2087060113",
+        "2170192471"
+    ]
+}

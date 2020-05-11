@@ -1,0 +1,38 @@
+{
+    "id": "1566500315",
+    "title": "Text Clustering to Help Knowledge Acquisition from Documents",
+    "venue": "knowledge acquisition, modeling and management",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Stephane Lapalut",
+            "id": "899359420",
+            "org": "Projet ACACIA, INRIA Sophia Antipolis"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge engineering",
+        "Information retrieval",
+        "Data mining",
+        "Computer science",
+        "Top-down and bottom-up design",
+        "Document clustering",
+        "Text segmentation",
+        "Text corpus",
+        "Knowledge acquisition",
+        "Text mining"
+    ],
+    "references": [
+        "1493596129",
+        "1591639125",
+        "1819767597",
+        "1987001238",
+        "1994851566",
+        "2023458977",
+        "2052155864",
+        "2054717016",
+        "2083416324",
+        "2100873065",
+        "2140109766"
+    ]
+}

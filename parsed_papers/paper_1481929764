@@ -1,0 +1,46 @@
+{
+    "id": "1481929764",
+    "title": "A Logical Database Mining Query Language",
+    "venue": "inductive logic programming",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Luc De Raedt",
+            "id": "189137728",
+            "org": "Albert-Ludwig-UniversityUniversitatsgelande Flugplatz"
+        }
+    ],
+    "fields_of_study": [
+        "Apriori algorithm",
+        "Artificial intelligence",
+        "Relational database",
+        "Constraint programming",
+        "Machine learning",
+        "RDM",
+        "Query language",
+        "Database",
+        "Operational semantics",
+        "Data mining",
+        "Computer science",
+        "Inductive logic programming",
+        "Prolog"
+    ],
+    "references": [
+        "1495384623",
+        "1520923555",
+        "1565187392",
+        "1573373104",
+        "1823692244",
+        "1987902506",
+        "1999138184",
+        "2009207944",
+        "2052629503",
+        "2113243831",
+        "2125227861",
+        "2132398356",
+        "2158292827",
+        "2166559705",
+        "2522853541",
+        "2751199251"
+    ]
+}

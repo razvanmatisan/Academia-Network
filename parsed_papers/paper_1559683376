@@ -1,0 +1,44 @@
+{
+    "id": "1559683376",
+    "title": "Just When You Thought Your Little Language Was Safe: ``Expression Templates'' in Java",
+    "venue": "component based software engineering",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Todd L. Veldhuizen",
+            "id": "2599451122",
+            "org": "Indiana University Computer Science Department"
+        }
+    ],
+    "fields_of_study": [
+        "Generic programming",
+        "Java concurrency",
+        "Generics in Java",
+        "Expression templates",
+        "Java",
+        "Theoretical computer science",
+        "Java syntax",
+        "Programming language",
+        "Java annotation",
+        "Java Modeling Language",
+        "Computer science"
+    ],
+    "references": [
+        "1537305306",
+        "1554991828",
+        "1559977272",
+        "1581501197",
+        "1581983724",
+        "1821569073",
+        "1971014792",
+        "1987632834",
+        "2003411722",
+        "2005685982",
+        "2061915850",
+        "2077436409",
+        "2078655808",
+        "2096314727",
+        "2108437970",
+        "2114201536"
+    ]
+}

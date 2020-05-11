@@ -1,0 +1,49 @@
+{
+    "id": "152797181",
+    "title": "A Social Network Ontology for Semantic Web Enabled Collaboration.",
+    "venue": "SWWS",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Thomas Yan",
+            "id": "2676082546",
+            "org": "Santa Clara University"
+        },
+        {
+            "name": "Hans-Peter Dommel",
+            "id": "2298708184",
+            "org": "Santa Clara University"
+        }
+    ],
+    "fields_of_study": [
+        "OWL-S",
+        "Data Web",
+        "Web standards",
+        "World Wide Web",
+        "Social Semantic Web",
+        "Semantic Web",
+        "Web modeling",
+        "Semantic analytics",
+        "Semantic Web Stack",
+        "Knowledge management",
+        "Computer science"
+    ],
+    "references": [
+        "1499011913",
+        "1509342267",
+        "1511748364",
+        "1562858266",
+        "1576629314",
+        "1986644914",
+        "2042398621",
+        "2090656662",
+        "2101491706",
+        "2103341238",
+        "2106269277",
+        "2137848173",
+        "2148572968",
+        "2155048531",
+        "2164946090",
+        "2171708479"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "1596497329",
+    "title": "A New Smoothing Jitter Algorithm for Voice over Ad Hoc Networks",
+    "venue": "mobile and wireless communication networks",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Mouna Benaissa",
+            "id": "2304020627",
+            "org": "Henri Poincare-Nancy I University"
+        },
+        {
+            "name": "Vincent Lecuire",
+            "id": "190652027",
+            "org": "Henri Poincare-Nancy I University"
+        }
+    ],
+    "fields_of_study": [
+        "Wireless ad hoc network",
+        "Optimized Link State Routing Protocol",
+        "End-to-end delay",
+        "Computer network",
+        "Ad hoc wireless distribution service",
+        "Vehicular ad hoc network",
+        "Mobile ad hoc network",
+        "Network delay",
+        "Processing delay",
+        "Algorithm",
+        "Computer science"
+    ],
+    "references": [
+        "1616104158",
+        "1984025008",
+        "2104820473",
+        "2112419728",
+        "2117903974",
+        "2123701389",
+        "2130845570",
+        "2137300111",
+        "2158648927",
+        "2162100590",
+        "2164063684",
+        "2167017677"
+    ]
+}

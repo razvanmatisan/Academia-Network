@@ -1,0 +1,32 @@
+{
+    "id": "1531511199",
+    "title": "An object oriented architecture model for international information systems?: an exploratory study",
+    "venue": "international conference on challenges of information technology management in century",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Hans Lehmann",
+            "id": "2675897000",
+            "org": "University of Auckland"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Exploratory research",
+        "Information system",
+        "Design elements and principles",
+        "Object-orientation",
+        "Object-oriented programming",
+        "Architecture",
+        "Knowledge management",
+        "Computer science"
+    ],
+    "references": [
+        "1527353115",
+        "1598226182",
+        "2099209430",
+        "2126762059",
+        "2135492276",
+        "2166056089"
+    ]
+}

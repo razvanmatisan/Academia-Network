@@ -1,0 +1,49 @@
+{
+    "id": "1565016933",
+    "title": "Automatized Verification of Ad Hoc Routing Protocols",
+    "venue": "formal techniques for networked and distributed systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Oskar Wibling",
+            "id": "2030833723",
+            "org": "Uppsala University"
+        },
+        {
+            "name": "Joachim Parrow",
+            "id": "152237314",
+            "org": "Uppsala University"
+        },
+        {
+            "name": "Arnold Pears",
+            "id": "2059743913",
+            "org": "Uppsala University"
+        }
+    ],
+    "fields_of_study": [
+        "Link-state routing protocol",
+        "Adaptive quality of service multi-hop routing",
+        "Optimized Link State Routing Protocol",
+        "Wireless ad hoc network",
+        "Computer science",
+        "Distributed computing",
+        "Ad hoc wireless distribution service",
+        "Wireless Routing Protocol",
+        "Computer network",
+        "Mobile ad hoc network",
+        "Dynamic Source Routing"
+    ],
+    "references": [
+        "121750629",
+        "1516849933",
+        "1529559025",
+        "1545344643",
+        "2000947342",
+        "2099574482",
+        "2139808952",
+        "2145000217",
+        "2160078974",
+        "2169746237",
+        "2173952623"
+    ]
+}

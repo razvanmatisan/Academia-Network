@@ -1,0 +1,45 @@
+{
+    "id": "1569020493",
+    "title": "Unlevel-Sets: Geometry and Prior-Based Segmentation",
+    "venue": "european conference on computer vision",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Tammy Riklin-Raviv",
+            "id": "156533617",
+            "org": "School of Electrical Engineering"
+        },
+        {
+            "name": "Nahum Kiryati",
+            "id": "170085199",
+            "org": "School of Electrical Engineering"
+        },
+        {
+            "name": "Nir A. Sochen",
+            "id": "320773650",
+            "org": "Tel Aviv University"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Geometry",
+        "Perspective distortion",
+        "Image segmentation",
+        "Computer vision",
+        "Scaling",
+        "Segmentation-based object categorization",
+        "Scale-space segmentation",
+        "Ground truth",
+        "Level set",
+        "Bounded function",
+        "Mathematics"
+    ],
+    "references": [
+        "200582925",
+        "1836111812",
+        "2110815705",
+        "2116040950",
+        "2171011709"
+    ]
+}

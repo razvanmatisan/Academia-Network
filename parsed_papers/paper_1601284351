@@ -1,0 +1,46 @@
+{
+    "id": "1601284351",
+    "title": "The Power and the Limitations of Local Computations on Graphs",
+    "venue": "workshop on graph theoretic concepts in computer science",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Igor Litovsky",
+            "id": "2305194984",
+            "org": "Universite Bordeaux I"
+        },
+        {
+            "name": "Yves Metivier",
+            "id": "40532582",
+            "org": "Universite Bordeaux I"
+        },
+        {
+            "name": "Wieslaw Zielonka",
+            "id": "239890570",
+            "org": "Universite Bordeaux I"
+        }
+    ],
+    "fields_of_study": [
+        "Pancyclic graph",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Partial k-tree",
+        "Chordal graph",
+        "Indifference graph",
+        "Modular decomposition",
+        "Universal graph",
+        "Theoretical computer science",
+        "1-planar graph",
+        "Forbidden graph characterization",
+        "Mathematics"
+    ],
+    "references": [
+        "266719937",
+        "1600225957",
+        "1972091330",
+        "1983037164",
+        "2071187449",
+        "2077744016",
+        "2082257278"
+    ]
+}

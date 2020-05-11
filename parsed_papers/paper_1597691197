@@ -1,0 +1,44 @@
+{
+    "id": "1597691197",
+    "title": "Feature Dependency Analysis for Product Line Component Design",
+    "venue": "international conference on software reuse",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Kwanwoo Lee",
+            "id": "2558110905",
+            "org": "Hansung University"
+        },
+        {
+            "name": "Kyo Chul Kang",
+            "id": "2150318219",
+            "org": "Pohang University of Science and Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Model-based reasoning",
+        "Distributed computing",
+        "Dependence analysis",
+        "New product development",
+        "Software development",
+        "Feature model",
+        "Software product line",
+        "Domain engineering",
+        "Software",
+        "Computer science"
+    ],
+    "references": [
+        "1500250067",
+        "1516491653",
+        "1554498106",
+        "1591726984",
+        "1608589721",
+        "1635782815",
+        "1787802610",
+        "2072561921",
+        "2099529102",
+        "2114152285",
+        "2496223582"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1522524128",
+    "title": "A Service-Oriented Negotiation Model between Autonomous Agents",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Carles Sierra",
+            "id": "2798833447",
+            "org": "University of London"
+        },
+        {
+            "name": "Peyman Faratin",
+            "id": "2893726622",
+            "org": "University of London"
+        },
+        {
+            "name": "Nicholas R. Jennings",
+            "id": "2112978975",
+            "org": "University of London"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical proof",
+        "Service-orientation",
+        "Business process",
+        "Autonomous agent",
+        "Convergence (routing)",
+        "Distributed computing",
+        "Decision support system",
+        "Business process management",
+        "Negotiation",
+        "Computer science"
+    ],
+    "references": [
+        "261484343",
+        "1486686925",
+        "2097713162",
+        "2155909075"
+    ]
+}

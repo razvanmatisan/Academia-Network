@@ -1,0 +1,41 @@
+{
+    "id": "1541824660",
+    "title": "Active learning for structure in Bayesian networks",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Simon Tong",
+            "id": "2777790106",
+            "org": "Computer Science Department, Stanford University#TAB#"
+        },
+        {
+            "name": "Daphne Koller",
+            "id": "2167404190",
+            "org": "Computer Science Department, Stanford University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semi-supervised learning",
+        "Machine learning",
+        "Active learning (machine learning)",
+        "Multi-task learning",
+        "Wake-sleep algorithm",
+        "Experimental data",
+        "Unsupervised learning",
+        "Active learning",
+        "Artificial intelligence",
+        "Proactive learning",
+        "Pattern recognition",
+        "Computer science"
+    ],
+    "references": [
+        "1547246444",
+        "1645969895",
+        "1769824028",
+        "1815331012",
+        "2121615264",
+        "2159080219",
+        "2170112109"
+    ]
+}

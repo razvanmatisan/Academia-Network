@@ -1,0 +1,41 @@
+{
+    "id": "1562638349",
+    "title": "A Conceptual Model for Business Re-Engineering Methods and Tools",
+    "venue": "international conference on conceptual modeling",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Stan Jarzabek",
+            "id": "1937785728",
+            "org": "National University of Singapore"
+        },
+        {
+            "name": "Tok Wang Ling",
+            "id": "2101052892",
+            "org": "National University of Singapore"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Management science",
+        "Business process modeling",
+        "Computer science",
+        "Conceptual model",
+        "Data model",
+        "Business operations",
+        "Conceptual schema",
+        "Artifact-centric business process model",
+        "Data modeling",
+        "Knowledge modeling",
+        "Knowledge management"
+    ],
+    "references": [
+        "1520067393",
+        "1596808840",
+        "2023257593",
+        "2061953170",
+        "2069234241",
+        "2099293367",
+        "2140667122"
+    ]
+}

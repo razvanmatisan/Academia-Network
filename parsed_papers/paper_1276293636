@@ -1,0 +1,39 @@
+{
+    "id": "1276293636",
+    "title": "HMM-Based Part-of-Speech Tagging for Chinese Corpora.",
+    "venue": "meeting of the association for computational linguistics",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Chao-huang Chang",
+            "id": "2649719799",
+            "org": "Industrial Technology Research Institute"
+        },
+        {
+            "name": "Cheng-Der Chen",
+            "id": "2171355276",
+            "org": "Industrial Technology Research Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Markov model",
+        "Artificial intelligence",
+        "Viterbi algorithm",
+        "Speech recognition",
+        "Natural language processing",
+        "Porting",
+        "Equivalence class",
+        "Chinese characters",
+        "Computer science",
+        "Bantu languages",
+        "Pattern recognition",
+        "Hidden Markov model",
+        "Test data"
+    ],
+    "references": [
+        "170005899",
+        "1571096757",
+        "2046224275",
+        "2786928078"
+    ]
+}

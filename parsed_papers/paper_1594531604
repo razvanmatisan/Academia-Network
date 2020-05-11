@@ -1,0 +1,36 @@
+{
+    "id": "1594531604",
+    "title": "Multigram-based grapheme-to-phoneme conversion for LVCSR.",
+    "venue": "conference of the international speech communication association",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Maximilian Bisani",
+            "id": "1999717058",
+            "org": "Lehrstuhl fur Informatik|Computer Science Department|University of Technology"
+        },
+        {
+            "name": "Hermann Ney",
+            "id": "2293758362",
+            "org": "Lehrstuhl fur Informatik|Computer Science Department|University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Document retrieval",
+        "Word error rate",
+        "Speech recognition",
+        "Software portability",
+        "Grapheme",
+        "Transcription (linguistics)",
+        "Vocabulary",
+        "Natural language processing",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Computer science"
+    ],
+    "references": [
+        "201187342",
+        "1506201763",
+        "2009267849"
+    ]
+}

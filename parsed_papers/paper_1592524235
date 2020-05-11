@@ -1,0 +1,39 @@
+{
+    "id": "1592524235",
+    "title": "Contribution of Boosting in Wrapper Models",
+    "venue": "european conference on principles of data mining and knowledge discovery",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Marc Sebban",
+            "id": "2217963768",
+            "org": "West Indies and Guiana University"
+        },
+        {
+            "name": "Richard Nock",
+            "id": "1964890520",
+            "org": "West Indies and Guiana University"
+        }
+    ],
+    "fields_of_study": [
+        "Information system",
+        "Data mining",
+        "Information processing",
+        "Boosting (machine learning)",
+        "Artificial intelligence",
+        "Machine learning",
+        "Computer science",
+        "Feature selection",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1559923427",
+        "1571061365",
+        "1619226191",
+        "1849729440",
+        "1966280301",
+        "1969223365",
+        "1988790447",
+        "2040884411"
+    ]
+}

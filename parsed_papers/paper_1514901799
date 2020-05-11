@@ -1,0 +1,29 @@
+{
+    "id": "1514901799",
+    "title": "Strong primes are easy to find",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "John Gordon",
+            "id": "2117127658",
+            "org": "Cybermation Ltd"
+        }
+    ],
+    "fields_of_study": [
+        "Prime number",
+        "Safe prime",
+        "Emirp",
+        "Discrete mathematics",
+        "Sphenic number",
+        "Strong prime",
+        "Generating primes",
+        "Unique prime",
+        "Permutable prime",
+        "Mathematics"
+    ],
+    "references": [
+        "1996360405",
+        "2156186849"
+    ]
+}

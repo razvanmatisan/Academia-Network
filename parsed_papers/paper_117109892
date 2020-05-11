@@ -1,0 +1,38 @@
+{
+    "id": "117109892",
+    "title": "Towards an XML-based Framework for Web Usage Mining.",
+    "venue": "multikonferenz wirtschaftsinformatik",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Kai Honsel",
+            "id": "2398268128",
+            "org": "University of Hohenheim"
+        },
+        {
+            "name": "Bernd Schneider",
+            "id": "2559488381",
+            "org": "University of Hohenheim"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Web mining",
+        "Computer science",
+        "Web standards",
+        "Data mining",
+        "Web service",
+        "Web modeling",
+        "XQuery",
+        "XPath",
+        "Semantic Web Stack",
+        "WS-Policy"
+    ],
+    "references": [
+        "1494860503",
+        "1539916429",
+        "1995952726",
+        "2126833378",
+        "2129538325"
+    ]
+}

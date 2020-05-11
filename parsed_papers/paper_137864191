@@ -1,0 +1,29 @@
+{
+    "id": "137864191",
+    "title": "Exploiting Generalization for the Composition of Transformations of XML Schema Based Documents.",
+    "venue": "conference on advanced information systems engineering",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Marek Lehmann",
+            "id": "2305263959",
+            "org": "Alpen-Adria-Universitat Klagenfurt"
+        }
+    ],
+    "fields_of_study": [
+        "Streaming XML",
+        "RELAX NG",
+        "Database",
+        "XML Schema Editor",
+        "Computer science",
+        "XML framework",
+        "XML validation",
+        "XML schema",
+        "XML Schema (W3C)",
+        "Document Structure Description"
+    ],
+    "references": [
+        "1498461931",
+        "2085885823"
+    ]
+}

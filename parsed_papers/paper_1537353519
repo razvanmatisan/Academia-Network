@@ -1,0 +1,37 @@
+{
+    "id": "1537353519",
+    "title": "Traceable visual cryptography",
+    "venue": "international conference on information and communication security",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Ingrid Biehl",
+            "id": "212590601",
+            "org": "Universitat des Saarlandes"
+        },
+        {
+            "name": "Susanne Wetzel",
+            "id": "2161497311",
+            "org": "Universitat des Saarlandes"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Visual cryptography",
+        "Publishing",
+        "As is",
+        "Theoretical computer science",
+        "Proactive secret sharing",
+        "Cryptography",
+        "Public-key cryptography",
+        "Secret sharing",
+        "Computer science"
+    ],
+    "references": [
+        "1554401715",
+        "1589946980",
+        "1985623009",
+        "2052207834",
+        "2141420453"
+    ]
+}

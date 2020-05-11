@@ -1,0 +1,44 @@
+{
+    "id": "1501700732",
+    "title": "Evolving proactive aggregation protocols",
+    "venue": "european conference on genetic programming",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Thomas Weise",
+            "id": "2118610972",
+            "org": "University of Kassel, Kassel, Germany#TAB#"
+        },
+        {
+            "name": "Michael Zapf",
+            "id": "2041188236",
+            "org": "University of Kassel, Kassel, Germany#TAB#"
+        },
+        {
+            "name": "Kurt Geihs",
+            "id": "2305563789",
+            "org": "University of Kassel, Kassel, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Symbolic regression",
+        "Artificial intelligence",
+        "Aggregate function",
+        "Theoretical computer science",
+        "Wireless sensor network",
+        "Genetic programming",
+        "Modeling and simulation",
+        "Computer science",
+        "State vector"
+    ],
+    "references": [
+        "1487100330",
+        "1576818901",
+        "1599479040",
+        "1790557720",
+        "2110100895",
+        "2128881408",
+        "2138830906"
+    ]
+}

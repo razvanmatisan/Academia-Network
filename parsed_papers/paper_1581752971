@@ -1,0 +1,47 @@
+{
+    "id": "1581752971",
+    "title": "Data visualisation and exploration with prior knowledge",
+    "venue": "international conference on engineering applications of neural networks",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Martin Schroeder",
+            "id": "2143918342",
+            "org": "Aston University, NCRG, Aston Triangle"
+        },
+        {
+            "name": "Dan Cornford",
+            "id": "1993501242",
+            "org": "Aston University, NCRG, Aston Triangle"
+        },
+        {
+            "name": "Ian T. Nabney",
+            "id": "210866836",
+            "org": "Aston University, NCRG, Aston Triangle"
+        }
+    ],
+    "fields_of_study": [
+        "Covariance matrix",
+        "Nonlinear dimensionality reduction",
+        "Visualization",
+        "Missing data",
+        "Data visualization",
+        "Probabilistic logic",
+        "Principal component analysis",
+        "Machine learning",
+        "Imputation (statistics)",
+        "Data mining",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "215337676",
+        "597130288",
+        "1606043801",
+        "1726174625",
+        "1772981906",
+        "1982372699",
+        "2021123210",
+        "2136111243"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "1564677293",
+    "title": "Support Vector Machines for Knowledge Discovery",
+    "venue": "european conference on principles of data mining and knowledge discovery",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Shinsuke Sugaya",
+            "id": "2063189027",
+            "org": "Yokohama National University"
+        },
+        {
+            "name": "Einoshin Suzuki",
+            "id": "2228069075",
+            "org": "Yokohama National University"
+        },
+        {
+            "name": "Shusaku Tsumoto",
+            "id": "122205434",
+            "org": "Shimane Medical University, School of Medicine"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Knowledge extraction",
+        "sort",
+        "Computer science",
+        "Machine learning",
+        "Artificial intelligence",
+        "Support vector machine",
+        "Information processing",
+        "Subject-matter expert",
+        "Knowledge acquisition",
+        "Ranking"
+    ],
+    "references": [
+        "8020788",
+        "1533992292",
+        "1552339598",
+        "2119821739",
+        "2120515362",
+        "2124351082",
+        "2149684865"
+    ]
+}

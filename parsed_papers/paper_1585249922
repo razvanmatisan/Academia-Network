@@ -1,0 +1,43 @@
+{
+    "id": "1585249922",
+    "title": "TreeITL-Mine: Mining Frequent Itemsets Using Pattern Growth, Tid Intersection, and Prefix Tree",
+    "venue": "australian joint conference on artificial intelligence",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Raj P. Gopalan",
+            "id": "2122679132",
+            "org": "Curtin University of Technology"
+        },
+        {
+            "name": "Yudho Giri Sucahyo",
+            "id": "2028119005",
+            "org": "Curtin University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge extraction",
+        "Apriori algorithm",
+        "Pattern recognition",
+        "GSP Algorithm",
+        "FSA-Red Algorithm",
+        "Data set",
+        "Artificial intelligence",
+        "Data mining",
+        "Association rule learning",
+        "Trie",
+        "Computer science",
+        "Prefix"
+    ],
+    "references": [
+        "1498871448",
+        "1506285740",
+        "1996249351",
+        "2032226242",
+        "2064853889",
+        "2080632942",
+        "2099404336",
+        "2148693963",
+        "2166559705"
+    ]
+}

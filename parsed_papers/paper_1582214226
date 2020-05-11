@@ -1,0 +1,49 @@
+{
+    "id": "1582214226",
+    "title": "Specifications and design of graphical interface for hierarchical finite state machines",
+    "venue": "robot soccer world cup",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Vincent Hugel",
+            "id": "2308591156",
+            "org": "Laboratoire de Mecatronique et de Robotique de Versailles (LMRV), Velizy, France#TAB#"
+        },
+        {
+            "name": "Guillaume Amouroux",
+            "id": "2674988203",
+            "org": "Laboratoire de Mecatronique et de Robotique de Versailles (LMRV), Velizy, France#TAB#"
+        },
+        {
+            "name": "Thomas Costis",
+            "id": "102430248",
+            "org": "Laboratoire de Mecatronique et de Robotique de Versailles (LMRV), Velizy, France#TAB#"
+        },
+        {
+            "name": "Patrick Bonnin",
+            "id": "2424124741",
+            "org": "Laboratoire de Mecatronique et de Robotique de Versailles (LMRV), Velizy, France#TAB#"
+        },
+        {
+            "name": "Pierre Blazevic",
+            "id": "2076745271",
+            "org": "Laboratoire de Mecatronique et de Robotique de Versailles (LMRV), Velizy, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Simulation",
+        "Source code",
+        "Finite-state machine",
+        "Metastate",
+        "Coding (social sciences)",
+        "State diagram",
+        "Artificial intelligence",
+        "Deterministic system (philosophy)",
+        "Robotics",
+        "Graphical user interface"
+    ],
+    "references": [
+        "1610631251"
+    ]
+}

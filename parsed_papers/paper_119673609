@@ -1,0 +1,45 @@
+{
+    "id": "119673609",
+    "title": "Requirements of an ISO Compliant XP Tool",
+    "venue": "international conference on software engineering",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Marco Melis",
+            "id": "2114659500",
+            "org": "Universita di Cagliari"
+        },
+        {
+            "name": "Walter Ambu",
+            "id": "2336396708",
+            "org": "Atlantis spa"
+        },
+        {
+            "name": "Sandro Pinna",
+            "id": "2058822101",
+            "org": "Universita di Cagliari"
+        },
+        {
+            "name": "Katiuscia Mannaro",
+            "id": "3864030",
+            "org": "Universita di Cagliari"
+        }
+    ],
+    "fields_of_study": [
+        "Certificate",
+        "Computer science",
+        "Extreme programming",
+        "Systems engineering",
+        "Quality management system",
+        "Extreme programming practices",
+        "Acceptance testing",
+        "Software development process",
+        "Software development",
+        "Certification"
+    ],
+    "references": [
+        "1482989083",
+        "1487503386",
+        "1552461300"
+    ]
+}

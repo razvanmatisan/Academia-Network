@@ -1,0 +1,41 @@
+{
+    "id": "1566979565",
+    "title": "Predicting and distinguishing attacks on RC4 keystream generator",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Itsik Mantin",
+            "id": "2684876915",
+            "org": "NDS Technologies, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Byte",
+        "Theoretical computer science",
+        "RC4",
+        "Randomness",
+        "Keystream",
+        "Algorithm",
+        "Distinguishing attack",
+        "Computer science",
+        "Cryptography",
+        "Stream cipher",
+        "Cryptanalysis"
+    ],
+    "references": [
+        "1500414598",
+        "1513703559",
+        "1536369113",
+        "1556597491",
+        "1556992967",
+        "1602293460",
+        "1724491999",
+        "1776302329",
+        "2114197583",
+        "2123460950",
+        "2144724363",
+        "2151074078",
+        "2168767876"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1529470733",
+    "title": "Metadata for a Digital Library of Historical Documents",
+    "venue": "database and expert systems applications",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Maria Jose Aramburu Cabo",
+            "id": "2807372353",
+            "org": "Universitat Jaume I"
+        },
+        {
+            "name": "Rafael Berlanga Llavori",
+            "id": "223908594",
+            "org": "Universitat Jaume I"
+        }
+    ],
+    "fields_of_study": [
+        "Temporal database",
+        "Data element",
+        "Data mining",
+        "Database",
+        "Data model",
+        "Metadata repository",
+        "Digital library",
+        "Metadata",
+        "Computer science",
+        "Database schema",
+        "Historical document"
+    ],
+    "references": [
+        "1558832481",
+        "1578741107",
+        "1971627264",
+        "1971845537",
+        "2055883318",
+        "2063186145",
+        "2336905505"
+    ]
+}

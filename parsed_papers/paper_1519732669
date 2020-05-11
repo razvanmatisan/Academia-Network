@@ -1,0 +1,47 @@
+{
+    "id": "1519732669",
+    "title": "Multisite Task Scheduling on Distributed Computing Grid",
+    "venue": "grid and cooperative computing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Weizhe Zhang",
+            "id": "2096814170",
+            "org": "Harbin Institute of Technology"
+        },
+        {
+            "name": "Hongli Zhang",
+            "id": "2809848826",
+            "org": "Harbin Institute of Technology"
+        },
+        {
+            "name": "Hui He",
+            "id": "2142076153",
+            "org": "Harbin Institute of Technology"
+        },
+        {
+            "name": "Mingzeng Hu",
+            "id": "2194075784",
+            "org": "Harbin Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed design patterns",
+        "Fair-share scheduling",
+        "Two-level scheduling",
+        "Deadline-monotonic scheduling",
+        "Grid computing",
+        "DRMAA",
+        "Real-time computing",
+        "Distributed computing",
+        "Dynamic priority scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Computer science"
+    ],
+    "references": [
+        "1809943808",
+        "2111259717",
+        "2138106475",
+        "2138307431"
+    ]
+}

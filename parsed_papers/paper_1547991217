@@ -1,0 +1,32 @@
+{
+    "id": "1547991217",
+    "title": "A Comparison and a Combination of SST and AGM Algorithms for Counting Points of Elliptic Curves in Characteristic 2",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Pierrick Gaudry",
+            "id": "2069053796",
+            "org": "Ecole polytechnique"
+        }
+    ],
+    "fields_of_study": [
+        "Newton's method",
+        "Elliptic curve",
+        "Taguchi methods",
+        "Modular equation",
+        "Discrete mathematics",
+        "Algorithm",
+        "Cryptography",
+        "Public-key cryptography",
+        "Mathematics"
+    ],
+    "references": [
+        "1522683470",
+        "1589603702",
+        "1607129359",
+        "1970190317",
+        "1983892874",
+        "2096550161"
+    ]
+}

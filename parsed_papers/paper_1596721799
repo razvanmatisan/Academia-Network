@@ -1,0 +1,32 @@
+{
+    "id": "1596721799",
+    "title": "Optimal Layered Learning: A PAC Approach to Incremental Sampling",
+    "venue": "algorithmic learning theory",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Stephen Muggleton",
+            "id": "735181462",
+            "org": "Oxford University Computing Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Logarithm",
+        "Discrete mathematics",
+        "Artificial intelligence",
+        "Exponential growth",
+        "Training set",
+        "Machine learning",
+        "Sampling (statistics)",
+        "Computer science",
+        "Iterated function",
+        "Polynomial",
+        "Test set"
+    ],
+    "references": [
+        "25491312",
+        "1994592916",
+        "2019363670",
+        "2045313701"
+    ]
+}

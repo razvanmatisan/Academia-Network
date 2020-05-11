@@ -1,0 +1,54 @@
+{
+    "id": "1529246548",
+    "title": "Assessing the safety of knowledge patterns in OWL ontologies",
+    "venue": "international semantic web conference",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Luigi Iannone",
+            "id": "2178333822",
+            "org": "University of Manchester, Manchester, UK#TAB#"
+        },
+        {
+            "name": "Ignazio Palmisano",
+            "id": "2663622825",
+            "org": "University of Manchester, Manchester, UK#TAB#"
+        },
+        {
+            "name": "Alan L. Rector",
+            "id": "2013949216",
+            "org": "University of Manchester, Manchester, UK#TAB#"
+        },
+        {
+            "name": "Robert Stevens",
+            "id": "2146999750",
+            "org": "University of Manchester, Manchester, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge engineering",
+        "Process ontology",
+        "Data mining",
+        "Database",
+        "Description logic",
+        "IDEF5",
+        "Computer science",
+        "Web Ontology Language",
+        "Ontology engineering",
+        "Extensibility",
+        "Ontology (information science)"
+    ],
+    "references": [
+        "1537126384",
+        "1573733520",
+        "1594656587",
+        "1602395689",
+        "1607986467",
+        "1748990669",
+        "2107643858",
+        "2137428218",
+        "2140933517",
+        "2147729309",
+        "2160522235"
+    ]
+}

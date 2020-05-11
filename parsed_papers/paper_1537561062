@@ -1,0 +1,45 @@
+{
+    "id": "1537561062",
+    "title": "Modeling software evolution by evolving interoperation graphs",
+    "venue": "Annals of Software Engineering",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Vaclav Rajlich",
+            "id": "2114898780",
+            "org": "Department of Computer Science, Wayne State University, Detroit, MI 48202, USA E-mail: [email protected] cs.wayne.edu#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Resource-oriented architecture",
+        "Goal-Driven Software Development Process",
+        "Component-based software engineering",
+        "Backporting",
+        "Software design description",
+        "Software construction",
+        "Software framework",
+        "Computer science",
+        "Real-time computing",
+        "Software sizing"
+    ],
+    "references": [
+        "1504621482",
+        "1977752428",
+        "1997361857",
+        "2000688144",
+        "2027929932",
+        "2036166252",
+        "2096937604",
+        "2097997737",
+        "2101752312",
+        "2108767793",
+        "2116243202",
+        "2134119432",
+        "2148868862",
+        "2156748816",
+        "2156812359",
+        "2159765281",
+        "2505127479"
+    ]
+}

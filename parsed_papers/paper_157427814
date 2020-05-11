@@ -1,0 +1,36 @@
+{
+    "id": "157427814",
+    "title": "Foundations of probabilistic logic",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "H. Guggenheimer",
+            "id": "2664240691",
+            "org": "Polytechnic University, Farmingdale, NY#TAB#"
+        },
+        {
+            "name": "R. S. Freedman",
+            "id": "2160973744",
+            "org": "Polytechnic University, Farmingdale, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Probabilistic CTL",
+        "Machine learning",
+        "Artificial intelligence",
+        "Dynamic logic (modal logic)",
+        "Probabilistic logic",
+        "Computer science",
+        "Subjective logic",
+        "Probabilistic argumentation",
+        "Probabilistic logic network",
+        "Multimodal logic",
+        "Autoepistemic logic"
+    ],
+    "references": [
+        "13520770",
+        "22753833",
+        "151770326"
+    ]
+}

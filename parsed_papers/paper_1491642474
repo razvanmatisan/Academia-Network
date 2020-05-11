@@ -1,0 +1,31 @@
+{
+    "id": "1491642474",
+    "title": "Shorter Fitness Preserving Genetic Programs",
+    "venue": "european conference on artificial evolution",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Aniko Ekart",
+            "id": "1271428783",
+            "org": "Hungarian Academy of Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Mutation",
+        "Symbolic regression",
+        "Mathematical optimization",
+        "Genetic programming",
+        "Minimum description length",
+        "Operator (computer programming)",
+        "Genetic program",
+        "Machine learning",
+        "Mathematics",
+        "Artificial intelligence",
+        "Genetic operator"
+    ],
+    "references": [
+        "1576818901",
+        "2125055259",
+        "2155582960"
+    ]
+}

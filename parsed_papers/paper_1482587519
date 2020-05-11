@@ -1,0 +1,40 @@
+{
+    "id": "1482587519",
+    "title": "A Match Operation for Rule-Based Modular System Design",
+    "venue": "Annales Des Telecommunications",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Hartmut Ehrig",
+            "id": "692045707",
+            "org": "Technische Universitat Berlin"
+        },
+        {
+            "name": "Francesco Parisi-Presicce",
+            "id": "136759105",
+            "org": "Universita' degli Studi - L'Aquila"
+        }
+    ],
+    "fields_of_study": [
+        "Systems design",
+        "Theoretical computer science",
+        "Electronic engineering",
+        "Yet another",
+        "Derivation",
+        "Rule-based system",
+        "Modular design",
+        "Algebraic number",
+        "Composition (visual arts)",
+        "Interconnection",
+        "Mathematics"
+    ],
+    "references": [
+        "1532639618",
+        "1551368431",
+        "1601352365",
+        "1967975156",
+        "1984413137",
+        "2035301332",
+        "2120995755"
+    ]
+}

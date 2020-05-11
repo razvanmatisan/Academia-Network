@@ -1,0 +1,36 @@
+{
+    "id": "1578751095",
+    "title": "Concurrent METATEM as a Coordination Language",
+    "venue": "international conference on coordination models and languages",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Adam Kellett",
+            "id": "2006027838",
+            "org": "Manchester Metropolitan University"
+        },
+        {
+            "name": "Michael Fisher",
+            "id": "2096665950",
+            "org": "Manchester Metropolitan University"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Notation",
+        "Asynchronous communication",
+        "Computer science",
+        "Distributed computing",
+        "Safety property",
+        "Message passing",
+        "Reactive system",
+        "Atomic formula",
+        "Temporal logic"
+    ],
+    "references": [
+        "1481627653",
+        "2125814724",
+        "2133939266",
+        "2178771565"
+    ]
+}

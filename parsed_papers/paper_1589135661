@@ -1,0 +1,36 @@
+{
+    "id": "1589135661",
+    "title": "Scheduling for Parallel Supercomputing: A Historical Perspective of Achievable Utilization",
+    "venue": "job scheduling strategies for parallel processing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "James Patton Jones",
+            "id": "2106728085",
+            "org": "NASA Ames Research Center"
+        },
+        {
+            "name": "Bill Nitzberg",
+            "id": "2310488852",
+            "org": "NASA Ames Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Computer science",
+        "Real-time computing",
+        "Intel Paragon",
+        "Scheduling (computing)",
+        "Parallel computing",
+        "Workload",
+        "Intel iPSC",
+        "Software",
+        "Resource allocation",
+        "Supercomputer"
+    ],
+    "references": [
+        "1487076132",
+        "1605746882",
+        "2160982301"
+    ]
+}

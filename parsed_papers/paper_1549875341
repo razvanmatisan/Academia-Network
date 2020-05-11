@@ -1,0 +1,24 @@
+{
+    "id": "1549875341",
+    "title": "Knowledge-based feature generation",
+    "venue": "international conference on machine learning",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "James P. Callan",
+            "id": "2017816310",
+            "org": "Department of Computer and Information Science, University of Massachusetts, Amherst, MA 01003"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Knowledge base",
+        "Instance-based learning",
+        "Natural language processing",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Search problem",
+        "Computer science"
+    ],
+    "references": []
+}

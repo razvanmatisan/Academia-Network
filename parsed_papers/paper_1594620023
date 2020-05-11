@@ -1,0 +1,35 @@
+{
+    "id": "1594620023",
+    "title": "Linear Radiosity with Error Estimation",
+    "venue": "eurographics symposium on rendering techniques",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Sumanta N. Pattanaik",
+            "id": "2307074447",
+            "org": "Campus Universitaire de Beaulieu"
+        },
+        {
+            "name": "Kadi Bouatouch",
+            "id": "163475943",
+            "org": "Campus Universitaire de Beaulieu"
+        }
+    ],
+    "fields_of_study": [
+        "Statistics",
+        "Mathematical optimization",
+        "Kernel (statistics)",
+        "Computer vision",
+        "Artificial intelligence",
+        "Kernel (linear algebra)",
+        "Upper and lower bounds",
+        "Computer science",
+        "Integral equation",
+        "Radiosity (computer graphics)"
+    ],
+    "references": [
+        "1964020871",
+        "2054742422",
+        "2165608046"
+    ]
+}

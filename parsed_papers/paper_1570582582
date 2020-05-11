@@ -1,0 +1,44 @@
+{
+    "id": "1570582582",
+    "title": "A Ground-Truth Training Set for Hierarchical Clustering in Content-Based Image Retrieval",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Dionysius P. Huijsmans",
+            "id": "1999250505",
+            "org": "Leiden University"
+        },
+        {
+            "name": "Nicu Sebe",
+            "id": "66820806",
+            "org": "Leiden University"
+        },
+        {
+            "name": "Michael S. Lew",
+            "id": "1988328990",
+            "org": "Leiden University"
+        }
+    ],
+    "fields_of_study": [
+        "Digital image",
+        "Content-based image retrieval",
+        "Cluster analysis",
+        "Hierarchical clustering",
+        "Information retrieval",
+        "Contextual image classification",
+        "Search engine indexing",
+        "Image retrieval",
+        "Computer vision",
+        "Indexation",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1504519446",
+        "1513194732",
+        "1517765948",
+        "2141807666",
+        "2296661036"
+    ]
+}

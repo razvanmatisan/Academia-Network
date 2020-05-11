@@ -1,0 +1,49 @@
+{
+    "id": "1496652900",
+    "title": "A decision fusion system across time and classifiers for audio-visual person identification",
+    "venue": "CLEaR",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Andreas Stergiou",
+            "id": "2465784993",
+            "org": "Athens Information Technology, Autonomic and Grid Computing, Peania, Greece#TAB#"
+        },
+        {
+            "name": "Aristodemos Pnevmatikakis",
+            "id": "2277496639",
+            "org": "Athens Information Technology, Autonomic and Grid Computing, Peania, Greece#TAB#"
+        },
+        {
+            "name": "Lazaros Polymenakos",
+            "id": "2247737459",
+            "org": "Athens Information Technology, Autonomic and Grid Computing, Peania, Greece#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Linear subspace",
+        "Speech recognition",
+        "Linear discriminant analysis",
+        "Mel-frequency cepstrum",
+        "Gaussian",
+        "Principal component analysis",
+        "Mixture model",
+        "Computer science",
+        "Information technology",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Facial recognition system"
+    ],
+    "references": [
+        "206961783",
+        "1580172038",
+        "1985809919",
+        "2024677982",
+        "2046399019",
+        "2121647436",
+        "2129120544",
+        "2137659841",
+        "2158275940",
+        "2166185428"
+    ]
+}

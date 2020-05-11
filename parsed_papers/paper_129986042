@@ -1,0 +1,50 @@
+{
+    "id": "129986042",
+    "title": "Distant Supervision Learning of DBPedia Relations",
+    "venue": "text, speech and dialogue",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Marcin Zajac",
+            "id": "2504888565",
+            "org": "University of Warsaw"
+        },
+        {
+            "name": "Marcin Zajac",
+            "id": "2504888565",
+            "org": "University of Warsaw"
+        },
+        {
+            "name": "Adam Przepiorkowski",
+            "id": "68139510",
+            "org": "Polish Academy of Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Speech recognition",
+        "Information retrieval",
+        "Natural language processing",
+        "Artificial intelligence",
+        "Computer science",
+        "Training set",
+        "Classifier (linguistics)",
+        "Ontology",
+        "Semantic Web",
+        "Extractor",
+        "Information extraction",
+        "Data mining",
+        "Sentence"
+    ],
+    "references": [
+        "1586197708",
+        "1604644367",
+        "1623072288",
+        "1843515729",
+        "1854866626",
+        "2107598941",
+        "2127315730",
+        "2146304342",
+        "2147880316",
+        "2161494021"
+    ]
+}

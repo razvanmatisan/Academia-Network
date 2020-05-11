@@ -1,0 +1,40 @@
+{
+    "id": "1583529081",
+    "title": "Inverse Direct Lighting with a Monte Carlo Method and Declarative Modelling",
+    "venue": "international conference on computational science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Vincent Jolivet",
+            "id": "2485149345",
+            "org": "Laboratoire MSI"
+        },
+        {
+            "name": "Dimitri Plemenos",
+            "id": "1976966031",
+            "org": "Laboratoire MSI"
+        },
+        {
+            "name": "Patrick Poulingeas",
+            "id": "50567547",
+            "org": "Laboratoire MSI"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Image processing",
+        "Computer graphics",
+        "Simulation",
+        "Monte Carlo method",
+        "Computer science",
+        "Declarative programming",
+        "Distributed computing",
+        "Radiosity (computer graphics)"
+    ],
+    "references": [
+        "2001992657",
+        "2061290236",
+        "2093238777",
+        "2160001123"
+    ]
+}

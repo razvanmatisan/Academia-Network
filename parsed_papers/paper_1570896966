@@ -1,0 +1,36 @@
+{
+    "id": "1570896966",
+    "title": "Anchoring: a new approach to handling indeterminate location in GIS",
+    "venue": "conference on spatial information theory",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Antony Galton",
+            "id": "2060602591",
+            "org": "University of Exeter, UK#TAB#"
+        },
+        {
+            "name": "James Hood",
+            "id": "2155430012",
+            "org": "University of Exeter, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Anchoring",
+        "Data mining",
+        "Machine learning",
+        "Discrete mathematics",
+        "Information space",
+        "Fuzzy set",
+        "Complete information",
+        "Geographic information system",
+        "Embedding",
+        "Indeterminate",
+        "Rough set",
+        "Mathematics"
+    ],
+    "references": [
+        "2340020088"
+    ]
+}

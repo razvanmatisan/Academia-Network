@@ -1,0 +1,48 @@
+{
+    "id": "1571217695",
+    "title": "Moral Sentiments in Multi-Agent Systems",
+    "venue": "intelligent agents",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Ana L. C. Bazzan",
+            "id": "97012439",
+            "org": "University of Massachusetts at Amherst"
+        },
+        {
+            "name": "Rafael H. Bordini",
+            "id": "2780077149",
+            "org": "University College London"
+        },
+        {
+            "name": "John A. Campbell",
+            "id": "2107953860",
+            "org": "University College London"
+        }
+    ],
+    "fields_of_study": [
+        "Social group",
+        "Knowledge management",
+        "Social relation",
+        "Management science",
+        "Adaptive system",
+        "Metaphor",
+        "Autonomy",
+        "Multi-agent system",
+        "Dilemma",
+        "Computer science",
+        "Artificial intelligence",
+        "Phenomenon"
+    ],
+    "references": [
+        "96104529",
+        "1479703713",
+        "1521693578",
+        "1522424878",
+        "1596975114",
+        "1604607519",
+        "1615595151",
+        "1993584577",
+        "2104506870"
+    ]
+}

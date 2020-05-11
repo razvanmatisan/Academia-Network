@@ -1,0 +1,41 @@
+{
+    "id": "1554348720",
+    "title": "An Auxiliary Variational Method",
+    "venue": "international conference on neural information processing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Felix Agakov",
+            "id": "1977733842",
+            "org": "University of Edinburgh"
+        },
+        {
+            "name": "David Barber",
+            "id": "2524043411",
+            "org": "IDIAP"
+        }
+    ],
+    "fields_of_study": [
+        "Normalization (statistics)",
+        "Machine learning",
+        "Discrete mathematics",
+        "Mixture model",
+        "Upper and lower bounds",
+        "Variational method",
+        "Artificial intelligence",
+        "Approximate inference",
+        "Mixture theory",
+        "Graphical model",
+        "Mathematics",
+        "Mean field theory"
+    ],
+    "references": [
+        "78511820",
+        "1525921156",
+        "1528056001",
+        "1592590442",
+        "1834935568",
+        "2109787716",
+        "2152895903"
+    ]
+}

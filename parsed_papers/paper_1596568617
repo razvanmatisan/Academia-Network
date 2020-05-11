@@ -1,0 +1,35 @@
+{
+    "id": "1596568617",
+    "title": "Epistasis Variance: A Viewpoint on GA-Hardness",
+    "venue": "foundations of genetic algorithms",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Yuval Davidor",
+            "id": "2308611352",
+            "org": "Department of Applied Mathematics and Computer Science, The Weizmann Institute, Rehovot 76100, Israel"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence",
+        "Genetic algorithm",
+        "Regression analysis",
+        "Population",
+        "Statistic",
+        "Epistasis and functional genomics",
+        "Epistasis",
+        "Analogy",
+        "Mathematics",
+        "Problem domain"
+    ],
+    "references": [
+        "64702643",
+        "1487947538",
+        "1918014307",
+        "2123950145",
+        "2156728410",
+        "2726121458"
+    ]
+}

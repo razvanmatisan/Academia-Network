@@ -1,0 +1,47 @@
+{
+    "id": "1560684672",
+    "title": "On the discovery of preferred work practice through business process variants",
+    "venue": "international conference on conceptual modeling",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Ruopeng Lu",
+            "id": "2099437114",
+            "org": "School of Information Technology and Electrical Engineering, The University of Queensland, Brisbane, Australia#TAB#"
+        },
+        {
+            "name": "Shazia Wasim Sadiq",
+            "id": "2122552307",
+            "org": "School of Information Technology and Electrical Engineering, The University of Queensland, Brisbane, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Business process",
+        "Data mining",
+        "Business process discovery",
+        "Computer science",
+        "Process mining",
+        "Business Process Model and Notation",
+        "Process modeling",
+        "Business process modeling",
+        "Artifact-centric business process model",
+        "Process management",
+        "Business process management"
+    ],
+    "references": [
+        "1480278719",
+        "1495185658",
+        "1496688482",
+        "1527113951",
+        "1548707926",
+        "1586642858",
+        "2082124373",
+        "2089975742",
+        "2134937538",
+        "2135782794",
+        "2139889174",
+        "2152743695",
+        "2524827686"
+    ]
+}

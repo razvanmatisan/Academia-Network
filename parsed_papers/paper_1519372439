@@ -1,0 +1,49 @@
+{
+    "id": "1519372439",
+    "title": "Lower bound Bayesian networks: an efficient inference of lower bounds on probability distributions in Bayesian networks",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Daniel Andrade",
+            "id": "2102480056",
+            "org": "University of Tokyo, Bunkyo-ku, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Bernhard Sick",
+            "id": "2077178283",
+            "org": "University of Passau, Passau, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Machine learning",
+        "Inference",
+        "Bayesian statistics",
+        "Artificial intelligence",
+        "Probability distribution",
+        "Conditional probability",
+        "Upper and lower bounds",
+        "Bayesian network",
+        "Frequentist inference",
+        "Computational complexity theory",
+        "Mathematics"
+    ],
+    "references": [
+        "196450571",
+        "1514735861",
+        "1548084629",
+        "1580291728",
+        "1625152357",
+        "1765203981",
+        "1896018472",
+        "1999901857",
+        "2029800614",
+        "2056687315",
+        "2065131135",
+        "2110241771",
+        "2145550984",
+        "2159080219",
+        "2162273094"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1597609424",
+    "title": "Tools for Teacher Participation in ITS Design",
+    "venue": "intelligent tutoring systems",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Tom Murray",
+            "id": "2236173192",
+            "org": "University of Massachusetts"
+        },
+        {
+            "name": "Beverly Park Woolf",
+            "id": "690524485",
+            "org": "University of Massachusetts"
+        }
+    ],
+    "fields_of_study": [
+        "Usability",
+        "Knowledge management",
+        "Participatory design",
+        "Subject-matter expert",
+        "Knowledge acquisition",
+        "Rapid prototyping",
+        "Computer science",
+        "Intelligent tutoring system",
+        "Design process",
+        "TUTOR"
+    ],
+    "references": [
+        "1969093842",
+        "2039122665",
+        "2060648706"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "1555104274",
+    "title": "Interval Temporal Logic and Star-Free Expressions",
+    "venue": "computer science logic",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "D. Lippert",
+            "id": "2712728223",
+            "org": "Lehrstuhl fur Informatik II"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Propositional variable",
+        "Interval temporal logic",
+        "Computation tree logic",
+        "Signature (logic)",
+        "Dynamic logic (modal logic)",
+        "Description logic",
+        "First-order logic",
+        "Linear temporal logic",
+        "Algorithm",
+        "Mathematics"
+    ],
+    "references": [
+        "1588926042",
+        "1987027130",
+        "2013085432",
+        "2023808162"
+    ]
+}

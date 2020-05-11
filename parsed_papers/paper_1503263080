@@ -1,0 +1,38 @@
+{
+    "id": "1503263080",
+    "title": "Dynamic prioritization of complex agents in distributed constraint satisfaction problems",
+    "venue": "national conference on artificial intelligence",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Aaron A. Armstrong",
+            "id": "2156744397",
+            "org": "Dept. of Electrical Engineering and Computer Science, University of Michigan, Ann Arbor, MI#TAB#"
+        },
+        {
+            "name": "Edmund H. Durfee",
+            "id": "2057957737",
+            "org": "Dept. of Electrical Engineering and Computer Science, University of Michigan, Ann Arbor, MI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Heuristic",
+        "Constraint satisfaction dual problem",
+        "Genetic algorithm",
+        "Mathematical optimization",
+        "Prioritization",
+        "Local variable",
+        "Artificial intelligence",
+        "Constraint satisfaction problem",
+        "Cooperative distributed problem solving",
+        "Computer science",
+        "Heuristics"
+    ],
+    "references": [
+        "4326551",
+        "20083821",
+        "2132020706",
+        "2157740753"
+    ]
+}

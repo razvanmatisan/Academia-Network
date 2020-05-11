@@ -1,0 +1,38 @@
+{
+    "id": "138491487",
+    "title": "Utilizing knowledge-base semantics in graph-based algorithms",
+    "venue": "national conference on artificial intelligence",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Adnan Darwiche",
+            "id": "457026902",
+            "org": "Rockwell Science Center, Thousand Oaks, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Clique graph",
+        "Graph property",
+        "Artificial intelligence",
+        "Machine learning",
+        "Mathematical optimization",
+        "Intersection number (graph theory)",
+        "Clique (graph theory)",
+        "Computer science",
+        "Algorithm",
+        "Tree structure",
+        "Triangulation (social science)",
+        "Simplex graph",
+        "Block graph"
+    ],
+    "references": [
+        "8184439",
+        "143545926",
+        "1587990862",
+        "2035318784",
+        "2069683773",
+        "2129033823",
+        "2159080219",
+        "2163170255"
+    ]
+}

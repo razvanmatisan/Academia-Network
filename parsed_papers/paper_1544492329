@@ -1,0 +1,39 @@
+{
+    "id": "1544492329",
+    "title": "Universal Segmentation of Text with the Sumo Formalism",
+    "venue": "international conference natural language processing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Julien Quint",
+            "id": "2284623141",
+            "org": "Universite Joseph Fourier"
+        },
+        {
+            "name": "Julien Quint",
+            "id": "2284623141",
+            "org": "Universite Joseph Fourier"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language",
+        "Formalism (philosophy)",
+        "Word recognition",
+        "Natural language processing",
+        "Segmentation-based object categorization",
+        "Segmentation",
+        "Paragraph",
+        "Computational linguistics",
+        "Sentence",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1490831147",
+        "1538745441",
+        "1558333962",
+        "1847536016",
+        "1860547055",
+        "2026358125"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1489099460",
+    "title": "Knowledge processing under information fidelity",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Wilhelm Rodder",
+            "id": "2056295772",
+            "org": "FernUniversitat Gesamthochschule in Hagen, Hagen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Inference",
+        "Artificial intelligence",
+        "Machine learning",
+        "Knowledge base",
+        "Propositional variable",
+        "Complete information",
+        "Probability distribution",
+        "Fidelity",
+        "Knowledge-based systems",
+        "Knowledge acquisition",
+        "Computer science"
+    ],
+    "references": [
+        "1576529139",
+        "1992373581",
+        "2003373550",
+        "2019276268",
+        "2041404167",
+        "2052958516",
+        "2136661655",
+        "2159080219"
+    ]
+}

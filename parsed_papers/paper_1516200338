@@ -1,0 +1,47 @@
+{
+    "id": "1516200338",
+    "title": "Dimension-Adaptive Bounds on Compressive FLD Classification",
+    "venue": "algorithmic learning theory",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Ata Kaban",
+            "id": "2082255270",
+            "org": "The University of Birmingham"
+        },
+        {
+            "name": "Robert J. Durrant",
+            "id": "2145776332",
+            "org": "The University of Birmingham"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Generalization",
+        "Data point",
+        "Computer science",
+        "Linear discriminant analysis",
+        "Dimensionality reduction",
+        "Intrinsic dimension",
+        "Ambient space",
+        "Curse of dimensionality",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1516726196",
+        "1956647075",
+        "1972065964",
+        "2024050645",
+        "2030499717",
+        "2045390367",
+        "2088658556",
+        "2108430336",
+        "2117756735",
+        "2131172946",
+        "2142766915",
+        "2146182710",
+        "2187517819",
+        "2296616510"
+    ]
+}

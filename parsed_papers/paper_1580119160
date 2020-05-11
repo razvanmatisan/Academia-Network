@@ -1,0 +1,43 @@
+{
+    "id": "1580119160",
+    "title": "Exploiting Data Value Prediction in Compiler Based Thread Formation",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Anasua Bhowmik",
+            "id": "2302874190",
+            "org": "Computer Science Department, USA"
+        },
+        {
+            "name": "Manoj Franklin",
+            "id": "2116729989",
+            "org": "University of Maryland"
+        }
+    ],
+    "fields_of_study": [
+        "Speculative multithreading",
+        "Execution model",
+        "Parallel computing",
+        "Profiling (computer programming)",
+        "Compiler correctness",
+        "Data structure",
+        "Distributed computing",
+        "Real-time computing",
+        "Data dependency",
+        "Computer science",
+        "Loop optimization",
+        "Compiler"
+    ],
+    "references": [
+        "1819476060",
+        "1920053666",
+        "2002219828",
+        "2026585559",
+        "2029479717",
+        "2106921346",
+        "2112438883",
+        "2122545654",
+        "2163488221"
+    ]
+}

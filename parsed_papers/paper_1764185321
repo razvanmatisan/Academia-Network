@@ -1,0 +1,54 @@
+{
+    "id": "1764185321",
+    "title": "Empirical Evaluation of the Parallel Distribution Sweeping Framework on Multicore Architectures",
+    "venue": "european symposium on algorithms",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Deepak Ajwani",
+            "id": "242346631",
+            "org": "Bell Laboratories Ireland"
+        },
+        {
+            "name": "Nodari Sitchinava",
+            "id": "132654281",
+            "org": "Karlsruhe Institute of Technology"
+        },
+        {
+            "name": "Nodari Sitchinava",
+            "id": "132654281",
+            "org": "Karlsruhe Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Auxiliary memory",
+        "Parallel computing",
+        "CPU cache",
+        "Computer science",
+        "Multi-core processor",
+        "Translation lookaside buffer",
+        "Distributed computing",
+        "Divide and conquer algorithms",
+        "Software",
+        "Shared memory"
+    ],
+    "references": [
+        "1513366080",
+        "1874694348",
+        "1885286792",
+        "1972200437",
+        "1979457157",
+        "2011346928",
+        "2026842524",
+        "2032895458",
+        "2038142281",
+        "2050315502",
+        "2062959712",
+        "2117098610",
+        "2121820647",
+        "2127902590",
+        "2154995125",
+        "2711285122"
+    ]
+}

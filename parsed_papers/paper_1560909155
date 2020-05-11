@@ -1,0 +1,36 @@
+{
+    "id": "1560909155",
+    "title": "Query Processing in Quantitative Logic Programming",
+    "venue": "conference on automated deduction",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "V. S. Subrahmanian",
+            "id": "2261167843",
+            "org": "Syracuse University"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Horn clause",
+        "Discrete mathematics",
+        "Soundness",
+        "Computer science",
+        "Description logic",
+        "Axiomatic semantics",
+        "Sargable",
+        "Operational semantics",
+        "Godel's completeness theorem",
+        "Well-founded semantics"
+    ],
+    "references": [
+        "35631723",
+        "1533675185",
+        "1980589711",
+        "2003531456",
+        "2056546032",
+        "2061490938",
+        "2111353076",
+        "2142616542"
+    ]
+}

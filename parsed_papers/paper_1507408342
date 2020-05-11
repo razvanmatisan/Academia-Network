@@ -1,0 +1,45 @@
+{
+    "id": "1507408342",
+    "title": "Social simulation for ami systems engineering",
+    "venue": "hybrid artificial intelligence systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Teresa Garcia-Valverde",
+            "id": "2002825659",
+            "org": "University of Murcia#TAB#"
+        },
+        {
+            "name": "Emilio Serrano",
+            "id": "2111156834",
+            "org": "University of Murcia#TAB#"
+        },
+        {
+            "name": "Juan A. Botia",
+            "id": "742781909",
+            "org": "University of Murcia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Architecture",
+        "Social simulation",
+        "Ubiquitous computing",
+        "Simulation",
+        "Scenario testing",
+        "Context model",
+        "Computer science",
+        "Systems engineering",
+        "Ambient intelligence"
+    ],
+    "references": [
+        "197367483",
+        "1515685044",
+        "1520358457",
+        "1528593673",
+        "1589557444",
+        "2035881371",
+        "2064916553",
+        "2102360367",
+        "2112332804"
+    ]
+}

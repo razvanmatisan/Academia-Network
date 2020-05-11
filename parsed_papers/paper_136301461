@@ -1,0 +1,28 @@
+{
+    "id": "136301461",
+    "title": "A shared process model for independent and synchronized e-business transactions",
+    "venue": "Journal of Intelligent Manufacturing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Namkyu Park",
+            "id": "2088317105",
+            "org": "Manufacturing and Information Technology Lab., Korea Institute of Industrial Technology, Korea"
+        }
+    ],
+    "fields_of_study": [
+        "Business process discovery",
+        "Business model",
+        "Engineering",
+        "Philosophy of business",
+        "Artifact-centric business process model",
+        "Line of business",
+        "Process management",
+        "Business rule",
+        "Business case",
+        "New business development"
+    ],
+    "references": [
+        "1506832546"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "166399188",
+    "title": "Quantified Combinatorial Optimization",
+    "venue": "A Quarterly Journal of Operations Research",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Thorsten Ederer",
+            "id": "2061397444",
+            "org": "TU Darmstadt"
+        },
+        {
+            "name": "Ulf Lorenz",
+            "id": "1894587577",
+            "org": "TU Darmstadt"
+        },
+        {
+            "name": "Thomas Opfer",
+            "id": "1994221656",
+            "org": "TU Darmstadt"
+        }
+    ],
+    "fields_of_study": [
+        "Integer programming",
+        "Discrete mathematics",
+        "Mathematical optimization",
+        "Combinatorial optimization",
+        "Scheduling (computing)",
+        "Complexity class",
+        "Mathematics",
+        "PSPACE",
+        "Optimization problem"
+    ],
+    "references": [
+        "1481283420",
+        "1521425323",
+        "1539423401",
+        "1562383695",
+        "1636491287",
+        "1994941241",
+        "2076947644"
+    ]
+}

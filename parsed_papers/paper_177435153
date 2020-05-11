@@ -1,0 +1,46 @@
+{
+    "id": "177435153",
+    "title": "Oz: a programming language for multi-agent systems",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Martin Henz",
+            "id": "2019494201",
+            "org": "German Research Center for Artificial Intelligence, Saarbrucken, Germany#TAB#"
+        },
+        {
+            "name": "Gert Smolka",
+            "id": "2279428045",
+            "org": "German Research Center for Artificial Intelligence, Saarbrucken, Germany#TAB#"
+        },
+        {
+            "name": "Jorg Wurtz",
+            "id": "2116717319",
+            "org": "German Research Center for Artificial Intelligence, Saarbrucken, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint programming",
+        "Functional logic programming",
+        "Inductive programming",
+        "Concurrent constraint logic programming",
+        "Fifth-generation programming language",
+        "Constraint logic programming",
+        "Logic programming",
+        "Programming language",
+        "Computer science",
+        "Theoretical computer science",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "30151932",
+        "153312436",
+        "1545679392",
+        "1979966822",
+        "2003990235",
+        "2004256601",
+        "2053384008",
+        "2142423074"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "1598675378",
+    "title": "Equivalence transformations of PrT-nets",
+    "venue": "applications and theory of petri nets",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Hartmann J. Genrich",
+            "id": "2016686696",
+            "org": "Institut fur Methodische Grundlagen Gesellschaft fur Mathematik und Datenverarbeitung"
+        }
+    ],
+    "fields_of_study": [
+        "Systems modeling",
+        "Equivalence (measure theory)",
+        "Discrete mathematics",
+        "Stochastic Petri net",
+        "System model",
+        "Petri net",
+        "Predicate (grammar)",
+        "Rewrite rule",
+        "Theoretical computer science",
+        "Mathematics"
+    ],
+    "references": [
+        "1997422892",
+        "2173042133",
+        "2176296250"
+    ]
+}

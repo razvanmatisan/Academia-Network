@@ -1,0 +1,38 @@
+{
+    "id": "1572222745",
+    "title": "Cross-modality medical image detection and segmentation by transfer learning of shapel priors",
+    "venue": "international symposium on biomedical imaging",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Yefeng Zheng",
+            "id": "2110607565",
+            "org": "Imaging and Computer Vision, Siemens Corporate Technology, Princeton, NJ, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Image segmentation",
+        "Surgical planning",
+        "Medical imaging",
+        "Robustness (computer science)",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Market segmentation",
+        "Segmentation-based object categorization",
+        "Computer science",
+        "Scale-space segmentation",
+        "Prior probability"
+    ],
+    "references": [
+        "14148344",
+        "1590690596",
+        "1988753258",
+        "2038952578",
+        "2110872054",
+        "2128409098",
+        "2129390138",
+        "2139894056",
+        "2165698076"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "1491526799",
+    "title": "The CHIP System and Its Applications",
+    "venue": "principles and practice of constraint programming",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Helmut Simonis",
+            "id": "2056506989",
+            "org": "COSYTEC SA"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Discrete mathematics",
+        "Constraint (mathematics)",
+        "Constraint programming",
+        "Computer science",
+        "Constraint satisfaction dual problem",
+        "Concurrent constraint logic programming",
+        "Binary constraint",
+        "Constraint satisfaction problem",
+        "Theoretical computer science",
+        "Constraint logic programming",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "65937437"
+    ]
+}

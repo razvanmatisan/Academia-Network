@@ -1,0 +1,46 @@
+{
+    "id": "1593936973",
+    "title": "A Language for Reliable Service Composition",
+    "venue": "conference on current trends in theory and practice of informatics",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Qingjun Xiao",
+            "id": "2305879830",
+            "org": "Distributed Computing Center of Shanghai JiaoTong University, 200240,#TAB#"
+        },
+        {
+            "name": "Ruonan Rao",
+            "id": "2717433316",
+            "org": "Distributed Computing Center of Shanghai JiaoTong University, 200240,#TAB#"
+        },
+        {
+            "name": "Jinyuan You",
+            "id": "2632940397",
+            "org": "Distributed Computing Center of Shanghai JiaoTong University, 200240,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Control flow",
+        "Long-running transaction",
+        "Business process",
+        "Formal language",
+        "Transaction processing",
+        "Business Process Execution Language",
+        "Database transaction",
+        "Computer science",
+        "Service-oriented architecture",
+        "Real-time computing"
+    ],
+    "references": [
+        "1500859230",
+        "1608333380",
+        "1974168649",
+        "2053322049",
+        "2110425399",
+        "2153074919",
+        "2167399349",
+        "2170151971",
+        "2460103410"
+    ]
+}

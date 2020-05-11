@@ -1,0 +1,31 @@
+{
+    "id": "1551677550",
+    "title": "Linear Algebraic Techniques for Place/Transition Nets",
+    "venue": "Advances in Computers",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Kurt Lautenbach",
+            "id": "2777919514",
+            "org": "University of Bonn"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Theoretical computer science",
+        "Invariant theory",
+        "Discrete mathematics",
+        "Linear algebra",
+        "Real algebraic geometry",
+        "Homogeneous differential equation",
+        "Differential algebraic geometry",
+        "Algebra",
+        "Algebraic cycle",
+        "System of linear equations",
+        "Dimension of an algebraic variety"
+    ],
+    "references": [
+        "1591890109",
+        "1993742654"
+    ]
+}

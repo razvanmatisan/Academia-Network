@@ -1,0 +1,38 @@
+{
+    "id": "1517801718",
+    "title": "The Continuous-Function Attribute Class in Decision Tree Induction",
+    "venue": "discovery science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Michael Boronowsky",
+            "id": "2500446104",
+            "org": "University of Bremen, FB3"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Continuous function",
+        "Decision tree",
+        "Artificial intelligence",
+        "Computational geometry",
+        "Knowledge representation and reasoning",
+        "Mathematical morphology",
+        "Incremental decision tree",
+        "Piecewise linear function",
+        "Mathematics",
+        "Heuristics"
+    ],
+    "references": [
+        "1513366687",
+        "1588516554",
+        "1597910678",
+        "1983699268",
+        "2004692999",
+        "2032427901",
+        "2042205666",
+        "2125055259",
+        "2136000097",
+        "2149706766"
+    ]
+}

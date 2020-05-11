@@ -1,0 +1,29 @@
+{
+    "id": "1545790954",
+    "title": "Embeddings of Treelike Graphs into 2-Dimensional Meshes",
+    "venue": "workshop on graph theoretic concepts in computer science",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Peter Zienicke",
+            "id": "2569288866",
+            "org": "Humboldt-Universitat zu Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Discrete mathematics",
+        "Graph",
+        "Binary tree",
+        "Computer science",
+        "Graph embedding",
+        "Polygon mesh"
+    ],
+    "references": [
+        "1595216699",
+        "2097864833",
+        "2109184897",
+        "2113962625",
+        "2137008381"
+    ]
+}

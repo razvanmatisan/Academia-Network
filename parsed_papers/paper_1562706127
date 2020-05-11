@@ -1,0 +1,35 @@
+{
+    "id": "1562706127",
+    "title": "A Note on Symmetry Heuristics in SEM",
+    "venue": "conference on automated deduction",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Thierry Boy de la Tour",
+            "id": "706683120",
+            "org": "LEIBNIZ - IMAG"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetry group",
+        "Discrete mathematics",
+        "Algorithm",
+        "Bijection",
+        "Simple group",
+        "Group action",
+        "First-order logic",
+        "Partial evaluation",
+        "Group theory",
+        "Heuristics",
+        "Mathematics"
+    ],
+    "references": [
+        "130655838",
+        "1488799655",
+        "1522618089",
+        "1524949188",
+        "2012294154",
+        "2033561430",
+        "2148139859"
+    ]
+}

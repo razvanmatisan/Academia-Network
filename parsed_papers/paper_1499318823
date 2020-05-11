@@ -1,0 +1,35 @@
+{
+    "id": "1499318823",
+    "title": "ASPARAGOS, A Parallel Genetic Algorithm and Population Genetics",
+    "venue": "WOPPLOT '89 Workshop on Evolutionary Models and Strategies, Workshop on Parallel Processing: Logic, Organization, and Technology: Parallelism, Learning, Evolution",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Martina Gorges-Schleuter",
+            "id": "2692225880",
+            "org": "GMD"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Asynchronous communication",
+        "Genetic algorithm",
+        "Population-based incremental learning",
+        "Cultural algorithm",
+        "Population size",
+        "Population",
+        "Evolutionary biology",
+        "Population genetics",
+        "Travelling salesman problem",
+        "Computer science"
+    ],
+    "references": [
+        "1639032689",
+        "1787544972",
+        "2028569720",
+        "2029036160",
+        "2042986967",
+        "2051682049",
+        "2156698647"
+    ]
+}

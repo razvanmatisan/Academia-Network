@@ -1,0 +1,39 @@
+{
+    "id": "1567417592",
+    "title": "Integrating Knowledge Modelling in Business Process Management",
+    "venue": "european conference on information systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Giorgos Papavassiliou",
+            "id": "2092426398",
+            "org": "National Technical University of Athens"
+        },
+        {
+            "name": "Gregoris Mentzas",
+            "id": "1992416901",
+            "org": "National Technical University of Athens"
+        },
+        {
+            "name": "Andreas Abecker",
+            "id": "280914458",
+            "org": "University of Kaiserslautern"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Computer science",
+        "Event-driven process chain",
+        "Business process",
+        "Process mining",
+        "Business process modeling",
+        "Management science",
+        "IDEF3",
+        "Business Process Model and Notation",
+        "Business process management",
+        "Artifact-centric business process model"
+    ],
+    "references": [
+        "79784026"
+    ]
+}

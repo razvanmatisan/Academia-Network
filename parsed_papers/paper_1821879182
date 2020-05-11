@@ -1,0 +1,38 @@
+{
+    "id": "1821879182",
+    "title": "The Scope and Evolution of Business Process Management",
+    "venue": "business process management",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Paul Harmon",
+            "id": "2658601919",
+            "org": "Business Process Trends"
+        }
+    ],
+    "fields_of_study": [
+        "Business process discovery",
+        "Business process",
+        "Systems engineering",
+        "Computer science",
+        "Business analysis",
+        "Process management",
+        "Business process modeling",
+        "Business process management",
+        "Artifact-centric business process model",
+        "Business process reengineering",
+        "New business development"
+    ],
+    "references": [
+        "151253694",
+        "1508866000",
+        "1509153160",
+        "1510377720",
+        "1559184734",
+        "1839693219",
+        "1971367047",
+        "2062107004",
+        "2166056089",
+        "2568081765"
+    ]
+}

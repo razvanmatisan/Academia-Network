@@ -1,0 +1,65 @@
+{
+    "id": "1582979556",
+    "title": "DeFacto: Language-Parametric Fact Extraction from Source Code",
+    "venue": "software language engineering",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Hendrikus J. S. Basten",
+            "id": "1488010472",
+            "org": "Centrum Wiskunde & Informatica, Amsterdam, The Netherlands NL-1090 GB#TAB#"
+        },
+        {
+            "name": "Paul Klint",
+            "id": "1983299346",
+            "org": "Centrum Wiskunde & Informatica, Amsterdam, The Netherlands NL-1090 GB#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Programming language",
+        "Declaration",
+        "Natural language processing",
+        "Control flow",
+        "Software analysis pattern",
+        "Computer science",
+        "Source code",
+        "KPI-driven code analysis",
+        "Theoretical computer science",
+        "Software",
+        "Parse tree",
+        "Context-free grammar"
+    ],
+    "references": [
+        "1521033571",
+        "1613525582",
+        "1660714679",
+        "1976218147",
+        "1981497408",
+        "1983711382",
+        "1986640084",
+        "2001448959",
+        "2005494927",
+        "2024310590",
+        "2025253701",
+        "2029722359",
+        "2043548135",
+        "2108354048",
+        "2109427294",
+        "2112940761",
+        "2121949189",
+        "2126871242",
+        "2127340092",
+        "2138225295",
+        "2139981182",
+        "2147751596",
+        "2148425758",
+        "2148711489",
+        "2149565551",
+        "2154940799",
+        "2157402204",
+        "2160708437",
+        "2165391259",
+        "2170178217"
+    ]
+}

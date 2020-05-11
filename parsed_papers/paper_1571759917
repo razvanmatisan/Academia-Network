@@ -1,0 +1,41 @@
+{
+    "id": "1571759917",
+    "title": "Theoretical foundation of algebraic optimization utilizing unnormalized relations",
+    "venue": "international conference on database theory",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Marc H. Scholl",
+            "id": "2573185490",
+            "org": "Technical University of Darmstadt"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Relational database",
+        "Relational calculus",
+        "Relational algebra",
+        "First normal form",
+        "Relational theory",
+        "Relational model",
+        "Conceptual schema",
+        "Joins",
+        "Mathematics"
+    ],
+    "references": [
+        "1511099157",
+        "1538721919",
+        "1600465201",
+        "1748956599",
+        "1943598411",
+        "1969375478",
+        "1975714036",
+        "1997499047",
+        "2005471433",
+        "2032386524",
+        "2054062314",
+        "2089781037",
+        "2110810394",
+        "2115822498"
+    ]
+}

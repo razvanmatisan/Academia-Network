@@ -1,0 +1,42 @@
+{
+    "id": "1608071358",
+    "title": "A Large Version of the Small Parsimony Problem",
+    "venue": "workshop on algorithms in bioinformatics",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jakob Fredslund",
+            "id": "297681097",
+            "org": "University of Aarhus"
+        },
+        {
+            "name": "Jotun Hein",
+            "id": "2789699263",
+            "org": "University of Oxford"
+        },
+        {
+            "name": "Tejs Scharling",
+            "id": "74407655",
+            "org": "University of Aarhus"
+        }
+    ],
+    "fields_of_study": [
+        "Pathological",
+        "Combinatorics",
+        "Subadditivity",
+        "Penalty method",
+        "Multiple sequence alignment",
+        "Exponential function",
+        "Mathematical optimization",
+        "Phylogenetic tree",
+        "Gap penalty",
+        "Affine transformation",
+        "Mathematics"
+    ],
+    "references": [
+        "1481686040",
+        "2062112417",
+        "2093190980",
+        "2120154580"
+    ]
+}

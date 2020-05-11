@@ -1,0 +1,37 @@
+{
+    "id": "110525654",
+    "title": "Visual security policy for the web",
+    "venue": "usenix conference on hot topics in security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Terri Oda",
+            "id": "2016903919",
+            "org": "Carleton Computer Security Laboratory, Ottawa, Ontario, Canada#TAB#"
+        },
+        {
+            "name": "Anil Somayaji",
+            "id": "1989101323",
+            "org": "Carleton Computer Security Laboratory, Ottawa, Ontario, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Web application security",
+        "Same-origin policy",
+        "Web development",
+        "Web modeling",
+        "Cross-site scripting",
+        "Web page",
+        "World Wide Web",
+        "Internet privacy",
+        "Web engineering",
+        "Content Security Policy",
+        "Computer science"
+    ],
+    "references": [
+        "1222699389",
+        "1737016141",
+        "2112459589",
+        "2122847456"
+    ]
+}

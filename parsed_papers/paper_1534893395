@@ -1,0 +1,36 @@
+{
+    "id": "1534893395",
+    "title": "Experiences with windows NT as a cluster computing platform for parallel computing",
+    "venue": "Cluster Computing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Markus Fischer",
+            "id": "2311656379",
+            "org": "University of California, San Diego, CA#TAB#"
+        },
+        {
+            "name": "Jack J. Dongarra",
+            "id": "288512535",
+            "org": "Mathematical Science Section, Oak Ridge National Laboratory, Oak Ridge, TN#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Desktop Window Manager",
+        "Microsoft Windows",
+        "Windows NT",
+        "Parallel computing",
+        "Commit charge",
+        "Server Message Block",
+        "Group Policy",
+        "Next-Generation Secure Computing Base",
+        "Operating system",
+        "Process Environment Block",
+        "Computer science"
+    ],
+    "references": [
+        "1521734293",
+        "2114182537",
+        "2138415632"
+    ]
+}

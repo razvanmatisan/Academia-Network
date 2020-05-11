@@ -1,0 +1,44 @@
+{
+    "id": "1508243930",
+    "title": "Towards automatic discovery of web portals",
+    "venue": "international semantic web conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Haibo Yu",
+            "id": "2477732458",
+            "org": "Graduate School of Information Science and Electrical Engineering, Kyushu University, Kasuga, Fukuoka, Japan#TAB#"
+        },
+        {
+            "name": "Tsunenori Mine",
+            "id": "2138039623",
+            "org": "Faculty of Information Science and Electrical Engineering, Kyushu University, Kasuga, Fukuoka, Japan#TAB#"
+        },
+        {
+            "name": "Makoto Amamiya",
+            "id": "2108495959",
+            "org": "Faculty of Information Science and Electrical Engineering, Kyushu University, Kasuga, Fukuoka, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Web standards",
+        "Web development",
+        "Web page",
+        "World Wide Web",
+        "Web modeling",
+        "Web service",
+        "Semantic Web Stack",
+        "Computer science",
+        "Enterprise portal",
+        "WS-Policy"
+    ],
+    "references": [
+        "189339405",
+        "1571057453",
+        "1986701285",
+        "2106429883",
+        "2160375412",
+        "2161536823"
+    ]
+}

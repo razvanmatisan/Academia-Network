@@ -1,0 +1,34 @@
+{
+    "id": "1553277444",
+    "title": "A semantic network of English: the mother of all WordNets",
+    "venue": "Computers and The Humanities",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Christiane Fellbaum",
+            "id": "2156989404",
+            "org": "Cognitive Science Laboratory, Princeton University, and Rider University, Princeton, USA"
+        }
+    ],
+    "fields_of_study": [
+        "WordNet",
+        "Linguistics",
+        "eXtended WordNet",
+        "Artificial intelligence",
+        "Semantic property",
+        "Natural language processing",
+        "Part of speech",
+        "Computer science",
+        "Semantic network",
+        "Lexical database",
+        "Lexicon",
+        "Polysemy"
+    ],
+    "references": [
+        "1515376537",
+        "1547269118",
+        "1555805532",
+        "2035717317",
+        "2065157922"
+    ]
+}

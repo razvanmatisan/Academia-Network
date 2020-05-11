@@ -1,0 +1,50 @@
+{
+    "id": "1480219339",
+    "title": "Effects of Topology-Aware Allocation Policies on Scheduling Performance",
+    "venue": "job scheduling strategies for parallel processing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jose Antonio Pascual",
+            "id": "2107105197",
+            "org": "The University of the Basque Country, San Sebastian, Spain 20018#TAB#"
+        },
+        {
+            "name": "Javier Navaridas",
+            "id": "1918797391",
+            "org": "The University of the Basque Country, San Sebastian, Spain 20018#TAB#"
+        },
+        {
+            "name": "Jose Miguel-Alonso",
+            "id": "917036562",
+            "org": "The University of the Basque Country, San Sebastian, Spain 20018#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Computer science",
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Lottery scheduling",
+        "Distributed computing",
+        "Fair-share scheduling",
+        "Dynamic priority scheduling",
+        "Earliest deadline first scheduling",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling"
+    ],
+    "references": [
+        "1493147916",
+        "1527428972",
+        "1546951732",
+        "1565502159",
+        "2111402880",
+        "2111686839",
+        "2129241471",
+        "2139250332",
+        "2141093349",
+        "2146547514",
+        "2167061016",
+        "2169532717"
+    ]
+}

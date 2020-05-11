@@ -1,0 +1,43 @@
+{
+    "id": "1495096569",
+    "title": "Text Search Using Database Systems Revisited - Some Experiments",
+    "venue": "british national conference on databases",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Helmut Kaufmann",
+            "id": "2780591060",
+            "org": "Swiss Federal Institute of Technology (ETH Zurich)"
+        },
+        {
+            "name": "Hans-Jorg Schek",
+            "id": "2050071469",
+            "org": "Swiss Federal Institute of Technology (ETH Zurich)"
+        }
+    ],
+    "fields_of_study": [
+        "Full text search",
+        "Database theory",
+        "Data mining",
+        "Information retrieval",
+        "Relational database",
+        "Database",
+        "Component-oriented database",
+        "Database model",
+        "Intelligent database",
+        "Database schema",
+        "Computer science",
+        "Database design"
+    ],
+    "references": [
+        "1480863667",
+        "1538721919",
+        "1759890077",
+        "1969316187",
+        "1971666241",
+        "2072627547",
+        "2120533455",
+        "2158655585",
+        "2396129484"
+    ]
+}

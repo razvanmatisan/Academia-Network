@@ -1,0 +1,55 @@
+{
+    "id": "136379439",
+    "title": "A rational reconstruction of nonmonotonic truth maintenance systems (research note)",
+    "venue": "Artificial Intelligence",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Charles Elkan",
+            "id": "705676171",
+            "org": "Xerox Palo Alto Research Center, Palo Alto, CA 94304, USA"
+        },
+        {
+            "name": "Charles Elkan",
+            "id": "705676171",
+            "org": "Xerox Palo Alto Research Center, Palo Alto, CA 94304, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Machine learning",
+        "Discrete mathematics",
+        "Artificial intelligence",
+        "Inference",
+        "Independent set",
+        "Stable model semantics",
+        "Semantics",
+        "Algorithm",
+        "Backtracking",
+        "Non-monotonic logic",
+        "Logic programming",
+        "Autoepistemic logic"
+    ],
+    "references": [
+        "50788804",
+        "148098591",
+        "152625262",
+        "166612935",
+        "173782181",
+        "192230374",
+        "206505968",
+        "1519213771",
+        "1538136274",
+        "1647734625",
+        "1672891595",
+        "1924904173",
+        "1966552757",
+        "2003160050",
+        "2011992362",
+        "2038118137",
+        "2067326626",
+        "2111009794",
+        "2123400927",
+        "2155322595"
+    ]
+}

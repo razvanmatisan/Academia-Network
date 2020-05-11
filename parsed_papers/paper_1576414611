@@ -1,0 +1,38 @@
+{
+    "id": "1576414611",
+    "title": "High-Speed RSA Hardware Based on Barret's Modular Reduction Method",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Johann Grossschadl",
+            "id": "2669762380",
+            "org": "Graz University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Megabit",
+        "Parallel computing",
+        "Degree of parallelism",
+        "Very-large-scale integration",
+        "Modular exponentiation",
+        "Architecture",
+        "Modular arithmetic",
+        "Modular design",
+        "Computer hardware",
+        "Computer science",
+        "Hardware acceleration"
+    ],
+    "references": [
+        "19328048",
+        "1498685334",
+        "1983849809",
+        "1996360405",
+        "2033311622",
+        "2127856956",
+        "2156186849",
+        "2156460937",
+        "2168543008"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1647844925",
+    "title": "The Current State of Language Data Processing",
+    "venue": "Advances in Computers",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Paul L. Garvin",
+            "id": "2613414207",
+            "org": "Department of Linguistics State University of New York at Buffalo Buffalo, New York"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "Natural language",
+        "Language identification",
+        "Subroutine",
+        "Parsing",
+        "Natural language processing",
+        "Artificial intelligence",
+        "Deep linguistic processing",
+        "On Language",
+        "Data processing"
+    ],
+    "references": [
+        "1539432109",
+        "1572965756",
+        "1608811815",
+        "1647770672",
+        "1972904537",
+        "2056178944",
+        "2138178898",
+        "2154230094",
+        "2161160885",
+        "2161466446"
+    ]
+}

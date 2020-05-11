@@ -1,0 +1,39 @@
+{
+    "id": "1595749559",
+    "title": "Task-Based access control for virtual organizations",
+    "venue": "FIDJI'04 Proceedings of the 4th international conference on Scientific Engineering of Distributed Java Applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Panos Periorellis",
+            "id": "2560028789",
+            "org": "School of Computing Science, University of Newcastle, Newcastle upon Tyne, UK#TAB#"
+        },
+        {
+            "name": "Savas Parastatidis",
+            "id": "323139916",
+            "org": "School of Computing Science, University of Newcastle, Newcastle upon Tyne, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Web service",
+        "Contract management",
+        "Virtual collaboration",
+        "Virtual organization",
+        "Information management",
+        "Role-based access control",
+        "Access control",
+        "Middleware",
+        "Engineering",
+        "Knowledge management"
+    ],
+    "references": [
+        "1966906200",
+        "1983328919",
+        "2063838657",
+        "2124080036",
+        "2137503046",
+        "2156529936",
+        "2166602595"
+    ]
+}

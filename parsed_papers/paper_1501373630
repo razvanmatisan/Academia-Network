@@ -1,0 +1,40 @@
+{
+    "id": "1501373630",
+    "title": "Using Multi-criteria Decision Making to Choose Process Representation Format for a Process Repository",
+    "venue": "business information systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Mturi Elias",
+            "id": "2119491793",
+            "org": "Stockholm University"
+        },
+        {
+            "name": "Khurram Shahzad",
+            "id": "2894245635",
+            "org": "Stockholm University"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Business process",
+        "Business process discovery",
+        "Business process modeling",
+        "Process modeling",
+        "Process mining",
+        "Management science",
+        "Business Process Model and Notation",
+        "Business process management",
+        "Artifact-centric business process model",
+        "Computer science",
+        "Systems engineering"
+    ],
+    "references": [
+        "1536804156",
+        "1545736182",
+        "1547351044",
+        "1548199286",
+        "1567791096",
+        "2152643945"
+    ]
+}

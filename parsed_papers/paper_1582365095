@@ -1,0 +1,48 @@
+{
+    "id": "1582365095",
+    "title": "A Chinese spoken dialogue system for train information",
+    "venue": "systems, man and cybernetics",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Junyan Chen",
+            "id": "2139382137",
+            "org": "Dept. of Electron. Eng., Tsinghua Univ., Beijing, China"
+        },
+        {
+            "name": "Ji Wu",
+            "id": "2099460463",
+            "org": "Dept. of Electron. Eng., Tsinghua Univ., Beijing, China"
+        },
+        {
+            "name": "Zuoying Wang",
+            "id": "2109474655",
+            "org": "Dept. of Electron. Eng., Tsinghua Univ., Beijing, China"
+        }
+    ],
+    "fields_of_study": [
+        "Word error rate",
+        "Inference",
+        "Natural language",
+        "Machine learning",
+        "Speech processing",
+        "Decision tree model",
+        "Information sharing",
+        "Natural language processing",
+        "Systems architecture",
+        "Computer science",
+        "Artificial intelligence",
+        "Sentence"
+    ],
+    "references": [
+        "101472860",
+        "103988019",
+        "1497197250",
+        "1833452507",
+        "1996434311",
+        "2115721886",
+        "2120589136",
+        "2130607791",
+        "2401705410"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "1501455379",
+    "title": "Multiple Language Family Support for Programmable Network Systems",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Michael Conrad",
+            "id": "2108928751",
+            "org": "Universitat Karlsruhe"
+        },
+        {
+            "name": "Marcus Scholler",
+            "id": "2008810346",
+            "org": "Universitat Karlsruhe"
+        },
+        {
+            "name": "Thomas Fuhrmann",
+            "id": "2059161600",
+            "org": "Universitat Karlsruhe"
+        },
+        {
+            "name": "Gerhard Bocksch",
+            "id": "2476325910",
+            "org": "Universitat Karlsruhe"
+        },
+        {
+            "name": "Martina Zitterbart",
+            "id": "102396157",
+            "org": "Universitat Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "Fourth-generation programming language",
+        "Programming paradigm",
+        "Comparison of multi-paradigm programming languages",
+        "Fifth-generation programming language",
+        "Programming language generations",
+        "Programming language theory",
+        "Second-generation programming language",
+        "Programming language",
+        "Computer science",
+        "Third-generation programming language"
+    ],
+    "references": [
+        "1582387000",
+        "2010365467",
+        "2047421567",
+        "2078148040"
+    ]
+}

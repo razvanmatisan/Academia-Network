@@ -1,0 +1,41 @@
+{
+    "id": "1555087507",
+    "title": "Short vector code generation for the discrete Fourier transform",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Franz Franchetti",
+            "id": "131649368",
+            "org": "Tech. Univ. of Vienna, Austria"
+        },
+        {
+            "name": "Markus Puschel",
+            "id": "2071532528",
+            "org": "Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete Fourier transform",
+        "Parallel computing",
+        "Fast Fourier transform",
+        "Computer science",
+        "SSE2",
+        "Architecture",
+        "Digital signal processing",
+        "Discrete Fourier transform (general)",
+        "Dynamic programming",
+        "Theoretical computer science",
+        "Code generation"
+    ],
+    "references": [
+        "1523329529",
+        "1820775600",
+        "2046812923",
+        "2072277531",
+        "2096070062",
+        "2138289268",
+        "2140080674",
+        "2163491234"
+    ]
+}

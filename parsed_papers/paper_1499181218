@@ -1,0 +1,47 @@
+{
+    "id": "1499181218",
+    "title": "Mobile Agents for Clustering and Routing in Mobile Ad Hoc Networks",
+    "venue": "ad hoc networks",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Mieso K. Denko",
+            "id": "49124919",
+            "org": "University of Guelph"
+        },
+        {
+            "name": "Qusay H. Mahmoud",
+            "id": "125354079",
+            "org": "University of Guelph"
+        }
+    ],
+    "fields_of_study": [
+        "Optimized Link State Routing Protocol",
+        "Adaptive quality of service multi-hop routing",
+        "Static routing",
+        "Link-state routing protocol",
+        "Distributed computing",
+        "Computer network",
+        "Ad hoc wireless distribution service",
+        "Wireless Routing Protocol",
+        "Dynamic Source Routing",
+        "Destination-Sequenced Distance Vector routing",
+        "Computer science"
+    ],
+    "references": [
+        "1479682664",
+        "1495815054",
+        "1545132191",
+        "1572829022",
+        "1712958436",
+        "1977439837",
+        "1978859516",
+        "2014411916",
+        "2086976228",
+        "2098406336",
+        "2105756046",
+        "2124651399",
+        "2130311408",
+        "2142868546"
+    ]
+}

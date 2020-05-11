@@ -1,0 +1,29 @@
+{
+    "id": "1479740358",
+    "title": "Intruder Theories (Ongoing Work)",
+    "venue": "foundations of software science and computation structure",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Hubert Comon-Lundh",
+            "id": "324484722",
+            "org": "CNRS Ecole Normale Superieure de Cachan"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Parametrization",
+        "Cryptographic nonce",
+        "Distributed computing",
+        "Cryptographic protocol",
+        "Finite set"
+    ],
+    "references": [
+        "1579090196",
+        "1967744155",
+        "2034753880",
+        "2108533001",
+        "2130123502",
+        "2153921791"
+    ]
+}

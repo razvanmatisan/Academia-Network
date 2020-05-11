@@ -1,0 +1,72 @@
+{
+    "id": "1486050890",
+    "title": "Continuous probabilistic count queries in wireless sensor networks",
+    "venue": "symposium on large spatial databases",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Anna Follmann",
+            "id": "2257765229",
+            "org": "Department of Computer Science, Ludwig-Maximilians-Universitat, Germany#TAB#"
+        },
+        {
+            "name": "Mario A. Nascimento",
+            "id": "2118674688",
+            "org": "University of Alberta, Canada#TAB#"
+        },
+        {
+            "name": "Andreas Zufle",
+            "id": "79808299",
+            "org": "Department of Computer Science, Ludwig-Maximilians-Universitat, Germany#TAB#"
+        },
+        {
+            "name": "Matthias Renz",
+            "id": "2150497105",
+            "org": "Department of Computer Science, Ludwig-Maximilians-Universitat, Germany#TAB#"
+        },
+        {
+            "name": "Peer Kroger",
+            "id": "2100673337",
+            "org": "Department of Computer Science, Ludwig-Maximilians-Universitat, Germany#TAB#"
+        },
+        {
+            "name": "Hans-Peter Kriegel",
+            "id": "1919135125",
+            "org": "Department of Computer Science, Ludwig-Maximilians-Universitat, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Probability distribution",
+        "Wireless sensor network",
+        "Uncertain data",
+        "Data mining",
+        "Probabilistic logic",
+        "Sensor node",
+        "Distributed computing",
+        "Real-time computing",
+        "Computer science",
+        "Key distribution in wireless sensor networks",
+        "Data processing"
+    ],
+    "references": [
+        "1561514023",
+        "2041763948",
+        "2045630074",
+        "2065538099",
+        "2078686663",
+        "2103209617",
+        "2110420974",
+        "2113443014",
+        "2114490241",
+        "2120342618",
+        "2125402103",
+        "2129035130",
+        "2135505702",
+        "2138271690",
+        "2140237757",
+        "2142909274",
+        "2151322578",
+        "2167396179",
+        "2169067830"
+    ]
+}

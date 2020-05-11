@@ -1,0 +1,38 @@
+{
+    "id": "1497303729",
+    "title": "Toolkit Support fro Multiuser Audio/Video Applications",
+    "venue": "network and operating system support for digital audio and video",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "David P. Anderson",
+            "id": "2108671175",
+            "org": "University of California at Berkeley"
+        },
+        {
+            "name": "Pamela Chan",
+            "id": "2575445788",
+            "org": "University of California at Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Data type",
+        "Throughput",
+        "Digital audio",
+        "Computer science",
+        "Audio over Ethernet",
+        "Unix",
+        "Server",
+        "Resource management",
+        "Object graph"
+    ],
+    "references": [
+        "67830776",
+        "2000897893",
+        "2007331479",
+        "2033337919",
+        "2065985835",
+        "2074796576"
+    ]
+}

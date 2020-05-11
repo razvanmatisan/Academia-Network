@@ -1,0 +1,42 @@
+{
+    "id": "1511627217",
+    "title": "Disk Graphs: A Short Survey",
+    "venue": "workshop on approximation and online algorithms",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Aleksei V. Fishkin",
+            "id": "2113377157",
+            "org": "University of Kiel"
+        }
+    ],
+    "fields_of_study": [
+        "Unit disk",
+        "Combinatorics",
+        "Online algorithm",
+        "Independent set",
+        "Intersection graph",
+        "Discrete mathematics",
+        "Maximal independent set",
+        "Chordal graph",
+        "Distributed computing",
+        "Indifference graph",
+        "Euclidean geometry",
+        "Mathematics"
+    ],
+    "references": [
+        "1497640858",
+        "1870395975",
+        "1970118687",
+        "1975512711",
+        "1988407539",
+        "2025874644",
+        "2028738060",
+        "2063572899",
+        "2100961486",
+        "2120229098",
+        "2139349113",
+        "2156760067",
+        "2166858292"
+    ]
+}

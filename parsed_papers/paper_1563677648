@@ -1,0 +1,45 @@
+{
+    "id": "1563677648",
+    "title": "Combining and Representing Logical Systems",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Till Mossakowski",
+            "id": "33538908",
+            "org": "University of Bremen"
+        },
+        {
+            "name": "Andrzej Tarlecki",
+            "id": "2352948",
+            "org": "Polish Academy of Sciences"
+        },
+        {
+            "name": "Wieslaw Pawlowski",
+            "id": "2155995736",
+            "org": "Polish Academy of Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Algebraic number",
+        "Category theory",
+        "Abstract data type",
+        "Partial algebra",
+        "Abstract syntax",
+        "Mathematics"
+    ],
+    "references": [
+        "1523124202",
+        "1550385910",
+        "1557574468",
+        "1567856068",
+        "1576273408",
+        "1601064245",
+        "1877482483",
+        "2010883554",
+        "2054830285",
+        "2224144252",
+        "2529054973"
+    ]
+}

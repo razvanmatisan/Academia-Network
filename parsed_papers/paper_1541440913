@@ -1,0 +1,31 @@
+{
+    "id": "1541440913",
+    "title": "Scientific literature metadata extraction based on HMM",
+    "venue": "cooperative design visualization and engineering",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Binge Cui",
+            "id": "2111273514",
+            "org": "College of Information Science and Engineering, Shandong University of Science and Technology, Qingdao, Shandong, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Database catalog",
+        "Viterbi algorithm",
+        "Precision and recall",
+        "Shared resource",
+        "Data element",
+        "Scientific literature",
+        "Metadata",
+        "Metadata repository",
+        "Computer science"
+    ],
+    "references": [
+        "197270748",
+        "1580375566",
+        "1934019294",
+        "2162340487"
+    ]
+}

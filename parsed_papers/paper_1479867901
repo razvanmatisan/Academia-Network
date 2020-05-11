@@ -1,0 +1,57 @@
+{
+    "id": "1479867901",
+    "title": "Approximating tree edit distance through string edit distance",
+    "venue": "international symposium on algorithms and computation",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Tatsuya Akutsu",
+            "id": "699492180",
+            "org": "Bioinformatics Center, Institute for Chemical Research, Kyoto University, Kyoto, Japan#TAB#"
+        },
+        {
+            "name": "Daiji Fukagawa",
+            "id": "238261730",
+            "org": "National Institute of Informatics, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Atsuhiro Takasu",
+            "id": "601099622",
+            "org": "National Institute of Informatics, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Discrete mathematics",
+        "Link/cut tree",
+        "Jaro-Winkler distance",
+        "Damerau-Levenshtein distance",
+        "Approximate string matching",
+        "String-to-string correction problem",
+        "String searching algorithm",
+        "Edit distance",
+        "Wagner-Fischer algorithm",
+        "Mathematics"
+    ],
+    "references": [
+        "1559144499",
+        "1578417629",
+        "1605772970",
+        "1605903931",
+        "1969871814",
+        "1975009259",
+        "1976373002",
+        "1978478796",
+        "1982055477",
+        "1996186909",
+        "2000835972",
+        "2084921767",
+        "2085533860",
+        "2107412086",
+        "2146101030",
+        "2148029272",
+        "2162663580",
+        "2164501930",
+        "2171643895"
+    ]
+}

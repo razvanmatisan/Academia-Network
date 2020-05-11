@@ -1,0 +1,40 @@
+{
+    "id": "1517891847",
+    "title": "Verifying Concurrent System Specification in COSY",
+    "venue": "mathematical foundations of computer science",
+    "year": 1980,
+    "authors": [
+        {
+            "name": "M. W. Shields",
+            "id": "2113647494",
+            "org": "University of Newcastle upon Tyne"
+        },
+        {
+            "name": "Peter E. Lauer",
+            "id": "2463794263",
+            "org": "University of Newcastle upon Tyne"
+        }
+    ],
+    "fields_of_study": [
+        "Notation",
+        "Discrete mathematics",
+        "Correctness",
+        "Programming language",
+        "Semantics",
+        "Formalism (philosophy)",
+        "System requirements specification",
+        "Deadlock",
+        "Concurrency",
+        "Regular expression",
+        "Computer science"
+    ],
+    "references": [
+        "1481073414",
+        "1493088000",
+        "1978972515",
+        "2006244393",
+        "2103953153",
+        "2110425399",
+        "2143912531"
+    ]
+}

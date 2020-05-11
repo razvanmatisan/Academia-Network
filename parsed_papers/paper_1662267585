@@ -1,0 +1,38 @@
+{
+    "id": "1662267585",
+    "title": "Accelerated learning on the connection machine",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Diane J. Cook",
+            "id": "2106796750",
+            "org": "Beckman Inst., Illinois Univ., Urbana, IL, USA"
+        },
+        {
+            "name": "Lawrence B. Holder",
+            "id": "639663078",
+            "org": "Beckman Inst., Illinois Univ., Urbana, IL, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Pointer machine",
+        "Active learning (machine learning)",
+        "Distributed computing",
+        "Computer science",
+        "Multi-task learning",
+        "Machine learning",
+        "Algorithmic learning theory",
+        "Online machine learning",
+        "Theoretical computer science",
+        "Parallel random-access machine",
+        "Stability (learning theory)",
+        "Artificial intelligence",
+        "Computational learning theory"
+    ],
+    "references": [
+        "2009832491",
+        "2149706766"
+    ]
+}

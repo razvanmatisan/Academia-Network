@@ -1,0 +1,44 @@
+{
+    "id": "1505735174",
+    "title": "Generalized Entropy and Projection Clustering of Categorical Data",
+    "venue": "european conference on principles of data mining and knowledge discovery",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Dan A. Simovici",
+            "id": "114567545",
+            "org": "University of Massachusetts at Boston"
+        },
+        {
+            "name": "Dana Cristofor",
+            "id": "6951469",
+            "org": "University of Massachusetts at Boston"
+        },
+        {
+            "name": "Laurentiu Cristofor",
+            "id": "2040590582",
+            "org": "University of Massachusetts at Boston"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Cluster analysis",
+        "Fuzzy clustering",
+        "Categorical variable",
+        "Data mining",
+        "CURE data clustering algorithm",
+        "Conditional entropy",
+        "Correlation clustering",
+        "Canopy clustering algorithm",
+        "Data stream clustering",
+        "Mathematics"
+    ],
+    "references": [
+        "1553696291",
+        "1847076543",
+        "1977496278",
+        "2042035594",
+        "2135579862"
+    ]
+}

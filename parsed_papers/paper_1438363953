@@ -1,0 +1,33 @@
+{
+    "id": "1438363953",
+    "title": "On Board-Filling Games with Random-Turn Order and Monte Carlo Perfectness",
+    "venue": "advances in computer games",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Ingo Althofer",
+            "id": "2893993498",
+            "org": "Fakultat fur Mathematik und Informatik, Friedrich-Schiller-Universitat, Jena, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Artificial intelligence",
+        "Machine learning",
+        "Monte Carlo molecular modeling",
+        "Monte Carlo method in statistical physics",
+        "Fair coin",
+        "Infinity",
+        "Computer science",
+        "Game tree",
+        "Monte Carlo method",
+        "Hybrid Monte Carlo"
+    ],
+    "references": [
+        "1487385582",
+        "1603772156",
+        "1620767973",
+        "1625390266",
+        "1714211023"
+    ]
+}

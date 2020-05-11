@@ -1,0 +1,46 @@
+{
+    "id": "1457185727",
+    "title": "Measuring the Sensitivity of Graph Metrics to Missing Data",
+    "venue": "international conference on parallel processing",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Anita Zakrzewska",
+            "id": "2034493427",
+            "org": "Georgia Institute of Technology"
+        },
+        {
+            "name": "David A. Bader",
+            "id": "2148365076",
+            "org": "Georgia Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Random graph",
+        "Vertex (geometry)",
+        "Mathematical optimization",
+        "Computer science",
+        "Centrality",
+        "Missing data",
+        "Sampling (statistics)",
+        "Energy consumption",
+        "Rank correlation",
+        "Data mining",
+        "Dense graph"
+    ],
+    "references": [
+        "1482680420",
+        "1549390321",
+        "1976969221",
+        "2004350101",
+        "2032512814",
+        "2042901984",
+        "2046526098",
+        "2100619764",
+        "2111708605",
+        "2131218797",
+        "2131492273",
+        "2136244995"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1524680682",
+    "title": "A markov model for inventory level optimization in supply-chain management",
+    "venue": "canadian conference on artificial intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Scott Buffett",
+            "id": "1034462096",
+            "org": "Institute for Information Technology - e-Business, National Research Council Canada, Fredericton, New Brunswick, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Markov model",
+        "Supply chain management",
+        "Machine learning",
+        "Mathematical optimization",
+        "Total cost",
+        "Artificial intelligence",
+        "Markov decision process",
+        "Decision support system",
+        "Dynamic programming",
+        "Markov process",
+        "Simulation",
+        "Purchasing",
+        "Computer science"
+    ],
+    "references": [
+        "1503969845",
+        "1523443811",
+        "1559600102",
+        "1584731082",
+        "1848214029",
+        "2021276607",
+        "2111756805"
+    ]
+}

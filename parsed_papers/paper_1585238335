@@ -1,0 +1,47 @@
+{
+    "id": "1585238335",
+    "title": "Staged event-driven architecture as a micro-architecture of distributed and pluginable crawling platform",
+    "venue": "Computer Science",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Leszek Siwik",
+            "id": "2521536717",
+            "org": "University of Science and Technology"
+        },
+        {
+            "name": "Kamil Wlodarczyk",
+            "id": "2467451791",
+            "org": "AGH University of Science and Technology"
+        },
+        {
+            "name": "Mateusz Kluczny",
+            "id": "2521070595",
+            "org": "AGH University of Science and Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed computing",
+        "Distributed web crawling",
+        "Machine learning",
+        "Artificial intelligence",
+        "Thread (computing)",
+        "Concurrency",
+        "Staged event-driven architecture",
+        "Event-driven architecture",
+        "Architecture",
+        "Scalability",
+        "Real-time computing",
+        "Computer science",
+        "The Internet"
+    ],
+    "references": [
+        "1605217017",
+        "1761577731",
+        "2000273502",
+        "2020765652",
+        "2108863067",
+        "2126022651",
+        "2148620466"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "id": "1482417937",
+    "title": "Shape Constrained Deformable Models for 3D Medical Image Segmentation",
+    "venue": "information processing in medical imaging",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Jurgen Weese",
+            "id": "2095821299",
+            "org": "Philips Research Laboratories, Division Technical Systems"
+        },
+        {
+            "name": "Michael Kaus",
+            "id": "1743482105",
+            "org": "Philips Research Laboratories, Division Technical Systems"
+        },
+        {
+            "name": "Christian Lorenz",
+            "id": "2310563698",
+            "org": "Philips Research Laboratories, Division Technical Systems"
+        },
+        {
+            "name": "Steven Lobregt",
+            "id": "112212400",
+            "org": "EasyVision Advanced Development, Philips Medical Systems Nederland B. V."
+        },
+        {
+            "name": "Roel Truyen",
+            "id": "67794244",
+            "org": "EasyVision Advanced Development, Philips Medical Systems Nederland B. V."
+        },
+        {
+            "name": "Vladimir Pekar",
+            "id": "2129931698",
+            "org": "Philips Research Laboratories, Division Technical Systems"
+        },
+        {
+            "name": "Vladimir Pekar",
+            "id": "2129931698",
+            "org": "Philips Research Laboratories, Division Technical Systems"
+        }
+    ],
+    "fields_of_study": [
+        "Active shape model",
+        "Artificial intelligence",
+        "Computer science",
+        "Computer vision",
+        "Robustness (computer science)",
+        "Vertex (geometry)",
+        "Image segmentation",
+        "Digital image",
+        "Pattern recognition",
+        "Image processing",
+        "Segmentation",
+        "Scale-space segmentation"
+    ],
+    "references": [
+        "1979302223",
+        "1997820584",
+        "2038952578",
+        "2058822180",
+        "2099290282",
+        "2105169845"
+    ]
+}

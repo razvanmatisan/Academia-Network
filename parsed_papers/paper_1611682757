@@ -1,0 +1,40 @@
+{
+    "id": "1611682757",
+    "title": "Refining Initial Points for K-Means Clustering",
+    "venue": "international conference on machine learning",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Paul S. Bradley",
+            "id": "2190461302",
+            "org": "University of Wisconsin-Madison"
+        },
+        {
+            "name": "Usama M. Fayyad",
+            "id": "2098423198",
+            "org": "Microsoft Research"
+        }
+    ],
+    "fields_of_study": [
+        "CURE data clustering algorithm",
+        "Cluster analysis",
+        "Machine learning",
+        "FLAME clustering",
+        "Artificial intelligence",
+        "k-medians clustering",
+        "Data stream clustering",
+        "Correlation clustering",
+        "Canopy clustering algorithm",
+        "Single-linkage clustering",
+        "Pattern recognition",
+        "Computer science"
+    ],
+    "references": [
+        "147860157",
+        "1524704912",
+        "2073308541",
+        "2073849744",
+        "2105535594",
+        "2141245797"
+    ]
+}

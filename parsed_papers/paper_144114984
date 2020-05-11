@@ -1,0 +1,33 @@
+{
+    "id": "144114984",
+    "title": "OAEP++ : A Very Simple Way to Apply OAEP to Deterministic OW-CPA Primitives.",
+    "venue": "IACR Cryptology ePrint Archive",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Kazukuni Kobara",
+            "id": "1988414654",
+            "org": "University of Tokyo"
+        },
+        {
+            "name": "Hideki Imai",
+            "id": "2101807108",
+            "org": "University of Tokyo"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Padding",
+        "Provable security",
+        "Theoretical computer science",
+        "Block cipher",
+        "Random oracle",
+        "Optimal asymmetric encryption padding",
+        "Computer science"
+    ],
+    "references": [
+        "1552695147",
+        "1561907855",
+        "2052267638"
+    ]
+}

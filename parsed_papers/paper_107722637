@@ -1,0 +1,36 @@
+{
+    "id": "107722637",
+    "title": "Cluster Description Formats, Problems and Algorithms.",
+    "venue": "siam international conference on data mining",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Byron J. Gao",
+            "id": "2165486582",
+            "org": "Simon Fraser University"
+        },
+        {
+            "name": "Martin Ester",
+            "id": "2067196623",
+            "org": "Simon Fraser University"
+        }
+    ],
+    "fields_of_study": [
+        "Heuristic",
+        "Artificial intelligence",
+        "Machine learning",
+        "Heuristic (computer science)",
+        "Cluster analysis",
+        "Computer science",
+        "Minimum description length",
+        "Algorithm",
+        "Data mining",
+        "Interpretability"
+    ],
+    "references": [
+        "1516469158",
+        "1977496278",
+        "2002932370",
+        "2052629503"
+    ]
+}

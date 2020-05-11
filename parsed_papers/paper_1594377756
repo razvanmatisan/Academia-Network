@@ -1,0 +1,43 @@
+{
+    "id": "1594377756",
+    "title": "Modeling Symmetric Computer Architectures by SWNs",
+    "venue": "applications and theory of petri nets",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Giovanni Chiola",
+            "id": "61118868",
+            "org": "Universita degli Studi di Torino"
+        },
+        {
+            "name": "Giuliana Franceschinis",
+            "id": "2006106901",
+            "org": "Universita degli Studi di Torino"
+        },
+        {
+            "name": "Rossano Gaeta",
+            "id": "2120273696",
+            "org": "Universita degli Studi di Torino"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Formalism (philosophy)",
+        "Rotation formalisms in three dimensions",
+        "Discrete mathematics",
+        "Application domain",
+        "Service-oriented modeling",
+        "Petri net",
+        "Complex system",
+        "Applications architecture",
+        "Cellular architecture"
+    ],
+    "references": [
+        "1925071582",
+        "1929473837",
+        "1968765875",
+        "2029328750",
+        "2042876290",
+        "2146432221"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1541919721",
+    "title": "Towards predicting robot team performance",
+    "venue": "systems, man and cybernetics",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jacob W. Crandall",
+            "id": "2111278495",
+            "org": "Dept. of Comput. Sci., Brigham Young Univ., Provo, UT, USA"
+        },
+        {
+            "name": "Curtis W. Nielsen",
+            "id": "2145541273",
+            "org": "Dept. of Comput. Sci., Brigham Young Univ., Provo, UT, USA"
+        },
+        {
+            "name": "Michael A. Goodrich",
+            "id": "2166828809",
+            "org": "Dept. of Comput. Sci., Brigham Young Univ., Provo, UT, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Mobile robot",
+        "Machine learning",
+        "Robot",
+        "Artificial intelligence",
+        "Robot learning",
+        "Robot control",
+        "Simulation",
+        "Robot calibration",
+        "System configuration",
+        "Performance prediction"
+    ],
+    "references": [
+        "1895027641",
+        "2123179704",
+        "2141904310",
+        "2148161811"
+    ]
+}

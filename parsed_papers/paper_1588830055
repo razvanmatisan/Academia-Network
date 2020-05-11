@@ -1,0 +1,39 @@
+{
+    "id": "1588830055",
+    "title": "Translatable finite state time machine",
+    "venue": "SDL'07 Proceedings of the 13th international SDL Forum conference on Design for dependable systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Krzysztof Sacha",
+            "id": "1244044867",
+            "org": "Warsaw University of Technology, Warszawa, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Formal methods",
+        "Semantics",
+        "Finite-state machine",
+        "Denotational semantics",
+        "Ladder logic",
+        "Syntax (logic)",
+        "Formal verification",
+        "Theoretical computer science",
+        "Programming language",
+        "Operational semantics",
+        "Computer science"
+    ],
+    "references": [
+        "1497640022",
+        "1523506890",
+        "1528367975",
+        "1556438821",
+        "1804076355",
+        "1826754619",
+        "1845451745",
+        "1926460446",
+        "2101508170",
+        "2135465691",
+        "2140769622"
+    ]
+}

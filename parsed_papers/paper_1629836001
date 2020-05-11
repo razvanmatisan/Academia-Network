@@ -1,0 +1,40 @@
+{
+    "id": "1629836001",
+    "title": "Pushing undecidability of the isolation problem for probabilistic automata",
+    "venue": "arXiv: Formal Languages and Automata Theory",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Nathanael Fijalkow",
+            "id": "2618055787",
+            "org": "ENS Cachan, LIAFA"
+        },
+        {
+            "name": "Hugo Gimbert",
+            "id": "83823023",
+            "org": "LaBRI"
+        },
+        {
+            "name": "Youssouf Oualhadj",
+            "id": "2312619910",
+            "org": "LaBRI"
+        }
+    ],
+    "fields_of_study": [
+        "Probabilistic automaton",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Probabilistic CTL",
+        "Mathematics",
+        "Mobile automaton",
+        "Quantum finite automata",
+        "Probabilistic logic",
+        "Undecidable problem",
+        "Probabilistic analysis of algorithms",
+        "Automata theory"
+    ],
+    "references": [
+        "1537561239",
+        "2171324542"
+    ]
+}

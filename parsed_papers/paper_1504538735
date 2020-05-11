@@ -1,0 +1,30 @@
+{
+    "id": "1504538735",
+    "title": "Cyclotomy Primality Proving - Recent Developments",
+    "venue": "algorithmic number theory symposium",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Preda Mihailescu",
+            "id": "2683249039",
+            "org": "FingerPIN AG & ETH Institut fur wissenschaftliches Rechnen Deutschland Deutschland"
+        }
+    ],
+    "fields_of_study": [
+        "Primality test",
+        "Artin group",
+        "Jacobi sum",
+        "Primitive root modulo n",
+        "Galois theory",
+        "Modular exponentiation",
+        "Algebra",
+        "Mathematics"
+    ],
+    "references": [
+        "1511110335",
+        "1513429293",
+        "2031342296",
+        "2081882878",
+        "2137149976"
+    ]
+}

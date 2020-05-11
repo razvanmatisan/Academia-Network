@@ -1,0 +1,46 @@
+{
+    "id": "1526166446",
+    "title": "Integrating Lists, Multisets, and Sets in a Logic Programming Framework",
+    "venue": "frontiers of combining systems",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Agostino Dovier",
+            "id": "318207047",
+            "org": "Universita di Pisa"
+        },
+        {
+            "name": "Alberto Policriti",
+            "id": "253045466",
+            "org": "Universita di Udine"
+        },
+        {
+            "name": "Gianfranco Rossi",
+            "id": "2194772811",
+            "org": "Universita di Parma"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Algorithm",
+        "Axiom",
+        "Satisfiability modulo theories",
+        "Data structure",
+        "Axiom schema",
+        "Extensionality",
+        "Logic programming",
+        "Constraint logic programming",
+        "Mathematics",
+        "Unification"
+    ],
+    "references": [
+        "2152806",
+        "52074576",
+        "93706558",
+        "1524695239",
+        "1589346249",
+        "2036311242",
+        "2113722134",
+        "2167327129"
+    ]
+}

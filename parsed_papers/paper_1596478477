@@ -1,0 +1,41 @@
+{
+    "id": "1596478477",
+    "title": "Robust Location Based Partial Correlation",
+    "venue": "computer analysis of images and patterns",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Zhong-Dan Lan",
+            "id": "2144902507",
+            "org": "Laboratoire Gravir"
+        },
+        {
+            "name": "Roger Mohr",
+            "id": "2239139354",
+            "org": "Laboratoire Gravir"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Robust regression",
+        "Computer vision",
+        "Pattern recognition",
+        "Image processing",
+        "Classification of discontinuities",
+        "Robustness (computer science)",
+        "Stereopsis",
+        "Partial correlation",
+        "Computer science",
+        "Correspondence problem",
+        "Correlation"
+    ],
+    "references": [
+        "1622297907",
+        "1674866864",
+        "1901518195",
+        "1972458325",
+        "2040423746",
+        "2090949637",
+        "2171124048"
+    ]
+}

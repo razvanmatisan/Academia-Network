@@ -1,0 +1,32 @@
+{
+    "id": "1480839288",
+    "title": "The Meaning of ``Neighbour''",
+    "venue": "advances in geographic information systems",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Christopher M. Gold",
+            "id": "2133769459",
+            "org": "Universite Laval"
+        }
+    ],
+    "fields_of_study": [
+        "Medial axis",
+        "Spatial intelligence",
+        "Computer science",
+        "Machine learning",
+        "Artificial intelligence",
+        "Raster graphics",
+        "Perception",
+        "Voronoi diagram",
+        "Visual perception"
+    ],
+    "references": [
+        "1967005434",
+        "2037026877",
+        "2042139292",
+        "2061645666",
+        "2077246452",
+        "2733049177"
+    ]
+}

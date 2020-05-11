@@ -1,0 +1,45 @@
+{
+    "id": "1482516887",
+    "title": "DUALITY: An Architecture Independent Design Model for Parallel Systems Based on Partial Orders Semantics",
+    "venue": "international symposium on distributed computing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Camelia Zlatea",
+            "id": "223524320",
+            "org": "Illinois Institute of Technology"
+        },
+        {
+            "name": "Tzilla Elrad",
+            "id": "2018572496",
+            "org": "Illinois Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Correctness",
+        "Design knowledge",
+        "Implementation",
+        "Distributed computing",
+        "Parallel computing",
+        "Software development",
+        "Concurrency",
+        "Duality (optimization)",
+        "Theoretical computer science",
+        "Architecture",
+        "Program derivation",
+        "Computer science"
+    ],
+    "references": [
+        "1526435074",
+        "1545945432",
+        "1600891844",
+        "1857327297",
+        "1980003032",
+        "2024742988",
+        "2042981544",
+        "2104734478",
+        "2140980536",
+        "2162648777"
+    ]
+}

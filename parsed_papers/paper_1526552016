@@ -1,0 +1,33 @@
+{
+    "id": "1526552016",
+    "title": "Electronic Government: Where Are We Heading?",
+    "venue": "electronic government",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Klaus Lenk",
+            "id": "2136369013",
+            "org": "University of Oldenburg"
+        },
+        {
+            "name": "Roland Traunmuller",
+            "id": "327043303",
+            "org": "University of Linz"
+        }
+    ],
+    "fields_of_study": [
+        "Government failure",
+        "Public relations",
+        "Corporate governance",
+        "Public sector",
+        "Service delivery framework",
+        "Multitude",
+        "Information society",
+        "Politics",
+        "Computer science",
+        "Government"
+    ],
+    "references": [
+        "2153955498"
+    ]
+}

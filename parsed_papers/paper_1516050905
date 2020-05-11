@@ -1,0 +1,52 @@
+{
+    "id": "1516050905",
+    "title": "Multi-tier Architecture for Service Creation, Deployment and Management",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Gaetan Vanet",
+            "id": "1974932914",
+            "org": "NEC Corporation 1-1"
+        },
+        {
+            "name": "Motohiro Suzuki",
+            "id": "2294890494",
+            "org": "NEC Corporation 1-1"
+        },
+        {
+            "name": "Toru Egashira",
+            "id": "2479852791",
+            "org": "NEC Corporation 1-1"
+        },
+        {
+            "name": "Yoshiaki Kiriha",
+            "id": "2224457617",
+            "org": "NEC Corporation 1-1"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile QoS",
+        "Differentiated service",
+        "Service design",
+        "Service delivery framework",
+        "Service system",
+        "Service provider",
+        "Service level requirement",
+        "Computer security",
+        "Computer network",
+        "Service bureau",
+        "Computer science"
+    ],
+    "references": [
+        "1487189841",
+        "1531587431",
+        "1559434481",
+        "1586087186",
+        "2016679348",
+        "2097822042",
+        "2105510719",
+        "2132423245",
+        "2159865685"
+    ]
+}

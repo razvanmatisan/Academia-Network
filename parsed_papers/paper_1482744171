@@ -1,0 +1,33 @@
+{
+    "id": "1482744171",
+    "title": "Post-Deployment Configuration Management",
+    "venue": "software configuration management workshop",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Dennis Heimbigner",
+            "id": "287873699",
+            "org": "University of Colorado"
+        },
+        {
+            "name": "Alexander L. Wolf",
+            "id": "2115607830",
+            "org": "University of Colorado"
+        }
+    ],
+    "fields_of_study": [
+        "Software deployment",
+        "Configuration management",
+        "Database",
+        "Computer science",
+        "Software system",
+        "Object request broker",
+        "Configuration Management (ITSM)"
+    ],
+    "references": [
+        "2003374447",
+        "2125294767",
+        "2148238464",
+        "2152212283"
+    ]
+}

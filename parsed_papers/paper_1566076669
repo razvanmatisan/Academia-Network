@@ -1,0 +1,32 @@
+{
+    "id": "1566076669",
+    "title": "Curve Reconstruction in Arbitrary Dimension and the Traveling Salesman Problem",
+    "venue": "discrete geometry for computer imagery",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Joachim Giesen",
+            "id": "2170741153",
+            "org": "ETH Zurich"
+        }
+    ],
+    "fields_of_study": [
+        "Polygon",
+        "Combinatorics",
+        "Polygonal chain",
+        "Discrete mathematics",
+        "Computational geometry",
+        "Bowyer-Watson algorithm",
+        "Mathematical optimization",
+        "Delaunay triangulation",
+        "Iterative reconstruction",
+        "Minimum spanning tree",
+        "Travelling salesman problem",
+        "Mathematics"
+    ],
+    "references": [
+        "2001324311",
+        "2022266599",
+        "2117192495"
+    ]
+}

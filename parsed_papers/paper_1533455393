@@ -1,0 +1,44 @@
+{
+    "id": "1533455393",
+    "title": "Towards accountable management of privacy and identity information",
+    "venue": "european symposium on research in computer security",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Marco Casassa Mont",
+            "id": "2103595166",
+            "org": "Trusted Systems Laboratory"
+        },
+        {
+            "name": "Siani Pearson",
+            "id": "2342101073",
+            "org": "Trusted Systems Laboratory"
+        },
+        {
+            "name": "Pete Bramhall",
+            "id": "2087983822",
+            "org": "Trusted Systems Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Information system",
+        "Privacy software",
+        "Computer security",
+        "Computer science",
+        "Information privacy",
+        "Information access",
+        "Privacy by Design",
+        "Information management",
+        "Information technology management",
+        "Privacy policy"
+    ],
+    "references": [
+        "1487821058",
+        "1568555283",
+        "1797206029",
+        "2086042811",
+        "2097454402",
+        "2152924492",
+        "2721112355"
+    ]
+}

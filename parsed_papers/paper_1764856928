@@ -1,0 +1,36 @@
+{
+    "id": "1764856928",
+    "title": "Rules of Order for Electronic Group Decision Making - A Formalization Methodology",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Henry Prakken",
+            "id": "150191985",
+            "org": "Utrecht University"
+        },
+        {
+            "name": "Thomas F. Gordon",
+            "id": "2280312759",
+            "org": "GMD - German National Research Center for Information Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Decision-making",
+        "Management science",
+        "R-CAST",
+        "Operations research",
+        "Decision support system",
+        "Distributed computing",
+        "Group decision-making",
+        "Intelligent decision support system",
+        "Computer science",
+        "Aside"
+    ],
+    "references": [
+        "1489768987",
+        "1518249528",
+        "1979320841",
+        "2172505172"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1499476505",
+    "title": "Optimal Orthogonal Drawings of Connected Plane Graphs",
+    "venue": "canadian conference on computational geometry",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Therese C. Biedl",
+            "id": "697271798",
+            "org": "Rutgers University"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Graph power",
+        "Polyhedral graph",
+        "Discrete mathematics",
+        "Planar graph",
+        "Book embedding",
+        "Planar straight-line graph",
+        "Upper and lower bounds",
+        "1-planar graph",
+        "SPQR tree",
+        "Mathematics"
+    ],
+    "references": [
+        "80115981",
+        "1501486526",
+        "1568439834",
+        "1594619031",
+        "2002025203",
+        "2018091581",
+        "2114098276"
+    ]
+}

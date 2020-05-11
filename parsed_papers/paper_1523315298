@@ -1,0 +1,34 @@
+{
+    "id": "1523315298",
+    "title": "Associative-Commutative Unification",
+    "venue": "conference on automated deduction",
+    "year": 1984,
+    "authors": [
+        {
+            "name": "Francois Fages",
+            "id": "2777624393",
+            "org": "CNRS"
+        },
+        {
+            "name": "Francois Fages",
+            "id": "2777624393",
+            "org": "CNRS"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Algorithm",
+        "Correctness",
+        "Equation solving",
+        "Commutative property",
+        "Automated theorem proving",
+        "Associative property",
+        "Unification",
+        "Rewriting",
+        "Mathematics"
+    ],
+    "references": [
+        "2048748607",
+        "2100738443"
+    ]
+}

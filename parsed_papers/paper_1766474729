@@ -1,0 +1,44 @@
+{
+    "id": "1766474729",
+    "title": "RAMALA: a knowledge base for software process improvement",
+    "venue": "european conference on software process improvement",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Javier Garcia",
+            "id": "2289223277",
+            "org": "Computer Science Department, Carlos III University of Madrid, Leganes, Madrid, Spain#TAB#"
+        },
+        {
+            "name": "Yaser Rimawi",
+            "id": "2498483870",
+            "org": "Computer Science Department, Carlos III University of Madrid, Leganes, Madrid, Spain#TAB#"
+        },
+        {
+            "name": "Maria I. Sanchez",
+            "id": "2481457598",
+            "org": "Computer Science Department, Carlos III University of Madrid, Leganes, Madrid, Spain#TAB#"
+        },
+        {
+            "name": "Antonio Amescua",
+            "id": "2140968483",
+            "org": "Computer Science Department, Carlos III University of Madrid, Leganes, Madrid, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Software Engineering Process Group",
+        "Systems engineering",
+        "Personal software process",
+        "Social software engineering",
+        "Software peer review",
+        "Goal-Driven Software Development Process",
+        "Distributed computing",
+        "Software sizing",
+        "Package development process",
+        "Computer science",
+        "Software measurement"
+    ],
+    "references": [
+        "2119501028"
+    ]
+}

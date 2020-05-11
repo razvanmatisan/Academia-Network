@@ -1,0 +1,35 @@
+{
+    "id": "1502739983",
+    "title": "Software Support for the Refinement of VDM Specifications",
+    "venue": "formal methods",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Peter Kilpatrick",
+            "id": "2117441041",
+            "org": "The Queen's University of Belfast"
+        },
+        {
+            "name": "P. McParland",
+            "id": "2069276769",
+            "org": "The Queen's University of Belfast"
+        }
+    ],
+    "fields_of_study": [
+        "Software construction",
+        "Software design",
+        "Software design description",
+        "Goal-Driven Software Development Process",
+        "Automated proof checking",
+        "Programming language",
+        "Package development process",
+        "Vienna Development Method",
+        "Computer architecture",
+        "Software verification and validation",
+        "Computer science"
+    ],
+    "references": [
+        "1559817765",
+        "1970495662"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "136937263",
+    "title": "A unified setting for inference and decision: an argumentation-based approach",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Leila Amgoud",
+            "id": "248769468",
+            "org": "IRIT - UPS, Toulouse, FRANCE#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Business decision mapping",
+        "Artificial intelligence",
+        "Admissible decision rule",
+        "Argumentation framework",
+        "R-CAST",
+        "Machine learning",
+        "Influence diagram",
+        "Computer science",
+        "Decision analysis",
+        "Decision field theory",
+        "Decision engineering",
+        "Management science"
+    ],
+    "references": [
+        "102318603",
+        "1508647785",
+        "1547762555",
+        "1602796727",
+        "2085102928",
+        "2104126268",
+        "2105953471",
+        "2113594281"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1606043801",
+    "title": "Building Nonlinear Data Models with Self-Organizing Maps",
+    "venue": "international conference on artificial neural networks",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Ralf Der",
+            "id": "2132555445",
+            "org": "University of Leipzig"
+        },
+        {
+            "name": "G. Balzuweit",
+            "id": "1925570663",
+            "org": "University of Leipzig"
+        },
+        {
+            "name": "J. Michael Herrmann",
+            "id": "2281212416",
+            "org": "RIKEN"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Lattice (order)",
+        "Manifold",
+        "Self-organizing map",
+        "Data model",
+        "Phase transition",
+        "Sparse matrix",
+        "Nonlinear system",
+        "Data modeling",
+        "Mathematics"
+    ],
+    "references": [
+        "2015494643"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1584628001",
+    "title": "Searching for General Documents",
+    "venue": "flexible query answering systems",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Kai Korpimies",
+            "id": "63574639",
+            "org": "University of Helsinki"
+        },
+        {
+            "name": "Esko Ukkonen",
+            "id": "582562560",
+            "org": "University of Helsinki"
+        }
+    ],
+    "fields_of_study": [
+        "Document retrieval",
+        "Data mining",
+        "Latent semantic analysis",
+        "Information retrieval",
+        "Information system",
+        "Vector space model",
+        "Query expansion",
+        "Web application",
+        "Navigational instrument",
+        "Computer science"
+    ],
+    "references": [
+        "1521439890",
+        "1833785989",
+        "2011563572",
+        "2019976352",
+        "2074449313",
+        "2147152072"
+    ]
+}

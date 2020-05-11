@@ -1,0 +1,41 @@
+{
+    "id": "1487385582",
+    "title": "Missing data in kernel PCA",
+    "venue": "european conference on machine learning",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Guido Sanguinetti",
+            "id": "2153799420",
+            "org": "Department of Computer Science, University of Sheffield, Sheffield, U.K.#TAB#"
+        },
+        {
+            "name": "Neil D. Lawrence",
+            "id": "1979713447",
+            "org": "Department of Computer Science, University of Sheffield, Sheffield, U.K.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Latent variable model",
+        "Kernel principal component analysis",
+        "Feature extraction",
+        "Probabilistic logic",
+        "Missing data",
+        "Kernel (linear algebra)",
+        "Principal component analysis",
+        "Test data",
+        "Computer science",
+        "Artificial intelligence",
+        "Pattern recognition"
+    ],
+    "references": [
+        "1544367013",
+        "1587559447",
+        "2107636931",
+        "2117812871",
+        "2119388857",
+        "2136111243",
+        "2154087390",
+        "2294460823"
+    ]
+}

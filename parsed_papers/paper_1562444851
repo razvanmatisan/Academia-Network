@@ -1,0 +1,39 @@
+{
+    "id": "1562444851",
+    "title": "Structural and syntactic techniques for recognition of ethiopic characters",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Yaregal Assabie",
+            "id": "158469900",
+            "org": "School of Information Science, Computer and Electrical Engineering, Halmstad University, Halmstad, Sweden#TAB#"
+        },
+        {
+            "name": "Josef Bigun",
+            "id": "263878853",
+            "org": "School of Information Science, Computer and Electrical Engineering, Halmstad University, Halmstad, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parsing",
+        "Pattern matching",
+        "Discrete mathematics",
+        "Knowledge base",
+        "Optical character recognition",
+        "Tree structure",
+        "Scripting language",
+        "Typeface",
+        "Algorithm",
+        "Syntax",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Computer science"
+    ],
+    "references": [
+        "174126042",
+        "1557684567",
+        "1568680666",
+        "2129580825"
+    ]
+}

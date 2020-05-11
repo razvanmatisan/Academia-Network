@@ -1,0 +1,42 @@
+{
+    "id": "1487383476",
+    "title": "Integrated State Space Reduction for Model Checking Executable Object-Oriented Software System Designs",
+    "venue": "fundamental approaches to software engineering",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Fei Xie",
+            "id": "2135360538",
+            "org": "Univ. of Texas at Austin"
+        },
+        {
+            "name": "James C. Browne",
+            "id": "2104477647",
+            "org": "Univ. of Texas at Austin"
+        }
+    ],
+    "fields_of_study": [
+        "Model checking",
+        "Theoretical computer science",
+        "Systems design",
+        "Software design pattern",
+        "Software development",
+        "Software system",
+        "Unified Modeling Language",
+        "State space",
+        "Computer science",
+        "Executable"
+    ],
+    "references": [
+        "1501731334",
+        "1523442991",
+        "1539345619",
+        "1540223539",
+        "1934074768",
+        "2054198444",
+        "2128052364",
+        "2129566011",
+        "2134562903",
+        "2340735175"
+    ]
+}

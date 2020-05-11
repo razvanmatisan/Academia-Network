@@ -1,0 +1,49 @@
+{
+    "id": "1590625980",
+    "title": "Estimating Maximum Likelihood Parameters for Stochastic Context-Free Graph Grammars",
+    "venue": "inductive logic programming",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Tim Oates",
+            "id": "2217452330",
+            "org": "University of Maryland Baltimore County"
+        },
+        {
+            "name": "Shailesh Doshi",
+            "id": "2100550458",
+            "org": "University of Maryland Baltimore County"
+        },
+        {
+            "name": "Fang Huang",
+            "id": "2618228249",
+            "org": "University of Maryland Baltimore County"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "String (computer science)",
+        "Theoretical computer science",
+        "Probability distribution",
+        "Time complexity",
+        "Artificial intelligence",
+        "Graph rewriting",
+        "Graph theory",
+        "Algorithm",
+        "Stochastic context-free grammar",
+        "Computer science",
+        "Estimation theory",
+        "Context-free grammar"
+    ],
+    "references": [
+        "8360613",
+        "127565347",
+        "1487802415",
+        "1545658277",
+        "1563892973",
+        "1992040352",
+        "1994851566",
+        "2071692022",
+        "2088602194"
+    ]
+}

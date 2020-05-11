@@ -1,0 +1,29 @@
+{
+    "id": "1600394779",
+    "title": "Dual Models of Permutation Problems",
+    "venue": "principles and practice of constraint programming",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Barbara M. Smith",
+            "id": "2119362285",
+            "org": "University of Huddersfield"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint satisfaction dual problem",
+        "Permutation",
+        "Discrete mathematics",
+        "Mathematical optimization",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Constraint graph",
+        "Constraint satisfaction problem",
+        "Mathematics",
+        "Constraint satisfaction"
+    ],
+    "references": [
+        "1512988629",
+        "2154081061",
+        "2164279585"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1566571341",
+    "title": "Some Sieving Algorithms for Lattice Problems",
+    "venue": "foundations of software technology and theoretical computer science",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Vikraman Arvind",
+            "id": "2596857858",
+            "org": "Institute of Mathematical Sciences"
+        },
+        {
+            "name": "Pushkar S. Joglekar",
+            "id": "2033959702",
+            "org": "Institute of Mathematical Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Rank (linear algebra)",
+        "Maxima and minima",
+        "Integer lattice",
+        "Approximation algorithm",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Lattice problem",
+        "Convex body",
+        "Algorithm",
+        "Mathematics",
+        "Exact algorithm",
+        "Subspace topology"
+    ],
+    "references": [
+        "1538714775",
+        "1971445617",
+        "2050689197",
+        "2063342497",
+        "2070971235",
+        "2157396841"
+    ]
+}

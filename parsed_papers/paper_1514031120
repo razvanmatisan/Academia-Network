@@ -1,0 +1,52 @@
+{
+    "id": "1514031120",
+    "title": "Efficient solutions to factored MDPs with imprecise transition probabilities",
+    "venue": "international conference on automated planning and scheduling",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Karina Valdivia Delgado",
+            "id": "2137306617",
+            "org": "University of Sao Paulo, Sao Paulo, Brazil#TAB#"
+        },
+        {
+            "name": "Scott Sanner",
+            "id": "2113280975",
+            "org": "NICTA & ANU, Canberra, Australia#TAB#"
+        },
+        {
+            "name": "Leliane Nunes de Barros",
+            "id": "2118867214",
+            "org": "University of Sao Paulo, Sao Paulo, Brazil#TAB#"
+        },
+        {
+            "name": "Fabio Gagliardi Cozman",
+            "id": "1992822092",
+            "org": "Escola Politecnica-USP, Sao Paulo, Brazil#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Constrained optimization",
+        "Artificial intelligence",
+        "Overhead (computing)",
+        "Mathematical optimization",
+        "Machine learning",
+        "Markov decision process",
+        "Nonlinear programming",
+        "Discrete mathematics",
+        "Speedup",
+        "Dynamic programming",
+        "Partially observable Markov decision process",
+        "Solver",
+        "Mathematics"
+    ],
+    "references": [
+        "186811004",
+        "1530444831",
+        "1544444076",
+        "1992865352",
+        "2120406836",
+        "2167435507",
+        "2170400507"
+    ]
+}

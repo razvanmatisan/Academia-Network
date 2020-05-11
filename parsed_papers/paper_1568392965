@@ -1,0 +1,43 @@
+{
+    "id": "1568392965",
+    "title": "ATPS: adaptive threat prevention system for high-performance intrusion detection and response",
+    "venue": "asia pacific network operations and management symposium",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Byoung-Koo Kim",
+            "id": "2143370747",
+            "org": "Electronics and Telecommunications Research Institute, Daejeon, Korea#TAB#"
+        },
+        {
+            "name": "Seungyong Yoon",
+            "id": "2134269730",
+            "org": "Electronics and Telecommunications Research Institute, Daejeon, Korea#TAB#"
+        },
+        {
+            "name": "Jintae Oh",
+            "id": "2141348330",
+            "org": "Electronics and Telecommunications Research Institute, Daejeon, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hardware architecture",
+        "Exploit",
+        "Deep packet inspection",
+        "Heuristic",
+        "Distributed computing",
+        "Computer network",
+        "Intrusion detection system",
+        "Reconfigurable computing",
+        "Computer science",
+        "Gigabit Ethernet",
+        "Software",
+        "Real-time computing"
+    ],
+    "references": [
+        "1583397993",
+        "1674877186",
+        "2059948851",
+        "2137559158"
+    ]
+}

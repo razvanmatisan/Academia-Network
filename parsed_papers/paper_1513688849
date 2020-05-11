@@ -1,0 +1,25 @@
+{
+    "id": "1513688849",
+    "title": "Real-world learning with Markov logic networks",
+    "venue": "european conference on principles of data mining and knowledge discovery",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Pedro M. Domingos",
+            "id": "2169012919",
+            "org": "University of Washington, Seattle, WA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Artificial intelligence",
+        "Machine learning",
+        "Domain knowledge",
+        "Computer science",
+        "Theoretical computer science",
+        "Statistical relational learning",
+        "Graphical model",
+        "Markov chain"
+    ],
+    "references": []
+}

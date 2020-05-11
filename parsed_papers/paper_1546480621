@@ -1,0 +1,45 @@
+{
+    "id": "1546480621",
+    "title": "Online Clustering of Non-stationary Data Using Incremental and Decremental SVM",
+    "venue": "international conference on artificial neural networks",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Khaled Boukharouba",
+            "id": "1236696131",
+            "org": "LAGIS UMR 8146, Universite des Sciences et Technologies de Lille, Villeneuve d'Ascq, France 59655 and Ecole des Mines de Douai - Departement Informatique et Automatique, , Douai, France ...#TAB#"
+        },
+        {
+            "name": "Stephane Lecoeuche",
+            "id": "2463860861",
+            "org": "LAGIS UMR 8146, Universite des Sciences et Technologies de Lille, Villeneuve d'Ascq, France 59655 and Ecole des Mines de Douai - Departement Informatique et Automatique, , Douai, France ...#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Similarity measure",
+        "Recursion",
+        "Cluster analysis",
+        "Support vector machine",
+        "Correlation clustering",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Concept drift",
+        "Fuzzy clustering",
+        "Classifier (linguistics)",
+        "Computer science"
+    ],
+    "references": [
+        "1555269405",
+        "1578010480",
+        "1891005513",
+        "1971784203",
+        "2095822020",
+        "2105250379",
+        "2108271008",
+        "2108807072",
+        "2132641846",
+        "2150621701",
+        "2241698054"
+    ]
+}

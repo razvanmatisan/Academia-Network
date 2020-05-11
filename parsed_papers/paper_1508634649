@@ -1,0 +1,39 @@
+{
+    "id": "1508634649",
+    "title": "Verification of Parameterized Systems by Dynamic Induction on Diagrams",
+    "venue": "computer aided verification",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Zohar Manna",
+            "id": "2146370811",
+            "org": "Stanford University Stanford Computer Science Department CA 94305-9045"
+        },
+        {
+            "name": "Henny B. Sipma",
+            "id": "5168973",
+            "org": "Stanford University Stanford Computer Science Department CA 94305-9045"
+        }
+    ],
+    "fields_of_study": [
+        "Transition system",
+        "Mathematical proof",
+        "Probabilistic automaton",
+        "Algorithm",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Parameterized complexity",
+        "Formal specification",
+        "Formal verification",
+        "Visual approach",
+        "Computer science",
+        "Reactive system"
+    ],
+    "references": [
+        "1506815291",
+        "1540180001",
+        "1605381479",
+        "2070908350",
+        "2132334337"
+    ]
+}

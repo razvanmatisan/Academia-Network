@@ -1,0 +1,44 @@
+{
+    "id": "1548514401",
+    "title": "Simple model-based exploration and exploitation of Markov decision processes using the elimination algorithm",
+    "venue": "mexican international conference on artificial intelligence",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Elizabeth Novoa",
+            "id": "2529920666",
+            "org": "Departamento de Ingenieria Informatica, Universidad de Santiago de Chile, Santiago, Chile#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Markov model",
+        "Variable-order Bayesian network",
+        "Markov decision process",
+        "Artificial intelligence",
+        "Mathematical optimization",
+        "Algorithm",
+        "Recursive Bayesian estimation",
+        "Partially observable Markov decision process",
+        "Causal Markov condition",
+        "Mathematics",
+        "Markov chain",
+        "Heuristics"
+    ],
+    "references": [
+        "1496855202",
+        "1505937442",
+        "1512919909",
+        "1552684655",
+        "1582436621",
+        "1591803298",
+        "1679945064",
+        "1981691276",
+        "1986842597",
+        "2071814471",
+        "2107726111",
+        "2116459397",
+        "2121863487",
+        "2489939061"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "1551280176",
+    "title": "Self-organizing schema mappings in the GridVine peer data management system",
+    "venue": "very large data bases",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Philippe Cudre-Mauroux",
+            "id": "2308794080",
+            "org": "School of Computer and Communication Sciences, Switzerland#TAB#"
+        },
+        {
+            "name": "Suchit Agarwal",
+            "id": "2122034201",
+            "org": "School of Computer and Communication Sciences, Switzerland#TAB#"
+        },
+        {
+            "name": "Adriana Budura",
+            "id": "1276699941",
+            "org": "School of Computer and Communication Sciences, Switzerland#TAB#"
+        },
+        {
+            "name": "Parisa Haghani",
+            "id": "1707151884",
+            "org": "School of Computer and Communication Sciences, Switzerland#TAB#"
+        },
+        {
+            "name": "Karl Aberer",
+            "id": "150096297",
+            "org": "School of Computer and Communication Sciences, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Interoperability",
+        "Data mining",
+        "Computer science",
+        "Database",
+        "Semantic interoperability",
+        "Data independence",
+        "Schema (psychology)",
+        "Semantic heterogeneity",
+        "Data management",
+        "Distributed computing",
+        "Indexation",
+        "Access structure"
+    ],
+    "references": [
+        "1496636779",
+        "1767402579",
+        "2000724995",
+        "2107800601",
+        "2107896715",
+        "2133045267",
+        "2138356326",
+        "2157094410"
+    ]
+}

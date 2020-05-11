@@ -1,0 +1,37 @@
+{
+    "id": "1599310543",
+    "title": "Motion based estimation and representation of 3D surfaces and boundaries",
+    "venue": "IWCM'04 Proceedings of the 1st international conference on Complex motion",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Klas Nordberg",
+            "id": "2149343741",
+            "org": "Computer Vision Laboratory, Department of Electrical Engineering, Linkoping University, Linkoping#TAB#"
+        },
+        {
+            "name": "Fredrik Viksten",
+            "id": "1257958073",
+            "org": "Computer Vision Laboratory, Department of Electrical Engineering, Linkoping University, Linkoping#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Projective space",
+        "Mathematical analysis",
+        "Orientation tensor",
+        "Tensor",
+        "Singular value decomposition",
+        "Tensor contraction",
+        "Motion vector",
+        "Tensor (intrinsic definition)",
+        "Motion field",
+        "Topology",
+        "Mathematics"
+    ],
+    "references": [
+        "79321830",
+        "1513221931",
+        "2145269171",
+        "2162319917"
+    ]
+}

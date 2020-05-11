@@ -1,0 +1,31 @@
+{
+    "id": "180362936",
+    "title": "Evaluating *SAT on TANCS 2000 Benchmarks",
+    "venue": "theorem proving with analytic tableaux and related methods",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Armando Tacchella",
+            "id": "2010564482",
+            "org": "Universita di Genova"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Discrete mathematics",
+        "Computer science",
+        "Satisfiability",
+        "Normal modal logic",
+        "Modal logic",
+        "Automated theorem proving",
+        "Central processing unit"
+    ],
+    "references": [
+        "39997369",
+        "1511155470",
+        "1585860046",
+        "1596013090",
+        "1605860778",
+        "1999997889"
+    ]
+}

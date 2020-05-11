@@ -1,0 +1,38 @@
+{
+    "id": "1782207343",
+    "title": "Efficient computation of approximate gene clusters based on reference occurrences",
+    "venue": "research in computational molecular biology",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Katharina Jahn",
+            "id": "2299304609",
+            "org": "Institut fur Informatik, Technische Fakultat, Universitat Bielefeld, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Gene",
+        "Bioinformatics",
+        "Time complexity",
+        "Computation",
+        "Gene cluster",
+        "Genetics",
+        "Computational molecular biology",
+        "Genome",
+        "Cluster (physics)",
+        "Comparative genomics",
+        "Biology"
+    ],
+    "references": [
+        "88156138",
+        "1488696346",
+        "1553810969",
+        "1563332361",
+        "1572754272",
+        "1969260677",
+        "1977600108",
+        "1994466654",
+        "2107903949",
+        "2167034750"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "174121519",
+    "title": "Human-centered compression for efficient text input",
+    "venue": "dagstuhl seminar proceedings",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Rani Nelken",
+            "id": "2181513983",
+            "org": "Division of Engineering|Applied Sciences|Harvard University"
+        },
+        {
+            "name": "Stuart M. Shieber",
+            "id": "1985347978",
+            "org": "Division of Engineering|Applied Sciences|Harvard University"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language",
+        "Viterbi decoder",
+        "Word error rate",
+        "Residual",
+        "Decoding methods",
+        "Language model",
+        "Machine learning",
+        "Artificial intelligence",
+        "Sentence",
+        "Task switching",
+        "Computer science"
+    ],
+    "references": [
+        "1625762979"
+    ]
+}

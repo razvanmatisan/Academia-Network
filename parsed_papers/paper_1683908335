@@ -1,0 +1,48 @@
+{
+    "id": "1683908335",
+    "title": "Early quantification and partitioned transition relations",
+    "venue": "international conference on computer design",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Ramin Hojati",
+            "id": "2135689897",
+            "org": "Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA, USA"
+        },
+        {
+            "name": "Sriram C. Krishnan",
+            "id": "2423642938",
+            "org": "Department of EECS|University of California Berkeley"
+        },
+        {
+            "name": "Robert K. Brayton",
+            "id": "2038038819",
+            "org": "Department of EECS|University of California Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Real-time computing",
+        "Heuristic",
+        "Multiplication",
+        "Graph bandwidth",
+        "Finite-state machine",
+        "Binary tree",
+        "Binary decision diagram",
+        "Computational complexity theory",
+        "Theoretical computer science",
+        "Computer science",
+        "Formal verification"
+    ],
+    "references": [
+        "164685601",
+        "1503973138",
+        "2029448190",
+        "2080267935",
+        "2107385565",
+        "2113251992",
+        "2137331557",
+        "2138436751",
+        "2149479807"
+    ]
+}

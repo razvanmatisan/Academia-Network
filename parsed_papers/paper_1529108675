@@ -1,0 +1,48 @@
+{
+    "id": "1529108675",
+    "title": "Modeling time-sensitive information diffusion in online social networks",
+    "venue": "conference on computer communications workshops",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Xin Xu",
+            "id": "2146825512",
+            "org": "Department of Electrical and Computer Engineering, North Carolina State University, Raleigh, 27695-7911, USA"
+        },
+        {
+            "name": "Xin Chen",
+            "id": "2712298263",
+            "org": "Department of Electrical and Computer Engineering, North Carolina State University, Raleigh, 27695-7911, USA"
+        },
+        {
+            "name": "Do Young Eun",
+            "id": "2105423826",
+            "org": "Department of Electrical and Computer Engineering, North Carolina State University, Raleigh, 27695-7911, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Network science",
+        "Telecommunications network",
+        "Information sensitivity",
+        "Graph",
+        "Existential quantification",
+        "Theoretical computer science",
+        "Population",
+        "Social network",
+        "Infection rate",
+        "Computer science"
+    ],
+    "references": [
+        "1501825524",
+        "1914027636",
+        "1937101755",
+        "1943015726",
+        "1984768569",
+        "1991427348",
+        "2061820396",
+        "2114202040",
+        "2126709939",
+        "2145446394",
+        "2165914564"
+    ]
+}

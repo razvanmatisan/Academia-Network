@@ -1,0 +1,47 @@
+{
+    "id": "1766812168",
+    "title": "The complexity of testing monomials in multivariate polynomials",
+    "venue": "conference on combinatorial optimization and applications",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Zhixiang Chen",
+            "id": "2223943589",
+            "org": "Department of Computer Science, University of Texas-Pan American, Edinburg, TX#TAB#"
+        },
+        {
+            "name": "Bin Fu",
+            "id": "2142112024",
+            "org": "Department of Computer Science, University of Texas-Pan American, Edinburg, TX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Classical orthogonal polynomials",
+        "Macdonald polynomials",
+        "Discrete mathematics",
+        "Complete homogeneous symmetric polynomial",
+        "Combinatorics",
+        "Monomial basis",
+        "Polynomial matrix",
+        "Mathematics",
+        "Discrete orthogonal polynomials",
+        "Monomial order",
+        "Difference polynomials"
+    ],
+    "references": [
+        "1517311456",
+        "1559422367",
+        "1575411448",
+        "1794078360",
+        "1852383912",
+        "2012411184",
+        "2031823362",
+        "2079560560",
+        "2086653003",
+        "2123852216",
+        "2147154704",
+        "2148352980",
+        "2157529519",
+        "2293988196"
+    ]
+}

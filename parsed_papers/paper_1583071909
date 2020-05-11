@@ -1,0 +1,43 @@
+{
+    "id": "1583071909",
+    "title": "Experiments with Tuneable Fitness Landscapes",
+    "venue": "parallel problem solving from nature",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Colin R. Reeves",
+            "id": "2021032546",
+            "org": "Coventry University"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Local optimum",
+        "Genetic algorithm",
+        "Discrete mathematics",
+        "Evolutionary algorithm",
+        "Fitness landscape",
+        "Magnitude (mathematics)",
+        "Functional decomposition",
+        "Search problem",
+        "Hamming code",
+        "Mathematics"
+    ],
+    "references": [
+        "3033171",
+        "16665459",
+        "19571631",
+        "77512158",
+        "94967961",
+        "100915052",
+        "121414251",
+        "174026032",
+        "1587189474",
+        "1588067184",
+        "1596568617",
+        "1796921492",
+        "1933385826",
+        "1976215910",
+        "2075121996"
+    ]
+}

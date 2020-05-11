@@ -1,0 +1,46 @@
+{
+    "id": "1571409615",
+    "title": "On Partial Validation of Logic Programs",
+    "venue": "algebraic methodology and software technology",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Sebastien Limet",
+            "id": "2436004736",
+            "org": "Universite d'Orleans"
+        },
+        {
+            "name": "Frederic Saubion",
+            "id": "2583775220",
+            "org": "Universite d'Orleans"
+        },
+        {
+            "name": "Frederic Saubion",
+            "id": "2583775220",
+            "org": "Universite d'Orleans"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Programming language",
+        "Theoretical computer science",
+        "Operational semantics",
+        "Tuple",
+        "Computer science",
+        "Algorithm",
+        "Prolog",
+        "Well-founded semantics",
+        "Interpreter",
+        "Finite set",
+        "Grammar"
+    ],
+    "references": [
+        "145263823",
+        "1513315908",
+        "1514945381",
+        "1984440958",
+        "1992391625",
+        "2011185234",
+        "2036292005"
+    ]
+}

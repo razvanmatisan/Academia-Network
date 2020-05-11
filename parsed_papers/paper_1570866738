@@ -1,0 +1,34 @@
+{
+    "id": "1570866738",
+    "title": "On the security of some cryptosystems based on error-correcting codes",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Florent Chabaud",
+            "id": "2137511983",
+            "org": "Laboratoire d'Informatique de l'ENS"
+        }
+    ],
+    "fields_of_study": [
+        "Error detection and correction",
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "Gaussian elimination",
+        "Number theory",
+        "Parity-check matrix",
+        "Hybrid cryptosystem",
+        "Computer science",
+        "Cryptosystem",
+        "Linear code"
+    ],
+    "references": [
+        "1510132879",
+        "1527005907",
+        "1536493828",
+        "2035929826",
+        "2093465763",
+        "2133480965",
+        "2147522842"
+    ]
+}

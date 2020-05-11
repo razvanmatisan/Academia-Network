@@ -1,0 +1,35 @@
+{
+    "id": "1531740278",
+    "title": "Guidelines for Designing Mobile Information Service Systems in a Value Network",
+    "venue": "bled econference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Elisabeth van de Kar",
+            "id": "2081022196",
+            "org": "Faculty of Technology|Policy and Management|Delft University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Information system",
+        "Service level objective",
+        "Service product management",
+        "Value network",
+        "Service design",
+        "Service delivery framework",
+        "Business",
+        "Service level requirement",
+        "Management science",
+        "Product design",
+        "Knowledge management"
+    ],
+    "references": [
+        "1517906922",
+        "1550031370",
+        "1791587663",
+        "2114662509",
+        "2134062730",
+        "2145994218",
+        "2166792323"
+    ]
+}

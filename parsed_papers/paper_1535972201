@@ -1,0 +1,47 @@
+{
+    "id": "1535972201",
+    "title": "Reducing the inferred type statements with individual grouping constructs",
+    "venue": "international semantic web conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ovunc Ozturk",
+            "id": "2149914450",
+            "org": "Department of Computer Engineering, Ege University, Bornova, Izmir, Turkey#TAB#"
+        },
+        {
+            "name": "Tugba Ozacar",
+            "id": "2031952559",
+            "org": "Department of Computer Engineering, Ege University, Bornova, Izmir, Turkey#TAB#"
+        },
+        {
+            "name": "Murat Osman Unalir",
+            "id": "2051622008",
+            "org": "Department of Computer Engineering, Ege University, Bornova, Izmir, Turkey#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Completeness (statistics)",
+        "Data mining",
+        "Time complexity",
+        "Transitive relation",
+        "Soundness",
+        "Subclass",
+        "Syntax",
+        "Ontology (information science)",
+        "Deductive closure",
+        "Mathematics"
+    ],
+    "references": [
+        "170090413",
+        "311418300",
+        "1498342057",
+        "1502834793",
+        "1541735670",
+        "1562378842",
+        "1565454015",
+        "1592095550",
+        "2153564400"
+    ]
+}

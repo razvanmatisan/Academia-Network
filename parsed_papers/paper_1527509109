@@ -1,0 +1,39 @@
+{
+    "id": "1527509109",
+    "title": "Equivalence of probabilistic tournament and polynomial ranking selection",
+    "venue": "world congress on computational intelligence",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Kassel Hingee",
+            "id": "2409949379",
+            "org": "Australian Nat. Univ., Canberra, ACT"
+        },
+        {
+            "name": "Marcus Hutter",
+            "id": "2050083044",
+            "org": "Australian Nat. Univ., Canberra, ACT"
+        }
+    ],
+    "fields_of_study": [
+        "Equivalence (measure theory)",
+        "Computer science",
+        "Machine learning",
+        "Artificial intelligence",
+        "Evolutionary computation",
+        "Mathematical optimization",
+        "Evolutionary algorithm",
+        "Probabilistic logic",
+        "Tournament selection",
+        "Tournament",
+        "Polynomial",
+        "Ranking"
+    ],
+    "references": [
+        "1564034019",
+        "1568834902",
+        "1639032689",
+        "2117336417",
+        "2159000073"
+    ]
+}

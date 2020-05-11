@@ -1,0 +1,46 @@
+{
+    "id": "1576499941",
+    "title": "Globally Optimal Surfaces By Continuous Maximal Flows",
+    "venue": "digital image computing: techniques and applications",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Ben Appleton",
+            "id": "2150811167",
+            "org": "Intelligent Real-Time Imaging and Sensing Group|University of Queensland"
+        },
+        {
+            "name": "Hugues Talbot",
+            "id": "2102642693",
+            "org": "CSIRO Mathematical and Information Sciences|Locked Bag"
+        }
+    ],
+    "fields_of_study": [
+        "Maximum flow problem",
+        "Computer vision",
+        "Image segmentation",
+        "3D reconstruction",
+        "Mathematical optimization",
+        "Artificial intelligence",
+        "Scale-space segmentation",
+        "Minimal surface",
+        "Segmentation-based object categorization",
+        "Active contour model",
+        "Global optimization",
+        "Mathematics"
+    ],
+    "references": [
+        "1540639362",
+        "1569930776",
+        "1649464328",
+        "1977948323",
+        "1980360173",
+        "2009231756",
+        "2075514126",
+        "2104095591",
+        "2106160885",
+        "2133216625",
+        "2134820502",
+        "2151783599"
+    ]
+}

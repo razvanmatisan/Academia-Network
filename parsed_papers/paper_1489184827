@@ -1,0 +1,30 @@
+{
+    "id": "1489184827",
+    "title": "The Role of Conversation Policy in Carrying Out Agent Conversations",
+    "venue": "Issues in Agent Communication",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Laurence R. Phillips",
+            "id": "2106498627",
+            "org": "Sandia National Laboratories"
+        },
+        {
+            "name": "Hamilton E. Link",
+            "id": "2111072171",
+            "org": "Sandia National Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Communication",
+        "Management science",
+        "Informing science",
+        "Domain specificity",
+        "Exceptional circumstances",
+        "Conversation",
+        "Computer science"
+    ],
+    "references": [
+        "1603296336"
+    ]
+}

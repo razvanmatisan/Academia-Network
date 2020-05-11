@@ -1,0 +1,26 @@
+{
+    "id": "124200587",
+    "title": "Causal ordering in a mixed structure",
+    "venue": "national conference on artificial intelligence",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Yumi Iwasaki",
+            "id": "2276819122",
+            "org": "Department of Computer Science, Carnegie Mellon University Pittsburgh, Pennsylvania and Knowledge Systems Laboratory, Department of Computer Science, Stanford University, Palo Alto, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Causal decision theory",
+        "Causality",
+        "Artificial intelligence",
+        "Computer science",
+        "Mixed model",
+        "Causal model",
+        "Asymmetric relation"
+    ],
+    "references": [
+        "1516909371"
+    ]
+}

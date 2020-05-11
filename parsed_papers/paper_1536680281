@@ -1,0 +1,39 @@
+{
+    "id": "1536680281",
+    "title": "Polarized Name Passing",
+    "venue": "foundations of software technology and theoretical computer science",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Martin Odersky",
+            "id": "248131350",
+            "org": "University of Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "Church encoding",
+        "Lambda cube",
+        "Process calculus",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Typed lambda calculus",
+        "Binary lambda calculus",
+        "System F",
+        "Lambda calculus",
+        "Simply typed lambda calculus",
+        "Mathematics"
+    ],
+    "references": [
+        "1511998399",
+        "1517276975",
+        "1561085604",
+        "1591694044",
+        "1604541089",
+        "1790031272",
+        "2026352711",
+        "2072048176",
+        "2093236316",
+        "2156876717",
+        "2170626879"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1502189437",
+    "title": "Search key substitution in the encipherment of B-trees",
+    "venue": "very large data bases",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Thomas Hardjono",
+            "id": "2647330848",
+            "org": "Department of Computer Science|University College|University of New South"
+        },
+        {
+            "name": "Jennifer Seberry",
+            "id": "2251197281",
+            "org": "Department of Computer Science|University College|University of New South"
+        }
+    ],
+    "fields_of_study": [
+        "Block design",
+        "Database",
+        "Computer science",
+        "Pointer (computer programming)",
+        "Encryption",
+        "Traverse",
+        "Filesystem-level encryption",
+        "Key (lock)",
+        "On-the-fly encryption",
+        "Adversary",
+        "Theoretical computer science"
+    ],
+    "references": [
+        "1539221976",
+        "1570229259",
+        "1590913070",
+        "1996360405",
+        "2005571213",
+        "2036781120",
+        "2068916775",
+        "2751199251"
+    ]
+}

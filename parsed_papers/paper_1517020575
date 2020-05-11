@@ -1,0 +1,33 @@
+{
+    "id": "1517020575",
+    "title": "A hierarchy of sets of infinite trees",
+    "venue": "Theoretical Computer Science",
+    "year": 1983,
+    "authors": [
+        {
+            "name": "Wolfgang Thomas",
+            "id": "2121581756",
+            "org": "Lehrstuhl fur Informatik II"
+        }
+    ],
+    "fields_of_study": [
+        "Fast-growing hierarchy",
+        "Discrete mathematics",
+        "Weight-balanced tree",
+        "Combinatorics",
+        "Hierarchy",
+        "Arithmetical hierarchy",
+        "Fundamental theorem",
+        "Tree automaton",
+        "Mathematics",
+        "Analytical hierarchy",
+        "Recursive tree"
+    ],
+    "references": [
+        "1970999740",
+        "1999929274",
+        "2035020702",
+        "2073663206",
+        "2094912129"
+    ]
+}

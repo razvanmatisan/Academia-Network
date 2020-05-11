@@ -1,0 +1,61 @@
+{
+    "id": "1598091301",
+    "title": "Rewriting Unions of General Conjunctive Queries Using Views",
+    "venue": "extending database technology",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Junhu Wang",
+            "id": "2115281420",
+            "org": "Griffith University"
+        },
+        {
+            "name": "Junhu Wang",
+            "id": "2115281420",
+            "org": "Griffith University"
+        },
+        {
+            "name": "Michael J. Maher",
+            "id": "2308495877",
+            "org": "Griffith University"
+        },
+        {
+            "name": "Michael J. Maher",
+            "id": "2308495877",
+            "org": "Griffith University"
+        },
+        {
+            "name": "Rodney W. Topor",
+            "id": "488584163",
+            "org": "Griffith University"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Predicate (grammar)",
+        "Data mining",
+        "Data integration",
+        "Open-world assumption",
+        "Conjunctive query",
+        "Data integrity",
+        "Rewriting",
+        "Computer science",
+        "Skolem normal form"
+    ],
+    "references": [
+        "99733817",
+        "1485145428",
+        "1501976648",
+        "1602519158",
+        "1604794355",
+        "1695319587",
+        "1879587332",
+        "1964202341",
+        "2093480367",
+        "2094394144",
+        "2126004201",
+        "2160983447",
+        "2295944566",
+        "2612212776"
+    ]
+}

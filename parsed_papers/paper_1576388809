@@ -1,0 +1,45 @@
+{
+    "id": "1576388809",
+    "title": "On Representations of Some Thickness-Two Graphs",
+    "venue": "graph drawing",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Joan P. Hutchinson",
+            "id": "2166683259",
+            "org": "Macalester College"
+        },
+        {
+            "name": "Thomas C. Shermer",
+            "id": "280479064",
+            "org": "Simon Fraser University"
+        },
+        {
+            "name": "Andrew Vince",
+            "id": "2113304939",
+            "org": "University of Florida"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Pathwidth",
+        "Discrete mathematics",
+        "Metric dimension",
+        "Chordal graph",
+        "Trapezoid graph",
+        "Strong perfect graph theorem",
+        "Indifference graph",
+        "Clique-sum",
+        "1-planar graph",
+        "Mathematics"
+    ],
+    "references": [
+        "59342596",
+        "1950991346",
+        "2000514873",
+        "2012650557",
+        "2039512408",
+        "2065471429",
+        "2134344894"
+    ]
+}

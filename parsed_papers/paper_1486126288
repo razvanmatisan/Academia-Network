@@ -1,0 +1,37 @@
+{
+    "id": "1486126288",
+    "title": "A Methodology for Reliable Systems Design",
+    "venue": "industrial and engineering applications of artificial intelligence and expert systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Jaime Solano-Soto",
+            "id": "2273774500",
+            "org": "Instituto Tecnologico de Costa Rica AP"
+        },
+        {
+            "name": "Luis Enrique Sucar",
+            "id": "2129650006",
+            "org": "ITESM -- Campus Cuernavaca"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Machine learning",
+        "Beam search",
+        "Artificial intelligence",
+        "Computer science",
+        "Systems design",
+        "Fault tree analysis",
+        "Algorithm",
+        "Compromise",
+        "Heuristics",
+        "Function block diagram",
+        "Reliability block diagram",
+        "Block diagram"
+    ],
+    "references": [
+        "1788662710",
+        "2159080219"
+    ]
+}

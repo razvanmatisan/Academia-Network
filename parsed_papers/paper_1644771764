@@ -1,0 +1,36 @@
+{
+    "id": "1644771764",
+    "title": "Image registration based on both feature and intensity matching",
+    "venue": "international conference on acoustics, speech, and signal processing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Yao Jianchao",
+            "id": "1956098912",
+            "org": "Signal Process. Lab., DSO Nat. Labs., Singapore, Singapore"
+        }
+    ],
+    "fields_of_study": [
+        "Feature detection (computer vision)",
+        "Kanade-Lucas-Tomasi feature tracker",
+        "Feature (computer vision)",
+        "Template matching",
+        "Artificial intelligence",
+        "Mathematical optimization",
+        "Image processing",
+        "Feature extraction",
+        "Pattern recognition",
+        "Small number",
+        "Image registration",
+        "Computer vision",
+        "Mathematics"
+    ],
+    "references": [
+        "1602748186",
+        "1963623641",
+        "2103876808",
+        "2108844357",
+        "2156386375",
+        "2753461371"
+    ]
+}

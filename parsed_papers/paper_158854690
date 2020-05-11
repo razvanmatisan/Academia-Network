@@ -1,0 +1,55 @@
+{
+    "id": "158854690",
+    "title": "Handling Non-compositionality in Multilingual CNLs",
+    "venue": "controlled natural language",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Ramona Enache",
+            "id": "2043520732",
+            "org": "University of Gothenburg"
+        },
+        {
+            "name": "Inari Listenmaa",
+            "id": "217174475",
+            "org": "University of Gothenburg"
+        },
+        {
+            "name": "Prasanth Kolachina",
+            "id": "2250931994",
+            "org": "University of Gothenburg"
+        }
+    ],
+    "fields_of_study": [
+        "Machine translation",
+        "Compound",
+        "Natural language processing",
+        "Principle of compositionality",
+        "Use case",
+        "Abstract syntax",
+        "Artificial intelligence",
+        "Expression (mathematics)",
+        "Parse tree",
+        "Computer science",
+        "Rule-based machine translation"
+    ],
+    "references": [
+        "45390577",
+        "182148874",
+        "183952284",
+        "1498763386",
+        "1514975018",
+        "1543444773",
+        "1562407453",
+        "1573035800",
+        "1982430640",
+        "2097606805",
+        "2108864051",
+        "2167694463",
+        "2172296070",
+        "2250190907",
+        "2250395065",
+        "2251039394",
+        "2251976333"
+    ]
+}

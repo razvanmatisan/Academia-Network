@@ -1,0 +1,34 @@
+{
+    "id": "1754776789",
+    "title": "Accelerated quantification of Bayesian networks with incomplete data",
+    "venue": "knowledge discovery and data mining",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Bo Thiesson",
+            "id": "2054555191",
+            "org": "Aalborg University, Aalborg O, Denmark#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Data mining",
+        "Expert system",
+        "Probabilistic logic",
+        "Conjugate gradient method",
+        "Computer science",
+        "Conditional probability",
+        "Expectation-maximization algorithm",
+        "Bayesian network",
+        "Artificial intelligence",
+        "Graphical model",
+        "Pattern recognition",
+        "Statistical model"
+    ],
+    "references": [
+        "1537443165",
+        "1989926363",
+        "2159080219",
+        "2170112109"
+    ]
+}

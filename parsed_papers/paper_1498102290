@@ -1,0 +1,30 @@
+{
+    "id": "1498102290",
+    "title": "Logical Omniscience vs. Logical Ignorance on a Dilemma of Epistemic Logic",
+    "venue": "portuguese conference on artificial intelligence",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Ho Ngoc Duc",
+            "id": "2263211112",
+            "org": "Institute of Logic and Philosophy of Science, University of Leipzig, Leipzig, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Logical truth",
+        "Epistemic possibility",
+        "Logical consequence",
+        "Logical possibility",
+        "Rule of inference",
+        "Algorithm",
+        "Non-classical logic",
+        "Multimodal logic",
+        "Epistemic modal logic",
+        "Computer science"
+    ],
+    "references": [
+        "1994227541",
+        "2091343125",
+        "2148717074"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1511356539",
+    "title": "Linking theories of concurrency",
+    "venue": "CSP'04 Proceedings of the 2004 international conference on Communicating Sequential Processes: the First 25 Years",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "He Jifeng",
+            "id": "1400043716",
+            "org": "Shanghai East China Normal University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Galois connection",
+        "Mathematical proof",
+        "Model checking",
+        "Process calculus",
+        "Concurrency",
+        "Discrete mathematics",
+        "Equivalence relation",
+        "Asymmetric relation",
+        "Bisimulation",
+        "Mathematics"
+    ],
+    "references": [
+        "1503973138",
+        "1547562281",
+        "1586966546",
+        "1603799276",
+        "1976268573",
+        "2102097307",
+        "2110425399",
+        "2118229393",
+        "2158942489"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1542185767",
+    "title": "Balanced Search Trees Made Simple",
+    "venue": "workshop on algorithms and data structures",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Arne Andersson",
+            "id": "2257519061",
+            "org": "Lund University"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Weight-balanced tree",
+        "Discrete mathematics",
+        "Search tree",
+        "Binary search tree",
+        "Linear search",
+        "Probabilistic logic",
+        "Binary tree",
+        "Skip list",
+        "Ternary search tree",
+        "Mathematics"
+    ],
+    "references": [
+        "1574082713",
+        "1601568537",
+        "1971131533",
+        "1972027649",
+        "1992200688",
+        "2014585672",
+        "2018097735",
+        "2021615496",
+        "2026166434",
+        "2071733808"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "14494209",
+    "title": "ANASTASIL: hybrid knowledge-based system for document layout analysis",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Andreas Dengel",
+            "id": "734377096",
+            "org": "German Research Center for Artificial Intelligence, Kaiserslautern, Fed. Rep. of Germany#TAB#"
+        },
+        {
+            "name": "Gerhard Barth",
+            "id": "1942254126",
+            "org": "German Research Center for Artificial Intelligence, Kaiserslautern, Fed. Rep. of Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Common Lisp",
+        "Artificial intelligence",
+        "Workstation",
+        "Soundness",
+        "Document layout analysis",
+        "Machine learning",
+        "Modular design",
+        "Knowledge-based systems",
+        "Knowledge representation and reasoning",
+        "Population",
+        "Computer science"
+    ],
+    "references": [
+        "65396277",
+        "90271241",
+        "1604723782"
+    ]
+}

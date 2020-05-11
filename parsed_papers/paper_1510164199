@@ -1,0 +1,42 @@
+{
+    "id": "1510164199",
+    "title": "Representing problem-solving for knowledge refinement",
+    "venue": "national conference on artificial intelligence",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Susan Craw",
+            "id": "2102443295",
+            "org": "School of Computer and Mathematical Sciences|Robert Gordon University"
+        },
+        {
+            "name": "Robin Boswell",
+            "id": "2166901373",
+            "org": "School of Computer and Mathematical Sciences|Robert Gordon University"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Knowledge extraction",
+        "Domain knowledge",
+        "Machine learning",
+        "General knowledge",
+        "Body of knowledge",
+        "Procedural knowledge",
+        "Computer science",
+        "Data mining",
+        "Knowledge-based systems"
+    ],
+    "references": [
+        "30654624",
+        "1505552723",
+        "1506882878",
+        "1580832589",
+        "1621412241",
+        "1975767562",
+        "1999141903",
+        "2113486804",
+        "2162152259",
+        "2165520550"
+    ]
+}

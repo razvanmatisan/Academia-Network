@@ -1,0 +1,37 @@
+{
+    "id": "1516159970",
+    "title": "Discovery of Decision Rules by Matching New Objects Against Data Tables",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Jan G. Bazan",
+            "id": "2155507894",
+            "org": "Pedagogical University of Rzeszow"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Discrete mathematics",
+        "Table (information)",
+        "Decision support system",
+        "Decision table",
+        "Data set",
+        "Computer experiment",
+        "Knowledge acquisition",
+        "Artificial intelligence",
+        "Data mining",
+        "Decision rule",
+        "Computer science",
+        "Rough set"
+    ],
+    "references": [
+        "177590838",
+        "1883898636",
+        "1997362234",
+        "2125055259",
+        "2136000097",
+        "2142334564",
+        "2151355822"
+    ]
+}

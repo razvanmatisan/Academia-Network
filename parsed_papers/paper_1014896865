@@ -1,0 +1,42 @@
+{
+    "id": "1014896865",
+    "title": "How TKIP Induces Biases of Internal States of Generic RC4",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Ryoma Ito",
+            "id": "2142083215",
+            "org": "Japan Advanced Institute of Science and Technology"
+        },
+        {
+            "name": "Atsuko Miyaji",
+            "id": "1454195615",
+            "org": "Japan Advanced Institute of Science and Technology"
+        }
+    ],
+    "fields_of_study": [
+        "RC4",
+        "Distributed computing",
+        "Byte",
+        "Computer science",
+        "Key generation",
+        "Theoretical computer science",
+        "Cryptographic protocol",
+        "Temporal Key Integrity Protocol",
+        "Key (lock)",
+        "Network packet",
+        "Keystream"
+    ],
+    "references": [
+        "1120573609",
+        "1427983509",
+        "1556597491",
+        "1565415113",
+        "1592773427",
+        "1742803828",
+        "2114023736",
+        "2400620274",
+        "2786219742"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1570592190",
+    "title": "Input Feature Extraction for Multilayered Perceptrons Using Supervised Principal Component Analysis",
+    "venue": "Neural Processing Letters",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Stavros J. Perantonis",
+            "id": "113163793",
+            "org": "Institute of Informatics and Telecommunications, National Center for Scientific Research ''Demokritos'', 153 10 Aghia Paraskevi, Athens, Greece, e-mail: sper@iit.demokrit ...#TAB#"
+        },
+        {
+            "name": "Vassilis Virvilis",
+            "id": "1994684544",
+            "org": "Institute of Informatics and Telecommunications, National Center for Scientific Research ''Demokritos'', 153 10 Aghia Paraskevi, Athens, Greece, e-mail: sper@iit.demokrit ...#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Supervised learning",
+        "Perceptron",
+        "Feedforward neural network",
+        "Machine learning",
+        "Artificial neural network",
+        "Principal component analysis",
+        "Pattern recognition",
+        "Feature extraction",
+        "Curse of dimensionality",
+        "Multilayer perceptron",
+        "Computer science"
+    ],
+    "references": [
+        "1509585639",
+        "1967628877",
+        "1976990135",
+        "2030118646",
+        "2131329059"
+    ]
+}

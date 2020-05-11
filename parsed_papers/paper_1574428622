@@ -1,0 +1,41 @@
+{
+    "id": "1574428622",
+    "title": "Collective Intelligence and Priority Routing in Networks",
+    "venue": "industrial and engineering applications of artificial intelligence and expert systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Tony White",
+            "id": "2096125512",
+            "org": "Carleton University"
+        },
+        {
+            "name": "Bernard Pagurek",
+            "id": "1974993623",
+            "org": "Carleton University"
+        },
+        {
+            "name": "Dwight Deugo",
+            "id": "2287719765",
+            "org": "Carleton University"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Collective intelligence",
+        "Swarm behaviour",
+        "Mobile agent",
+        "Information flow (information theory)",
+        "Computer science",
+        "Machine learning",
+        "Routing domain",
+        "Distributed computing",
+        "Foraging"
+    ],
+    "references": [
+        "1523176412",
+        "1664011265",
+        "2043226657",
+        "2138418526"
+    ]
+}

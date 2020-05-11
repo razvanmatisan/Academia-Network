@@ -1,0 +1,49 @@
+{
+    "id": "1598912513",
+    "title": "Applying a Metric Framework to the Software Process: an Experiment",
+    "venue": "european workshop on software process technology",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Vincenzo Ambriola",
+            "id": "1544242451",
+            "org": "Universita di Pisa"
+        },
+        {
+            "name": "R. di Meglio",
+            "id": "2152255272",
+            "org": "Universita di Pisa"
+        },
+        {
+            "name": "Vincenzo Gervasi",
+            "id": "1929945498",
+            "org": "Universita di Pisa"
+        },
+        {
+            "name": "B. Mercurio",
+            "id": "2515078135",
+            "org": "Universita di Pisa"
+        }
+    ],
+    "fields_of_study": [
+        "Personal software process",
+        "Software metric",
+        "Goal-Driven Software Development Process",
+        "Empirical process (process control model)",
+        "Software sizing",
+        "Software quality analyst",
+        "Package development process",
+        "Systems engineering",
+        "Computer science",
+        "Design process"
+    ],
+    "references": [
+        "2013210184",
+        "2025043404",
+        "2038214150",
+        "2109631046",
+        "2113355185",
+        "2137865376",
+        "2152458990"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "148450705",
+    "title": "Genetic programming for image analysis: orientation detection",
+    "venue": "genetic and evolutionary computation conference",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Simon C. Roberts",
+            "id": "2133890258",
+            "org": "Software Evolution Centre, Systems & Software Engineering Centre, Defence Evaluation and Research Agency, Malvern, Worcestershire, UK#TAB#"
+        },
+        {
+            "name": "Daniel Howard",
+            "id": "2000813521",
+            "org": "Software Evolution Centre, Systems & Software Engineering Centre, Defence Evaluation and Research Agency, Malvern, Worcestershire, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Principal axis theorem",
+        "Pixel",
+        "Genetic programming",
+        "Computer science",
+        "Computer vision"
+    ],
+    "references": [
+        "1506729496",
+        "1564160963",
+        "1998189263",
+        "2112359801"
+    ]
+}

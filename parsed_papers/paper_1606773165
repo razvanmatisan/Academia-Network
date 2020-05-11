@@ -1,0 +1,39 @@
+{
+    "id": "1606773165",
+    "title": "Microarray image processing based on clustering and morphological analysis",
+    "venue": "asia pacific bioinformatics conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Shuanhu Wu",
+            "id": "2661067512",
+            "org": "Department of Computer Engineering and Information Technology, City University of Hong Kong, Kowloon, Hong Kong, Tat Chee Avenue, Kowloon, HongKong#TAB#"
+        },
+        {
+            "name": "Hong Yan",
+            "id": "2192020951",
+            "org": "Department of Computer Engineering and Information Technology, City University of Hong Kong, Kowloon, Hong Kong, Tat Chee Avenue, Kowloon, HongKong and School of Electrical and Information Enginee ...#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Image segmentation",
+        "Cluster analysis",
+        "Bioinformatics",
+        "Image processing",
+        "DNA microarray",
+        "Mathematical morphology",
+        "Computer vision",
+        "Microarray",
+        "Information extraction",
+        "Artificial intelligence",
+        "Computer science",
+        "Pattern recognition",
+        "k-means clustering"
+    ],
+    "references": [
+        "2096579040",
+        "2098984346",
+        "2124260943",
+        "2154741421"
+    ]
+}

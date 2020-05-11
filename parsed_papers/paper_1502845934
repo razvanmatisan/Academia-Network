@@ -1,0 +1,33 @@
+{
+    "id": "1502845934",
+    "title": "Customer and User Involvement in Agile Software Development",
+    "venue": "International Conference on Agile Processes and Extreme Programming in Software Engineering",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Karlheinz Kautz",
+            "id": "1986347203",
+            "org": "Department of Informatics, Copenhagen Business School, Frederiksberg, Denmark"
+        }
+    ],
+    "fields_of_study": [
+        "Extreme programming practices",
+        "Agile usability engineering",
+        "Requirement",
+        "Best coding practices",
+        "Empirical process (process control model)",
+        "Business",
+        "User story",
+        "Agile Unified Process",
+        "Process management",
+        "Lean software development"
+    ],
+    "references": [
+        "1492628849",
+        "2071630918",
+        "2093277583",
+        "2105290104",
+        "2118596422",
+        "2168811232"
+    ]
+}

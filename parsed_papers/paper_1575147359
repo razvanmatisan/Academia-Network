@@ -1,0 +1,36 @@
+{
+    "id": "1575147359",
+    "title": "FACERET: An Interactive Face Retrieval System Based on Self-Organizing Maps",
+    "venue": "conference on image and video retrieval",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Javier Ruiz-del-Solar",
+            "id": "185302822",
+            "org": "Universidad de Chile"
+        },
+        {
+            "name": "Pablo Navarrete",
+            "id": "2121586400",
+            "org": "Universidad de Chile"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Automatic indexing",
+        "Self-organizing map",
+        "Artificial intelligence",
+        "Computer science",
+        "Content-based image retrieval",
+        "Computer vision",
+        "Visual Word",
+        "Principal component analysis",
+        "Image retrieval",
+        "Facial recognition system"
+    ],
+    "references": [
+        "1997011019",
+        "2068417771",
+        "2397807156"
+    ]
+}

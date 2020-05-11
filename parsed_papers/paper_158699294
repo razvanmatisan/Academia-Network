@@ -1,0 +1,29 @@
+{
+    "id": "158699294",
+    "title": "Prolog control rules",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Lee Naish",
+            "id": "155976146",
+            "org": "Department of Computer Science, University of Melbourne, Parkville, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Computation",
+        "Hierarchy",
+        "Machine learning",
+        "Breadth-first search",
+        "Computer science",
+        "Theoretical computer science",
+        "Prolog",
+        "Heuristics"
+    ],
+    "references": [
+        "147900504",
+        "2030720224",
+        "2092054572"
+    ]
+}

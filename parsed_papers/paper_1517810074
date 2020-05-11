@@ -1,0 +1,35 @@
+{
+    "id": "1517810074",
+    "title": "Feistel Type Authentication Codes",
+    "venue": "international cryptology conference",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Reihaneh Safavi-Naini",
+            "id": "2629042938",
+            "org": "University of New England"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext",
+        "Discrete mathematics",
+        "Pseudorandom function family",
+        "Permutation",
+        "Theoretical computer science",
+        "Provable security",
+        "Pseudorandom number generator",
+        "Pseudorandom permutation",
+        "Data Authentication Algorithm",
+        "Computer science",
+        "Plaintext"
+    ],
+    "references": [
+        "1484296207",
+        "1743965195",
+        "2010374466",
+        "2031495811",
+        "2077300005",
+        "2112876875",
+        "2117362057"
+    ]
+}

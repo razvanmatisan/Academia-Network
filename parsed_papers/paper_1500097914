@@ -1,0 +1,40 @@
+{
+    "id": "1500097914",
+    "title": "Experience Using Design Patterns to Evolve Communication Software Across Diverse OS Platforms",
+    "venue": "european conference on object oriented programming",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Douglas C. Schmidt",
+            "id": "2122019980",
+            "org": "Washington University"
+        },
+        {
+            "name": "Paul Stephenson",
+            "id": "2551602608",
+            "org": "Ericsson Inc."
+        }
+    ],
+    "fields_of_study": [
+        "Systems engineering",
+        "Software construction",
+        "Theoretical computer science",
+        "Software peer review",
+        "Architectural pattern",
+        "Software design description",
+        "Backporting",
+        "Software sizing",
+        "Package development process",
+        "Computer science",
+        "Structural pattern"
+    ],
+    "references": [
+        "19674749",
+        "1525458120",
+        "1557690937",
+        "1721311999",
+        "1791522999",
+        "2033337919",
+        "2064332668"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1522884824",
+    "title": "Modulation and Information Hiding in Images",
+    "venue": "information hiding",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Joshua R. Smith",
+            "id": "2154841660",
+            "org": "Physics and Media Group"
+        },
+        {
+            "name": "Barrett O. Comiskey",
+            "id": "2798759093",
+            "org": "Physics and Media Group"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Distortion",
+        "JPEG",
+        "Robustness (computer science)",
+        "Trade-off",
+        "Signal-to-noise ratio",
+        "Information hiding",
+        "Computer science",
+        "Channel capacity",
+        "Predistortion"
+    ],
+    "references": [
+        "1495264186",
+        "1516391317",
+        "1539419769",
+        "1583385494",
+        "2041404167",
+        "2158587798"
+    ]
+}

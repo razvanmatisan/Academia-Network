@@ -1,0 +1,35 @@
+{
+    "id": "1454285717",
+    "title": "Weakening epassports through bad implementations",
+    "venue": "radio frequency identification security and privacy issues",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Luigi Sportiello",
+            "id": "2632964178",
+            "org": "Joint Research Centre, European Commission, Ispra, VA, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Key space",
+        "Man-in-the-middle attack",
+        "Information sensitivity",
+        "Chip",
+        "Access control",
+        "Theoretical computer science",
+        "Distributed computing",
+        "Software versioning",
+        "Computer science",
+        "Software"
+    ],
+    "references": [
+        "1485497075",
+        "1515129964",
+        "1566224150",
+        "1741777793",
+        "1861014111",
+        "2139738359",
+        "2155978834"
+    ]
+}

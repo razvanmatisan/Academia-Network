@@ -1,0 +1,40 @@
+{
+    "id": "1594729984",
+    "title": "Positive/Negative Conditional Rewriting",
+    "venue": "mathematical foundations of computer science",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Stephane Kaplan",
+            "id": "2125309699",
+            "org": "Hebrew University"
+        },
+        {
+            "name": "Stephane Kaplan",
+            "id": "2125309699",
+            "org": "Hebrew University"
+        }
+    ],
+    "fields_of_study": [
+        "Converse",
+        "Discrete mathematics",
+        "Axiom",
+        "Subclass",
+        "Algebraic number",
+        "Normalization property",
+        "Algebraic semantics",
+        "Confluence",
+        "Mathematics",
+        "Rewriting"
+    ],
+    "references": [
+        "165205177",
+        "1526625950",
+        "1601937816",
+        "1858571084",
+        "1871398709",
+        "2018227989",
+        "2051566614",
+        "2098036931"
+    ]
+}

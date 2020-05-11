@@ -1,0 +1,40 @@
+{
+    "id": "1566138074",
+    "title": "Older users' requirements for location based services and mobile phones",
+    "venue": "human-computer interaction with mobile devices and services",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Zaheer Osman",
+            "id": "2336936617",
+            "org": "Loughborough University"
+        },
+        {
+            "name": "Martin Maguire",
+            "id": "2133918455",
+            "org": "Loughborough University"
+        },
+        {
+            "name": "Mikko Tarkiainen",
+            "id": "2798357866",
+            "org": "Loughborough University"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile phone",
+        "Internet privacy",
+        "Population",
+        "Universal design",
+        "Location-based service",
+        "Mobile service",
+        "Telecommunications",
+        "Mobile computing",
+        "Distributed computing",
+        "Services computing",
+        "Computer science",
+        "User requirements document"
+    ],
+    "references": [
+        "2057690530"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "1561235555",
+    "title": "A Direct Algorithm for Multi-valued Bounded Model Checking",
+    "venue": "automated technology for verification and analysis",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Jefferson O. Andrade",
+            "id": "2139527137",
+            "org": "Department of Computer Science, University of Tsukuba,#TAB#"
+        },
+        {
+            "name": "Yukiyoshi Kameyama",
+            "id": "2156943041",
+            "org": "Department of Computer Science, University of Tsukuba,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Conjunctive normal form",
+        "Symbolic trajectory evaluation",
+        "Propositional variable",
+        "Discrete mathematics",
+        "Model checking",
+        "Algorithm",
+        "Partial order reduction",
+        "Binary decision diagram",
+        "Bounded function",
+        "Abstraction model checking",
+        "Mathematics"
+    ],
+    "references": [
+        "130537534",
+        "1495299640",
+        "1556566737",
+        "1570118157",
+        "1604272107",
+        "1787074469",
+        "1999997889",
+        "2024148935",
+        "2034102118",
+        "2059949763",
+        "2168690391",
+        "2340735175"
+    ]
+}

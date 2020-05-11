@@ -1,0 +1,38 @@
+{
+    "id": "1569362442",
+    "title": "Type Inference with Recursive Type Equations",
+    "venue": "foundations of software science and computation structure",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Mario Coppo",
+            "id": "2148239905",
+            "org": "Universita di Torino"
+        }
+    ],
+    "fields_of_study": [
+        "Decidability",
+        "Discrete mathematics",
+        "Type theory",
+        "Equivalence (measure theory)",
+        "Combinatorics",
+        "Algebraic data type",
+        "Equivalence relation",
+        "Recursive data type",
+        "Unit type",
+        "Type inference",
+        "Mathematics"
+    ],
+    "references": [
+        "1510760360",
+        "1518395686",
+        "1552951486",
+        "1589260337",
+        "1829244603",
+        "1973576343",
+        "2029791960",
+        "2079958455",
+        "2131770667",
+        "2166822586"
+    ]
+}

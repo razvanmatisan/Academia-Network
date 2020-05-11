@@ -1,0 +1,47 @@
+{
+    "id": "1539589258",
+    "title": "Research on the ant colony optimization algorithm with multi-population hierarchy evolution",
+    "venue": "international conference on swarm intelligence",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Xuzhi Wang",
+            "id": "2645314934",
+            "org": "School of Communication and Information Engineering, Shanghai University, Shanghai, China#TAB#"
+        },
+        {
+            "name": "Jing Ni",
+            "id": "2460314967",
+            "org": "School of Communication and Information Engineering, Shanghai University, Shanghai, China#TAB#"
+        },
+        {
+            "name": "Wanggen Wan",
+            "id": "2679429356",
+            "org": "School of Communication and Information Engineering, Shanghai University, Shanghai, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Metaheuristic",
+        "Mathematical optimization",
+        "Artificial intelligence",
+        "Evolutionary algorithm",
+        "Meta-optimization",
+        "Population-based incremental learning",
+        "Ant colony optimization algorithms",
+        "Parallel metaheuristic",
+        "Travelling salesman problem",
+        "Global optimization",
+        "Algorithm",
+        "Computer science"
+    ],
+    "references": [
+        "2381850",
+        "1547668730",
+        "1550335796",
+        "1735161956",
+        "1801849579",
+        "2118051273",
+        "2153237658"
+    ]
+}

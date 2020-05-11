@@ -1,0 +1,25 @@
+{
+    "id": "1224304992",
+    "title": "Evaluation of Evolutionary and Genetic Optimizers: No Free Lunch.",
+    "venue": "Evolutionary Programming",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Thomas M. English",
+            "id": "2227741011",
+            "org": "Computer Science Department|Texas Tech University"
+        }
+    ],
+    "fields_of_study": [
+        "Uncountable set",
+        "Empirical research",
+        "Machine learning",
+        "Misinformation",
+        "No free lunch in search and optimization",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1978970913"
+    ]
+}

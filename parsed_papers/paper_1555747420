@@ -1,0 +1,49 @@
+{
+    "id": "1555747420",
+    "title": "Multipath routing protocols for mobile ad hoc networks: security issues and performance evaluation",
+    "venue": "WAC'05 Proceedings of the Second international IFIP conference on Autonomic Communication",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Rosa Mavropodi",
+            "id": "1999022",
+            "org": "Department of Informatics, University of Piraeus, Piraeus, Greece#TAB#"
+        },
+        {
+            "name": "Christos Douligeris",
+            "id": "248087451",
+            "org": "Department of Informatics, University of Piraeus, Piraeus, Greece#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Optimized Link State Routing Protocol",
+        "Link-state routing protocol",
+        "Ad hoc wireless distribution service",
+        "Adaptive quality of service multi-hop routing",
+        "Wireless Routing Protocol",
+        "Routing domain",
+        "Multipath routing",
+        "Dynamic Source Routing",
+        "Distributed computing",
+        "Computer network",
+        "Computer science"
+    ],
+    "references": [
+        "243568997",
+        "1513792956",
+        "1517796114",
+        "1520914943",
+        "1539115840",
+        "1556271561",
+        "1576683499",
+        "1981207378",
+        "2046003705",
+        "2073075740",
+        "2081633971",
+        "2099574482",
+        "2123971693",
+        "2127699957",
+        "2140000065",
+        "2166654424"
+    ]
+}

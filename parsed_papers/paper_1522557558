@@ -1,0 +1,52 @@
+{
+    "id": "1522557558",
+    "title": "Opportunities for CBR in learning by doing",
+    "venue": "international conference on case based reasoning",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Pedro Pablo Gomez-Martin",
+            "id": "1154819741",
+            "org": "Dep. Sistemas Informaticos y Programacion, Universidad Complutense de Madrid, Spain#TAB#"
+        },
+        {
+            "name": "Marco Antonio Gomez-Martin",
+            "id": "1250363862",
+            "org": "Dep. Sistemas Informaticos y Programacion, Universidad Complutense de Madrid, Spain#TAB#"
+        },
+        {
+            "name": "Belen Diaz-Agudo",
+            "id": "325641601",
+            "org": "Dep. Sistemas Informaticos y Programacion, Universidad Complutense de Madrid, Spain#TAB#"
+        },
+        {
+            "name": "Pedro A. Gonzalez-Calero",
+            "id": "409234972",
+            "org": "Dep. Sistemas Informaticos y Programacion, Universidad Complutense de Madrid, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Computer science",
+        "Machine learning",
+        "Description logic",
+        "Java",
+        "User assistance",
+        "Case-based reasoning",
+        "Object-oriented programming",
+        "Categorization",
+        "Virtual machine"
+    ],
+    "references": [
+        "119079920",
+        "1483868920",
+        "1538256386",
+        "1568198623",
+        "1572402249",
+        "1644672739",
+        "1841281077",
+        "1923935900",
+        "1971238833",
+        "2159973998"
+    ]
+}

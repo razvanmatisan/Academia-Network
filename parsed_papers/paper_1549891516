@@ -1,0 +1,55 @@
+{
+    "id": "1549891516",
+    "title": "A Hybrid Evolutionary Approach for the Protein Classification Problem",
+    "venue": "international conference on computational collective intelligence",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Denise Fukumi Tsunoda",
+            "id": "281632328",
+            "org": "Bioinformatics Laboratory, Federal University of Technology - Parana, Curitiba, Brazil 80230-901 and Department of Information Sciences, Federal University of Parana, Brazil#TAB#"
+        },
+        {
+            "name": "Heitor S. Lopes",
+            "id": "2127765569",
+            "org": "Department of Information Sciences, Federal University of Parana, Brazil#TAB#"
+        },
+        {
+            "name": "Alex Alves Freitas",
+            "id": "2131502281",
+            "org": "Computing Laboratory, University of Kent at Canterbury, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Genetic algorithm",
+        "Evolutionary computation",
+        "Protein Data Bank",
+        "Machine learning",
+        "Artificial intelligence",
+        "Computer science",
+        "Hybrid algorithm",
+        "Genetic programming",
+        "Decision tree",
+        "Satisfiability",
+        "Pattern recognition",
+        "Computer programming"
+    ],
+    "references": [
+        "1494605510",
+        "1523293200",
+        "1534705718",
+        "1535842702",
+        "1546022127",
+        "1576818901",
+        "1639032689",
+        "1965956478",
+        "2026401830",
+        "2100069291",
+        "2118892942",
+        "2122429432",
+        "2125055259",
+        "2126775187",
+        "2127464112",
+        "2156630822"
+    ]
+}

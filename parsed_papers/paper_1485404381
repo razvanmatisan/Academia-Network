@@ -1,0 +1,38 @@
+{
+    "id": "1485404381",
+    "title": "On the Natural Selection of Market Choice",
+    "venue": "Autonomous Agents and Multi-Agent Systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Aviv Bergman",
+            "id": "2146387930",
+            "org": "Center for Computational Genetics and Biological Modeling, Stanford University, 385 Serra Mall (Herrin 428), Stanford, CA 94305-5020#TAB#"
+        },
+        {
+            "name": "Moshe Tennenholtz",
+            "id": "127037394",
+            "org": "Center for Computational Genetics and Biological Modeling, Stanford University, 385 Serra Mall (Herrin 428), Stanford, CA 94305-5020 and Computer Science Department, Stanford University, Stanford, ...#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Machine learning",
+        "Artificial intelligence",
+        "Combinatorial auction",
+        "Microeconomics",
+        "Common value auction",
+        "Double auction",
+        "Eauction",
+        "English auction",
+        "Reverse auction",
+        "Auction theory",
+        "Forward auction"
+    ],
+    "references": [
+        "1533884543",
+        "1559928423",
+        "1585154896",
+        "2070552559"
+    ]
+}

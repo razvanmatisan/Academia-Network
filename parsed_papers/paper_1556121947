@@ -1,0 +1,27 @@
+{
+    "id": "1556121947",
+    "title": "Control Language for Harmonisation Process",
+    "venue": "international conference on music and artificial intelligence",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Somnuk Phon-Amnuaisuk",
+            "id": "2215360492",
+            "org": "Multimedia University"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Musical acoustics",
+        "Knowledge representation and reasoning",
+        "Process control",
+        "Musical form",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1544699102",
+        "2118730391",
+        "2405997746"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "1560681040",
+    "title": "The completeness of propositional dynamic logic",
+    "venue": "mathematical foundations of computer science",
+    "year": 1978,
+    "authors": [
+        {
+            "name": "Rohit Parikh",
+            "id": "2114997833",
+            "org": "Boston University"
+        }
+    ],
+    "fields_of_study": [
+        "Modal m-calculus",
+        "Propositional variable",
+        "Discrete mathematics",
+        "Dynamic logic (modal logic)",
+        "Zeroth-order logic",
+        "Resolution (logic)",
+        "Well-formed formula",
+        "Intermediate logic",
+        "Computer science",
+        "Autoepistemic logic"
+    ],
+    "references": [
+        "2132751985"
+    ]
+}

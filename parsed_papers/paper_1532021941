@@ -1,0 +1,52 @@
+{
+    "id": "1532021941",
+    "title": "Synchronization of logics",
+    "venue": "Studia Logica",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Amilcar Sernadas",
+            "id": "2247208881",
+            "org": "Departamento de Matematica, IST, Lisboa, Portugal"
+        },
+        {
+            "name": "Cristina Sernadas",
+            "id": "1881613513",
+            "org": "Departamento de Matematica, IST, Lisboa, Portugal"
+        },
+        {
+            "name": "Carlos Caleiro",
+            "id": "2090746859",
+            "org": "Departamento de Matematica, IST, Lisboa, Portugal"
+        }
+    ],
+    "fields_of_study": [
+        "T-norm fuzzy logics",
+        "Algorithm",
+        "Computation tree logic",
+        "Interval temporal logic",
+        "Discrete mathematics",
+        "Mathematics",
+        "Dynamic logic (modal logic)",
+        "Monoidal t-norm logic",
+        "Theoretical computer science",
+        "Temporal logic of actions",
+        "Linear temporal logic",
+        "Substructural logic"
+    ],
+    "references": [
+        "1577589213",
+        "1756661417",
+        "1757620502",
+        "1847493312",
+        "1853944397",
+        "2000138546",
+        "2010883554",
+        "2017661088",
+        "2035688359",
+        "2081329681",
+        "2084910510",
+        "2086974576",
+        "2564698430"
+    ]
+}

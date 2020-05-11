@@ -1,0 +1,43 @@
+{
+    "id": "1539018624",
+    "title": "Effective probability forecasting for time series data using standard machine learning techniques",
+    "venue": "international conference on advances in pattern recognition",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "David George Lindsay",
+            "id": "2166404909",
+            "org": "Computer Learning Research Centre#TAB#"
+        },
+        {
+            "name": "Sian Cox",
+            "id": "2596875373",
+            "org": "School of Biological Sciences, Royal Holloway University of London, Egham, Surrey, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Receiver operating characteristic",
+        "Time series",
+        "Support vector machine",
+        "Raw data",
+        "Artificial neural network",
+        "Naive Bayes classifier",
+        "Machine learning",
+        "Dynamic time warping",
+        "Pattern recognition",
+        "Computer science",
+        "Artificial intelligence",
+        "Hidden Markov model"
+    ],
+    "references": [
+        "69407335",
+        "95351861",
+        "1485127182",
+        "1689445748",
+        "1853995153",
+        "2006783944",
+        "2012942264",
+        "2034528422",
+        "2132641846"
+    ]
+}

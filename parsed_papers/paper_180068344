@@ -1,0 +1,33 @@
+{
+    "id": "180068344",
+    "title": "Middleware and Language for Sensor Streams",
+    "venue": "database and expert systems applications",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Pedro Furtado",
+            "id": "2148674672",
+            "org": "University of Coimbra, Polo II"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Data mining",
+        "Wireless sensor network",
+        "Computer science",
+        "STREAMS",
+        "Real-time computing",
+        "Middleware",
+        "Data processing"
+    ],
+    "references": [
+        "1568630508",
+        "1582353492",
+        "1971903460",
+        "2015465802",
+        "2125555950",
+        "2125572812",
+        "2149576945",
+        "2154721480"
+    ]
+}

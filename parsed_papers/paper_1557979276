@@ -1,0 +1,43 @@
+{
+    "id": "1557979276",
+    "title": "Learning what works in ITS from non-traditional randomized controlled trial data",
+    "venue": "intelligent tutoring systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Zachary A. Pardos",
+            "id": "1920674073",
+            "org": "Worcester Polytechnic Institute#TAB#"
+        },
+        {
+            "name": "Matthew D. Dailey",
+            "id": "2444645338",
+            "org": "Worcester Polytechnic Institute#TAB#"
+        },
+        {
+            "name": "Neil T. Heffernan",
+            "id": "542498001",
+            "org": "Worcester Polytechnic Institute#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Statistical hypothesis testing",
+        "Mastery learning",
+        "Artificial intelligence",
+        "Machine learning",
+        "Design of experiments",
+        "Best practice",
+        "Randomized controlled trial",
+        "Computer science",
+        "Bayesian network",
+        "Data mining",
+        "Bayesian probability"
+    ],
+    "references": [
+        "155259151",
+        "1510397660",
+        "1788054970",
+        "2015040676",
+        "2141638589"
+    ]
+}

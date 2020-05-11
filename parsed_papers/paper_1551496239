@@ -1,0 +1,41 @@
+{
+    "id": "1551496239",
+    "title": "An Architecture for Ambient Assisted Living and Health Environments",
+    "venue": "distributed computing and artificial intelligence",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Antonio J. Jara",
+            "id": "2097770307",
+            "org": "Department of Information and Communications Engineering Computer Science Faculty, University of Murcia, Murcia, Spain#TAB#"
+        },
+        {
+            "name": "Miguel A. Zamora",
+            "id": "2130803603",
+            "org": "Department of Information and Communications Engineering Computer Science Faculty, University of Murcia, Murcia, Spain#TAB#"
+        },
+        {
+            "name": "Antonio F. Gomez Skarmeta",
+            "id": "2167418871",
+            "org": "Department of Information and Communications Engineering Computer Science Faculty, University of Murcia, Murcia, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Home automation",
+        "Medical record",
+        "Computer security",
+        "Data mining",
+        "Computer science",
+        "Chronic condition",
+        "Quality of life",
+        "Architecture",
+        "Ambient intelligence"
+    ],
+    "references": [
+        "271784081",
+        "1617795973",
+        "1969110479",
+        "2073366701",
+        "2112167136"
+    ]
+}

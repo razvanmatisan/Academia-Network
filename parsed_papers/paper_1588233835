@@ -1,0 +1,39 @@
+{
+    "id": "1588233835",
+    "title": "Non-intrusive physiological monitoring for automated stress detection in human-computer interaction",
+    "venue": "international conference on human computer interaction",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Armando Barreto",
+            "id": "2160256189",
+            "org": "Electrical and Computer Engineering Department, Florida International University, Miami, Florida and Biomedical Engineering Department, Florida International University, Miami, Florida#TAB#"
+        },
+        {
+            "name": "Jing Zhai",
+            "id": "2034386647",
+            "org": "Electrical and Computer Engineering Department, Florida International University, Miami, Florida#TAB#"
+        },
+        {
+            "name": "Malek Adjouadi",
+            "id": "2261557299",
+            "org": "Electrical and Computer Engineering Department, Florida International University, Miami, Florida and Biomedical Engineering Department, Florida International University, Miami, Florida#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Signal processing",
+        "Support vector machine",
+        "Human-computer interaction",
+        "Affective computing",
+        "Decision tree",
+        "Naive Bayes classifier",
+        "Stroop effect",
+        "Skin conductance",
+        "Computer science",
+        "Affect (psychology)"
+    ],
+    "references": [
+        "2027151471",
+        "2171801645"
+    ]
+}

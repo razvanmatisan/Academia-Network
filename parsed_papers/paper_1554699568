@@ -1,0 +1,24 @@
+{
+    "id": "1554699568",
+    "title": "Advanced research with autonomous unmanned aerial vehicles",
+    "venue": "principles of knowledge representation and reasoning",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Patrick Doherty",
+            "id": "2118756264",
+            "org": "Department of Computer and Information Science, Linkoping University, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Data collection",
+        "Knowledge representation and reasoning",
+        "Payload",
+        "Simulation",
+        "Software architecture"
+    ],
+    "references": [
+        "1909730685"
+    ]
+}

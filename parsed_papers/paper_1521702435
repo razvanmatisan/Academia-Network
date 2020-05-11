@@ -1,0 +1,39 @@
+{
+    "id": "1521702435",
+    "title": "A motion capture system for sign language synthesis: overview and related issues",
+    "venue": "international symposium on visual computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Laszlo Rajmund Havasi",
+            "id": "623187538",
+            "org": "PannonVision, Szeged, Hungary#TAB#"
+        },
+        {
+            "name": "Helga M. Szabo",
+            "id": "2074757272",
+            "org": "National Association of the Deaf, Budapest, Hungary#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Control engineering",
+        "Speech recognition",
+        "Human-computer interaction",
+        "Motion estimation",
+        "Data processing system",
+        "Sign language",
+        "Speech synthesis",
+        "Group method of data handling",
+        "Motion capture",
+        "Gesture recognition",
+        "Computer science",
+        "Tracking system"
+    ],
+    "references": [
+        "1485483989",
+        "1533471604",
+        "1580472634",
+        "1583026731",
+        "1869643149"
+    ]
+}

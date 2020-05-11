@@ -1,0 +1,29 @@
+{
+    "id": "1503135576",
+    "title": "Local Configurations of Digital Hyperplanes",
+    "venue": "discrete geometry for computer imagery",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Yan Gerard",
+            "id": "2109130484",
+            "org": "Ensemble Universitaire des Cezeaux"
+        }
+    ],
+    "fields_of_study": [
+        "Arithmetic function",
+        "Combinatorics",
+        "Software deployment",
+        "Discrete mathematics",
+        "Hyperplane",
+        "Arrangement of hyperplanes",
+        "Normal",
+        "Image processing",
+        "Computational geometry",
+        "Mathematics"
+    ],
+    "references": [
+        "1492552431",
+        "1521330299"
+    ]
+}

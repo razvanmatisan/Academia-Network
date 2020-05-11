@@ -1,0 +1,48 @@
+{
+    "id": "128624336",
+    "title": "Knowledge discovery in telecommunication services data using Bayesian network models",
+    "venue": "knowledge discovery and data mining",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Kazuo J. Ezawa",
+            "id": "920822492",
+            "org": "AT&T Bell Laboratories, Murray Hill, NJ#TAB#"
+        },
+        {
+            "name": "Steven W. Norton",
+            "id": "2522586442",
+            "org": "AT&T Bell Laboratories, Murray Hill, NJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Clustering high-dimensional data",
+        "Data mining",
+        "Conditional independence",
+        "Artificial intelligence",
+        "Machine learning",
+        "Knowledge extraction",
+        "Variable-order Bayesian network",
+        "Decision support system",
+        "Bayesian network",
+        "Network model",
+        "Telecommunications service"
+    ],
+    "references": [
+        "1487306946",
+        "1493534224",
+        "1517993545",
+        "1548084629",
+        "1550377132",
+        "1595468493",
+        "1906182963",
+        "1992880122",
+        "2008906462",
+        "2096713506",
+        "2125055259",
+        "2130673478",
+        "2159080219",
+        "2170112109"
+    ]
+}

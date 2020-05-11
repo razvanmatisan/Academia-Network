@@ -1,0 +1,36 @@
+{
+    "id": "1493987013",
+    "title": "Refinement from a Control Problem to Programs",
+    "venue": "formal methods",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Michael Schenke",
+            "id": "2067908533",
+            "org": "Universitat Oldenburg"
+        },
+        {
+            "name": "Anders Peter Ravn",
+            "id": "2304933903",
+            "org": "Technical University of Denmark"
+        }
+    ],
+    "fields_of_study": [
+        "Notation",
+        "Interval temporal logic",
+        "Rotation formalisms in three dimensions",
+        "Formalism (philosophy)",
+        "Theoretical computer science",
+        "Functional design",
+        "Trajectory",
+        "Duration calculus",
+        "Boiler (power generation)",
+        "Computer science"
+    ],
+    "references": [
+        "1503394241",
+        "1572705642",
+        "1585361615",
+        "2166775836"
+    ]
+}

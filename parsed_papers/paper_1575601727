@@ -1,0 +1,46 @@
+{
+    "id": "1575601727",
+    "title": "LIDS: Learning Intrusion Detection System",
+    "venue": "the florida ai research society",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Mayukh Dass",
+            "id": "2466270091",
+            "org": "University of Georgia"
+        },
+        {
+            "name": "James Cannady",
+            "id": "2012575455",
+            "org": "IEEE Computer Society"
+        },
+        {
+            "name": "Walter D. Potter",
+            "id": "2135631992",
+            "org": "University of Georgia"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Host-based intrusion detection system",
+        "Autonomous agent",
+        "Artificial intelligence",
+        "Artificial neural network",
+        "Blackboard system",
+        "Intrusion detection system",
+        "Computer science",
+        "Internet traffic",
+        "Architecture",
+        "Distributed computing",
+        "Network security"
+    ],
+    "references": [
+        "1604191635",
+        "1627728918",
+        "1966454457",
+        "2100903665",
+        "2126332605",
+        "2150847526",
+        "2157021454"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "1509637774",
+    "title": "Programming in OBJ and Maude",
+    "venue": "Functional Programming, Concurrency, Simulation and Automated Reasoning: International Lecture Series 1991-1992, McMaster University, Hamilton, Ontario, Canada",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Timothy C. Winkler",
+            "id": "1979492537",
+            "org": "SRI International"
+        }
+    ],
+    "fields_of_study": [
+        "Programming paradigm",
+        "Concurrent object-oriented programming",
+        "Inductive programming",
+        "Concurrent constraint logic programming",
+        "Functional logic programming",
+        "Algorithm",
+        "Reactive programming",
+        "Programming domain",
+        "Programming language",
+        "Logic programming",
+        "Computer science"
+    ],
+    "references": [
+        "89903256",
+        "134953795",
+        "199630850",
+        "1520295824",
+        "1542082418",
+        "1556743088",
+        "1559996602",
+        "1792334848",
+        "1857327297",
+        "1976195354",
+        "1997189669",
+        "2019751493",
+        "2029176884",
+        "2056637458",
+        "2061786858",
+        "2062341323",
+        "2180920399"
+    ]
+}

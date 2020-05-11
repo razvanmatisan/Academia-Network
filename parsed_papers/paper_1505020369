@@ -1,0 +1,41 @@
+{
+    "id": "1505020369",
+    "title": "Intelligent Collaborative Information Retrieval",
+    "venue": "ibero american conference on ai",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Joaquin Delgado",
+            "id": "2150651896",
+            "org": "Nagoya Institute of Technology"
+        },
+        {
+            "name": "Naohiro Ishii",
+            "id": "2225240255",
+            "org": "Nagoya Institute of Technology"
+        },
+        {
+            "name": "Tomoki Ura",
+            "id": "2281993831",
+            "org": "Nagoya Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "Information system",
+        "Collaborative filtering",
+        "Domain specificity",
+        "Information filtering system",
+        "Data mining",
+        "The Internet",
+        "User profile",
+        "Computer science"
+    ],
+    "references": [
+        "1514499253",
+        "1994220221",
+        "2113609601",
+        "2124591829",
+        "2155106456"
+    ]
+}

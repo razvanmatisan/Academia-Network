@@ -1,0 +1,50 @@
+{
+    "id": "1570739889",
+    "title": "From Informal Knowledge to Formal Logic: A Realistic Case Study in Medical Protocols",
+    "venue": "knowledge acquisition, modeling and management",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Mar Marcos",
+            "id": "2125937205",
+            "org": "Vrije Universiteit Amsterdam"
+        },
+        {
+            "name": "Michael Balser",
+            "id": "2308594213",
+            "org": "Universitat Augsburg"
+        },
+        {
+            "name": "Annette ten Teije",
+            "id": "2297608794",
+            "org": "Universiteit Utrecht"
+        },
+        {
+            "name": "Frank van Harmelen",
+            "id": "333553561",
+            "org": "Vrije Universiteit Amsterdam"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Knowledge management",
+        "Knowledge engineering",
+        "Mathematical proof",
+        "Software engineering",
+        "Body of knowledge",
+        "Satisfiability",
+        "Knowledge representation and reasoning",
+        "Automated theorem proving",
+        "Knowledge modeling",
+        "Artificial intelligence",
+        "Temporal logic"
+    ],
+    "references": [
+        "1578925735",
+        "1748251377",
+        "1897651547",
+        "2009570820",
+        "2038569232",
+        "2057630596"
+    ]
+}

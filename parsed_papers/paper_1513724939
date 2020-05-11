@@ -1,0 +1,39 @@
+{
+    "id": "1513724939",
+    "title": "Environmental noise classification for multimedia libraries",
+    "venue": "database and expert systems applications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Stephane Bressan",
+            "id": "2159446685",
+            "org": "Department of Computer Science, School of Computing, National University of Singapore, Singapore#TAB#"
+        },
+        {
+            "name": "Boon Tiang Tan",
+            "id": "2528236230",
+            "org": "Department of Computer Science, School of Computing, National University of Singapore, Singapore#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Information system",
+        "Document retrieval",
+        "Database",
+        "Feature extraction",
+        "Environmental noise",
+        "Multimedia",
+        "Management information systems",
+        "Computer science",
+        "Information extraction",
+        "Indexation",
+        "Library classification"
+    ],
+    "references": [
+        "1561603276",
+        "2058189943",
+        "2144679084",
+        "2149684865",
+        "2153635508",
+        "2161177789"
+    ]
+}

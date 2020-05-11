@@ -1,0 +1,38 @@
+{
+    "id": "1488339671",
+    "title": "Deploying Trust Policies on the Semantic Web",
+    "venue": "international conference on trust management",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Brian Matthews",
+            "id": "2132256430",
+            "org": "CCLRC Rutherford Appleton Laboratory Didcot"
+        },
+        {
+            "name": "Theodosis Dimitrakos",
+            "id": "2174327749",
+            "org": "CCLRC Rutherford Appleton Laboratory Didcot"
+        }
+    ],
+    "fields_of_study": [
+        "Data Web",
+        "Web service",
+        "Web standards",
+        "World Wide Web",
+        "Social Semantic Web",
+        "Semantic grid",
+        "Semantic Web",
+        "Semantic Web Stack",
+        "Service-oriented architecture",
+        "Knowledge management",
+        "Computer science"
+    ],
+    "references": [
+        "130640788",
+        "1499011913",
+        "1560267311",
+        "1881860748",
+        "2162737732"
+    ]
+}

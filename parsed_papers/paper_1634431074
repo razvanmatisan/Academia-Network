@@ -1,0 +1,28 @@
+{
+    "id": "1634431074",
+    "title": "Recognition of 3-D objects using the extended Gaussian image",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1981,
+    "authors": [
+        {
+            "name": "Katsushi Ikeuchi",
+            "id": "2780189010",
+            "org": "Electrotechnical Laboratory, Ibaraki, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Principal axis theorem",
+        "Convex polytope",
+        "Mathematical optimization",
+        "Gaussian",
+        "Speech coding",
+        "Projected area",
+        "Gaussian surface",
+        "Computer vision",
+        "Mathematics",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1990779621"
+    ]
+}

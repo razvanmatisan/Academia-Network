@@ -1,0 +1,38 @@
+{
+    "id": "106425152",
+    "title": "Selective Weight Update for Neural Network Its Backgrounds",
+    "venue": "active media technology",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Yoshitsugu Kakemoto",
+            "id": "2468200168",
+            "org": "The JSOL, Ltd, Chuo-ku, Japan#TAB#"
+        },
+        {
+            "name": "Shinichi Nakasuka",
+            "id": "2110894417",
+            "org": "The University of Tokyo, Bunkyo-ku, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Feedforward neural network",
+        "Hybrid neural network",
+        "Computer science",
+        "Data mining",
+        "Cellular neural network",
+        "Time delay neural network",
+        "Nervous system network models",
+        "Artificial neural network",
+        "Recurrent neural network",
+        "Machine learning",
+        "Probabilistic neural network",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1493120936",
+        "1529046154",
+        "1582813132",
+        "2143268787"
+    ]
+}

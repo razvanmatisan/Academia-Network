@@ -1,0 +1,32 @@
+{
+    "id": "1590639373",
+    "title": "On rotation group and encryption of analog signals",
+    "venue": "international cryptology conference",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Su-shing Chen",
+            "id": "2636608978",
+            "org": "University of Florida"
+        }
+    ],
+    "fields_of_study": [
+        "Orthogonal group",
+        "Discrete mathematics",
+        "General linear group",
+        "Combinatorics",
+        "SO(8)",
+        "Indefinite orthogonal group",
+        "Unitary group",
+        "Symmetric group",
+        "Charts on SO",
+        "Mathematics",
+        "Rotation group SO"
+    ],
+    "references": [
+        "1571155304",
+        "1887847298",
+        "2083135933",
+        "2114170515"
+    ]
+}

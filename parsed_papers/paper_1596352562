@@ -1,0 +1,37 @@
+{
+    "id": "1596352562",
+    "title": "Informalising Formal Mathematics: Searching the Mizar Library with Latent Semantics",
+    "venue": "mathematical knowledge management",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Paul A. Cairns",
+            "id": "2157666506",
+            "org": "University College London"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Knowledge engineering",
+        "Mizar system",
+        "Semantics",
+        "Formal methods",
+        "Algorithm",
+        "Latent semantic indexing",
+        "Computer science",
+        "Search engine indexing",
+        "Natural language processing",
+        "Search algorithm",
+        "Indexation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1501292707",
+        "1546768125",
+        "1559227632",
+        "1591754771",
+        "1603295320",
+        "1990006599",
+        "2120926795"
+    ]
+}

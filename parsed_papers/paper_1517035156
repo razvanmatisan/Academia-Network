@@ -1,0 +1,32 @@
+{
+    "id": "1517035156",
+    "title": "A Transaction Model",
+    "venue": "international colloquium on automata, languages and programming",
+    "year": 1980,
+    "authors": [
+        {
+            "name": "Jim Gray",
+            "id": "2131537204",
+            "org": "IBM Research San Jose Research Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Optimistic concurrency control",
+        "X/Open XA",
+        "Computer science",
+        "Non-lock concurrency control",
+        "Isolation (database systems)",
+        "Distributed computing",
+        "Distributed transaction",
+        "Distributed concurrency control",
+        "Two-phase locking",
+        "Serializability"
+    ],
+    "references": [
+        "1991199257",
+        "2009998184",
+        "2023304911",
+        "2083875802",
+        "2106887953"
+    ]
+}

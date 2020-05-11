@@ -1,0 +1,50 @@
+{
+    "id": "1499408165",
+    "title": "On the dimensionality of voting games",
+    "venue": "national conference on artificial intelligence",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Edith Elkind",
+            "id": "849889236",
+            "org": "Electronics & Computer Science, University of Southampton, Southampton, UK#TAB#"
+        },
+        {
+            "name": "Leslie Ann Goldberg",
+            "id": "2131069052",
+            "org": "Computer Science, University of Liverpool, Liverpool, UK#TAB#"
+        },
+        {
+            "name": "Paul W. Goldberg",
+            "id": "2145100532",
+            "org": "Computer Science, University of Liverpool, Liverpool, UK#TAB#"
+        },
+        {
+            "name": "Michael Wooldridge",
+            "id": "2345025092",
+            "org": "Computer Science, University of Liverpool, Liverpool, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Cardinal voting systems",
+        "Sequential game",
+        "Condorcet method",
+        "Discrete mathematics",
+        "Machine learning",
+        "Anti-plurality voting",
+        "Voting",
+        "Computer science",
+        "Combinatorial game theory",
+        "Weighted voting",
+        "Approval voting"
+    ],
+    "references": [
+        "1549171560",
+        "1609370892",
+        "1994577957",
+        "2046116913",
+        "2089610977",
+        "2167073044"
+    ]
+}

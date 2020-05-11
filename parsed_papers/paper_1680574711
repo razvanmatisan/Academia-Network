@@ -1,0 +1,39 @@
+{
+    "id": "1680574711",
+    "title": "Complexity of manipulating elections with few candidates",
+    "venue": "national conference on artificial intelligence",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Vincent Conitzer",
+            "id": "24490792",
+            "org": "Computer Science Department, Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA"
+        },
+        {
+            "name": "Tuomas Sandholm",
+            "id": "2070867630",
+            "org": "Computer Science Department, Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical economics",
+        "Machine learning",
+        "Mathematics",
+        "Voting",
+        "Artificial intelligence",
+        "Game theory",
+        "Aggregation problem",
+        "Constructive",
+        "Complete information",
+        "Welfare economics",
+        "Bayesian network",
+        "Computational complexity theory",
+        "Single transferable vote"
+    ],
+    "references": [
+        "32216251",
+        "59059920",
+        "2107993699",
+        "2293341947"
+    ]
+}

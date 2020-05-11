@@ -1,0 +1,40 @@
+{
+    "id": "1524621588",
+    "title": "Gestalt-Based Composition and Performance in Multimodal Environments",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Antonio Camurri",
+            "id": "323498153",
+            "org": "DIST, University of Genova"
+        },
+        {
+            "name": "Marc Leman",
+            "id": "2168806359",
+            "org": "IPEM, University of Ghent"
+        }
+    ],
+    "fields_of_study": [
+        "Musical acoustics",
+        "Natural language processing",
+        "Computer music",
+        "Active listening",
+        "Knowledge representation and reasoning",
+        "Multimedia",
+        "Gestalt psychology",
+        "Distributed computing",
+        "Multimodal interaction",
+        "Artificial intelligence",
+        "Composition (visual arts)",
+        "Architecture",
+        "Computer science"
+    ],
+    "references": [
+        "129140370",
+        "140037322",
+        "179083188",
+        "1553424343",
+        "1993584577"
+    ]
+}

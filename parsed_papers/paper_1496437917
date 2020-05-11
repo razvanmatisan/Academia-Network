@@ -1,0 +1,49 @@
+{
+    "id": "1496437917",
+    "title": "Modeling location-based services with subject spaces",
+    "venue": "conference of the centre for advanced studies on collaborative research",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Hubert Ka Yau Leung",
+            "id": "2304686767",
+            "org": "IBM Toronto Lab#TAB#"
+        },
+        {
+            "name": "Ioana Burcea",
+            "id": "2078816297",
+            "org": "University of Toronto#TAB#"
+        },
+        {
+            "name": "Hans-Arno Jacobsen",
+            "id": "1963506564",
+            "org": "University of Toronto#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Wireless network",
+        "Positioning system",
+        "Data model",
+        "Location-based service",
+        "Mobile device",
+        "Internet privacy",
+        "Computer network",
+        "Pager",
+        "Data modeling",
+        "User profile"
+    ],
+    "references": [
+        "1539647992",
+        "1646008930",
+        "1723741712",
+        "1971405342",
+        "1972665999",
+        "2030738730",
+        "2103465290",
+        "2106642566",
+        "2119984902",
+        "2124222502",
+        "2141394101"
+    ]
+}

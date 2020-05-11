@@ -1,0 +1,41 @@
+{
+    "id": "1528686567",
+    "title": "Prerequisites for a comprehensive dictionary of serbian compounds",
+    "venue": "international conference natural language processing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Cvetana Krstev",
+            "id": "198545322",
+            "org": "Faculty of Philology, University of Belgrade, Belgrade#TAB#"
+        },
+        {
+            "name": "Dusko Vitas",
+            "id": "2061579312",
+            "org": "Faculty of Mathematics, University of Belgrade, Belgrade#TAB#"
+        },
+        {
+            "name": "Agata Savary",
+            "id": "2039672116",
+            "org": "Computer Science Laboratory, Francois-Rabelais University of Tours, Blois Campus#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "String (computer science)",
+        "Natural language",
+        "Natural language processing",
+        "Morphological dictionary",
+        "Distributed computing",
+        "Finite-state machine",
+        "Lemma (mathematics)",
+        "Software",
+        "Algorithm",
+        "Expression (mathematics)",
+        "Serbian",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "14030242"
+    ]
+}

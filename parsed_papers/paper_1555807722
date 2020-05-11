@@ -1,0 +1,30 @@
+{
+    "id": "1555807722",
+    "title": "The use of parallelism to implement a heuristic search",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1981,
+    "authors": [
+        {
+            "name": "William A. Kornfeld",
+            "id": "264189975",
+            "org": "MIT Artificial Intelligence Laboratory#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Incremental heuristic search",
+        "Machine learning",
+        "Parallel processing",
+        "Computation",
+        "Artificial intelligence",
+        "Heuristic",
+        "Local consistency",
+        "Parallel algorithm",
+        "Theoretical computer science",
+        "Computer science",
+        "Solver"
+    ],
+    "references": [
+        "1583418977",
+        "2051768896"
+    ]
+}

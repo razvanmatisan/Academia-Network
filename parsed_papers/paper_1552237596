@@ -1,0 +1,39 @@
+{
+    "id": "1552237596",
+    "title": "Control of Constraint Weights for a 2D Autonomous Camera",
+    "venue": "canadian conference on artificial intelligence",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Md. Shafiul Alam",
+            "id": "2167200793",
+            "org": "School of Computer Science, University of Windsor, Windsor, Canada#TAB#"
+        },
+        {
+            "name": "Scott D. Goodwin",
+            "id": "2169154625",
+            "org": "School of Computer Science, University of Windsor, Windsor, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Camera auto-calibration",
+        "Binary search algorithm",
+        "Animation",
+        "Constraint satisfaction problem",
+        "Representation (mathematics)",
+        "Computer vision",
+        "Artificial intelligence",
+        "Virtual machine",
+        "Computer science",
+        "Constraint satisfaction",
+        "Coherence (physics)"
+    ],
+    "references": [
+        "69950194",
+        "1558272904",
+        "1606457089",
+        "1942220936",
+        "2002123853",
+        "2125710404"
+    ]
+}

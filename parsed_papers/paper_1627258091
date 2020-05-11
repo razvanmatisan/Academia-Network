@@ -1,0 +1,32 @@
+{
+    "id": "1627258091",
+    "title": "Periodic interpolation and wavelets on sparse grids",
+    "venue": "Numerical Algorithms",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Frauke Sprengel",
+            "id": "2084924936",
+            "org": "FB Mathematik, Universitat Rostock, Rostock, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical analysis",
+        "Polynomial interpolation",
+        "Bilinear interpolation",
+        "Trigonometric interpolation",
+        "Mathematical optimization",
+        "Multivariate interpolation",
+        "Interpolation",
+        "Bicubic interpolation",
+        "Discrete mathematics",
+        "Mathematics",
+        "Nearest-neighbor interpolation",
+        "Trilinear interpolation"
+    ],
+    "references": [
+        "1999923429",
+        "2043174594",
+        "2057331906"
+    ]
+}

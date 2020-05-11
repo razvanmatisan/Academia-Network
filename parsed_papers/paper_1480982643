@@ -1,0 +1,54 @@
+{
+    "id": "1480982643",
+    "title": "Semantic Approach to Language Structures Presentation for Machine Learning Algorithms Design.",
+    "venue": "MLMTA",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Elena B. Kozerenko",
+            "id": "2306410606",
+            "org": "Institute for Informatics|Russian Academy of Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Universal Networking Language",
+        "Machine translation software usability",
+        "Instance-based learning",
+        "Active learning (machine learning)",
+        "Algorithmic learning theory",
+        "Natural language processing",
+        "Stability (learning theory)",
+        "Language primitive",
+        "Machine learning",
+        "Computational learning theory",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "25655246",
+        "150647873",
+        "183400234",
+        "288864650",
+        "1484184065",
+        "1497763703",
+        "1528348371",
+        "1538779691",
+        "1552659466",
+        "1574901103",
+        "1986543644",
+        "1996903695",
+        "2002532287",
+        "2002785199",
+        "2018804095",
+        "2061271742",
+        "2077613835",
+        "2093099215",
+        "2118686841",
+        "2120513984",
+        "2130640821",
+        "2151844916",
+        "2162928464",
+        "2196555355",
+        "2210115826"
+    ]
+}

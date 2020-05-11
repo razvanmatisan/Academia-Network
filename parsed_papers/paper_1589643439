@@ -1,0 +1,38 @@
+{
+    "id": "1589643439",
+    "title": "Multimodal s n,k -grams: a skipping-based similarity model in information retrieval",
+    "venue": "asian conference on intelligent information and database systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Pakinee Aimmanee",
+            "id": "2308891447",
+            "org": "Sirindhorn International Institute of Technology, Thammasat University, Patumthani, Thailand#TAB#"
+        },
+        {
+            "name": "Thanaruk Theeramunkong",
+            "id": "202049940",
+            "org": "Sirindhorn International Institute of Technology, Thammasat University, Patumthani, Thailand#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Versa",
+        "Information retrieval",
+        "Data mining",
+        "Compound",
+        "Artificial intelligence",
+        "Bigram",
+        "Computer science"
+    ],
+    "references": [
+        "1495524224",
+        "1608320902",
+        "2043481183",
+        "2072773380",
+        "2102712128",
+        "2129034170",
+        "2143498478",
+        "2175671778"
+    ]
+}

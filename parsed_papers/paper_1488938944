@@ -1,0 +1,41 @@
+{
+    "id": "1488938944",
+    "title": "Relation Algebras for Reasoning about Time and Space",
+    "venue": "algebraic methodology and software technology",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Roger D. Maddux",
+            "id": "2108396004",
+            "org": "Iowa State University"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Algebra representation",
+        "Jordan algebra",
+        "Subalgebra",
+        "Quadratic algebra",
+        "Representation theory of Hopf algebras",
+        "Universal enveloping algebra",
+        "Interior algebra",
+        "Computer science",
+        "Allen's interval algebra"
+    ],
+    "references": [
+        "103953357",
+        "143722158",
+        "159907047",
+        "166266902",
+        "244866587",
+        "1528419757",
+        "2006006495",
+        "2018304344",
+        "2071064455",
+        "2090310951",
+        "2121299573",
+        "2131775803",
+        "2161484642"
+    ]
+}

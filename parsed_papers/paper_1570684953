@@ -1,0 +1,34 @@
+{
+    "id": "1570684953",
+    "title": "DeWiz - Modular Debugging for Supercomputers and Computational Grids",
+    "venue": "international conference on computational science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Dieter Kranzlmuller",
+            "id": "2321599603",
+            "org": "Johannes Kepler University Linz"
+        }
+    ],
+    "fields_of_study": [
+        "Debugging",
+        "Programming paradigm",
+        "Algorithmic program debugging",
+        "Usability",
+        "Program analysis",
+        "Software development",
+        "Modular design",
+        "Massively parallel",
+        "Distributed computing",
+        "Computer science"
+    ],
+    "references": [
+        "1559597035",
+        "1561537684",
+        "1576422189",
+        "1973501242",
+        "2064482487",
+        "2115716396",
+        "2235062249"
+    ]
+}

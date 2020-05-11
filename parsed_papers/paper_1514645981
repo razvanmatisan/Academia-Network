@@ -1,0 +1,41 @@
+{
+    "id": "1514645981",
+    "title": "Set Theory, Higher Order Logic or Both?",
+    "venue": "theorem proving in higher order logics",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Michael J. C. Gordon",
+            "id": "2138087194",
+            "org": "University of Cambridge Computer Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Many-valued logic",
+        "Theoretical computer science",
+        "Dynamic logic (modal logic)",
+        "Second-order logic",
+        "Zeroth-order logic",
+        "Fuzzy logic",
+        "Computer science",
+        "Predicate functor logic",
+        "Multimodal logic",
+        "Higher-order logic"
+    ],
+    "references": [
+        "1520936552",
+        "1530552858",
+        "1564971179",
+        "1568527398",
+        "1584721038",
+        "1970495662",
+        "1996404651",
+        "2112418952",
+        "2128057448",
+        "2137810559",
+        "2158867151",
+        "2402735695",
+        "2886683681"
+    ]
+}

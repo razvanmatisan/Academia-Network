@@ -1,0 +1,36 @@
+{
+    "id": "1599695016",
+    "title": "Pregroup calculus as a logic functor",
+    "venue": "workshop on logic language information and computation",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Annie Foret",
+            "id": "2151402114",
+            "org": "IRISA-Rennes 1, Rennes Cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Calculus",
+        "Situation calculus",
+        "Discrete mathematics",
+        "Geometry of interaction",
+        "Natural deduction",
+        "Noncommutative logic",
+        "Proof calculus",
+        "Linear logic",
+        "Cut-elimination theorem",
+        "Mathematics",
+        "Sequent"
+    ],
+    "references": [
+        "1556298800",
+        "1770609059",
+        "1826530052",
+        "2013957001",
+        "2100232191",
+        "2124686456",
+        "2162977162"
+    ]
+}

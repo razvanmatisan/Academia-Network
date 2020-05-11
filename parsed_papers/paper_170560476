@@ -1,0 +1,48 @@
+{
+    "id": "170560476",
+    "title": "3D Cognitive Map Construction by Active Stereo Vision in a Virtual World",
+    "venue": "international symposium on computer and information sciences",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ilkay Ulusoy",
+            "id": "2062557051",
+            "org": "Middle East Technical University"
+        },
+        {
+            "name": "Ugur Halici",
+            "id": "230029459",
+            "org": "Middle East Technical University"
+        },
+        {
+            "name": "Kemal Leblebicioglu",
+            "id": "2121014844",
+            "org": "Middle East Technical University"
+        }
+    ],
+    "fields_of_study": [
+        "Metaverse",
+        "Computer science",
+        "Virtual image",
+        "Stereo camera",
+        "Virtual reality",
+        "Computer vision",
+        "Computer stereo vision",
+        "Computer graphics (images)",
+        "Stereopsis",
+        "Robotics",
+        "Artificial intelligence",
+        "Active vision"
+    ],
+    "references": [
+        "1554847445",
+        "1606616371",
+        "1991605728",
+        "2022515299",
+        "2109866462",
+        "2114766649",
+        "2167828171",
+        "2168938315",
+        "2169464814"
+    ]
+}

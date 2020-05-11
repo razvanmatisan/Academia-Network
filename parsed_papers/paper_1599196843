@@ -1,0 +1,36 @@
+{
+    "id": "1599196843",
+    "title": "The transition from data management to knowledge management",
+    "venue": "international conference on data engineering",
+    "year": 1984,
+    "authors": [
+        {
+            "name": "Charles Kellogg",
+            "id": "2125823411",
+            "org": "System Development Corporation, Santa Monica, California"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge base",
+        "Database",
+        "Relational database",
+        "Data mining",
+        "Data access",
+        "Rule-based system",
+        "Management system",
+        "Data management",
+        "Personal knowledge management",
+        "Semantic reasoner",
+        "Computer science",
+        "Knowledge management"
+    ],
+    "references": [
+        "1491698028",
+        "1496815773",
+        "1544212026",
+        "1985494311",
+        "2069880607",
+        "2124299249",
+        "2133645930"
+    ]
+}

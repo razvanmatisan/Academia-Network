@@ -1,0 +1,47 @@
+{
+    "id": "1501976648",
+    "title": "Optimizing Queries in Extended Relational Databases",
+    "venue": "database and expert systems applications",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Michael J. Maher",
+            "id": "2308495877",
+            "org": "CIT, Griffith University"
+        },
+        {
+            "name": "Junhu Wang",
+            "id": "2115281420",
+            "org": "CIT, Griffith University"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Relational algebra",
+        "Relational database",
+        "Database",
+        "Constrained optimization",
+        "Conjunctive query",
+        "Query language",
+        "Semantic query",
+        "Data integrity",
+        "Theoretical computer science",
+        "Machine learning",
+        "Computer science",
+        "Spatial query",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "187851124",
+        "1529405776",
+        "1592468620",
+        "1964202341",
+        "1992810975",
+        "2004698529",
+        "2076612026",
+        "2079522633",
+        "2108930340",
+        "2160770337",
+        "2295944566"
+    ]
+}

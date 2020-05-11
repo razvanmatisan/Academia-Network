@@ -1,0 +1,38 @@
+{
+    "id": "1569922297",
+    "title": "Defining dynamic Bayesian networks for probabilistic situation assessment",
+    "venue": "international conference on information fusion",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Yvonne Fischer",
+            "id": "1857840617",
+            "org": "Vision and Fusion Laboratory, Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany"
+        },
+        {
+            "name": "Jurgen Beyerer",
+            "id": "1612958098",
+            "org": "Vision and Fusion Laboratory, Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Situation analysis",
+        "Artificial intelligence",
+        "Computer science",
+        "Probabilistic logic",
+        "Conditional probability",
+        "Dynamic Bayesian network",
+        "Situation awareness",
+        "Data mining",
+        "Operator (computer programming)",
+        "Bayesian probability",
+        "Hidden Markov model"
+    ],
+    "references": [
+        "2080476034",
+        "2083401481",
+        "2142996775",
+        "2165609373"
+    ]
+}

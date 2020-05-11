@@ -1,0 +1,40 @@
+{
+    "id": "1480829356",
+    "title": "Towards the generation of a text-based IDE from a language metamodel",
+    "venue": "european conference on model driven architecture foundations and applications",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Anneke Kleppe",
+            "id": "2811187080",
+            "org": "University Twente, Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Syntax (programming languages)",
+        "Fourth-generation programming language",
+        "Natural language processing",
+        "Fifth-generation programming language",
+        "Homoiconicity",
+        "Language primitive",
+        "Data control language",
+        "Programming language",
+        "Extended Affix Grammar",
+        "Computer science",
+        "Artificial intelligence",
+        "Third-generation programming language"
+    ],
+    "references": [
+        "114330150",
+        "1492374575",
+        "1568243475",
+        "1583109508",
+        "1816012646",
+        "1840363711",
+        "2016914525",
+        "2049008406",
+        "2080901110",
+        "2165255864",
+        "2753825006"
+    ]
+}

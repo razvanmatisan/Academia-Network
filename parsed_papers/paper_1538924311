@@ -1,0 +1,35 @@
+{
+    "id": "1538924311",
+    "title": "A definition and graphical representation for causality",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "David Heckerman",
+            "id": "2021640924",
+            "org": "Microsoft Research, Redmond, WA#TAB#"
+        },
+        {
+            "name": "Ross D. Shachter",
+            "id": "53644460",
+            "org": "Department of Engineering-Economic Systems, Stanford, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Causality",
+        "Causal reasoning",
+        "Causal decision theory",
+        "Causal inference",
+        "Causal model",
+        "Discrete mathematics",
+        "Canonical form",
+        "Causal theory of reference",
+        "Evidential decision theory",
+        "Mathematics"
+    ],
+    "references": [
+        "1534384411",
+        "1898144923",
+        "2159080219"
+    ]
+}

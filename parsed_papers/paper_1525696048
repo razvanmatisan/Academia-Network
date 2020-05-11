@@ -1,0 +1,35 @@
+{
+    "id": "1525696048",
+    "title": "On the logic of iterated belief revision",
+    "venue": "theoretical aspects of rationality and knowledge",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Adnan Darwiche",
+            "id": "457026902",
+            "org": "University of California, Los Angeles, CA#TAB#"
+        },
+        {
+            "name": "Judea Pearl",
+            "id": "2248165042",
+            "org": "University of California, Los Angeles, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Representation theorem",
+        "Discrete mathematics",
+        "Belief revision",
+        "Conditioning",
+        "Artificial intelligence",
+        "Probabilistic logic",
+        "Iterated function",
+        "Mathematics"
+    ],
+    "references": [
+        "128812405",
+        "1748109475",
+        "2007457223",
+        "2120415414",
+        "2149420462"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": "1505297083",
+    "title": "Mediaviews: A Layered View Mechanism for Integrating Multimedia Data",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Hyon Hee Kim",
+            "id": "2131814789",
+            "org": "Ewha Womans University"
+        },
+        {
+            "name": "Hyon Hee Kim",
+            "id": "2131814789",
+            "org": "Ewha Womans University"
+        },
+        {
+            "name": "Seung Soo Park",
+            "id": "2444328219",
+            "org": "University of Stuttgart"
+        }
+    ],
+    "fields_of_study": [
+        "Multimedia",
+        "XML",
+        "Data model",
+        "Information integration",
+        "Rule-based system",
+        "Database",
+        "Materialized view",
+        "Web application",
+        "XQuery",
+        "Data mining",
+        "Data warehouse",
+        "Computer science"
+    ],
+    "references": [
+        "1553346352",
+        "1623511323",
+        "1976373002",
+        "1983424720",
+        "1995999642",
+        "2007738415",
+        "2021570844",
+        "2074468919",
+        "2083987536",
+        "2092290862",
+        "2107169849",
+        "2117849706",
+        "2129743596",
+        "2161305861",
+        "2168605051"
+    ]
+}

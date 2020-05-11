@@ -1,0 +1,44 @@
+{
+    "id": "1639095821",
+    "title": "Guiding random particles by deterministic search",
+    "venue": "international conference on computer vision",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Josephine Sullivan",
+            "id": "2222206268",
+            "org": "R. Inst. of Technol., Stockholm, Sweden"
+        },
+        {
+            "name": "Jens Rittscher",
+            "id": "301161809",
+            "org": "University of Oxford"
+        }
+    ],
+    "fields_of_study": [
+        "Robustness (computer science)",
+        "Random search",
+        "Sampling (statistics)",
+        "Likelihood function",
+        "Motion estimation",
+        "Mathematical optimization",
+        "Variational method",
+        "Machine learning",
+        "Stochastic process",
+        "Particle filter",
+        "Artificial intelligence",
+        "Mathematics"
+    ],
+    "references": [
+        "1481420047",
+        "1532653240",
+        "1533614607",
+        "1553372013",
+        "1643263348",
+        "1910898529",
+        "2104755791",
+        "2107011910",
+        "2120329636",
+        "2159128898"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": "1484007140",
+    "title": "Field Programmable Gate Array (FPGA) Circuits",
+    "venue": "international conference on evolvable systems",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Eduardo Sanchez",
+            "id": "2105817459",
+            "org": "INN-Ecublens"
+        }
+    ],
+    "fields_of_study": [
+        "Complex programmable logic device",
+        "Programmable Array Logic",
+        "Programmable logic array",
+        "Programmable logic device",
+        "Reconfigurable computing",
+        "Macrocell array",
+        "Erasable programmable logic device",
+        "Simple programmable logic device",
+        "Computer science",
+        "Electronic engineering"
+    ],
+    "references": []
+}

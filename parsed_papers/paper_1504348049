@@ -1,0 +1,39 @@
+{
+    "id": "1504348049",
+    "title": "Initialization of deformable models from 3D data",
+    "venue": "international conference on computer vision",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Herve Delingette",
+            "id": "301158213",
+            "org": "INRIA, Sophia-Antipolis, France"
+        }
+    ],
+    "fields_of_study": [
+        "Outlier",
+        "Image segmentation",
+        "Mathematical optimization",
+        "Initialization",
+        "Vertex (geometry)",
+        "Computer vision",
+        "Missing data",
+        "Robustness (computer science)",
+        "Sampling (statistics)",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Closeness",
+        "Mathematics"
+    ],
+    "references": [
+        "1531464701",
+        "1825323939",
+        "1969944427",
+        "1975328230",
+        "2009422376",
+        "2111783137",
+        "2137893930",
+        "2149184914",
+        "2161740339"
+    ]
+}

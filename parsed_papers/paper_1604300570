@@ -1,0 +1,50 @@
+{
+    "id": "1604300570",
+    "title": "Towards a symptom ontology for semantic web applications",
+    "venue": "international semantic web conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Kenneth Baclawski",
+            "id": "436812931",
+            "org": "Northeastern University#TAB#"
+        },
+        {
+            "name": "Christopher J. Matheus",
+            "id": "2275178523",
+            "org": "Versatile Information Systems, Inc.#TAB#"
+        },
+        {
+            "name": "Mieczyslaw M. Kokar",
+            "id": "187385128",
+            "org": "Northeastern University#TAB#"
+        },
+        {
+            "name": "Jerzy Letkowski",
+            "id": "1967915054",
+            "org": "Western New England College#TAB#"
+        },
+        {
+            "name": "Paul A. Kogut",
+            "id": "1230227669",
+            "org": "Lockheed Martin#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data mining",
+        "Process ontology",
+        "Information retrieval",
+        "OWL-S",
+        "Ontology-based data integration",
+        "Database",
+        "Suggested Upper Merged Ontology",
+        "Computer science",
+        "Semantic Web Stack",
+        "Upper ontology",
+        "Ontology (information science)",
+        "Ontology Inference Layer"
+    ],
+    "references": [
+        "2171922389"
+    ]
+}

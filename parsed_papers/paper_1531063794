@@ -1,0 +1,41 @@
+{
+    "id": "1531063794",
+    "title": "A natural language interface for information retrieval from forms on the World Wide Web",
+    "venue": "international conference on information systems",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Frank Meng",
+            "id": "2097326871",
+            "org": "University of California, Los Angeles#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Universal Networking Language",
+        "Information retrieval",
+        "Human-computer information retrieval",
+        "Question answering",
+        "Web service",
+        "Natural language processing",
+        "Web navigation",
+        "World Wide Web",
+        "Natural language user interface",
+        "Information extraction",
+        "Computer science",
+        "Artificial intelligence",
+        "Web Accessibility Initiative"
+    ],
+    "references": [
+        "1539743366",
+        "1588659924",
+        "1768418803",
+        "1966200370",
+        "1994851566",
+        "2040004971",
+        "2043794661",
+        "2061141062",
+        "2097847889",
+        "2145296344",
+        "2153072229"
+    ]
+}

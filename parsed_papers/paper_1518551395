@@ -1,0 +1,41 @@
+{
+    "id": "1518551395",
+    "title": "Surfing the Digital Wave",
+    "venue": "international conference on case based reasoning",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Barry Smyth",
+            "id": "2133336528",
+            "org": "University College Dublin"
+        },
+        {
+            "name": "Paul Cotter",
+            "id": "2119818510",
+            "org": "University College Dublin"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Empirical research",
+        "Profiling (computer programming)",
+        "Collaborative filtering",
+        "Multimedia",
+        "Digital television",
+        "Information overload",
+        "Filter (signal processing)",
+        "Information filtering system",
+        "User profile"
+    ],
+    "references": [
+        "193622083",
+        "1533048470",
+        "1673941785",
+        "1966553486",
+        "1999047234",
+        "2013594690",
+        "2018728531",
+        "2043403353",
+        "2124591829"
+    ]
+}

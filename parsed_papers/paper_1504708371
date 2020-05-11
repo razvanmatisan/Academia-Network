@@ -1,0 +1,33 @@
+{
+    "id": "1504708371",
+    "title": "PANGAEA: An Automatic Distribution Front-End for JAVA",
+    "venue": "international parallel processing symposium",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Andre Spiegel",
+            "id": "2109615903",
+            "org": "Freie Universitat Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Source code",
+        "Java",
+        "Distributed computing",
+        "Program optimization",
+        "Real-time computing",
+        "Object-oriented programming",
+        "Front and back ends",
+        "Systems architecture",
+        "Static analysis",
+        "Middleware",
+        "Computer science"
+    ],
+    "references": [
+        "1878278406",
+        "2002694006",
+        "2010974457",
+        "2057854437",
+        "2118953734"
+    ]
+}

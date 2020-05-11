@@ -1,0 +1,36 @@
+{
+    "id": "1789694677",
+    "title": "Transformations and Software Modeling Languages: Automating Transformations in UML",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jon Whittle",
+            "id": "2810402838",
+            "org": "QSS Group Inc., NASA Ames Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Object Constraint Language",
+        "Unified Modeling Language",
+        "Class diagram",
+        "Applications of UML",
+        "Shlaer-Mellor method",
+        "Systems Modeling Language",
+        "UML tool",
+        "Programming language",
+        "Communication diagram",
+        "Computer science"
+    ],
+    "references": [
+        "1514164068",
+        "1585942298",
+        "1890892582",
+        "1928896584",
+        "1929502661",
+        "2102071894",
+        "2134287022",
+        "2137316069",
+        "2165635598"
+    ]
+}

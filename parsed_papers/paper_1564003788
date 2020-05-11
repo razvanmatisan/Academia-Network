@@ -1,0 +1,35 @@
+{
+    "id": "1564003788",
+    "title": "Correctness of code generation from a two-level meta-language",
+    "venue": "european symposium on programming",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Flemming Nielson",
+            "id": "2057873166",
+            "org": "Aalborg University Centre"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Equivalence (measure theory)",
+        "Programming language",
+        "Correctness",
+        "Computer science",
+        "Denotational semantics",
+        "Abstract interpretation",
+        "Program counter",
+        "Algorithm",
+        "Functor",
+        "Metalanguage",
+        "Code generation"
+    ],
+    "references": [
+        "1523016082",
+        "2003848320",
+        "2024873396",
+        "2141956765",
+        "2162844904",
+        "2172307690"
+    ]
+}

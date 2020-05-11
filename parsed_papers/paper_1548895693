@@ -1,0 +1,52 @@
+{
+    "id": "1548895693",
+    "title": "EVALUATION FUNCTION TUNING VIA ORDINAL CORRELATION",
+    "venue": "advances in computer games",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Dave Gomboc",
+            "id": "207823400",
+            "org": "University of Alberta"
+        },
+        {
+            "name": "T. A. Marsland",
+            "id": "1957016794",
+            "org": "University of Alberta"
+        },
+        {
+            "name": "Michael Buro",
+            "id": "445579570",
+            "org": "University of Alberta"
+        }
+    ],
+    "fields_of_study": [
+        "Consistent heuristic",
+        "Null-move heuristic",
+        "Beam search",
+        "Ordinal number",
+        "Heuristic",
+        "Machine learning",
+        "Heuristic evaluation",
+        "Best-first search",
+        "Pattern recognition",
+        "Mathematics",
+        "Evaluation function",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "57024813",
+        "92386304",
+        "95162590",
+        "99320813",
+        "1497290640",
+        "1500581971",
+        "1825340229",
+        "1859308562",
+        "2100677568",
+        "2106909612",
+        "2131600418",
+        "2138178898",
+        "2149534079"
+    ]
+}

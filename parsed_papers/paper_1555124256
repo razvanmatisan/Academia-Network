@@ -1,0 +1,44 @@
+{
+    "id": "1555124256",
+    "title": "Structural and semantic analysis of video",
+    "venue": "international conference on multimedia and expo",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Shih-Fu Chang",
+            "id": "2149341496",
+            "org": "Dept. of Electr. Eng., Columbia Univ., New York, NY, USA"
+        },
+        {
+            "name": "Hari Sundaram",
+            "id": "2145498347",
+            "org": "Columbia University"
+        }
+    ],
+    "fields_of_study": [
+        "Automatic summarization",
+        "Computer vision",
+        "Cluster analysis",
+        "Exploit",
+        "Image segmentation",
+        "Computer science",
+        "Contextual image classification",
+        "Robustness (computer science)",
+        "Pattern recognition",
+        "Bayesian network",
+        "Machine learning",
+        "Computational linguistics",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "2008611008",
+        "2025800667",
+        "2086044694",
+        "2097088566",
+        "2131193678",
+        "2143092130",
+        "2143492909",
+        "2148512378",
+        "2149022377"
+    ]
+}

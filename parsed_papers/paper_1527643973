@@ -1,0 +1,50 @@
+{
+    "id": "1527643973",
+    "title": "Dynamic Memory Adjustment for External Mergesort",
+    "venue": "very large data bases",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Weiye Zhang",
+            "id": "2778916801",
+            "org": "Department of Computer Science|Microsoft Corporation|University of Waterloo"
+        },
+        {
+            "name": "Weiye Zhang",
+            "id": "2778916801",
+            "org": "Department of Computer Science|Microsoft Corporation|University of Waterloo"
+        },
+        {
+            "name": "Per-Ake Larson",
+            "id": "2148643341",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "Per-Ake Larson",
+            "id": "2148643341",
+            "org": "Microsoft Research"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "sort",
+        "Interleaved memory",
+        "Real-time computing",
+        "Computer science",
+        "Speedup",
+        "Workload",
+        "Memory management",
+        "Dynamic random-access memory",
+        "Merge sort",
+        "Sorting"
+    ],
+    "references": [
+        "1540926161",
+        "1545837354",
+        "1566251565",
+        "2029131452",
+        "2053758583",
+        "2158237121",
+        "2163192219"
+    ]
+}

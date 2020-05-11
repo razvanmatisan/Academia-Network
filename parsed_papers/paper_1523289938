@@ -1,0 +1,43 @@
+{
+    "id": "1523289938",
+    "title": "Agent-oriented programming in linear logic: an example",
+    "venue": "pacific rim international conference on artificial intelligence",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Abdullah-Al Amin",
+            "id": "2069025323",
+            "org": "Department of Computer Science, RMIT University, Melbourne, Australia#TAB#"
+        },
+        {
+            "name": "Michael Winikoff",
+            "id": "95302030",
+            "org": "Department of Computer Science, RMIT University, Melbourne, Australia#TAB#"
+        },
+        {
+            "name": "James Harland",
+            "id": "2100115853",
+            "org": "Department of Computer Science, RMIT University, Melbourne, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Inductive programming",
+        "Concurrent constraint logic programming",
+        "Concurrent object-oriented programming",
+        "Computer science",
+        "Protocol (object-oriented programming)",
+        "Fifth-generation programming language",
+        "Agent-oriented programming",
+        "Programming domain",
+        "Distributed computing",
+        "Extensible programming",
+        "Programming language"
+    ],
+    "references": [
+        "1492862327",
+        "2106172458",
+        "2179843754"
+    ]
+}

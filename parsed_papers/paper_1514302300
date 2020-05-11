@@ -1,0 +1,37 @@
+{
+    "id": "1514302300",
+    "title": "Improving Trust and Reputation Modeling in E-Commerce Using Agent Lifetime and Transaction Count",
+    "venue": "International Conference on E-Technologies",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Catherine Cormier",
+            "id": "2395012301",
+            "org": "University of Ottawa"
+        },
+        {
+            "name": "Thomas T. Tran",
+            "id": "2108359352",
+            "org": "University of Ottawa"
+        }
+    ],
+    "fields_of_study": [
+        "Trustworthiness",
+        "Autonomous agent",
+        "Management science",
+        "E-commerce",
+        "Database transaction",
+        "Reputation",
+        "Business",
+        "Ranking",
+        "Multi-agent system",
+        "Commerce"
+    ],
+    "references": [
+        "1531246938",
+        "2011176436",
+        "2072305035",
+        "2098685442",
+        "2132683224"
+    ]
+}

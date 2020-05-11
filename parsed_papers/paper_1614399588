@@ -1,0 +1,40 @@
+{
+    "id": "1614399588",
+    "title": "A Brief Overview of the MAD Debugging Activities.",
+    "venue": "arXiv: Software Engineering",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Dieter Kranzlmuller",
+            "id": "2321599603",
+            "org": "Johannes Kepler University Linz"
+        },
+        {
+            "name": "Christian Schaubschlager",
+            "id": "6543756",
+            "org": "GUP Linz, Joh. Kepler University Linz, Austria"
+        },
+        {
+            "name": "Jens Volkert",
+            "id": "2017665327",
+            "org": "GUP Linz, Joh. Kepler University Linz, Austria"
+        }
+    ],
+    "fields_of_study": [
+        "Source code",
+        "Theoretical computer science",
+        "Algorithmic program debugging",
+        "Computer science",
+        "Debugging",
+        "Shotgun debugging",
+        "Deadlock",
+        "Background debug mode interface",
+        "Software design",
+        "Real-time computing",
+        "Message Passing Interface"
+    ],
+    "references": [
+        "125045168",
+        "1972981988"
+    ]
+}

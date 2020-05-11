@@ -1,0 +1,35 @@
+{
+    "id": "1576811268",
+    "title": "Automated Generation of Unit Tests for Refactoring",
+    "venue": "international conference on software engineering",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Bartosz Walter",
+            "id": "2097210660",
+            "org": "Poznan University of Technology"
+        },
+        {
+            "name": "Blazej Pietrzak",
+            "id": "2134360589",
+            "org": "Poznan University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Unit testing",
+        "Real-time computing",
+        "Computer science",
+        "Code refactoring",
+        "Theoretical computer science",
+        "Domain specificity",
+        "Software development",
+        "Regression testing",
+        "Automation",
+        "Algorithm",
+        "Observable"
+    ],
+    "references": [
+        "1498930670",
+        "2153887189"
+    ]
+}

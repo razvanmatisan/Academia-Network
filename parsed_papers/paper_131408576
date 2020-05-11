@@ -1,0 +1,35 @@
+{
+    "id": "131408576",
+    "title": "An overview of the Penman text generation system",
+    "venue": "national conference on artificial intelligence",
+    "year": 1983,
+    "authors": [
+        {
+            "name": "William C. Mann",
+            "id": "2302730810",
+            "org": "USC Information Sciences Institute, Marina del Rey, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Notation",
+        "Machine learning",
+        "Semantics",
+        "Natural language",
+        "Knowledge representation and reasoning",
+        "Natural language processing",
+        "Computer science",
+        "Text processing",
+        "Knowledge acquisition",
+        "Computational linguistics",
+        "Artificial intelligence",
+        "Rule-based machine translation"
+    ],
+    "references": [
+        "61319312",
+        "203864484",
+        "1545815294",
+        "2120425982",
+        "2121572380",
+        "2150188207"
+    ]
+}

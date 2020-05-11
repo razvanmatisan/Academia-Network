@@ -1,0 +1,38 @@
+{
+    "id": "1687392666",
+    "title": "The Delauney Triangulation Closely Approximates the Complete Euclidean Graph",
+    "venue": "workshop on algorithms and data structures",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "J. Mark Keil",
+            "id": "2105750262",
+            "org": "University of Saskatchewan"
+        },
+        {
+            "name": "Carl Gutwin",
+            "id": "2071700171",
+            "org": "University of Saskatchewan"
+        }
+    ],
+    "fields_of_study": [
+        "Minimum-weight triangulation",
+        "Triangulation (geometry)",
+        "Euclidean shortest path",
+        "Computer science",
+        "Combinatorics",
+        "Point set triangulation",
+        "Pitteway triangulation",
+        "Bowyer-Watson algorithm",
+        "Beta skeleton",
+        "Euclidean distance matrix",
+        "Topology"
+    ],
+    "references": [
+        "1976125024",
+        "2005314985",
+        "2077383738",
+        "2141741604",
+        "2167366051"
+    ]
+}

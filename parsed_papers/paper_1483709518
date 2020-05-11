@@ -1,0 +1,37 @@
+{
+    "id": "1483709518",
+    "title": "A Generic Concept for Large-Scale Multicast",
+    "venue": "international zurich seminar on digital communications",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Markus Hofmann",
+            "id": "2779689731",
+            "org": "University of Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "IP multicast",
+        "Distributed computing",
+        "Computer science",
+        "Computer network",
+        "Xcast",
+        "Inter-domain",
+        "Multicast",
+        "Source-specific multicast",
+        "Distance Vector Multicast Routing Protocol",
+        "Pragmatic General Multicast",
+        "Reliable multicast"
+    ],
+    "references": [
+        "163001790",
+        "1786926183",
+        "1988924925",
+        "2083057312",
+        "2097562715",
+        "2097933130",
+        "2147618788",
+        "2169600013",
+        "2242625774"
+    ]
+}

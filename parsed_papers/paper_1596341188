@@ -1,0 +1,42 @@
+{
+    "id": "1596341188",
+    "title": "A Markov modulated fluid queueing system with strict priority",
+    "venue": "Telecommunication Systems",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Bong Dae Choi",
+            "id": "2233509027",
+            "org": "Department of Mathematics and Center for Applied Mathematics, Taejon, Korea E-mail: 305-701#TAB#"
+        },
+        {
+            "name": "Ki Bong Choi",
+            "id": "2659355293",
+            "org": "Department of Mathematics and Center for Applied Mathematics, Taejon, Korea E-mail: 305-701#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Additive Markov chain",
+        "Mathematical optimization",
+        "Fluid queue",
+        "Markov chain mixing time",
+        "Markov chain",
+        "Stochastic process",
+        "Queueing theory",
+        "Continuous-time Markov chain",
+        "Mathematics",
+        "Balance equation"
+    ],
+    "references": [
+        "1587200490",
+        "2007420978",
+        "2079491906",
+        "2087473447",
+        "2103483819",
+        "2103891410",
+        "2103915000",
+        "2104421334",
+        "2563178574"
+    ]
+}

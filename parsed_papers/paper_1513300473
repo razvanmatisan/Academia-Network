@@ -1,0 +1,62 @@
+{
+    "id": "1513300473",
+    "title": "Verifiying Safety Properties of a Power PC Microprocessor Using Symbolic Model Checking without BDDs",
+    "venue": "computer aided verification",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Armin Biere",
+            "id": "2242438494",
+            "org": "University of Karlsruhe"
+        },
+        {
+            "name": "Armin Biere",
+            "id": "2242438494",
+            "org": "University of Karlsruhe"
+        },
+        {
+            "name": "Edmund M. Clarke",
+            "id": "2129477832",
+            "org": "Carnegie Mellon University"
+        },
+        {
+            "name": "Richard Raimi",
+            "id": "2305330528",
+            "org": "Somerset PowerPC Design Center"
+        },
+        {
+            "name": "Yunshan Zhu",
+            "id": "2130671571",
+            "org": "Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Symbolic trajectory evaluation",
+        "Model checking",
+        "Theoretical computer science",
+        "Algorithm",
+        "Formal specification",
+        "Bounded function",
+        "Computer architecture",
+        "Formal verification",
+        "PowerPC",
+        "Abstraction model checking",
+        "Computer science",
+        "Kripke structure"
+    ],
+    "references": [
+        "1501731334",
+        "1578895382",
+        "1593428110",
+        "1787074469",
+        "1866896089",
+        "1999997889",
+        "2009965218",
+        "2024148935",
+        "2062897452",
+        "2080267935",
+        "2080593426",
+        "2108016168",
+        "2114092850"
+    ]
+}

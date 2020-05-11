@@ -1,0 +1,40 @@
+{
+    "id": "1583703779",
+    "title": "Optical music sheet segmentation",
+    "venue": "Proceedings First International Conference on WEB Delivering of Music. WEDELMUSIC 2001",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Pierfrancesco Bellini",
+            "id": "1996778000",
+            "org": "Dep. of Syst. & Informatic, Univ. of Florence, Italy"
+        },
+        {
+            "name": "Ivan Bruno",
+            "id": "2018910299",
+            "org": "Dep. of Syst. & Informatic, Univ. of Florence, Italy"
+        },
+        {
+            "name": "Paolo Nesi",
+            "id": "2185830719",
+            "org": "Dep. of Syst. & Informatic, Univ. of Florence, Italy"
+        }
+    ],
+    "fields_of_study": [
+        "Image segmentation",
+        "Image processing",
+        "Market segmentation",
+        "Optical character recognition",
+        "Optical music recognition",
+        "Scale-space segmentation",
+        "Computer vision",
+        "Segmentation-based object categorization",
+        "Artificial intelligence",
+        "Computer science",
+        "Musical notation"
+    ],
+    "references": [
+        "2116385609",
+        "2152394040"
+    ]
+}

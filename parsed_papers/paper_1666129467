@@ -1,0 +1,36 @@
+{
+    "id": "1666129467",
+    "title": "The identification of context-sensitive features: A formal definition of context for concept learning",
+    "venue": "arXiv: Learning",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Peter D. Turney",
+            "id": "2084625574",
+            "org": "National Research Council of Canada"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Active learning (machine learning)",
+        "Semi-supervised learning",
+        "Artificial intelligence",
+        "Feature (machine learning)",
+        "Algorithmic learning theory",
+        "Concept learning",
+        "Natural language processing",
+        "Multi-task learning",
+        "Unsupervised learning",
+        "Stability (learning theory)",
+        "Computer science"
+    ],
+    "references": [
+        "54398672",
+        "1594785638",
+        "1599232982",
+        "1619226191",
+        "1662592306",
+        "1966400651",
+        "2110414574"
+    ]
+}

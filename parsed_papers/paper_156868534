@@ -1,0 +1,35 @@
+{
+    "id": "156868534",
+    "title": "Speeding Up Shortest Path Search in Public Transport Networks.",
+    "venue": "DATESO",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Vladislav Martinek",
+            "id": "2054394569",
+            "org": "Charles University in Prague"
+        },
+        {
+            "name": "Michal Zemlicka",
+            "id": "1251251168",
+            "org": "Charles University in Prague"
+        }
+    ],
+    "fields_of_study": [
+        "Computation",
+        "Public transport",
+        "Speedup",
+        "Private Network-to-Network Interface",
+        "K shortest path routing",
+        "Shortest path problem",
+        "Distributed computing",
+        "Constrained Shortest Path First",
+        "Computer science"
+    ],
+    "references": [
+        "1578821736",
+        "1991778515",
+        "2155474419",
+        "2439405256"
+    ]
+}

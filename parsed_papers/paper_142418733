@@ -1,0 +1,48 @@
+{
+    "id": "142418733",
+    "title": "An unsupervised method for ranking translation words using a bilingual dictionary and wordnet",
+    "venue": "industrial and engineering applications of artificial intelligence and expert systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Kweon Yang Kim",
+            "id": "2641140548",
+            "org": "School of Computer Engineering, Kyungil University, Hayang-up Kyungsan-si, Kyungsangpook-do, Korea#TAB#"
+        },
+        {
+            "name": "Se Young Park",
+            "id": "2828788905",
+            "org": "Dept. of Computer Engineering, Kyungpook National University, Korea#TAB#"
+        },
+        {
+            "name": "Dong Kwon Hong",
+            "id": "2251639933",
+            "org": "Dept. of Computer Engineering, Keimyung University, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "WordNet",
+        "Machine translation",
+        "Computer science",
+        "Verb",
+        "Example-based machine translation",
+        "Noun",
+        "Korean verbs",
+        "Natural language processing",
+        "Artificial intelligence",
+        "Bilingual dictionary",
+        "Rule-based machine translation"
+    ],
+    "references": [
+        "64777181",
+        "1561788061",
+        "1971220772",
+        "2071646856",
+        "2097333193",
+        "2106022904",
+        "2107540895",
+        "2118669325",
+        "2127128140",
+        "2133022494"
+    ]
+}

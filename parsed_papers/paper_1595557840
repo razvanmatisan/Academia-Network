@@ -1,0 +1,43 @@
+{
+    "id": "1595557840",
+    "title": "Incremental evaluation of OCL constraints",
+    "venue": "conference on advanced information systems engineering",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jordi Cabot",
+            "id": "2128366029",
+            "org": "Universitat Oberta de Catalunya"
+        },
+        {
+            "name": "Ernest Teniente",
+            "id": "678245920",
+            "org": "Universitat Politecnica de Catalunya"
+        }
+    ],
+    "fields_of_study": [
+        "Object Constraint Language",
+        "Computation",
+        "Data mining",
+        "Programming language",
+        "Unified Modeling Language",
+        "Data integrity",
+        "Information system",
+        "Schema (psychology)",
+        "Database",
+        "Conceptual schema",
+        "Computer science",
+        "Object-oriented programming"
+    ],
+    "references": [
+        "1481422796",
+        "1562540297",
+        "1599778614",
+        "1860372103",
+        "1891083736",
+        "2035883391",
+        "2124970417",
+        "2149007495",
+        "2170515491"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1555811341",
+    "title": "Towards semantics-based ontology similarity",
+    "venue": "international conference on ontology matching",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Rudi Araujo",
+            "id": "2101002096",
+            "org": "INESC-ID, Lisboa, Portugal#TAB#"
+        },
+        {
+            "name": "H. Sofia Pinto",
+            "id": "2286050513",
+            "org": "INESC-ID, Lisboa, Portugal#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ontology-based data integration",
+        "Process ontology",
+        "Natural language processing",
+        "Ontology alignment",
+        "Semantic heterogeneity",
+        "Semantic similarity",
+        "Ontology (information science)",
+        "Data mining",
+        "Ontology components",
+        "Upper ontology",
+        "Computer science",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "206418523",
+        "1532012722",
+        "1535708631",
+        "1600475986",
+        "2026085740",
+        "2153827416"
+    ]
+}

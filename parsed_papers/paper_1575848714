@@ -1,0 +1,47 @@
+{
+    "id": "1575848714",
+    "title": "Denotation by Transformation",
+    "venue": "logic-based program synthesis and transformation",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Bernd Brassel",
+            "id": "2668966667",
+            "org": "Institute of Computer Science, University of Kiel, Kiel, Germany 24098#TAB#"
+        },
+        {
+            "name": "Jan Christiansen",
+            "id": "2127696509",
+            "org": "Institute of Computer Science, University of Kiel, Kiel, Germany 24098#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Algorithm",
+        "Bunched logic",
+        "Denotational semantics",
+        "Action semantics",
+        "Axiomatic semantics",
+        "Normalisation by evaluation",
+        "Operational semantics",
+        "Computer science",
+        "Well-founded semantics",
+        "Denotational semantics of the Actor model"
+    ],
+    "references": [
+        "78995489",
+        "1522154830",
+        "1571615440",
+        "1589642822",
+        "1762364904",
+        "1801920691",
+        "1816482500",
+        "1975580206",
+        "2022647944",
+        "2022951178",
+        "2053867970",
+        "2059799630",
+        "2063521547",
+        "2172307690"
+    ]
+}

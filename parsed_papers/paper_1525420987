@@ -1,0 +1,32 @@
+{
+    "id": "1525420987",
+    "title": "Structure Based Interpretation of Unstructured Vector Maps",
+    "venue": "graphics recognition",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Manuel Weindorf",
+            "id": "2335854382",
+            "org": "University of Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "Vector map",
+        "Computer science",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Object type",
+        "Geographic information system",
+        "Spatial database",
+        "Data set",
+        "Rule-based machine translation",
+        "Prolog",
+        "Interpreter"
+    ],
+    "references": [
+        "1600996047",
+        "2118269922",
+        "2122846833",
+        "2137050812"
+    ]
+}

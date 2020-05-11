@@ -1,0 +1,43 @@
+{
+    "id": "1526788855",
+    "title": "On the Conversion between Non-Binary and Binary Constraint Satisfaction Problems",
+    "venue": "national conference on artificial intelligence",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Fahiem Bacchus",
+            "id": "683375407",
+            "org": "University of Waterloo"
+        },
+        {
+            "name": "Peter van Beek",
+            "id": "2118765137",
+            "org": "University of Alberta"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint satisfaction dual problem",
+        "Artificial intelligence",
+        "Machine learning",
+        "Mathematical optimization",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Backtracking",
+        "Binary constraint",
+        "Computer science",
+        "Constraint graph",
+        "Local consistency",
+        "Constraint satisfaction problem",
+        "Decomposition method (constraint satisfaction)"
+    ],
+    "references": [
+        "27267440",
+        "57237496",
+        "77793587",
+        "117446995",
+        "195939180",
+        "1988095917",
+        "2068852367",
+        "2072755230",
+        "2115590028"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": "1549303085",
+    "title": "A Syntactical Model of Prosody as an Aid to Spoken Dialogue Systems in Italian Language",
+    "venue": "text speech and dialogue",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Enzo Mumolo",
+            "id": "2076102838",
+            "org": "Universita' di Trieste"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Speech recognition",
+        "Artificial intelligence",
+        "Natural language",
+        "Mobile robot",
+        "Computer science",
+        "Parsing",
+        "Prosody",
+        "Interrogative",
+        "Robotics"
+    ],
+    "references": [
+        "1486247954",
+        "2160421796"
+    ]
+}

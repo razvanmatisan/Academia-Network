@@ -1,0 +1,38 @@
+{
+    "id": "139845112",
+    "title": "Discriminant Ranking for Efficient Treebanking",
+    "venue": "international conference on computational linguistics",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Yi Zhang",
+            "id": "2706740761",
+            "org": "Saarland University#TAB#"
+        },
+        {
+            "name": "Valia Kordoni",
+            "id": "1980125805",
+            "org": "Saarland University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Natural language processing",
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Annotation",
+        "Treebank",
+        "Computer science",
+        "Data mining",
+        "Ranking",
+        "Grammar"
+    ],
+    "references": [
+        "13173216",
+        "1632114991",
+        "1753634924",
+        "2006147030",
+        "2067349145",
+        "2096871981",
+        "2153804780"
+    ]
+}

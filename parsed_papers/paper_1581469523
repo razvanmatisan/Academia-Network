@@ -1,0 +1,31 @@
+{
+    "id": "1581469523",
+    "title": "A partial order approach to discrete dynamic feedback in a class of hybrid systems",
+    "venue": "international conference on hybrid systems computation and control",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Domitilla Del Vecchio",
+            "id": "2116158632",
+            "org": "University of Michigan, Department of Electrical Engineering and Computer Science, Ann Arbor, MI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Enumeration",
+        "Estimator",
+        "Mathematical optimization",
+        "Hybrid system",
+        "Upper and lower bounds",
+        "Controllability",
+        "Control theory",
+        "Control theory",
+        "Mathematics"
+    ],
+    "references": [
+        "1481109946",
+        "2037026914",
+        "2115595609",
+        "2158306892",
+        "2277307177"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1578318700",
+    "title": "An axiomatic approach to the logical omniscience problem",
+    "venue": "theoretical aspects of rationality and knowledge",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Barton L. Lipman",
+            "id": "208703328",
+            "org": "Queen's University, Kingston, Ontario#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Many-valued logic",
+        "Discrete mathematics",
+        "Rule of inference",
+        "Zeroth-order logic",
+        "Artificial intelligence",
+        "Multimodal logic",
+        "Non-classical logic",
+        "Algorithm",
+        "Predicate logic",
+        "Mathematics",
+        "Paraconsistent logic",
+        "Higher-order logic"
+    ],
+    "references": [
+        "1577438212",
+        "2019287892",
+        "2091343125",
+        "2148717074",
+        "2159217391"
+    ]
+}

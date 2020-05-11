@@ -1,0 +1,29 @@
+{
+    "id": "1590695194",
+    "title": "Mobile Objects and Mobile Agents: The Future of Distributed Computing?",
+    "venue": "european conference on object oriented programming",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Danny B. Lange",
+            "id": "2782642104",
+            "org": "General Magic, Inc."
+        }
+    ],
+    "fields_of_study": [
+        "Mobile search",
+        "Mobile agent",
+        "Latency (engineering)",
+        "Fault tolerance",
+        "Emerging technologies",
+        "Software agent",
+        "Distributed computing",
+        "Mobile computing",
+        "Object-oriented programming",
+        "Computer science"
+    ],
+    "references": [
+        "2064741830",
+        "2141285344"
+    ]
+}

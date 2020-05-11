@@ -1,0 +1,25 @@
+{
+    "id": "1501585415",
+    "title": "Mechanical) Reasoning on Infinite Extensive Games",
+    "venue": "arXiv: Computer Science and Game Theory",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Pierre Lescanne",
+            "id": "669336671",
+            "org": "LIP"
+        }
+    ],
+    "fields_of_study": [
+        "Game theory",
+        "Mathematics",
+        "Extensive-form game",
+        "Theoretical computer science",
+        "Logic in computer science",
+        "Proof assistant"
+    ],
+    "references": [
+        "1792672041",
+        "1971428712"
+    ]
+}

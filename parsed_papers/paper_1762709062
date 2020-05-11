@@ -1,0 +1,38 @@
+{
+    "id": "1762709062",
+    "title": "A family of fixed-point algorithms for independent component analysis",
+    "venue": "international conference on acoustics, speech, and signal processing",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Aapo Hyvarinen",
+            "id": "2029196934",
+            "org": "Lab. of Comput. & Inf. Sci., Helsinki Univ. of Technol., Espoo, Finland"
+        }
+    ],
+    "fields_of_study": [
+        "Blind signal separation",
+        "Mathematical optimization",
+        "Independent component analysis",
+        "Fixed-point iteration",
+        "Fixed point",
+        "Higher-order statistics",
+        "Artificial intelligence",
+        "Blind deconvolution",
+        "Algorithm",
+        "Pattern recognition",
+        "Estimation theory",
+        "Deconvolution",
+        "Mathematics"
+    ],
+    "references": [
+        "1996355918",
+        "2019502123",
+        "2050616618",
+        "2099741732",
+        "2108373649",
+        "2108384452",
+        "2133459316",
+        "2134031929"
+    ]
+}

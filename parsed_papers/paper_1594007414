@@ -1,0 +1,34 @@
+{
+    "id": "1594007414",
+    "title": "The Social Dimension of Interactions in Multiagent Systems",
+    "venue": "intelligent agents",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Bernard Moulin",
+            "id": "2066668350",
+            "org": "Laval University"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge management",
+        "Social relation",
+        "Indirect speech",
+        "Communication",
+        "Conversation",
+        "Intelligent agent",
+        "Multi-agent system",
+        "Computer science",
+        "Social network",
+        "Autonomous system (mathematics)",
+        "Artificial intelligence",
+        "Negotiation"
+    ],
+    "references": [
+        "1484321175",
+        "1487325490",
+        "1503983812",
+        "1615595151",
+        "2026633872"
+    ]
+}

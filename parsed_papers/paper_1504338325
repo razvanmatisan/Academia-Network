@@ -1,0 +1,43 @@
+{
+    "id": "1504338325",
+    "title": "TAU: A Portable Parallel Program Analysis Environment for pC++",
+    "venue": "joint international conference on vector and parallel processing parallel processing",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Bernd Mohr",
+            "id": "1982081693",
+            "org": "University of Oregon"
+        },
+        {
+            "name": "Darryl Brown",
+            "id": "2657638449",
+            "org": "University of Oregon"
+        },
+        {
+            "name": "Allen D. Malony",
+            "id": "2079969273",
+            "org": "University of Oregon"
+        }
+    ],
+    "fields_of_study": [
+        "Program analysis",
+        "Computer architecture",
+        "Programming paradigm",
+        "Runtime system",
+        "Parallel programming model",
+        "Programmer",
+        "Compiler",
+        "Theoretical computer science",
+        "Parallel language",
+        "Message Passing Interface",
+        "Computer science"
+    ],
+    "references": [
+        "1848878317",
+        "2030859215",
+        "2108167744",
+        "2127842218",
+        "2137606889"
+    ]
+}

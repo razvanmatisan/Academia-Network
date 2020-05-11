@@ -1,0 +1,37 @@
+{
+    "id": "1531849135",
+    "title": "EFSM-based testing strategy for APIs test of embedded OS",
+    "venue": "international conference on embedded software and systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "SongXia Hao",
+            "id": "2405920104",
+            "org": "Hopen Software Engineering Co., Ltd, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "XiChang Zhong",
+            "id": "2702684148",
+            "org": "Hopen Software Engineering Co., Ltd, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Yun Wang",
+            "id": "2480734219",
+            "org": "Hopen Software Engineering Co., Ltd, Beijing, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Embedded operating system",
+        "Extended finite-state machine",
+        "Test strategy",
+        "Software development",
+        "Test data",
+        "Computer science",
+        "Data modeling"
+    ],
+    "references": [
+        "1593785926",
+        "2101629181"
+    ]
+}

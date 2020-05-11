@@ -1,0 +1,34 @@
+{
+    "id": "1492783117",
+    "title": "On Optimal Hash Tree Traversal for Interval Time-Stamping",
+    "venue": "international conference on information security",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Helger Lipmaa",
+            "id": "15605393",
+            "org": "Helsinki University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Weight-balanced tree",
+        "Discrete mathematics",
+        "Recursion",
+        "Binary search tree",
+        "Tree traversal",
+        "Analysis of algorithms",
+        "Hash tree",
+        "Fibonacci number",
+        "Communication complexity",
+        "Mathematics"
+    ],
+    "references": [
+        "54173073",
+        "1488056159",
+        "1493969756",
+        "1504341594",
+        "1997911919",
+        "2005725110",
+        "2148588576"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "122000893",
+    "title": "JAVA-Based Agent Platform Evaluation",
+    "venue": "international conference on industrial applications of holonic and multi-agent systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Pavel Vrba",
+            "id": "1939656374",
+            "org": "Rockwell Automation Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Memory footprint",
+        "Interoperability",
+        "Process control",
+        "Message passing",
+        "Benchmarking",
+        "Java",
+        "Automation",
+        "Real-time computing",
+        "Engineering",
+        "Real-time Control System"
+    ],
+    "references": [
+        "2110981302",
+        "2156344739",
+        "2892112653"
+    ]
+}

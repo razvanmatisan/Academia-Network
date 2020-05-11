@@ -1,0 +1,46 @@
+{
+    "id": "1582144757",
+    "title": "Experiencing Self-adaptive MAS for Real-Time Decision Support Systems",
+    "venue": "practical applications of agents and multi-agent systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jean-Pierre George",
+            "id": "2127940014",
+            "org": "IRIT - Institut de Recherche en Informatique de Toulouse"
+        },
+        {
+            "name": "Sylvain Peyruqueou",
+            "id": "2720535502",
+            "org": "UPETEC - Emergence Technologies for Unsolved Problems, Parc Technologique du Canal"
+        },
+        {
+            "name": "Christine Regis",
+            "id": "2071933192",
+            "org": "IRIT - Institut de Recherche en Informatique de Toulouse"
+        },
+        {
+            "name": "Pierre Glize",
+            "id": "288297489",
+            "org": "IRIT - Institut de Recherche en Informatique de Toulouse"
+        }
+    ],
+    "fields_of_study": [
+        "Management science",
+        "Flood forecasting",
+        "USable",
+        "Decision support system",
+        "Architecture",
+        "Multi-agent system",
+        "Simulation",
+        "Software",
+        "Autonomous system (mathematics)",
+        "Computer science",
+        "Self-organization"
+    ],
+    "references": [
+        "1523170958",
+        "1571811746",
+        "1922673076"
+    ]
+}

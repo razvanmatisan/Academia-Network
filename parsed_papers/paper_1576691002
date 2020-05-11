@@ -1,0 +1,35 @@
+{
+    "id": "1576691002",
+    "title": "Bigraphs as a Model for Mobile Interaction",
+    "venue": "international conference on graph transformation",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Robin Milner",
+            "id": "2087817183",
+            "org": "Cambridge University"
+        }
+    ],
+    "fields_of_study": [
+        "Locality",
+        "Graph theory",
+        "Computer science",
+        "Distributed computing",
+        "Mobile computing",
+        "Bigraph",
+        "Reactive system",
+        "Mobile interaction"
+    ],
+    "references": [
+        "200801094",
+        "203609956",
+        "1495299640",
+        "1500576982",
+        "1846189533",
+        "1971095420",
+        "2013672985",
+        "2049924207",
+        "2057814731",
+        "2128932399"
+    ]
+}

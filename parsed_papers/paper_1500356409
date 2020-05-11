@@ -1,0 +1,29 @@
+{
+    "id": "1500356409",
+    "title": "The RC5 encryption algorithm",
+    "venue": "fast software encryption",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Ronald L. Rivest",
+            "id": "695545146",
+            "org": "MIT Laboratory for Computer Science"
+        }
+    ],
+    "fields_of_study": [
+        "Tiny Encryption Algorithm",
+        "Disk encryption theory",
+        "Theoretical computer science",
+        "Encryption",
+        "56-bit encryption",
+        "Filesystem-level encryption",
+        "40-bit encryption",
+        "Multiple encryption",
+        "Probabilistic encryption",
+        "Computer science"
+    ],
+    "references": [
+        "1537206908",
+        "1979802565"
+    ]
+}

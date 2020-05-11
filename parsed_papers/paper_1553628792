@@ -1,0 +1,40 @@
+{
+    "id": "1553628792",
+    "title": "Open BEAGLE: A New Versatile C++ Framework for Evolutionary Computation.",
+    "venue": "genetic and evolutionary computation conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Christian Gagne",
+            "id": "2134243357",
+            "org": "Universite Laval"
+        },
+        {
+            "name": "Marc Parizeau",
+            "id": "2054623464",
+            "org": "Universite Laval"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Genetic representation",
+        "Genetic algorithm",
+        "Machine learning",
+        "Evolutionary computation",
+        "Java Evolutionary Computation Toolkit",
+        "Human-based evolutionary computation",
+        "Genetic programming",
+        "Interactive evolutionary computation",
+        "Evolutionary programming",
+        "Computer science",
+        "Theoretical computer science"
+    ],
+    "references": [
+        "1517016597",
+        "1576818901",
+        "1595949339",
+        "1598076938",
+        "2027649639",
+        "2138819322"
+    ]
+}

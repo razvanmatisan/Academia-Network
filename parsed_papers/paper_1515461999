@@ -1,0 +1,37 @@
+{
+    "id": "1515461999",
+    "title": "Digital Median Filters",
+    "venue": "signal processing systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Luca Breveglieri",
+            "id": "2183519221",
+            "org": "Department of Electronics and Information, Politecnico di Milano, Piazza Leonardo da Vinci 32, I-20133 Milano, Italy#TAB#"
+        },
+        {
+            "name": "Vincenzo Piuri",
+            "id": "2130130519",
+            "org": "Department of Information Technologies, University of Milan, via Bramante 65, I-26013 Crema (CR), Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Real-time computing",
+        "Theoretical computer science",
+        "Median filter",
+        "Digital signal processing",
+        "Adaptability",
+        "Image processing",
+        "Scalability",
+        "Filter design",
+        "Filter (signal processing)",
+        "Sorting algorithm",
+        "Computer science"
+    ],
+    "references": [
+        "2049356513",
+        "2095134476",
+        "2294663992"
+    ]
+}

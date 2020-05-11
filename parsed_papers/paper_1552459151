@@ -1,0 +1,33 @@
+{
+    "id": "1552459151",
+    "title": "Presentation and analysis of grid performance data",
+    "venue": "european conference on parallel processing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Norbert Podhorszki",
+            "id": "259421104",
+            "org": "MTA SZTAKI"
+        },
+        {
+            "name": "Peter Kacsuk",
+            "id": "1988113753",
+            "org": "MTA SZTAKI"
+        }
+    ],
+    "fields_of_study": [
+        "Grid",
+        "Visualization",
+        "Program analysis",
+        "Information system",
+        "Distributed computing",
+        "Computer science"
+    ],
+    "references": [
+        "1505845563",
+        "1580595103",
+        "1602065941",
+        "1969215126",
+        "2142590813"
+    ]
+}

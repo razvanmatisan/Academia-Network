@@ -1,0 +1,29 @@
+{
+    "id": "1501856028",
+    "title": "On Formal Specification of a Proof Tool",
+    "venue": "formal methods",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "R. D. Arthan",
+            "id": "2803422628",
+            "org": "ICL Secure Systems"
+        }
+    ],
+    "fields_of_study": [
+        "Formal methods",
+        "Systems engineering",
+        "Language Of Temporal Ordering Specification",
+        "Theoretical computer science",
+        "Implementation",
+        "Formal specification",
+        "Refinement",
+        "Specification language",
+        "Formal verification",
+        "Programming language specification",
+        "Computer science"
+    ],
+    "references": [
+        "1829244603"
+    ]
+}

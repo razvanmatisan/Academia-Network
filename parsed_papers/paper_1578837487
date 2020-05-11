@@ -1,0 +1,32 @@
+{
+    "id": "1578837487",
+    "title": "Are Genetic Algorithms Function Optimizers",
+    "venue": "parallel problem solving from nature",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Kenneth A. De Jong",
+            "id": "2126791821",
+            "org": "George Mason University"
+        }
+    ],
+    "fields_of_study": [
+        "Multi-swarm optimization",
+        "Machine learning",
+        "Artificial intelligence",
+        "Meta-optimization",
+        "Genetic algorithm",
+        "Genetic representation",
+        "Mathematical optimization",
+        "Metaheuristic",
+        "Computer science",
+        "Derivative-free optimization",
+        "Quality control and genetic algorithms",
+        "Test functions for optimization"
+    ],
+    "references": [
+        "139356917",
+        "1499561572",
+        "1639032689"
+    ]
+}

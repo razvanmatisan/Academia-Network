@@ -1,0 +1,56 @@
+{
+    "id": "1536125539",
+    "title": "COPS: quality of service vs. any service at all",
+    "venue": "international workshop on quality of service",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Randy H. Katz",
+            "id": "2246122413",
+            "org": "CS Division, EECS Department, University of California, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "George Porter",
+            "id": "2123608901",
+            "org": "CS Division, EECS Department, University of California, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "Scott Shenker",
+            "id": "719828399",
+            "org": "CS Division, EECS Department, University of California, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "Ion Stoica",
+            "id": "2161479384",
+            "org": "CS Division, EECS Department, University of California, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "Mel Tsai",
+            "id": "2294484881",
+            "org": "CS Division, EECS Department, University of California, Berkeley, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Peer-to-peer",
+        "Network address translation",
+        "Network service",
+        "Computer network",
+        "Intrusion detection system",
+        "Network packet",
+        "Quality of service",
+        "Computer security",
+        "Network element",
+        "Middlebox",
+        "Computer science"
+    ],
+    "references": [
+        "1508174029",
+        "1729321080",
+        "2010365467",
+        "2097822042",
+        "2107717610",
+        "2155070368",
+        "2156874421",
+        "2158060559"
+    ]
+}

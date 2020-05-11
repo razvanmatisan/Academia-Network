@@ -1,0 +1,39 @@
+{
+    "id": "1794018144",
+    "title": "Relating Abstract Datatypes and Z-Schemata",
+    "venue": "workshop on recent trends in algebraic development techniques",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Hubert Baumeister",
+            "id": "2126925734",
+            "org": "University of Munich"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Algebraic specification",
+        "Semantics",
+        "Language Of Temporal Ordering Specification",
+        "Algorithm",
+        "Theoretical computer science",
+        "Abstract data type",
+        "Specification language",
+        "First-order logic",
+        "Schema (psychology)",
+        "Algebraic number",
+        "Programming language"
+    ],
+    "references": [
+        "19851560",
+        "106459699",
+        "1496607686",
+        "1512705448",
+        "1549434492",
+        "1619797950",
+        "1994033778",
+        "2010883554",
+        "2117351142",
+        "2529054973"
+    ]
+}

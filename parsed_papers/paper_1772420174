@@ -1,0 +1,28 @@
+{
+    "id": "1772420174",
+    "title": "Tailoring the Content of Dynamically Generated Explanations",
+    "venue": "international conference on user modeling, adaptation, and personalization",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Kalina Bontcheva",
+            "id": "7476036",
+            "org": "University of Sheffield"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Hypertext",
+        "Natural language generation",
+        "Distributed computing",
+        "Computer science",
+        "User modeling",
+        "Artificial intelligence",
+        "Tape drive",
+        "Content analysis"
+    ],
+    "references": [
+        "103824060",
+        "1515478764"
+    ]
+}

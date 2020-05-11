@@ -1,0 +1,30 @@
+{
+    "id": "108136462",
+    "title": "Meta Knowledge for Extending Diagnostic Consultation to Critiquing Systems",
+    "venue": "knowledge acquisition modeling and management",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Frank Puppe",
+            "id": "494509844",
+            "org": "Institute for Artificial Intelligence and Applied Informat|Wurzburg University"
+        }
+    ],
+    "fields_of_study": [
+        "Delegation (computing)",
+        "Knowledge management",
+        "Computer science",
+        "Knowledge base",
+        "Decision support system",
+        "Systems architecture",
+        "Knowledge acquisition"
+    ],
+    "references": [
+        "1559359317",
+        "1575601195",
+        "1966508407",
+        "2037497522",
+        "2038334323",
+        "2165604170"
+    ]
+}

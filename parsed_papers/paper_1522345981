@@ -1,0 +1,38 @@
+{
+    "id": "1522345981",
+    "title": "Decoupling in object orientation",
+    "venue": "formal methods",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Ioannis T. Kassios",
+            "id": "2718704315",
+            "org": "Dept. of Computer Science, University of Toronto, Toronto, ON, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Formal methods",
+        "Decoupling (cosmology)",
+        "Formal system",
+        "Special case",
+        "Software development",
+        "Object-orientation",
+        "Object-oriented programming",
+        "Computer science",
+        "Encapsulation (computer programming)"
+    ],
+    "references": [
+        "115619138",
+        "1482299161",
+        "1486248245",
+        "1492647363",
+        "1511826042",
+        "1522547440",
+        "1600863532",
+        "1918806322",
+        "2074923340",
+        "2081945419",
+        "2122984931"
+    ]
+}

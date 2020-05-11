@@ -1,0 +1,54 @@
+{
+    "id": "1539873541",
+    "title": "From Emotion to Interaction: Lessons from Real Human-Machine-Dialogues",
+    "venue": "agent-directed simulation",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Anton Batliner",
+            "id": "2762795904",
+            "org": "University of Erlangen-Nuremberg"
+        },
+        {
+            "name": "Christian Hacker",
+            "id": "1986099074",
+            "org": "University of Erlangen-Nuremberg"
+        },
+        {
+            "name": "Stefan Steidl",
+            "id": "2096417408",
+            "org": "University of Erlangen-Nuremberg"
+        },
+        {
+            "name": "Elmar Noth",
+            "id": "2019675586",
+            "org": "University of Erlangen-Nuremberg"
+        },
+        {
+            "name": "Jurgen Haas",
+            "id": "2117648422",
+            "org": "Sympalog Voice Solutions GmbH"
+        }
+    ],
+    "fields_of_study": [
+        "Human-machine system",
+        "Natural language processing",
+        "Distributed computing",
+        "Linear discriminant analysis",
+        "Artificial intelligence",
+        "Simulation",
+        "Computer science",
+        "User assistance",
+        "Automatic speech",
+        "User interface"
+    ],
+    "references": [
+        "100428360",
+        "110869442",
+        "134122639",
+        "1485753533",
+        "1514944708",
+        "1964469912",
+        "2124864341"
+    ]
+}

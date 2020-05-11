@@ -1,0 +1,29 @@
+{
+    "id": "1487481831",
+    "title": "Multiple Inheritance for C",
+    "venue": "Computing Systems",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Bjarne Stroustrup",
+            "id": "179039431",
+            "org": "AT&T"
+        }
+    ],
+    "fields_of_study": [
+        "Class-based programming",
+        "Lattice (order)",
+        "Distributed computing",
+        "Trait",
+        "Composition over inheritance",
+        "Theoretical computer science",
+        "Multiple inheritance",
+        "Programming language",
+        "Computer science"
+    ],
+    "references": [
+        "193042124",
+        "1583493689",
+        "2063547912"
+    ]
+}

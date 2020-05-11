@@ -1,0 +1,36 @@
+{
+    "id": "1537989935",
+    "title": "Extracting Qualitative Dynamics from Numerical Experiments",
+    "venue": "national conference on artificial intelligence",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Kenneth Yip",
+            "id": "2124507428",
+            "org": "MIT Artificial Intelligence Laboratory, Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Linear dynamical system",
+        "Artificial intelligence",
+        "Machine learning",
+        "Projected dynamical system",
+        "Dynamical system",
+        "Dynamical systems theory",
+        "Hamiltonian system",
+        "Orbit (dynamics)",
+        "State space",
+        "Computer science",
+        "Random dynamical system"
+    ],
+    "references": [
+        "1972969203",
+        "2005314985",
+        "2053190303",
+        "2075434229",
+        "2109863423",
+        "2157658920",
+        "2170633497",
+        "2170874025"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "1573284625",
+    "title": "Crossing Number of Abstract Topological Graphs",
+    "venue": "graph drawing",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Jan Kratochvil",
+            "id": "2312053838",
+            "org": "Charles University"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Discrete mathematics",
+        "Pathwidth",
+        "Indifference graph",
+        "Chordal graph",
+        "Trapezoid graph",
+        "Maximal independent set",
+        "Modular decomposition",
+        "1-planar graph",
+        "Clique-sum",
+        "Mathematics",
+        "Topology"
+    ],
+    "references": [
+        "1968281628",
+        "1974970215",
+        "2081580682"
+    ]
+}

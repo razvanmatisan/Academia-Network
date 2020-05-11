@@ -1,0 +1,45 @@
+{
+    "id": "1547674445",
+    "title": "Mobile Agents in the Mobile Telephone Network Management",
+    "venue": "Telecommunication Systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Igor Brusic",
+            "id": "2696514465",
+            "org": "Technical University of Vienna, Institute of Communication Networks, Vienna, Austria A-1040#TAB#"
+        },
+        {
+            "name": "Vesna Hassler",
+            "id": "2143011828",
+            "org": "Technical University of Vienna, Institute of Communication Networks, Vienna, Austria A-1040#TAB#"
+        },
+        {
+            "name": "Wolfgang Lugmayr",
+            "id": "58957092",
+            "org": "Technical University of Vienna, Institute of Communication Networks, Vienna, Austria A-1040#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile station",
+        "Mobile database",
+        "Mobile search",
+        "Computer network",
+        "Real-time computing",
+        "Mobile identification number",
+        "GSM services",
+        "Mobile radio telephone",
+        "Computer science",
+        "Mobile computing",
+        "Mobile phone signal"
+    ],
+    "references": [
+        "1510940979",
+        "2003811039",
+        "2110432090",
+        "2114266832",
+        "2155990308",
+        "2156585334",
+        "2157813461"
+    ]
+}

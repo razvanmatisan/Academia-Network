@@ -1,0 +1,38 @@
+{
+    "id": "1577028339",
+    "title": "Parametric Sequence Alignment with Constraints",
+    "venue": "Constraints - An International Journal",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Roland H. C. Yap",
+            "id": "2249085170",
+            "org": "School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore ryap@comp.nus.edu.sg#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parametric statistics",
+        "Mathematics",
+        "Constraint programming",
+        "Mathematical optimization",
+        "Needleman-Wunsch algorithm",
+        "Parameterized complexity",
+        "Edit distance",
+        "Similitude",
+        "Algorithm",
+        "Dynamic programming",
+        "Constraint logic programming",
+        "Theoretical computer science"
+    ],
+    "references": [
+        "46806696",
+        "175427703",
+        "1555844260",
+        "1589993665",
+        "1970026646",
+        "2017519756",
+        "2018885841",
+        "2035855976",
+        "2060498389"
+    ]
+}

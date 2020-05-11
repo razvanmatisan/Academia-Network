@@ -1,0 +1,36 @@
+{
+    "id": "1580015043",
+    "title": "Business Driven Prioritization of Service Incidents",
+    "venue": "distributed systems operations and management",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Claudio Bartolini",
+            "id": "2150796137",
+            "org": "HP Laboratories"
+        },
+        {
+            "name": "Mathias Salle",
+            "id": "2146802964",
+            "org": "HP Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Process management",
+        "Capacity management",
+        "Information Technology Infrastructure Library",
+        "Information technology management",
+        "Financial management for IT services",
+        "ITIL security management",
+        "Distributed computing",
+        "Change management (ITSM)",
+        "Incident management (ITSM)",
+        "Computer science",
+        "IT portfolio management"
+    ],
+    "references": [
+        "1590041244",
+        "1935836462",
+        "2142630091"
+    ]
+}

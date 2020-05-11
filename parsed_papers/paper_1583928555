@@ -1,0 +1,37 @@
+{
+    "id": "1583928555",
+    "title": "The ADO.NET entity framework: making the conceptual level real",
+    "venue": "international conference on conceptual modeling",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jose A. Blakeley",
+            "id": "2651294325",
+            "org": "Microsoft Corporation, Redmond, WA#TAB#"
+        },
+        {
+            "name": "Subramanian Muralidhar",
+            "id": "2305497754",
+            "org": "Microsoft Corporation, Redmond, WA#TAB#"
+        },
+        {
+            "name": "Anil K. Nori",
+            "id": "2169680243",
+            "org": "Microsoft Corporation, Redmond, WA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Database",
+        "Data mining",
+        "Relational database",
+        "Computer science",
+        "Data model",
+        "Object-relational impedance mismatch",
+        "Entity-relationship model",
+        "Conceptual model (computer science)",
+        "Logical data model",
+        "Conceptual schema",
+        "Data modeling"
+    ],
+    "references": []
+}

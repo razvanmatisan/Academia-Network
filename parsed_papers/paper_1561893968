@@ -1,0 +1,41 @@
+{
+    "id": "1561893968",
+    "title": "Model-theoretic expressivity analysis",
+    "venue": "inductive logic programming",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Manfred Jaeger",
+            "id": "2168994444",
+            "org": "Institut for Datalogi, Aalborg University, Aalborg O, Denmark#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Probabilistic CTL",
+        "Artificial intelligence",
+        "Subjective logic",
+        "Probabilistic argumentation",
+        "Probabilistic logic",
+        "Probabilistic relevance model",
+        "Computer science",
+        "Inductive logic programming",
+        "Probabilistic logic network",
+        "Graphical model"
+    ],
+    "references": [
+        "128101668",
+        "158290890",
+        "1500344951",
+        "1504110645",
+        "1571067406",
+        "1607205948",
+        "1682850564",
+        "1791364091",
+        "1977970897",
+        "2126185296",
+        "2159481891",
+        "2283350629",
+        "2803681287"
+    ]
+}

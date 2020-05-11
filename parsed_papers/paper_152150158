@@ -1,0 +1,37 @@
+{
+    "id": "152150158",
+    "title": "Automatic laughter detection using neural networks.",
+    "venue": "conference of the international speech communication association",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Mary Tai Knox",
+            "id": "2103784752",
+            "org": "University of California, Berkeley"
+        },
+        {
+            "name": "Nikki Mirghafori",
+            "id": "1260703926",
+            "org": "University of California, Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Word error rate",
+        "Speech recognition",
+        "Speaker recognition",
+        "Artificial intelligence",
+        "Support vector machine",
+        "Mel-frequency cepstrum",
+        "Pattern recognition",
+        "Artificial neural network",
+        "Time delay neural network",
+        "Computer science",
+        "Laughter"
+    ],
+    "references": [
+        "27690075",
+        "1591607137",
+        "2124000984",
+        "2140035970"
+    ]
+}

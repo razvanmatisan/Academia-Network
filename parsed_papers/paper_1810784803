@@ -1,0 +1,30 @@
+{
+    "id": "1810784803",
+    "title": "Computational Complexity of Ehrenfeucht-Fraisse Games on Finite Structures",
+    "venue": "computer science logic",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Elena Pezzoli",
+            "id": "2296097198",
+            "org": "Boston College"
+        }
+    ],
+    "fields_of_study": [
+        "True quantified Boolean formula",
+        "Combinatorics",
+        "Discrete mathematics",
+        "Binary number",
+        "Satisfiability",
+        "If and only if",
+        "Computational complexity theory",
+        "PSPACE-complete",
+        "Ternary relation",
+        "Mathematics",
+        "Game complexity"
+    ],
+    "references": [
+        "1482193060",
+        "2112957043"
+    ]
+}

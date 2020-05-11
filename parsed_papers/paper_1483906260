@@ -1,0 +1,52 @@
+{
+    "id": "1483906260",
+    "title": "Performance Analysis of a Software Design Using the UML Profile for Schedulability, Performance, and Time",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jing Xu",
+            "id": "2227288654",
+            "org": "Carleton University"
+        },
+        {
+            "name": "C. Murray Woodside",
+            "id": "2153102347",
+            "org": "Carleton University"
+        },
+        {
+            "name": "Dorina C. Petriu",
+            "id": "2144941872",
+            "org": "Carleton University"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Layered queueing network",
+        "Software design",
+        "Unified Modeling Language",
+        "Theoretical computer science",
+        "Software development",
+        "Distributed computing",
+        "Response time",
+        "Real-time computing",
+        "Applications of UML",
+        "Computer science"
+    ],
+    "references": [
+        "1486258796",
+        "2043401296",
+        "2084413216",
+        "2085410041",
+        "2088428159",
+        "2093056009",
+        "2128878126",
+        "2133445526",
+        "2135896878",
+        "2139766909",
+        "2144788252",
+        "2157374570",
+        "2159765281",
+        "2169393467"
+    ]
+}

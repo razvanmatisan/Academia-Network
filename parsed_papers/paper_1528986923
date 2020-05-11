@@ -1,0 +1,33 @@
+{
+    "id": "1528986923",
+    "title": "Consequence-driven reasoning for horn SHIQ ontologies",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Yevgeny Kazakov",
+            "id": "2134860852",
+            "org": "Oxford University Computing Laboratory#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ontology",
+        "Machine learning",
+        "Artificial intelligence",
+        "First-order logic",
+        "Automated reasoning",
+        "Axiom",
+        "Description logic",
+        "Building model",
+        "Computer science",
+        "Ontology (information science)",
+        "Semantic reasoner"
+    ],
+    "references": [
+        "62327733",
+        "2107910552",
+        "2109003533",
+        "2165433828",
+        "2572885380"
+    ]
+}

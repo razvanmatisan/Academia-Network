@@ -1,0 +1,42 @@
+{
+    "id": "1520816147",
+    "title": "Searching with uncertainty extended abstract",
+    "venue": "scandinavian workshop on algorithm theory",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Ricardo A. Baeza-Yates",
+            "id": "528588921",
+            "org": "University of Waterloo"
+        },
+        {
+            "name": "Joseph C. Culberson",
+            "id": "357118968",
+            "org": "University of Alberta"
+        },
+        {
+            "name": "Gregory J. E. Rawlins",
+            "id": "669354813",
+            "org": "Indiana University"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorics",
+        "Euclidean shortest path",
+        "Discrete mathematics",
+        "Mathematical optimization",
+        "Yen's algorithm",
+        "K shortest path routing",
+        "Shortest path problem",
+        "Logarithmic spiral",
+        "Shortest Path Faster Algorithm",
+        "Computer science",
+        "Constrained Shortest Path First"
+    ],
+    "references": [
+        "1968132275",
+        "1975489634",
+        "2048175848",
+        "2167562977"
+    ]
+}

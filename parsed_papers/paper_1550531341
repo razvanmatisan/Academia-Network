@@ -1,0 +1,37 @@
+{
+    "id": "1550531341",
+    "title": "Evolving Evolutionary Algorithms Using Multi Expression Programming",
+    "venue": "european conference on artificial life",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Mihai Oltean",
+            "id": "2133170878",
+            "org": "Babes-Bolyai University"
+        },
+        {
+            "name": "Crina Grosan",
+            "id": "2065197918",
+            "org": "Babes-Bolyai University"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Artificial intelligence",
+        "Genetic algorithm",
+        "Evolutionary algorithm",
+        "Mathematical optimization",
+        "Evolutionary programming",
+        "Computer science",
+        "Multi expression programming",
+        "Genetic operator"
+    ],
+    "references": [
+        "1576818901",
+        "1639032689",
+        "1991318915",
+        "1997600725",
+        "2107899042",
+        "2156728410"
+    ]
+}

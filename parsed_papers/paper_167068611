@@ -1,0 +1,43 @@
+{
+    "id": "167068611",
+    "title": "Cryptanalysis of Wang's Auditing Protocol for Data Storage Security in Cloud Computing",
+    "venue": "international conference on information computing and applications",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Chunxiang Xu",
+            "id": "2626979542",
+            "org": "University of Electronics Science and Technology of China"
+        },
+        {
+            "name": "Xiaohu He",
+            "id": "2691481435",
+            "org": "University of Electronics Science and Technology of China"
+        },
+        {
+            "name": "Daniel Abraha-Weldemariam",
+            "id": "235632299",
+            "org": "University of Electronics Science and Technology of China"
+        }
+    ],
+    "fields_of_study": [
+        "Possession (law)",
+        "Internet privacy",
+        "Service quality",
+        "Cloud computing",
+        "Cryptanalysis",
+        "Audit",
+        "Cloud computing security",
+        "Computer security",
+        "Computer science",
+        "Computer data storage"
+    ],
+    "references": [
+        "1566711011",
+        "2079493184",
+        "2102881299",
+        "2125858711",
+        "2135568490",
+        "2167015470"
+    ]
+}

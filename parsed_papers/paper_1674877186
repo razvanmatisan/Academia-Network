@@ -1,0 +1,30 @@
+{
+    "id": "1674877186",
+    "title": "Snort - Lightweight Intrusion Detection for Networks",
+    "venue": "usenix large installation systems administration conference",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Martin Roesch",
+            "id": "2656581016",
+            "org": "Stanford Telecommunications, Inc.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Information system",
+        "Software deployment",
+        "Host-based intrusion detection system",
+        "Computer science",
+        "Shellcode",
+        "Footprint",
+        "Intrusion detection system",
+        "Network security",
+        "Computer network",
+        "Computer security",
+        "Anomaly-based intrusion detection system"
+    ],
+    "references": [
+        "31469951",
+        "2138381338"
+    ]
+}

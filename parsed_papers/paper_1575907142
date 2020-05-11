@@ -1,0 +1,38 @@
+{
+    "id": "1575907142",
+    "title": "Mining Positive and Negative Knowledge in Clinical Databases Based on Rough Set Model",
+    "venue": "european conference on principles of data mining and knowledge discovery",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Shusaku Tsumoto",
+            "id": "122205434",
+            "org": "Shimane Medical University, School of Medicine"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Artificial intelligence",
+        "Knowledge base",
+        "Data mining",
+        "Rule induction",
+        "Machine learning",
+        "Rule of inference",
+        "Database",
+        "Search algorithm",
+        "Information extraction",
+        "Decision rule",
+        "Rough set"
+    ],
+    "references": [
+        "38547858",
+        "1519441199",
+        "1533169541",
+        "1570286060",
+        "1833504470",
+        "1992107931",
+        "1997362234",
+        "2125055259",
+        "2340020088"
+    ]
+}

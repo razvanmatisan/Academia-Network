@@ -1,0 +1,36 @@
+{
+    "id": "1528181284",
+    "title": "ECSAIWeb: A Web-Based Authoring System to Create Adaptive Learning Systems",
+    "venue": "adaptive hypermedia and adaptive web based systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Charun Sanrach",
+            "id": "669913456",
+            "org": "Batiment LORIA - Campus Scientifique"
+        },
+        {
+            "name": "Monique Grandbastien",
+            "id": "2776312627",
+            "org": "Batiment LORIA - Campus Scientifique"
+        }
+    ],
+    "fields_of_study": [
+        "Domain model",
+        "Multimedia",
+        "Authoring system",
+        "Domain knowledge",
+        "Adaptive learning",
+        "Architecture",
+        "Intelligent tutoring system",
+        "Web application",
+        "Computer science",
+        "TUTOR"
+    ],
+    "references": [
+        "1533631669",
+        "1560188445",
+        "1867303184",
+        "1970991802"
+    ]
+}

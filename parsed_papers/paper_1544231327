@@ -1,0 +1,37 @@
+{
+    "id": "1544231327",
+    "title": "Low-Cost and Accurate Intra-flow Contention-Based Admission Control for IEEE 802.11 Ad Hoc Networks",
+    "venue": "ad hoc mobile and wireless networks",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Abdelouahid Derhab",
+            "id": "208611922",
+            "org": "Department of Computer Engineering, CERIST, Rue des 3 freres Aissou, Ben-Aknoun, Algiers, Algeria 16030#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Passive monitoring",
+        "Wireless ad hoc network",
+        "Computer network",
+        "Throughput",
+        "Network packet",
+        "Admission control",
+        "IEEE 802.11",
+        "Channel capacity",
+        "Computer science",
+        "Real-time computing",
+        "Communication channel"
+    ],
+    "references": [
+        "1757326500",
+        "1993877718",
+        "2065941587",
+        "2099574482",
+        "2102258543",
+        "2105166646",
+        "2148414233",
+        "2162338299",
+        "2163216019"
+    ]
+}

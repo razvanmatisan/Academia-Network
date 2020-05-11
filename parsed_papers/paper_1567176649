@@ -1,0 +1,35 @@
+{
+    "id": "1567176649",
+    "title": "Induction of Recursive Bayesian Classifiers",
+    "venue": "european conference on machine learning",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Pat Langley",
+            "id": "2811443521",
+            "org": "Learning Systems Department, Siemens Corporate Research, Princeton#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hierarchy",
+        "Recursion",
+        "Probabilistic logic",
+        "Recursion (computer science)",
+        "Machine learning",
+        "Naive Bayes classifier",
+        "Recursive Bayesian estimation",
+        "Pattern recognition",
+        "Mathematics",
+        "Statistical assumption",
+        "Artificial intelligence",
+        "Bayesian probability"
+    ],
+    "references": [
+        "203696055",
+        "1605844890",
+        "1625504505",
+        "2073308541",
+        "2113546432",
+        "2136000097"
+    ]
+}

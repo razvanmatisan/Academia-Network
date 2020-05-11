@@ -1,0 +1,42 @@
+{
+    "id": "1551380777",
+    "title": "WIZ - A Prototype for Knowledge-Based Drawing Interpretation",
+    "venue": "industrial and engineering applications of artificial intelligence and expert systems",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Boris Pasternak",
+            "id": "2642997715",
+            "org": "Universitat Hamburg"
+        },
+        {
+            "name": "G. Gabrielides",
+            "id": "2585978313",
+            "org": "Universitat Hamburg"
+        },
+        {
+            "name": "Rainer Sprengel",
+            "id": "1967236860",
+            "org": "Universitat Hamburg"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Knowledge extraction",
+        "Vectorization (mathematics)",
+        "Knowledge base",
+        "Technical drawing",
+        "Artificial intelligence",
+        "Computer science",
+        "Data mining",
+        "Domain specificity",
+        "A priori and a posteriori",
+        "Knowledge-based systems",
+        "Dimensioning"
+    ],
+    "references": [
+        "104648935",
+        "178028575",
+        "2065686059"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "1538630687",
+    "title": "Non Binary CSPs and Heuristics for Modeling and Diagnosing Dynamic Systems",
+    "venue": "congress of the italian association for artificial intelligence",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Andrea Panati",
+            "id": "2051743218",
+            "org": "Universita di Torino"
+        }
+    ],
+    "fields_of_study": [
+        "Qualitative reasoning",
+        "Constraint programming",
+        "Greedy algorithm",
+        "Dynamical system",
+        "Mathematical optimization",
+        "Constraint logic programming",
+        "Constraint satisfaction problem",
+        "Constraint satisfaction",
+        "Heuristics",
+        "Computer science"
+    ],
+    "references": [
+        "160447551",
+        "1490178561",
+        "1524634831",
+        "2126386151",
+        "2148546044",
+        "2151720296"
+    ]
+}

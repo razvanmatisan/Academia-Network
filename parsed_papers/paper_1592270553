@@ -1,0 +1,34 @@
+{
+    "id": "1592270553",
+    "title": "Towards a True Reflective Modeling Scheme",
+    "venue": "conference on object oriented programming systems languages and applications",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Jean Bezivin",
+            "id": "2010491942",
+            "org": "University of Nantes"
+        },
+        {
+            "name": "Richard Lemesle",
+            "id": "1968670298",
+            "org": "University of Nantes"
+        }
+    ],
+    "fields_of_study": [
+        "Modeling language",
+        "Programming language",
+        "Formal specification",
+        "Unified Modeling Language",
+        "Metamodeling",
+        "Computer science",
+        "Meta-Object Facility",
+        "Architecture",
+        "Software architecture",
+        "Software development"
+    ],
+    "references": [
+        "1554171082",
+        "2167500728"
+    ]
+}

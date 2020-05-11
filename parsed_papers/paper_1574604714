@@ -1,0 +1,45 @@
+{
+    "id": "1574604714",
+    "title": "Physiological models comparison for the analysis of ASL FMRI data",
+    "venue": "international symposium on biomedical imaging",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Aina Frau-Pascual",
+            "id": "262786352",
+            "org": "INRIA, MISTIS, Grenoble University, LJK, Grenoble, France"
+        },
+        {
+            "name": "Florence Forbes",
+            "id": "2166126287",
+            "org": "INRIA, MISTIS, Grenoble University, LJK, Grenoble, France"
+        },
+        {
+            "name": "Philippe Ciuciu",
+            "id": "2286323142",
+            "org": "INRIA, Parietal, F-91893 Orsay, France"
+        }
+    ],
+    "fields_of_study": [
+        "Cerebral blood flow",
+        "Haemodynamic response",
+        "Spin- 1/2 ",
+        "Artificial intelligence",
+        "Perfusion",
+        "Pattern recognition",
+        "Hemodynamics",
+        "Blood flow",
+        "Blood volume",
+        "Computer science",
+        "Functional magnetic resonance imaging"
+    ],
+    "references": [
+        "1534353414",
+        "1974105735",
+        "2102669877",
+        "2108229631",
+        "2110745932",
+        "2151590495",
+        "2276199605"
+    ]
+}

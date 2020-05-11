@@ -1,0 +1,32 @@
+{
+    "id": "1593557772",
+    "title": "A type model for VDM",
+    "venue": "formal methods",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Brian Q. Monahan",
+            "id": "2512001870",
+            "org": "Imperial Software Technology Ltd."
+        }
+    ],
+    "fields_of_study": [
+        "Data type",
+        "Domain theory",
+        "Scott domain",
+        "Discrete mathematics",
+        "Theoretical computer science",
+        "Recursion",
+        "Logical data model",
+        "Satisfiability",
+        "Algorithm",
+        "Expression (mathematics)",
+        "Finitary",
+        "Computer science"
+    ],
+    "references": [
+        "1605925834",
+        "1970495662",
+        "2166822586"
+    ]
+}

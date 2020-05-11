@@ -1,0 +1,31 @@
+{
+    "id": "1558721508",
+    "title": "Modal Logics for Knowledge Representation Systems",
+    "venue": "foundations of computer science",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Dimiter Vakarelov",
+            "id": "2917622",
+            "org": "Sofia University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Modal m-calculus",
+        "T-norm fuzzy logics",
+        "Normal modal logic",
+        "Modal operator",
+        "Dynamic logic (modal logic)",
+        "Modal logic",
+        "Computer science",
+        "Accessibility relation",
+        "Multimodal logic"
+    ],
+    "references": [
+        "347321925",
+        "1979029381",
+        "1989098065",
+        "2019254124"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1587559562",
+    "title": "How good is a kernel when used as a similarity measure",
+    "venue": "conference on learning theory",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Nathan Srebro",
+            "id": "1531155176",
+            "org": "Toyota Technological Institute-Chicago, IL and IBM Haifa Research Lab, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Machine learning",
+        "Similarity measure",
+        "Kernel (statistics)",
+        "Kernel embedding of distributions",
+        "Kernel method",
+        "Artificial intelligence",
+        "Discrete mathematics",
+        "Kernel smoother",
+        "Polynomial kernel",
+        "String kernel",
+        "Mathematics",
+        "Radial basis function kernel"
+    ],
+    "references": [
+        "1607832978",
+        "1987091651",
+        "2075887074",
+        "2123157758",
+        "2124225821",
+        "2166473218",
+        "2178357350"
+    ]
+}

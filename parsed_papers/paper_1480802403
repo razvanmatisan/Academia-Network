@@ -1,0 +1,31 @@
+{
+    "id": "1480802403",
+    "title": "Speeding Up Pollard's Rho Method for Computing Discrete Logarithms",
+    "venue": "algorithmic number theory symposium",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Edlyn Teske",
+            "id": "2781411210",
+            "org": "Technische UniversitAt Darmstadt"
+        }
+    ],
+    "fields_of_study": [
+        "Logarithm",
+        "Precomputation",
+        "Elliptic curve",
+        "Mathematical analysis",
+        "Discrete mathematics",
+        "Hyperelliptic curve cryptography",
+        "Pollard's rho algorithm for logarithms",
+        "Pollard's kangaroo algorithm",
+        "Mathematics",
+        "Discrete logarithm"
+    ],
+    "references": [
+        "1981455414",
+        "2003736153",
+        "2008272678",
+        "2013238997"
+    ]
+}

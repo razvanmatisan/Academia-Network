@@ -1,0 +1,38 @@
+{
+    "id": "152067378",
+    "title": "FCA Analyst Session and Data Access Tools in FCART",
+    "venue": "artificial intelligence methodology systems applications",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Alexey Neznanov",
+            "id": "1468332102",
+            "org": "National Research University Higher School of Economics"
+        },
+        {
+            "name": "Andrey Parinov",
+            "id": "2472901348",
+            "org": "National Research University Higher School of Economics"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Knowledge extraction",
+        "Toolbox",
+        "Metadata",
+        "Data access",
+        "Database",
+        "Data mining",
+        "Formal concept analysis",
+        "Software",
+        "Unstructured data",
+        "Text mining"
+    ],
+    "references": [
+        "172392321",
+        "1503729935",
+        "1601240829",
+        "2110813219",
+        "2122547182"
+    ]
+}

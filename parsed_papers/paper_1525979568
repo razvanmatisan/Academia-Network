@@ -1,0 +1,33 @@
+{
+    "id": "1525979568",
+    "title": "Explanatory Visualization in an Educational Programming Environment: Connecting Examples with General Knowledge",
+    "venue": "international conference on human computer interaction",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Peter Brusilovsky",
+            "id": "2032738043",
+            "org": "International Centre for Scientific and Technical Information"
+        }
+    ],
+    "fields_of_study": [
+        "Inductive programming",
+        "Multimedia",
+        "Visualization",
+        "First-generation programming language",
+        "Human-computer interaction",
+        "Natural language programming",
+        "Fifth-generation programming language",
+        "Information visualization",
+        "Extensible programming",
+        "Computer science",
+        "Symbolic programming"
+    ],
+    "references": [
+        "1515990089",
+        "1998128236",
+        "2004309083",
+        "2034431767",
+        "2124868162"
+    ]
+}

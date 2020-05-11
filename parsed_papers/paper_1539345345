@@ -1,0 +1,39 @@
+{
+    "id": "1539345345",
+    "title": "Cross-Language Retrieval Experiments at CLEF 2002",
+    "venue": "cross language evaluation forum",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Aitao Chen",
+            "id": "2165265282",
+            "org": "University of California at Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Merge (version control)",
+        "Multilingualism",
+        "Natural language processing",
+        "Information retrieval",
+        "Machine translation",
+        "Query expansion",
+        "Artificial intelligence",
+        "Relevance feedback",
+        "Ranking",
+        "Clef",
+        "Computer science"
+    ],
+    "references": [
+        "187060457",
+        "1479966022",
+        "1489181569",
+        "1604601006",
+        "1973923101",
+        "1979102019",
+        "1997841190",
+        "2006969979",
+        "2033586051",
+        "2043909051",
+        "2129945445"
+    ]
+}

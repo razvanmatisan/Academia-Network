@@ -1,0 +1,35 @@
+{
+    "id": "1590682506",
+    "title": "The Mathematical Semantic Web",
+    "venue": "mathematical knowledge management",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Massimo Marchiori",
+            "id": "2810235591",
+            "org": "The World Wide Web Consortium, MIT"
+        },
+        {
+            "name": "Massimo Marchiori",
+            "id": "2810235591",
+            "org": "The World Wide Web Consortium, MIT"
+        }
+    ],
+    "fields_of_study": [
+        "RDF",
+        "Knowledge engineering",
+        "Semantic Web Rule Language",
+        "Algorithm",
+        "Mathematical object",
+        "RDF Schema",
+        "Computer science",
+        "Natural language processing",
+        "Knowledge representation and reasoning",
+        "XML",
+        "Semantic Web",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "2081578468"
+    ]
+}

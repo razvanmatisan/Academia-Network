@@ -1,0 +1,39 @@
+{
+    "id": "1539952595",
+    "title": "Intentional Paradoxes and an Inductive Theory of Propositional Quantification",
+    "venue": "theoretical aspects of rationality and knowledge",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Nicholas Asher",
+            "id": "2576346612",
+            "org": "The University of Texas at Austin#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Universal quantification",
+        "Propositional variable",
+        "Discrete mathematics",
+        "Resolution (logic)",
+        "Propositional formula",
+        "Well-formed formula",
+        "Zeroth-order logic",
+        "Artificial intelligence",
+        "Algorithm",
+        "Higher-order logic",
+        "Autoepistemic logic",
+        "Mathematics"
+    ],
+    "references": [
+        "1560154309",
+        "1604202457",
+        "1989033022",
+        "2004579236",
+        "2044596816",
+        "2049250683",
+        "2049888592",
+        "2062145017",
+        "2062506884",
+        "2160331299"
+    ]
+}

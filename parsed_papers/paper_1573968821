@@ -1,0 +1,34 @@
+{
+    "id": "1573968821",
+    "title": "Location aware applications for smart cities with Google maps and GIS tools",
+    "venue": "active media technology",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Siak Chuan Tan",
+            "id": "2098093485",
+            "org": "School of Software Engineering and Data Communications, Queensland University of Technology, Brisbane, Australia#TAB#"
+        },
+        {
+            "name": "On Wong",
+            "id": "2100921245",
+            "org": "School of Software Engineering and Data Communications, Queensland University of Technology, Brisbane, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Data mining",
+        "Visualization",
+        "VRML",
+        "Geographic information system",
+        "World Wide Web",
+        "Location awareness",
+        "Digital mapping",
+        "Real estate",
+        "Network mapping",
+        "The Internet"
+    ],
+    "references": [
+        "1604589285"
+    ]
+}

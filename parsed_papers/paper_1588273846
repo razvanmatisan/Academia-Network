@@ -1,0 +1,34 @@
+{
+    "id": "1588273846",
+    "title": "A method for selecting environments for software compatibility testing",
+    "venue": "federated conference on computer science and information systems",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Lukasz Pobereznik",
+            "id": "2222959592",
+            "org": "AGH Univ. of Sci. & Technol., Cracow, Poland"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time computing",
+        "Data mining",
+        "Resource-oriented architecture",
+        "Software peer review",
+        "Software construction",
+        "Backporting",
+        "Operating system",
+        "Social software engineering",
+        "Software sizing",
+        "Package development process",
+        "Software reliability testing",
+        "Computer science"
+    ],
+    "references": [
+        "1510264782",
+        "1593053027",
+        "1772188580",
+        "2063344591",
+        "2091799760"
+    ]
+}

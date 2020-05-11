@@ -1,0 +1,45 @@
+{
+    "id": "1793691888",
+    "title": "Verification of Timed Systems Using POSETs",
+    "venue": "computer aided verification",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Wendy Belluomini",
+            "id": "1940497225",
+            "org": "Computer Science Department, USA"
+        },
+        {
+            "name": "Chris J. Myers",
+            "id": "2153945177",
+            "org": "University of Utah"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Systems design",
+        "Graph rewriting",
+        "Hybrid system",
+        "Partially ordered set",
+        "Real-time operating system",
+        "Timed automaton",
+        "Real-time computing",
+        "State space",
+        "Formal verification",
+        "Computer science"
+    ],
+    "references": [
+        "1482233117",
+        "1490128362",
+        "1536808451",
+        "1540501475",
+        "1796268701",
+        "1861370427",
+        "1934074768",
+        "2072530605",
+        "2098539773",
+        "2099620341",
+        "2106929737",
+        "2151612633"
+    ]
+}

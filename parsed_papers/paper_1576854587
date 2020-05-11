@@ -1,0 +1,28 @@
+{
+    "id": "1576854587",
+    "title": "On expanding query vectors with lexically related words",
+    "venue": "text retrieval conference",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Ellen M. Voorhees",
+            "id": "2047986224",
+            "org": "Siemens"
+        }
+    ],
+    "fields_of_study": [
+        "Information retrieval",
+        "WordNet",
+        "Synonym",
+        "Query expansion",
+        "Lexical database",
+        "Vector space model",
+        "Search engine indexing",
+        "Indexation",
+        "Computer science",
+        "Lexicon"
+    ],
+    "references": [
+        "2048345874"
+    ]
+}

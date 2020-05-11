@@ -1,0 +1,41 @@
+{
+    "id": "1604697653",
+    "title": "A Unifying Framework for Process Calculus Semantics of Concurrent Object-Oriented Languages",
+    "venue": "european conference on object-oriented programming",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Michael Papathomas",
+            "id": "2308817654",
+            "org": "University of Geneva"
+        }
+    ],
+    "fields_of_study": [
+        "Process calculus",
+        "Domain relational calculus",
+        "Programming language",
+        "Semantics",
+        "Natural language processing",
+        "Denotational semantics",
+        "Concurrency",
+        "Communicating sequential processes",
+        "Normalisation by evaluation",
+        "Tuple relational calculus",
+        "Artificial intelligence",
+        "Computer science"
+    ],
+    "references": [
+        "1503973138",
+        "1517276975",
+        "1770006921",
+        "1984689011",
+        "1992788999",
+        "1997522747",
+        "2094935854",
+        "2114071876",
+        "2132055297",
+        "2132532613",
+        "2143912531",
+        "2799068413"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "1783744706",
+    "title": "A Fast Algorithm for Density-Based Clustering in Large Database",
+    "venue": "knowledge discovery and data mining",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Bo Zhou",
+            "id": "2628999232",
+            "org": "The Zhejiang University"
+        },
+        {
+            "name": "David W. Cheung",
+            "id": "1979772396",
+            "org": "The University of Hong Kong"
+        },
+        {
+            "name": "Ben Kao",
+            "id": "1911907851",
+            "org": "The University of Hong Kong"
+        }
+    ],
+    "fields_of_study": [
+        "SUBCLU",
+        "Computer science",
+        "Machine learning",
+        "Artificial intelligence",
+        "Cluster analysis",
+        "Data mining",
+        "CURE data clustering algorithm",
+        "Correlation clustering",
+        "Database",
+        "FLAME clustering",
+        "Algorithm",
+        "Canopy clustering algorithm",
+        "Data stream clustering",
+        "k-medians clustering"
+    ],
+    "references": [
+        "149880823",
+        "1530595269",
+        "1575476631",
+        "1673310716",
+        "2095897464",
+        "2101616188",
+        "2131687179"
+    ]
+}

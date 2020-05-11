@@ -1,0 +1,35 @@
+{
+    "id": "1547764309",
+    "title": "The harmonic decision matrix: a subtle model of the natural neuron",
+    "venue": "congress on evolutionary computation",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Benoit Bagot",
+            "id": "2673186157",
+            "org": "ZF Getriebe GmbH, Friedrichshafen, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Evolutionary algorithm",
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence",
+        "Decision matrix",
+        "Evolutionary computation",
+        "Decision tree",
+        "Human-based evolutionary computation",
+        "Fuzzy logic",
+        "Multi-objective optimization",
+        "Harmonic",
+        "Mathematics"
+    ],
+    "references": [
+        "1557877020",
+        "1584887696",
+        "1612556207",
+        "2039184361",
+        "2063375245",
+        "2140066605"
+    ]
+}

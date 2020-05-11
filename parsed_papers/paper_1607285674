@@ -1,0 +1,41 @@
+{
+    "id": "1607285674",
+    "title": "A linear tree edit distance algorithm for similar ordered trees",
+    "venue": "combinatorial pattern matching",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Helene Touzet",
+            "id": "134747314",
+            "org": "LIFL - UMR CNRS 8022, Universite Lille 1, Villeneuve d'Ascq cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Red-black tree",
+        "Link/cut tree",
+        "Combinatorics",
+        "Range tree",
+        "Tree rotation",
+        "K-ary tree",
+        "2-3 tree",
+        "Pattern recognition",
+        "Artificial intelligence",
+        "Ternary search tree",
+        "Wagner-Fischer algorithm",
+        "Mathematics"
+    ],
+    "references": [
+        "1525763385",
+        "1543611576",
+        "1559144499",
+        "1605903931",
+        "1718544036",
+        "1774857219",
+        "1975009259",
+        "1976373002",
+        "2000319736",
+        "2093727387",
+        "2108584692",
+        "2134861301"
+    ]
+}

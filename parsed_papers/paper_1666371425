@@ -1,0 +1,38 @@
+{
+    "id": "1666371425",
+    "title": "Multidimensional Network Monitoring for Intrusion Detection",
+    "venue": "arXiv: Cryptography and Security",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Vladimir Gudkov",
+            "id": "2254675446",
+            "org": "University of South Carolina"
+        },
+        {
+            "name": "Joseph E. Johnson",
+            "id": "2098927880",
+            "org": "University of South Carolina"
+        }
+    ],
+    "fields_of_study": [
+        "Information flow (information theory)",
+        "Computer security",
+        "Theoretical computer science",
+        "Computer science",
+        "Trajectory",
+        "Network monitoring",
+        "Intrusion detection system",
+        "Complex system",
+        "Complex system",
+        "Multidimensional network",
+        "Anomaly-based intrusion detection system"
+    ],
+    "references": [
+        "8376609",
+        "2062099168",
+        "2084299023",
+        "2114238591",
+        "2168169496"
+    ]
+}

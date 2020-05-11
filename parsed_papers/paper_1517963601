@@ -1,0 +1,41 @@
+{
+    "id": "1517963601",
+    "title": "A New Quantum Evolutionary Local Search Algorithm for MAX 3-SAT Problem",
+    "venue": "hybrid artificial intelligence systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Abdesslem Layeb",
+            "id": "2649364074",
+            "org": "Lire laboratory, infography group, University Mentouri of Constantine, Algeria#TAB#"
+        },
+        {
+            "name": "Djamel-Eddine Saidouni",
+            "id": "2676455944",
+            "org": "Lire laboratory, infography group, University Mentouri of Constantine, Algeria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Evolutionary algorithm",
+        "Machine learning",
+        "True quantified Boolean formula",
+        "Quantum algorithm",
+        "Mathematical optimization",
+        "Hybrid algorithm",
+        "Quantum phase estimation algorithm",
+        "Artificial intelligence",
+        "Local search (optimization)",
+        "Maximum satisfiability problem",
+        "Quantum computer",
+        "Computer science"
+    ],
+    "references": [
+        "1516863390",
+        "1937748095",
+        "2036265926",
+        "2044560939",
+        "2071356525",
+        "2136885049",
+        "2156708389"
+    ]
+}

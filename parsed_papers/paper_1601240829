@@ -1,0 +1,49 @@
+{
+    "id": "1601240829",
+    "title": "Pattern Structures for Analyzing Complex Data",
+    "venue": "granular computing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Sergei O. Kuznetsov",
+            "id": "2119539139",
+            "org": "Department of Applied Mathematics and Information Science, State University Higher School of Economics, Moscow, Russia 101000#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hierarchy",
+        "Artificial intelligence",
+        "Machine learning",
+        "Binary number",
+        "Scaling",
+        "Graph",
+        "Association rule learning",
+        "Theoretical computer science",
+        "Data mining",
+        "Formal concept analysis",
+        "Computer science",
+        "State pattern",
+        "Complex data type"
+    ],
+    "references": [
+        "1503729935",
+        "1532382818",
+        "1532933853",
+        "1534041700",
+        "1570806034",
+        "1572812727",
+        "1588961056",
+        "1594972045",
+        "1601616652",
+        "1603022250",
+        "1605329062",
+        "1851672339",
+        "1852340955",
+        "1874959578",
+        "2065253760",
+        "2066771339",
+        "2108150886",
+        "2119812309",
+        "2166741044"
+    ]
+}
