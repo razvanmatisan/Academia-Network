@@ -27,6 +27,7 @@ struct info {
     int64_t id;
     int64_t *references;
     int num_refs;
+    int ok;
 };
 
 struct publications_data {
@@ -72,7 +73,7 @@ void init_info(Info *publication) {
     */
 
     // Title
-    publication->title = malloc(MAX_LEN * sizeof(char));
+    publication->title = malloc(MAX_LEN * sizeof(char)); // seg!
     DIE(publication->title == NULL, "publication->title");
 
     // Venue
@@ -84,22 +85,18 @@ void init_info(Info *publication) {
     DIE(publication->authors == NULL, "publication->authors");
 
     for (int i = 0; i < MAX_AUTHORS; i++) {
+        publication->authors[i] = malloc(sizeof(Author));
+        DIE(publication->authors[i] == NULL, "publications->authors[i]");
+
         Author *author = publication->authors[i];
-        
-<<<<<<< HEAD
-=======
-        // printf("%p\n", author);
->>>>>>> 2a6b4c8d25afe37f085eb67b0620968f03ef200e
-        author = malloc(sizeof(Author));
-        DIE(author, "author");
 
         // Name
         author->name = malloc(MAX_LEN * sizeof(char));
-        DIE(author->name, "author->name");
+        DIE(author->name == NULL, "author->name");
 
         // Institution
         author->org = malloc(MAX_LEN * sizeof(char));
-        DIE(author->org, "author->org");
+        DIE(author->org == NULL, "author->org");
     }
 
     // Fields    
@@ -121,8 +118,13 @@ PublData* init_publ_data(void) {
     DIE(data == NULL, "malloc - data");
 
     // Initialising hashtable
-    data->buckets = malloc(HMAX * sizeof(Info *));    
+    data->buckets = malloc(HMAX * sizeof(Info *));
     DIE(data->buckets == NULL, "data->buckets malloc");
+
+    for (int i = 0; i < HMAX; i++) {
+        data->buckets[i] = malloc(sizeof(Info));
+        data->buckets[i]->ok = 0;
+    }
 
     data->hmax = HMAX;
     data->hash_function = hash_function_int;
@@ -136,7 +138,8 @@ void destroy_hashtable(PublData *ht) {
   }
 
   for (int i = 0; i < ht->hmax; i++) {
-    free(ht->buckets[i]);
+      if(ht->buckets[i]->ok) destroy_info(ht->buckets[i]);
+      free(ht->buckets[i]);
   }
 
   free(ht->buckets);
@@ -146,35 +149,35 @@ void destroy_hashtable(PublData *ht) {
 void destroy_info(Info *publication) {
     // Title
     free(publication->title);
-    free(publication->venue);
+    // free(publication->venue);
     
     // Authors
     for (int i = 0; i < publication->num_authors; i++) {
         Author *author = publication->authors[i]; 
-        free(author->name);
-        free(author->org);
-        free(author);
+        // free(author->name);
+        // free(author->org);
+        // free(author);
     }
-    free(publication->authors);
-    
+    // free(publication->authors);
+
     // Fields
     for (int i = 0; i < publication->num_fields; i++) {
-        free(publication->fields[i]);
+        // free(publication->fields[i]);
     }
-    free(publication->fields);
+    // free(publication->fields);
 
     // References
-    free(publication->references);
+    // free(publication->references);
 }
 
 void destroy_publ_data(PublData* data) {
-    destroy_hashtable(data);
-
     for (int i = 0; i < data->hmax; i++) {
-        if (data->buckets[i]->title) {
-            destroy_info(&data->buckets[i]);
+        if (data->buckets[i]->ok) {
+            // destroy_info(data->buckets[i]);
         }
     }
+
+    destroy_hashtable(data);
 }
 
 void add_paper(PublData* data, const char* title, const char* venue,
@@ -182,6 +185,7 @@ void add_paper(PublData* data, const char* title, const char* venue,
     const char** institutions, const int num_authors, const char** fields,
     const int num_fields, int64_t id, const int64_t* references,
     const int num_refs) {
+
     unsigned int hash = data->hash_function(&id) % data->hmax;
 
     int index;
@@ -189,7 +193,8 @@ void add_paper(PublData* data, const char* title, const char* venue,
     for (int i = 0; i < data->hmax; i++) {
         index = (hash + i) % data->hmax;
         Info *bucket = data->buckets[index];
-        if (bucket->title == NULL) {
+        if (!bucket->ok) {
+            bucket->ok = 1;
             break;
         }
     }
@@ -203,17 +208,14 @@ void add_paper(PublData* data, const char* title, const char* venue,
     publication->venue = venue;
     publication->year = year;
     publication->num_authors = num_authors;
-    
+
+
     // Authors
     for (int i = 0; i < publication->num_authors; i++) {
-        Author *author;
+        Author *author = publication->authors[i];
         author->name = author_names[i];
         author->id = author_ids[i];
         author->org = institutions[i];
-
-        printf("SEGGGGGGG\n");
-        publication->authors[i] = author; // segs
-        printf("author name = %s\n", publication->authors[i]->name);
     }
 
     // Fields
@@ -226,8 +228,6 @@ void add_paper(PublData* data, const char* title, const char* venue,
     publication->num_refs = num_refs;
 
     publication->references = references;
-
-    data->buckets[index] = publication;
 }
 
 char* get_oldest_influence(PublData* data, const int64_t id_paper) {
