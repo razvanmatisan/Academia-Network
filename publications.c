@@ -24,13 +24,13 @@ struct info {
     int num_authors;
     char **fields;
     int num_fields;
-    int64_t *id;
+    int64_t id;
     int64_t *references;
     int num_refs;
 };
 
 struct publications_data {
-    Info *buckets;
+    Info **buckets;
     int hmax;
     unsigned int (*hash_function)(void*);
     int (*compare_function)(void *, void *);
@@ -86,7 +86,7 @@ void init_info(Info *publication) {
     for (int i = 0; i < MAX_AUTHORS; i++) {
         Author *author = publication->authors[i];
         
-        printf("%p\n", author);
+        // printf("%p\n", author);
         author = malloc(sizeof(Author));
         DIE(author, "author");
 
@@ -185,44 +185,44 @@ void add_paper(PublData* data, const char* title, const char* venue,
 
     for (int i = 0; i < data->hmax; i++) {
         index = (hash + i) % data->hmax;
-        Info bucket = data->buckets[index];
-        if (bucket.title == NULL) {
+        Info *bucket = data->buckets[index];
+        if (bucket->title == NULL) {
             break;
         }
     }
 
     // Put-ul
-    Info publication = data->buckets[index];
-    init_info(&publication);
+    Info *publication = data->buckets[index];
+    init_info(publication);
 
     // Basic info
-    publication.title = title;
-    publication.venue = venue;
-    publication.year = year;
-    publication.num_authors = num_authors;
+    publication->title = title;
+    publication->venue = venue;
+    publication->year = year;
+    publication->num_authors = num_authors;
     
     // Authors
-    for (int i = 0; i < publication.num_authors; i++) {
-        Author author;
-        author.name = author_names[i];
-        author.id = author_ids[i];
-        author.org = institutions[i];
+    for (int i = 0; i < publication->num_authors; i++) {
+        Author *author;
+        author->name = author_names[i];
+        author->id = author_ids[i];
+        author->org = institutions[i];
 
-        printf("SUGI\n");
-        *(publication.authors[i]) = author; // segs
-        printf("author name = %s\n", publication.authors[i]->name);
+        printf("SEGGGGGGG\n");
+        publication->authors[i] = author; // segs
+        printf("author name = %s\n", publication->authors[i]->name);
     }
 
     // Fields
-    publication.num_fields = num_fields;
-    for (int i = 0; i < publication.num_fields; i++) {
-        publication.fields[i] = fields[i];
+    publication->num_fields = num_fields;
+    for (int i = 0; i < publication->num_fields; i++) {
+        publication->fields[i] = fields[i];
     }
 
-    publication.id = id;
-    publication.num_refs = num_refs;
+    publication->id = id;
+    publication->num_refs = num_refs;
 
-    publication.references = references;
+    publication->references = references;
 
     data->buckets[index] = publication;
 }
