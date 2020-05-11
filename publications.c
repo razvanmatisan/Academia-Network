@@ -24,13 +24,13 @@ struct info {
     int num_authors;
     char **fields;
     int num_fields;
-    int64_t *id;
+    int64_t id;
     int64_t *references;
     int num_refs;
 };
 
 struct publications_data {
-    Info *buckets;
+    Info **buckets;
     int hmax;
     unsigned int (*hash_function)(void*);
     int (*compare_function)(void *, void *);
@@ -86,7 +86,6 @@ void init_info(Info *publication) {
     for (int i = 0; i < MAX_AUTHORS; i++) {
         Author *author = publication->authors[i];
         
-        printf("%p\n", author);
         author = malloc(sizeof(Author));
         DIE(author, "author");
 
@@ -118,7 +117,7 @@ PublData* init_publ_data(void) {
     DIE(data == NULL, "malloc - data");
 
     // Initialising hashtable
-    data->buckets = malloc(HMAX * sizeof(Info));    
+    data->buckets = malloc(HMAX * sizeof(Info *));    
     DIE(data->buckets == NULL, "data->buckets malloc");
 
     data->hmax = HMAX;
@@ -133,7 +132,7 @@ void destroy_hashtable(PublData *ht) {
   }
 
   for (int i = 0; i < ht->hmax; i++) {
-    free(ht->buckets[i].id);
+    free(ht->buckets[i]);
   }
 
   free(ht->buckets);
@@ -168,7 +167,7 @@ void destroy_publ_data(PublData* data) {
     destroy_hashtable(data);
 
     for (int i = 0; i < data->hmax; i++) {
-        if (data->buckets[i].title) {
+        if (data->buckets[i]->title) {
             destroy_info(&data->buckets[i]);
         }
     }
