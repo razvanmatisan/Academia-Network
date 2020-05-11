@@ -117,7 +117,7 @@ PublData* init_publ_data(void) {
     DIE(data == NULL, "malloc - data");
 
     // Initialising hashtable
-    data->buckets = malloc(hmax * sizeof(Info));    
+    data->buckets = malloc(hmax * sizeof(Info));
     DIE(data->buckets == NULL, "data->buckets malloc");
 
     data->hmax = hmax;
@@ -162,7 +162,6 @@ void destroy_publ_data(PublData* data) {
     destroy_info(data);
 }
 
-
 void add_paper(PublData* data, const char* title, const char* venue,
     const int year, const char** author_names, const int64_t* author_ids,
     const char** institutions, const int num_authors, const char** fields,
@@ -171,42 +170,45 @@ void add_paper(PublData* data, const char* title, const char* venue,
 
     unsigned int hash = data->hash_function(id) % data->hmax;
 
+    int index;
+
     for (int i = 0; i < data->hmax; i++) {
-        int index = (hash + i) % data->hmax;
+        index = (hash + i) % data->hmax;
         Info bucket = data->buckets[index];
-        if (bucket == ) {
-            
+        if (bucket.id == NULL) {
             break;
         }
     }
-    return 0;
+
     // Put-ul
-    Info *publication = &data->buckets[hash];
+    Info publication = data->buckets[index];
 
     // Basic info
-    publication->title = title;
-    publication->venue = venue;
-    publication->year = year;
-    publication->num_authors = num_authors;
+    publication.title = title;
+    publication.venue = venue;
+    publication.year = year;
+    publication.num_authors = num_authors;
 
     // Authors
-    for (int i = 0; i < publication->num_authors; i++) {
-        Author *author = publication->authors[i]; 
+    for (int i = 0; i < publication.num_authors; i++) {
+        Author *author = publication.authors[i]; 
         author->name = author_names[i];
         author->id = author_ids[i];
         author->org = institutions[i];
     }
 
     // Fields
-    publication->num_fields = num_fields;
-    for (int i = 0; i < publication->num_fields; i++) {
-        publication->fields[i] = fields[i];
+    publication.num_fields = num_fields;
+    for (int i = 0; i < publication.num_fields; i++) {
+        publication.fields[i] = fields[i];
     }
 
-    publication->id = id;
-    publication->num_refs = num_refs;
+    publication.id = id;
+    publication.num_refs = num_refs;
 
-    publication->references = references;
+    publication.references = references;
+
+    data->buckets[index] = publication;
 }
 
 char* get_oldest_influence(PublData* data, const int64_t id_paper) {
