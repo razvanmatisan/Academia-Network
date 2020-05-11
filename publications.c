@@ -160,10 +160,10 @@ void destroy_publ_data(PublData* data) {
 void add_paper(PublData* data, const char* title, const char* venue,
     const int year, const char** author_names, const int64_t* author_ids,
     const char** institutions, const int num_authors, const char** fields,
-    const int num_fields, const int64_t id, const int64_t* references,
+    const int num_fields, int64_t id, const int64_t* references,
     const int num_refs) {
 
-    unsigned int hash = data->hash_function(id) % data->hmax;
+    unsigned int hash = data->hash_function(&id) % data->hmax;
 
     int index;
 
@@ -177,7 +177,7 @@ void add_paper(PublData* data, const char* title, const char* venue,
 
     // Put-ul
     Info publication = data->buckets[index];
-    
+
     // Basic info
     publication.title = title;
     publication.venue = venue;
