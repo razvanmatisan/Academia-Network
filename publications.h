@@ -18,14 +18,6 @@
         }                                                       \
     } while (0)
 
-/**
- * Hashtable where:
- * key = publication ID
- * value = info (authors, references etc.)
- */
-struct publications_data;
-typedef struct publications_data PublData;
-
 /*
  * Will contain all data related to authors (name, id, organisation)
  */
@@ -40,6 +32,15 @@ typedef struct author Author;
  */
 struct info;
 typedef struct info Info;
+
+/**
+ * Hashtable where:
+ * key = publication ID
+ * value = info (authors, references etc.)
+ */
+struct publications_data;
+typedef struct publications_data PublData;
+
 
 
 /**
