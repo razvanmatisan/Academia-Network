@@ -61,26 +61,9 @@ int compare_function_ints(void *a, void *b) {
     }
 }
 
-void init_ht(PublData *ht, int hmax, unsigned int (*hash_function)(void*), int (*compare_function)(void*, void*)) {
-    if (ht == NULL) {
-        DIE(ht == NULL, "Undeclared hashtable");
-    }
-    
-    ht->buckets = (PublData*) malloc(hmax * sizeof(Info));
-    
-    if (ht->buckets == NULL) {
-        fprintf(stderr, "No buckets found!\n");
-        exit(-1);
-    }
-
-    ht->hmax = hmax;
-    ht->hash_function = hash_function;
-    ht->compare_function = compare_function;
-}
-
-void init_info(PublData *data) {
+void init_info(Info *publication) {
     /*
-    * Initialising INFO array (buckets)
+    * Initialising INFO element when added
     * 
     * Allocate char arrays with MAX_LEN size.
     * If size of input exceeds allocated size, we will reallocate.
@@ -89,42 +72,44 @@ void init_info(PublData *data) {
     */
 
     // Title
-    data->buckets->title = malloc(MAX_LEN * sizeof(char));
-    DIE(data->buckets->title == NULL, "data->buckets->title");
+    publication->title = malloc(MAX_LEN * sizeof(char));
+    DIE(publication->title == NULL, "publication->title");
+
     // Venue
-    data->buckets->venue = malloc(MAX_LEN * sizeof(char));
-    DIE(data->buckets->venue == NULL, "data->buckets->venue");
-    
+    publication->venue = malloc(MAX_LEN * sizeof(char));
+    DIE(publication->venue == NULL, "publication->venue");    
 
     // Authors
-    data->buckets->authors = malloc(MAX_AUTHORS * sizeof(Author *));
-    DIE(data->buckets->authors == NULL, "data->buckets->authors");
+    publication->authors = malloc(MAX_AUTHORS * sizeof(Author *));
+    DIE(publication->authors == NULL, "publication->authors");
 
     for (int i = 0; i < MAX_AUTHORS; i++) {
-        data->buckets->authors[i] = malloc(sizeof(Author));
-        DIE(data->buckets->authors[i], "data->buckets->authors[i]");
+        Author *author = publication->authors[i];
+        
+        author = malloc(sizeof(Author));
+        DIE(author, "author");
 
         // Name
-        data->buckets->authors[i]->name = malloc(MAX_LEN * sizeof(char));
-        DIE(data->buckets->authors[i]->name, "data->buckets->authors[i]->name");
+        author->name = malloc(MAX_LEN * sizeof(char));
+        DIE(author->name, "author->name");
 
         // Institution
-        data->buckets->authors[i]->org = malloc(MAX_LEN * sizeof(char));
-        DIE(data->buckets->authors[i]->org, "data->buckets->authors[i]->org");
+        author->org = malloc(MAX_LEN * sizeof(char));
+        DIE(author->org, "author->org");
     }
 
     // Fields    
-    data->buckets->fields = malloc(MAX_FIELDS * sizeof(char *));
-    DIE(data->buckets->fields == NULL, "data->buckets->fields");
+    publication->fields = malloc(MAX_FIELDS * sizeof(char *));
+    DIE(publication->fields == NULL, "publication->fields");
 
     for (int i = 0; i < MAX_FIELDS; i++) {
-        data->buckets->fields[i] = malloc(MAX_LEN * sizeof(char));
-        DIE(data->buckets->fields[i] == NULL, "data->buckets->fields[i]");
+        publication->fields[i] = malloc(MAX_LEN * sizeof(char));
+        DIE(publication->fields[i] == NULL, "publication->fields[i]");
     }
 
     // References
-    data->buckets->references = malloc(MAX_REFERENCES * sizeof(int64_t));
-    DIE(data->buckets->references == NULL, "data->buckets->references");
+    publication->references = malloc(MAX_REFERENCES * sizeof(int64_t));
+    DIE(publication->references == NULL, "publication->references");
 }
 
 PublData* init_publ_data(void) {
@@ -132,19 +117,21 @@ PublData* init_publ_data(void) {
     DIE(data == NULL, "malloc - data");
 
     // Initialising hashtable
-    init_ht(data, HMAX, hash_function_int, compare_function_ints);
+    data->buckets = malloc(hmax * sizeof(Info));    
+    DIE(data->buckets == NULL, "data->buckets malloc");
 
-    // Initialising INFO array
-    init_info(data);
+    data->hmax = hmax;
+    data->hash_function = hash_function_int;
+    data->compare_function = compare_function;
     return data;
 }
 
-void destroy_hashtable(PublData *ht) {
-    for (int i = 0; i < ht->hmax; i++) {
-        free(&ht->buckets[i]);
+void destroy_hashtable(PublData *data) {
+    for (int i = 0; i < data->hmax; i++) {
+        free(&data->buckets[i]);
     }
     
-    free(ht);
+    free(data);
 }
 
 void destroy_info(PublData *data) {
@@ -182,10 +169,17 @@ void add_paper(PublData* data, const char* title, const char* venue,
     const int num_fields, const int64_t id, const int64_t* references,
     const int num_refs) {
 
-    int hash = data->hash_function(id);
-        
-    // TODO: LINEAR PROBING
+    unsigned int hash = data->hash_function(id) % data->hmax;
 
+    for (int i = 0; i < data->hmax; i++) {
+        int index = (hash + i) % data->hmax;
+        Info bucket = data->buckets[index];
+        if (bucket == ) {
+            
+            break;
+        }
+    }
+    return 0;
     // Put-ul
     Info *publication = &data->buckets[hash];
 
