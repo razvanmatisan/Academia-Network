@@ -86,6 +86,7 @@ void init_info(Info *publication) {
     for (int i = 0; i < MAX_AUTHORS; i++) {
         Author *author = publication->authors[i];
         
+        printf("%p\n", author);
         author = malloc(sizeof(Author));
         DIE(author, "author");
 
@@ -178,7 +179,6 @@ void add_paper(PublData* data, const char* title, const char* venue,
     const char** institutions, const int num_authors, const char** fields,
     const int num_fields, int64_t id, const int64_t* references,
     const int num_refs) {
-
     unsigned int hash = data->hash_function(&id) % data->hmax;
 
     int index;
@@ -193,19 +193,24 @@ void add_paper(PublData* data, const char* title, const char* venue,
 
     // Put-ul
     Info publication = data->buckets[index];
+    init_info(&publication);
 
     // Basic info
     publication.title = title;
     publication.venue = venue;
     publication.year = year;
     publication.num_authors = num_authors;
-
+    
     // Authors
     for (int i = 0; i < publication.num_authors; i++) {
-        Author *author = publication.authors[i]; 
-        author->name = author_names[i];
-        author->id = author_ids[i];
-        author->org = institutions[i];
+        Author author;
+        author.name = author_names[i];
+        author.id = author_ids[i];
+        author.org = institutions[i];
+
+        printf("SUGI\n");
+        *(publication.authors[i]) = author; // segs
+        printf("author name = %s\n", publication.authors[i]->name);
     }
 
     // Fields
