@@ -16,7 +16,7 @@ struct author {
     char *org;
 };
 
-struct publications_data {
+struct info {
     char *title;
     char *venue;
     int year;
@@ -29,12 +29,12 @@ struct publications_data {
     int num_refs;
 };
 
-typedef struct Hashtable {
-    PublData *buckets;
+struct publications_data {
+    Info *buckets;
     int hmax;
     unsigned int (*hash_function)(void*);
     int (*compare_function)(void *, void *);
-} Hashtable;
+};
 
 unsigned int hash_function_int(void *a) {
     /*
@@ -61,16 +61,16 @@ int compare_function_ints(void *a, void *b) {
     }
 }
 
-void init_ht(struct Hashtable *ht, int hmax, unsigned int (*hash_function)(void*), int (*compare_function)(void*, void*)) {
-    ht->buckets = (PublData*) malloc(hmax * sizeof(PublData));
-
+void init_ht(PublData *ht, int hmax, unsigned int (*hash_function)(void*), int (*compare_function)(void*, void*)) {
+    if (ht == NULL) {
+        DIE(ht == NULL, "Undeclared hashtable");
+    }
+    
+    ht->buckets = (PublData*) malloc(hmax * sizeof(Info));
+    
     if (ht->buckets == NULL) {
         fprintf(stderr, "No buckets found!\n");
         exit(-1);
-    }
-
-    for (int i = 0; i < hmax; i++) {
-        ht->buckets[i] = malloc(sizeof(PublData));
     }
 
     ht->hmax = hmax;
@@ -78,11 +78,10 @@ void init_ht(struct Hashtable *ht, int hmax, unsigned int (*hash_function)(void*
     ht->compare_function = compare_function;
 }
 
-PublData* init_publ_data(void) {
-    PublData *data = malloc(sizeof(PublData));
-    DIE(data == NULL, "calloc - data");
-
+void init_info(PublData *data) {
     /*
+    * Initialising INFO array (buckets)
+    * 
     * Allocate char arrays with MAX_LEN size.
     * If size of input exceeds allocated size, we will reallocate.
     * 
@@ -90,66 +89,57 @@ PublData* init_publ_data(void) {
     */
 
     // Title
-    data->title = malloc(MAX_LEN * sizeof(char));
-    DIE(data->title == NULL, "data->title");
+    data->buckets->title = malloc(MAX_LEN * sizeof(char));
+    DIE(data->buckets->title == NULL, "data->buckets->title");
     // Venue
-    data->venue = malloc(MAX_LEN * sizeof(char));
-    DIE(data->venue == NULL, "data->venue");
+    data->buckets->venue = malloc(MAX_LEN * sizeof(char));
+    DIE(data->buckets->venue == NULL, "data->buckets->venue");
     
 
     // Authors
-    data->authors = malloc(MAX_AUTHORS * sizeof(Author *));
-    DIE(data->authors == NULL, "data->authors");
+    data->buckets->authors = malloc(MAX_AUTHORS * sizeof(Author *));
+    DIE(data->buckets->authors == NULL, "data->buckets->authors");
 
     for (int i = 0; i < MAX_AUTHORS; i++) {
-        data->authors[i] = malloc(sizeof(Author));
-        DIE(data->authors[i], "data->authors[i]");
+        data->buckets->authors[i] = malloc(sizeof(Author));
+        DIE(data->buckets->authors[i], "data->buckets->authors[i]");
 
         // Name
-        data->authors[i]->name = malloc(MAX_LEN * sizeof(char));
-        DIE(data->authors[i]->name, "data->authors[i]->name");
+        data->buckets->authors[i]->name = malloc(MAX_LEN * sizeof(char));
+        DIE(data->buckets->authors[i]->name, "data->buckets->authors[i]->name");
 
         // Institution
-        data->authors[i]->org = malloc(MAX_LEN * sizeof(char));
-        DIE(data->authors[i]->org, "data->authors[i]->org");
+        data->buckets->authors[i]->org = malloc(MAX_LEN * sizeof(char));
+        DIE(data->buckets->authors[i]->org, "data->buckets->authors[i]->org");
     }
 
     // Fields    
-    data->fields = malloc(MAX_FIELDS * sizeof(char *));
-    DIE(data->fields == NULL, "data->fields");
+    data->buckets->fields = malloc(MAX_FIELDS * sizeof(char *));
+    DIE(data->buckets->fields == NULL, "data->buckets->fields");
 
     for (int i = 0; i < MAX_FIELDS; i++) {
-        data->fields[i] = malloc(MAX_LEN * sizeof(char));
-        DIE(data->fields[i] == NULL, "data->fields[i]");
+        data->buckets->fields[i] = malloc(MAX_LEN * sizeof(char));
+        DIE(data->buckets->fields[i] == NULL, "data->buckets->fields[i]");
     }
 
     // References
-    data->references = malloc(MAX_REFERENCES * sizeof(int64_t));
-    DIE(data->references == NULL, "data->references");
+    data->buckets->references = malloc(MAX_REFERENCES * sizeof(int64_t));
+    DIE(data->buckets->references == NULL, "data->buckets->references");
+}
 
+PublData* init_publ_data(void) {
+    PublData *data = malloc(sizeof(PublData));
+    DIE(data == NULL, "malloc - data");
+
+    // Initialising hashtable
+    init_ht(data, HMAX, hash_function_int, compare_function_ints);
+
+    // Initialising INFO array
+    init_info(data);
     return data;
 }
 
-void destroy_publ_data(PublData* data) {
-    free(data->title);
-    free(data->venue);
-    
-    for (int i = 0; i < data->num_authors; i++) {
-        free(data->authors[i]->name);
-        free(data->authors[i]->org);
-        free(data->authors[i]);
-    }
-    free(data->authors);
-    
-    for (int i = 0; i < data->num_fields; i++) {
-        free(data->fields[i]);
-    }
-    free(data->fields);
-
-    free(data->references);
-}
-
-void destroy_hashtable(Hashtable *ht) {
+void destroy_hashtable(PublData *ht) {
     for (int i = 0; i < ht->hmax; i++) {
         free(&ht->buckets[i]);
     }
@@ -157,35 +147,72 @@ void destroy_hashtable(Hashtable *ht) {
     free(ht);
 }
 
+void destroy_info(PublData *data) {
+    // Title
+    free(data->buckets->title);
+    free(data->buckets->venue);
+    
+    // Authors
+    for (int i = 0; i < data->buckets->num_authors; i++) {
+        free(data->buckets->authors[i]->name);
+        free(data->buckets->authors[i]->org);
+        free(data->buckets->authors[i]);
+    }
+    free(data->buckets->authors);
+    
+    // Fields
+    for (int i = 0; i < data->buckets->num_fields; i++) {
+        free(data->buckets->fields[i]);
+    }
+    free(data->buckets->fields);
+
+    // References
+    free(data->buckets->references);
+}
+
+void destroy_publ_data(PublData* data) {
+    destroy_hashtable(data);
+    destroy_info(data);
+}
+
+
 void add_paper(PublData* data, const char* title, const char* venue,
     const int year, const char** author_names, const int64_t* author_ids,
     const char** institutions, const int num_authors, const char** fields,
     const int num_fields, const int64_t id, const int64_t* references,
     const int num_refs) {
 
-    int hash = ht->
+    int hash = data->hash_function(id);
         
+    // TODO: LINEAR PROBING
+
     // Put-ul
-    data->title = title;
-    data->venue = venue;
-    data->year = year;
-    data->num_authors = num_authors;
+    Info *publication = &data->buckets[hash];
 
-    for (int i = 0; i < data->num_authors; i++) {
-        data->authors[i]->name = author_names[i];
-        data->authors[i]->id = author_ids[i];
-        data->authors[i]->org = institutions[i];
+    // Basic info
+    publication->title = title;
+    publication->venue = venue;
+    publication->year = year;
+    publication->num_authors = num_authors;
+
+    // Authors
+    for (int i = 0; i < publication->num_authors; i++) {
+        Author *author = publication->authors[i]; 
+        author->name = author_names[i];
+        author->id = author_ids[i];
+        author->org = institutions[i];
     }
 
-    data->num_fields = num_fields;
-    for (int i = 0; i < data->num_fields; i++) {
-        data->fields[i] = fields[i];
+    // Fields
+    publication->num_fields = num_fields;
+    for (int i = 0; i < publication->num_fields; i++) {
+        publication->fields[i] = fields[i];
     }
 
-    data->id = id;
-    data->num_refs = num_refs;
+    publication->id = id;
+    publication->num_refs = num_refs;
 
-    data->references = references;
+    publication->references = references;
 }
 
 char* get_oldest_influence(PublData* data, const int64_t id_paper) {

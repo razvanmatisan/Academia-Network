@@ -19,10 +19,9 @@
     } while (0)
 
 /**
- * Will contain all the data that is necessary in order to implement the API
- * given below.
- * Define its fields in publications.c or any other file so that its fields
- * are transparent from outside the API.
+ * Hashtable where:
+ * key = publication ID
+ * value = info (authors, references etc.)
  */
 struct publications_data;
 typedef struct publications_data PublData;
@@ -33,6 +32,14 @@ typedef struct publications_data PublData;
 struct author;
 typedef struct author Author;
 
+/**
+ * Will contain all the data that is necessary in order to implement the API
+ * given below.
+ * Define its fields in publications.c or any other file so that its fields
+ * are transparent from outside the API.
+ */
+struct info;
+typedef struct info Info;
 
 
 /**
