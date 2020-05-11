@@ -61,9 +61,9 @@ int compare_function_ints(void *a, void *b) {
     }
 }
 
-void init_info(Info *publication) {
+void init_info(PublData *data) {
     /*
-    * Initialising INFO element when added
+    * Initialising INFO array (buckets)
     * 
     * Allocate char arrays with MAX_LEN size.
     * If size of input exceeds allocated size, we will reallocate.
@@ -72,66 +72,62 @@ void init_info(Info *publication) {
     */
 
     // Title
-    publication->title = malloc(MAX_LEN * sizeof(char));
-    DIE(publication->title == NULL, "publication->title");
-
+    data->buckets->title = malloc(MAX_LEN * sizeof(char));
+    DIE(data->buckets->title == NULL, "data->buckets->title");
     // Venue
-    publication->venue = malloc(MAX_LEN * sizeof(char));
-    DIE(publication->venue == NULL, "publication->venue");    
+    data->buckets->venue = malloc(MAX_LEN * sizeof(char));
+    DIE(data->buckets->venue == NULL, "data->buckets->venue");
+    
 
     // Authors
-    publication->authors = malloc(MAX_AUTHORS * sizeof(Author *));
-    DIE(publication->authors == NULL, "publication->authors");
+    data->buckets->authors = malloc(MAX_AUTHORS * sizeof(Author *));
+    DIE(data->buckets->authors == NULL, "data->buckets->authors");
 
     for (int i = 0; i < MAX_AUTHORS; i++) {
-        Author *author = publication->authors[i];
-        
-        author = malloc(sizeof(Author));
-        DIE(author, "author");
+        data->buckets->authors[i] = malloc(sizeof(Author));
+        DIE(data->buckets->authors[i], "data->buckets->authors[i]");
 
         // Name
-        author->name = malloc(MAX_LEN * sizeof(char));
-        DIE(author->name, "author->name");
+        data->buckets->authors[i]->name = malloc(MAX_LEN * sizeof(char));
+        DIE(data->buckets->authors[i]->name, "data->buckets->authors[i]->name");
 
         // Institution
-        author->org = malloc(MAX_LEN * sizeof(char));
-        DIE(author->org, "author->org");
+        data->buckets->authors[i]->org = malloc(MAX_LEN * sizeof(char));
+        DIE(data->buckets->authors[i]->org, "data->buckets->authors[i]->org");
     }
 
     // Fields    
-    publication->fields = malloc(MAX_FIELDS * sizeof(char *));
-    DIE(publication->fields == NULL, "publication->fields");
+    data->buckets->fields = malloc(MAX_FIELDS * sizeof(char *));
+    DIE(data->buckets->fields == NULL, "data->buckets->fields");
 
     for (int i = 0; i < MAX_FIELDS; i++) {
-        publication->fields[i] = malloc(MAX_LEN * sizeof(char));
-        DIE(publication->fields[i] == NULL, "publication->fields[i]");
+        data->buckets->fields[i] = malloc(MAX_LEN * sizeof(char));
+        DIE(data->buckets->fields[i] == NULL, "data->buckets->fields[i]");
     }
 
     // References
-    publication->references = malloc(MAX_REFERENCES * sizeof(int64_t));
-    DIE(publication->references == NULL, "publication->references");
+    data->buckets->references = malloc(MAX_REFERENCES * sizeof(int64_t));
+    DIE(data->buckets->references == NULL, "data->buckets->references");
 }
 
 PublData* init_publ_data(void) {
     PublData *data = malloc(sizeof(PublData));
     DIE(data == NULL, "malloc - data");
 
-    // Initialising hashtable
-    data->buckets = malloc(hmax * sizeof(Info));
-    DIE(data->buckets == NULL, "data->buckets malloc");
+    // // Initialising hashtable
+    // init_ht(data, HMAX, hash_function_int, compare_function_ints);
 
-    data->hmax = hmax;
-    data->hash_function = hash_function_int;
-    data->compare_function = compare_function;
+    // Initialising INFO array
+    init_info(data);
     return data;
 }
 
-void destroy_hashtable(PublData *data) {
-    for (int i = 0; i < data->hmax; i++) {
-        free(&data->buckets[i]);
+void destroy_hashtable(PublData *ht) {
+    for (int i = 0; i < ht->hmax; i++) {
+        free(&ht->buckets[i]);
     }
     
-    free(data);
+    free(ht);
 }
 
 void destroy_info(PublData *data) {
@@ -161,7 +157,6 @@ void destroy_publ_data(PublData* data) {
     destroy_hashtable(data);
     destroy_info(data);
 }
-
 void add_paper(PublData* data, const char* title, const char* venue,
     const int year, const char** author_names, const int64_t* author_ids,
     const char** institutions, const int num_authors, const char** fields,
@@ -175,14 +170,14 @@ void add_paper(PublData* data, const char* title, const char* venue,
     for (int i = 0; i < data->hmax; i++) {
         index = (hash + i) % data->hmax;
         Info bucket = data->buckets[index];
-        if (bucket.id == NULL) {
+        if (bucket.title == NULL) {
             break;
         }
     }
 
     // Put-ul
     Info publication = data->buckets[index];
-
+    
     // Basic info
     publication.title = title;
     publication.venue = venue;
