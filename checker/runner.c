@@ -455,9 +455,6 @@ int parse_commands(FILE* input_file, FILE* ref_file)
 	}
 
 	destroy_publ_data(data);
-	/**
-	 * TODO: destroy hash
-	 */
 
 	return ret;
 }
