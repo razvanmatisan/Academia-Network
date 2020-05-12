@@ -69,16 +69,18 @@ void init_info(Info *publication) {
     * Allocate char arrays with MAX_LEN size.
     * If size of input exceeds allocated size, we will reallocate.
     * 
-    * All values left uninitialised.
+    * All values MEMSETED
     */
 
     // Title
-    publication->title = malloc(MAX_LEN * sizeof(char)); // seg!
+    publication->title = malloc(MAX_LEN * sizeof(char));
     DIE(publication->title == NULL, "publication->title");
+    memset(publication->title, '\0', MAX_LEN * sizeof(char));
 
     // Venue
     publication->venue = malloc(MAX_LEN * sizeof(char));
     DIE(publication->venue == NULL, "publication->venue");    
+    memset(publication->venue, '\0', MAX_LEN * sizeof(char));
 
     // Authors
     publication->authors = malloc(MAX_AUTHORS * sizeof(Author *));
@@ -87,16 +89,19 @@ void init_info(Info *publication) {
     for (int i = 0; i < MAX_AUTHORS; i++) {
         publication->authors[i] = malloc(sizeof(Author));
         DIE(publication->authors[i] == NULL, "publications->authors[i]");
+        memset(publication->authors[i], '\0', sizeof(Author));
 
         Author *author = publication->authors[i];
 
         // Name
         author->name = malloc(MAX_LEN * sizeof(char));
         DIE(author->name == NULL, "author->name");
+        memset(author->name, '\0', MAX_LEN * sizeof(char));
 
         // Institution
         author->org = malloc(MAX_LEN * sizeof(char));
         DIE(author->org == NULL, "author->org");
+        memset(author->org, '\0', MAX_LEN * sizeof(char));
     }
 
     // Fields    
@@ -106,16 +111,19 @@ void init_info(Info *publication) {
     for (int i = 0; i < MAX_FIELDS; i++) {
         publication->fields[i] = malloc(MAX_LEN * sizeof(char));
         DIE(publication->fields[i] == NULL, "publication->fields[i]");
+        memset(publication->fields[i], '\0', MAX_LEN * sizeof(char));
     }
 
     // References
     publication->references = malloc(MAX_REFERENCES * sizeof(int64_t));
     DIE(publication->references == NULL, "publication->references");
+    memset(publication->references, '\0', MAX_REFERENCES * sizeof(int64_t));
 }
 
 PublData* init_publ_data(void) {
     PublData *data = malloc(sizeof(PublData));
     DIE(data == NULL, "malloc - data");
+    memset(data, '\0', sizeof(PublData));
 
     // Initialising hashtable
     data->buckets = malloc(HMAX * sizeof(Info *));
@@ -123,6 +131,7 @@ PublData* init_publ_data(void) {
 
     for (int i = 0; i < HMAX; i++) {
         data->buckets[i] = malloc(sizeof(Info));
+        memset(data->buckets[i], '\0', sizeof(Info));
         data->buckets[i]->ok = 0;
     }
 
