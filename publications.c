@@ -174,7 +174,7 @@ void destroy_info(Info *publication) {
 
     // Fields
     for (int i = 0; i < publication->num_fields; i++) {
-        free(publication->fields[i]);
+        free(publication->fields[i]); // HERE
     }
     free(publication->fields);
 
@@ -220,7 +220,6 @@ void add_paper(PublData* data, const char* title, const char* venue,
     memcpy(publication->venue, venue, (strlen(venue) + 1) * sizeof(char));
     publication->year = year;
 
-    printf("SEGGGGGGGG\n");
     publication->num_authors = num_authors;
 
     // Authors
@@ -235,7 +234,6 @@ void add_paper(PublData* data, const char* title, const char* venue,
     publication->num_fields = num_fields;
     for (int i = 0; i < publication->num_fields; i++) {
         memcpy(publication->fields[i], fields[i], (strlen(fields[i]) + 1) * sizeof(char));
-        publication->fields[i] = fields[i];
     }
 
     publication->id = id;
