@@ -151,7 +151,6 @@ void destroy_hashtable(PublData *ht) {
   }
 
   for (int i = 0; i < ht->hmax; i++) {
-      if(ht->buckets[i]->ok) destroy_info(ht->buckets[i]);
       free(ht->buckets[i]);
   }
 
@@ -162,31 +161,31 @@ void destroy_hashtable(PublData *ht) {
 void destroy_info(Info *publication) {
     // Title
     free(publication->title);
-    // free(publication->venue);
+    free(publication->venue);
     
     // Authors
     for (int i = 0; i < publication->num_authors; i++) {
         Author *author = publication->authors[i]; 
-        // free(author->name);
-        // free(author->org);
-        // free(author);
+        free(author->name);
+        free(author->org);
+        free(author);
     }
-    // free(publication->authors);
+    free(publication->authors);
 
     // Fields
     for (int i = 0; i < publication->num_fields; i++) {
-        // free(publication->fields[i]);
+        free(publication->fields[i]);
     }
-    // free(publication->fields);
+    free(publication->fields);
 
     // References
-    // free(publication->references);
+    free(publication->references);
 }
 
 void destroy_publ_data(PublData* data) {
     for (int i = 0; i < data->hmax; i++) {
         if (data->buckets[i]->ok) {
-            // destroy_info(data->buckets[i]);
+            destroy_info(data->buckets[i]);
         }
     }
 
@@ -217,30 +216,34 @@ void add_paper(PublData* data, const char* title, const char* venue,
     init_info(publication);
 
     // Basic info
-    publication->title = title;
-    publication->venue = venue;
+    memcpy(publication->title, title, (strlen(title) + 1) * sizeof(char));
+    memcpy(publication->venue, venue, (strlen(venue) + 1) * sizeof(char));
     publication->year = year;
-    publication->num_authors = num_authors;
 
+    printf("SEGGGGGGGG\n");
+    publication->num_authors = num_authors;
 
     // Authors
     for (int i = 0; i < publication->num_authors; i++) {
         Author *author = publication->authors[i];
-        author->name = author_names[i];
+        memcpy(author->name, author_names[i], (strlen(author_names[i]) + 1) * sizeof(char));
         author->id = author_ids[i];
-        author->org = institutions[i];
+        memcpy(author->org, institutions[i], (strlen(institutions[i]) + 1) * sizeof(char));
     }
 
     // Fields
     publication->num_fields = num_fields;
     for (int i = 0; i < publication->num_fields; i++) {
+        memcpy(publication->fields[i], fields[i], (strlen(fields[i]) + 1) * sizeof(char));
         publication->fields[i] = fields[i];
     }
 
     publication->id = id;
     publication->num_refs = num_refs;
 
-    publication->references = references;
+    for (int i = 0; i < num_refs; i++) {
+        publication->references[i] = references[i];
+    }  
 }
 
 char* get_oldest_influence(PublData* data, const int64_t id_paper) {
