@@ -3,12 +3,7 @@
 #include <stdint.h>
 #include "publications.h"
 
-// Made by Radu
-#define MAX_REFERENCES 200
-#define MAX_LEN 200
-#define MAX_AUTHORS 100
-#define MAX_FIELDS 50
-#define HMAX 112000
+#define HMAX 112500
 
 struct author {
     char *name;
@@ -27,7 +22,6 @@ struct info {
     int64_t id;
     int64_t *references;
     int num_refs;
-    int ok;
 };
 
 struct publications_data {
@@ -62,81 +56,63 @@ int compare_function_ints(void *a, void *b) {
     }
 }
 
-void init_info(Info *publication) {
-    /*
-    * Initialising INFO element when added
-    * 
-    * Allocate char arrays with MAX_LEN size.
-    * If size of input exceeds allocated size, we will reallocate.
-    * 
-    * All values MEMSETED
-    */
-
+void init_info(Info *publication, const char* title, const char* venue,
+    const int year, const char** author_names, const int64_t* author_ids,
+    const char** institutions, const int num_authors, const char** fields,
+    const int num_fields, int64_t id, const int64_t* references,
+    const int num_refs) {
     // Title
-    publication->title = malloc(MAX_LEN * sizeof(char));
+    publication->title = calloc(strlen(title) + 1, sizeof(char));
     DIE(publication->title == NULL, "publication->title");
-    memset(publication->title, '0', MAX_LEN * sizeof(char));
 
     // Venue
-    publication->venue = malloc(MAX_LEN * sizeof(char));
+    publication->venue = calloc(strlen(venue) + 1, sizeof(char));
     DIE(publication->venue == NULL, "publication->venue");    
-    memset(publication->venue, '0', MAX_LEN * sizeof(char));
 
     // Authors
-    publication->authors = malloc(MAX_AUTHORS * sizeof(Author *));
+    publication->authors = calloc(num_authors, sizeof(Author *));
     DIE(publication->authors == NULL, "publication->authors");
-    memset(publication->authors, '0', MAX_AUTHORS * sizeof(Author *));
 
 
-    for (int i = 0; i < MAX_AUTHORS; i++) {
-        publication->authors[i] = malloc(sizeof(Author));
+    for (int i = 0; i < num_authors; i++) {
+        publication->authors[i] = calloc(1, sizeof(Author));
         DIE(publication->authors[i] == NULL, "publications->authors[i]");
-        memset(publication->authors[i], '0', sizeof(Author));
 
         Author *author = publication->authors[i];
 
         // Name
-        author->name = malloc(MAX_LEN * sizeof(char));
+        author->name = calloc(strlen(author_names[i]) + 1 , sizeof(char));
         DIE(author->name == NULL, "author->name");
-        memset(author->name, '0', MAX_LEN * sizeof(char));
 
         // Institution
-        author->org = malloc(MAX_LEN * sizeof(char));
+        author->org = calloc(strlen(institutions[i]) + 1, sizeof(char));
         DIE(author->org == NULL, "author->org");
-        memset(author->org, '0', MAX_LEN * sizeof(char));
     }
 
     // Fields    
-    publication->fields = malloc(MAX_FIELDS * sizeof(char *));
+    publication->fields = calloc(num_fields, sizeof(char *));
     DIE(publication->fields == NULL, "publication->fields");
-    memset(publication->fields, '0', MAX_FIELDS * sizeof(char *));
 
-    for (int i = 0; i < MAX_FIELDS; i++) {
-        publication->fields[i] = malloc(MAX_LEN * sizeof(char));
+    for (int i = 0; i < num_fields; i++) {
+        publication->fields[i] = calloc(strlen(fields[i]) + 1, sizeof(char));
         DIE(publication->fields[i] == NULL, "publication->fields[i]");
-        memset(publication->fields[i], '0', MAX_LEN * sizeof(char));
     }
 
     // References
-    publication->references = malloc(MAX_REFERENCES * sizeof(int64_t));
+    publication->references = calloc(num_refs, sizeof(int64_t));
     DIE(publication->references == NULL, "publication->references");
-    memset(publication->references, '0', MAX_REFERENCES * sizeof(int64_t));
 }
 
 PublData* init_publ_data(void) {
-    PublData *data = malloc(sizeof(PublData));
+    PublData *data = calloc(1, sizeof(PublData));
     DIE(data == NULL, "malloc - data");
-    memset(data, '0', sizeof(PublData));
 
     // Initialising hashtable
-    data->buckets = malloc(HMAX * sizeof(Info *));
+    data->buckets = calloc(HMAX, sizeof(Info *));
     DIE(data->buckets == NULL, "data->buckets malloc");
-    memset(data->buckets, '0', HMAX * sizeof(Info *));
 
     for (int i = 0; i < HMAX; i++) {
-        data->buckets[i] = malloc(sizeof(Info));
-        memset(data->buckets[i], '0', sizeof(Info));
-        data->buckets[i]->ok = 0;
+        data->buckets[i] = NULL;
     }
 
     data->hmax = HMAX;
@@ -164,7 +140,7 @@ void destroy_info(Info *publication) {
     free(publication->venue);
     
     // Authors
-    for (int i = 0; i < MAX_AUTHORS; i++) {
+    for (int i = 0; i < publication->num_authors; i++) {
         Author *author = publication->authors[i]; 
         free(author->name);
         free(author->org);
@@ -173,7 +149,7 @@ void destroy_info(Info *publication) {
     free(publication->authors);
 
     // Fields
-    for (int i = 0; i < MAX_FIELDS; i++) {
+    for (int i = 0; i < publication->num_fields; i++) {
         free(publication->fields[i]);
     }
     free(publication->fields);
@@ -184,7 +160,7 @@ void destroy_info(Info *publication) {
 
 void destroy_publ_data(PublData* data) {
     for (int i = 0; i < data->hmax; i++) {
-        if (data->buckets[i]->ok) {
+        if (data->buckets[i]) {
             destroy_info(data->buckets[i]);
         }
     }
@@ -199,21 +175,21 @@ void add_paper(PublData* data, const char* title, const char* venue,
     const int num_refs) {
 
     unsigned int hash = data->hash_function(&id) % data->hmax;
-
+    printf("hash = %ld\n", hash);
     int index;
 
     for (int i = 0; i < data->hmax; i++) {
         index = (hash + i) % data->hmax;
         Info *bucket = data->buckets[index];
-        if (!bucket->ok) {
-            bucket->ok = 1;
+        if (!bucket) {
             break;
         }
     }
 
     // Put-ul
+    data->buckets[index] = calloc(1, sizeof(Info));
     Info *publication = data->buckets[index];
-    init_info(publication);
+    init_info(publication, title, venue, year, author_names, author_ids, institutions, num_authors, fields, num_fields, id, references, num_refs);
 
     // Basic info
     memcpy(publication->title, title, (strlen(title) + 1) * sizeof(char));
@@ -241,7 +217,7 @@ void add_paper(PublData* data, const char* title, const char* venue,
 
     for (int i = 0; i < num_refs; i++) {
         publication->references[i] = references[i];
-    }  
+    }
 }
 
 char* get_oldest_influence(PublData* data, const int64_t id_paper) {
@@ -312,4 +288,14 @@ char* find_best_coordinator(PublData* data, const int64_t id_author) {
     /* TODO: implement find_best_coordinator */
 
     return NULL;
+}
+
+void print_entry(PublData *data, int hash) {
+    printf("Title = %s\n", data->buckets[hash]->title);
+    printf("Year = %d\n", data->buckets[hash]->year);
+    printf("First author name = %s\n", data->buckets[hash]->authors[0]->name);
+    printf("Second author name = %s\n", data->buckets[hash]->authors[1]->name);
+    printf("Second author ID = %lld\n", data->buckets[hash]->authors[1]->id);
+    printf("Third reference = %lld\n", data->buckets[hash]->references[2]);
+    printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n"); 
 }

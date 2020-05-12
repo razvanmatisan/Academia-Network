@@ -35,13 +35,21 @@ typedef struct info Info;
 
 /**
  * Hashtable where:
- * key = publication ID
- * value = info (authors, references etc.)
+ * KEY = publication ID
+ * VALUE = info (authors, references etc.)
  */
 struct publications_data;
 typedef struct publications_data PublData;
 
-
+/**
+* Initialising INFO element when added
+* All values MEMSETED
+*/
+void init_info(Info *publication, const char* title, const char* venue,
+    const int year, const char** author_names, const int64_t* author_ids,
+    const char** institutions, const int num_authors, const char** fields,
+    const int num_fields, int64_t id, const int64_t* references,
+    const int num_refs);
 
 /**
  * Initialises all the fields contained in the PublData structure.
@@ -212,5 +220,7 @@ char** get_reading_order(PublData* data, const int64_t id_paper,
  * @return              the name of the coordinator
  */
 char* find_best_coordinator(PublData* data, const int64_t id_author);
+
+void print_entry(PublData *data, int hash);
 
 #endif  /* PUBLICATIONS_H_ */
