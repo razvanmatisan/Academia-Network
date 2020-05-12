@@ -85,6 +85,8 @@ void init_info(Info *publication) {
     // Authors
     publication->authors = malloc(MAX_AUTHORS * sizeof(Author *));
     DIE(publication->authors == NULL, "publication->authors");
+    memset(publication->authors, '\0', MAX_AUTHORS * sizeof(Author *));
+
 
     for (int i = 0; i < MAX_AUTHORS; i++) {
         publication->authors[i] = malloc(sizeof(Author));
@@ -107,6 +109,7 @@ void init_info(Info *publication) {
     // Fields    
     publication->fields = malloc(MAX_FIELDS * sizeof(char *));
     DIE(publication->fields == NULL, "publication->fields");
+    memset(publication->fields, '\0', MAX_FIELDS * sizeof(char *));
 
     for (int i = 0; i < MAX_FIELDS; i++) {
         publication->fields[i] = malloc(MAX_LEN * sizeof(char));
@@ -128,6 +131,7 @@ PublData* init_publ_data(void) {
     // Initialising hashtable
     data->buckets = malloc(HMAX * sizeof(Info *));
     DIE(data->buckets == NULL, "data->buckets malloc");
+    memset(data->buckets, '\0', HMAX * sizeof(Info *));
 
     for (int i = 0; i < HMAX; i++) {
         data->buckets[i] = malloc(sizeof(Info));
