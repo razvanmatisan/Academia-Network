@@ -204,30 +204,33 @@ void add_paper(PublData* data, const char* title, const char* venue,
     init_info(publication);
 
     // Basic info
-    publication->title = title;
-    publication->venue = venue;
-    publication->year = year;
-    publication->num_authors = num_authors;
+    memcpy(publication->title, title, (strlen(title) + 1) * sizeof(char));
+    memcpy(publication->venue, venue, (strlen(venue) + 1) * sizeof(char));
+    memcpy(publication->year, year, sizeof(const int));
 
+    memcpy(publication->num_authors, num_authors, sizeof(const int));
 
     // Authors
     for (int i = 0; i < publication->num_authors; i++) {
         Author *author = publication->authors[i];
-        author->name = author_names[i];
-        author->id = author_ids[i];
-        author->org = institutions[i];
+        memcpy(author->name, author_names[i], (strlen(author_names[i]) + 1) * sizeof(char));
+        memcpy(author->id, author_ids[i], sizeof(const int64_t));
+        memcpy(author->org, institutions[i], (strlen(institutions[i]) + 1) * sizeof(char));
     }
 
     // Fields
     publication->num_fields = num_fields;
     for (int i = 0; i < publication->num_fields; i++) {
+        memcpy(publication->fields[i], fields[i], (strlen(fields[i]) + 1) * sizeof(char));
         publication->fields[i] = fields[i];
     }
 
-    publication->id = id;
-    publication->num_refs = num_refs;
+    memcpy(publication->id, id, sizeof(const int64_t));
+    memcpy(publication->num_refs, num_refs, sizeof(const int));
 
-    publication->references = references;
+    for (int i = 0; i < num_refs; i++) {
+        memcpy(publication->references[i], references[i], sizeof(const int64_t));
+    }  
 }
 
 char* get_oldest_influence(PublData* data, const int64_t id_paper) {
