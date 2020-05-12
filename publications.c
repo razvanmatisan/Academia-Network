@@ -147,7 +147,6 @@ void destroy_hashtable(PublData *ht) {
   }
 
   for (int i = 0; i < ht->hmax; i++) {
-      if(ht->buckets[i]->ok) destroy_info(ht->buckets[i]);
       free(ht->buckets[i]);
   }
 
@@ -158,31 +157,31 @@ void destroy_hashtable(PublData *ht) {
 void destroy_info(Info *publication) {
     // Title
     free(publication->title);
-    // free(publication->venue);
+    free(publication->venue);
     
     // Authors
     for (int i = 0; i < publication->num_authors; i++) {
         Author *author = publication->authors[i]; 
-        // free(author->name);
-        // free(author->org);
-        // free(author);
+        free(author->name);
+        free(author->org);
+        free(author);
     }
-    // free(publication->authors);
+    free(publication->authors);
 
     // Fields
     for (int i = 0; i < publication->num_fields; i++) {
-        // free(publication->fields[i]);
+        free(publication->fields[i]);
     }
-    // free(publication->fields);
+    free(publication->fields);
 
     // References
-    // free(publication->references);
+    free(publication->references);
 }
 
 void destroy_publ_data(PublData* data) {
     for (int i = 0; i < data->hmax; i++) {
         if (data->buckets[i]->ok) {
-            // destroy_info(data->buckets[i]);
+            destroy_info(data->buckets[i]);
         }
     }
 
@@ -215,15 +214,16 @@ void add_paper(PublData* data, const char* title, const char* venue,
     // Basic info
     memcpy(publication->title, title, (strlen(title) + 1) * sizeof(char));
     memcpy(publication->venue, venue, (strlen(venue) + 1) * sizeof(char));
-    memcpy(publication->year, year, sizeof(const int));
+    publication->year = year;
 
-    memcpy(publication->num_authors, num_authors, sizeof(const int));
+    printf("SEGGGGGGGG\n");
+    publication->num_authors = num_authors;
 
     // Authors
     for (int i = 0; i < publication->num_authors; i++) {
         Author *author = publication->authors[i];
         memcpy(author->name, author_names[i], (strlen(author_names[i]) + 1) * sizeof(char));
-        memcpy(author->id, author_ids[i], sizeof(const int64_t));
+        author->id = author_ids[i];
         memcpy(author->org, institutions[i], (strlen(institutions[i]) + 1) * sizeof(char));
     }
 
@@ -234,11 +234,11 @@ void add_paper(PublData* data, const char* title, const char* venue,
         publication->fields[i] = fields[i];
     }
 
-    memcpy(publication->id, id, sizeof(const int64_t));
-    memcpy(publication->num_refs, num_refs, sizeof(const int));
+    publication->id = id;
+    publication->num_refs = num_refs;
 
     for (int i = 0; i < num_refs; i++) {
-        memcpy(publication->references[i], references[i], sizeof(const int64_t));
+        publication->references[i] = references[i];
     }  
 }
 
