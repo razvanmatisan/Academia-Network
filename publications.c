@@ -5,7 +5,7 @@
 #include "publications.h"
 #include "data_structures.h"
 
-#define HMAX 30000
+#define HMAX 112000
 
 struct author {
     char *name;
