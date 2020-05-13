@@ -1,9 +1,11 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdint.h>
-#include "publications.h"
 
-#define HMAX 112500
+#include "publications.h"
+#include "data_structures.h"
+
+#define HMAX 30000
 
 struct author {
     char *name;
@@ -25,7 +27,7 @@ struct info {
 };
 
 struct publications_data {
-    Info **buckets;
+    struct LinkedList **buckets;
     int hmax;
     unsigned int (*hash_function)(void*);
     int (*compare_function)(void *, void *);
@@ -73,7 +75,6 @@ void init_info(Info *publication, const char* title, const char* venue,
     publication->authors = calloc(num_authors, sizeof(Author *));
     DIE(publication->authors == NULL, "publication->authors");
 
-
     for (int i = 0; i < num_authors; i++) {
         publication->authors[i] = calloc(1, sizeof(Author));
         DIE(publication->authors[i] == NULL, "publications->authors[i]");
@@ -108,30 +109,20 @@ PublData* init_publ_data(void) {
     DIE(data == NULL, "malloc - data");
 
     // Initialising hashtable
-    data->buckets = calloc(HMAX, sizeof(Info *));
+    data->buckets = calloc(HMAX, sizeof(struct LinkedList *));
     DIE(data->buckets == NULL, "data->buckets malloc");
 
     for (int i = 0; i < HMAX; i++) {
-        data->buckets[i] = NULL;
+        data->buckets[i] = calloc(1, sizeof(struct LinkedList));
+        DIE(data->buckets[i] == NULL, "data->buckets[i] malloc");
+
+        init_list(data->buckets[i]);
     }
 
     data->hmax = HMAX;
     data->hash_function = hash_function_int;
     data->compare_function = compare_function_ints;
     return data;
-}
-
-void destroy_hashtable(PublData *ht) {
-  if (ht == NULL) {
-    return;
-  }
-
-  for (int i = 0; i < ht->hmax; i++) {
-      free(ht->buckets[i]);
-  }
-
-  free(ht->buckets);
-  free(ht);
 }
 
 void destroy_info(Info *publication) {
@@ -156,16 +147,20 @@ void destroy_info(Info *publication) {
 
     // References
     free(publication->references);
+    free(publication);
 }
 
 void destroy_publ_data(PublData* data) {
-    for (int i = 0; i < data->hmax; i++) {
-        if (data->buckets[i]) {
-            destroy_info(data->buckets[i]);
-        }
+    if (data == NULL) {
+       return;
     }
 
-    destroy_hashtable(data);
+    for (int i = 0; i < data->hmax; i++) {
+        free_list(&data->buckets[i]);
+    }
+
+    free(data->buckets);
+    free(data);
 }
 
 void add_paper(PublData* data, const char* title, const char* venue,
@@ -174,22 +169,13 @@ void add_paper(PublData* data, const char* title, const char* venue,
     const int num_fields, int64_t id, const int64_t* references,
     const int num_refs) {
 
-    unsigned int hash = data->hash_function(&id) % data->hmax;
-    printf("hash = %ld\n", hash);
-    int index;
+    unsigned int hash = data->hash_function(&id) % data->hmax;    
 
-    for (int i = 0; i < data->hmax; i++) {
-        index = (hash + i) % data->hmax;
-        Info *bucket = data->buckets[index];
-        if (!bucket) {
-            break;
-        }
-    }
-
-    // Put-ul
-    data->buckets[index] = calloc(1, sizeof(Info));
-    Info *publication = data->buckets[index];
+    // Initializing data
+    Info *publication = calloc(1, sizeof(Info));
     init_info(publication, title, venue, year, author_names, author_ids, institutions, num_authors, fields, num_fields, id, references, num_refs);
+
+    // COPYING DATA
 
     // Basic info
     memcpy(publication->title, title, (strlen(title) + 1) * sizeof(char));
@@ -201,6 +187,7 @@ void add_paper(PublData* data, const char* title, const char* venue,
     // Authors
     for (int i = 0; i < publication->num_authors; i++) {
         Author *author = publication->authors[i];
+
         memcpy(author->name, author_names[i], (strlen(author_names[i]) + 1) * sizeof(char));
         author->id = author_ids[i];
         memcpy(author->org, institutions[i], (strlen(institutions[i]) + 1) * sizeof(char));
@@ -218,12 +205,75 @@ void add_paper(PublData* data, const char* title, const char* venue,
     for (int i = 0; i < num_refs; i++) {
         publication->references[i] = references[i];
     }
+    
+    add_nth_node(data->buckets[hash], data->buckets[hash]->size, publication);
+}
+
+
+// void bfs_list_graph(ListGraph *lg, int node, int *visited, int *parents) {
+//     parents[node] = -2;
+//     visited[node] = 1;
+//     Queue *q = malloc(sizeof(Queue));
+//     init_q(q);
+//     enqueue(q, &node);
+//     printf("%d ", node);
+
+//     while (!is_empty_q(q)) {
+//         int v = *(int *)front(q);
+//         dequeue(q);
+
+//         struct Node *curr = lg->neighbours[v]->head;
+//         while (curr != NULL) {
+//             int node_hash = *(int *)curr->data;
+//             if (!visited[node_hash]) {
+//                 visited[node_hash] = 1;
+//                 parents[node_hash] = v;
+//                 enqueue(q, &node_hash);
+//                 printf("%d ", node_hash);
+//             } else {
+//                 curr = curr->next;
+//             }
+//         }
+//     }
+//     purge_q(q);
+//     free(q);
+
+//     for (int i = 0; i < lg->nodes; i++) {
+//         if (!visited[i]) {
+//             printf("\n");
+//             bfs_list_graph(lg, i, visited, parents);
+//         }
+//     }
+//     printf("\n");
+// }
+
+int max_refs (PublData *data, const int64_t id_paper) {
+    struct Queue *q = malloc(sizeof(struct Queue));
+    init_q(q);
+    enqueue(q, id_paper);
+
+    // for (int i = 0; i < data->hmax; i++) {
+    //     struct Node *curr = data->buckets[i]->head;
+    //     while (curr) {
+            
+    //     }
+    // }
+
+    purge_q(q);
+    free(q);
 }
 
 char* get_oldest_influence(PublData* data, const int64_t id_paper) {
     /* TODO: implement get_oldest_influence */
 
-    return NULL;
+    struct Queue *q = malloc(sizeof(struct Queue));
+    init_q(q);
+    // enqueue()
+
+    purge_q(q);
+    free(q);
+
+    return "None";
 }
 
 float get_venue_impact_factor(PublData* data, const char* venue) {
@@ -254,9 +304,22 @@ char** get_most_cited_papers_by_field(PublData* data, const char* field,
 
 int get_number_of_papers_between_dates(PublData* data, const int early_date,
     const int late_date) {
-    /* TODO: implement get_number_of_papers_between_dates */
+    int cnt = 0;
+    
+    for (int i = 0; i < data->hmax; i++) {
+        struct Node *curr = data->buckets[i]->head;
+        while (curr) {
+            Info *publication = curr->data;
+            
+            if (publication->year >= early_date && publication->year <= late_date) {
+                cnt++;
+            }
 
-    return 0;
+            curr = curr->next;
+        }
+    }
+
+    return cnt;
 }
 
 int get_number_of_authors_with_field(PublData* data, const char* institution,
@@ -291,11 +354,17 @@ char* find_best_coordinator(PublData* data, const int64_t id_author) {
 }
 
 void print_entry(PublData *data, int hash) {
-    printf("Title = %s\n", data->buckets[hash]->title);
-    printf("Year = %d\n", data->buckets[hash]->year);
-    printf("First author name = %s\n", data->buckets[hash]->authors[0]->name);
-    printf("Second author name = %s\n", data->buckets[hash]->authors[1]->name);
-    printf("Second author ID = %lld\n", data->buckets[hash]->authors[1]->id);
-    printf("Third reference = %lld\n", data->buckets[hash]->references[2]);
-    printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n"); 
+    struct Node *curr = data->buckets[hash]->head;
+    
+    while(curr) {
+        Info *publication = curr->data;
+        printf("Title = %s\n", publication->title);
+        printf("Year = %d\n", publication->year);
+        printf("First author name = %s\n", publication->authors[0]->name);
+        printf("Second author name = %s\n", publication->authors[1]->name);
+        printf("Second author ID = %lld\n", publication->authors[1]->id);
+        printf("Third reference = %lld\n", publication->references[2]);
+        printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n"); 
+        curr = curr->next;
+    }   
 }

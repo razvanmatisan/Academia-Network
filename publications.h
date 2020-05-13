@@ -67,6 +67,8 @@ PublData* init_publ_data(void);
  */
 void destroy_publ_data(PublData* data);
 
+void destroy_info(Info *publication);
+
 /**
  * Adds a new paper to the collection of known publications.
  *
