@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 #include "publications.h"
 #include "data_structures.h"
 
-/* LinkedList */
 void init_list(struct LinkedList *list) {
     list->head = NULL;
     list->tail = NULL;
@@ -101,8 +101,6 @@ void free_list(struct LinkedList **pp_list) {
 	free(*pp_list);
 }
 
-
-/* Queue */
 void init_q(struct Queue *q) {
     q->list = malloc(sizeof(struct LinkedList));
     if (q->list == NULL) {
@@ -153,7 +151,6 @@ void purge_q(struct Queue *q) {
     free(q->list);
 }
 
-/* Hashtable */
 unsigned int hash_function_int(void *a) {
     /*
      * Credits: https://stackoverflow.com/a/12996028/7883884
@@ -177,4 +174,73 @@ int compare_function_ints(void *a, void *b) {
     } else {
         return 1;
     }
+}
+
+void init_cit_ht(struct Citations_HT *ht) {
+    if (ht == NULL) {
+        return;
+    }
+    
+    ht->bucekts = calloc(HMAX, sizeof(cited_paper));
+    DIE(ht->bucekts == NULL, "Citations_HT: ht->buckets");
+    
+    ht->compare_function = compare_function_ints;
+    ht->hash_function = hash_function_int;
+    ht->hmax = HMAX;
+}
+
+void add_citation(struct Citations_HT *ht, int64_t cited_paper_id) {
+    if (ht == NULL) {
+        return;
+    }
+    
+    int hash = ht->hash_function(&cited_paper_id) % ht->hmax;
+    cited_paper *paper = &ht->bucekts[hash];
+
+    // Linear probing; if initial bucket was empty => while loop isn't accessed
+    while (paper->citations && ht->compare_function(&cited_paper_id, ht->bucekts[hash].id)) {
+        hash = (hash + 1) % ht->hmax;
+        paper = &ht->bucekts[hash];
+    }
+
+    // Already cited => updating count
+    if (paper->citations) {
+        paper->citations++;
+        return;
+    }
+
+    // First citation => initializing count
+    paper->id = malloc(sizeof(cited_paper_id));
+    DIE(paper->id == NULL, "paper->id");
+    memcpy(paper->id, &cited_paper_id, sizeof(cited_paper_id)); // copying key
+    paper->citations = FIRST_CITATION;
+}
+
+int get_no_citations(Citations_HT *ht, int64_t paper_id) {
+    if (ht == NULL) {
+        return -1;
+    }
+    
+    int hash = ht->hash_function(&paper_id) % ht->hmax;
+
+    // Linear probing
+    while (ht->compare_function(ht->bucekts[hash].id, &paper_id)) {
+        hash = (hash + 1) % ht->hmax;
+    }
+
+    return ht->bucekts[hash].citations;
+}
+
+void free_cit_ht(struct Citations_HT *ht) {
+    if (ht == NULL) {
+        return;
+    }
+
+    int i;
+    for (i = 0; i < ht->hmax; i++) {
+        free(ht->bucekts[i].id);
+    }
+
+    free(ht->bucekts);
+    free(ht);
 }

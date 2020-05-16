@@ -5,8 +5,6 @@
 #include "publications.h"
 #include "data_structures.h"
 
-#define HMAX 120000
-
 struct author {
     char *name;
     int64_t id;
@@ -26,7 +24,6 @@ struct info {
     int num_refs;
 
     int ok; // "Visited" mark
-    int citations;
 };
 
 struct publications_data {
@@ -34,6 +31,8 @@ struct publications_data {
     int hmax;
     unsigned int (*hash_function)(void*);
     int (*compare_function)(void *, void *);
+
+    Citations_HT *citations_ht;
 };
 
 void init_info(Info *publication, const char* title, const char* venue,
@@ -85,7 +84,6 @@ void init_info(Info *publication, const char* title, const char* venue,
 
     // Auxiliary fields
     publication->ok = 0;
-    publication->citations = 0;
 }
 
 PublData* init_publ_data(void) {
@@ -93,7 +91,7 @@ PublData* init_publ_data(void) {
     DIE(data == NULL, "malloc - data");
     int i;
 
-    // Initialising hashtable
+    // Initialising data hashtable
     data->buckets = calloc(HMAX, sizeof(struct LinkedList *));
     DIE(data->buckets == NULL, "data->buckets malloc");
 
@@ -107,6 +105,12 @@ PublData* init_publ_data(void) {
     data->hmax = HMAX;
     data->hash_function = hash_function_int;
     data->compare_function = compare_function_ints;
+    
+    // Initializing citations hashtable
+    data->citations_ht = calloc(1, sizeof(Citations_HT));
+    DIE(data->citations_ht == NULL, "data->citations_ht calloc");
+    init_cit_ht(data->citations_ht);    
+
     return data;
 }
 
@@ -142,35 +146,16 @@ void destroy_publ_data(PublData* data) {
        return;
     }
 
+    // Freeing buckets
     int i;
-
     for (i = 0; i < data->hmax; i++) {
         free_list(&data->buckets[i]);
     }
-
     free(data->buckets);
+
+    free_cit_ht(data->citations_ht);
+
     free(data);
-}
-
-int nr_refs (PublData *data, int64_t id_paper) {
-    int i, j;
-    int cnt = 0;
-
-    for (i = 0; i < data->hmax; i++) {
-        struct Node *curr = data->buckets[i]->head;
-        while (curr) {
-            Info *publication = (Info *) curr->data;
-            for (j = 0; j < publication->num_refs; j++) {
-                if (publication->references[j] == id_paper) {
-                    cnt++;
-                    break;
-                }
-            }
-            curr = curr->next;
-        }
-    }
-
-    return cnt;
 }
 
 void add_paper(PublData* data, const char* title, const char* venue,
@@ -214,11 +199,8 @@ void add_paper(PublData* data, const char* title, const char* venue,
 
     for (i = 0; i < num_refs; i++) {
         publication->references[i] = references[i];
-
+        add_citation(data->citations_ht, references[i]);
     }
-
-    // Auxiliary fields
-    publication->citations = nr_refs(data, id);
 
     // Package & Send
     add_nth_node(data->buckets[hash], data->buckets[hash]->size, publication);
@@ -246,35 +228,15 @@ int compare_task1 (PublData *data, Info *challenger, Info *titleholder) {
     if (challenger->year != titleholder->year) {
         return titleholder->year - challenger->year;
     } else {
-        int nr_refs1 = nr_refs(data, challenger->id);
-        int nr_refs2 = nr_refs(data, titleholder->id);
-        if (nr_refs1 != nr_refs2) {
-            return nr_refs1 - nr_refs2;
+        int challenger_citations = get_no_citations(data->citations_ht, challenger->id);
+        int titleholder_citations = get_no_citations(data->citations_ht, titleholder->id);
+        if(challenger_citations != titleholder_citations) {
+            return challenger_citations - titleholder_citations;
         } else {
             return titleholder->id - challenger->id;
         }
     }
 }
-
-
-/* Using citations field */
-// > 0 --> older influence found
-// int compare_task1 (PublData *data, Info *challenger, Info *titleholder) {
-//     if (challenger == NULL || titleholder == NULL || challenger->id == titleholder->id) {
-//         return 0;
-//     }
-
-//     if (challenger->year != titleholder->year) {
-//         return titleholder->year - challenger->year;
-//     } else {
-//         if(challenger->citations != titleholder->citations) {
-//             return challenger->citations - titleholder->citations;
-//         } else {
-//             return titleholder->id - challenger->id;
-//         }
-//     }
-// }
-
 
 /* TODO: implement get_oldest_influence */
 char* get_oldest_influence(PublData* data, const int64_t id_paper) {

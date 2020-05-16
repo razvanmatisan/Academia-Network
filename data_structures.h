@@ -3,8 +3,10 @@
 
 #include <stddef.h>
 
-/* LinkedList */
+#define HMAX 50000
+#define FIRST_CITATION 1 
 
+/* LinkedList */
 struct Node {
     void *data;
     struct Node *next;
@@ -27,7 +29,6 @@ int get_size(struct LinkedList *list);
 void free_list(struct LinkedList **list);
 
 /* Queue */
-
 struct Queue {
     struct LinkedList *list;
 };
@@ -48,10 +49,34 @@ void clear_q(struct Queue *q);
 
 void purge_q(struct Queue *q);
 
-/* Hashtable */
-
+/* Papers Hashtable */
 unsigned int hash_function_int(void *a);
 
 int compare_function_ints(void *a, void *b);
+
+/* Citations Hashtable
+ * Key - ID
+ * Value - No. Citations
+ * Method - Linear Probing
+ */
+typedef struct cited_paper {
+    int64_t *id;
+    int citations;
+} cited_paper;
+
+typedef struct Citations_HT {
+    cited_paper *bucekts; 
+    int hmax;
+    unsigned int (*hash_function)(void *);
+    int (*compare_function)(void *, void *);
+} Citations_HT;
+
+void init_cit_ht(Citations_HT *ht);
+
+void add_citation(Citations_HT *ht, int64_t cited_paper_id);
+
+int get_no_citations(Citations_HT *ht, int64_t paper_id);
+
+void free_cit_ht(Citations_HT *ht);
 
 #endif /* DATA_STRUCTURES_H_ */
