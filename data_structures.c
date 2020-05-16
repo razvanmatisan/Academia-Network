@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "data_structures.h"
 #include "publications.h"
+#include "data_structures.h"
 
+/* LinkedList */
 void init_list(struct LinkedList *list) {
     list->head = NULL;
     list->tail = NULL;
@@ -15,6 +16,7 @@ void add_nth_node(struct LinkedList *list, int n, void *new_data) {
     	exit(-1);
     }
 
+	int i;
     struct Node* nth_node;
     nth_node = malloc(sizeof(struct Node));
     nth_node->data = new_data;
@@ -32,7 +34,7 @@ void add_nth_node(struct LinkedList *list, int n, void *new_data) {
 		struct Node *curr;
 		curr = list->head;
 
-		for(int i = 0; i < n - 1; i++) {
+		for(i = 0; i < n - 1; i++) {
     		curr = curr->next;
     	}
     	nth_node->next = curr->next;
@@ -46,6 +48,8 @@ struct Node* remove_nth_node(struct LinkedList *list, int n) {
     	fprintf(stderr, "Error!");
     	exit(-1);
     }
+
+	int i;
 
     if (n == 0) {
     	if (list->head->next == NULL) {
@@ -68,7 +72,7 @@ struct Node* remove_nth_node(struct LinkedList *list, int n) {
 			n = list->size - 1;
 		}
 
-		for(int i = 0; i < n - 1; i++) {
+		for(i = 0; i < n - 1; i++) {
     		prev = prev->next;
     	}
     	curr = prev->next;
@@ -97,6 +101,8 @@ void free_list(struct LinkedList **pp_list) {
 	free(*pp_list);
 }
 
+
+/* Queue */
 void init_q(struct Queue *q) {
     q->list = malloc(sizeof(struct LinkedList));
     if (q->list == NULL) {
@@ -145,4 +151,30 @@ void clear_q(struct Queue *q) {
 void purge_q(struct Queue *q) {
     clear_q(q);
     free(q->list);
+}
+
+/* Hashtable */
+unsigned int hash_function_int(void *a) {
+    /*
+     * Credits: https://stackoverflow.com/a/12996028/7883884
+     */
+    unsigned int uint_a = *((unsigned int *)a);
+
+    uint_a = ((uint_a >> 16u) ^ uint_a) * 0x45d9f3b;
+    uint_a = ((uint_a >> 16u) ^ uint_a) * 0x45d9f3b;
+    uint_a = (uint_a >> 16u) ^ uint_a;
+    return uint_a;
+}
+
+int compare_function_ints(void *a, void *b) {
+    int int_a = *((int *)a);
+    int int_b = *((int *)b);
+
+    if (int_a == int_b) {
+        return 0;
+    } else if (int_a < int_b) {
+        return -1;
+    } else {
+        return 1;
+    }
 }

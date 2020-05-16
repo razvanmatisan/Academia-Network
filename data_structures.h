@@ -26,10 +26,6 @@ int get_size(struct LinkedList *list);
 
 void free_list(struct LinkedList **list);
 
-// void print_int_linkedlist(struct LinkedList *list);
-
-// void print_string_linkedlist(struct LinkedList *list);
-
 /* Queue */
 
 struct Queue {
@@ -51,5 +47,11 @@ void enqueue(struct Queue *q, void *new_data);
 void clear_q(struct Queue *q);
 
 void purge_q(struct Queue *q);
+
+/* Hashtable */
+
+unsigned int hash_function_int(void *a);
+
+int compare_function_ints(void *a, void *b);
 
 #endif /* DATA_STRUCTURES_H_ */
