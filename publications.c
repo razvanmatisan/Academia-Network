@@ -5,7 +5,7 @@
 #include "publications.h"
 #include "data_structures.h"
 
-#define HMAX 30000
+#define HMAX 120000
 
 struct author {
     char *name;
@@ -24,6 +24,8 @@ struct info {
     int64_t id;
     int64_t *references;
     int num_refs;
+
+    int ok;
 };
 
 struct publications_data {
@@ -169,7 +171,13 @@ void add_paper(PublData* data, const char* title, const char* venue,
     const int num_fields, int64_t id, const int64_t* references,
     const int num_refs) {
 
-    unsigned int hash = data->hash_function(&id) % data->hmax;    
+    unsigned int hash = data->hash_function(&id) % data->hmax;
+
+    int index;
+
+    for (int i = 0; i < data->hmax; i++) {
+        
+    }  
 
     // Initializing data
     Info *publication = calloc(1, sizeof(Info));
@@ -205,73 +213,121 @@ void add_paper(PublData* data, const char* title, const char* venue,
     for (int i = 0; i < num_refs; i++) {
         publication->references[i] = references[i];
     }
+    publication->ok = 0;
     
     add_nth_node(data->buckets[hash], data->buckets[hash]->size, publication);
 }
 
 
-// void bfs_list_graph(ListGraph *lg, int node, int *visited, int *parents) {
-//     parents[node] = -2;
-//     visited[node] = 1;
-//     Queue *q = malloc(sizeof(Queue));
-//     init_q(q);
-//     enqueue(q, &node);
-//     printf("%d ", node);
 
-//     while (!is_empty_q(q)) {
-//         int v = *(int *)front(q);
-//         dequeue(q);
 
-//         struct Node *curr = lg->neighbours[v]->head;
-//         while (curr != NULL) {
-//             int node_hash = *(int *)curr->data;
-//             if (!visited[node_hash]) {
-//                 visited[node_hash] = 1;
-//                 parents[node_hash] = v;
-//                 enqueue(q, &node_hash);
-//                 printf("%d ", node_hash);
-//             } else {
-//                 curr = curr->next;
-//             }
-//         }
-//     }
-//     purge_q(q);
-//     free(q);
 
-//     for (int i = 0; i < lg->nodes; i++) {
-//         if (!visited[i]) {
-//             printf("\n");
-//             bfs_list_graph(lg, i, visited, parents);
-//         }
-//     }
-//     printf("\n");
-// }
+void free_ok_data(PublData *data) {
+    for (int i = 0; i < data->hmax; i++) {
+        struct Node *curr = data->buckets[i]->head;
+        while (curr) {
+            Info *publication = (Info *) curr->data;
+            publication->ok = 0;
+            curr = curr->next;
+        }
+    }
+}
 
-int max_refs (PublData *data, const int64_t id_paper) {
-    struct Queue *q = malloc(sizeof(struct Queue));
-    init_q(q);
-    enqueue(q, id_paper);
+int nr_refs (PublData *data, int64_t id_paper) {
+    int cnt = 0;
 
-    // for (int i = 0; i < data->hmax; i++) {
-    //     struct Node *curr = data->buckets[i]->head;
-    //     while (curr) {
-            
-    //     }
-    // }
+    for (int i = 0; i < data->hmax; i++) {
+        struct Node *curr = data->buckets[i]->head;
+        while (curr) {
+            Info *publication = (Info *) curr->data;
+            for (int j = 0; j < publication->num_refs; j++) {
+                if (publication->references[j] == id_paper) {
+                    cnt++;
+                    //printf("Yeah\n");
+                    break;
+                }
+            }
+            curr = curr->next;
+        }
+    }
 
-    purge_q(q);
-    free(q);
+    return cnt;
+}
+
+// > 0 --> ok!
+int compare_task1 (PublData *data, Info *publication1, Info *publication2) {
+    if (publication1 == NULL || publication2 == NULL || publication1->id == publication2->id) {
+        return 0;
+    }
+
+    if (publication1->year != publication2->year) {
+        return publication2->year - publication1->year;
+    } else {
+        int nr_refs1 = nr_refs(data, publication1->id);
+        int nr_refs2 = nr_refs(data, publication2->id);
+        if (nr_refs1 != nr_refs2) {
+            return nr_refs1 - nr_refs2;
+        } else {
+            return publication2->id - publication1->id;
+        }
+    }
 }
 
 char* get_oldest_influence(PublData* data, const int64_t id_paper) {
     /* TODO: implement get_oldest_influence */
 
+    Info *oldest_influence;
+
     struct Queue *q = malloc(sizeof(struct Queue));
     init_q(q);
-    // enqueue()
+    unsigned int hash = data->hash_function(&id_paper) % data->hmax;
+    
+    struct Node *curr = data->buckets[hash]->head;
+    
+    while (curr) {
+        Info *publication = (Info *) curr->data;
+        if (publication->id == id_paper) {
+            enqueue(q, publication);
+            publication->ok = 1;
+            oldest_influence = publication;
+            break;
+        }
+        curr = curr->next;
+    }
 
+    while (!is_empty_q(q)) {
+        Info *vertex = (Info *)front(q);
+        dequeue(q);
+
+        if (compare_task1(data, vertex, oldest_influence) > 0) {
+            oldest_influence = vertex;
+        }
+
+        for (int i = 0; i < vertex->num_refs; i++) {
+            unsigned int hash = data->hash_function(&vertex->references[i]) % data->hmax;
+    
+            struct Node *curr = data->buckets[hash]->head;
+            while (curr) {
+                Info *publication = (Info *) curr->data;
+                if (publication->id == vertex->references[i]) {
+                    if (!publication->ok) {
+                        enqueue(q, publication);
+                        publication->ok = 1;
+                    }
+                    break;
+                }
+                curr = curr->next;
+            }
+        }
+    }
     purge_q(q);
     free(q);
+
+    free_ok_data(data);
+
+    if (oldest_influence->id != id_paper) {
+        return oldest_influence->title;
+    }
 
     return "None";
 }
@@ -286,7 +342,24 @@ int get_number_of_influenced_papers(PublData* data, const int64_t id_paper,
     const int distance) {
     /* TODO: implement get_number_of_influenced_papers */
 
-    return -1;
+    // int cnt = 0;
+
+    // unsigned int hash = data->hash_function(&id_paper) % data->hmax;
+    
+    // struct Node *curr = data->buckets[hash]->head;
+    
+    // while (curr) {
+    //     Info *publication = (Info *) curr->data;
+    //     if (publication->id == id_paper) {
+    //         enqueue(q, publication);
+    //         publication->ok = 1;
+    //         oldest_influence = publication;
+    //         break;
+    //     }
+    //     curr = curr->next;
+    // }
+
+    // return -1;
 }
 
 int get_erdos_distance(PublData* data, const int64_t id1, const int64_t id2) {
