@@ -26,6 +26,7 @@ struct info {
     int num_refs;
 
     int ok; // "Visited" mark
+    int citations;
 };
 
 struct publications_data {
@@ -81,6 +82,10 @@ void init_info(Info *publication, const char* title, const char* venue,
     // References
     publication->references = calloc(num_refs, sizeof(int64_t));
     DIE(publication->references == NULL, "publication->references");
+
+    // Auxiliary fields
+    publication->ok = 0;
+    publication->citations = 0;
 }
 
 PublData* init_publ_data(void) {
@@ -147,6 +152,27 @@ void destroy_publ_data(PublData* data) {
     free(data);
 }
 
+int nr_refs (PublData *data, int64_t id_paper) {
+    int i, j;
+    int cnt = 0;
+
+    for (i = 0; i < data->hmax; i++) {
+        struct Node *curr = data->buckets[i]->head;
+        while (curr) {
+            Info *publication = (Info *) curr->data;
+            for (j = 0; j < publication->num_refs; j++) {
+                if (publication->references[j] == id_paper) {
+                    cnt++;
+                    break;
+                }
+            }
+            curr = curr->next;
+        }
+    }
+
+    return cnt;
+}
+
 void add_paper(PublData* data, const char* title, const char* venue,
     const int year, const char** author_names, const int64_t* author_ids,
     const char** institutions, const int num_authors, const char** fields,
@@ -188,9 +214,13 @@ void add_paper(PublData* data, const char* title, const char* venue,
 
     for (i = 0; i < num_refs; i++) {
         publication->references[i] = references[i];
+
     }
-    publication->ok = 0;
-    
+
+    // Auxiliary fields
+    publication->citations = nr_refs(data, id);
+
+    // Package & Send
     add_nth_node(data->buckets[hash], data->buckets[hash]->size, publication);
 }
 
@@ -207,88 +237,96 @@ void free_ok_data(PublData *data) {
     }
 }
 
-int nr_refs (PublData *data, int64_t id_paper) {
-    int i, j;
-    int cnt = 0;
-
-    for (i = 0; i < data->hmax; i++) {
-        struct Node *curr = data->buckets[i]->head;
-        while (curr) {
-            Info *publication = (Info *) curr->data;
-            for (j = 0; j < publication->num_refs; j++) {
-                if (publication->references[j] == id_paper) {
-                    cnt++;
-                    break;
-                }
-            }
-            curr = curr->next;
-        }
-    }
-
-    return cnt;
-}
-
-// > 0 --> ok!
-int compare_task1 (PublData *data, Info *publication1, Info *publication2) {
-    if (publication1 == NULL || publication2 == NULL || publication1->id == publication2->id) {
+// > 0 --> older influence found
+int compare_task1 (PublData *data, Info *challenger, Info *titleholder) {
+    if (challenger == NULL || titleholder == NULL || challenger->id == titleholder->id) {
         return 0;
     }
 
-    if (publication1->year != publication2->year) {
-        return publication2->year - publication1->year;
+    if (challenger->year != titleholder->year) {
+        return titleholder->year - challenger->year;
     } else {
-        int nr_refs1 = nr_refs(data, publication1->id);
-        int nr_refs2 = nr_refs(data, publication2->id);
+        int nr_refs1 = nr_refs(data, challenger->id);
+        int nr_refs2 = nr_refs(data, titleholder->id);
         if (nr_refs1 != nr_refs2) {
             return nr_refs1 - nr_refs2;
         } else {
-            return publication2->id - publication1->id;
+            return titleholder->id - challenger->id;
         }
     }
 }
+
+
+/* Using citations field */
+// > 0 --> older influence found
+// int compare_task1 (PublData *data, Info *challenger, Info *titleholder) {
+//     if (challenger == NULL || titleholder == NULL || challenger->id == titleholder->id) {
+//         return 0;
+//     }
+
+//     if (challenger->year != titleholder->year) {
+//         return titleholder->year - challenger->year;
+//     } else {
+//         if(challenger->citations != titleholder->citations) {
+//             return challenger->citations - titleholder->citations;
+//         } else {
+//             return titleholder->id - challenger->id;
+//         }
+//     }
+// }
+
 
 /* TODO: implement get_oldest_influence */
 char* get_oldest_influence(PublData* data, const int64_t id_paper) {
     // Initializing variables
     int i;
-    Info *oldest_influence;
+    struct Node *curr;
+    Info *publication, *vertex;
+    Info *oldest_influence = NULL;
 
     struct Queue *q = malloc(sizeof(struct Queue));
     init_q(q);
     
-    // Finding the given paper in the Hashtable
+    /* 
+     * Enqueing the given paper
+     * Marking it as visited
+     */
     unsigned int hash = data->hash_function(&id_paper) % data->hmax;
-    struct Node *curr = data->buckets[hash]->head;
+    curr = data->buckets[hash]->head;
 
     while (curr) {
-        Info *publication = (Info *) curr->data;
+        publication = (Info *) curr->data;
         if (publication->id == id_paper) {
             enqueue(q, publication);
             publication->ok = 1;
-            oldest_influence = publication;
             break;
         }
         curr = curr->next;
     }
 
-    // BFS
+    // BFS-style search
     while (!is_empty_q(q)) {
-        Info *vertex = (Info *)front(q);
+        vertex = (Info *)front(q);
 
-        // Visiting vertex: checking if it is an older influence
-        if (compare_task1(data, vertex, oldest_influence) > 0) {
+        // Checking if the vertex is an older influence
+        if(!oldest_influence && vertex->id != id_paper) {
+            // First influence found
+            oldest_influence = vertex;
+        } else if(compare_task1(data, vertex, oldest_influence) > 0) {
+            // Older influence found
             oldest_influence = vertex;
         }
 
-        // Searching for more references through the vertex's references
+        // Searching for further references through the vertex's references
         for (i = 0; i < vertex->num_refs; i++) {
-            unsigned int hash = data->hash_function(&vertex->references[i]) % data->hmax;
-    
-            struct Node *curr = data->buckets[hash]->head;
+            hash = data->hash_function(&vertex->references[i]) % data->hmax;
+            curr = data->buckets[hash]->head;
+
             while (curr) {
-                Info *publication = (Info *) curr->data;
+                publication = (Info *) curr->data;
                 if (publication->id == vertex->references[i]) {
                     if (!publication->ok) {
+                        // Unvisited reference found
                         enqueue(q, publication);
                         publication->ok = 1;
                     }
@@ -301,12 +339,13 @@ char* get_oldest_influence(PublData* data, const int64_t id_paper) {
         // Done with current vertex
         dequeue(q);
     }
+
+    // Freeing allocated memory
+    free_ok_data(data);
     purge_q(q);
     free(q);
 
-    free_ok_data(data);
-
-    if (oldest_influence->id != id_paper) {
+    if (oldest_influence) {
         return oldest_influence->title;
     }
 
