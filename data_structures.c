@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <stdint.h>
 
 #include "publications.h"
 #include "data_structures.h"
@@ -123,7 +124,10 @@ int is_empty_q(struct Queue *q) {
 }
 
 void* front(struct Queue *q) {
-    return q->list->head->data;
+	if (q->list->head) {
+		return q->list->head->data; 
+	}
+    return NULL;
 }
 
 void dequeue(struct Queue *q) {

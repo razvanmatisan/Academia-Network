@@ -5,6 +5,8 @@
 #include "publications.h"
 #include "data_structures.h"
 
+// Testing 
+
 struct author {
     char *name;
     int64_t id;
@@ -158,7 +160,6 @@ void destroy_publ_data(PublData* data) {
     }
     free(data->buckets);
 
-
     // Freeing PublData as a whole
     free(data);
 }
@@ -168,12 +169,12 @@ void add_paper(PublData* data, const char* title, const char* venue,
     const char** institutions, const int num_authors, const char** fields,
     const int num_fields, int64_t id, const int64_t* references,
     const int num_refs) {
+    unsigned int hash = data->hash_function(&id) % data->hmax;
+    int i;
+
     if (data == NULL) {
         return;
     }
-
-    unsigned int hash = data->hash_function(&id) % data->hmax;
-    int i;
 
     // Initializing data
     Info *publication = calloc(1, sizeof(Info));
@@ -229,7 +230,7 @@ void free_aux_data(PublData *data) {
     }
 }
 
-/* > 0 --> older influence found */
+// > 0 --> older influence found
 int compare_task1 (PublData *data, Info *challenger, Info *titleholder) {
     if (challenger == NULL || titleholder == NULL || challenger->id == titleholder->id) {
         return 0;
@@ -248,7 +249,7 @@ int compare_task1 (PublData *data, Info *challenger, Info *titleholder) {
     }
 }
 
-/* TODO: update to chaining */
+/* TODO: implement get_oldest_influence */
 char* get_oldest_influence(PublData* data, const int64_t id_paper) {
     // Initializing variables
     int i;
@@ -334,67 +335,73 @@ int get_number_of_influenced_papers(PublData* data, const int64_t id_paper,
     const int distance) {
     /* TODO: implement get_number_of_influenced_papers */
 
-    // int i;
-    // struct Node *curr;
-    // Info *publication, *vertex;
+    int i;
+    struct Node *curr;
+    Info *publication, *vertex;
 
-    // int cnt = 0;
-    // int curr_distance = 0;
+    int cnt = 0;
+    int curr_distance = 0;
 
-    // struct Queue *q = malloc(sizeof(struct Queue));
-    // init_q(q);
+    struct Queue *q = malloc(sizeof(struct Queue));
+    init_q(q);
 
-    // /* 
-    //  * Enqueing the given paper
-    //  * Marking it as visited
-    //  */
-    // unsigned int hash = data->hash_function(&id_paper) % data->hmax;
-    // curr = data->buckets[hash]->head;
+    /* 
+     * Enqueing the given paper
+     * Marking it as visited
+     */
+    unsigned int hash = data->hash_function(&id_paper) % data->hmax;
+    curr = data->buckets[hash]->head;
 
-    // while (curr) {
-    //     publication = (Info *) curr->data;
-    //     if (publication->id == id_paper) {
-    //         enqueue(q, publication);
-    //         publication->ok = 1;
-    //         publication->distance = curr_distance;
-    //         break;
-    //     }
-    //     curr = curr->next;
-    // }
+    while (curr) {
+        publication = (Info *) curr->data;
+        if (publication->id == id_paper) {
+            enqueue(q, publication);
+            publication->ok = 1;
+            publication->distance = curr_distance;
+            //cnt++;
+            break;
+        }
+        curr = curr->next;
+    }
 
-    // while(curr_distance <= distance || !is_empty_q(q)) {
-    //     vertex = (Info *)front(q);
-    //     dequeue(q);
+    while(curr_distance <= distance || !is_empty_q(q)) {
+        vertex = (Info *)front(q);
+        dequeue(q);
 
-    //     // Searching for further references through the vertex's references
-    //     for (i = 0; i < vertex->num_refs; i++) {
-    //         hash = data->hash_function(&vertex->references[i]) % data->hmax;
-    //         curr = data->buckets[hash]->head;
+        // Searching for further references through the vertex's references
+        for (i = 0; i < vertex->num_refs; i++) {
+            hash = data->hash_function(&vertex->references[i]) % data->hmax;
+            curr = data->buckets[hash]->head;
 
-    //         while (curr) {
-    //             publication = (Info *) curr->data;
-    //             if (publication->id == vertex->references[i]) {
-    //                 if (!publication->ok) {
-    //                     // Unvisited reference found
-    //                     enqueue(q, publication);
-    //                     publication->ok = 1;
-    //                     publication->distance = curr_distance + 1;
-    //                     cnt++;
-    //                 }
-    //                 break;
-    //             }
-    //             curr = curr->next;
-    //         }
-    //     }
-    //     vertex = (Info *) front(q);
-    //     curr_distance = vertex->distance;
-    // }
+            while (curr) {
+                publication = (Info *) curr->data;
 
-    // purge_q(q);
-    // free(q);
-    // free_aux_data(data);
+                if (publication->id == vertex->references[i]) {
+                    if (!publication->ok) {
+                        // Unvisited reference found
+                        enqueue(q, publication);
+                        publication->ok = 1;
+                        publication->distance = curr_distance + 1;
+                        //printf("%d\n", publication->distance);
+                        cnt++;
+                    }
+                    break;
+                }
+                curr = curr->next;
+            }
+        }
+        vertex = (Info *) front(q);
+        if (vertex == NULL) {
+            break;
+        }
+        curr_distance = vertex->distance;
+    }
 
-    return -1;
+    purge_q(q);
+    free(q);
+    free_aux_data(data);
+
+    return cnt;
 }
 
 int get_erdos_distance(PublData* data, const int64_t id1, const int64_t id2) {
