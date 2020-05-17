@@ -146,8 +146,6 @@ void destroy_publ_data(PublData* data) {
        return;
     }
 
-    // Freeing citations ht
-    free_cit_ht(data->citations_ht);
 
     // Freeing info buckets
     int i;
@@ -156,6 +154,8 @@ void destroy_publ_data(PublData* data) {
     }
     free(data->buckets);
 
+    // Freeing citations ht
+    free_cit_ht(data->citations_ht);
 
     // Freeing PublData as a whole
     free(data);
@@ -184,9 +184,9 @@ void add_paper(PublData* data, const char* title, const char* venue,
     memcpy(publication->venue, venue, (strlen(venue) + 1) * sizeof(char));
     publication->year = year;
 
+    // Authors
     publication->num_authors = num_authors;
 
-    // Authors
     for (i = 0; i < publication->num_authors; i++) {
         Author *author = publication->authors[i];
 
