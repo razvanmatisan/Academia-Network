@@ -5,7 +5,7 @@
 #include "publications.h"
 #include "data_structures.h"
 
-// Testing 
+#define DEBUG_ID 1596566034
 
 struct author {
     char *name;
@@ -152,7 +152,6 @@ void destroy_publ_data(PublData* data) {
        return;
     }
 
-
     // Freeing info buckets
     int i;
     for (i = 0; i < data->hmax; i++) {
@@ -219,18 +218,43 @@ void add_paper(PublData* data, const char* title, const char* venue,
     add_nth_node(data->buckets[hash], data->buckets[hash]->size, publication);
 }
 
-void free_aux_data(PublData *data) {
+Info* find_paper_with_id(PublData *data, int64_t target_id) {
+    unsigned int hash = data->hash_function(&target_id) % data->hmax;
+    struct Node *curr = data->buckets[hash]->head;
+    Info *publication;
+
+    while (curr) {
+        publication = (Info *)curr->data;
+        if(publication->id == target_id) {
+            return publication;
+        }
+        curr = curr->next;
+    }
+
+    // Nothing found
+    return NULL;
+}
+
+
+/* DFS-Style breadcrum cleaing - cleaning strictly the path we've been up on */
+void free_aux_data(PublData *data, Info *start_publication) {
     int i;
 
-    for (i = 0; i < data->hmax; i++) {
-        struct Node *curr = data->buckets[i]->head;
-        while (curr) {
-            Info *publication = (Info *) curr->data;
-            publication->ok = 0;
-            publication->distance = -1;
-            publication->citations = 0;
-            curr = curr->next;
-        }
+    // Freeing current publications'
+    start_publication->ok = 0;
+    start_publication->citations = 0;
+    start_publication->distance = -1;
+
+    for (i = 0; i < start_publication->num_refs; i++) {
+        Info *curr_publication = find_paper_with_id(data, start_publication->references[i]);
+
+        // If current neighbors is found (added in the HT)
+        if (curr_publication) {
+            if (curr_publication->ok) {
+                // Freeing next's neighbors' aux data
+                free_aux_data(data, curr_publication);
+            }
+        }  
     }
 }
 
@@ -257,10 +281,13 @@ int compare_task1 (PublData *data, Info *challenger, Info *titleholder) {
     }
 }
 
-/* TODO: implement get_oldest_influence */
+/**
+ * TOFIX: breadcrum cleaning 
+ * */
 char* get_oldest_influence(PublData* data, const int64_t id_paper) {
     // Initializing variables
     int i;
+    unsigned int hash;
     struct Node *curr;
     Info *publication, *vertex;
     Info *oldest_influence = NULL;
@@ -272,18 +299,10 @@ char* get_oldest_influence(PublData* data, const int64_t id_paper) {
      * Enqueing the given paper
      * Marking it as visited
      */
-    unsigned int hash = data->hash_function(&id_paper) % data->hmax;
-    curr = data->buckets[hash]->head;
 
-    while (curr) {
-        publication = (Info *) curr->data;
-        if (publication->id == id_paper) {
-            enqueue(q, publication);
-            publication->ok = 1;
-            break;
-        }
-        curr = curr->next;
-    }
+    Info *starting_paper = find_paper_with_id(data, id_paper);
+    enqueue(q, starting_paper);
+    starting_paper->ok = 1;
 
     // BFS-style search
     while (!is_empty_q(q)) {
@@ -322,7 +341,7 @@ char* get_oldest_influence(PublData* data, const int64_t id_paper) {
     }
 
     // Freeing allocated memory
-    free_aux_data(data);
+    free_aux_data(data, starting_paper);
     purge_q(q);
     free(q);
 
@@ -344,6 +363,7 @@ int get_number_of_influenced_papers(PublData* data, const int64_t id_paper,
     /* TODO: implement get_number_of_influenced_papers */
 
     int i;
+    unsigned int hash;
     struct Node *curr;
     Info *publication, *vertex;
 
@@ -357,20 +377,10 @@ int get_number_of_influenced_papers(PublData* data, const int64_t id_paper,
      * Enqueing the given paper
      * Marking it as visited
      */
-    unsigned int hash = data->hash_function(&id_paper) % data->hmax;
-    curr = data->buckets[hash]->head;
-
-    while (curr) {
-        publication = (Info *) curr->data;
-        if (publication->id == id_paper) {
-            enqueue(q, publication);
-            publication->ok = 1;
-            publication->distance = curr_distance;
-            //cnt++;
-            break;
-        }
-        curr = curr->next;
-    }
+    Info *starting_paper = find_paper_with_id(data, id_paper);
+    enqueue(q, starting_paper);
+    starting_paper->ok = 1;
+    starting_paper->distance = curr_distance;
 
     while(curr_distance <= distance || !is_empty_q(q)) {
         vertex = (Info *)front(q);
@@ -407,7 +417,7 @@ int get_number_of_influenced_papers(PublData* data, const int64_t id_paper,
 
     purge_q(q);
     free(q);
-    free_aux_data(data);
+    free_aux_data(data, starting_paper);
 
     return cnt;
 }

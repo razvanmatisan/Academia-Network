@@ -3,7 +3,7 @@
 
 #include <stddef.h>
 
-#define HMAX 35000
+#define HMAX 10000
 #define FIRST_CITATION 1 
 
 /* LinkedList */

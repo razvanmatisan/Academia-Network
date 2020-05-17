@@ -12,6 +12,9 @@ void init_list(struct LinkedList *list) {
     list->size = 0;
 }
 
+/**
+ * TOOD: optimise with tail
+ */
 void add_nth_node(struct LinkedList *list, int n, void *new_data) {
     if (n < 0 || list == NULL) {
     	exit(-1);
@@ -44,6 +47,9 @@ void add_nth_node(struct LinkedList *list, int n, void *new_data) {
 	}
 }
 
+/**
+ * TODO: optimise with tail
+ */
 struct Node* remove_nth_node(struct LinkedList *list, int n) {
 	if (n < 0 || list == NULL || list->head == NULL) {
     	fprintf(stderr, "Error!");
@@ -137,6 +143,9 @@ void dequeue(struct Queue *q) {
     }
 }
 
+/**
+ * TODO: optimise with tail
+ */
 void enqueue(struct Queue *q, void *new_data) {
     add_nth_node(q->list, q->list->size, new_data);
 }
