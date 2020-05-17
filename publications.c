@@ -24,6 +24,7 @@ struct info {
     int num_refs;
 
     int ok; // "Visited" mark
+    int citations;
     int distance; // Distance to the origin :)
 };
 
@@ -86,6 +87,7 @@ void init_info(Info *publication, const char* title, const char* venue,
     // Auxiliary fields
     publication->ok = 0;
     publication->distance = -1;
+    publication->citations = 0;
 }
 
 PublData* init_publ_data(void) {
@@ -152,7 +154,7 @@ void destroy_publ_data(PublData* data) {
     // Freeing info buckets
     int i;
     for (i = 0; i < data->hmax; i++) {
-        free_list(&data->buckets[i]);
+        free_info_list(&data->buckets[i]);
     }
     free(data->buckets);
 
@@ -224,6 +226,7 @@ void free_aux_data(PublData *data) {
             Info *publication = (Info *) curr->data;
             publication->ok = 0;
             publication->distance = -1;
+            publication->citations = 0;
             curr = curr->next;
         }
     }
@@ -238,10 +241,14 @@ int compare_task1 (PublData *data, Info *challenger, Info *titleholder) {
     if (challenger->year != titleholder->year) {
         return titleholder->year - challenger->year;
     } else {
-        int challenger_citations = get_no_citations(data->citations_ht, challenger->id);
-        int titleholder_citations = get_no_citations(data->citations_ht, titleholder->id);
-        if(challenger_citations != titleholder_citations) {
-            return challenger_citations - titleholder_citations;
+        if (!challenger->citations) {
+            challenger->citations = get_no_citations(data->citations_ht, challenger->id);
+        }
+        if (!titleholder->citations) {
+            titleholder->citations = get_no_citations(data->citations_ht, titleholder->id);
+        }
+        if(challenger->citations != titleholder->citations) {
+            return challenger->citations - titleholder->citations;
         } else {
             return titleholder->id - challenger->id;
         }

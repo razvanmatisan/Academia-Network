@@ -89,7 +89,7 @@ int get_size(struct LinkedList *list) {
     return list->size;
 }
 
-void free_list(struct LinkedList **pp_list) {
+void free_info_list(struct LinkedList **pp_list) {
 	struct Node *curr = (*pp_list)->head;
 	struct Node *copy_node;
 	while (curr != NULL) {

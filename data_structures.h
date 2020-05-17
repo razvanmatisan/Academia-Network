@@ -26,7 +26,7 @@ struct Node* remove_nth_node(struct LinkedList *list, int n);
 
 int get_size(struct LinkedList *list);
 
-void free_list(struct LinkedList **list);
+void free_info_list(struct LinkedList **list);
 
 /* Queue */
 struct Queue {
