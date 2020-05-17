@@ -24,6 +24,7 @@ struct info {
     int num_refs;
 
     int ok; // "Visited" mark
+    int distance; // Distance to the origin :)
 };
 
 struct publications_data {
@@ -84,6 +85,7 @@ void init_info(Info *publication, const char* title, const char* venue,
 
     // Auxiliary fields
     publication->ok = 0;
+    publication->distance = -1;
 }
 
 PublData* init_publ_data(void) {
@@ -213,7 +215,7 @@ void add_paper(PublData* data, const char* title, const char* venue,
     add_nth_node(data->buckets[hash], data->buckets[hash]->size, publication);
 }
 
-void free_ok_data(PublData *data) {
+void free_aux_data(PublData *data) {
     int i;
 
     for (i = 0; i < data->hmax; i++) {
@@ -221,6 +223,7 @@ void free_ok_data(PublData *data) {
         while (curr) {
             Info *publication = (Info *) curr->data;
             publication->ok = 0;
+            publication->distance = -1;
             curr = curr->next;
         }
     }
@@ -310,7 +313,7 @@ char* get_oldest_influence(PublData* data, const int64_t id_paper) {
     }
 
     // Freeing allocated memory
-    free_ok_data(data);
+    free_aux_data(data);
     purge_q(q);
     free(q);
 
