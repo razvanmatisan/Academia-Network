@@ -95,16 +95,16 @@ PublData* init_publ_data(void) {
     data->buckets = calloc(HMAX, sizeof(struct LinkedList *));
     DIE(data->buckets == NULL, "data->buckets malloc");
 
-    for (i = 0; i < HMAX; i++) {
+    data->hmax = HMAX;
+    data->hash_function = hash_function_int;
+    data->compare_function = compare_function_ints;
+
+    for (i = 0; i < data->hmax; i++) {
         data->buckets[i] = calloc(1, sizeof(struct LinkedList));
         DIE(data->buckets[i] == NULL, "data->buckets[i] malloc");
 
         init_list(data->buckets[i]);
     }
-
-    data->hmax = HMAX;
-    data->hash_function = hash_function_int;
-    data->compare_function = compare_function_ints;
     
     // Initializing citations hashtable
     data->citations_ht = calloc(1, sizeof(Citations_HT));
@@ -146,15 +146,18 @@ void destroy_publ_data(PublData* data) {
        return;
     }
 
-    // Freeing buckets
+    // Freeing citations ht
+    free_cit_ht(data->citations_ht);
+
+    // Freeing info buckets
     int i;
     for (i = 0; i < data->hmax; i++) {
         free_list(&data->buckets[i]);
     }
     free(data->buckets);
 
-    free_cit_ht(data->citations_ht);
 
+    // Freeing PublData as a whole
     free(data);
 }
 
@@ -163,6 +166,10 @@ void add_paper(PublData* data, const char* title, const char* venue,
     const char** institutions, const int num_authors, const char** fields,
     const int num_fields, int64_t id, const int64_t* references,
     const int num_refs) {
+    if (data == NULL) {
+        return;
+    }
+
     unsigned int hash = data->hash_function(&id) % data->hmax;
     int i;
 
@@ -219,7 +226,7 @@ void free_ok_data(PublData *data) {
     }
 }
 
-// > 0 --> older influence found
+/* > 0 --> older influence found */
 int compare_task1 (PublData *data, Info *challenger, Info *titleholder) {
     if (challenger == NULL || titleholder == NULL || challenger->id == titleholder->id) {
         return 0;
@@ -238,7 +245,7 @@ int compare_task1 (PublData *data, Info *challenger, Info *titleholder) {
     }
 }
 
-/* TODO: implement get_oldest_influence */
+/* TODO: update to chaining */
 char* get_oldest_influence(PublData* data, const int64_t id_paper) {
     // Initializing variables
     int i;

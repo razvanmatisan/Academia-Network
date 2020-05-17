@@ -179,41 +179,58 @@ int compare_function_ints(void *a, void *b) {
 void init_cit_ht(struct Citations_HT *ht) {
     if (ht == NULL) {
         return;
-    }
-    
-    ht->bucekts = calloc(HMAX, sizeof(cited_paper));
-    DIE(ht->bucekts == NULL, "Citations_HT: ht->buckets");
-    
-    ht->compare_function = compare_function_ints;
-    ht->hash_function = hash_function_int;
+    }    
+
+    // Initializing citations HT
     ht->hmax = HMAX;
+    ht->hash_function = hash_function_int;
+    ht->compare_function = compare_function_ints;
+
+    // Initializing buckets
+    ht->buckets = calloc(ht->hmax, sizeof(struct LinkedList));
+    DIE(ht->buckets == NULL, "Citations_HT: ht->buckets");
+    
+    int i;
+    for (i = 0; i < ht->hmax; i++) {
+        init_list(&ht->buckets[i]);
+
+    }
 }
 
 void add_citation(struct Citations_HT *ht, int64_t cited_paper_id) {
     if (ht == NULL) {
         return;
     }
+
+    unsigned int hash = ht->hash_function(&cited_paper_id) % ht->hmax;
+    struct LinkedList *bucket = &ht->buckets[hash];
+
+    // Iterate through the bucket until keymatch
+    struct Node *it = bucket->head;
+    while (it != NULL) {
+        struct cited_paper *inside_data = (struct cited_paper *)it->data;
+        // Key match
+        if (ht->compare_function(inside_data->id, &cited_paper_id) == 0) {
+            // Already cited => updating count
+            inside_data->citations++;
+            return;
+        }
+        it = it->next;
+    }
+
+    // First citation => new element in bucket
+    struct cited_paper *new_paper = malloc(sizeof(cited_paper));
+    DIE(new_paper == NULL, "add_citations -> new_paper malloc");
+
+    // Allocating memory for key
+    new_paper->id = malloc(sizeof(cited_paper_id));
+    DIE(new_paper->id == NULL, "paper->id");
     
-    int hash = ht->hash_function(&cited_paper_id) % ht->hmax;
-    cited_paper *paper = &ht->bucekts[hash];
+    memcpy(new_paper->id, &cited_paper_id, sizeof(cited_paper_id)); // copying key
+    new_paper->citations = FIRST_CITATION;
 
-    // Linear probing; if initial bucket was empty => while loop isn't accessed
-    while (paper->citations && ht->compare_function(&cited_paper_id, ht->bucekts[hash].id)) {
-        hash = (hash + 1) % ht->hmax;
-        paper = &ht->bucekts[hash];
-    }
-
-    // Already cited => updating count
-    if (paper->citations) {
-        paper->citations++;
-        return;
-    }
-
-    // First citation => initializing count
-    paper->id = malloc(sizeof(cited_paper_id));
-    DIE(paper->id == NULL, "paper->id");
-    memcpy(paper->id, &cited_paper_id, sizeof(cited_paper_id)); // copying key
-    paper->citations = FIRST_CITATION;
+    // Add/chain => bascially appending to the current bucket
+    add_nth_node(bucket, bucket->size, new_paper);
 }
 
 int get_no_citations(Citations_HT *ht, int64_t paper_id) {
@@ -221,26 +238,45 @@ int get_no_citations(Citations_HT *ht, int64_t paper_id) {
         return -1;
     }
     
-    int hash = ht->hash_function(&paper_id) % ht->hmax;
+    unsigned int hash = ht->hash_function(&paper_id) % ht->hmax;
+    struct LinkedList *bucket = &ht->buckets[hash];
 
-    // Linear probing
-    while (ht->compare_function(ht->bucekts[hash].id, &paper_id)) {
-        hash = (hash + 1) % ht->hmax;
+    struct Node *it = bucket->head;
+    while (it != NULL) {
+        cited_paper *inside_data = (cited_paper *)it->data;
+        // Key match
+        if (ht->compare_function(inside_data->id, &paper_id) == 0) {
+            return inside_data->citations;
+        }
+    it = it->next;
     }
 
-    return ht->bucekts[hash].citations;
+    // Nothing found
+    return -1;
 }
 
-void free_cit_ht(struct Citations_HT *ht) {
+void free_cit_ht(Citations_HT *ht) {
     if (ht == NULL) {
         return;
     }
 
     int i;
     for (i = 0; i < ht->hmax; i++) {
-        free(ht->bucekts[i].id);
+        struct LinkedList *bucket = &ht->buckets[i];
+        struct Node *it = bucket->head;
+        
+        struct Node *prev;
+        while (it != NULL) {
+            prev = it;
+            it = it->next;
+
+            cited_paper *inside_data = (cited_paper *)prev->data;
+            free(inside_data->id);
+            free(inside_data);
+            free(prev);
+        }
     }
 
-    free(ht->bucekts);
+    free(ht->buckets);
     free(ht);
 }

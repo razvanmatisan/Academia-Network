@@ -3,7 +3,7 @@
 
 #include <stddef.h>
 
-#define HMAX 50000
+#define HMAX 60000
 #define FIRST_CITATION 1 
 
 /* LinkedList */
@@ -65,7 +65,7 @@ typedef struct cited_paper {
 } cited_paper;
 
 typedef struct Citations_HT {
-    cited_paper *bucekts; 
+    struct LinkedList *buckets; /* Array of simply-linked buckets */ 
     int hmax;
     unsigned int (*hash_function)(void *);
     int (*compare_function)(void *, void *);
