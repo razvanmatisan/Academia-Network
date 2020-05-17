@@ -12,84 +12,51 @@ void init_list(struct LinkedList *list) {
     list->size = 0;
 }
 
-/**
- * TOOD: optimise with tail
- */
-void add_nth_node(struct LinkedList *list, int n, void *new_data) {
-    if (n < 0 || list == NULL) {
+void add_last_node(struct LinkedList *list, void *new_data) {
+    if (list == NULL) {
     	exit(-1);
     }
 
-	int i;
-    struct Node* nth_node;
-    nth_node = malloc(sizeof(struct Node));
-    nth_node->data = new_data;
-    if (n == 0) {
-    	
-    	nth_node->next = list->head;
-		list->head = nth_node;        
-		list->size++;
-	}
+    // Initializing new_node
+    struct Node *new_node = malloc(sizeof(struct Node));
+    DIE(new_node == NULL, "add_last_node new_node malloc");
+    new_node->data = new_data;
+    new_node->next = NULL;
 
-	if (n > 0) {
-		if (n >= list->size) {
-			n = list->size;
-		}
-		struct Node *curr;
-		curr = list->head;
+    if (list->size == 0) {
+        // Updating head
+        list->head = new_node;
+    } else {
+        // Updating link to new tail
+        list->tail->next = new_node;
+    }
 
-		for(i = 0; i < n - 1; i++) {
-    		curr = curr->next;
-    	}
-    	nth_node->next = curr->next;
-    	curr->next = nth_node;
-		list->size++;
-	}
+    // Updating tail
+    list->tail = new_node;
+
+    // Increasing list size
+    list->size++;
 }
 
-/**
- * TODO: optimise with tail
- */
-struct Node* remove_nth_node(struct LinkedList *list, int n) {
-	if (n < 0 || list == NULL || list->head == NULL) {
+struct Node* remove_first_node(struct LinkedList *list) {
+	if (list == NULL || list->head == NULL) {
     	fprintf(stderr, "Error!");
     	exit(-1);
     }
 
-	int i;
-
-    if (n == 0) {
-    	if (list->head->next == NULL) {
-    		struct Node *curr = list->head;
-    		list->head = NULL;
-    		list->size--;
-    		return curr;
-		} else {
-			struct Node *first = list->head;
-		    list->head = first->next;
-		    list->size--;
-		    return first;
-		}
-
-    } else if (n > 0) {
-		struct Node *prev, *curr;
-		prev = list->head;
-
-		if (n > list->size - 1) {
-			n = list->size - 1;
-		}
-
-		for(i = 0; i < n - 1; i++) {
-    		prev = prev->next;
-    	}
-    	curr = prev->next;
-
-    	prev->next = curr->next;
-    	list->size--;
-    	return curr;
+    if (list->head->next == NULL) {
+        struct Node *curr = list->head;
+        list->head = NULL;
+        list->size--;
+        return curr;
+    } else {
+        struct Node *first = list->head;
+        list->head = first->next;
+        list->size--;
+        return first;
     }
 
-    return 0;
+    return NULL;
 }
 
 int get_size(struct LinkedList *list) {
@@ -138,7 +105,7 @@ void* front(struct Queue *q) {
 
 void dequeue(struct Queue *q) {
     if (get_size_q(q)) {
-        struct Node *first = remove_nth_node(q->list, 0);
+        struct Node *first = remove_first_node(q->list);
         free(first);
     }
 }
@@ -147,7 +114,7 @@ void dequeue(struct Queue *q) {
  * TODO: optimise with tail
  */
 void enqueue(struct Queue *q, void *new_data) {
-    add_nth_node(q->list, q->list->size, new_data);
+    add_last_node(q->list, new_data);
 }
 
 void clear_q(struct Queue *q) {
@@ -243,7 +210,7 @@ void add_citation(struct Citations_HT *ht, int64_t cited_paper_id) {
     new_paper->citations = FIRST_CITATION;
 
     // Add/chain => bascially appending to the current bucket
-    add_nth_node(bucket, bucket->size, new_paper);
+    add_last_node(bucket, new_paper);
 }
 
 int get_no_citations(Citations_HT *ht, int64_t paper_id) {

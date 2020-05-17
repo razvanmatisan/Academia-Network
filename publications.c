@@ -5,8 +5,6 @@
 #include "publications.h"
 #include "data_structures.h"
 
-#define DEBUG_ID 1596566034
-
 struct author {
     char *name;
     int64_t id;
@@ -215,7 +213,7 @@ void add_paper(PublData* data, const char* title, const char* venue,
     }
 
     // Package & Send
-    add_nth_node(data->buckets[hash], data->buckets[hash]->size, publication);
+    add_last_node(data->buckets[hash], publication);
 }
 
 Info* find_paper_with_id(PublData *data, int64_t target_id) {
