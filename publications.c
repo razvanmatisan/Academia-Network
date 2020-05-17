@@ -331,22 +331,65 @@ int get_number_of_influenced_papers(PublData* data, const int64_t id_paper,
     const int distance) {
     /* TODO: implement get_number_of_influenced_papers */
 
-    // int cnt = 0;
+    // int i;
+    // struct Node *curr;
+    // Info *publication, *vertex;
 
+    // int cnt = 0;
+    // int curr_distance = 0;
+
+    // struct Queue *q = malloc(sizeof(struct Queue));
+    // init_q(q);
+
+    // /* 
+    //  * Enqueing the given paper
+    //  * Marking it as visited
+    //  */
     // unsigned int hash = data->hash_function(&id_paper) % data->hmax;
-    
-    // struct Node *curr = data->buckets[hash]->head;
-    
+    // curr = data->buckets[hash]->head;
+
     // while (curr) {
-    //     Info *publication = (Info *) curr->data;
+    //     publication = (Info *) curr->data;
     //     if (publication->id == id_paper) {
     //         enqueue(q, publication);
     //         publication->ok = 1;
-    //         oldest_influence = publication;
+    //         publication->distance = curr_distance;
     //         break;
     //     }
     //     curr = curr->next;
     // }
+
+    // while(curr_distance <= distance || !is_empty_q(q)) {
+    //     vertex = (Info *)front(q);
+    //     dequeue(q);
+
+    //     // Searching for further references through the vertex's references
+    //     for (i = 0; i < vertex->num_refs; i++) {
+    //         hash = data->hash_function(&vertex->references[i]) % data->hmax;
+    //         curr = data->buckets[hash]->head;
+
+    //         while (curr) {
+    //             publication = (Info *) curr->data;
+    //             if (publication->id == vertex->references[i]) {
+    //                 if (!publication->ok) {
+    //                     // Unvisited reference found
+    //                     enqueue(q, publication);
+    //                     publication->ok = 1;
+    //                     publication->distance = curr_distance + 1;
+    //                     cnt++;
+    //                 }
+    //                 break;
+    //             }
+    //             curr = curr->next;
+    //         }
+    //     }
+    //     vertex = (Info *) front(q);
+    //     curr_distance = vertex->distance;
+    // }
+
+    // purge_q(q);
+    // free(q);
+    // free_aux_data(data);
 
     return -1;
 }
