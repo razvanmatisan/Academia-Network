@@ -353,6 +353,30 @@ char* get_oldest_influence(PublData* data, const int64_t id_paper) {
 float get_venue_impact_factor(PublData* data, const char* venue) {
     /* TODO: implement get_venue_impact_factor */
 
+    long x = 0;
+    int cnt = 0;
+    
+    int i;
+    unsigned int hash;
+    for (i = 0; i < data->hmax; i++) {
+        struct Node *curr = data->buckets[i]->head;
+
+        while (curr) {
+            Info *publication = (Info *) curr->data;
+
+            if (!strcmp(publication->venue, venue)) {
+                int cits = get_no_citations(data->citations_ht, publication->id);
+                x += cits;
+                cnt++;
+            }
+            curr = curr->next;
+        }
+    }
+
+    if (cnt) {
+        return (float) x / cnt; 
+    }
+
     return 0.f;
 }
 

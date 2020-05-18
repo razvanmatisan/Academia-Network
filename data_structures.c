@@ -232,7 +232,7 @@ int get_no_citations(Citations_HT *ht, int64_t paper_id) {
     }
 
     // Nothing found
-    return -1;
+    return 0;
 }
 
 void free_cit_ht(Citations_HT *ht) {
