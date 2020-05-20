@@ -35,6 +35,9 @@ struct publications_data {
     int (*compare_function)(void *, void *);
 
     Citations_HT *citations_ht;
+
+    Venue_HT *venue_ht;
+    Field_HT *field_ht;
 };
 
 void init_info(Info *publication, const char* title, const char* venue,
@@ -110,10 +113,18 @@ PublData* init_publ_data(void) {
         init_list(data->buckets[i]);
     }
     
-    // Initializing citations hashtable
+    // Initializing MINI-hashtables :))
     data->citations_ht = calloc(1, sizeof(Citations_HT));
     DIE(data->citations_ht == NULL, "data->citations_ht calloc");
-    init_cit_ht(data->citations_ht);    
+    init_cit_ht(data->citations_ht);
+
+    data->venue_ht = calloc(1, sizeof(Venue_HT));
+    DIE(data->venue_ht == NULL, "data->venue_ht calloc");
+    init_venue_ht(data->venue_ht);
+
+    data->field_ht = calloc(1, sizeof(Field_HT));
+    DIE(data->field_ht == NULL, "data->field_ht calloc");
+    init_field_ht(data->field_ht);
 
     return data;
 }
@@ -157,8 +168,10 @@ void destroy_publ_data(PublData* data) {
     }
     free(data->buckets);
 
-    // Freeing citations ht
+    // Freeing MINI-hashtables :))
     free_cit_ht(data->citations_ht);
+    free_venue_ht(data->venue_ht);
+    free_field_ht(data->field_ht);
 
     // Freeing PublData as a whole
     free(data);
@@ -184,8 +197,12 @@ void add_paper(PublData* data, const char* title, const char* venue,
 
     // Basic info
     memcpy(publication->title, title, (strlen(title) + 1) * sizeof(char));
+
     memcpy(publication->venue, venue, (strlen(venue) + 1) * sizeof(char));
+    add_venue(data->venue_ht, publication->venue, id);
+
     publication->year = year;
+
 
     // Authors
     publication->num_authors = num_authors;
@@ -202,6 +219,7 @@ void add_paper(PublData* data, const char* title, const char* venue,
     publication->num_fields = num_fields;
     for (i = 0; i < publication->num_fields; i++) {
         memcpy(publication->fields[i], fields[i], (strlen(fields[i]) + 1) * sizeof(char));
+        add_field(data->field_ht, publication->fields[i], id);
     }
 
     publication->id = id;
@@ -279,9 +297,7 @@ int compare_task1 (PublData *data, Info *challenger, Info *titleholder) {
     }
 }
 
-/**
- * TOFIX: breadcrum cleaning 
- * */
+
 char* get_oldest_influence(PublData* data, const int64_t id_paper) {
     // Initializing variables
     int i;
@@ -355,23 +371,28 @@ float get_venue_impact_factor(PublData* data, const char* venue) {
 
     long x = 0;
     int cnt = 0;
-    
-    int i;
-    unsigned int hash;
-    for (i = 0; i < data->hmax; i++) {
-        struct Node *curr = data->buckets[i]->head;
 
-        while (curr) {
-            Info *publication = (Info *) curr->data;
+    char *copy_venue = calloc(strlen(venue) + 1, sizeof(char));
+    DIE(copy_venue == NULL, "copy_venue calloc");
 
-            if (!strcmp(publication->venue, venue)) {
-                int cits = get_no_citations(data->citations_ht, publication->id);
-                x += cits;
-                cnt++;
-            }
-            curr = curr->next;
+    memcpy(copy_venue, venue, (strlen(venue) + 1) * sizeof(char));
+
+    unsigned int hash = data->venue_ht->hash_function(copy_venue) % data->venue_ht->hmax;
+    struct Node *curr = data->venue_ht->buckets[hash].head;
+
+    while (curr) {
+        venue_paper *publication = (venue_paper *) curr->data;
+
+        if (!strcmp(publication->venue, venue)) {
+            int cits = get_no_citations(data->citations_ht, publication->id);
+            x += cits;
+            cnt++;
         }
+
+        curr = curr->next;
     }
+
+    free(copy_venue);
 
     if (cnt) {
         return (float) x / cnt; 
@@ -422,7 +443,6 @@ int get_number_of_influenced_papers(PublData* data, const int64_t id_paper,
                         enqueue(q, publication);
                         publication->ok = 1;
                         publication->distance = curr_distance + 1;
-                        //printf("%d\n", publication->distance);
                         cnt++;
                     }
                     break;
@@ -449,15 +469,53 @@ int get_erdos_distance(PublData* data, const int64_t id1, const int64_t id2) {
 
     return -1;
 }
+/* ------------------------ Taskul 5 -------------------------- */
+int no_papers_with_field (Field_HT *field_ht, const char *field, int64_t *ids_with_field) {
+
+    unsigned int hash = field_ht->hash_function(field) % field_ht->hmax;
+    struct Node *curr = field_ht->buckets[hash].head;
+    int i = 0;
+
+    while (curr) {
+        field_paper *publication = (field_paper *) curr->data;
+        if (!strcmp(publication->field, field)) {
+            ids_with_field = realloc(ids_with_field, (i + 1) * sizeof(int64_t));
+            ids_with_field[i] = publication->id;
+            i++;
+        }
+        curr = curr->next;
+    }
+
+    return i;
+}
 
 char** get_most_cited_papers_by_field(PublData* data, const char* field,
     int* num_papers) {
-    /* TODO: implement get_most_cited_papers_by_field */
+    // /* TODO: implement get_most_cited_papers_by_field */
 
-    return NULL;
+    // int64_t *ids_with_field = calloc(1, sizeof(int64_t));
+    // int no_ids = no_papers_with_field(data->field_ht, field, ids_with_field);
+
+    // int num = *(int *)num_papers;
+    // char **titles = calloc(num, sizeof(char *));
+    // for (int i = 0; i < num; i++) {
+    //     titles[i] = calloc(LEN_TITLE, sizeof(char));
+    // }
+
+    // if (no_ids < num_papers) {
+    //     num_papers = &no_ids;
+    // }
+
+    // printf("%d\n", *(int *)num_papers);
+    // printf("%d\n", no_ids);
+
+    
+    // free(ids_with_field);
+    // return titles;
+    // return NULL;
 }
 
-/* DONE */
+/* ---------------------------- Taskul 6 ------------------------- */
 int get_number_of_papers_between_dates(PublData* data, const int early_date,
     const int late_date) {
     int i;

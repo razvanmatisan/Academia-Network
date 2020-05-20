@@ -4,7 +4,8 @@
 #include <stddef.h>
 
 #define HMAX 10000
-#define FIRST_CITATION 1 
+#define FIRST_CITATION 1
+#define LEN_TITLE 200 
 
 /* LinkedList */
 struct Node {
@@ -71,6 +72,32 @@ typedef struct Citations_HT {
     int (*compare_function)(void *, void *);
 } Citations_HT;
 
+
+typedef struct venue_paper {
+    char *venue;
+    int64_t id;
+} venue_paper;
+
+typedef struct Venue_HT {
+    struct LinkedList *buckets; /* Array of simply-linked buckets */ 
+    int hmax;
+    unsigned int (*hash_function)(void *);
+    int (*compare_function)(void *, void *);
+} Venue_HT;
+
+
+typedef struct field_paper {
+    char *field;
+    int64_t id;
+} field_paper;
+
+typedef struct Field_HT {
+    struct LinkedList *buckets; /* Array of simply-linked buckets */ 
+    int hmax;
+    unsigned int (*hash_function)(void *);
+    int (*compare_function)(void *, void *);
+} Field_HT;
+
 void init_cit_ht(Citations_HT *ht);
 
 void add_citation(Citations_HT *ht, int64_t cited_paper_id);
@@ -78,5 +105,19 @@ void add_citation(Citations_HT *ht, int64_t cited_paper_id);
 int get_no_citations(Citations_HT *ht, int64_t paper_id);
 
 void free_cit_ht(Citations_HT *ht);
+
+
+void init_venue_ht(Venue_HT *ht);
+
+void add_venue(Venue_HT *ht, char *venue, int64_t id);
+
+void free_venue_ht(Venue_HT *ht);
+
+
+void init_field_ht(Field_HT *ht);
+
+void add_field(Field_HT *ht, char *field, int64_t id);
+
+void free_field_ht(Field_HT *ht);
 
 #endif /* DATA_STRUCTURES_H_ */
