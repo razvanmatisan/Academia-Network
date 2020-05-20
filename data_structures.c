@@ -242,16 +242,17 @@ int get_no_citations(Citations_HT *ht, int64_t paper_id) {
     }
     
     unsigned int hash = ht->hash_function(&paper_id) % ht->hmax;
-    struct LinkedList *bucket = &ht->buckets[hash];
+    struct Node *it = ht->buckets[hash].head;
 
-    struct Node *it = bucket->head;
+    //struct Node *it = bucket->head;
     while (it != NULL) {
         cited_paper *inside_data = (cited_paper *)it->data;
         // Key match
-        if (ht->compare_function(inside_data->id, &paper_id) == 0) {
+            // printf("%d %d\n", inside_data->id, paper_id);
+        if (compare_function_ints(inside_data->id, &paper_id) == 0) {
             return inside_data->citations;
         }
-    it = it->next;
+        it = it->next;
     }
 
     // Nothing found
@@ -389,13 +390,10 @@ void add_field(Field_HT *ht, char *field, int64_t id) {
     // Allocating memory for key
     new_paper->field = (char *)calloc(strlen(field) + 1, sizeof(char));
     DIE(new_paper->field == NULL, "new_paper->field");
-
-	field[strlen(field)] = '\0';
     
 	// long size = sizeof(field);
     memcpy(new_paper->field, field, (strlen(field) + 1) * sizeof(char)); // copying key
-
-	new_paper->id = id;
+    new_paper->id = id;
 
     // Add/chain => bascially appending to the current bucket
     add_last_node(bucket, new_paper);
