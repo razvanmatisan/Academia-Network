@@ -2,6 +2,7 @@
 #define DATA_STRUCTURES_H_
 
 #include <stddef.h>
+#include <stdint.h>
 
 #define HMAX 10000
 #define FIRST_CITATION 1
@@ -61,7 +62,7 @@ int compare_function_ints(void *a, void *b);
 /* Citations Hashtable
  * Key - ID
  * Value - No. Citations
- * Method - Linear Probing
+ * Method - Direct Chaining
  */
 typedef struct cited_paper {
     int64_t *id;
@@ -75,7 +76,19 @@ typedef struct Citations_HT {
     int (*compare_function)(void *, void *);
 } Citations_HT;
 
+void init_cit_ht(Citations_HT *ht);
 
+void add_citation(Citations_HT *ht, int64_t cited_paper_id);
+
+int get_no_citations(Citations_HT *ht, int64_t paper_id);
+
+void free_cit_ht(Citations_HT *ht);
+
+/* Venue Hashtable
+ * Key - Venue
+ * Value - Papers published at that venue
+ * Method - Direct Chaining
+ */
 typedef struct venue_paper {
     char *venue;
     int64_t id;
@@ -88,7 +101,17 @@ typedef struct Venue_HT {
     int (*compare_function)(void *, void *);
 } Venue_HT;
 
+void init_venue_ht(Venue_HT *ht);
 
+void add_venue(Venue_HT *ht, char *venue, int64_t id);
+
+void free_venue_ht(Venue_HT *ht);
+
+/* Field Hashtable
+ * Key - Field
+ * Value - Papers published wihtin that field
+ * Method - Direct Chaining
+ */
 typedef struct field_paper {
     char *field;
     int64_t id;
@@ -101,26 +124,34 @@ typedef struct Field_HT {
     int (*compare_function)(void *, void *);
 } Field_HT;
 
-void init_cit_ht(Citations_HT *ht);
-
-void add_citation(Citations_HT *ht, int64_t cited_paper_id);
-
-int get_no_citations(Citations_HT *ht, int64_t paper_id);
-
-void free_cit_ht(Citations_HT *ht);
-
-
-void init_venue_ht(Venue_HT *ht);
-
-void add_venue(Venue_HT *ht, char *venue, int64_t id);
-
-void free_venue_ht(Venue_HT *ht);
-
-
 void init_field_ht(Field_HT *ht);
 
 void add_field(Field_HT *ht, char *field, int64_t id);
 
 void free_field_ht(Field_HT *ht);
+
+/* Authors Hashtable
+ * Key - Author ID
+ * Value - Papers published by that author (represented by their ID)
+ * Method - Direct Chaining
+ */
+typedef struct authors_paper {
+    int64_t *author_id;
+    int64_t paper_id;
+    int paper_year;
+} authors_paper;
+
+typedef struct Authors_HT {
+    struct LinkedList *buckets; /* Array of simply-linked buckets */ 
+    int hmax;
+    unsigned int (*hash_function)(void *);
+    int (*compare_function)(void *, void *);
+} Authors_HT;
+
+void init_authors_ht(Authors_HT *ht);
+
+void add_author(Authors_HT *ht, int64_t author_id, int64_t paper_id, int paper_year);
+
+void free_author_ht(Authors_HT *ht);
 
 #endif /* DATA_STRUCTURES_H_ */
