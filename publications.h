@@ -3,6 +3,7 @@
 
 #include <stddef.h>
 #include <stdlib.h>
+#include <stdint.h>
 
 /**
  * If the assertion is true, the program is closed and the file and line number

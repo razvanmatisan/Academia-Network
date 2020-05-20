@@ -5,6 +5,10 @@
 #include "publications.h"
 #include "data_structures.h"
 
+#define CURR_YEAR 2020
+#define MAX_YEAR 5000
+#define INITIAL_HISTOGRAM_SIZE 1
+
 struct author {
     char *name;
     int64_t id;
@@ -35,9 +39,9 @@ struct publications_data {
     int (*compare_function)(void *, void *);
 
     Citations_HT *citations_ht;
-
     Venue_HT *venue_ht;
     Field_HT *field_ht;
+    Authors_HT *authors_ht;
 };
 
 void init_info(Info *publication, const char* title, const char* venue,
@@ -126,6 +130,10 @@ PublData* init_publ_data(void) {
     DIE(data->field_ht == NULL, "data->field_ht calloc");
     init_field_ht(data->field_ht);
 
+    data->authors_ht = calloc(1, sizeof(Authors_HT));
+    DIE(data->authors_ht == NULL, "data->authors_ht calloc");
+    init_authors_ht(data->authors_ht);
+
     return data;
 }
 
@@ -172,6 +180,7 @@ void destroy_publ_data(PublData* data) {
     free_cit_ht(data->citations_ht);
     free_venue_ht(data->venue_ht);
     free_field_ht(data->field_ht);
+    free_author_ht(data->authors_ht);
 
     // Freeing PublData as a whole
     free(data);
@@ -193,9 +202,7 @@ void add_paper(PublData* data, const char* title, const char* venue,
     Info *publication = calloc(1, sizeof(Info));
     init_info(publication, title, venue, year, author_names, author_ids, institutions, num_authors, fields, num_fields, id, references, num_refs);
 
-    // COPYING DATA
-
-    // Basic info
+    // Baisc info
     memcpy(publication->title, title, (strlen(title) + 1) * sizeof(char));
 
     memcpy(publication->venue, venue, (strlen(venue) + 1) * sizeof(char));
@@ -203,15 +210,18 @@ void add_paper(PublData* data, const char* title, const char* venue,
 
     publication->year = year;
 
-
-    // Authors
+    // No. authors
     publication->num_authors = num_authors;
 
     for (i = 0; i < publication->num_authors; i++) {
         Author *author = publication->authors[i];
 
+        // Author info
         memcpy(author->name, author_names[i], (strlen(author_names[i]) + 1) * sizeof(char));
+
         author->id = author_ids[i];
+        add_author(data->authors_ht, author_ids[i], id, year);
+
         memcpy(author->org, institutions[i], (strlen(institutions[i]) + 1) * sizeof(char));
     }
 
@@ -298,6 +308,7 @@ int compare_task1 (PublData *data, Info *challenger, Info *titleholder) {
 }
 
 
+/* DONE */
 char* get_oldest_influence(PublData* data, const int64_t id_paper) {
     // Initializing variables
     int i;
@@ -366,6 +377,7 @@ char* get_oldest_influence(PublData* data, const int64_t id_paper) {
     return "None";
 }
 
+/* DONE */
 float get_venue_impact_factor(PublData* data, const char* venue) {
     /* TODO: implement get_venue_impact_factor */
 
@@ -401,9 +413,9 @@ float get_venue_impact_factor(PublData* data, const char* venue) {
     return 0.f;
 }
 
+/* TODO: implement get_number_of_influenced_papers */
 int get_number_of_influenced_papers(PublData* data, const int64_t id_paper,
     const int distance) {
-    /* TODO: implement get_number_of_influenced_papers */
 
     int i;
     unsigned int hash;
@@ -471,7 +483,6 @@ int get_erdos_distance(PublData* data, const int64_t id1, const int64_t id2) {
 }
 /* ------------------------ Taskul 5 -------------------------- */
 int no_papers_with_field (Field_HT *field_ht, const char *field, int64_t *ids_with_field) {
-
     unsigned int hash = field_ht->hash_function(field) % field_ht->hmax;
     struct Node *curr = field_ht->buckets[hash].head;
     int i = 0;
@@ -512,7 +523,7 @@ char** get_most_cited_papers_by_field(PublData* data, const char* field,
     
     // free(ids_with_field);
     // return titles;
-    // return NULL;
+    return NULL;
 }
 
 /* ---------------------------- Taskul 6 ------------------------- */
@@ -549,13 +560,46 @@ int get_number_of_authors_with_field(PublData* data, const char* institution,
     return 0;
 }
 
+/* TODO: implement get_histogram_of_citations */
 int* get_histogram_of_citations(PublData* data, const int64_t id_author,
     int* num_years) {
-    /* TODO: implement get_histogram_of_citations */
+    // Initializing variables
+    int *histogram = calloc(INITIAL_HISTOGRAM_SIZE, sizeof(int)); // realloc la nevoie cu smart memsert
+    DIE(histogram == NULL, "histogram calloc");
+    
+    *num_years = INITIAL_HISTOGRAM_SIZE;
+    int min_year = MAX_YEAR;
 
-    *num_years = 0;
+    Authors_HT *ht = data->authors_ht;
+    unsigned int hash = ht->hash_function(&id_author) % ht->hmax;
+    struct Node *curr = ht->buckets[hash].head;
 
-    return NULL;
+    while (curr) {
+        authors_paper *publication = (authors_paper *) curr->data;
+        if(ht->compare_function(publication->author_id, &id_author) == 0) {
+            if (publication->paper_year < min_year) {
+                // Updating minimum year 
+                min_year = publication->paper_year;
+                // Updating num_years (histogram size)
+                int prev_size = *num_years;
+                *num_years = CURR_YEAR - min_year + 1;
+
+                // Resizing histogram
+                histogram = realloc(histogram, *num_years * sizeof(int));
+                DIE(histogram == NULL, "histogram realloc");
+                
+                // Memsetting new counts
+                memset(histogram + prev_size, 0, (*num_years - prev_size) * sizeof(int)); 
+            }
+            // Adding current paper's citations in its bin
+            int bin = CURR_YEAR - publication->paper_year;
+            int no_citations = get_no_citations(data->citations_ht, publication->paper_id);
+            histogram[bin] += no_citations;
+        }
+        curr = curr->next;
+    }
+
+    return histogram;
 }
 
 char** get_reading_order(PublData* data, const int64_t id_paper,

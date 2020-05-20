@@ -285,13 +285,12 @@ void free_cit_ht(Citations_HT *ht) {
 }
 
 /* Init + Add + Free pt Hashtable-urile pt taskurile 2, 5, 7 */
-
 void init_venue_ht(Venue_HT *ht) {
     if (ht == NULL) {
         return;
     }    
 
-    // Initializing citations HT
+    // Initializing venue HT
     ht->hmax = HMAX;
     ht->hash_function = hash_function_string;
     ht->compare_function = compare_function_strings;
@@ -319,7 +318,6 @@ void add_venue(Venue_HT *ht, char *venue, int64_t id) {
     DIE(new_paper == NULL, "add_venue -> new_paper malloc");
 
     // Allocating memory for key
-    //venue[strlen(venue)] = '\0';
 	new_paper->venue = calloc(strlen(venue) + 1, sizeof(char));
     DIE(new_paper->venue == NULL, "new_paper->venue");
 
@@ -361,7 +359,7 @@ void init_field_ht(struct Field_HT *ht) {
         return;
     }    
 
-    // Initializing citations HT
+    // Initializing field HT
     ht->hmax = HMAX;
     ht->hash_function = hash_function_string;
     ht->compare_function = compare_function_strings;
@@ -384,8 +382,6 @@ void add_field(Field_HT *ht, char *field, int64_t id) {
 
     unsigned int hash = ht->hash_function(field) % ht->hmax;
     struct LinkedList *bucket = &ht->buckets[hash];
-
-
 
     field_paper *new_paper = (field_paper *)malloc(sizeof(field_paper));
     DIE(new_paper == NULL, "add_field -> new_paper malloc");
@@ -422,6 +418,77 @@ void free_field_ht (Field_HT *ht) {
 
             field_paper *inside_data = (field_paper *)prev->data;
             free(inside_data->field);
+            free(inside_data);
+            free(prev);
+        }
+    }
+
+    free(ht->buckets);
+    free(ht);
+}
+
+void init_authors_ht(Authors_HT *ht) {
+    if (ht == NULL) {
+        return;
+    }
+
+    // Initializing authors HT
+    ht->hmax = HMAX;
+    ht->hash_function = hash_function_int;
+    ht->compare_function = compare_function_ints;
+
+    // Initializing buckets
+    ht->buckets = calloc(ht->hmax, sizeof(struct LinkedList));
+    DIE(ht->buckets == NULL, "Authors_HT: ht->buckets");
+
+    int i;
+    for (i = 0; i < ht->hmax; i++) {
+        init_list(&ht->buckets[i]);
+    }
+}
+
+void add_author(Authors_HT *ht, int64_t author_id, int64_t paper_id, int paper_year) {
+    if (ht == NULL) {
+        return;
+    }
+
+    unsigned int hash = ht->hash_function(&author_id) % ht->hmax;
+    struct LinkedList *bucket = &ht->buckets[hash];
+
+    authors_paper *new_author = (authors_paper *)calloc(1, sizeof(authors_paper));
+    DIE(new_author == NULL, "add_author->new_author calloc");
+
+    // Allocating memory for key
+	new_author->author_id = calloc(1, sizeof(int64_t));
+    DIE(new_author->author_id == NULL, "new_author->author_id calloc");
+
+    memcpy(new_author->author_id, &author_id, sizeof(int64_t)); // copying key
+	
+    // Values
+    new_author->paper_id = paper_id;
+    new_author->paper_year = paper_year;
+
+    // Add/chain => bascially appending to the current bucket
+    add_last_node(bucket, new_author);
+}
+
+void free_author_ht(Authors_HT *ht) {
+    if (ht == NULL) {
+        return;
+    }
+
+    int i;
+    for (i = 0; i < ht->hmax; i++) {
+        struct LinkedList *bucket = &ht->buckets[i];
+        struct Node *it = bucket->head;
+        
+        struct Node *prev;
+        while (it != NULL) {
+            prev = it;
+            it = it->next;
+
+            authors_paper *inside_data = (authors_paper *)prev->data;
+            free(inside_data->author_id);
             free(inside_data);
             free(prev);
         }
