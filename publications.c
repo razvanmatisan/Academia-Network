@@ -497,7 +497,6 @@ int get_erdos_distance(PublData* data, const int64_t id1, const int64_t id2) {
 
 /* ------------------------ Taskul 5 -------------------------- */
 int no_papers_with_field (Field_HT *field_ht, const char *field, int64_t ids_with_field[NMAX]) {
-
     unsigned int hash = field_ht->hash_function(field) % field_ht->hmax;
     struct Node *curr = field_ht->buckets[hash].head;
     int i = 0;
@@ -542,6 +541,7 @@ char** get_most_cited_papers_by_field(PublData* data, const char* field,
     int* num_papers) {
     /* TODO: implement get_most_cited_papers_by_field */
 
+    int i, j;
     int64_t ids_with_field[NMAX];
     int no_ids = no_papers_with_field(data->field_ht, field, ids_with_field);
 
@@ -558,14 +558,14 @@ char** get_most_cited_papers_by_field(PublData* data, const char* field,
     int num = *(int *)num_papers;
 
     char **titles = calloc(num, sizeof(char *));
-    for (int i = 0; i < num; i++) {
+    for (i = 0; i < num; i++) {
         titles[i] = calloc(LEN_TITLE, sizeof(char));
     }
 
-    /* Sorting */
-    for (int i = 0; i < no_ids - 1; i++) {
+    /* REPLACE WITH A QUICKSORT */
+    for (i = 0; i < no_ids - 1; i++) {
         Info *publication1 = find_paper_with_id(data, ids_with_field[i]);
-        for (int j = i + 1; j < no_ids; j++) {
+        for (j = i + 1; j < no_ids; j++) {
             Info *publication2 = find_paper_with_id(data, ids_with_field[j]);
             if (compare_task5(data, publication2, publication1) > 0) {
                 swap(&ids_with_field[i], &ids_with_field[j]);
@@ -573,7 +573,7 @@ char** get_most_cited_papers_by_field(PublData* data, const char* field,
         }
     }
 
-    for (int i = 0; i < num; i++) {
+    for (i = 0; i < num; i++) {
         Info *publication = find_paper_with_id(data, ids_with_field[i]);
         memcpy(titles[i], publication->title, (strlen(publication->title) + 1) * sizeof(char));
     }
@@ -611,7 +611,9 @@ int get_number_of_papers_between_dates(PublData* data, const int early_date,
 
 /* ------------------  Taskul 7  ---------------------------------*/
 int is_in_array (char *arr_to_find, char **arr, int length) {
-    for (int i = 0; i < length; i++) {
+    int i;
+
+    for (i = 0; i < length; i++) {
         if (!strcmp(arr[i], arr_to_find)) {
             return 1;
         }
@@ -619,9 +621,11 @@ int is_in_array (char *arr_to_find, char **arr, int length) {
     return 0;
 }
 
+/* TLE test 1 */
 int get_number_of_authors_with_field(PublData* data, const char* institution,
     const char* field) {
     /* TODO: implement get_number_of_authors_with_field */
+    int i, j;
     int cnt = 0;
 
     int64_t ids_with_field[NMAX];
@@ -630,14 +634,14 @@ int get_number_of_authors_with_field(PublData* data, const char* institution,
     char **author_names = calloc(NMAX, sizeof(char *));
     DIE(author_names == NULL, "author_names malloc");
 
-    for (int i = 0; i < MAX_AUTHORS; i++) {
+    for (i = 0; i < MAX_AUTHORS; i++) {
         author_names[i] = calloc(LEN_NAME, sizeof(char));
         DIE(author_names[i] == NULL, "author_names[i] malloc");
     }
 
-    for (int i = 0; i < no_ids; i++) {
+    for (i = 0; i < no_ids; i++) {
         Info *publication = find_paper_with_id(data, ids_with_field[i]);
-        for (int j = 0; j < publication->num_authors; j++) {
+        for (j = 0; j < publication->num_authors; j++) {
             Author *author = publication->authors[j];
             if (!strcmp(author->org, institution) && !is_in_array(author->name, author_names, cnt + 1)) {
                 memcpy(author_names[cnt], author->name, (strlen(author->name) + 1) * sizeof(char));
@@ -646,7 +650,7 @@ int get_number_of_authors_with_field(PublData* data, const char* institution,
         }
     }
 
-    for (int i = 0; i < MAX_AUTHORS; i++) {
+    for (i = 0; i < MAX_AUTHORS; i++) {
         free(author_names[i]);
     }
     free(author_names);

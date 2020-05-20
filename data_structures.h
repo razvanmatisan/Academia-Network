@@ -8,7 +8,7 @@
 #define FIRST_CITATION 1
 #define LEN_TITLE 300
 #define LEN_NAME 300
-#define MAX_AUTHORS 1000
+#define MAX_AUTHORS 100
 #define NMAX 20000
 
 /* LinkedList */
