@@ -8,6 +8,8 @@
 #define CURR_YEAR 2020
 #define MAX_YEAR 5000
 #define INITIAL_HISTOGRAM_SIZE 1
+#define DEBUG_ID 1595249433
+// 2075348548
 
 struct author {
     char *name;
@@ -42,6 +44,7 @@ struct publications_data {
     Venue_HT *venue_ht;
     Field_HT *field_ht;
     Authors_HT *authors_ht;
+    Influence_HT *influence_ht;
 };
 
 void init_info(Info *publication, const char* title, const char* venue,
@@ -134,6 +137,10 @@ PublData* init_publ_data(void) {
     DIE(data->authors_ht == NULL, "data->authors_ht calloc");
     init_authors_ht(data->authors_ht);
 
+    data->influence_ht = calloc(1, sizeof(Influence_HT));
+    DIE(data->influence_ht == NULL, "data->influence_ht calloc");
+    init_influence_ht(data->influence_ht);
+
     return data;
 }
 
@@ -181,6 +188,7 @@ void destroy_publ_data(PublData* data) {
     free_venue_ht(data->venue_ht);
     free_field_ht(data->field_ht);
     free_author_ht(data->authors_ht);
+    free_influence_ht(data->influence_ht);
 
     // Freeing PublData as a whole
     free(data);
@@ -197,6 +205,7 @@ void add_paper(PublData* data, const char* title, const char* venue,
     if (data == NULL) {
         return;
     }
+
 
     // Initializing data
     Info *publication = calloc(1, sizeof(Info));
@@ -238,6 +247,7 @@ void add_paper(PublData* data, const char* title, const char* venue,
     for (i = 0; i < num_refs; i++) {
         publication->references[i] = references[i];
         add_citation(data->citations_ht, references[i]);
+        add_influence(data->influence_ht, references[i], id);
     }
 
     // Package & Send
@@ -413,67 +423,70 @@ float get_venue_impact_factor(PublData* data, const char* venue) {
     return 0.f;
 }
 
-/* TODO: implement get_number_of_influenced_papers */
+/* TOFIX: implement get_number_of_influenced_papers */
 int get_number_of_influenced_papers(PublData* data, const int64_t id_paper,
     const int distance) {
+    // unsigned int hash;
+    // Influence_HT *ht = data->influence_ht;
 
-    int i;
-    unsigned int hash;
-    struct Node *curr;
-    Info *publication, *vertex;
+    // int cnt = 0;
+    // int curr_dist = 0;
 
-    int cnt = 0;
-    int curr_distance = 0;
+    // struct Queue *q = malloc(sizeof(struct Queue));
+    // init_q(q);
 
-    struct Queue *q = malloc(sizeof(struct Queue));
-    init_q(q);
+    // /* 
+    //  * Enqueing the given paper
+    //  * Marking it as visited
+    //  */
+    // Info *starting_paper = find_paper_with_id(data, id_paper);
+    // enqueue(q, starting_paper);
+    // starting_paper->ok = 1;
+    // starting_paper->distance = curr_dist;
 
-    /* 
-     * Enqueing the given paper
-     * Marking it as visited
-     */
-    Info *starting_paper = find_paper_with_id(data, id_paper);
-    enqueue(q, starting_paper);
-    starting_paper->ok = 1;
-    starting_paper->distance = curr_distance;
+    // // BFS
+    // while(curr_dist <= distance || !is_empty_q(q)) {
+    //     Info *influencer = (Info *)front(q);
+    //     int64_t influencer_id = influencer->id;
 
-    while(curr_distance <= distance || !is_empty_q(q)) {
-        vertex = (Info *)front(q);
-        dequeue(q);
+    //     hash = ht->hash_function(&influencer_id) % ht->hmax;
+    //     struct LinkedList *bucket = &ht->buckets[hash];
+    //     struct Node *it = bucket->head;
 
-        // Searching for further references through the vertex's references
-        for (i = 0; i < vertex->num_refs; i++) {
-            hash = data->hash_function(&vertex->references[i]) % data->hmax;
-            curr = data->buckets[hash]->head;
+    //     printf("INFLUENCER: %d\n", influencer_id);
+    //     // Iterating through the infleuncer's imitators
+    //     while (it) {
+    //         influenced_paper *imitator = it->data;
+    //         printf("I am %d\n", imitator->value);
+    //         printf("I am influenced by %lld\n", *(imitator->key));
+    //         if(ht->compare_function(imitator->key, &influencer_id) == 0) {
+    //             Info *imitator_paper = find_paper_with_id(data, imitator->value);
+    //             // New immitant found
+    //             if (!imitator_paper->ok) {
+    //                 enqueue(q, imitator_paper);
+    //                 imitator_paper->ok = 1;
+    //                 imitator_paper->distance = influencer->distance + 1;
+                    
+    //                 if (imitator_paper->distance > curr_dist) {
+    //                     curr_dist = imitator_paper->distance; // updating distance
+    //                 }
 
-            while (curr) {
-                publication = (Info *) curr->data;
+    //                 cnt++; // updating imitators count
 
-                if (publication->id == vertex->references[i]) {
-                    if (!publication->ok) {
-                        // Unvisited reference found
-                        enqueue(q, publication);
-                        publication->ok = 1;
-                        publication->distance = curr_distance + 1;
-                        cnt++;
-                    }
-                    break;
-                }
-                curr = curr->next;
-            }
-        }
-        vertex = (Info *) front(q);
-        if (vertex == NULL) {
-            break;
-        }
-        curr_distance = vertex->distance;
-    }
+    //             }
+    //         }            
+    //         it = it->next;
+    //     }
 
-    purge_q(q);
-    free(q);
-    free_aux_data(data, starting_paper);
+    //     dequeue(q); // done with it
+    // }
 
-    return cnt;
+    // purge_q(q);
+    // free(q);
+    // free_aux_data(data, starting_paper);
+
+    // return cnt;
+    return 0;
 }
 
 int get_erdos_distance(PublData* data, const int64_t id1, const int64_t id2) {
@@ -560,7 +573,7 @@ int get_number_of_authors_with_field(PublData* data, const char* institution,
     return 0;
 }
 
-/* TODO: implement get_histogram_of_citations */
+/* DONE */
 int* get_histogram_of_citations(PublData* data, const int64_t id_author,
     int* num_years) {
     // Initializing variables

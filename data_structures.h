@@ -134,8 +134,8 @@ void free_field_ht(Field_HT *ht);
  */
 typedef struct authors_paper {
     int64_t *author_id;
-    int64_t paper_id;
-    int paper_year;
+    int64_t paper_id; //
+    int paper_year;   // these two could be unified
 } authors_paper;
 
 typedef struct Authors_HT {
@@ -150,5 +150,28 @@ void init_authors_ht(Authors_HT *ht);
 void add_author(Authors_HT *ht, int64_t author_id, int64_t paper_id, int paper_year);
 
 void free_author_ht(Authors_HT *ht);
+
+/* Influenced Papers Hashtable
+ * Key - Paper X (ID)
+ * Value - Papers which X influences (IDs)
+ * Method - Direct Chaining
+ */
+typedef struct influenced_paper {
+    int64_t *key; // influencer paper id
+    int64_t value; // influenced paper id
+} influenced_paper;
+
+typedef struct Influence_HT {
+    struct LinkedList *buckets; /* Array of simply-linked buckets */
+    int hmax;
+    unsigned int (*hash_function)(void *);
+    int (*compare_function)(void *, void *);
+} Influence_HT;
+
+void init_influence_ht(Influence_HT *ht);
+
+void add_influence(Influence_HT *ht, int64_t influencer_id, int64_t imitator_id);
+
+void free_influence_ht(Influence_HT *ht);
 
 #endif /* DATA_STRUCTURES_H_ */
