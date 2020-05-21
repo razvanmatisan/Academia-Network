@@ -4,7 +4,8 @@
 #include <stddef.h>
 #include <stdint.h>
 
-#define HMAX 10000
+#define HMAX_BIG 5003
+#define HMAX_SMALL 503
 #define FIRST_CITATION 1
 #define LEN_TITLE 300
 #define LEN_NAME 300
@@ -179,5 +180,31 @@ void add_influence(Influence_HT *ht, int64_t influencer_id,
                    int64_t imitator_id);
 
 void free_influence_ht(Influence_HT *ht);
+
+/* Markings Hashtable
+ * Key - Paper ID
+ * Value(s) - visited status & distance to origin
+ * Method - Direct Chaining
+ */
+typedef struct marking {
+  int64_t *id;
+  int visited;
+  int distance;
+} marking;
+
+typedef struct Markings_HT {
+  struct LinkedList *buckets; /* Array of simply-linked buckets */
+  int hmax;
+  unsigned int (*hash_function)(void *);
+  int (*compare_function)(void *, void *);
+} Markings_HT;
+
+void init_markings_ht(Markings_HT *ht);
+
+void add_marking(Markings_HT *ht, int64_t paper_id, int new_distance);
+
+marking *get_markings(Markings_HT *ht, int64_t paper_id);
+
+void free_markings_ht(Markings_HT *ht);
 
 #endif /* DATA_STRUCTURES_H_ */

@@ -185,7 +185,7 @@ void init_cit_ht(struct Citations_HT *ht) {
     }    
 
     // Initializing citations HT
-    ht->hmax = HMAX;
+    ht->hmax = HMAX_BIG;
     ht->hash_function = hash_function_int;
     ht->compare_function = compare_function_ints;
 
@@ -290,7 +290,7 @@ void init_venue_ht(Venue_HT *ht) {
     }    
 
     // Initializing venue HT
-    ht->hmax = HMAX;
+    ht->hmax = HMAX_SMALL;
     ht->hash_function = hash_function_string;
     ht->compare_function = compare_function_strings;
 
@@ -359,7 +359,7 @@ void init_field_ht(struct Field_HT *ht) {
     }    
 
     // Initializing field HT
-    ht->hmax = HMAX;
+    ht->hmax = HMAX_SMALL;
     ht->hash_function = hash_function_string;
     ht->compare_function = compare_function_strings;
 
@@ -429,7 +429,7 @@ void init_authors_ht(Authors_HT *ht) {
     }
 
     // Initializing authors HT
-    ht->hmax = HMAX;
+    ht->hmax = HMAX_SMALL;
     ht->hash_function = hash_function_int;
     ht->compare_function = compare_function_ints;
 
@@ -500,7 +500,7 @@ void init_influence_ht(Influence_HT *ht) {
     }
 
     // Initializing authors HT
-    ht->hmax = HMAX;
+    ht->hmax = HMAX_BIG;
     ht->hash_function = hash_function_int;
     ht->compare_function = compare_function_ints;
 
@@ -562,4 +562,98 @@ void free_influence_ht(Influence_HT *ht) {
 
     free(ht->buckets);
     free(ht);
+}
+
+void init_markings_ht(Markings_HT *ht) {
+     if (ht == NULL) {
+        return;
+    }
+
+    // Initializing authors HT
+    ht->hmax = HMAX_BIG;
+    ht->hash_function = hash_function_int;
+    ht->compare_function = compare_function_ints;
+
+    // Initializing buckets
+    ht->buckets = calloc(ht->hmax, sizeof(struct LinkedList));
+    DIE(ht->buckets == NULL, "Authors_HT: ht->buckets");
+
+    int i;
+    for (i = 0; i < ht->hmax; i++) {
+        init_list(&ht->buckets[i]);
+    }   
+}
+
+void add_marking(Markings_HT *ht, int64_t paper_id, int new_distance) {
+    if (ht == NULL) {
+        return;
+    }
+
+    unsigned int hash = ht->hash_function(&paper_id) % ht->hmax;
+    struct LinkedList *bucket = &ht->buckets[hash];
+
+    // Each marking is unique
+    struct marking *new_marking = malloc(sizeof(marking));
+    DIE(new_marking == NULL, "add_marking -> new_marking malloc");
+
+    // Allocating memory for key
+    new_marking->id = malloc(sizeof(marking));
+    DIE(new_marking->id == NULL, "new_marking->id");
+    
+    memcpy(new_marking->id, &paper_id, sizeof(paper_id)); // copying key
+    new_marking->visited = 1;
+    new_marking->distance = new_distance;
+
+    // Add/chain => bascially appending to the current bucket
+    add_last_node(bucket, new_marking);    
+}
+
+marking *get_markings(Markings_HT *ht, int64_t paper_id) {
+    if (ht == NULL) {
+        return NULL;
+    }
+
+    unsigned int hash = ht->hash_function(&paper_id) % ht->hmax;
+    struct LinkedList *bucket = &ht->buckets[hash];
+
+    struct Node *it = bucket->head;
+
+    // Iterating through the bucket until keymatch
+    while (it) {
+        marking *inside_data = (marking *)it->data;
+        // Key match
+        if (ht->compare_function(inside_data->id, &paper_id) == 0) {
+            return inside_data;
+        }
+        it = it->next;
+    }
+
+    // Nothing found
+    return NULL;
+}
+
+void free_markings_ht(Markings_HT *ht) {
+    if (ht == NULL) {
+        return;
+    }
+
+    int i;
+    for (i = 0; i < ht->hmax; i++) {
+        struct LinkedList *bucket = &ht->buckets[i];
+        struct Node *it = bucket->head;
+        
+        struct Node *prev;
+        while (it != NULL) {
+            prev = it;
+            it = it->next;
+
+            marking *inside_data = (marking *)prev->data;
+            free(inside_data->id);
+            free(inside_data);
+            free(prev);
+        }
+    }
+
+    free(ht->buckets);
+    free(ht);   
 }

@@ -6,9 +6,8 @@
 #include "data_structures.h"
 #include "publications.h"
 
-#define MAX_PAPER_ID 2000000000
 #define CURR_YEAR 2020
-#define MAX_YEAR 5000
+#define MAX_YEAR 2050
 #define INITIAL_HISTOGRAM_SIZE 1
 #define VISITED 1
 #define UNVISITED 0
@@ -47,6 +46,7 @@ struct publications_data {
   Field_HT *field_ht;
   Authors_HT *authors_ht;
   Influence_HT *influence_ht;
+  Markings_HT *markings_ht;
 };
 
 void init_info(Paper *publication, const char *title, const char *venue,
@@ -108,10 +108,10 @@ PublData *init_publ_data(void) {
   int i;
 
   // Initialising data hashtable
-  data->buckets = calloc(HMAX, sizeof(struct LinkedList *));
+  data->buckets = calloc(HMAX_BIG, sizeof(struct LinkedList *));
   DIE(data->buckets == NULL, "data->buckets malloc");
 
-  data->hmax = HMAX;
+  data->hmax = HMAX_BIG;
   data->hash_function = hash_function_int;
   data->compare_function = compare_function_ints;
 
@@ -430,93 +430,88 @@ float get_venue_impact_factor(PublData *data, const char *venue) {
   return 0.f;
 }
 
-// influenced_paper *find_influenced_paper_with_id(PublData *data, int64_t influencer_id, int64_t target_id) {
-//   Influence_HT *ht = data->influence_ht;
-//   unsigned hash = ht->hash_function(&influencer_id) % ht->hmax;
-//   struct Node *curr = ht->buckets[hash].head;
-
-//   while (curr) {
-//     influenced_paper *publication = (influenced_paper *)curr->data;
-//     if (publication->value == target_id) {
-//       return publication;
-//     }
-//     curr = curr->next;
-//   } 
-
-//   // Nothing found
-//   return NULL; 
-// }
-
 /* TOFIX: implement get_number_of_influenced_papers */
 int get_number_of_influenced_papers(PublData *data, const int64_t id_paper, const int max_dist) {
-  // // Initializing variables
-  // unsigned int hash;
-  // struct Node *curr;
-  // int64_t influencer_id;
-  // influenced_paper *imitator;
-  // Influence_HT *ht = data->influence_ht;
+  // Initializing variables
+  unsigned int hash;
+  struct Node *curr;
+  int64_t influencer_id;
+  influenced_paper *imitator;
+  Influence_HT *ht = data->influence_ht;
 
-  // /**
-  //  * Using two 2GB arrays. Desperate times.
-  //  * ! Replace with a Marking_HT, right here (for visited)
-  //  */
-  // int visited[MAX_PAPER_ID];
-  // int dist_to_origin[MAX_PAPER_ID];
-  // memset(visited, 0, sizeof(visited));
-  // memset(dist_to_origin, 0, sizeof(dist_to_origin));
+  // Initializing markings HT
+  data->markings_ht = calloc(1, sizeof(Markings_HT));
+  DIE(data->markings_ht == NULL, "data->markings_ht calloc");
+  init_markings_ht(data->markings_ht);
 
-  // int curr_dist = 0;
-  // int cnt = 0;
+  // Distance & count
+  int curr_dist = 0;
+  int cnt = 0;
 
-  // struct Queue *q = malloc(sizeof(struct Queue));
-  // init_q(q);
+  // Queue
+  struct Queue *q = malloc(sizeof(struct Queue));
+  init_q(q);
 
-  // /*
-  //  * Queue - contains influencers' IDs
-  //  * First Influencer - starting paper
-  //  */
-  // enqueue(q, &id_paper);
+  /*
+   * Queue - contains influencers' IDs
+   * First Influencer - starting paper
+   */
+  enqueue(q, &id_paper);
+  add_marking(data->markings_ht, id_paper, 0);
 
-  // // BFS-style search
-  // while (curr_dist <= max_dist && !is_empty_q(q)) {
-  //   influencer_id = *(int64_t *)front(q);
+  // BFS-style search
+  while (curr_dist <= max_dist && !is_empty_q(q)) {
+    influencer_id = *(int64_t *)front(q);
 
-  //     // Searching for further imitators through the influencer's list
-  //     hash = ht->hash_function(&influencer_id) % ht->hmax;
-  //     curr = ht->buckets[hash].head;
+      // Searching for further imitators through the influencer's list
+      hash = ht->hash_function(&influencer_id) % ht->hmax;
+      curr = ht->buckets[hash].head;
 
-  //     while (curr) {
-  //       imitator = (influenced_paper *)curr->data;
+      while (curr) {
+        imitator = (influenced_paper *)curr->data;
         
-  //       if (ht->compare_function(&influencer_id, imitator->key) == 0) {
-  //         if (!visited[imitator->value]) {
-  //           // Unvisited imitator (future influencer) found
-  //           enqueue(q, &imitator->value);
-  //           visited[imitator->value] = VISITED;
-  //           dist_to_origin[imitator->value] = dist_to_origin[influencer_id] + 1;
+        if (ht->compare_function(&influencer_id, imitator->key) == 0) {
+          marking *imitator_status = get_markings(data->markings_ht, imitator->value);
+          
+          // Unvisited imitator found
+          if (!imitator_status) {
+            enqueue(q, &imitator->value);
             
-  //           if (dist_to_origin[imitator->value] > curr_dist) {
-  //               curr_dist = dist_to_origin[imitator->value];
-  //           }
+            // Calculate_distance from imitator to origin
+            marking *influencer_status = get_markings(data->markings_ht, influencer_id);
+            int imitator_dist = influencer_status->distance + 1;
 
-  //           cnt++;
-  //         }
-  //         break;
+            // Mark imitator as visited
+            add_marking(data->markings_ht, imitator->value, imitator_dist);
+            
+            // Updating overall distance from origin
+            if (imitator_dist > curr_dist) {
+              curr_dist = imitator_dist;
+            }
 
-  //       // Going further down the influencer's list
-  //       curr = curr->next;
-  //     }
-  //   }
-  //   // Done with current influencer
-  //   dequeue(q);
-  // }
+            // Avoiding the increase of count if max_distance is surpassed
+            if (curr_dist > max_dist) {
+              break;
+            }
 
-  // // Freeing allocated memory
-  // purge_q(q);
-  // free(q);
+            // Increasing influence count
+            cnt++;
+          }
+        }
+      // Going further down the influencer's list
+      curr = curr->next;
+    }
 
-  // return cnt;
-  return -1;
+    // Done with current influencer
+    dequeue(q);
+  }
+
+  // Freeing allocated memory
+  free_markings_ht(data->markings_ht);
+  purge_q(q);
+  free(q);
+
+  return cnt;
 }
 
 int get_erdos_distance(PublData *data, const int64_t id1, const int64_t id2) {
@@ -718,8 +713,7 @@ int *get_histogram_of_citations(PublData *data, const int64_t id_author,
         DIE(histogram == NULL, "histogram realloc");
 
         // Memsetting new counts
-        memset(histogram + prev_size, 0,
-               (*num_years - prev_size) * sizeof(int));
+        memset(histogram + prev_size, 0, (*num_years - prev_size) * sizeof(int));
       }
       // Adding current paper's citations in its bin
       int bin = CURR_YEAR - publication->paper_year;
