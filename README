@@ -2,8 +2,8 @@
 
 Studenti:
 
-+ Razvan-Andrei Matisan  
-+ Radu-Stefan Minea
++ Razvan-Andrei Matisan - razvan_andrei.matisan@stud.acs.upb.ro
++ Radu-Stefan Minea     - radu_stefan.minea@stud.acs.upb.ro 
 
 Seria: CA
 Grupa: 314CA
@@ -21,24 +21,73 @@ Programul raspunde la query-uri folosind cele mai recente date salvate.
 ## Structura proiectului
 
 Rezolvarea temei este impartita pe mai multe fisiere .c sau .h care sunt
-compilate de un fisier Makefile. Acestea sunt:
+compilate de un fisier Makefile. Acestea contin urmatoarele implementari:
 
-+ LinkedList.c + .h -> contin implementarea unei liste simplu inlantuite
++ LinkedList.c + .h -> lista simplu inlantuite
 
-+ Queue.c + .h -> contin implementarea unei cozi
++ Queue.c + .h -> coada
 
-+ Hashtables.c + .h -> contin implementarile tuturor hashtable-urilor folosite
++ Hashtables.c + .h -> toate hashtable-urile auxiliare
 
-+ utils.c + .h -> contin implementarile functiilor auxiliare, folosite pentru 
-rezolvarea taskurilor.
++ utils.c + .h -> functiile auxiliare, folosite pentru rezolvarea taskurilor
 
 + publications.c + .h -> contin atat definirea structurii de date PublData, cat
 si rezolvarile propriu-zise ale taskurilor.
 
 ===============================================================================
+## Structuri de date folosite
+
+Multe, muulte hashtable-uri + un graf "mascat"!
+
+* Citations_HT
+    + Key - ID-ul paper-urilor
+    + Content - de cate ori a fost citat un paper anume
+
+* Venue_HT
+    + Key - venue-ul X
+    + Content - ce paper-uri au fost publicate la venue-ul X
+
+* Field_HT
+    + Key - field-ul X
+    + Content - paper-uri au fost publicate in field-ul X
+
+* Authors_HT
+    + Key - ID-ul autorului X
+    + Content - ce paper-uri a publicat autorul X (dar si anul publicarii 
+    acestora, pentru a rezolva task-ul mai usor si mai eficient)
+
+* Influence_HT - un graf simulat:
+    + Key - ID-ul paper-urului X
+    + Content - "vecinii" sunt paper-urile ce au fost infleuntate de paper-ul X
+        - Exemplu: [X] -> A -> B -> C -> NULL
+        - Paper-ul X a influentat paper-urile A, B si C.
+
+* Markings_HT
+    + Key - ID-ul paper-urilor
+    + Content - arata daca un paper este viziat (visited) pentru parcurgerile
+    BFS, dar si distanta catre origine (pentru get_number_of_influenced_papers)
+
+* "Papers_HT"
+    + PublData contine, pe langa hashtable-urile auxiliare (Influenced,
+    Citations etc.) un hashtable "mare":
+        - Key - ID-ul paper-urilor
+        - Content - structura de tip "paper" continand toate datele despre un
+        paper anume (title, year, etc.)
+
+* Coada
+    + Pentru parcugeri de tip BFS
+    + Se bazeaza pe liste inlantuite
+
+* LinkedList - optimizate masiv, in felul urmator:
+    + Adaugarile (la cozi, la hashtable-uri) se fac mereu la finalul listei,
+    asa ca m-am folosit de pointerul taskurilor
+    + Remove-urile se fac mereu de la inceputul listei (dequeue de la coada),
+    asa ca pentru remove am tratat exclusiv acest caz
+
+===============================================================================
 ## Rezolvarea task-urilor
 
-### Task 1
+~~~~~~~~~ Task 1 ~~~~~~~~~
 
 Cheia rezolvarii taskului 1 este o parcurgere BFS, pornind de la primul paper
 identificat prin id-ul dat ca parametru.
@@ -64,7 +113,8 @@ pentru a reinitializa cu 0 toate ok-urile.
 In cazul in care oldest_influence NU este NULL, returnam titlul paper-ului.
 Altfel, returnam "None"
 
-### Task 2
+~~~~~~~~~ Task 2 ~~~~~~~~~
+
 Pentru rezolvarea acestei cerinte, ne-am folosit de Venue_HT
 (hashtable ce are drept key = venue si value = id-ul paper-ului), inclus in
 PublData.
@@ -79,11 +129,33 @@ pentru a returna ceea ce ne dorim.
 Adunam toate citarile si numarul de paper-uri cu venue specific, facem media
 si returnam rezultatul dorit.
 
-### Task 3 - get_number_of_influenced_papers
-- Radu
-### Task 6
-- Radu
-### Task 7
+~~~~~~~~~ Task 3 ~~~~~~~~~
+
+Numarul de paper-uri influentate de un autor "to a certain degree" (pana la
+distanta max_dist) il aflam printr-un BFS prin Influence_HT, unde:
+    + Nodul este un autor ("influencer")
+    + Vecinii acestuia sunt cei pe care i-a influentat ("imitator")
+
+Parcurgem aceste liste printr-un BFS implementat cu ajutorul unei cozi.
+
+Pentru a retine parametrul "visited" si distanta pana la origine, am folosit
+structura Markings_HT. Aceasta:
+    + Se initializeaza la inceputul task-ului
+    + Se actualizeaza de fiecare data cand un imitator nevizitat este intalnit
+        - distance_to_origin(imitator) = distance_to_origin(influencer) + 1 
+    + Memoria se elibereaza la finalul task-ului
+
+~~~~~~~~~ Task 6 ~~~~~~~~~- 
+
+Implementarea este foarte ineficienta, pentru ca iteram prin tot Papers_HT
+(unde se afla TOATE paper-urile introduse) pentru a le gasi pe cele 
+publicate intre cele doua date.
+
+Mai eficient - puteam folosi un arbore binar de cautare (BST), precum un
+Treap sau un Red-Black Tree.
+
+~~~~~~~~~ Task 7 ~~~~~~~~~
+
 Pentru rezolvarea acestei cerinte, ne-am folosit de Field_HT
 (hashtable ce are drept key = field si value = id-ul paper-ului), inclus in
 PublData.
@@ -91,7 +163,9 @@ PublData.
 Cautarea paper-urilor se limiteaza, astfel, in a cauta intr-o lista simplu
 inlantuita toate id-urile corespunzatoare venue-ului dorit.
 
-Pentru modularizare, am creat functia ids_with_field care adauga intr-un vector toate id-urile paper-urilor despre un field anume si returneaza numarul de elemente introduse in acesta.
+Pentru modularizare, am creat functia ids_with_field care adauga intr-un 
+vector toate id-urile paper-urilor despre un field anume si returneaza 
+numarul de elemente introduse in acesta.
 
 Mai departe, am parcurs acest vector si am numarat pentru fiecare paper in
 parte (returnat folosind functia find_paper_with_id) numarul de autori care
@@ -100,20 +174,23 @@ fac parte de la institutia data ca parametru al functiei.
 Am avut grija sa nu numaram de doua ori un autor, retinand numele tuturor
 autorilor luati in considerare intr-un vector de stringuri.
 
-### Task 8
-- Radu
+~~~~~~~~~ Task 8 ~~~~~~~~~
 
-===============================================================================
-## Structuri de date folosite
+Folosim un Hashtable de autori (Authors_HT) pentru a stii exact ce paper-uri
+a publicat autorul respectiv, dar si in ce an.
+
+Histograma se aloca initial ca un vector cu un singur element.
+    + Realocarea se face in functie de anul minim al paper-urilor publicate de
+    de autorul dat
+    + Dupa realocare, initializam cu 0 slot-urile nou adaugate prin memset
+    + Numarul de citari, dat de functia get_no_citations()
 
 ===============================================================================
 ## Limitari
 
-+ Warning-uri de te plictisesti.
++ Multe warning-uri de compilare
 
 + #include-uri in plus
 
-+ PublData cu field-uri inutile (care se folosesc doar in cadrul ht-urilor mici, nu si in PublData as a whole)
-
-===============================================================================
-## Observatii
++ PublData cu field-uri inutile (care se folosesc doar in cadrul ht-urilor
+mici, nu si in Papers_HT)

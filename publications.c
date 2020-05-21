@@ -453,7 +453,6 @@ int get_number_of_papers_between_dates(PublData *data, const int early_date,
 /* ------------------  Task 7  ---------------------------------*/
 int get_number_of_authors_with_field(PublData *data, const char *institution,
                                      const char *field) {
-  /* TODO: implement get_number_of_authors_with_field */
   int i, j;
   int cnt = 0;
 
