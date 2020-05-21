@@ -125,7 +125,6 @@ int compare_task1(PublData *data, Paper *challenger, Paper *titleholder) {
 /* --------------------- Pentru Taskul 5 ------------------------ */
 int no_papers_with_field(Field_HT *field_ht, const char *field,
                          int64_t ids_with_field[NMAX]) {
-
   unsigned int hash = field_ht->hash_function(field) % field_ht->hmax;
   struct Node *curr = field_ht->buckets[hash].head;
   int i = 0;

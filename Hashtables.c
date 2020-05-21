@@ -59,7 +59,8 @@ void add_citation(struct Citations_HT *ht, int64_t cited_paper_id) {
   new_paper->id = malloc(sizeof(cited_paper_id));
   DIE(new_paper->id == NULL, "paper->id");
 
-  memcpy(new_paper->id, &cited_paper_id, sizeof(cited_paper_id)); // copying key
+  // Copying key
+  memcpy(new_paper->id, &cited_paper_id, sizeof(cited_paper_id));
   new_paper->citations = FIRST_CITATION;
 
   // Add/chain => bascially appending to the current bucket
@@ -149,7 +150,7 @@ void add_venue(Venue_HT *ht, char *venue, int64_t id) {
   DIE(new_paper->venue == NULL, "new_paper->venue");
 
   memcpy(new_paper->venue, venue,
-         (strlen(venue) + 1) * sizeof(char)); // copying key
+         (strlen(venue) + 1) * sizeof(char));  // copying key
   new_paper->id = id;
 
   // Add/chain => bascially appending to the current bucket
@@ -219,7 +220,7 @@ void add_field(Field_HT *ht, char *field, int64_t id) {
 
   // long size = sizeof(field);
   memcpy(new_paper->field, field,
-         (strlen(field) + 1) * sizeof(char)); // copying key
+         (strlen(field) + 1) * sizeof(char));  // copying key
   new_paper->id = id;
 
   // Add/chain => bascially appending to the current bucket
@@ -288,7 +289,7 @@ void add_author(Authors_HT *ht, int64_t author_id, int64_t paper_id,
   new_author->author_id = calloc(1, sizeof(int64_t));
   DIE(new_author->author_id == NULL, "new_author->author_id calloc");
 
-  memcpy(new_author->author_id, &author_id, sizeof(int64_t)); // copying key
+  memcpy(new_author->author_id, &author_id, sizeof(int64_t));  // copying key
 
   // Values
   new_author->paper_id = paper_id;
@@ -361,7 +362,7 @@ void add_influence(Influence_HT *ht, int64_t influencer_id,
   new_influence->key = calloc(1, sizeof(int64_t));
   DIE(new_influence->key == NULL, "new_influence->influence_id calloc");
 
-  memcpy(new_influence->key, &influencer_id, sizeof(int64_t)); // copying key
+  memcpy(new_influence->key, &influencer_id, sizeof(int64_t));  // copying key
 
   // Values
   new_influence->value = imitator_id;
@@ -432,7 +433,7 @@ void add_marking(Markings_HT *ht, int64_t paper_id, int new_distance) {
   new_marking->id = malloc(sizeof(marking));
   DIE(new_marking->id == NULL, "new_marking->id");
 
-  memcpy(new_marking->id, &paper_id, sizeof(paper_id)); // copying key
+  memcpy(new_marking->id, &paper_id, sizeof(paper_id));  // copying key
   new_marking->visited = 1;
   new_marking->distance = new_distance;
 

@@ -494,7 +494,7 @@ int *get_histogram_of_citations(PublData *data, const int64_t id_author,
                                 int *num_years) {
   // Initializing variables
   int *histogram = calloc(INITIAL_HISTOGRAM_SIZE,
-                          sizeof(int)); // realloc la nevoie cu smart memsert
+                          sizeof(int));  // realloc la nevoie cu smart memsert
   DIE(histogram == NULL, "histogram calloc");
 
   *num_years = INITIAL_HISTOGRAM_SIZE;

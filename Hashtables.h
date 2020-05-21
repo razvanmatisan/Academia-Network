@@ -11,7 +11,7 @@
 #define FIRST_CITATION 1
 #define LEN_TITLE 300
 #define LEN_NAME 300
-#define MAX_AUTHORS 50
+#define MAX_AUTHORS 25
 #define NMAX 20000
 #define UNVISITED 0
 
@@ -93,8 +93,8 @@ void free_field_ht(Field_HT *ht);
  */
 typedef struct authors_paper {
   int64_t *author_id;
-  int64_t paper_id; //
-  int paper_year;   // these two could be unified
+  int64_t paper_id;
+  int paper_year;
 } authors_paper;
 
 typedef struct Authors_HT {
@@ -118,7 +118,7 @@ void free_author_ht(Authors_HT *ht);
  */
 typedef struct influenced_paper {
   int64_t *key;  // influencer paper id
-  int64_t value; // influenced paper id
+  int64_t value;  // influenced paper id
 } influenced_paper;
 
 typedef struct Influence_HT {

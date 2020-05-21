@@ -25,9 +25,9 @@ struct paper {
   int64_t *references;
   int num_refs;
 
-  int ok; // "Visited" mark
+  int ok;  // "Visited" mark
   int citations;
-  int distance; // Distance to the origin :)
+  int distance;  // Distance to the origin :)
 };
 
 struct publications_data {

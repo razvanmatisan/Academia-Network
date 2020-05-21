@@ -6,15 +6,14 @@ Studenti:
 + Radu-Stefan Minea
 
 Seria: CA
-
 Grupa: 314CA
-
-Timp petrecut pe tema: ~ 1 - 2 saptamani
+Timp petrecut pe tema: ~ 1 1/2 saptamani
 
 ===============================================================================
 ## Descrierea proiectului
 
-Academia Netowrk reprezinta un sistem ce agrega informatii despre articole stiintfice prelaute dintr-o baza de date de peste 100k astfel de elemente.
+Academia Netowrk reprezinta un sistem ce agrega informatii despre articole 
+stiintfice prelaute dintr-o baza de date de peste 100k astfel de elemente.
 
 Programul raspunde la query-uri folosind cele mai recente date salvate. 
 
@@ -30,15 +29,14 @@ compilate de un fisier Makefile. Acestea sunt:
 
 + Hashtables.c + .h -> contin implementarile tuturor hashtable-urilor folosite
 
-+ utils.c + .h -> contin implementarile functiilor auxiliare, folosite pentru rezolvarea taskurilor.
++ utils.c + .h -> contin implementarile functiilor auxiliare, folosite pentru 
+rezolvarea taskurilor.
 
 + publications.c + .h -> contin atat definirea structurii de date PublData, cat
 si rezolvarile propriu-zise ale taskurilor.
 
 ===============================================================================
 ## Rezolvarea task-urilor
-
-
 
 ### Task 1
 

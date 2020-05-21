@@ -16,7 +16,7 @@ make -f Makefile_tema3 clean
 
 # Zipping
 rm $ARCHIVE.zip
-zip $ARCHIVE.zip $PUBL.* $HT.* $LIST.* $Q.* $UTILS.* $MAKE
+zip $ARCHIVE.zip $PUBL.* $HT.* $LIST.* $Q.* $UTILS.* $MAKE README
 
 # Exporting
 unzip $ARCHIVE.zip -d $EXPORT
