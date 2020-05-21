@@ -11,7 +11,48 @@
 #define CURR_YEAR 2020
 #define MAX_YEAR 5000
 #define INITIAL_HISTOGRAM_SIZE 1
+#define DEBUG_ID 1595249433
+// 2075348548
 
+<<<<<<< HEAD
+=======
+struct author {
+    char *name;
+    int64_t id;
+    char *org;
+};
+
+struct info {
+    char *title;
+    char *venue;
+    int year;
+    Author **authors;
+    int num_authors;
+    char **fields;
+    int num_fields;
+    int64_t id;
+    int64_t *references;
+    int num_refs;
+
+    int ok; // "Visited" mark
+    int citations;
+    int distance; // Distance to the origin :)
+};
+
+struct publications_data {
+    struct LinkedList **buckets;
+    int hmax;
+    unsigned int (*hash_function)(void*);
+    int (*compare_function)(void *, void *);
+
+    Citations_HT *citations_ht;
+    Venue_HT *venue_ht;
+    Field_HT *field_ht;
+    Authors_HT *authors_ht;
+    Influence_HT *influence_ht;
+};
+
+>>>>>>> b7b4e066c588434e9ec28ff95f313da73fc8c6d2
 void init_info(Info *publication, const char* title, const char* venue,
     const int year, const char** author_names, const int64_t* author_ids,
     const char** institutions, const int num_authors, const char** fields,
@@ -102,6 +143,10 @@ PublData* init_publ_data(void) {
     DIE(data->authors_ht == NULL, "data->authors_ht calloc");
     init_authors_ht(data->authors_ht);
 
+    data->influence_ht = calloc(1, sizeof(Influence_HT));
+    DIE(data->influence_ht == NULL, "data->influence_ht calloc");
+    init_influence_ht(data->influence_ht);
+
     return data;
 }
 
@@ -149,6 +194,7 @@ void destroy_publ_data(PublData* data) {
     free_venue_ht(data->venue_ht);
     free_field_ht(data->field_ht);
     free_author_ht(data->authors_ht);
+    free_influence_ht(data->influence_ht);
 
     // Freeing PublData as a whole
     free(data);
@@ -165,6 +211,7 @@ void add_paper(PublData* data, const char* title, const char* venue,
     if (data == NULL) {
         return;
     }
+
 
     // Initializing data
     Info *publication = calloc(1, sizeof(Info));
@@ -206,6 +253,7 @@ void add_paper(PublData* data, const char* title, const char* venue,
     for (i = 0; i < num_refs; i++) {
         publication->references[i] = references[i];
         add_citation(data->citations_ht, references[i]);
+        add_influence(data->influence_ht, references[i], id);
     }
 
     // Package & Send
@@ -320,67 +368,70 @@ float get_venue_impact_factor(PublData* data, const char* venue) {
     return 0.f;
 }
 
-/* TODO: implement get_number_of_influenced_papers */
+/* TOFIX: implement get_number_of_influenced_papers */
 int get_number_of_influenced_papers(PublData* data, const int64_t id_paper,
     const int distance) {
+    // unsigned int hash;
+    // Influence_HT *ht = data->influence_ht;
 
-    int i;
-    unsigned int hash;
-    struct Node *curr;
-    Info *publication, *vertex;
+    // int cnt = 0;
+    // int curr_dist = 0;
 
-    int cnt = 0;
-    int curr_distance = 0;
+    // struct Queue *q = malloc(sizeof(struct Queue));
+    // init_q(q);
 
-    struct Queue *q = malloc(sizeof(struct Queue));
-    init_q(q);
+    // /* 
+    //  * Enqueing the given paper
+    //  * Marking it as visited
+    //  */
+    // Info *starting_paper = find_paper_with_id(data, id_paper);
+    // enqueue(q, starting_paper);
+    // starting_paper->ok = 1;
+    // starting_paper->distance = curr_dist;
 
-    /* 
-     * Enqueing the given paper
-     * Marking it as visited
-     */
-    Info *starting_paper = find_paper_with_id(data, id_paper);
-    enqueue(q, starting_paper);
-    starting_paper->ok = 1;
-    starting_paper->distance = curr_distance;
+    // // BFS
+    // while(curr_dist <= distance || !is_empty_q(q)) {
+    //     Info *influencer = (Info *)front(q);
+    //     int64_t influencer_id = influencer->id;
 
-    while(curr_distance <= distance || !is_empty_q(q)) {
-        vertex = (Info *)front(q);
-        dequeue(q);
+    //     hash = ht->hash_function(&influencer_id) % ht->hmax;
+    //     struct LinkedList *bucket = &ht->buckets[hash];
+    //     struct Node *it = bucket->head;
 
-        // Searching for further references through the vertex's references
-        for (i = 0; i < vertex->num_refs; i++) {
-            hash = data->hash_function(&vertex->references[i]) % data->hmax;
-            curr = data->buckets[hash]->head;
+    //     printf("INFLUENCER: %d\n", influencer_id);
+    //     // Iterating through the infleuncer's imitators
+    //     while (it) {
+    //         influenced_paper *imitator = it->data;
+    //         printf("I am %d\n", imitator->value);
+    //         printf("I am influenced by %lld\n", *(imitator->key));
+    //         if(ht->compare_function(imitator->key, &influencer_id) == 0) {
+    //             Info *imitator_paper = find_paper_with_id(data, imitator->value);
+    //             // New immitant found
+    //             if (!imitator_paper->ok) {
+    //                 enqueue(q, imitator_paper);
+    //                 imitator_paper->ok = 1;
+    //                 imitator_paper->distance = influencer->distance + 1;
+                    
+    //                 if (imitator_paper->distance > curr_dist) {
+    //                     curr_dist = imitator_paper->distance; // updating distance
+    //                 }
 
-            while (curr) {
-                publication = (Info *) curr->data;
+    //                 cnt++; // updating imitators count
 
-                if (publication->id == vertex->references[i]) {
-                    if (!publication->ok) {
-                        // Unvisited reference found
-                        enqueue(q, publication);
-                        publication->ok = 1;
-                        publication->distance = curr_distance + 1;
-                        cnt++;
-                    }
-                    break;
-                }
-                curr = curr->next;
-            }
-        }
-        vertex = (Info *) front(q);
-        if (vertex == NULL) {
-            break;
-        }
-        curr_distance = vertex->distance;
-    }
+    //             }
+    //         }            
+    //         it = it->next;
+    //     }
 
-    purge_q(q);
-    free(q);
-    free_aux_data(data, starting_paper);
+    //     dequeue(q); // done with it
+    // }
 
-    return cnt;
+    // purge_q(q);
+    // free(q);
+    // free_aux_data(data, starting_paper);
+
+    // return cnt;
+    return 0;
 }
 
 int get_erdos_distance(PublData* data, const int64_t id1, const int64_t id2) {
@@ -390,11 +441,55 @@ int get_erdos_distance(PublData* data, const int64_t id1, const int64_t id2) {
 }
 
 /* ------------------------ Taskul 5 -------------------------- */
+<<<<<<< HEAD
+=======
+int no_papers_with_field (Field_HT *field_ht, const char *field, int64_t ids_with_field[NMAX]) {
+    unsigned int hash = field_ht->hash_function(field) % field_ht->hmax;
+    struct Node *curr = field_ht->buckets[hash].head;
+    int i = 0;
+
+    while (curr) {
+        field_paper *publication = (field_paper *) curr->data;
+        if (!strcmp(publication->field, field)) {
+            ids_with_field[i] = publication->id;
+            i++;
+        }
+        curr = curr->next;
+    }
+
+    return i;
+}
+
+int compare_task5 (PublData *data, Info *publication1, Info *publication2) {
+    if (!publication1 || !publication2 || publication1->id == publication2->id) {
+        return 0;
+    }
+
+    publication1->citations = get_no_citations(data->citations_ht, publication1->id);
+    publication2->citations = get_no_citations(data->citations_ht, publication2->id);
+    //printf("%d\n", publication1->citations);
+
+    if (publication1->citations != publication2->citations) {
+        return publication1->citations - publication2->citations;
+    } else if (publication1->year != publication2->year) {
+        return publication1->year - publication2->year;
+    } else {
+        return publication2->id - publication1->id;
+    }
+}
+
+void swap (int64_t *a, int64_t *b) {
+    int64_t aux = *a;
+    *a = *b;
+    *b = aux;
+}
+>>>>>>> b7b4e066c588434e9ec28ff95f313da73fc8c6d2
 
 char** get_most_cited_papers_by_field(PublData* data, const char* field,
     int* num_papers) {
     /* TODO: implement get_most_cited_papers_by_field */
 
+    int i, j;
     int64_t ids_with_field[NMAX];
     int no_ids = no_papers_with_field(data->field_ht, field, ids_with_field);
 
@@ -409,14 +504,14 @@ char** get_most_cited_papers_by_field(PublData* data, const char* field,
     int num = *(int *)num_papers;
 
     char **titles = calloc(num, sizeof(char *));
-    for (int i = 0; i < num; i++) {
+    for (i = 0; i < num; i++) {
         titles[i] = calloc(LEN_TITLE, sizeof(char));
     }
 
-    /* Sorting */
-    for (int i = 0; i < no_ids - 1; i++) {
+    /* REPLACE WITH A QUICKSORT */
+    for (i = 0; i < no_ids - 1; i++) {
         Info *publication1 = find_paper_with_id(data, ids_with_field[i]);
-        for (int j = i + 1; j < no_ids; j++) {
+        for (j = i + 1; j < no_ids; j++) {
             Info *publication2 = find_paper_with_id(data, ids_with_field[j]);
             if (compare_task5(data, publication1, publication2) < 0) {
                 swap(&ids_with_field[i], &ids_with_field[j]);
@@ -424,7 +519,7 @@ char** get_most_cited_papers_by_field(PublData* data, const char* field,
         }
     }
 
-    for (int i = 0; i < num; i++) {
+    for (i = 0; i < num; i++) {
         Info *publication = find_paper_with_id(data, ids_with_field[i]);
         memcpy(titles[i], publication->title, (strlen(publication->title) + 1) * sizeof(char));
     }
@@ -461,10 +556,25 @@ int get_number_of_papers_between_dates(PublData* data, const int early_date,
 }
 
 /* ------------------  Taskul 7  ---------------------------------*/
+<<<<<<< HEAD
+=======
+int is_in_array (char *arr_to_find, char **arr, int length) {
+    int i;
 
+    for (i = 0; i < length; i++) {
+        if (!strcmp(arr[i], arr_to_find)) {
+            return 1;
+        }
+    }
+    return 0;
+}
+>>>>>>> b7b4e066c588434e9ec28ff95f313da73fc8c6d2
+
+/* TLE test 1 */
 int get_number_of_authors_with_field(PublData* data, const char* institution,
     const char* field) {
     /* TODO: implement get_number_of_authors_with_field */
+    int i, j;
     int cnt = 0;
 
     int64_t ids_with_field[NMAX];
@@ -473,14 +583,14 @@ int get_number_of_authors_with_field(PublData* data, const char* institution,
     char **author_names = calloc(MAX_AUTHORS, sizeof(char *));
     DIE(author_names == NULL, "author_names malloc");
 
-    for (int i = 0; i < MAX_AUTHORS; i++) {
+    for (i = 0; i < MAX_AUTHORS; i++) {
         author_names[i] = calloc(LEN_NAME, sizeof(char));
         DIE(author_names[i] == NULL, "author_names[i] malloc");
     }
 
-    for (int i = 0; i < no_ids; i++) {
+    for (i = 0; i < no_ids; i++) {
         Info *publication = find_paper_with_id(data, ids_with_field[i]);
-        for (int j = 0; j < publication->num_authors; j++) {
+        for (j = 0; j < publication->num_authors; j++) {
             Author *author = publication->authors[j];
             if (!strcmp(author->org, institution) && !is_in_array(author->name, author_names, cnt + 1)) {
                 memcpy(author_names[cnt], author->name, (strlen(author->name) + 1) * sizeof(char));
@@ -489,7 +599,7 @@ int get_number_of_authors_with_field(PublData* data, const char* institution,
         }
     }
 
-    for (int i = 0; i < MAX_AUTHORS; i++) {
+    for (i = 0; i < MAX_AUTHORS; i++) {
         free(author_names[i]);
     }
     free(author_names);
@@ -497,7 +607,7 @@ int get_number_of_authors_with_field(PublData* data, const char* institution,
     return cnt;
 }
 
-/* TODO: implement get_histogram_of_citations */
+/* DONE */
 int* get_histogram_of_citations(PublData* data, const int64_t id_author,
     int* num_years) {
     // Initializing variables

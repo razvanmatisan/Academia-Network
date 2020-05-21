@@ -326,3 +326,73 @@ void free_author_ht(Authors_HT *ht) {
     free(ht->buckets);
     free(ht);
 }
+
+void init_influence_ht(Influence_HT *ht) {
+    if (ht == NULL) {
+        return;
+    }
+
+    // Initializing authors HT
+    ht->hmax = HMAX;
+    ht->hash_function = hash_function_int;
+    ht->compare_function = compare_function_ints;
+
+    // Initializing buckets
+    ht->buckets = calloc(ht->hmax, sizeof(struct LinkedList));
+    DIE(ht->buckets == NULL, "Authors_HT: ht->buckets");
+
+    int i;
+    for (i = 0; i < ht->hmax; i++) {
+        init_list(&ht->buckets[i]);
+    }
+}
+
+void add_influence(Influence_HT *ht, int64_t influencer_id, int64_t imitator_id) {
+    if (ht == NULL) {
+        return;
+    }
+
+    unsigned int hash = ht->hash_function(&influencer_id) % ht->hmax;
+    struct LinkedList *bucket = &ht->buckets[hash];
+
+    influenced_paper *new_influence = (influenced_paper *)calloc(1, sizeof(influenced_paper));
+    DIE(new_influence == NULL, "add_influence->new_influence calloc");
+
+    // Allocating memory for key
+	new_influence->key = calloc(1, sizeof(int64_t));
+    DIE(new_influence->key == NULL, "new_influence->influence_id calloc");
+
+    memcpy(new_influence->key, &influencer_id, sizeof(int64_t)); // copying key
+	
+    // Values
+    new_influence->value = imitator_id;
+
+    // Add/chain => bascially appending to the current bucket
+    add_last_node(bucket, new_influence); 
+}
+
+void free_influence_ht(Influence_HT *ht) {
+    if (ht == NULL) {
+        return;
+    }
+
+    int i;
+    for (i = 0; i < ht->hmax; i++) {
+        struct LinkedList *bucket = &ht->buckets[i];
+        struct Node *it = bucket->head;
+        
+        struct Node *prev;
+        while (it != NULL) {
+            prev = it;
+            it = it->next;
+
+            influenced_paper *inside_data = (influenced_paper *)prev->data;
+            free(inside_data->key);
+            free(inside_data);
+            free(prev);
+        }
+    }
+
+    free(ht->buckets);
+    free(ht);
+}
