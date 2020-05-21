@@ -3,7 +3,43 @@
 
 #include <stddef.h>
 #include <stdlib.h>
-#include <stdint.h>
+
+typedef struct author {
+    char *name;
+    int64_t id;
+    char *org;
+} Author;
+
+typedef struct paper {
+    char *title;
+    char *venue;
+    int year;
+    Author **authors;
+    int num_authors;
+    char **fields;
+    int num_fields;
+    int64_t id;
+    int64_t *references;
+    int num_refs;
+
+    int ok; // "Visited" mark
+    int citations;
+    int distance; // Distance to the origin :)
+} Paper;
+
+struct publications_data {
+    struct LinkedList **buckets;
+    int hmax;
+    unsigned int (*hash_function)(void*);
+    int (*compare_function)(void *, void *);
+
+    struct Citations_HT *citations_ht;
+    struct Venue_HT *venue_ht;
+    struct Field_HT *field_ht;
+    struct Authors_HT *authors_ht;
+    struct Influence_HT *influence_ht;
+    struct Markings_HT *markings_ht;
+};
 
 /**
  * If the assertion is true, the program is closed and the file and line number
@@ -22,8 +58,6 @@
 /*
  * Will contain all data related to authors (name, id, organisation)
  */
-struct author;
-typedef struct author Author;
 
 /**
  * Will contain all the data that is necessary in order to implement the API
