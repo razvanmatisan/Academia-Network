@@ -1,0 +1,121 @@
+# Tema 3 SD - Academia Network
+
+Studenti:
+
++ Razvan-Andrei Matisan  
++ Radu-Stefan Minea
+
+Seria: CA
+
+Grupa: 314CA
+
+Timp petrecut pe tema: ~ 1 - 2 saptamani
+
+===============================================================================
+## Descrierea proiectului
+
+Academia Netowrk reprezinta un sistem ce agrega informatii despre articole stiintfice prelaute dintr-o baza de date de peste 100k astfel de elemente.
+
+Programul raspunde la query-uri folosind cele mai recente date salvate. 
+
+===============================================================================
+## Structura proiectului
+
+Rezolvarea temei este impartita pe mai multe fisiere .c sau .h care sunt
+compilate de un fisier Makefile. Acestea sunt:
+
++ LinkedList.c + .h -> contin implementarea unei liste simplu inlantuite
+
++ Queue.c + .h -> contin implementarea unei cozi
+
++ Hashtables.c + .h -> contin implementarile tuturor hashtable-urilor folosite
+
++ utils.c + .h -> contin implementarile functiilor auxiliare, folosite pentru rezolvarea taskurilor.
+
++ publications.c + .h -> contin atat definirea structurii de date PublData, cat
+si rezolvarile propriu-zise ale taskurilor.
+
+===============================================================================
+## Rezolvarea task-urilor
+
+
+
+### Task 1
+
+Cheia rezolvarii taskului 1 este o parcurgere BFS, pornind de la primul paper
+identificat prin id-ul dat ca parametru.
+
+Pentru parcurgerea BFS, ne-am folosit de o coada.
+
+Astfel, determinarea celei mai vechi influente pentru paper-ul dat a fost
+determinata folosind o variabila de tip Paper (oldest_influence) si o
+functie de comparare, care compara doua paper-uri dupa cele trei criterii
+mentionate in cerinta.
+
+Este important de mentionat faptul ca, in functia de comparare, numarul de
+citari a fost determinat apeland functia get_no_citations.
+
+Mai mult, elementele adaugate in coada sunt referintele paper-ului analizat
+in acel moment. Pentru a nu adauga un paper de mai multe ori, am initializat
+cu 0 o variabila ok in interiorul structurii ce descrie Paper-ul, ce devine
+1 in momentul in care a fost adaugat in coada.
+
+La final, ne folosim de functia clean_refs_aux_data si de o parcurgere DFS
+pentru a reinitializa cu 0 toate ok-urile.
+
+In cazul in care oldest_influence NU este NULL, returnam titlul paper-ului.
+Altfel, returnam "None"
+
+### Task 2
+Pentru rezolvarea acestei cerinte, ne-am folosit de Venue_HT
+(hashtable ce are drept key = venue si value = id-ul paper-ului), inclus in
+PublData.
+
+Cautarea paper-urilor se limiteaza, astfel, in a cauta intr-o lista simplu
+inlantuita toate id-urile corespunzatoare venue-ului dorit.
+
+Ca sa identificam numarul de citari ale unui paper, ne-am folosti de functia
+get_no_citations care are nevoie doar de id-ul paper-ului si de Citations_HT
+pentru a returna ceea ce ne dorim.
+
+Adunam toate citarile si numarul de paper-uri cu venue specific, facem media
+si returnam rezultatul dorit.
+
+### Task 3 - get_number_of_influenced_papers
+- Radu
+### Task 6
+- Radu
+### Task 7
+Pentru rezolvarea acestei cerinte, ne-am folosit de Field_HT
+(hashtable ce are drept key = field si value = id-ul paper-ului), inclus in
+PublData.
+
+Cautarea paper-urilor se limiteaza, astfel, in a cauta intr-o lista simplu
+inlantuita toate id-urile corespunzatoare venue-ului dorit.
+
+Pentru modularizare, am creat functia ids_with_field care adauga intr-un vector toate id-urile paper-urilor despre un field anume si returneaza numarul de elemente introduse in acesta.
+
+Mai departe, am parcurs acest vector si am numarat pentru fiecare paper in
+parte (returnat folosind functia find_paper_with_id) numarul de autori care
+fac parte de la institutia data ca parametru al functiei.
+
+Am avut grija sa nu numaram de doua ori un autor, retinand numele tuturor
+autorilor luati in considerare intr-un vector de stringuri.
+
+### Task 8
+- Radu
+
+===============================================================================
+## Structuri de date folosite
+
+===============================================================================
+## Limitari
+
++ Warning-uri de te plictisesti.
+
++ #include-uri in plus
+
++ PublData cu field-uri inutile (care se folosesc doar in cadrul ht-urilor mici, nu si in PublData as a whole)
+
+===============================================================================
+## Observatii
