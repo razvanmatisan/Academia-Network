@@ -1,7 +1,7 @@
 CC=gcc
 CFLAGS=-Wall -Wextra -Wpedantic -m32
 PUBL=publications
-DATA=data_structures
+DATA=Hashtables
 LIST=LinkedList
 QUEUE=Queue
 UTILS=utils

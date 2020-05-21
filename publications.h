@@ -1,44 +1,47 @@
+// Copyright [2020] Razvan-Andrei Matisan, Radu-Stefan Minea
+
 #ifndef PUBLICATIONS_H_
 #define PUBLICATIONS_H_
 
 #include <stddef.h>
+#include <stdint.h>
 #include <stdlib.h>
 
 typedef struct author {
-    char *name;
-    int64_t id;
-    char *org;
+  char *name;
+  int64_t id;
+  char *org;
 } Author;
 
-typedef struct paper {
-    char *title;
-    char *venue;
-    int year;
-    Author **authors;
-    int num_authors;
-    char **fields;
-    int num_fields;
-    int64_t id;
-    int64_t *references;
-    int num_refs;
+struct paper {
+  char *title;
+  char *venue;
+  int year;
+  Author **authors;
+  int num_authors;
+  char **fields;
+  int num_fields;
+  int64_t id;
+  int64_t *references;
+  int num_refs;
 
-    int ok; // "Visited" mark
-    int citations;
-    int distance; // Distance to the origin :)
-} Paper;
+  int ok; // "Visited" mark
+  int citations;
+  int distance; // Distance to the origin :)
+};
 
 struct publications_data {
-    struct LinkedList **buckets;
-    int hmax;
-    unsigned int (*hash_function)(void*);
-    int (*compare_function)(void *, void *);
+  struct LinkedList **buckets;
+  int hmax;
+  unsigned int (*hash_function)(void *);
+  int (*compare_function)(void *, void *);
 
-    struct Citations_HT *citations_ht;
-    struct Venue_HT *venue_ht;
-    struct Field_HT *field_ht;
-    struct Authors_HT *authors_ht;
-    struct Influence_HT *influence_ht;
-    struct Markings_HT *markings_ht;
+  struct Citations_HT *citations_ht;
+  struct Venue_HT *venue_ht;
+  struct Field_HT *field_ht;
+  struct Authors_HT *authors_ht;
+  struct Influence_HT *influence_ht;
+  struct Markings_HT *markings_ht;
 };
 
 /**
@@ -46,18 +49,14 @@ struct publications_data {
  * at which the program closes are printed to `stderr`, together with a given
  * message.
  */
-#define DIE(assertion, call_description)                        \
-    do {                                                        \
-        if (assertion) {                                        \
-            fprintf(stderr, "(%s:%u): ", __FILE__, __LINE__);   \
-            perror(call_description);                           \
-            exit(EXIT_FAILURE);                                 \
-        }                                                       \
-    } while (0)
-
-/*
- * Will contain all data related to authors (name, id, organisation)
- */
+#define DIE(assertion, call_description)                                       \
+  do {                                                                         \
+    if (assertion) {                                                           \
+      fprintf(stderr, "(%s:%u): ", __FILE__, __LINE__);                        \
+      perror(call_description);                                                \
+      exit(EXIT_FAILURE);                                                      \
+    }                                                                          \
+  } while (0)
 
 /**
  * Will contain all the data that is necessary in order to implement the API
@@ -77,30 +76,30 @@ struct publications_data;
 typedef struct publications_data PublData;
 
 /**
-* Initialising INFO element when added
-* All values MEMSETED
-*/
-void init_info(Paper *publication, const char* title, const char* venue,
-    const int year, const char** author_names, const int64_t* author_ids,
-    const char** institutions, const int num_authors, const char** fields,
-    const int num_fields, int64_t id, const int64_t* references,
-    const int num_refs);
+ * Initialising INFO element when added
+ * All values MEMSETED
+ */
+void init_info(Paper *publication, const char *title, const char *venue,
+               const int year, const char **author_names,
+               const int64_t *author_ids, const char **institutions,
+               const int num_authors, const char **fields, const int num_fields,
+               int64_t id, const int64_t *references, const int num_refs);
 
 /**
  * Initialises all the fields contained in the PublData structure.
  * Also allocates memory for the structure itself.
- * 
+ *
  * @return  a pointer to the newly created PublData structure
  */
-PublData* init_publ_data(void);
+PublData *init_publ_data(void);
 
 /**
  * Deallocates the memory that was previously allocated for the structure, then
  * deallocates the structure itself.
- * 
+ *
  * @param data  PublData structure whose data is to be deallocated
  */
-void destroy_publ_data(PublData* data);
+void destroy_publ_data(PublData *data);
 
 void destroy_paper(Paper *publication);
 
@@ -120,11 +119,11 @@ void destroy_paper(Paper *publication);
  *                      papers the current one references
  * @param num_refs      the length of the references array
  */
-void add_paper(PublData* data, const char* title, const char* venue,
-    const int year, const char** author_names, const int64_t* author_ids,
-    const char** institutions, const int num_authors, const char** fields,
-    const int num_fields, const int64_t id, const int64_t* references,
-    const int num_refs);
+void add_paper(PublData *data, const char *title, const char *venue,
+               const int year, const char **author_names,
+               const int64_t *author_ids, const char **institutions,
+               const int num_authors, const char **fields, const int num_fields,
+               const int64_t id, const int64_t *references, const int num_refs);
 
 /**
  * Computes the title of the oldest paper that has influenced the one with the
@@ -134,7 +133,7 @@ void add_paper(PublData* data, const char* title, const char* venue,
  * @param id_paper  the id of the paper the query is performed on
  * @return          the name of the oldest influence of the given paper
  */
-char* get_oldest_influence(PublData* data, const int64_t id_paper);
+char *get_oldest_influence(PublData *data, const int64_t id_paper);
 
 /**
  * Calculates the impact factor of the given venue.
@@ -145,7 +144,7 @@ char* get_oldest_influence(PublData* data, const int64_t id_paper);
  * @param venue     the name of the venue the query is performed on
  * @return          the desired impact factor
  */
-float get_venue_impact_factor(PublData* data, const char* venue);
+float get_venue_impact_factor(PublData *data, const char *venue);
 
 /**
  * Calculates the number of papers that the given paper has influenced, up to
@@ -157,8 +156,8 @@ float get_venue_impact_factor(PublData* data, const char* venue);
  * @return              number of papers that have been influenced by the
  *                      one given as parameter
  */
-int get_number_of_influenced_papers(PublData* data, const int64_t id_paper,
-    const int max_dist);
+int get_number_of_influenced_papers(PublData *data, const int64_t id_paper,
+                                    const int max_dist);
 
 /**
  * Calculates the Erdős distance between two authors.
@@ -168,7 +167,7 @@ int get_number_of_influenced_papers(PublData* data, const int64_t id_paper,
  * @param id2   the id of the other author
  * @return      the Erdős distance between the given authors
  */
-int get_erdos_distance(PublData* data, const int64_t id1, const int64_t id2);
+int get_erdos_distance(PublData *data, const int64_t id1, const int64_t id2);
 
 /**
  * Finds the most cited papers under a certain field of study and places their
@@ -182,8 +181,8 @@ int get_erdos_distance(PublData* data, const int64_t id1, const int64_t id2);
  *                      sorted increasingly by the number of citations and
  *                      lexicographically for equal number of citations
  */
-char** get_most_cited_papers_by_field(PublData* data, const char* field,
-    int* num_papers);
+char **get_most_cited_papers_by_field(PublData *data, const char *field,
+                                      int *num_papers);
 
 /**
  * Returns the number of papers that have been published between two given
@@ -195,8 +194,8 @@ char** get_most_cited_papers_by_field(PublData* data, const char* field,
  * @param late_date     the later date; early_date <= late_date
  * @return              the number of papers published between the given dates
  */
-int get_number_of_papers_between_dates(PublData* data, const int early_date,
-    const int late_date);
+int get_number_of_papers_between_dates(PublData *data, const int early_date,
+                                       const int late_date);
 
 /**
  * Computes the number of authors that have published papers studying the given
@@ -207,8 +206,8 @@ int get_number_of_papers_between_dates(PublData* data, const int early_date,
  * @param field         the field under which the authors have published
  * @return              the number of papers satisfying the above conditions
  */
-int get_number_of_authors_with_field(PublData* data, const char* institution,
-    const char* field);
+int get_number_of_authors_with_field(PublData *data, const char *institution,
+                                     const char *field);
 
 /**
  * Creates a vector representing the heights of a histogram that contains all
@@ -221,8 +220,8 @@ int get_number_of_authors_with_field(PublData* data, const char* institution,
  * @param num_years     the number of years since the author's first paper
  * @return              an array containing the histogram values for each year
  */
-int* get_histogram_of_citations(PublData* data, const int64_t id_author,
-    int* num_years);
+int *get_histogram_of_citations(PublData *data, const int64_t id_author,
+                                int *num_years);
 
 /**
  * Compiles a list of all papers that have influenced a given one, sorted
@@ -241,8 +240,8 @@ int* get_histogram_of_citations(PublData* data, const int64_t id_author,
  *                      order would result in the best understanding of the
  *                      given paper
  */
-char** get_reading_order(PublData* data, const int64_t id_paper,
-    const int distance, int* num_papers);
+char **get_reading_order(PublData *data, const int64_t id_paper,
+                         const int distance, int *num_papers);
 
 /**
  * Returns the name of the author that would be the best fit to coordinate a
@@ -256,8 +255,6 @@ char** get_reading_order(PublData* data, const int64_t id_paper,
  * @param id_author     the id of the student looking for a coordinator
  * @return              the name of the coordinator
  */
-char* find_best_coordinator(PublData* data, const int64_t id_author);
+char *find_best_coordinator(PublData *data, const int64_t id_author);
 
-void print_entry(PublData *data, int hash);
-
-#endif  /* PUBLICATIONS_H_ */
+#endif /* PUBLICATIONS_H_ */

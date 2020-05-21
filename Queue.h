@@ -1,11 +1,12 @@
+// Copyright [2020] Razvan-Andrei Matisan, Radu-Stefan Minea
+
 #ifndef QUEUE_H_
 #define QUEUE_H_
 
 #include <stddef.h>
-#include <stdint.h>
 
 struct Queue {
-    struct LinkedList *list;
+  struct LinkedList *list;
 };
 
 void init_q(struct Queue *q);
@@ -14,7 +15,7 @@ int get_size_q(struct Queue *q);
 
 int is_empty_q(struct Queue *q);
 
-void* front(struct Queue *q);
+void *front(struct Queue *q);
 
 void dequeue(struct Queue *q);
 
