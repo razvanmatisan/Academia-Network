@@ -4,45 +4,13 @@
 
 #include "publications.h"
 #include "data_structures.h"
+#include "LinkedList.h"
+#include "Queue.h"
+#include "utils.h"
 
 #define CURR_YEAR 2020
 #define MAX_YEAR 5000
 #define INITIAL_HISTOGRAM_SIZE 1
-
-struct author {
-    char *name;
-    int64_t id;
-    char *org;
-};
-
-struct info {
-    char *title;
-    char *venue;
-    int year;
-    Author **authors;
-    int num_authors;
-    char **fields;
-    int num_fields;
-    int64_t id;
-    int64_t *references;
-    int num_refs;
-
-    int ok; // "Visited" mark
-    int citations;
-    int distance; // Distance to the origin :)
-};
-
-struct publications_data {
-    struct LinkedList **buckets;
-    int hmax;
-    unsigned int (*hash_function)(void*);
-    int (*compare_function)(void *, void *);
-
-    Citations_HT *citations_ht;
-    Venue_HT *venue_ht;
-    Field_HT *field_ht;
-    Authors_HT *authors_ht;
-};
 
 void init_info(Info *publication, const char* title, const char* venue,
     const int year, const char** author_names, const int64_t* author_ids,
@@ -244,68 +212,7 @@ void add_paper(PublData* data, const char* title, const char* venue,
     add_last_node(data->buckets[hash], publication);
 }
 
-Info* find_paper_with_id(PublData *data, int64_t target_id) {
-    unsigned int hash = data->hash_function(&target_id) % data->hmax;
-    struct Node *curr = data->buckets[hash]->head;
-    Info *publication;
 
-    while (curr) {
-        publication = (Info *)curr->data;
-        if(publication->id == target_id) {
-            return publication;
-        }
-        curr = curr->next;
-    }
-
-    // Nothing found
-    return NULL;
-}
-
-
-/* DFS-Style breadcrum cleaing - cleaning strictly the path we've been up on */
-void free_aux_data(PublData *data, Info *start_publication) {
-    int i;
-
-    // Freeing current publications'
-    start_publication->ok = 0;
-    start_publication->citations = 0;
-    start_publication->distance = -1;
-
-    for (i = 0; i < start_publication->num_refs; i++) {
-        Info *curr_publication = find_paper_with_id(data, start_publication->references[i]);
-
-        // If current neighbors is found (added in the HT)
-        if (curr_publication) {
-            if (curr_publication->ok) {
-                // Freeing next's neighbors' aux data
-                free_aux_data(data, curr_publication);
-            }
-        }  
-    }
-}
-
-// > 0 --> older influence found
-int compare_task1 (PublData *data, Info *challenger, Info *titleholder) {
-    if (challenger == NULL || titleholder == NULL || challenger->id == titleholder->id) {
-        return 0;
-    }
-
-    if (challenger->year != titleholder->year) {
-        return titleholder->year - challenger->year;
-    } else {
-        if (!challenger->citations) {
-            challenger->citations = get_no_citations(data->citations_ht, challenger->id);
-        }
-        if (!titleholder->citations) {
-            titleholder->citations = get_no_citations(data->citations_ht, titleholder->id);
-        }
-        if(challenger->citations != titleholder->citations) {
-            return challenger->citations - titleholder->citations;
-        } else {
-            return titleholder->id - challenger->id;
-        }
-    }
-}
 
 
 /* DONE */
@@ -483,47 +390,6 @@ int get_erdos_distance(PublData* data, const int64_t id1, const int64_t id2) {
 }
 
 /* ------------------------ Taskul 5 -------------------------- */
-int no_papers_with_field (Field_HT *field_ht, const char *field, int64_t ids_with_field[NMAX]) {
-
-    unsigned int hash = field_ht->hash_function(field) % field_ht->hmax;
-    struct Node *curr = field_ht->buckets[hash].head;
-    int i = 0;
-
-    while (curr) {
-        field_paper *publication = (field_paper *) curr->data;
-        if (!strcmp(publication->field, field)) {
-            ids_with_field[i] = publication->id;
-            i++;
-        }
-        curr = curr->next;
-    }
-
-    return i;
-}
-
-int compare_task5 (PublData *data, Info *publication1, Info *publication2) {
-    if (!publication1 || !publication2 || publication1->id == publication2->id) {
-        return 0;
-    }
-
-    publication1->citations = get_no_citations(data->citations_ht, publication1->id);
-    publication2->citations = get_no_citations(data->citations_ht, publication2->id);
-    //printf("%d\n", publication1->citations);
-
-    if (publication1->citations != publication2->citations) {
-        return publication1->citations - publication2->citations;
-    } else if (publication1->year != publication2->year) {
-        return publication1->year - publication2->year;
-    } else {
-        return publication2->id - publication1->id;
-    }
-}
-
-void swap (int64_t *a, int64_t *b) {
-    int64_t aux = *a;
-    *a = *b;
-    *b = aux;
-}
 
 char** get_most_cited_papers_by_field(PublData* data, const char* field,
     int* num_papers) {
@@ -540,8 +406,6 @@ char** get_most_cited_papers_by_field(PublData* data, const char* field,
         *num_papers = no_ids;
     }
 
-
-
     int num = *(int *)num_papers;
 
     char **titles = calloc(num, sizeof(char *));
@@ -554,7 +418,7 @@ char** get_most_cited_papers_by_field(PublData* data, const char* field,
         Info *publication1 = find_paper_with_id(data, ids_with_field[i]);
         for (int j = i + 1; j < no_ids; j++) {
             Info *publication2 = find_paper_with_id(data, ids_with_field[j]);
-            if (compare_task5(data, publication2, publication1) > 0) {
+            if (compare_task5(data, publication1, publication2) < 0) {
                 swap(&ids_with_field[i], &ids_with_field[j]);
             }
         }
@@ -597,14 +461,6 @@ int get_number_of_papers_between_dates(PublData* data, const int early_date,
 }
 
 /* ------------------  Taskul 7  ---------------------------------*/
-int is_in_array (char *arr_to_find, char **arr, int length) {
-    for (int i = 0; i < length; i++) {
-        if (!strcmp(arr[i], arr_to_find)) {
-            return 1;
-        }
-    }
-    return 0;
-}
 
 int get_number_of_authors_with_field(PublData* data, const char* institution,
     const char* field) {
@@ -614,7 +470,7 @@ int get_number_of_authors_with_field(PublData* data, const char* institution,
     int64_t ids_with_field[NMAX];
     int no_ids = no_papers_with_field(data->field_ht, field, ids_with_field);
 
-    char **author_names = calloc(NMAX, sizeof(char *));
+    char **author_names = calloc(MAX_AUTHORS, sizeof(char *));
     DIE(author_names == NULL, "author_names malloc");
 
     for (int i = 0; i < MAX_AUTHORS; i++) {
@@ -698,18 +554,3 @@ char* find_best_coordinator(PublData* data, const int64_t id_author) {
     return NULL;
 }
 
-void print_entry(PublData *data, int hash) {
-    struct Node *curr = data->buckets[hash]->head;
-    
-    while(curr) {
-        Info *publication = curr->data;
-        printf("Title = %s\n", publication->title);
-        printf("Year = %d\n", publication->year);
-        printf("First author name = %s\n", publication->authors[0]->name);
-        printf("Second author name = %s\n", publication->authors[1]->name);
-        printf("Second author ID = %lld\n", publication->authors[1]->id);
-        printf("Third reference = %lld\n", publication->references[2]);
-        printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n"); 
-        curr = curr->next;
-    }   
-}
