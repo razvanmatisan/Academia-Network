@@ -3,7 +3,7 @@
 # Zips all relevant files and exports those needed to testing zone
 ARCHIVE=SD_T3
 PUBL=publications
-DATA=data_structures
+HT=Hashtables
 LIST=LinkedList
 Q=Queue
 UTILS=utils
@@ -16,7 +16,7 @@ make -f Makefile_tema3 clean
 
 # Zipping
 rm $ARCHIVE.zip
-zip $ARCHIVE.zip $PUBL.* $DATA.* $LIST.* $Q.* $UTILS.* $MAKE
+zip $ARCHIVE.zip $PUBL.* $HT.* $LIST.* $Q.* $UTILS.* $MAKE
 
 # Exporting
 unzip $ARCHIVE.zip -d $EXPORT

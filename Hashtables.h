@@ -1,3 +1,5 @@
+// Copyright [2020] Razvan-Andrei Matisan, Radu-Stefan Minea
+
 #ifndef DATA_STRUCTURES_H_
 #define DATA_STRUCTURES_H_
 
