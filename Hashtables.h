@@ -11,7 +11,7 @@
 #define FIRST_CITATION 1
 #define LEN_TITLE 300
 #define LEN_NAME 300
-#define MAX_AUTHORS 25
+#define MAX_AUTHORS 30
 #define NMAX 20000
 #define UNVISITED 0
 
