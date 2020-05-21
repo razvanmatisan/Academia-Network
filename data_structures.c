@@ -71,7 +71,7 @@ void free_info_list(struct LinkedList **pp_list) {
 	while (curr != NULL) {
 		copy_node = curr;
 		curr = curr->next;
-        destroy_info(copy_node->data);
+        destroy_paper(copy_node->data);
 		free(copy_node);
 	}
 	free(*pp_list);
@@ -210,7 +210,7 @@ void add_citation(struct Citations_HT *ht, int64_t cited_paper_id) {
 
     // Iterate through the bucket until keymatch
     struct Node *it = bucket->head;
-    while (it != NULL) {
+    while (it) {
         struct cited_paper *inside_data = (struct cited_paper *)it->data;
         // Key match
         if (ht->compare_function(inside_data->id, &cited_paper_id) == 0) {
@@ -244,12 +244,10 @@ int get_no_citations(Citations_HT *ht, int64_t paper_id) {
     unsigned int hash = ht->hash_function(&paper_id) % ht->hmax;
     struct Node *it = ht->buckets[hash].head;
 
-    //struct Node *it = bucket->head;
-    while (it != NULL) {
+    while (it) {
         cited_paper *inside_data = (cited_paper *)it->data;
         // Key match
-            // printf("%d %d\n", inside_data->id, paper_id);
-        if (compare_function_ints(inside_data->id, &paper_id) == 0) {
+        if (ht->compare_function(inside_data->id, &paper_id) == 0) {
             return inside_data->citations;
         }
         it = it->next;

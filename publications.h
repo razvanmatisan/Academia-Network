@@ -31,8 +31,8 @@ typedef struct author Author;
  * Define its fields in publications.c or any other file so that its fields
  * are transparent from outside the API.
  */
-struct info;
-typedef struct info Info;
+struct paper;
+typedef struct paper Paper;
 
 /**
  * Hashtable where:
@@ -46,7 +46,7 @@ typedef struct publications_data PublData;
 * Initialising INFO element when added
 * All values MEMSETED
 */
-void init_info(Info *publication, const char* title, const char* venue,
+void init_info(Paper *publication, const char* title, const char* venue,
     const int year, const char** author_names, const int64_t* author_ids,
     const char** institutions, const int num_authors, const char** fields,
     const int num_fields, int64_t id, const int64_t* references,
@@ -68,7 +68,7 @@ PublData* init_publ_data(void);
  */
 void destroy_publ_data(PublData* data);
 
-void destroy_info(Info *publication);
+void destroy_paper(Paper *publication);
 
 /**
  * Adds a new paper to the collection of known publications.
@@ -124,7 +124,7 @@ float get_venue_impact_factor(PublData* data, const char* venue);
  *                      one given as parameter
  */
 int get_number_of_influenced_papers(PublData* data, const int64_t id_paper,
-    const int distance);
+    const int max_dist);
 
 /**
  * Calculates the Erdős distance between two authors.
