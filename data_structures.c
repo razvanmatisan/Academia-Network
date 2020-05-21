@@ -8,8 +8,6 @@
 #include "LinkedList.h"
 #include "utils.h"
 
-
-
 void init_cit_ht(struct Citations_HT *ht) {
     if (ht == NULL) {
         return;

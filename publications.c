@@ -14,45 +14,6 @@
 #define DEBUG_ID 1595249433
 // 2075348548
 
-<<<<<<< HEAD
-=======
-struct author {
-    char *name;
-    int64_t id;
-    char *org;
-};
-
-struct info {
-    char *title;
-    char *venue;
-    int year;
-    Author **authors;
-    int num_authors;
-    char **fields;
-    int num_fields;
-    int64_t id;
-    int64_t *references;
-    int num_refs;
-
-    int ok; // "Visited" mark
-    int citations;
-    int distance; // Distance to the origin :)
-};
-
-struct publications_data {
-    struct LinkedList **buckets;
-    int hmax;
-    unsigned int (*hash_function)(void*);
-    int (*compare_function)(void *, void *);
-
-    Citations_HT *citations_ht;
-    Venue_HT *venue_ht;
-    Field_HT *field_ht;
-    Authors_HT *authors_ht;
-    Influence_HT *influence_ht;
-};
-
->>>>>>> b7b4e066c588434e9ec28ff95f313da73fc8c6d2
 void init_info(Info *publication, const char* title, const char* venue,
     const int year, const char** author_names, const int64_t* author_ids,
     const char** institutions, const int num_authors, const char** fields,
@@ -441,49 +402,6 @@ int get_erdos_distance(PublData* data, const int64_t id1, const int64_t id2) {
 }
 
 /* ------------------------ Taskul 5 -------------------------- */
-<<<<<<< HEAD
-=======
-int no_papers_with_field (Field_HT *field_ht, const char *field, int64_t ids_with_field[NMAX]) {
-    unsigned int hash = field_ht->hash_function(field) % field_ht->hmax;
-    struct Node *curr = field_ht->buckets[hash].head;
-    int i = 0;
-
-    while (curr) {
-        field_paper *publication = (field_paper *) curr->data;
-        if (!strcmp(publication->field, field)) {
-            ids_with_field[i] = publication->id;
-            i++;
-        }
-        curr = curr->next;
-    }
-
-    return i;
-}
-
-int compare_task5 (PublData *data, Info *publication1, Info *publication2) {
-    if (!publication1 || !publication2 || publication1->id == publication2->id) {
-        return 0;
-    }
-
-    publication1->citations = get_no_citations(data->citations_ht, publication1->id);
-    publication2->citations = get_no_citations(data->citations_ht, publication2->id);
-    //printf("%d\n", publication1->citations);
-
-    if (publication1->citations != publication2->citations) {
-        return publication1->citations - publication2->citations;
-    } else if (publication1->year != publication2->year) {
-        return publication1->year - publication2->year;
-    } else {
-        return publication2->id - publication1->id;
-    }
-}
-
-void swap (int64_t *a, int64_t *b) {
-    int64_t aux = *a;
-    *a = *b;
-    *b = aux;
-}
->>>>>>> b7b4e066c588434e9ec28ff95f313da73fc8c6d2
 
 char** get_most_cited_papers_by_field(PublData* data, const char* field,
     int* num_papers) {
@@ -556,19 +474,6 @@ int get_number_of_papers_between_dates(PublData* data, const int early_date,
 }
 
 /* ------------------  Taskul 7  ---------------------------------*/
-<<<<<<< HEAD
-=======
-int is_in_array (char *arr_to_find, char **arr, int length) {
-    int i;
-
-    for (i = 0; i < length; i++) {
-        if (!strcmp(arr[i], arr_to_find)) {
-            return 1;
-        }
-    }
-    return 0;
-}
->>>>>>> b7b4e066c588434e9ec28ff95f313da73fc8c6d2
 
 /* TLE test 1 */
 int get_number_of_authors_with_field(PublData* data, const char* institution,

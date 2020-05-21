@@ -37,6 +37,7 @@ struct publications_data {
     struct Venue_HT *venue_ht;
     struct Field_HT *field_ht;
     struct Authors_HT *authors_ht;
+    struct Influence_HT *influence_ht;
 };
 
 /**
