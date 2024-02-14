@@ -1,4 +1,4 @@
-# Tema 3 SD - Academia Network
+# Academia Network
 
 Studenti:
 
