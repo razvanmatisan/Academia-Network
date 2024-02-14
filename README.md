@@ -3,11 +3,7 @@
 Studenti:
 
 + Razvan-Andrei Matisan - razvan.matisan@stud.acs.upb.ro
-+ Radu-Stefan Minea     - radu_stefan.minea@stud.acs.upb.ro 
-
-Seria: CA
-Grupa: 314CA
-Timp petrecut pe tema: ~ 1 1/2 saptamani
++ Radu-Stefan Minea     - radu_stefan.minea@stud.acs.upb.ro
 
 ===============================================================================
 ## Descrierea proiectului
