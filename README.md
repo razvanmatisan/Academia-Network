@@ -5,7 +5,6 @@ Studenti:
 + Razvan-Andrei Matisan - razvan.matisan@stud.acs.upb.ro
 + Radu-Stefan Minea     - radu_stefan.minea@stud.acs.upb.ro
 
-===============================================================================
 ## Descrierea proiectului
 
 Academia Netowrk reprezinta un sistem ce agrega informatii despre articole 
@@ -13,7 +12,6 @@ stiintfice prelaute dintr-o baza de date de peste 100k astfel de elemente.
 
 Programul raspunde la query-uri folosind cele mai recente date salvate. 
 
-===============================================================================
 ## Rulare
 
 1. Construirea programului:
@@ -43,7 +41,7 @@ Programul raspunde la query-uri folosind cele mai recente date salvate.
         
     * Daca in terminal nu este furnizat niciun mesaj de tip eroare, inseamna ca
     a fost furnizat output-ul asteptat.
-===============================================================================
+
 ## Structura proiectului
 
 Rezolvarea temei este impartita pe mai multe fisiere .c sau .h care sunt
@@ -60,7 +58,7 @@ compilate de un fisier Makefile. Acestea contin urmatoarele implementari:
 + publications.c + .h -> contin atat definirea structurii de date PublData, cat
 si rezolvarile propriu-zise ale taskurilor.
 
-===============================================================================
+
 ## Structuri de date folosite
 
 Multe, muulte hashtable-uri + un graf "mascat"!
@@ -110,7 +108,7 @@ Multe, muulte hashtable-uri + un graf "mascat"!
     + Remove-urile se fac mereu de la inceputul listei (dequeue de la coada),
     asa ca pentru remove am tratat exclusiv acest caz
 
-===============================================================================
+
 ## Rezolvarea task-urilor
 
 ~~~~~~~~~ Task 1 ~~~~~~~~~
